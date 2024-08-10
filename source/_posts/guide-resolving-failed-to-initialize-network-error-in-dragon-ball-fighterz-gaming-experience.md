@@ -1,7 +1,7 @@
 ---
 title: "Guide: Resolving 'Failed to Initialize Network' Error in Dragon Ball FighterZ Gaming Experience"
-date: 2024-08-06 23:47:35
-updated: 2024-08-09 11:35:32
+date: 2024-08-09T00:49:04.109Z
+updated: 2024-08-10T00:49:04.109Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/2b5408cdd9aa5a17f9e7b91e863fefaf73cf6e1ac
 
 ## Dragon Ball FighterZ - Successfully Overcoming Network Setup Errors
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap74.jpg)
 
  Many people have reported an error “**Failed to initialize network** ” in**Dragon Ball FighterZ** , which causes the game unplayable. This is so frustrating, as you don’t know what you’ve done to cause the error.
@@ -62,10 +65,19 @@ Here’s what you can do:
 2. Click**Network & Internet** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b301a7d95.jpg)
 3. Scroll down and click**Network reset** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b3266bfa6.jpg)
 4. Click**Reset now** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b342f0b4a.jpg)
 5. Click**Yes** to confirm.  
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b374a7f94.jpg)
 6. Follow the on-screen instructions to finish the reset.
 7. Restart your computer, and connect to your WiFi or Ethernet, then open Dragon Ball FighterZ and see if it works.
@@ -76,6 +88,9 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b3bdbe2fe.jpg)
 2. Type the following command in cmd and press**Enter** on your keyboard.  
 _**netsh winsock reset**_  
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b406867ca.jpg)
 3. Wait for the command to run through the reset. Once complete, you’ll see something like “**Winsock reset completed successfully** “.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b42e5dfce.jpg)
@@ -84,6 +99,9 @@ _**netsh winsock reset**_
 
  If Dragon Ball FighterZ failed to initialize network still happens, don’t worry. There’s something else to try.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Update the network card driver
 
  Network adapter corruption can lead to the error ‘Failed to initialize network’ in Dragon Ball FighterZ, so you can update your network adapter driver to fix your problem.
@@ -100,6 +118,9 @@ OR
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b4975a0ab.jpg)
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** and get a**30-day money back guarantee** ).  
@@ -110,6 +131,9 @@ OR
 
 Still no luck? Okay, there’s one more thing to try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ### Fix 4: Update Windows 10
 
  If you’re using Windows 10, you can update Windows 10 in your computer to fix**Dragon Ball FighterZ failed to initialize network** . This does a trick for many people.
@@ -119,6 +143,9 @@ Still no luck? Okay, there’s one more thing to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b506bbbf3.jpg)
 3. Click**Check for updates** .
 4. Click**Download** to download any available updates.  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be2b539cac0e.jpg)
 5. Follow the on-screen instructions to finish the update.
 6. Open Dragon Ball FighterZ and it should be working.

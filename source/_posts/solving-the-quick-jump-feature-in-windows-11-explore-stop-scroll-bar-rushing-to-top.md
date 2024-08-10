@@ -1,7 +1,7 @@
 ---
 title: Solving the Quick Jump Feature in Windows 11 Explore - Stop Scroll Bar Rushing to Top
-date: 2024-08-06 14:18:44
-updated: 2024-08-09 12:27:10
+date: 2024-08-09T00:48:57.090Z
+updated: 2024-08-10T00:48:57.090Z
 tags:
   - win11
   - win10
@@ -19,16 +19,26 @@ If you are having problem making your scroll bar scroll to position other than t
   
 Let me be more clear to see if the description fits your situation: you open a folder in your**File Explorer**, let say, to see the pictures. After you finish viewing the first screen of the pictures, you want to scroll down a little bit to see more, but you find the scroll bar on the side won’t budge, it just keeps jumping to the top position no matter how many times you roll your mouse wheel.
   
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/scroll-bar-keeps-on-top.jpg)
 
 To solve this problem, you just need to do the following moves.
   
 1) Follow the path:**Start**button**\> Settings > Personalization**.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-button-settings-personalization-600x444.jpg)
 
 2) On the left side of the pane, choose**Colors**, and the on the right side of the pane, make sure the option**Automatically pick and accent color from my background**option is slide to **Off**.
   
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/automatically-pick-and-accent-color-from-my-background.jpg)
 
 There you go, problem solved.

@@ -1,7 +1,7 @@
 ---
 title: "Eliminating the Persistent Google Chrome System Crash Hoax: Tips & Tricks"
-date: 2024-08-07 16:53:54
-updated: 2024-08-09 10:39:31
+date: 2024-08-09T00:49:13.459Z
+updated: 2024-08-10T00:49:13.459Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/9da02215f8d6dfb96116e057205fda88318f3946f
 
 In Windows 10, when you show the full screen, you may want to hide the taskbar. You can set the taskbar automatically hide. But the frustrating thing is the taskbar won’t be hiding even if the auto-hide is enabled. If you meet Windows 10 taskbar not hiding issue, follow instructions to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## **First, verify the taskbar setting**
 
  If you have verified the taskbar is set to be hided automatically, skip this instruction. If not, follow steps below to verify the taskbar setting.
@@ -29,6 +33,9 @@ In Windows 10, when you show the full screen, you may want to hide the taskbar. 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584fd2199175c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Restart Windows Explorer**
 
  Restarting Windows Explorer will restart all of your Metro applications. This solution may solve the issue temporarily. If the issue continues, read on and try the next solution.
@@ -39,18 +46,30 @@ In Windows 10, when you show the full screen, you may want to hide the taskbar. 
 
  2\. In**Processes** tab, select**Windows Explorer** and click on**Restart** button.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584fd2697c4e9.jpg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## **Use following Workaround that May Work Like a Charm**
 
  This would be a trick to fix Windows 10 taskbar not hiding issue. It has worked for many uses who had encountered this issue.
 
  1\. Click on **SEARCH** button on taskbar.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584fd28b3f0cd.png)
 
  If you have SEARCH box on taskbar but not SEARCH button, click in the search box.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584fd2bc18938.png)
 
  2\. When search window pops up, click somewhere on desktop so search window disappear. After that, the taskbar should auto-hide normally.

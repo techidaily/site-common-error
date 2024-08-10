@@ -1,7 +1,7 @@
 ---
 title: Effortless Fixes for the Persistent Restart Problem in Windows 11
-date: 2024-08-07 13:51:49
-updated: 2024-08-09 12:23:45
+date: 2024-08-09T00:49:05.160Z
+updated: 2024-08-10T00:49:05.160Z
 tags:
   - win11
   - win10
@@ -35,6 +35,9 @@ Follow these steps.
 
  2\. Type**msconfig** in the run box and click on**OK** button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b682c885329.png)
 
  3\. Click the**Services** tab and check the box next to**Hide all Microsoft services** .
@@ -43,6 +46,9 @@ Follow these steps.
 
  4\. Click**Disable all** button and click**OK** button.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b6832001455.jpg)
 
 5\. Restart your PC for the changes to take effect.
@@ -69,6 +75,9 @@ Follow these steps to turn off Windows Firewall.
 
  3\. In left pane, select **Turn Windows Firewall on or off** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b68397e1a1b.jpg)
 
  4\. Select**Turn off Windows Firewall (not recommended)** . Then click**OK** button.  
@@ -90,10 +99,16 @@ Follow these steps to turn off Windows Firewall.
 
  2\. Type **services.msc** in the run box and click**OK** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b683dc1d976.png)
 
  3\. Find**Windows Update** service. Right-click on it and click **Stop** on the context menu.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b68456bd269.jpg)
 
  4\. Open**C:\\Windows\\SoftwareDistribution** and delete all contents there.
@@ -102,6 +117,9 @@ Follow these steps to turn off Windows Firewall.
 
  5\. Restart Windows Update service. Right-click on Windows Update service and click **Start** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b6849f82fa1.jpg)
 
 6\. Download the updates again.

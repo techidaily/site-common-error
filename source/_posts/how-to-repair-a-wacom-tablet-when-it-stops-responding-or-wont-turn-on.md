@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Wacom Tablet When It Stops Responding or Won't Turn On
-date: 2024-08-07 15:13:10
-updated: 2024-08-09 10:21:55
+date: 2024-08-09T00:49:14.601Z
+updated: 2024-08-10T00:49:14.601Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/23c6d535c7ad4efdb52e10a3b68daec9ba5e42c7d
 
 ## Surface Pen Won't Respond? Here’s How to Make It Work Again
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17e8955c895.png)
 
  Automatically update your Surface pen driver via **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to make it work again.
@@ -27,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/23c6d535c7ad4efdb52e10a3b68daec9ba5e42c7d
  **Solution 2:[Repair the Surface pen with your tablet](https://tools.techidaily.com/drivereasy/download/)**
  **Solution 3:[Update your Surface pen driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 1: Replace the battery of your Surface pen
 
  The Surface pen requires a AAAA battery. There is one coming with your new Surface pen. Once you find i cannot work, like the buttons on it cannot function, when you use it writing, nothing shows up, the first thing you should do is trying to replace its battery with a new one. Then restart your Surface, and try to use your pen to see if it works.
@@ -54,11 +60,22 @@ thumbnail: https://thmb.techidaily.com/23c6d535c7ad4efdb52e10a3b68daec9ba5e42c7d
  5) Then your Surface pen will be not shown under**Bluetooth** .  
  Press the**top button** on your pen for about 7 seconds until a green light flashing in the middle of your pen.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-7.png)
 
  6) Now your Surface pen will show up again under Bluetooth.  
  Tap**Pair** .
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-13.png)
 
 7)Try to use your pen to see if it works.
@@ -75,12 +92,18 @@ thumbnail: https://thmb.techidaily.com/23c6d535c7ad4efdb52e10a3b68daec9ba5e42c7d
 
  2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5987d80d3fd88.jpg)
 
 3) With FREE version: Click the **Update**  button next to a flagged headset driver to automatically download and install the correct driver.
 
 With Pro version: Click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/11.png)
 
 4) Restart your Surface, then try to use your pen to see if it works.

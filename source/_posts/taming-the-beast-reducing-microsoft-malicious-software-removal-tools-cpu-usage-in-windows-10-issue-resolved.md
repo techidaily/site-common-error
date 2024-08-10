@@ -1,7 +1,7 @@
 ---
 title: "Taming the Beast: Reducing Microsoft Malicious Software Removal Tool's CPU Usage in Windows 10 [ISSUE RESOLVED]"
-date: 2024-08-06 16:59:17
-updated: 2024-08-09 11:27:34
+date: 2024-08-09T00:48:55.848Z
+updated: 2024-08-10T00:48:55.848Z
 tags:
   - win11
   - win10
@@ -19,16 +19,25 @@ If you are having problem making your scroll bar scroll to position other than t
   
 Let me be more clear to see if the description fits your situation: you open a folder in your**File Explorer**, let say, to see the pictures. After you finish viewing the first screen of the pictures, you want to scroll down a little bit to see more, but you find the scroll bar on the side won’t budge, it just keeps jumping to the top position no matter how many times you roll your mouse wheel.
   
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/scroll-bar-keeps-on-top.jpg)
 
 To solve this problem, you just need to do the following moves.
   
 1) Follow the path:**Start**button**\> Settings > Personalization**.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/start-button-settings-personalization-600x444.jpg)
 
 2) On the left side of the pane, choose**Colors**, and the on the right side of the pane, make sure the option**Automatically pick and accent color from my background**option is slide to **Off**.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/automatically-pick-and-accent-color-from-my-background.jpg)
 
 There you go, problem solved.

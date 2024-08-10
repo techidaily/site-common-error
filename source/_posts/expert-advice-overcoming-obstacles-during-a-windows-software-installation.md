@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Overcoming Obstacles During a Windows Software Installation"
-date: 2024-08-07 10:59:28
-updated: 2024-08-09 11:53:26
+date: 2024-08-09T00:49:29.334Z
+updated: 2024-08-10T00:49:29.334Z
 tags:
   - win11
   - win10
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
 3. [**Reinstall your system without activating it**](#c)
 4. [**Find another source of installation media**](#d)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 1: Continue installation using Automatic Repair
 
  When your Windows installation process is stopped by the “could not complete” error, one effective method is to continue the process with the help of Advanced Recovery.
@@ -36,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
 
 **1)** Turn on your computer, and then when your Windows starts to load, turn it off immediately. Do it two to three times until you see a message that says “**Preparing Automatic Repair** “.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a698952129aa.png)
 
 **2)** Click**Advanced options** .
@@ -52,10 +58,16 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
 
 **5)** Select**Keep my files** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a698ae3d7538.png)
 
 **6)** Click**Cancel** . (No, you don’t need to reset your computer. Just click**Cancel** .)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a698b35940ae.png)
 
 **7)** Select**Continue** .
@@ -78,6 +90,9 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
 
 **3)** Click the**Update** button next to each of your devices to download the latest and correct driver for this device. You can also click the Update All button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click**Update All** ).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6999d636954.jpg)
 
 **4)** Restart your computer, then you have already had the latest drivers installed on your computer.
@@ -90,6 +105,9 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
 
 **2)**  Type “_**cd %windir%/system32/oobe/**_ ” and press**Enter** on your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c48a959cce0.png)
 
 **3)** Type “_**msoobe**_ ” and press**Enter** on your keyboard.
@@ -100,10 +118,16 @@ thumbnail: https://thmb.techidaily.com/de1ed084e4e7384a82650c7f3de48e6d0c70a32a5
 
 **5)**  Restart your computer and see if this fixes the error.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## Method 3: Reinstall your system without activating it
 
  Sometimes the error occurs when you are trying to install a specific version of Windows (such as Windows 10 Education). In this case, you can try reinstalling your system. But this time you should choose to install the Home version and don’t activate it during the installation. After the installation completes, use the product key to activate your system. It should run fine at this time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 4: Find another source of installation media
 
  The error may result from the system installer you use — maybe it’s corrupted or incorrect. You should make sure that your installation media is from a valid source. If it isn’t, try getting another reliable installation media from Microsoft and running it on your computer. Then check to see if the error disappears.

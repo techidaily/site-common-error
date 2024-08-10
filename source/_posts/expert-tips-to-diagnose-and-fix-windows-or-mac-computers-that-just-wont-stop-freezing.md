@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Diagnose & Fix Windows or Mac Computers That Just Won't Stop Freezing
-date: 2024-08-07 10:43:12
-updated: 2024-08-09 11:14:49
+date: 2024-08-09T00:49:20.914Z
+updated: 2024-08-10T00:49:20.914Z
 tags:
   - win11
   - win10
@@ -21,6 +21,9 @@ Your**Windows Store** has been acting up recently.
 
  Looks like there’s lots of work to do, but don’t despair just yet. In this article, we’ll offer you 3 quick and easy fixes to help you solve this nasty problem.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fixes for Windows Store cache may be damaged
 
  Before you try these fixes, please make sure your computer’s date, time and time zone are set correctly.
@@ -29,6 +32,9 @@ Your**Windows Store** has been acting up recently.
 2. **[Create a new Windows Store cache folder](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Microsoft store](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Reset the Windows Store cache
 
  As the error message suggests, the problem often happens when the  Windows Store cache  is damaged. By**resetting the Windows Store cache** , we can clear the cache of the apps and hopefully solve the problem.
@@ -39,6 +45,10 @@ Your**Windows Store** has been acting up recently.
 
 2) Wait until the whole Windows store cache reset process finishes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
 
 3) Once completed, Windows Store will pop open.
@@ -61,6 +71,9 @@ Your**Windows Store** has been acting up recently.
 
  2) Copy & paste **windowsstore** into the search box and double-click on **Microsoft.WindowsStore\_8wekyb3d8bbwe** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aebb40074eaa.jpg)
 
  3) Double-click on **LocalState** , see if there’s a folder named**cache** in it:
@@ -80,14 +93,23 @@ Your**Windows Store** has been acting up recently.
 
  1) On your keyboard, press**the Windows logo key** and type**apps** . Then  click**Apps & features** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae979accdd62.png)
 
  2) Copy & paste **Microsoft store** into the box. Then click **Microsoft store** \->**Advanced options** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeaacc5c8df4.jpg)
 
  3) Click**Reset** , and you’ll receive a confirmation button. Click **Reset** and close the window.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeace26d970e.png)
 
  4) Restart your computer and check if the problem has been sorted out.

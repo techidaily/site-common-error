@@ -1,7 +1,7 @@
 ---
 title: Fixing Unresponsive Touchpad Scroll Issues in Windows 10
-date: 2024-08-07 13:53:40
-updated: 2024-08-09 10:41:30
+date: 2024-08-09T00:49:18.982Z
+updated: 2024-08-10T00:49:18.982Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ Windows 10 update or upgrade may be causing hardware like touch screen not worki
 
  To use these solutions, you need to access Windows. Since the touch screen doesn’t work, use a mouse or keyboard instead. Tip: After plugging and setting up the mouse or keyboard, the touch screen may work again like a magic (This has worked for some Windows 10 users).
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Solution 1: Restart your PC**
 
  Restarting Windows always fixes hardware not working issues. Try this method and your touch screen may work like a charm.
@@ -35,6 +38,9 @@ To turning the touch screen off and back on, follow steps below:
 
  2\. View by Small icons and select**Device Manager** . This is to open Device Manager dialog box where you can disable the touch screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef21aba8f33.jpg)
 
  3\. Expand category “**Human Interface Devices** ” and right-click on**HID-compliant touch screen** then select**Disable** .
@@ -43,10 +49,16 @@ To turning the touch screen off and back on, follow steps below:
 
  4\. Click**Yes** to confirm this.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef234bcbb1a.png)
 
  5\. Right-click on **HID-compliant touch screen** again then select**Enable** .
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef257948924.png)
 
 ##
@@ -59,6 +71,9 @@ To turning the touch screen off and back on, follow steps below:
 
  2\. Expand category “ **Human Interface Devices** ” and right-click on **HID-compliant touch screen**  then select**Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58ef290945f3c.jpg)
 
  3\. Click**Driver** tab then click on**Roll Back Driver** . If you see button is grey out, it means that you can’t roll back the driver. Read on to try other solutions.
@@ -85,6 +100,9 @@ To turning the touch screen off and back on, follow steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## **Solution 5: Reset Windows 10**
 
  The final solution you can try is reset the Windows. If you are not sure how to do a reset on Windows, see[How to Reset Windows 10](https://tools.techidaily.com/drivereasy/download/) .

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Restoring Secured Browsing on Firefox After Failures"
-date: 2024-08-07 13:46:50
-updated: 2024-08-09 11:56:25
+date: 2024-08-09T00:49:01.606Z
+updated: 2024-08-10T00:49:01.606Z
 tags:
   - win11
   - win10
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
  Press**Windows** key +**R** key at the same time to open Run box.  
  Type**devmgmt.msc** in the box and hit**Enter** to open Device Manager.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-20.png)
 
  2)  
@@ -71,10 +74,16 @@ No worry to try its Pro version as it comes with a no-questions-asked **30-day m
 
  Type**sfc /scannow** in the open window and hit**Enter** to run it.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/11-2.jpg)
 
  Wait till Verification**100%** complete.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Solution 3\. Use Windows PowerShell**
 
  If your Operating System cannot verify the identities of the devices (such as playback and recording devices) and their drivers, you will meet the error either. In such case, we can use PowerShell to configure Windows to accept certificates.
@@ -84,12 +93,18 @@ No worry to try its Pro version as it comes with a no-questions-asked **30-day m
  Type**PowerShell** in the search box from Start menu.  
  Then right-click on **Windows PowerShell** from the top result and choose Run as Administrator.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-9.png)
 
  2)  
 
  Click**Yes** when prompted by**User Account Control** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-4.png)
 
  3)  
@@ -97,6 +112,9 @@ No worry to try its Pro version as it comes with a no-questions-asked **30-day m
  Type the following command in the pop-up window and press**Enter** .  
  **Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser**
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/9-4.png)
 
  4)  

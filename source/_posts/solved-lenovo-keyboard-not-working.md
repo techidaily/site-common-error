@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Lenovo Keyboard Not Working"
-date: 2024-08-07 15:40:47
-updated: 2024-08-09 10:46:40
+date: 2024-08-09T00:48:58.385Z
+updated: 2024-08-10T00:48:58.385Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/33904527a6e1718a50027f53fe767c2c1eedacdbd
 
 If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, try methods in this post. Try each of these methods in order. See if the keys works after each method. Move on to next method if the issue still persists. After trying all methods, the issue should resolve.  
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **Method 1: Uninstall Keyboard Driver in Device Manager**
 
  The keyboard would not work correctly if there’s a problem with the keyboard driver. Try to have the driver reloaded and see if the problem resolves.  
@@ -31,6 +34,9 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 
  3) Windows will prompt you to confirm the uninstallation. Click**OK**  button to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd3f6b4d25.png)
   
  4) Reboot your PC as soon as possible. Then Windows will load the keyboard driver automatically.
@@ -57,6 +63,18 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
 
  Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fc095f3.jpg)
 
 4) Restart your laptop, and check to see if your keyboard works.
@@ -65,6 +83,9 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
   
  We would try our best effort to help you fix the problem. In this case, you don’t need to spend more time on searching further solutions.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 3: Restart the HID Human Interface Service**
 
  If HID Human Interface Service is disabled, hotkeys won’t work at all.
@@ -74,10 +95,16 @@ If hotkeys on your Logitech keyboard don’t work correctly, to fix this issue, 
   
  2\. Type**services.msc** in the run box and click **OK** button.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd7d0f3270.png)
   
  3\. In the**Name** list of services in the Details pane, double-click**Human Interface Device Access** , and then make sure that the Startup type is set to Automatic.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd8aec4887.png) ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_576cd93f7da33.png)
   
  4\. If you change the setting, restart the computer for the change to take effect.

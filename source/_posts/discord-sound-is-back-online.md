@@ -1,7 +1,7 @@
 ---
 title: Discord Sound Is Back Online
-date: 2024-08-07 14:54:16
-updated: 2024-08-09 11:34:33
+date: 2024-08-09T00:49:13.045Z
+updated: 2024-08-10T00:49:13.045Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/fce57db6d0ca9f41bfe3bd2fdd239ef79b5c70d70
 
 Many users are experiencing a**Netflix no sound** issue on their computer. If you happen to be in the same situation, don’t worry. It’s often quite easy to fix…
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4 Fixes for **Netflix no sound**
 
  Here’re 4 fixes that have helped other users resolve the**Netflix no sound in Windows 10** issue. Just work your way down the list until the problem is fixed.
@@ -28,10 +31,16 @@ Many users are experiencing a**Netflix no sound** issue on their computer. If yo
 
  Before troubleshooting, please **make sure the volumes on your PC and the Netflix app are both turned up to at least audible levels** .
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Adjust your audio settings in Netflix
 
 1. In Netflix, play a video you want to watch.
 2. Click**the dialog icon** .  
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3816904a78d.jpg)
 3. Check if **surround sound (5.1)** is selected. If yes, then try changing it to a non-5.1 option.
 4. See if you can hear any sound from the video in Netflix. If the**no sound** problem still lingers on, you should try**Fix 2** , below.
@@ -48,8 +57,14 @@ Many users are experiencing a**Netflix no sound** issue on their computer. If yo
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run**Driver Easy** and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c380344efdc2.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c38035854a95.jpg)  
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
@@ -68,6 +83,9 @@ Here’s how to do it:
 2. In the**Playback** tab, click**the device** you want to play Netflix through (speakers , headphones, HDMI, or Digital Audio). Then click**Set Default** – **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c380de82d06b.jpg)
 3. Click the**Advanced** tab, then select**24 bit, 192000 Hz (Studio Quality)** from the drop-down menu and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3806f1e7aaf.jpg)
 4. Again, play an audio in Netflix to test if the**no sound on Netflix** issue has been fixed.
 

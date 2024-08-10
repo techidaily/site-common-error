@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Disable Touchpad Sync when You Connect an External Mouse in Windows 11"
-date: 2024-08-07 20:41:56
-updated: 2024-08-09 11:12:31
+date: 2024-08-09T00:49:19.303Z
+updated: 2024-08-10T00:49:19.303Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/7f563c6cc49d9e48b9aa551214712c5134f2db518
 
 ## Step-by-Step Walkthrough: Activating USB Tethering in Windows 10 Made Easy
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/usb.jpg)
 
  Want to use your phone’s mobile data on your Windows 10 PC? It’s easy. You’ll learn whatever you want to know about USB tethering in this guide.
@@ -26,6 +29,9 @@ Click the link below to get to your interested part:
 3. **[How do I tether my phone on Windows 10?](https://tools.techidaily.com/drivereasy/download/)**
 4. **[USB tethering not working on Windows 10?](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## What is USB tethering?
 
  You can share your phone’s mobile data with another device, like your laptop, through **tethering** . It makes your laptop be able to connect to the Internet when there’s no network connection. There are three types of tethering:**USB tethering** ,**Wi-Fi tethering** ,**Bluetooth tethering** .
@@ -44,6 +50,9 @@ It’s very easy to tether your phone on Windows 10, do these:
 
  1) Connect your phone with your Windows 10 through a compatible USB cable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
  2) Tap Settings ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a786756399a.png) on your phone.
 
  3) Tap **More networks**  \> **Tethering and portable hotspot** .
@@ -54,12 +63,18 @@ It’s very easy to tether your phone on Windows 10, do these:
 
  4) Tap to check **USB tethering** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a78f68dcbb1.png)
 
  5) If your Windows 10 is in a no wired and no wireless network place, it should then be used this network adapter automatically: **Remote NDIS based Internet Sharing Device** . It’s your USB tethering connection in the Windows 10.
 
  If you see**Enabled** on it, the tethering is successful. You’re able to access the Internet on your Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7908b22f5e.png)
 
 ## How do I fix USB tethering not working on Windows 10?
@@ -71,6 +86,9 @@ It’s very easy to tether your phone on Windows 10, do these:
 1. [Update your USB tethering driver via Driver Easy automatically](https://tools.techidaily.com/drivereasy/download/) **[ \[RECOMMENDED\]](https://tools.techidaily.com/drivereasy/download/)**
 2. [Replace the driver with the built-in one on your Windows 10 manually](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1: Update your USB tethering driver via Driver Easy automatically
 
 **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  is a very helpful and credible driver tool. It will automatically recognize Windows 10 or any other version of Windows system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
@@ -81,6 +99,9 @@ It’s very easy to tether your phone on Windows 10, do these:
 
  2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8bea488065.jpg)
 
 3) Click the **Update**  button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
@@ -91,6 +112,9 @@ Or click **Update All**  to automatically download and install the correct versi
 
  4) Restart your laptop. Then check to see if you can access the Internet on your Windows 10 via USB tethering.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Replace the driver with the built-in one on your Windows 10 manually
 
  1) On your keyboard, press**Windows logo key** **![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)**  and **X**  at the same time to invoke the quick access menu.
@@ -105,6 +129,9 @@ Or click **Update All**  to automatically download and install the correct versi
 
  4) Click**Browse my computer for driver software** .
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79e6f2a6c1.png)
 
  5) Click **Let me pick from a list of device drivers on my computer** .
@@ -113,6 +140,9 @@ Or click **Update All**  to automatically download and install the correct versi
 
  6) Click the small box beside the **Show compatible hardware** . Note: It’s ticked on by default. When you click it, it will get blank.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7a0b38a645.png)
 
  7) Wait for a few seconds, you should then see the screen shown below. Select **Microsoft**  \> **USB RNDIS6 Adapter** . Then click **Next** .

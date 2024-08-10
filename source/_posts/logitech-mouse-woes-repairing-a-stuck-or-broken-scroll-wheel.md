@@ -1,7 +1,7 @@
 ---
 title: "Logitech Mouse Woes: Repairing a Stuck or Broken Scroll Wheel"
-date: 2024-08-06 12:51:47
-updated: 2024-08-09 10:41:37
+date: 2024-08-09T00:49:37.979Z
+updated: 2024-08-10T00:49:37.979Z
 tags:
   - win11
   - win10
@@ -34,10 +34,16 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
  1) On your keyboard, press **the Windows logo key**  and **R** at the same time. Then copy and paste **steam://flushconfig** into the box and click OK.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b14aa5a80ac5.png)
 
  2) Click **OK**   to confirm the flush.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b14b1223a774.png)
 
 3) Re-launch Steam and see if Store loads properly.
@@ -52,6 +58,9 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
  2) Click on**Steam Client BootStrapper(32 bit)**  and then click**End task** .
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb4c9008b0.jpg)
 
  3) On your keyboard, press **the Windows logo key**  and **R**  at the same time, then copy & paste **C:\\Program Files (x86)\\Steam**  into the box and press **Enter**  .
@@ -63,6 +72,9 @@ If you opened Steam only to find**Store not loading** any more or even going all
 * Among the folders, delete all EXCEPT **Steamapps** , **Steamapps** and **Skins** .
 * Among the files, delete all EXCEPT **Steam.exe**  and **Ssfn** files (more than one).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb897dafd2.jpg)
 
 5) Launch Steam and it’ll update on itself.
@@ -83,6 +95,9 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
  2) Right-click on**Steam.exe** and click**Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eda2453493.jpg)
 
  3) Click the**Compatibility** tab, un-check all**the boxes** and click**Change settings for all users** (or**Show settings for all users** ).
@@ -91,24 +106,46 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
  4) Un-check all**the boxes** and click**Apply** \>**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4edbad49f8e.jpg)
 
 5) Run Steam again and check if Steam store opens properly.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Fix 4: Run Steam in Big Picture mode
 
  Running Steam in Big Picture mode is a proven workaround for most users who have had a blank Steam Store problem. To do so:
 
  1) On the bottom-right of your desktop, right-click on**Steam Client** and click**Big Picture** .
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ec27c142c2.jpg)
 
 2) Hopefully your Steam store shows up fine now.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Launch Steam from shortcut
 
  Another useful workaround to this **Steam-Store-not-loading** problem is to create a Steam shortcut to launch Steam. The original Steam application won’t be touched so you can run Steam from both. To do so:
@@ -135,6 +172,9 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 6: Want us to fix the problem for you?
 
  If the fix above didn’t work, and you don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you. All you need to do is **[buy a 1-year subscription to Driver Easy](https://tools.techidaily.com/drivereasy/download/)**   (just $29.95) and you get free technical support as part of your purchase. This means you can contact our computer technicians directly and explain your problem, and they’ll investigate to see if they can resolve it remotely.

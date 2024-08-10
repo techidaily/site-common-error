@@ -1,7 +1,7 @@
 ---
 title: How to Fix Typing Incorrect Characters on Your Keyboard
-date: 2024-08-07 21:18:16
-updated: 2024-08-09 11:22:17
+date: 2024-08-09T00:49:01.525Z
+updated: 2024-08-10T00:49:01.525Z
 tags:
   - win11
   - win10
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
  **Solution 2:[Reinstall your keyboard](#solution2)**
  **Solution 3:[Update your keyboard driver \[Recommended\]](#solution3)**
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Solution 1: Turn off the Sticky Keys and the Filter Keys feature
 
  Sticky Keys and Filter keys are two accessibility functions in the Windows operating system. Sticky Keys allows you to press one key at a time for keyboard shortcuts; Filter Keys tells the keyboard to ignore your brief or repeated keystrokes. If these two keyboard functions are enabled, sometimes your backspace key cannot work fine.
@@ -49,10 +52,16 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 2. Select**Accessibility** on the left panel, then scroll down the list on the right and click**Keyboard** under the Interaction section.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/win11-sticky-key1.jpg)
 3. Under the Sticky, Filter, and Toggle keys section, make sure the status of**Sticky Keys** and**Filter Keys** are all set to **Off** . If you see On, switch to Off.  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/win11-sticky-key2.jpg)
 
  Your backspace key should work now. Check to see if it works. If unfortunately not, please try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Solution 2: Reinstall your keyboard
 
  The corrupted connection between your keyboard and your Windows operating system could also make the backspace key stop working. You can reinstall your keyboard to solve it.
@@ -61,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/e31e2df1b932fa534e864f0527ff09c3f70b9b1af
 
 Follow these:
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/11/win-key-1.png)**  and **R**  at the same time to invoke the Run box.
 
  2) Type **devmgmt.msc**  and press **Enter** .
@@ -69,6 +81,9 @@ Follow these:
 
  3) Right-click on your keyboard software in the Keyboards section. Then click **Uninstall device** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a066e71dd09a.png)
 
  4) Reboot your computer; Windows should then reinstall your keyboard automatically. Then check to see if your backspace key works.
@@ -91,6 +106,9 @@ Follow these:
 
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0673b1aeb6b.jpg)
 
 4) Reboot your computer and check to see if your backspace key works.

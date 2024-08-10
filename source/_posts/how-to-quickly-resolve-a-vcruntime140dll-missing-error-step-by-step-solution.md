@@ -1,7 +1,7 @@
 ---
 title: "How to Quickly Resolve a VCRUNTIME140.dll Missing Error: Step-by-Step Solution"
-date: 2024-08-07 22:54:30
-updated: 2024-08-09 10:14:45
+date: 2024-08-09T00:49:21.811Z
+updated: 2024-08-10T00:49:21.811Z
 tags:
   - win11
   - win10
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/775033cec734e193d493811f769dcaa65d428fba2
 
 ## Resolving the Unknown Issuer Error in Mozilla Firefox - Quick Solutions
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c11ffb5cd5be.jpg)
 
  You might see an error message of**SEC\_ERROR\_UNKNOWN\_ISSUER** in Firefox, and you can’t open the webpages. This is frustrating. But don’t panic! There is something you can do to fix the error.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why does the error occur to my browser?
 
  When connecting securely, websites needs to provide a certificate issued from the certificate authority to ensure that it’s connected to the target website and the connection is encrypted. If you see “SEC\_ERROR\_UNKNOWN\_ISSUER” when opening a website, it means that Firefox default connection is not trusted as the certificate is unknown.
@@ -27,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/775033cec734e193d493811f769dcaa65d428fba2
 
 So don’t give up hope. There is something you can do to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are solutions to try. You don’t have to try them all; just work your way down the list until it works.
@@ -56,6 +65,10 @@ To do so, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12025bb9964.jpg)
 2. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box.
 3. Type**firefox.exe -P** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1202b7e8d62.jpg)
 4. **Firefox – Choose User Profile** will pop up. Click**Create Profile** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12020cdc034.png)
@@ -63,6 +76,9 @@ To do so, follow the steps below:
 6. Re-launch Firefox and log in your new user profile.
 7. Open the website again to see if your problem has been fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Disable SSL scanning in your antivirus software
 
  Sometimes your antivirus program prevents your computer from visiting the websites without certificate issuer. If you want to open the website that’s giving you the SEC\_ERROR\_UNKNOWN\_ISSUER error, you’ll need to disable SSL scanning in your antivirus program.
@@ -70,6 +86,9 @@ To do so, follow the steps below:
  Since there are many antivirus programs, the specific steps can be different. So we take Avast here as an example.
 
 1. Open Avast in your computer, and click**Menu** \>**Settings** on the upper right.  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200fecc285.jpg)
 2. Click**Components** on the left, and click**Customize** in the**Web Shield** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200c760b7e.jpg)

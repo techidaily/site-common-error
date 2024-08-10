@@ -1,7 +1,7 @@
 ---
 title: Audio Problem on YouTube for Windows 11? Here’s How You Can Solve It
-date: 2024-08-08 23:11:11
-updated: 2024-08-09 12:46:56
+date: 2024-08-09T00:49:36.752Z
+updated: 2024-08-10T00:49:36.752Z
 tags:
   - win11
   - win10
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 
 ## Audio Problem on YouTube for Windows 11? Here’s How You Can Solve It
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/audio.jpg)
 
  It’s annoying when you open a Youtube video but can only see the message:**Audio renderer error. Please restart your computer** . Don’t worry, you’re not alone. Here are a few ways for you to try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fixes for audio renderer error
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -33,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1: Replug your audio playback devices
 
  You may plug your audio playback devices (e.g. headphones) in your computer and use them to watch Youtube video. Unplugged your devices and plugged them back in, then the problem should be gone.  
@@ -47,24 +56,37 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Method 3: Run audio troubleshooting
 
  Windows 10 has a built-in troubleshooter to diagnose and automatically fix common problems. There are many troubleshooters for different problems. For the audio renderer error, you can run the audio troubleshooter to resolve the issue.
 
 1. Press the**Windows logo key** +**R** to open the Run box. Type “ms-settings: troubleshoot” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/01.jpg)
 2. Click**Playing Audio** . Then click**Run the troubleshooter** . Wait for the investigation complete.![](https://images.drivereasy.com/wp-content/uploads/2019/05/02.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 3. Choose the device that relates to the audio renderer error. Click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/14.jpg)
 4. If there’s an issue, you’ll see a repair strategy. Click “Yes” to fix it. Follow the on-screen instructions to finish the process.
 5. Restart your computer and check whether the issue is fixed or not.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4: Restart your Audio drivers
 
  Sometimes the operating system may occupy some dynamic system files which may affect your audio device and cause the error. Restarting audio driver could help release the occupied system files and make your audio device back to normal. Therefore, you can try restarting the audio driver to resolve the issue.
 
 1. Press the**Windows logo key** +**R** to open the Run box. Type “devmgmt.msc” and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/05.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 2. In the Device Manager, click**Sound, video and game controllers** . Right-click and choose**Disable device** on every audio adapter.![](https://images.drivereasy.com/wp-content/uploads/2019/05/07.jpg)
 3. Wait for a few seconds, right-click and choose**Enable device** on every audio adapter.![](https://images.drivereasy.com/wp-content/uploads/2019/05/08.jpg)
 4. Restart your computer and check whether the issue is fixed or not.
@@ -89,16 +111,25 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 6: Roll back your audio driver
 
  When you meet the error, you check your drivers and find they’ve already updated to the latest version. In this case, you must make sure they are compatible with your system. It’s because sometimes the latest version of device driver doesn’t work properly on your system and start interfering with the computer’s normal start-up process.  
  So, roll back your driver to the previous version to solve the issue.
 
 1. On your keyboard, press the**Windows logo key** and **R** together to invoke the Run box.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. Type “devmgmt.msc” and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/05-1.jpg)
 3. In the Device Manager, click**Sound, video and game controllers** , then right-click on your audio adapter device and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/10.jpg)
 4. Under the**Driver** tab, click **Roll Back Driver** , then follow the on-screen instructions to finish the process.  
 **Note** : If the Roll Back Driver option grayed out, you can download a previous driver from the manufacturer’s website and install it on your PC.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/11.jpg)
 5. Restart your computer, and see if the audio renderer error is fixed or not.
 
@@ -112,6 +143,9 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 2. Type “mmsys.cpl” and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/03-2.jpg)
 3. Under the**Playback** tab, select the audio device that meets the issue (if you have more than one audio device) and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/04-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Click the**Advanced** tab, select the sample rate that you wish to use. Then click**OK** . Back to the Sound window, click**Apply** \>**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/12.jpg)
 5. Open your ASIO driver settings and choose the**Audio** tab. Select the same Sample rate as the previous step.![](https://images.drivereasy.com/wp-content/uploads/2019/05/13.jpg)
 6. Restart your computer and see if the error has been resolved.

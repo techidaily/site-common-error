@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Netflix Blackout: A Complete Guide"
-date: 2024-08-07 11:46:32
-updated: 2024-08-09 10:27:21
+date: 2024-08-09T00:49:00.420Z
+updated: 2024-08-10T00:49:00.420Z
 tags:
   - win11
   - win10
@@ -32,12 +32,18 @@ Many users are experiencing a**Netflix no sound** issue on their computer. If yo
 
 1. In Netflix, play a video you want to watch.
 2. Click**the dialog icon** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3816904a78d.jpg)
 3. Check if **surround sound (5.1)** is selected. If yes, then try changing it to a non-5.1 option.
 4. See if you can hear any sound from the video in Netflix. If the**no sound** problem still lingers on, you should try**Fix 2** , below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -48,6 +54,9 @@ Many users are experiencing a**Netflix no sound** issue on their computer. If yo
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run**Driver Easy** and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c380344efdc2.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c38035854a95.jpg)  
@@ -57,6 +66,9 @@ Many users are experiencing a**Netflix no sound** issue on their computer. If yo
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### Fix 3: Adjust the built-in audio settings
 
  You can also try manually setting default devices and the default format to see if it fixes the**Netflix no sound** issue.
@@ -68,11 +80,17 @@ Here’s how to do it:
 2. In the**Playback** tab, click**the device** you want to play Netflix through (speakers , headphones, HDMI, or Digital Audio). Then click**Set Default** – **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c380de82d06b.jpg)
 3. Click the**Advanced** tab, then select**24 bit, 192000 Hz (Studio Quality)** from the drop-down menu and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3806f1e7aaf.jpg)
 4. Again, play an audio in Netflix to test if the**no sound on Netflix** issue has been fixed.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Update Microsoft Silverlight
 
  Microsoft Silverlight is a browser plug-in Netflix uses for more interactive media experiences. So you should try updating the program via**Windows Update** or **[Microsoft’s official website Silverlight homepage](https://www.microsoft.com/getsilverlight/get-started/install/default?reason=unsupportedplatform)**  to see if it can fix the**Netflix no sound** issue.

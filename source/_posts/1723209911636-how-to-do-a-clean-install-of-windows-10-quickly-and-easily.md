@@ -1,7 +1,7 @@
 ---
 title: How to Do a Clean Install of Windows 10, Quickly and Easily
-date: 2024-08-07 19:38:30
-updated: 2024-08-09 10:12:29
+date: 2024-08-09T00:48:57.171Z
+updated: 2024-08-10T00:48:57.171Z
 tags:
   - win11
   - win10
@@ -29,6 +29,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  Please be assured that Media Creation Tool is the official method for downloading ISOs for Windows 10\. This tool will help you download the correct Windows 10 installation files for your system and help you create an installation DVD or flash drive.  
   
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/media-creation-tool.jpg)
   
  2) After the download, double click the downloaded setup file to run the installation. Click**Accept** to continue.
@@ -41,10 +44,16 @@ If you have already installed Windows 10 on your computer, and you want to perfo
 
  4) Then you will be lead to a page where you need to select language, architecture and edition. If you are going to install it on a different PC, clear the check box before “**Use the recommended options for this PC** ” and fill in the information that you prefer and click**Next** to continue.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/select-language-architecture-and-edition-600x470.png)
   
  If you are going to use the installation media on the same PC that you create it, you can click**Next** to go ahead.  
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/select-language-windows-10-setup-600x470.png)
 
  5) Next, select whether you want the tool to create a bootable**USB flash drive** with the installation media, or just create an**ISO file** that can be used to burn to a DVD later. Select the option you want and click**Next** .
@@ -53,10 +62,16 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  We are demonstrating by choosing ISO file but the general procedure is mostly the same.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/choose-which-media-to-use-iso-file-usb-flash-drive-600x470.png)
 
  6) Choose a place where you want to save the finished ISO file and choose**Save** to continue. If you choose USB flash drive option, you should choose the right USB drive.  
   
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/select-a-path-600x487.jpg)
   
  7) It will take a while for Media Creation Tool to download the files and assemble your ISO.
@@ -65,6 +80,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
 
  8) When this process is finished, you could choose**Open DVD Burner** if you want to create a disc right now. Or you can just click**Finish** if you want to make a disc later.  
   
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/burn-the-iso-to-dvd.png)  9) With your USB drive or DVD inserted, restart your computer. Press a key for**Boot Menu** .
   
 **Note** : The key to press for Boot Menu varies for different motherboards. Usually the boot screen will show you which key to press.
@@ -78,6 +96,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  a) Follow the path**Start> Settings> Update & security> Recovery>** **Restart now** button under**Advanced startup** .
   
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/advanced-startup-restart-now.jpg)
 
  b) Then click**Troubleshoot> Advanced options** and you will see this page.
@@ -92,6 +113,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  11) Continue the clean install process normally until you see**Which type of installation do you want?** Choose**Custom** option to ensure that you are perform a clean install instead of and upgrade.
   
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/which-type-of-the-installation-do-you-want.jpg)
   
  12) Choose which partition you would like to install your system drive.
@@ -133,6 +157,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
 
  3) On the left panel, choose**Recovery** , and then choose**Get started** option under**Reset this PC** .
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b183962f937.png)
   
  4) Choose**Remove everything** to perform a**Reset** .
@@ -149,6 +176,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  6) Press**Reset** to start the reset process.
   
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/how-to-uninstall-windows-10-quickly-and-easily-5071.jpg)
   
  7) Wait for a while for the process to begin. When finished, you will need to set up your personal preference before logging onto your desktop.

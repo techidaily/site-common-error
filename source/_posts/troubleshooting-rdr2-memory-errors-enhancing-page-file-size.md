@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting RDR2 Memory Errors: Enhancing Page File Size"
-date: 2024-08-08 13:45:13
-updated: 2024-08-09 10:20:59
+date: 2024-08-09T00:49:04.086Z
+updated: 2024-08-10T00:49:04.086Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 
 Many**PUBG**players are recently reporting an issue with their game. Their PUBG is**not loading the** **texture of buildings and other objects**after they land on the ground, which makes the game graphics look retro. If you’re also experiencing this issue, don’t worry. You should be able to fix your issue with one of the solutions below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
 You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -26,10 +29,16 @@ You may not have to try them all; just work your way down the list until you fin
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Reinstall your game**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1: Press Tab when parachuting
 
 To fix your game graphics issue, you can make your game load the building texture before landing. To do so, when your parachute is pulled out, press the**Tab**key on your keyboard to bring up the inventory screen. Your game may freeze for a while, as it’s loading the texture. After that, check to see if this fixes your texture issues. Hopefully it does. But if not, there are still three fixes for you to try…
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Move your game files to your SSD (if you have one)
 
 If you’re using an solid-state drive (SSD), you should try moving your games file there to speed up the loading process. To move your game files to your SSD:**1)** On your Steam client, click**Steam**, then click**Settings**.
@@ -38,6 +47,9 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 
 **2)** Click**Downloads**, then click the**STEAM LIBRARY FOLDERS**button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdb536f27d.jpg)
 
 **3)** Click**ADD LIBRARY FOLDER**.
@@ -46,6 +58,9 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 
 **4)** Choose a folder on your SSD where you want to save your PUBG files. (If you want to create a new one, click **NEW FOLDER**.)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdd923b057.png)
 
 **5)** Click**CLOSE**.
@@ -58,6 +73,9 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 
 **7)** Click**LIBRARY**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe29b7bf54.jpg)
 
 **8)** Right click **PLAYERUNKNOWN’S BATTLEGROUNDS** , then click**Properties** .
@@ -70,6 +88,9 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 
 **10)** Select the new folder you’ve created, then click**MOVE FOLDER**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe4dad26a2.png)
 
 Steam will move your PUBG files to that new folder. You can then check to see if this fixes your building texture issues.
@@ -78,6 +99,9 @@ Steam will move your PUBG files to that new folder. You can then check to see if
 
 Your game may not be able to load the building texture properly if you’re not using a correct graphics driver or it’s out of date. You should update this driver to see if this fixes your issue. If you don’t have the time, patience or skills to update your printer driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . **Driver Easy**  will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.  You can download and install your drivers by using either Free or **Pro**  version of Driver Easy. But with the Pro version it takes only **2**  clicks (and you get **full support** and a **30-day money back guarantee** ): **1)** [**Download**](https://tools.techidaily.com/drivereasy/download/) and install **Driver Easy** . **2)** Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed68ebd56d.jpg)
 
 **3)**  Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).

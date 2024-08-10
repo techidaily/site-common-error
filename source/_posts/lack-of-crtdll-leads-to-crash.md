@@ -1,7 +1,7 @@
 ---
 title: Lack of crt.dll Leads to Crash
-date: 2024-08-07 17:30:58
-updated: 2024-08-09 10:21:12
+date: 2024-08-09T00:49:13.111Z
+updated: 2024-08-10T00:49:13.111Z
 tags:
   - win11
   - win10
@@ -50,6 +50,9 @@ If the issue is still there, move to the next fix.
 
 You should be able to play multiplayer mode.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Check the connection
 
  You can only play COD: WW 2 with stable and constant internet. So check your connection from the console and try reconnecting to Xbox live. This bug could be related to the internet connection.
@@ -75,17 +78,26 @@ Use a wired connection if you’re a PC player.
 2. Go to **Settings** and select **Network** .
 3. In the right-hand column, select **Test network connection** , and allow the test to run.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Reinstall the game
 
  Uninstall the game and reinstall it could simply rewrite data files. The error code may be fixed by this fix.
 
 1. Press**the Windows logo key and R** on your keyboard at the same time to invoke the Run box.
 2. Type **appwiz.cpl** , then press **Enter** on your keyboard.  
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right-click this game in the list and select **Uninstall** ).
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## System requirements for PC players
 
 #### Minimum requirements
@@ -124,6 +136,9 @@ Use a wired connection if you’re a PC player.
 | **HDD**              | 175GB                             |
 | **Memory**           | 16 GB RAM                         |
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Update your driver
 
  It is very important to update your drivers, especially for gamers. To geta a better gaming experience, your device driver should be upgraded to the latest version. This can prevent your computer from potential problems.
@@ -143,6 +158,9 @@ Use a wired connection if you’re a PC player.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 

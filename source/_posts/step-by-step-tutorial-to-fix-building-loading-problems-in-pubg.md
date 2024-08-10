@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial to Fix Building Loading Problems in PUBG
-date: 2024-08-07 15:55:23
-updated: 2024-08-09 10:12:54
+date: 2024-08-09T00:49:30.640Z
+updated: 2024-08-10T00:49:30.640Z
 tags:
   - win11
   - win10
@@ -34,6 +34,9 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
  1) On your keyboard, press **the Windows logo key**  and **R** at the same time. Then copy and paste **steam://flushconfig** into the box and click OK.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b14aa5a80ac5.png)
 
  2) Click **OK**   to confirm the flush.
@@ -44,6 +47,9 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### **Fix 2: Update Steam**
 
  Updating steam is another effective way to fix game bugs. And rest assured all your game data will be safe if done correctly. To do so:
@@ -52,6 +58,10 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
  2) Click on**Steam Client BootStrapper(32 bit)**  and then click**End task** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb4c9008b0.jpg)
 
  3) On your keyboard, press **the Windows logo key**  and **R**  at the same time, then copy & paste **C:\\Program Files (x86)\\Steam**  into the box and press **Enter**  .
@@ -63,6 +73,9 @@ If you opened Steam only to find**Store not loading** any more or even going all
 * Among the folders, delete all EXCEPT **Steamapps** , **Steamapps** and **Skins** .
 * Among the files, delete all EXCEPT **Steam.exe**  and **Ssfn** files (more than one).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb897dafd2.jpg)
 
 5) Launch Steam and it’ll update on itself.
@@ -73,12 +86,18 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Remove Steam compatibility
 
  Compatibility mode is usually not recommended for Steam to function smoothly. So we might have to turn off the mode to see if the**Store-not-loading** problem gets fixed:
 
  1) On your keyboard, press **the Windows logo key**  and **R**  at the same time, then copy & paste **C:\\Program Files (x86)\\Steam**  into the box and press **Enter**  .
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4eb7602a8e8.png)
 
  2) Right-click on**Steam.exe** and click**Properties** .
@@ -91,12 +110,18 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
  4) Un-check all**the boxes** and click**Apply** \>**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4edbad49f8e.jpg)
 
 5) Run Steam again and check if Steam store opens properly.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Fix 4: Run Steam in Big Picture mode
 
  Running Steam in Big Picture mode is a proven workaround for most users who have had a blank Steam Store problem. To do so:
@@ -109,6 +134,9 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Launch Steam from shortcut
 
  Another useful workaround to this **Steam-Store-not-loading** problem is to create a Steam shortcut to launch Steam. The original Steam application won’t be touched so you can run Steam from both. To do so:
@@ -119,6 +147,9 @@ If you opened Steam only to find**Store not loading** any more or even going all
 
  2) Locate and right-click on **Steam.exe** and click**Create shortcut** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ee2106c035.jpg)
 
  3) Right-click on**Steam – Shortcut** and click**Properties** .

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Challenges: Opening Applications via Internal Admin Accounts Successfully"
-date: 2024-08-06 20:39:33
-updated: 2024-08-09 12:11:55
+date: 2024-08-09T00:49:16.457Z
+updated: 2024-08-10T00:49:16.457Z
 tags:
   - win11
   - win10
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 5. [**Reinstall Sims 4 or Origin**](#solution5)
 6. **[Perform a clean boot](#solution6)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 1: Repair the game
 
 **When Sims 4 won’t start or crashes** , the first solution you can try is to repair the game in Origin. For how to repair the game, follow steps below:
@@ -42,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 
 4) Check to see if Sims 4 opens.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 2: Update the video card driver
 
 **Sims 4 crashing at startup issue** is probably caused by outdated video card drivers. So to fix the problem, you can try to update the video card driver.
@@ -58,16 +64,25 @@ thumbnail: https://thmb.techidaily.com/4916a6d483134297a5c5a01cc889f69aabd6291d8
 
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
  3) Click the**Update** button next to a flagged video card driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
 
 ## Solution 3: Update the network controller driver
 
  The faulty network controller driver could also be the cause. If updating video card doesn’t work for you, try to update the network controller driver. To save time, you can also use[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) to help update the network controller driver automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Solution 4: Reset Sims 4
 
 **Sims 4 not launching** problem can be caused by corrupted save files. So you can try to**[reset the game](#reset)** to reload the files.
@@ -88,6 +103,9 @@ How to back up the game:
 
  4) Right-click on the copied folder and select**Rename** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac344bfdd6b0.jpg)
 
  5) Change the name of the folder  to something you’ll remember, like**Sims 4 Backup** .
@@ -122,10 +140,16 @@ How to back up the game:
 
  5) Check to see if Sims 4 opens.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 5: Reinstall Sims 4 or Origin
 
  When you can’t open Sims 4 successfully, you can try to**reinstall the game** . If reinstalling the game doesn’t work, try to**reinstall the Origin client** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Solution 6: Perform a clean boot
 
  The problem can be caused by software conflict. You can perform a clean boot to troubleshoot the software causing this issue. For detailed instructions about how to perform a clean boot, please see[How to Perform a Clean Boot in Windows](https://support.microsoft.com/en-us/help/929135/how-to-perform-a-clean-boot-in-windows) .

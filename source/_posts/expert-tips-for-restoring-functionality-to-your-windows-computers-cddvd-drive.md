@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Restoring Functionality to Your Windows Computer's CD/DVD Drive
-date: 2024-08-08 11:30:56
-updated: 2024-08-09 10:57:50
+date: 2024-08-09T00:48:55.691Z
+updated: 2024-08-10T00:48:55.691Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 
  Having trouble using your Wacom tablet? You’re not alone. Many Wacom users are reporting it. But the good news is you can fix it. Here are 3 solutions to try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 3 fixes you can try to fix Wacom not working issue. You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -25,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 2. **[Update Wacom driver](#b)**
 3. **[Restart Wacom service](#c)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Fix 1: Reconnect your Wacom tablet to your computer
 
  Some programs running on your computer may conflict with Wacom service, resulting in errors when you’re using your tablet. Try reconnecting your Wacom tablet to your computer to see if it can works correctly then. Here is how:
@@ -73,6 +80,9 @@ OR
 
  Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (atahis requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-22.png)
 
  You can do it for free if you like, but it’s partly manual.
@@ -85,11 +95,25 @@ OR
 
 1. **On your keyboard, press the Windows logo key and R at the same time to open the Run box.**  
  On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run box.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-12-31_14-52-28.jpg)
 2. **Type services.msc, then press the Enter key on your keyboard.**  
  Type **services.msc** , then press the**Enter** key on your keyboard.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-12-31_14-53-02.jpg)
 3. **Right-click the TabletServiceWacom and click Restart.**  
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Right-click the **TabletServiceWacom** and click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-12-31_14-54-25.jpg)
 
  Hopefully, this article helped! If you have any suggestions or questions, feel free to leave a comment below.

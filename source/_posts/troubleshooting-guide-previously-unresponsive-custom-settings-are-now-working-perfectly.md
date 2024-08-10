@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Previously Unresponsive Custom Settings Are Now Working Perfectly"
-date: 2024-08-06 22:41:14
-updated: 2024-08-09 10:31:45
+date: 2024-08-09T00:49:36.278Z
+updated: 2024-08-10T00:49:36.278Z
 tags:
   - win11
   - win10
@@ -26,6 +26,9 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 3. **[Power cycle your console](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your controller software](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 1: Check the status of your controller
 
  You should check the basic status of your controller and see if there is any issue that causes the problem.
@@ -44,6 +47,9 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 **2)**  Press and hold the**connect** button on the back of the controller till the**Xbox button flashes** . After a few seconds you can see it switch back to a**solid light** , which means it is re-synced.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5941ebcab3903.jpg)
 
  If this method works for you, the connection between your controller and your console will recover.
@@ -56,6 +62,9 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
  Check to see your controller can connect to the console or not. You can unplug the cable after the whole process.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Method 3: Power cycle your console
 
  Power cycling your console means fully rebooting the console. It can fix some corruption issues in your console as well as your controller connection. To power cycle the console:
@@ -68,6 +77,9 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 **3)** Check and see if your controller can connect to the console.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 4: Update your controller software
 
  The problem may occur if the controller software is wrong or out of date. You can update your controller software to see if it can bring back your controller connection. To do so:
@@ -78,6 +90,9 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 **3)** Press the**Menu** button on your controller, and then select**Settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420064c2629.png)
 
 **4)** Select**Devices & accessories** .
@@ -94,6 +109,9 @@ A lot of Xbox One users are wondering how they can connect their Xbox One contro
 
 **7)**  Select**Continue** .
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59420222745a9.png)
 
 **8)**  Wait for the console to complete the updating process. After that, test your controller and see if the not syncing problem is fixed.

@@ -1,7 +1,7 @@
 ---
 title: Monster Hunter World PC Connected? Here’s How You Fixed It
-date: 2024-08-06 20:30:34
-updated: 2024-08-09 11:19:54
+date: 2024-08-09T00:49:23.775Z
+updated: 2024-08-10T00:49:23.775Z
 tags:
   - win11
   - win10
@@ -21,6 +21,9 @@ Monster Hunter: World is a popular action RPG game released on August 9th, 2018\
 
  Before you start any complicated solutions, let’s check if your computer has met the **[Monster Hunter: World system requirements](https://tools.techidaily.com/drivereasy/download/)**  !
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  If your computer meets the minimum system requirements, then we need to identify the cause for the disconnection.
@@ -43,6 +46,9 @@ Monster Hunter: World is a popular action RPG game released on August 9th, 2018\
 
  Normally, if you play MHW on Steam you will receive the notification of updating but you may miss it when you have a connection issue. And it’s no harm to check.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Fix 2: Play with Windowed mode
 
  Play Monster Hunter World with windowed mode and disable Steam overlay may help you fix the disconnect issue.
@@ -53,17 +59,26 @@ Monster Hunter: World is a popular action RPG game released on August 9th, 2018\
 
 1. Run Steam.
 2. Click**Steam** in the left corner and select**Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/s1.jpg)
 3. Select**In-Game** in the left pane and uncheck**Enable the Steam Overlay while in-game** . Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/s2.jpg)
 4. Run MHW.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Looking for server from your region
 
  Your geographical location and the people you connect to would affect stability. This is one of the possible elements of the disconnect issue.
 
  This means if you’re from the USA trying to connect to someone from Japan, you would have a latency thing and have a bad time. So, you can look for servers from your region or host your own and let people join you.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Add “-nofriendsui -udp” OR “-nofriendsui -tcp” as Steam launch options
 
  The issue could be on Steam. Steam updates the Friends UI but it doesn’t work well with Monster Hunter World. So this fix could help you force Steam use the older Friends UI to solve the problem.
@@ -73,6 +88,9 @@ Monster Hunter: World is a popular action RPG game released on August 9th, 2018\
 **Note** : Add a space after the existing quotation mark.  
   -nofriendsui -udp   OR   -nofriendsui -tcp  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/mhw.jpg)
 3. Click**Apply > OK** .
 4. Relaunch Steam and check the connection.

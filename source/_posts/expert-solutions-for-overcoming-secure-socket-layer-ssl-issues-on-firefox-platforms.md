@@ -1,7 +1,7 @@
 ---
 title: Expert Solutions for Overcoming Secure Socket Layer (SSL) Issues on Firefox Platforms
-date: 2024-08-06 17:31:55
-updated: 2024-08-09 11:59:16
+date: 2024-08-09T00:49:13.440Z
+updated: 2024-08-10T00:49:13.440Z
 tags:
   - win11
   - win10
@@ -35,6 +35,9 @@ Follow these steps:
  1\. Open[Device Manager](https://tools.techidaily.com/drivereasy/download/) and expand category**Universal Serial Bus Controllers** .  
  2\. Right-click on**Unknown USB Device (Port Reset Failed)** under this category and then click **Uninstall** to remove the device.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_58008bc046cc6.jpg)
 
  3\. After finishing the uninstallation, restart your PC then Windows will reinstall the device automatically.
@@ -45,6 +48,9 @@ Follow these steps:
 
  1\. In Device Manager, under category “Universal Serial Bus controllers”, right-click on**Generic USB Hub** device and select Update Driver Software…
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_5800917567e49.jpg)
 
  2\. Select**Browse my computer for driver software** .
@@ -53,6 +59,9 @@ Follow these steps:
 
  3\. Select**Let me pick from a list of device drivers on my computer** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba30ea9e511.png)
 
  4\. Check the box next to “Show compatible hardware” and select**Generic USB Hub** . Click on**Next** button.
@@ -71,6 +80,10 @@ Follow these steps:
 
 You can use [Driver Easy](https://tools.techidaily.com/drivereasy/download/)  as your final solution.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
  **5\. Change Power Management Setting**
@@ -82,10 +95,16 @@ Follow below steps.
 1. In Device Manager, under category “Universal Serial Bus controllers”,  
  Double-click the “USB Root Hub” device, and go to the **Power Management**  tab. (if there’s more than one USB Root Hub device, repeat these steps for each one.)  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba31da19f02.jpg)
 
 2\. Turn off the **Allow the computer to turn off this device to save power** option, and click **OK** .
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ba31b753d11.png)
 
 <ins class="adsbygoogle"

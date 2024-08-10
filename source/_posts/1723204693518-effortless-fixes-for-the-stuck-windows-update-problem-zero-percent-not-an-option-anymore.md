@@ -1,7 +1,7 @@
 ---
 title: Effortless Fixes for the Stuck Windows Update Problem - Zero Percent Not an Option Anymore
-date: 2024-08-07 21:17:51
-updated: 2024-08-09 10:12:18
+date: 2024-08-09T00:49:37.194Z
+updated: 2024-08-10T00:49:37.194Z
 tags:
   - win11
   - win10
@@ -35,6 +35,9 @@ Follow these steps.
 
  2\. Type**msconfig** in the run box and click on**OK** button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b682c885329.png)
 
  3\. Click the**Services** tab and check the box next to**Hide all Microsoft services** .
@@ -43,6 +46,9 @@ Follow these steps.
 
  4\. Click**Disable all** button and click**OK** button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b6832001455.jpg)
 
 5\. Restart your PC for the changes to take effect.
@@ -69,6 +75,9 @@ Follow these steps to turn off Windows Firewall.
 
  3\. In left pane, select **Turn Windows Firewall on or off** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b68397e1a1b.jpg)
 
  4\. Select**Turn off Windows Firewall (not recommended)** . Then click**OK** button.  
@@ -90,14 +99,23 @@ Follow these steps to turn off Windows Firewall.
 
  2\. Type **services.msc** in the run box and click**OK** button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b683dc1d976.png)
 
  3\. Find**Windows Update** service. Right-click on it and click **Stop** on the context menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b68456bd269.jpg)
 
  4\. Open**C:\\Windows\\SoftwareDistribution** and delete all contents there.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b6846034e1e.jpg)
 
  5\. Restart Windows Update service. Right-click on Windows Update service and click **Start** .

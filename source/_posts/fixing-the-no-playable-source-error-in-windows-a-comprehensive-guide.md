@@ -1,7 +1,7 @@
 ---
 title: Fixing the 'No Playable Source' Error in Windows - A Comprehensive Guide
-date: 2024-08-06 11:31:17
-updated: 2024-08-09 10:37:58
+date: 2024-08-09T00:49:23.919Z
+updated: 2024-08-10T00:49:23.919Z
 tags:
   - win11
   - win10
@@ -15,8 +15,14 @@ thumbnail: https://thmb.techidaily.com/c8ce7d91fb957aab4992042fdfbf5a4bd1a84b3cb
 
 ## Overcoming the 'Kernel Power' Hurdle: Addressing Windows Error Code 0xC00pressure to Ensure a Healthy Environment
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/Snap3.png)If you see the**error code 0xc00000e9**in your computer, don’t panic. This is one of the common errors in Windows 10, 8 and 7\. The good news is, there are solutions you can try to**fix the error 0xc00000e9**.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How can I fix the error code 0xc00000e9?
 
 Here are the solutions for you to try. You don’t need to try them all; just work your way down until it fixes your error 0xc00000e9.
@@ -29,6 +35,9 @@ Here are the solutions for you to try. You don’t need to try them all; just wo
 
 **Note** : You’ll need to be logged into Windows on the problem computer to try[solution 3](https://tools.techidaily.com/drivereasy/download/) and[solution 4](https://tools.techidaily.com/drivereasy/download/) . If you can’t log into Windows, power on and off your PC 3 times to perform a hard reboot and restart it in[Safe Mode](https://tools.techidaily.com/drivereasy/download/) , then try the solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Why does 0xc00000e9 occur to my computer?
 
 The error code 0xc00000e9 is generally a hardware error pretaining to your**BIOS settings**. If you are seeing this error, generally it’s because your computer can’t communicate with the hard drive. Another cause is the**SSD (Solid-state drive) issue**when installing Windows.
@@ -49,6 +58,14 @@ You can try to boot your computer with the hard drive to fix 0xc00000e9\. Follow
 
 4) Once you’re in the Boot options, make sure the**first boot device**is your**hard drive**. You can press the arrow key to highlight the hard drive and move it to the top of the boot device list.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab23153b0892.png)
 
 5)**Save**your changes, and reboot your computer. This should fix your problem.
@@ -65,16 +82,25 @@ The driver problem can also cause the error 0xc00000e9, because the hardware can
 
 4) Restart your computer and see if the error 0xc00000e9 disappears.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Solution 4: Run a disk check**
 
 The error 0xc00000e9 can be caused by the disk problem. You should make sure that your disk works properly. 1) Boot your computer into**Safe Mode**. (You can check this article for more information about **[how to enter Safe Mode](https://tools.techidaily.com/drivereasy/download/)** .) 2) In the search box on your desktop, type**cmd**. Then right click**Command Prompt** (right click cmd if you’re using Windows 7) and click**Run as administrator**. Then click**Yes**to confirm.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab234158a472.png)
 
 3) Type**chkdsk /f /r**, then press**Enter**on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2ce110f69.png)4） Press**Y**on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2cf3b0dde.png)
 
 **Note** : Disk check will start the next time you boot your PC and it might take some time to complete. If you don’t have time to wait for the disk check to complete when restarting your computer, you can skip it or schedule it again.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Solution 5: Fix the MBR with Windows PE**
 
 The error 0xc00000e9 can occur when you install Windows without setting the Master Boot Record (MBR), so you should set your C drive as the MBR to fix 0xc00000e9.

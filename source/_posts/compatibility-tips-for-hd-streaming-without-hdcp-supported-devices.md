@@ -1,7 +1,7 @@
 ---
 title: Compatibility Tips for HD Streaming Without HDCP Supported Devices
-date: 2024-08-08 13:22:53
-updated: 2024-08-09 11:55:25
+date: 2024-08-09T00:49:01.535Z
+updated: 2024-08-10T00:49:01.535Z
 tags:
   - win11
   - win10
@@ -15,12 +15,18 @@ thumbnail: https://thmb.techidaily.com/e80e87b8b7adf5924c7e19825edaf87c4a24e2570
 
 ## Critical Update for FTDI Systems: Avoid Compatibility Errors and Preserve Memory Integrity
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-48.png)
 
  Memory Integrity can’t be turned on due to incompatible driver ftdibus.sys
 
  No need to worry much about it if your Memory Integrity is turned off due to incompatible drivers like ftdibus.sys: for one, Windows Defender is already strong enough to fend off malware for you, so Memory Integrity is more like the icing on the cake. For two, it’s not that hard a problem to fix. We have here 3 ways that you can get the incompatible fdtibus.sys driver problem fixed. Read on and see more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## How to fix the incompatible fdtibus.sys driver that turns off Memory Integrity
 
  Generally speaking, you can reinstall or update the incompatible driver mentioned in Core Isolation to fix the fdtibus.sys driver issue. The tricky part is how you can do it, without harming the functionality of the mentioned driver. Follow the instructions below to see how this can be done easily.
@@ -42,8 +48,14 @@ thumbnail: https://thmb.techidaily.com/e80e87b8b7adf5924c7e19825edaf87c4a24e2570
 
  The <NUMBER> here should be filled with the number you see on your computer. For instance, I’m seeing**51** , so my command should be**`pnputil.exe -d oem51.inf`** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-50.png)
 3. This is how the command looks like on my computer. Hit**Enter** when the command is typed in.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-51.png)
 4. When you see**Driver package deleted successfully** , restart your computer for the ftdibus.sys driver to be install automatically by Windows again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-52.png)
@@ -69,8 +81,15 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-53.png)
 3. Click to download the driver that works for your OS.  
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-54.png)
 4. When the driver download is done, unzip or extract the driver file folder, and right-click the**ftdibus.inf** file and select**Install** to run the driver installation.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-55.png)
 5. Restart your computer for the change to take effect.
 
@@ -84,6 +103,9 @@ To do so:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.

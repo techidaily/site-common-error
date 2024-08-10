@@ -1,7 +1,7 @@
 ---
 title: How to Do a Clean Install of Windows 11, Quickly and Easily
-date: 2024-08-06 11:47:41
-updated: 2024-08-09 12:32:35
+date: 2024-08-09T00:49:01.238Z
+updated: 2024-08-10T00:49:01.238Z
 tags:
   - win11
   - win10
@@ -29,6 +29,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  Please be assured that Media Creation Tool is the official method for downloading ISOs for Windows 10\. This tool will help you download the correct Windows 10 installation files for your system and help you create an installation DVD or flash drive.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/media-creation-tool.jpg)
   
  2) After the download, double click the downloaded setup file to run the installation. Click**Accept** to continue.
@@ -37,14 +40,24 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  3) Tick the option**Create installation media for another PC** , and then click**Next** .  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/windows-10-setup-600x470.png)
 
  4) Then you will be lead to a page where you need to select language, architecture and edition. If you are going to install it on a different PC, clear the check box before “**Use the recommended options for this PC** ” and fill in the information that you prefer and click**Next** to continue.  
   
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/select-language-architecture-and-edition-600x470.png)
   
  If you are going to use the installation media on the same PC that you create it, you can click**Next** to go ahead.  
   
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/select-language-windows-10-setup-600x470.png)
 
  5) Next, select whether you want the tool to create a bootable**USB flash drive** with the installation media, or just create an**ISO file** that can be used to burn to a DVD later. Select the option you want and click**Next** .
@@ -65,6 +78,13 @@ If you have already installed Windows 10 on your computer, and you want to perfo
 
  8) When this process is finished, you could choose**Open DVD Burner** if you want to create a disc right now. Or you can just click**Finish** if you want to make a disc later.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/burn-the-iso-to-dvd.png)  9) With your USB drive or DVD inserted, restart your computer. Press a key for**Boot Menu** .
   
 **Note** : The key to press for Boot Menu varies for different motherboards. Usually the boot screen will show you which key to press.
@@ -78,10 +98,16 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  a) Follow the path**Start> Settings> Update & security> Recovery>** **Restart now** button under**Advanced startup** .
   
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/advanced-startup-restart-now.jpg)
 
  b) Then click**Troubleshoot> Advanced options** and you will see this page.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/use-a-device.png)
   
 **Note** : Some users might not be able to see the **Use a device** option here. But we find that if the USB flash drive with the ISO files or the DVD disc is connected to the computer, you can boot from the device by clicking**Continue** button.
@@ -92,6 +118,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  11) Continue the clean install process normally until you see**Which type of installation do you want?** Choose**Custom** option to ensure that you are perform a clean install instead of and upgrade.
   
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/which-type-of-the-installation-do-you-want.jpg)
   
  12) Choose which partition you would like to install your system drive.
@@ -107,6 +136,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  a) Type**cmd** in the search box, then choose**Command Prompt** from the list of choice.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/cmd.jpg)
 
  b) Type in the command**slmgr.vbs /ato**  and press**Enter** key.  
@@ -125,6 +157,14 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  1) Click the**Start** button, and then choose**Settings** that comes up.  
   
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/settigns-in-start.jpg)
 
  2) Click on the**Update & security** icon.  

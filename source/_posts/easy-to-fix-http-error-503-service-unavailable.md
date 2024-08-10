@@ -1,7 +1,7 @@
 ---
 title: Easy to Fix HTTP Error 503 Service Unavailable
-date: 2024-08-06 10:47:52
-updated: 2024-08-09 12:36:11
+date: 2024-08-09T00:49:04.997Z
+updated: 2024-08-10T00:49:04.997Z
 tags:
   - win11
   - win10
@@ -15,12 +15,18 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
 
 ## Corsair HS50 Headset Mic Problems? Here's How to Fix Them
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/corsairhs50-819x1024.jpg)
 
  You and your friends are playing games together on the internet. But you can only hear your friends chatting from your headset and can’t join them because of your**Corsair HS50 mic is not working** . You must be very frustrated. Don’t worry, you can use solutions in this article to fix this problem.
 
 Before you start:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Check your device first
 
 **Check your device’s connection** : The mic on the Corsair HS50 is removable, so check your mic connection. And if your PC/laptop doesn’t utilize 2-in-1 mic/stereo jacks, you will need to use the Y-cable to plug them in separately in their appropriate jacks.  
@@ -34,6 +40,9 @@ Before you start:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Fixes for Corsair HS50 mic not working
 
  You may not have to try them all; just work your way down until you find the one that works for you.
@@ -46,14 +55,23 @@ Before you start:
 
  You should allow your Windows 10 system and your application to access your headset microphone before you can use it. To check this:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 1. Press the**Windows logo key** +**I** together. Then click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-7.jpg)
 2. Click**Microphone** in the left panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.1-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 3. Click**Change** , then make sure the **Microphone access for this device** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.2-2.jpg)
 4. Make sure **Allow apps to access your microphone** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.3.jpg)
 5. Try your Corsair HS50 mic and see if the problem is solved or not.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Fix 2: Change the audio settings on your PC**
 
  If there’s nothing wrong with your driver, the audio settings on your PC may be the reason for the problem. You can try changing your audio settings to fix this problem.
@@ -65,6 +83,9 @@ Before you start:
 3. Click your default microphone then click the**Properties** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/a.jpg)
 4. Click the**Levels** tab, then drag the slider towards the largest value.  
  You can drag the slider to unmute and adjust your microphone.  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/a4.jpg)
 5. Click**OK** to save your settings.
 

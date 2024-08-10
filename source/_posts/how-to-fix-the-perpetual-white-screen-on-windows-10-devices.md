@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Perpetual White Screen on Windows 10 Devices
-date: 2024-08-07 15:26:32
-updated: 2024-08-09 12:19:12
+date: 2024-08-09T00:49:32.242Z
+updated: 2024-08-10T00:49:32.242Z
 tags:
   - win11
   - win10
@@ -33,6 +33,9 @@ After that, you can go ahead and try the methods below.)
 
  **3)[Reinstall your Windows](https://tools.techidaily.com/drivereasy/download/)**
   
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1) Perform an Automatic Repair
 
 **Automatic Repair** is a tool that can fix issues preventing your computer from booting normally. You can always use it to try fixing booting problems of your computer.
@@ -43,6 +46,9 @@ After that, you can go ahead and try the methods below.)
 
 **b)**  Select**Troubleshoot** .
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ef3e847177.png)
 
 **c)**  Select**Startup Repair** .
@@ -51,12 +57,21 @@ After that, you can go ahead and try the methods below.)
 
 **d)**  Select**Windows 10** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ef7ae0f0f7.png)
 
 **e)** Automatic Repair will begin immediately. Wait till the process completes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ef84e8e8d9.png)
   
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2) Run system check command lines
 
  If Automatic Repair does not solve your problem, you may need to try**Command Prompt** . Some commands in Command Prompt can help you reset boot configurations and then repair your computer.
@@ -76,6 +91,9 @@ _**bootrec /rebuildbcd**_
 
 **d) Exit** Command Prompt and**restart** your computer. Check and see if your computer can boot normally.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## 3) Reinstall your Windows
 
  If you still cannot resolve the restart loop, it is possible that something is going wrong with your system. A reinstallation of your Windows can help you get everything back to normal.

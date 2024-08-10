@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Restoring GeForce Experience Setting Capabilities
-date: 2024-08-06 20:26:56
-updated: 2024-08-09 10:52:17
+date: 2024-08-09T00:49:03.771Z
+updated: 2024-08-10T00:49:03.771Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
 
 ## GeForce Experience Setting Retrieval Issue Fixed
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/feature.jpg)
 
  It is annoying when you open the GeForce Experience and find out none of your games appeared to be optimized. You clicked on the game, it says: “**Unable to retrieve settings. Try again later** .”  
@@ -61,19 +64,35 @@ Before you start:
  You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just**2** clicks (and you get full support and a 30-day money back guarantee):
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2019/06/geoforce1.jpg)
 3. Click the**Update** button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/06/geoforce.jpg)
 4. Run the GeForce Experience to check if this fixes your problem.
 
 **Note** : After reinstalling GeForce Experience, you have to rescan to get the settings.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Reinstalling GeForce Experience
 
  The installation files of GeForce Experience may be corrupted or inconsistent which might cause problems. You can reinstall the entire application to fix the problem.
 
 1. Press the**Windows logo key** +**R** together, type**appwiz.cpl** and press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/n0-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 2. Right-click on GeForce Experience and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/n.jpg)
 3. Restart your PC and then install the latest[GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/) .
 4. Run the program to check the error message will appear or not.
@@ -96,6 +115,9 @@ Before you start:
 2. Located to this folder “**C:\\Program Files (x86)\\Steam\\userdata** ” and delete the folder without any number in its name. For example, “anonymous”. The folder name can be different.![](https://images.drivereasy.com/wp-content/uploads/2019/06/steam.jpg)
 3. Restart your computer and run GeForce Experience to check if the error message is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Method 5: Restore NVIDIA Control Panel Settings
 
  NVIDIA customer service gives this method: Restore graphics card settings. This method helps some users fix the problem, you can have a try.

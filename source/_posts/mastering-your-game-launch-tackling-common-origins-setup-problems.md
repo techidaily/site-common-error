@@ -1,7 +1,7 @@
 ---
 title: "Mastering Your Game Launch: Tackling Common Origins Setup Problems"
-date: 2024-08-08 11:53:38
-updated: 2024-08-09 12:18:18
+date: 2024-08-09T00:49:08.228Z
+updated: 2024-08-10T00:49:08.228Z
 tags:
   - win11
   - win10
@@ -33,19 +33,31 @@ Quick Fix:**Install & update drivers automatically**
 
  The methods written below can help you fix these buffering issues. Read on to find how.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Check your Internet speed
 
  The first thing you have to do is to check your internet connection. Make sure it’s stable and then test your internet speed. You can use add-ons on Kodi to test your internet speed.  
  Here we recommend One Nation——an add-on in Kodi. This add-on will be used in Fix 2 & 3 to fix Kodi buffering issue. If you’ve installed One Nation in Kodi, follow the steps below. If you don’t have One Nation, you can read this[step-by-step installation tutorial](https://www.supereasy.com/install-one-nation-on-kodi/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Select Add-ons in the Kodi home screen and click**One Nation Portal** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/527.jpg)
 2. Click**Internet Tools** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5271.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 3. Click**Speed Tester** and wait for the testing result.![](https://images.drivereasy.com/wp-content/uploads/2019/05/5272.jpg)
 
  Usually, a large, HD content will require a high speed. If the problem is due to low internet speed, you can try[Fix 1](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Fixes for Kodi Buffering Issue
 
 1. [Stop Kodi buffering issue with a VPN](https://tools.techidaily.com/drivereasy/download/)
@@ -74,18 +86,33 @@ Quick Fix:**Install & update drivers automatically**
 
  One way to fix the Kodi buffering issue is to expand the video cache size. Increasing the size of the cache in Kodi can help you reduce buffering. It is because the cache is like a reservoir, the bigger it is, the more stuff can be saved and you’ll get a smooth viewing experience.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Select Add-ons in the Kodi home screen and click**One Nation Porta** l.![](https://images.drivereasy.com/wp-content/uploads/2019/05/527-1.jpg)
 2. Click**Maintenance** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 3. Click System Tweaks/Fixes.![](https://images.drivereasy.com/wp-content/uploads/2019/05/5273.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Click**Quick Configure AdvancedSettings.xml** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5274.jpg)
 5. Adjust the video cache size and then click**Write file** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/5275.jpg)
 6. Restart Kodi and check the buffering problem is still there or not.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Clear Kodi cache with One nation
 
  Besides expanding the cache size, you can use clearing Kodi cache to fix the issue. The cache is like a reservoir, the temp files are like rocks in the reservoir. When the reservoir is filled with the stream you need, you’ll get constantly fluent streaming. But if there’s rock inside, the stream will slow down and you’ll encounter the Kodi buffering issue. So, clearing cache to leave more space can fix the Kodi buffering problem.
 
 1. Select Add-ons in the Kodi home screen and click**One Nation Portal** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/j5-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. Click**Maintenance** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-2.jpg)
 3. Click**Cleaning Tools** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/3-4.jpg)
 4. Choose**Clear Cache** . Or choose**Total Clean Up** , which also helps to play videos smoothly in Kodi.![](https://images.drivereasy.com/wp-content/uploads/2019/05/4-2.jpg)

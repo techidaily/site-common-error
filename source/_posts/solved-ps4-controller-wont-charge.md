@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] PS4 Controller Won’t Charge"
-date: 2024-08-07 17:18:37
-updated: 2024-08-09 10:50:25
+date: 2024-08-09T00:49:03.578Z
+updated: 2024-08-10T00:49:03.578Z
 tags:
   - win11
   - win10
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
 
 ## PS4 Controller Not Holding Charge? Solve That Problem Now
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a503449d171d.jpg)
 
  When you plug your PS4 controller with the charging cable, the light on the front of it doesn’t light up at all? But rest assured, you’re not alone; many PS4 users are struggling with the**PS4 controller won’t charge** problem. More importantly, you can fix it with this guide. Read on to find out how…
@@ -34,10 +38,16 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
 You can easily reset your controller through these several steps:
 
 1. Find**the reset button** on your controller: it’s a very small hole on the back of your controller and under the L2 button.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a503f4b68e7f.jpg)
 2. Put a toothpick or a similar object into the reset hole; press the button; hold it down for a few seconds and then release.
 3. Your controller should then restart. Once it gets started, try to charge it again to see if successful.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution 2: Charge your PS4 controller upside down
 
  Please charge your PS4 controller upside down when you encounter the not charging problem. Sounds wired? It helps a lot of PS4 players get their controller to charge again. You can give it a shot to see if it works.
@@ -48,6 +58,9 @@ Just put your PS4 controller upside down and then charge it.
 
  Sometimes, your PS4 not charging problem could be due to the charging USB cable. Follow the steps below to check if there’s any problem with your USB cable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a504e5686cb2.jpg)
 
 1. Charge your other controller if you have one with the same charging USB cable.
@@ -57,6 +70,10 @@ Just put your PS4 controller upside down and then charge it.
 **Note:** Some USB cable have the same connectors though, they can have different specs. That’s why your PS4 controller cannot charge if you use some third-party USB cable.  
  So please**use an official charging USB cable** to charge your controller. If you lost the USB cable coming with your PS4, you can buy an official one from Sony.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Solution 4: Check the charging port of your PS4 controller
 
  Like the charging cable, a bad charging port on your PS4 controller could also prevent your controller from charging.
@@ -65,6 +82,9 @@ Just put your PS4 controller upside down and then charge it.
 
  Charge your other controller if you have one with the same charging USB cable. If the other controller does charge, there’s probably some problem with the charging port with your not charging controller. You then need to replace the charging port with a new one. If you’re not sure how to do it, you can ask for help from[the official PlayStation website](http://www.playstation.com/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### Solution 5: Replace the batteries of your PS4 controller
 
  If you’ve tried all the solutions above and your controller still cannot charge, do not be frustrated. Be sure to try this last but helpful solution.

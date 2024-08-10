@@ -1,7 +1,7 @@
 ---
 title: CE-34878-0 Bugs in PS4? Here's a Step-by-Step Solution
-date: 2024-08-08 11:38:57
-updated: 2024-08-09 11:54:25
+date: 2024-08-09T00:49:34.828Z
+updated: 2024-08-10T00:49:34.828Z
 tags:
   - win11
   - win10
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/e88d8c41e4814f7655a90371c7c1a9d7d6681eb85
 
  But don’t worry. You can fix the PS4 error code CE-34878-0 quickly and easily.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  There are solutions to this problem. This article guidelines**7 easy methods to fix the PS4 error code CE-34878-0** . You don’t need to try them all; just work your way down until your problem is solved.
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/e88d8c41e4814f7655a90371c7c1a9d7d6681eb85
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Why does the error code CE-34878-0 occur?**
 
  This is one of the most common error codes you may get when you’re playing the PS4 games, and sometimes it may also display as **CE-36329-3** . This error occurs because the games or applications crash. Generally speaking, **it is caused by the PS4 corrupted data or the system software issues** . You can try the solutions below to solve this problem step by step!
@@ -57,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/e88d8c41e4814f7655a90371c7c1a9d7d6681eb85
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Fix 2: Update the game software to fix the error CE-34878-0**
 
  This problem can be also caused due to**the unknown bugs within the game** , so updating the game to install the latest patches can also fix the error CE-34878-0\. There are three methods for you for update the game software:
@@ -73,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/e88d8c41e4814f7655a90371c7c1a9d7d6681eb85
 
  2) Press the**Options** **button** on your PS4 controller, then select**Check for Update** .
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a570e7b9b403.jpg)
 
 3) Follow the wizard to download and install any available updates.
@@ -87,6 +99,9 @@ thumbnail: https://thmb.techidaily.com/e88d8c41e4814f7655a90371c7c1a9d7d6681eb85
 
  1) Go to PS4**Settings** \>**Application Saved Data Management** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57149ea1bbd.jpg)
 
  2) Select**Saved Data in System Storage** if you want to save it in your PS4 system, or you can select**Saved Data on USB Storage Device** in you have inserted the USB drive into your PS4.
@@ -97,12 +112,22 @@ thumbnail: https://thmb.techidaily.com/e88d8c41e4814f7655a90371c7c1a9d7d6681eb85
 
 4) After that, go to PS4**Settings** \>**System Storage Management** \>**Applications** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57104ee3d61.jpg)
 
  2) Find the game that occurs the problem and**highlight** it.
 
  3) Press the**Options** **button** and select**Delete** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a570f4a2c0e8.jpg)
 
  4) **Restart** your PS4.
@@ -135,6 +160,9 @@ This method works if you are playing games on the disc.
 
 2) Go to PS4**Settings** \>**System Software Update** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571a6b18875.jpg)
 
  3) Select**Update** if there is available updates. (You won’t see this message if your PS4 system is the latest version, so you can skip this method.)
@@ -149,6 +177,9 @@ This method works if you are playing games on the disc.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### **Fix 4: Put the original HDD to fix the error CE-34878-0**
 
  If you have upgraded your Hard Disc Drive (HDD) recently, it may also impact the game performance. So you can try to install the original HDD back in your PS4 to solve this problem. Before you reinstall the original HDD, you may need to back the data currently saved in your PS4 first.
@@ -203,6 +234,9 @@ This method works if you are playing games on the disc.
 
  1) Go to PS4**Settings** \>**Devices** \>**Turn off Device** .
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a57223d14e7d.jpg)
 
  2) Select the camera to turn off. Then**power cycle** your PS4.
@@ -213,6 +247,9 @@ This method works if you are playing games on the disc.
 
  3) Uncheck**Enable Face Recognition** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5722a8637ae.jpg)
 
 4) Try your game/application again.

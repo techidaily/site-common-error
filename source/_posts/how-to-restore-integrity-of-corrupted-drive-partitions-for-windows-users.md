@@ -1,7 +1,7 @@
 ---
 title: How to Restore Integrity of Corrupted Drive Partitions for Windows Users
-date: 2024-08-06 19:34:52
-updated: 2024-08-09 11:24:43
+date: 2024-08-09T00:49:07.212Z
+updated: 2024-08-10T00:49:07.212Z
 tags:
   - win11
   - win10
@@ -32,11 +32,31 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 
 ---
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Reinstall ftdibus.sys driver
 
  ftdibus.sys is a system file for FTDI (Future Technology Devices International) USB devices, which are usually preinstalled on your computer chipset. So you may not recall using FTDI USB devices yourself, which makes it quite hard to update or reinstall the driver. But things don’t have to be like this: follow the instructions below to see how you can reinstall the ftdibus.sys driver:
 
 1. On your keyboard, press the**Windows** key and the**R** key at the same time. Type**cmd** and hit**Ctrl+Shift+Enter** to open Command Prompt as administrator. When prompted for permission, click**Yes** .  
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-49.png)
 2. Type this command:**`pnputil.exe -d oem<NUMBER>.inf`** and hit**Enter** .  
 
@@ -46,18 +66,27 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 3. This is how the command looks like on my computer. Hit**Enter** when the command is typed in.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-51.png)
 4. When you see**Driver package deleted successfully** , restart your computer for the ftdibus.sys driver to be install automatically by Windows again.  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-52.png)
 
  Go go the Core Isolation window again to see if the fdtibus.sys driver is still regarded as an incompatible driver that stops Memory Integrity from turning on. If so, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Update ftdibus.sys driver
 
  If the ftdibus.sys driver reinstall done by Windows doesn’t help, you can then try to update the driver.
 
  There are mainly 2 ways you can update your fdtibus.sys driver: manually or automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 1: Update your ftdibus.sys driver manually
 
  If you’re tech-savvy enough, you can spend some time updating your ftdibus.sys driver manually.
@@ -67,6 +96,9 @@ To do so:
 1. Go to [**FTDI driver download center**](http://www.ftdichip.com/FTDrivers.htm) .
 2. Select from**VCP Drivers** ,**D2XX Drivers** or**D3XX Drivers** first to go to the corresponding download page.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-53.png)
 3. Click to download the driver that works for your OS.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-54.png)
@@ -84,6 +116,9 @@ To do so:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.

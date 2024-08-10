@@ -1,7 +1,7 @@
 ---
 title: Fix the Broken Backspace Button – Solutions and Tips Inside
-date: 2024-08-06 11:14:30
-updated: 2024-08-09 12:21:15
+date: 2024-08-09T00:49:29.736Z
+updated: 2024-08-10T00:49:29.736Z
 tags:
   - win11
   - win10
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 
  1) Type**ease** in the search box from Start. Then click **Ease of Access keyboard settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0677fb8600d.png)
 
  2) Make sure the status of Sticky Keys and Filter Keys are all set to **Off** . If you see **On** , switch to **Off** .
@@ -47,12 +50,21 @@ thumbnail: https://thmb.techidaily.com/0091dc61c65475448e6b20380c1ba19b6aec743f4
 
 1. Press the **Windows logo key**  and **R**  simultaneously to open Settings.
 2. Select**Accessibility** on the left panel, then scroll down the list on the right and click**Keyboard** under the Interaction section.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/win11-sticky-key1.jpg)
 3. Under the Sticky, Filter, and Toggle keys section, make sure the status of**Sticky Keys** and**Filter Keys** are all set to **Off** . If you see On, switch to Off.  
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/win11-sticky-key2.jpg)
 
  Your backspace key should work now. Check to see if it works. If unfortunately not, please try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Solution 2: Reinstall your keyboard
 
  The corrupted connection between your keyboard and your Windows operating system could also make the backspace key stop working. You can reinstall your keyboard to solve it.
@@ -69,10 +81,25 @@ Follow these:
 
  3) Right-click on your keyboard software in the Keyboards section. Then click **Uninstall device** .
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a066e71dd09a.png)
 
  4) Reboot your computer; Windows should then reinstall your keyboard automatically. Then check to see if your backspace key works.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Solution 3: Update your keyboard driver
 
  The solutions above could solve your problem, but if they don’t, please update your keyboard driver. Because a corrupted, wrong or missing keyboard driver could make your backspace key not function.

@@ -1,7 +1,7 @@
 ---
 title: Simple Fixes for the Constant Reboot Problem on Windows 11
-date: 2024-08-07 22:54:16
-updated: 2024-08-09 11:38:32
+date: 2024-08-09T00:49:03.944Z
+updated: 2024-08-10T00:49:03.944Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 
 Windows Update not working issue is common in all Windows versions. In this post, you will learn how to fix Windows Update stucking at 0KB issue. Steps apply to Windows 10, 7 & 8.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_589d5e72b0fa6.png)
 
 _Windows Update Stuck at 0KB 0%_
@@ -39,10 +42,16 @@ Follow these steps.
 
  3\. Click the**Services** tab and check the box next to**Hide all Microsoft services** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b682ff6cc91.jpg)
 
  4\. Click**Disable all** button and click**OK** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b6832001455.jpg)
 
 5\. Restart your PC for the changes to take effect.
@@ -53,6 +62,9 @@ Follow these steps.
 
  Uncheck the box next to**Hide all Microsoft services** and click**Enable all** button. Then click**OK** button.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b68346b891a.jpg)
 
  **Solution 3: Temporarily Turn Off Windows Firewall**
@@ -65,10 +77,16 @@ Follow these steps to turn off Windows Firewall.
 
  2\. View by Small icons and click on**Windows Firewall** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b6836576fc6.jpg)
 
  3\. In left pane, select **Turn Windows Firewall on or off** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b68397e1a1b.jpg)
 
  4\. Select**Turn off Windows Firewall (not recommended)** . Then click**OK** button.  

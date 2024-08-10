@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for When Your GeForce Experience Can't Access Its Configurations Anymore
-date: 2024-08-07 20:13:36
-updated: 2024-08-09 11:49:39
+date: 2024-08-09T00:49:21.876Z
+updated: 2024-08-10T00:49:21.876Z
 tags:
   - win11
   - win10
@@ -43,6 +43,9 @@ Follow these steps.
 
  4\. Click**Disable all** button and click**OK** button.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b6832001455.jpg)
 
 5\. Restart your PC for the changes to take effect.
@@ -65,15 +68,24 @@ Follow these steps to turn off Windows Firewall.
 
  2\. View by Small icons and click on**Windows Firewall** .
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b6836576fc6.jpg)
 
  3\. In left pane, select **Turn Windows Firewall on or off** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b68397e1a1b.jpg)
 
  4\. Select**Turn off Windows Firewall (not recommended)** . Then click**OK** button.  
  Tip: You can turn it on again after Windows updates are done.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b683a45fb7f.jpg)
 
 5\. Download Windows Updates again.
@@ -90,6 +102,9 @@ Follow these steps to turn off Windows Firewall.
 
  2\. Type **services.msc** in the run box and click**OK** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b683dc1d976.png)
 
  3\. Find**Windows Update** service. Right-click on it and click **Stop** on the context menu.
@@ -102,6 +117,9 @@ Follow these steps to turn off Windows Firewall.
 
  5\. Restart Windows Update service. Right-click on Windows Update service and click **Start** .
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58b6849f82fa1.jpg)
 
 6\. Download the updates again.

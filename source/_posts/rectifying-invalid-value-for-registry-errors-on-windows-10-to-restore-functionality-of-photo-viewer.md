@@ -1,7 +1,7 @@
 ---
 title: Rectifying 'Invalid Value for Registry' Errors on Windows 10 to Restore Functionality of Photo Viewer
-date: 2024-08-06 10:49:40
-updated: 2024-08-09 12:42:13
+date: 2024-08-09T00:49:08.762Z
+updated: 2024-08-10T00:49:08.762Z
 tags:
   - win11
   - win10
@@ -24,12 +24,18 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
  Then type **regedit**  in the box and hit **Enter**  to open Registry Editor window.  
  Click **Yes**  when prompted by User Account Control.  
   
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-20.jpg)
   
 **Step 2.**
  On Registry Editor window, head to:  
 **HKEY\_CURRENT\_USER \\**   **Software \\** **Classes \\** **Local Settings \\** **Software \\** **Microsoft \\** **Windows \\** **CurrentVersion \\** **AppModel \\** **Repository \\** **Families** .  
   
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-22.jpg)
   
 **Step 3.**
@@ -47,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
 
  Right-click on the older version entry and click **Permissions…**
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-16.jpg)
   
  2)  
@@ -61,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
  Then enter you account name in the box and click **Check Names** .  
  Click **OK** .  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-10.jpg)
   
  4)  
@@ -69,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
  Tick on **Replace owner on subcontainers and objects** .  
  Then click **Apply**  \> **OK** .  
   
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-11.jpg)
   
  5)  
@@ -77,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/81c104f653fc6628652d6140a521e94570f22aa24
  Then tick the**Allow** box of **Full Control** .  
  Click **Apply**  \> **OK** .  
   
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-11.jpg)
   
  Now you have own the right to delete the entry you set permission.  

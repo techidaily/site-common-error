@@ -1,7 +1,7 @@
 ---
 title: Video Not Showing? Follow These Simple Steps to Solve the Problem
-date: 2024-08-07 18:16:43
-updated: 2024-08-09 11:51:14
+date: 2024-08-09T00:49:27.467Z
+updated: 2024-08-10T00:49:27.467Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 
  If you’re also in this predicament, don’t panic. Here are 6 solutions to try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Fixes to try
 
 * [Fix 1: Restart your PC](#restart)
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 
 If your issue persists after the reboot, then go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Check your video cable
 
  If your video cable has become loose, the image signal won’t be transmitted and it can cause the No video input message on your monitor. So, you want to make sure that your video cable is functioning correctly, then reconnect your monitor to your computer. Follow the instructions below:
@@ -49,6 +55,9 @@ If your issue persists after the reboot, then go ahead with the next fix.
 
  If any connector on your device is bent or damaged, you’ll need to take the device to a repair shop.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/analog-20871_640-1024x338.jpg)
 
 **4)** Check to see if your **video cable** is damaged.
@@ -63,8 +72,14 @@ If your issue persists after the reboot, then go ahead with the next fix.
 
  If you’re using a desktop PC, check if your display cable is connected to your motherboard instead of your graphics card port.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-29_14-18-28.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ### Fix 4: Disconnect your peripherals
 
  Peripherals connected to your computer may also prevent your monitor from running properly and cause the No Video Input issue. Try disconnecting all peripherals to see if that fixes your issue. Here is how:
@@ -81,6 +96,9 @@ If your issue persists after the reboot, then go ahead with the next fix.
 
 If your monitor still won’t work, try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5: Reset your BIOS settings
 
  Improper BIOS settings can also cause your monitor to fail. To see if that’s the core issue, you should reset your BIOS to factory settings. Here is how to do it:
@@ -93,6 +111,10 @@ If your monitor still won’t work, try the fix below.
 
 The CMOS battery looks like this
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
 **4)**  Wait for 5 minutes, and then reinstall your **CMOS battery** .

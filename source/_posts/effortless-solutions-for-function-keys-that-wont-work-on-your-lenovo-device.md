@@ -1,7 +1,7 @@
 ---
 title: Effortless Solutions for Function Keys That Won’t Work on Your Lenovo Device
-date: 2024-08-07 21:57:52
-updated: 2024-08-09 12:57:41
+date: 2024-08-09T00:49:25.493Z
+updated: 2024-08-10T00:49:25.493Z
 tags:
   - win11
   - win10
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/c055207526e0593f6267057e6bfa17ba8927fb82b
 
 ## Quick Fixes for Your Non-Functioning Mac Webcam – Simple Solutions
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/1-14.jpg)
   
 The built-in camera in Mac make it convenient to use Face Time or Skype to have video chat with your family or friends. But due to some reasons, you just found **Mac Camera Not Working**. Here let’s fix it! This article is going to tell you the tried-and-true and effected as many users reported way to fix it. Just take a few minutes to go on with it.  
@@ -31,12 +35,18 @@ Click the search icon on the top right to open **Spotlight**.
 Then type**terminal**in the box.  
 Click **Terminal** applications.  
   
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-14.jpg)
   
 3)  
 
 Type **sudo killall VDCAssistant** and hit **return**.  
   
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-8.png)
   
 Then probably it will ask for password. If so, enter the password you use to log in your mac or the admin password.  

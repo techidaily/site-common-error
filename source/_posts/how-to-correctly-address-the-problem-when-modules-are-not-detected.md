@@ -1,7 +1,7 @@
 ---
 title: How To Correctly Address The Problem When Modules Are Not Detected
-date: 2024-08-07 11:43:56
-updated: 2024-08-09 11:46:43
+date: 2024-08-09T00:49:02.236Z
+updated: 2024-08-10T00:49:02.236Z
 tags:
   - win11
   - win10
@@ -31,6 +31,9 @@ For game players, Steam is the window of the world of gaming. But there are situ
 6. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## 1\. Run Steam as administrator
 
  These error messages may indicate that it’s a permission issue. If the Steam client didn’t have the necessary permissions to download the updates, the issue will occur and you will not be able to continue the download process. To fix it, you can forcibly open Steam with administrative privileges.
@@ -46,14 +49,23 @@ For game players, Steam is the window of the world of gaming. But there are situ
 
  4) Right-click on the shortcut and select**Open file location** .  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![make Steam always run as administrator](https://images.drivereasy.com/wp-content/uploads/2021/01/open-file-location-Steam.png)
 
  5) The**steam.exe** should be highlighted. Simply right-click it and select**Properties** .  
   
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![make Steam always run as administrator](https://images.drivereasy.com/wp-content/uploads/2021/01/Steam-Properties.png)
 
  5) Select the**Compatibility** tab. Check**Run this program as an administrator** . Then click**Apply > OK** to save the changes.  
   
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![always run Steam as administrator](https://images.drivereasy.com/wp-content/uploads/2021/01/always-run-Steam-as-administrator.png)
 
 ---
@@ -64,6 +76,9 @@ For game players, Steam is the window of the world of gaming. But there are situ
 
  1) In the Search box, type **windows firewall** and click **Windows Defender Firewall**  from the results.  
   
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
 
  2) From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
@@ -72,6 +87,9 @@ For game players, Steam is the window of the world of gaming. But there are situ
 
  3) Click **Change settings** if it’s enabled on your end. Then click **Allow another app** .  
   
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![allow VALORANT through windows firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-another-app-1.jpg)
 
  Then you can follow the on-screen instructions to add Steam to the list. By default, the location of the main Steam executable is**C:\\Program Files\\Steam\\bin** .
@@ -100,6 +118,9 @@ For game players, Steam is the window of the world of gaming. But there are situ
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Clear download cache
 
  Whenever you login Steam, they store the locally cached configuration data. But sometimes these download cache may cause some issues. To resolve it, you can clear the cache from its interface.
@@ -114,10 +135,21 @@ For game players, Steam is the window of the world of gaming. But there are situ
 
  Simply click**OK** when asked for confirmation and you’ll be required to login to Steam again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/select-OK-to-confirm-the-changes.png)
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## 5\. Disable unnecessary programs
 
  If your computer doesn’t have a lot of RAM memory, Steam is not granted enough space to proceed the updates download actions. This can temporarily be fixed by closing any unnecessary programs such as web browsers. Here’s how:
@@ -126,6 +158,9 @@ For game players, Steam is the window of the world of gaming. But there are situ
 
  2) Type in**taskmgr** and press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
  3) Under the**Processes** tab, right-click the programs that you’re not currently using and select**End task** .  
@@ -150,6 +185,9 @@ Here’s how to update your drivers with Driver Easy:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
@@ -170,6 +208,9 @@ Here’s how to update your drivers with Driver Easy:
  1) Exit Steam.  
  To make sure you completely exit Steam, open Task Manager and look for **Steam Client Service**  and **Steam Client WebHelper** . Right-click on them and select **End task** .  
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![End task Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/end-task.jpg)
 
  2) On your keyboard, press the **Windows logo key** and **E**  at the same time to open File Explorer.

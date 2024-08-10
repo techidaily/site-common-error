@@ -1,7 +1,7 @@
 ---
 title: "Revive the Cameras: Expert Advice for Lenovo Laptop Woes"
-date: 2024-08-07 15:24:49
-updated: 2024-08-09 11:43:31
+date: 2024-08-09T00:49:36.801Z
+updated: 2024-08-10T00:49:36.801Z
 tags:
   - win11
   - win10
@@ -42,16 +42,25 @@ If your problem persists, then move on and try the next fix.
 
 **1)**  On your keyboard, press the **Windows logo** key and type **msconfig** . Then, select **msconfig** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-29-08.jpg)
 
 **2)** Click **Startup.**
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-29-19.jpg)
 
 **3)** Uncheck the box next to the program that you don’t need to launch automatically at startup.
 
  Only deselect programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_14-29-31.jpg)
 
 **4)** Click **OK** .
@@ -82,10 +91,16 @@ If your issue continues to occur, then move on and try the fix below.
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_11-14-00-1.jpg)
 
  If you need assistance, please contact Driver Easy Pro’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution 4: Scan for malware and viruses
 
  Malicious software on your computer, including viruses, spyware, and ransomware, can cause your computer to slow down. To see if that’s the problem for you, try running your malware remover to detect if there is any malware on your laptop.
@@ -102,12 +117,18 @@ If your issue continues to occur, then move on and try the fix below.
 
  If no malware is detected, that means your problem is not caused by malware. Check the method below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Solution 5: Add more RAM
 
  RAM is short for Random Access Memory, which is a form of computer data storage that stores data and machine code currently being used. The more RAM your system has, the faster your computer can perform. That said, if your system is lack of RAM, your computer is likely to boot slowly. If that’s the core issue, adding more RAM should fix your issue.
 
  Adding RAM requires advanced computer skills. If you’re not comfortable doing that on your own, you can take your computer to a near repair store and seek professional help.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### Solution 6: Install an SSD
 
  SSD is short for Solid State Drive, which can read and write the data much faster than the conventional HDD (Hard Disk Drives). Compared to a hard drive, an SSD will not only increase your PC’s boot time but also enable it to respond much faster.

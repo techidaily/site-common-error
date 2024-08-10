@@ -1,7 +1,7 @@
 ---
 title: Corsair Keyboard Not Working? Here's What You Need to Know & How to Get It Fixed Quickly!
-date: 2024-08-08 22:22:24
-updated: 2024-08-09 12:26:30
+date: 2024-08-09T00:49:10.935Z
+updated: 2024-08-10T00:49:10.935Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 ## Keyboard Dilemma? Here's How to Get Your Backspace Working Again
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0655f1dbae0.jpg)
 
  Make your backspace work again by updating the keyboard driver automatically via **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
  2) Make sure the status of Sticky Keys and Filter Keys are all set to **Off** . If you see **On** , switch to **Off** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a067818b6a47.jpg)
 
 #### Windows 11
@@ -65,14 +71,23 @@ Follow these:
 
  2) Type **devmgmt.msc**  and press **Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a066acd62fb2.png)
 
  3) Right-click on your keyboard software in the Keyboards section. Then click **Uninstall device** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a066e71dd09a.png)
 
  4) Reboot your computer; Windows should then reinstall your keyboard automatically. Then check to see if your backspace key works.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 3: Update your keyboard driver
 
  The solutions above could solve your problem, but if they don’t, please update your keyboard driver. Because a corrupted, wrong or missing keyboard driver could make your backspace key not function.
@@ -85,6 +100,9 @@ Follow these:
 
  2) Click **Scan Now** . All driver problems of your computer would be detected in less than 1 min. Your keyboard driver is no exception.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a06730e567d8.jpg)
 
  3) If you try the Free version, click **Update**  next to your flagged keyboard driver to automatically download and install the correct version of this driver.

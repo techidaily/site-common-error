@@ -1,7 +1,7 @@
 ---
 title: Diagnosing Failed Installs of Windows 11, Build 1607 Features
-date: 2024-08-06 23:18:56
-updated: 2024-08-09 10:57:32
+date: 2024-08-09T00:49:11.512Z
+updated: 2024-08-10T00:49:11.512Z
 tags:
   - win11
   - win10
@@ -29,22 +29,38 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  Please be assured that Media Creation Tool is the official method for downloading ISOs for Windows 10\. This tool will help you download the correct Windows 10 installation files for your system and help you create an installation DVD or flash drive.  
   
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/media-creation-tool.jpg)
   
  2) After the download, double click the downloaded setup file to run the installation. Click**Accept** to continue.
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/windows-10-set-up-accept-decline.jpg)
   
  3) Tick the option**Create installation media for another PC** , and then click**Next** .  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/windows-10-setup-600x470.png)
 
  4) Then you will be lead to a page where you need to select language, architecture and edition. If you are going to install it on a different PC, clear the check box before “**Use the recommended options for this PC** ” and fill in the information that you prefer and click**Next** to continue.  
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/select-language-architecture-and-edition-600x470.png)
   
  If you are going to use the installation media on the same PC that you create it, you can click**Next** to go ahead.  
   
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/select-language-windows-10-setup-600x470.png)
 
  5) Next, select whether you want the tool to create a bootable**USB flash drive** with the installation media, or just create an**ISO file** that can be used to burn to a DVD later. Select the option you want and click**Next** .
@@ -78,6 +94,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  a) Follow the path**Start> Settings> Update & security> Recovery>** **Restart now** button under**Advanced startup** .
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/advanced-startup-restart-now.jpg)
 
  b) Then click**Troubleshoot> Advanced options** and you will see this page.
@@ -88,10 +107,17 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  10) You will see the activation screen next. If you have installed Windows 10 on this computer, please choose**I don’t have a product key** . If you have never installed Windows 10 on this computer before, please type in your valid license key, which could be the key for Windows 7, Windows 8 or Windows 8.1\.
   
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/windows-setup-activate-windows-600x452.png)
   
  11) Continue the clean install process normally until you see**Which type of installation do you want?** Choose**Custom** option to ensure that you are perform a clean install instead of and upgrade.
   
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/which-type-of-the-installation-do-you-want.jpg)
   
  12) Choose which partition you would like to install your system drive.
@@ -133,6 +159,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
 
  3) On the left panel, choose**Recovery** , and then choose**Get started** option under**Reset this PC** .
   
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/img_57b183962f937.png)
   
  4) Choose**Remove everything** to perform a**Reset** .
@@ -141,6 +170,9 @@ If you have already installed Windows 10 on your computer, and you want to perfo
   
  5) Then you will be lead to the page below. Please choose accordingly.  
   
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/do-you-want-to-clean-the-drives-too.jpg)
   
 **Note:** **Just remove my files** will performs a quick format and it will not take long. Your files might be recoverable by someone else since they are only marked as deleted. It is suggested that you choose this option if you are keeping your computer.  

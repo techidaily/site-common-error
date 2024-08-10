@@ -1,7 +1,7 @@
 ---
 title: "Resolved: 'Device Unavailable' Error (Error Code 24) on Windows 11/8/7"
-date: 2024-08-08 23:24:41
-updated: 2024-08-09 12:16:33
+date: 2024-08-09T00:49:03.749Z
+updated: 2024-08-10T00:49:03.749Z
 tags:
   - win11
   - win10
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 4. **[Reset the camera app](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Run the System File Checker](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Run the Hardware and Devices Troubleshooter
 
  It’s always a wise choice to let Windows solve the problem automatically for you first. So be sure to run this in-built troubleshooter, and apply the fix if there are any. Here’s how:
@@ -43,6 +46,9 @@ msdt.exe -id DeviceDiagnostic
 
  3\. Once the troubleshooter displays, you can click**Next** to run this tool.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-12.png)
 
  4\. Click**Apply this fix** when the troubleshooter finds a fix for you.
@@ -53,20 +59,32 @@ msdt.exe -id DeviceDiagnostic
 
  The troubleshooter may provide a solution for restoring your missing webcam. Now check if your problem has been solved. If not, you can try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ### Fix 2: Allow apps to access your camera
 
  It’s always important to make sure that your device and apps can access your camera. Here’s how:
 
  1\. In the Windows Search bar, type**camera** and select**Camera privacy settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![camera privacy settings](https://images.drivereasy.com/wp-content/uploads/2021/03/image-14.png)
 
  2\. Scroll down the settings page and make sure the toggle is set to**On** for Camera Access for this device and**Allow apps to access your camera** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![allow camera access](https://images.drivereasy.com/wp-content/uploads/2021/03/image-15.png)
 
  If there’s nothing wrong with the privacy settings, but your camera error 0xa00f4292 still persists, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Update your camera drivers
 
  This error code 0xa00f4292 can also be caused by an outdated driver. To achieve the best performance from your camera, you should keep the driver updated. Here’s how:
@@ -79,12 +97,18 @@ msdt.exe -id DeviceDiagnostic
 
  2\. Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![scan device drivers](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 
  3\. Click the **Update** button next to the ASUS webcam driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll get 30-day money back guarantee and full technical support).
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![update camera drivers](https://images.drivereasy.com/wp-content/uploads/2021/03/image-16.png)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -106,6 +130,9 @@ msdt.exe -id DeviceDiagnostic
 
  3\. Locate**Camera** and select**Advanced options** .
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![app and features](https://images.drivereasy.com/wp-content/uploads/2021/03/image-19.png)
 
  4\. Scroll down and click**Reset** .

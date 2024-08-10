@@ -1,7 +1,7 @@
 ---
 title: How to Silence Your PS4's Overheating Problem – A Step-by-Step Guide
-date: 2024-08-07 16:47:35
-updated: 2024-08-09 12:59:23
+date: 2024-08-09T00:49:39.097Z
+updated: 2024-08-10T00:49:39.097Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ If you have an Acer laptop but there’s no sound when you’re playing a game o
 
  Before trying the below methods, if you’re using a headset, plug it into another device and check. Make sure it’s not a headset issue.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these methods
 
 1. **[Update your sound card driver](https://tools.techidaily.com/drivereasy/download/)**
@@ -43,13 +46,22 @@ If you have an Acer laptop but there’s no sound when you’re playing a game o
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 4. Restart your computer and check the Anthem has sound or not.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Set your speakers as the default device
 
  You may already check the sound volume and restart your laptop. If you didn’t mute the sound, then let’s check the sound settings. It’s possible that you didn’t set your speakers or headphones as the default device.
 
 1. Right-click on the**Sound** icon on your taskbar. Then click**Sounds** .  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 2. Choose the speakers you’re using and click**Set Default** .  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/mi.jpg)
 3. Click**OK** to save the change.
 
@@ -58,6 +70,9 @@ If you have an Acer laptop but there’s no sound when you’re playing a game o
 Follow the below steps to enable your disabled device.
 
 1. On the Playback window, right-click on the blank area and click**Show Disabled Devices** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-11.jpg)
 2. When your device shows up, right-click on it and choose Enable.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-7.jpg)
@@ -71,6 +86,9 @@ Follow the below steps to enable your disabled device.
 2. Type **devmgmt.msc** . Then click **OK**  to open **Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-2.jpg)
 3. Expand **Sound, video and game controllers** . Then right-click on your sound card’s name and click **Uninstall** **device** .  
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall.jpg)
 4. Tick on **Delete the driver software for this device.**  Then click **Uninstall**  to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall1.jpg)
