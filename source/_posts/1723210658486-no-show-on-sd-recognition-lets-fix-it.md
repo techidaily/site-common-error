@@ -1,0 +1,206 @@
+---
+title: No-Show on SD Recognition? Let's Fix It
+date: 2024-08-15T11:04:32.605Z
+updated: 2024-08-16T11:04:32.605Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes No-Show on SD Recognition? Let's Fix It
+excerpt: This Article Describes No-Show on SD Recognition? Let's Fix It
+thumbnail: https://thmb.techidaily.com/00c43aac4ac36494822026f46081d40ded4f30b2adeccfa477f16f86895593d2.jpg
+---
+
+## No-Show on SD Recognition? Let's Fix It
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c19afef32a4d.png)
+
+ If your SD card doesn’t appear in Windows File Explorer when you plug it into your PC’s card reader, don’t despair. This is a common Windows problem, and despite being very frustrating, it’s usually very easy to fix.
+
+ Below is a list of the fixes that have worked for other Windows users. Start at the top of the list and work your way down until you find the fix that works for you.
+
+ **Method 1:[Update your drivers](#1)**
+ **Method 2:[Clean your SD card & reader](#2)**
+ **Method 3:[Check if your card reader is disabled](#3)**
+ **Method 4:[Test your SD card in another PC](#4)**
+ **Method 5:[Disable then enable card reader (from other users)](#method5)**
+
+---
+
+## Method 1: Update your drivers
+
+ The most common cause of an unrecognized SD card is a faulty, incorrect or outdated card reader driver. So the first thing you should do it check that your drivers are in good health. You can do this either manually or automatically:
+
+**Manual driver update** – You can update your drivers manually by going to the manufacturer’s website and searching for the most recent correct driver. Note that for some drivers, you may need to try both the manufacturer of your PC and also the manufacturer of the card reader itself. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+**Automatic driver update** – Driver Easy will automatically recognize your system and find the correct driver for your card reader. You don’t need to know exactly what system your computer is running or who your card reader’s manufacturer. Nor do you need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.  You can update your drivers automatically with either the [**7 days free trial**](https://tools.techidaily.com/drivereasy/download/) or the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. It takes just 2 clicks, and you get full support and a 30-day money-back guarantee with the Pro version:
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**   and install Driver Easy.
+
+ 2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan-1200x840.jpg)
+
+ 3) Click the **Activate & Update** button next to all flagged devices to automatically download and install the correct version of their drivers. Pay close attention to whether your card reader appears in the list.
+
+ Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.).
+
+![](https://www.drivereasy.com/wp-content/uploads/2015/08/Realtek-USB-3.0-Card-Read.jpg)
+
+ If your card still isn’t working after updating your drivers, move onto[Method 2](https://zonlipartnershipprogram.pxf.io/b0rbxy) .
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+## Method 2: Clean your SD card & reader
+
+ Another very common cause of an unrecognized SD card is a very simple one: a dirty SD card or a dusty card reader. Either will cause a poor contact between card and reader.
+
+ So the second thing you should do is give your card a clean, and remove any dust from the reader, then try the card again.
+
+* To clean your card, dip a cotton cloth in a little alcohol or water, and lightly wipe the dirty area, paying particular attention to the metal contacts.
+* To clean your reader, use a compressed air device to blow the dust out of the reader. Alternatively, you can buy contact cleaner on Amazon, which you can use to clean the reader.
+
+ If the card still doesn’t work, move onto[Method 3](#3) .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a50eeaca64.jpg)
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+---
+
+## Method 3: Check if your card reader is disabled
+
+ If you’ve tried methods 1 and 2, and your PC still isn’t recognizing your SD card, it’s possible your card reader is turned off in your BIOS.
+
+ To check, restart your PC, and at the splash screen (the first screen you see after restarting), look for an instruction that tells you to press a certain key on your keyboard to enter your “BIOS” or “Settings” (e.g. F2 or Delete). Every motherboard manufacturer has their own unique BIOS with its own keyboard shortcut, so we can’t say exactly which key to press to get in.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a051c4cb26bf.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
+
+ Likewise all manufacturers organize their BIOS settings their own way; there’s no standard way of doing it. So we can’t tell you exactly what setting to change, and how to find that setting. But once you’re in the BIOS, it shouldn’t be too hard to find the ‘on/off’ switch for your card reader. Just look for a section related to devices or storage, and within that section look for something like “SD Reader” or “Card Reader”. Enable that setting if it’s not already enabled, then save and exit the BIOS. (Be sure to save as you exit. Some manufacturers make it very easy to leave the BIOS without saving your changes, and if you do, you won’t have changed anything.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a051c7dcd812.jpg)
+
+ Once your computer has restarted and you’ve logged into Windows, test your card again. If it’s still not recognized, move onto[Method 4](https://pish-posh-baby.sjv.io/g1jg15) .
+
+---
+
+## Method 4: Test your SD card in another PC
+
+ If your SD card is faulty, your PC won’t recognize it. To check, you’ll need to locate another PC with a card reader, and test your SD card in that computer, to see if it works.
+
+ If your SD card doesn’t work in the other PC either, it’s probably faulty, and you’ll need to replace it.
+
+ If it_does_ work in the other computer, then it’s not a faulty card, but it may be that your card reader is faulty.
+
+---
+
+## Method 5: Disable then enable card reader (from other users)
+
+ Thanks Alan Darlington for sharing this method, which has worked for many users. So if your SD card is still not showing up on your PC, try this method.
+
+ QuoteAlan Darlington’s words:
+
+ “Easy solution for me: ASUS X551C, Win10, 16G SD:  
+ Go to device manager as above — when I do it there is no SD Host Adapters but there is Memory Technology Devices under which there is RealteK PCIE Card reader. Select this then click Driver then on the Disable, acknowledge the popup, then back at the driver screen click on the Enable and its popup — the SD card now appears as it did previously & is accessable.  
+ Don’t know why this works but it did for me.”
+
+If you’re not sure how to do that, refer steps below:
+
+ 1) On your keyboard, press the**Win+R** (**Windows logo** key and**R** key) at the same time to invoke the run box.
+
+ 2) Type **devmgmt.msc** in the run box and click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-11-run-command-device-manager.jpg)
+
+ 3) Expand category “**Memory Technology Devices** “. Double-click the card reader (In Alan’s case, it’s RealteK PCIE CardaReader. In your case, it may be different.) to open
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37954379bfc.png)
+
+ 4) Go to**Driver** tab. Click**Disable Device** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3795ccae49c.png)
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
+
+ 5) When prompted to disable the device, click**Yes** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3798a978d8d.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+ 6) Double-click the card reader to open the Properties windows. Click**Enable Device** to re-enable the device.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3799136c9a1.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+
+---
+
+ We hope these tips help you fix your unrecognized SD card problem. Please comment below if you have any questions or suggestions. We’re always happy to hear of new solutions!
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-detailed-review-of-obss-video-capturing-tools/"><u>[New] Detailed Review of OBS's Video Capturing Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-achieving-flawless-photos-with-size-tweaks-on-ios/"><u>[Updated] In 2024, Achieving Flawless Photos with Size Tweaks on iOS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-obs-studio-and-skype-a-perfect-duo-explained-for-2024/"><u>[Updated] OBS Studio & Skype  A Perfect Duo Explained for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleashing-the-power-of-voice-ms-words-speech-recognition-features/"><u>[Updated] Unleashing the Power of Voice  MS Word's Speech Recognition Features</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-xiaomi-13t-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Xiaomi 13T Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/capturing-gaming-sessions-pick-between-obs-or-shadowplay/"><u>Capturing Gaming Sessions  Pick Between OBS or ShadowPlay</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-and-repairing-the-error-0x8024401c-in-windows-11-updates-for-a-smooth-experience/"><u>Decoding and Repairing the Error 0X8024401C in Windows 11 Updates for a Smooth Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/earnings-report-pewdiepies-income-summary/"><u>Earnings Report  PewDiePie's Income Summary</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-to-fix-hearthstone-lagging/"><u>Easy To Fix Hearthstone Lagging</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-error-1053-the-service-did-not-respond-to-the-start-or-control-request-in-a-timely-fashion/"><u>Fixed: Error 1053: The Service Did Not Respond to the Start or Control Request in a Timely Fashion</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-file-explorer-freezing-issues-on-windows-11-easy-solutions/"><u>How to Fix File Explorer Freezing Issues on Windows 11 - Easy Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-common-windows-update-failures-and-ensure-smooth-installation/"><u>How To Overcome Common Windows Update Failures And Ensure Smooth Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-lenovo-mouse-pad-failure-in-windows-version-11-8-or-7-step-by-step-solutions/"><u>How to Resolve Lenovo Mouse Pad Failure in Windows (Version 11, 8, or 7) – Step-by-Step Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-keyboard-malfunction-where-keys-get-stuck/"><u>How to Resolve Windows Keyboard Malfunction Where Keys Get Stuck</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-keywords-that-catapult-hashtag-hacks-in-gameplay-videos/"><u>In 2024, Keywords that Catapult  Hashtag Hacks in Gameplay Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-precision-in-photograph-preservation-phone-to-snapchat-guide/"><u>In 2024, Precision in Photograph Preservation  Phone to Snapchat Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-reach-audience-zenith-peak-watch-timings-uncovered/"><u>In 2024, Reach Audience Zenith - Peak Watch Timings Uncovered</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-for-stabilizing-drone-footage/"><u>In 2024, Strategies for Stabilizing Drone Footage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-windows-11-a-step-by-step-upgrade-guide-for-2024/"><u>Mastering Windows 11  A Step-by-Step Upgrade Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/oddworld-soulstorm-freezes-and-errors-fixed-expert-tips-for-a-smooth-gaming-experience/"><u>Oddworld: Soulstorm Freezes and Errors Fixed: Expert Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/rectify-the-unable-to-establish-directx-9-device-message-in-windows/"><u>Rectify the 'Unable to Establish DirectX 9 Device' Message in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-connectivity-issues-with-your-bluetooth-mouse-on-windows-pcs/"><u>Resolving Connectivity Issues with Your Bluetooth Mouse on Windows PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-icue-hardware-recognition-errors-step-by-step-guide/"><u>Resolving iCUE Hardware Recognition Errors: Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/seamless-social-media-execution-with-the-top-8-iphone-and-android-apps/"><u>Seamless Social Media Execution with The Top 8 iPhone & Android Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-reactivating-your-windows-update-service-quickly-and-easily/"><u>Solution Guide: Reactivating Your Windows Update Service Quickly and Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-xbox-one-sync-issues-how-to-successfully-connect-a-non-synching-controller/"><u>Solving Xbox One Sync Issues: How to Successfully Connect a Non-Synching Controller</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-overcoming-laptop-charging-problems-no-tech-expertise-required/"><u>The Ultimate Guide to Overcoming Laptop Charging Problems - No Tech Expertise Required</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210157199-trouble-with-windows-updates-heres-how-you-can-get-it-running-smoothly-again/"><u>Trouble with Windows Updates? Here's How You Can Get It Running Smoothly Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-excessive-cpu-consumption-caused-by-windows-audio-device-graph-issue/"><u>Troubleshooting and Repairing Excessive CPU Consumption Caused by Windows' Audio Device Graph Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-errors-when-playing-media-files-on-windows/"><u>Troubleshooting Errors When Playing Media Files on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-fixing-xerox-software-updates-failure-error-0x800f020b-in-windows/"><u>Troubleshooting Guide for Fixing Xerox Software Updates Failure (Error 0X800f020b) in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-bad-image-problems-on-windows-operating-systems/"><u>Troubleshooting Persistent Bad Image Problems on Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-warframe-pc-game-crashes-steps-towards-a-solution/"><u>Troubleshooting Warframe PC Game Crashes: Steps Towards a Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-resolving-this-action-requires-admin-approval-messages-on-windows-1078/"><u>Understanding and Resolving 'This Action Requires Admin Approval' Messages on Windows 10/7/8</u></a></li>
+<li><a href="https://common-error.techidaily.com/unveiling-the-solution-overcoming-total-war-romes-remastered-persistent-crashes/"><u>Unveiling the Solution: Overcoming Total War: Rome's Remastered Persistent Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-update-failed-successful-strategies-for-resolving-error-0x80240034/"><u>Windows 10 Update Failed? Successful Strategies for Resolving Error 0X80240034</u></a></li>
+</ul></div>
