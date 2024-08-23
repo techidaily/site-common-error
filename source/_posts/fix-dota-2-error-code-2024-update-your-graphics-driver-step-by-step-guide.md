@@ -1,0 +1,256 @@
+---
+title: "Fix Dota 2 Error Code 2024: Update Your Graphics Driver - Step-by-Step Guide"
+date: 2024-08-22T19:20:38.465Z
+updated: 2024-08-23T19:20:38.465Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: "This Article Describes Fix Dota 2 Error Code 2024: Update Your Graphics Driver - Step-by-Step Guide"
+excerpt: "This Article Describes Fix Dota 2 Error Code 2024: Update Your Graphics Driver - Step-by-Step Guide"
+thumbnail: https://thmb.techidaily.com/e7b4c7d026fb9a820758c805a32df2a4b6a1efba9319850eda25937764e730c5.jpg
+---
+
+## Expert Advice: Eliminate Error Code 0X80072EFD From Windows 10 - Step-by-Step Fixes
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/03/Check-your-connection1.jpg)
+
+ Is your Windows Store insisting you should “Check your connection”, even when your connection is fine? You’re not alone. Many Windows users have reported this persistent ‘**0x80072efd error** ’. Fortunately, it’s usually not too hard to fix.
+
+## Try these fixes…
+
+ Here are 7 solutions for you to try. You may not need to try them all; just work your way down until you find the one that works for you.
+
+**[1. Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
+**[2. Disable your proxy](https://tools.techidaily.com/drivereasy/download/)**
+**[3. Run the Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+**[4. Update Windows System  5. Clear Windows Store](https://tools.techidaily.com/drivereasy/download/) [Cache](https://tools.techidaily.com/drivereasy/download/)**
+**[6. Rename the software distribution folder](https://tools.techidaily.com/drivereasy/download/)**
+**[7. Reset or reinstall Windows](https://tools.techidaily.com/drivereasy/download/)**
+
+---
+
+### Fix 1: Update your device drivers
+
+ One of the most common causes of this error is corrupted or outdated device drivers. So you should definitely try updating your drivers before trying anything more complicated. You can do this manually, if you like, by visiting each manufacturer’s download page, finding the right drivers, etc. But that takes time and computer skills. If you’re not comfortable playing with device drivers, we recommend using[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It’s a tool that detects, downloads and installs any driver updates your computer needs.
+
+**1)** [**Download**](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+
+**2)** Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap38-1.jpg)
+
+**3)** Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap32-3.jpg)
+
+**Note** : You can do it for free if you like, but it’s partly manual.
+
+---
+
+### Fix 2: Disable your proxy
+
+ If you’re using a proxy to connect to the internet, use the following steps to disable it.
+
+**1)** On your keyboard, press the**Windows Key** (with windows logo) and**R** together.
+
+**2)** Type “inetcpl.cpl” in the box and click the**OK** button.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap43.jpg)
+
+**3)** Go to “Connections” tab and click**LAN Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap35.jpg)
+
+**4)** Check the box which says “Automatically detect settings” and uncheck the box under**Proxy server** . Then click the**OK** button.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap36-1.jpg)
+
+**5)** Go check the Windows Store app.  
+
+---
+
+### Fix 3: Run the Windows Update Troubleshooter
+
+ The error code may be related to Windows Update error. The Windows Update Troubleshooter is an inbuilt tool that helps to fix Windows update errors. The steps below help you fix this issue.
+
+**1)** On your keyboard, press the**Windows Key** (with windows logo) and**I** (the “i” key) together.
+
+**2)** Click**Update & Security** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap37-2.jpg)
+
+**3)** Under**Troubleshoot** tab click**Windows Update** and then click**Run the troubleshooter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap39-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+**4)** After finishing the troubleshooting process, restart your computer and check the error is fixed or not.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 4: Update Windows
+
+ The 0x80072efd error may be the result of a problem in Windows, itself, or a conflict between Windows and another program. So you should check to see if there are Windows updates available and if there are, install them.
+
+**1)** On your keyboard, press the**Windows Key** (with windows logo) and**I** (the “i” key) together.
+
+**2)** Click**Update & Security** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap37-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)** Click**Check for updates** first, then click**Install Now** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap83.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**4)** Follow the instructions and then check whether the error is fixed.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 5: Clear Windows Store Cache
+
+ The 0x80072efd error may be caused by a damaged Windows Store Cache. To fix it, you can clear the Windows Store cache as follows:
+
+**1)** Click the Windows start button, type**wsreset** and click “Run as administrator”.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap46-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**2)** A command prompt window will open and then close automatically. After that, you’ll see a confirmation message shows up saying: “The cache for the Store was cleared. You can now browse the Store for apps”.
+
+ Check to see if the 0x80072efd error is resolved and the Windows Store app is working normally.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+### Fix 6: Rename the software distribution folder
+
+ If the above solutions won’t work for you, you should try renaming the Software Distribution:
+
+**1)** Click the Windows start button, type**command prompt** in the search bar and click “Run as administrator”.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap47.jpg)
+
+**2)** Type (or copy-paste) the below commands into the Command Prompt window**one by one** . After typing one line, press the**Enter** key and then go next.  
+
+net stop wuauserv  
+net stop bits  
+rename c:\windows\SoftwareDistribution SoftwareDistribution.bak
+net start wuauserv  
+net start bits
+
+**3)** Type**exit** and press the**Enter** key to close the Command Prompt window.
+
+**4)** Reboot your computer.
+
+Now check to see if your Windows Store is working normally.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 7: Reset or reinstall Windows
+
+ If all else fails, you may have to[reset Windows](https://tools.techidaily.com/drivereasy/download/) , or maybe even[reinstall it](https://tools.techidaily.com/drivereasy/download/) together. We all know reinstalling will delete all the data on your hard drive, you have to[back up all your important files](https://tools.techidaily.com/drivereasy/download/) before doing it.  
+ However, with **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , there’s **no need for lengthy back-ups, support phone calls, or risk to your personal data** . It can reset Windows to the state exactly when it was just installed without affecting third-party software.  
+ Here’s how to use it:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
+2. Open Fortect and click**Yes** to run a free scan of your PC.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
+3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+ The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
+ Email: **<support@fortect.com>**
+
+ But treat these options as a last resort, because they both take quite a long time.
+
+---
+
+ Hopefully this article has helped you resolve the 0x80072EFD error. If you have any questions or suggestions, please leave a comment below, and we’ll do our best to help.
+
+* [error](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/net-framework-35-setup-error-code-0x800f081f-a-step-by-step-correction-guide/"><u>.NET Framework 3.5 Setup Error Code 0X800F081F - A Step-by-Step Correction Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-keep-your-feed-pure-stop-suggested-posts/"><u>[New] In 2024, How to Keep Your Feed Pure  Stop Suggested Posts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-vfx-essentials-unlocked-top-8-sites-for-free-high-quality-green-screen-imagery/"><u>[New] VFX Essentials Unlocked  Top 8 Sites for FREE High-Quality Green Screen Imagery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-content-creation-leading-after-effects-plugins/"><u>2024 Approved  Streamline Content Creation  Leading After Effects Plugins</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-unveiling-the-quickest-method-to-construct-google-image-mosaics/"><u>2024 Approved  Unveiling the Quickest Method to Construct Google Image Mosaics</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-11-pro-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 11 Pro Without a Passcode</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-12-proplus-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/audio-woes-in-win-11-ends-steps-taken/"><u>Audio Woes in Win 11 Ends: Steps Taken</u></a></li>
+<li><a href="https://fox-access.techidaily.com/capturing-the-best-on-iphone-8-techniques-for-pro-video-shoots/"><u>Capturing the Best on iPhone  8 Techniques for Pro Video Shoots</u></a></li>
+<li><a href="https://common-error.techidaily.com/chromecast-wont-pair-discover-quick-solutions-for-better-connectivity/"><u>Chromecast Won't Pair? Discover Quick Solutions for Better Connectivity!</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fix-guide-for-persistent-crash-problems-in-oddworld-soulstorm-on-desktop-computers/"><u>Comprehensive Fix Guide for Persistent Crash Problems in Oddworld: Soulstorm on Desktop Computers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/delve-into-hardware-hacks-and-software-secrets-with-toms-experts/"><u>Delve Into Hardware Hacks and Software Secrets with Tom's Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-the-windows-sound-driver-high-resource-utilization-problem/"><u>Diagnosing and Fixing the Window's Sound Driver High Resource Utilization Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208009912-endless-cursor-flicker-heres-what-you-can-do-to-fix-it/"><u>Endless Cursor Flicker? Here's What You Can Do To Fix It</u></a></li>
+<li><a href="https://common-error.techidaily.com/ensuring-ftdi-integrity-the-crucial-role-of-compatible-hardware-components-and-drivers/"><u>Ensuring FTDI Integrity: The Crucial Role of Compatible Hardware Components and Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-windows-11-sound-settings-issue-how-to-restore-volume-functionality/"><u>Fix Windows 11 Sound Settings Issue: How to Restore Volume Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-32-bit-application-faces-critical-error-print-driver-host-not-responding/"><u>Fixing the Issue: 32-Bit Application Faces Critical Error - Print Driver Host Not Responding</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-persistent-100-stall-in-windows-updates-solution/"><u>Fixing the Persistent 100%% Stall in Windows Updates - SOLUTION</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-12-pro-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 12 Pro? Heres the Best Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-windows-camera-error-code-0xa00f4292/"><u>How to Resolve the Windows Camera Error (Code 0Xa00f4292)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-resolve-the-critical-fatal-error-code-1603-in-software-setup/"><u>How to Successfully Resolve the Critical Fatal Error (Code 1603) in Software Setup</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-free-film-resource-highlights-where-to-start-your-search/"><u>In 2024, Free Film Resource Highlights  Where to Start Your Search</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-quick-windows-11-logins-restoration/"><u>Mastering Quick Windows 11 Logins Restoration</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-wins-for-windows-11-users-for-2024/"><u>New Wins for Windows 11 Users for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-resolution-for-non-functioning-airdrop-effortless-solutions-explained/"><u>Quick Resolution for Non-Functioning AirDrop: Effortless Solutions Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-to-rdr2-memory-errors-boost-your-page-file-size-now/"><u>Quick Solutions to RDR2 Memory Errors: Boost Your Page File Size Now</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-realme-10t-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Realme 10T 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210412360-resolve-unknown-usb-device-issues-in-windows-n-with-these-easy-steps/"><u>Resolve 'Unknown USB Device' Issues in Windows N with These Easy Steps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-superfetch-excessive-hard-drive-use-tips-and-tricks-for-pc-users/"><u>Resolving Superfetch Excessive Hard Drive Use: Tips & Tricks for PC Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-lengthy-shutdown-delays-in-windows-10-systems/"><u>Resolving the Lengthy Shutdown Delays in Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tips-to-restore-your-dell-speaker-functionality/"><u>Step-by-Step Tips to Restore Your Dell Speaker Functionality</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swiftly-update-intel-graphics-3000-for-windows-11/"><u>Swiftly Update Intel Graphics 3000 for Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-frustrating-twitch-error-code-4000/"><u>Ultimate Guide: Resolving the Frustrating Twitch Error Code 4000</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-gameplay-upgrades-a-guide-to-achieving-smoother-faster-games/"><u>Windows 11 Gameplay Upgrades: A Guide to Achieving Smoother, Faster Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-strategy-instructing-windows-to-recognize-suitable-printer-drivers/"><u>Winning Strategy: Instructing Windows to Recognize Suitable Printer Drivers</u></a></li>
+</ul></div>
