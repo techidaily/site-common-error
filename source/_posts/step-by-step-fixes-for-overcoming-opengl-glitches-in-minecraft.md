@@ -1,0 +1,171 @@
+---
+title: Step-by-Step Fixes for Overcoming OpenGL Glitches in Minecraft
+date: 2024-08-27T13:47:37.674Z
+updated: 2024-08-28T13:47:37.674Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Step-by-Step Fixes for Overcoming OpenGL Glitches in Minecraft
+excerpt: This Article Describes Step-by-Step Fixes for Overcoming OpenGL Glitches in Minecraft
+thumbnail: https://thmb.techidaily.com/894f058d97b0ae58b0d33f76cb56fbf958c597ef2e3803e9c39a34ad0c70622d.jpg
+---
+
+## Resolving Audio Glitches: Speaker Issues on Windows Operating Systems Solved
+
+If you ever encounter this**speaker crackling** issue, don’t worry. Many users have reported this problem too.
+
+ And luckily they’ve successfully tackled the noise problem with the fixes below. So check them out…
+
+## Fixes for speakers crackling
+
+ All the screenshots below are from**Windows 10** , but the fixes also work in**Windows 7** .
+
+ You may not have to try all the fixes; just work your way down the list until the pesky crackling sound problem in your laptop disappears.
+
+1. [**Disable Exclusive Mode and change the sound format**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Adjust the minimum processor state**](https://tools.techidaily.com/drivereasy/download/)
+
+---
+
+### **Fix 1: Disable Exclusive Mode and change the sound format**
+
+ Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
+
+1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
+2. Right-click on**speakers** and click**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
+3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
+4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
+5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
+6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 2: Update your audio driver
+
+ This speaker crackling problem may occur if you are using the wrong audio  driver or it’s out of date. So you should update your audio  driver to see if it fixes your problem. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the[**Free**](https://tools.techidaily.com/drivereasy/download/) or the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
+ You can also click **Update** to do it for free if you like, but it’s partly manual.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+4. Restart your computer, play some audio and see if that crackling noise has gone by now.
+
+---
+
+### Fix 3: Adjust **the minimum processor state**
+
+ Adjusting**the minimum processor state** , as reported by many users, is another effective way to fix the annoying sound problem in our speaker. To do so:
+
+1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
+2. Click the **High performance** option > **Change plan settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
+3. Click **Change advanced power settings** .  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
+4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
+ Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
+5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
+
+---
+
+ There you go – top 3 fixes for the **speaker crackling** problem in your Windows 10/8/7\. Hope this helps and feel free to share your ideas with us in the comment section below. 🙂
+
+* [Audio](https://tools.techidaily.com/drivereasy/download/)
+* [driver](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-advanced-mac-screenshots-a-deep-dive-into-five-efficient-methods/"><u>[New] 2024 Approved  Advanced Mac Screenshots  A Deep Dive Into Five Efficient Methods</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-securing-social-media-memories-the-latest-on-downloading-fb-statuses/"><u>[New] 2024 Approved  Securing Social Media Memories  The Latest on Downloading Fb Statuses</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-detecting-unregistered-friends-list/"><u>[New] Detecting Unregistered Friends List</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-quietude-in-a-click-the-ultimate-calm-list/"><u>[New] Quietude in a Click  The Ultimate Calm List</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-boost-engagement-using-obs-for-youtube-and-twitch-audiences/"><u>[Updated] In 2024, Boost Engagement Using OBS for YouTube & Twitch Audiences</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-photoshop-tutorial-creating-3d-text-illusions/"><u>[Updated] Photoshop Tutorial  Creating 3D Text Illusions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fundamentals-of-online-tale-creation-methods/"><u>2024 Approved  Fundamentals of Online Tale Creation Methods</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-transforming-tiktok-videos-with-creative-and-relevant-captions/"><u>2024 Approved  Transforming TikTok Videos with Creative and Relevant Captions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-mastery-techniques-for-producing-polished-youtube-video-scripts/"><u>ChatGPT Mastery: Techniques for Producing Polished YouTube Video Scripts</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-step-by-step-guide-troubleshooting-your-broken-xbox-one-pen/"><u>Complete Step-by-Step Guide: Troubleshooting Your Broken Xbox One Pen</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-fixing-the-persistent-error-0x800f081f-in-net-framework-version-35-deployment/"><u>Comprehensive Guide to Fixing the Persistent Error 0X800F081F in .NET Framework Version 3.5 Deployment</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-and-repairing-the-error-0x8024401c-in-windows-11-updates-for-a-smooth-experience/"><u>Decoding and Repairing the Error 0X8024401C in Windows 11 Updates for a Smooth Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-a-broken-or-unresponsive-laptop-trackpad/"><u>Diagnosing and Repairing a Broken or Unresponsive Laptop Trackpad</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-unreachable-steam-content-hosts/"><u>Expert Tips for Overcoming Unreachable Steam Content Hosts</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-the-shift-key-that-wont-work-step-by-step-guide-for-quick-resolution/"><u>Fix the Shift Key That Won’t Work: Step-by-Step Guide for Quick Resolution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-13-mini-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 13 mini</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-the-frustrating-usb-not-detected-error-on-your-pc-solved/"><u>How to Address the Frustrating 'USB Not Detected' Error on Your PC – [SOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-freshen-up-your-windows-11-experience-with-a-reset-or-refresh/"><u>How to Freshen Up Your Windows 11 Experience with a Reset or Refresh</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-common-windows-update-failures-and-ensure-smooth-installation/"><u>How To Overcome Common Windows Update Failures And Ensure Smooth Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-lenovo-mouse-pad-failure-in-windows-version-11-8-or-7-step-by-step-solutions/"><u>How to Resolve Lenovo Mouse Pad Failure in Windows (Version 11, 8, or 7) – Step-by-Step Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-your-mouse-visibility-in-windows-11-expert-troubleshooting-guide/"><u>How to Restore Your Mouse Visibility in Windows 11 - Expert Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-repair-mouse-freeze-problems-on-computers/"><u>How to Troubleshoot and Repair Mouse Freeze Problems on Computers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-xiaomi-redmi-13c-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Xiaomi Redmi 13C FRP Bypass Instantly</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-instagrams-music-stickers-integration/"><u>In 2024, Mastering Instagram's Music Stickers Integration</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-streamline-your-online-presence-using-wirecast-and-facebook-live/"><u>In 2024, Streamline Your Online Presence Using Wirecast and Facebook Live</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211653770-increase-efficiency-solving-windows-11-prolonged-shutdown-time-issue/"><u>Increase Efficiency: Solving Windows 11 Prolonged Shutdown Time Issue.</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-how-to-perform-a-successful-streaming-on-twitch/"><u>New In 2024, How To Perform a Successful Streaming on Twitch</u></a></li>
+<li><a href="https://common-error.techidaily.com/oddworld-soulstorm-freezes-and-errors-fixed-expert-tips-for-a-smooth-gaming-experience/"><u>Oddworld: Soulstorm Freezes and Errors Fixed: Expert Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-hurdle-of-windows-11-stalled-updates-expert-solutions/"><u>Overcoming the Hurdle of Windows 11 Stalled Updates: Expert Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-connectivity-issues-with-your-bluetooth-mouse-on-windows-pcs/"><u>Resolving Connectivity Issues with Your Bluetooth Mouse on Windows PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-typing-problems-windows-11-spacebar-malfunction-solutions/"><u>Resolving Typing Problems: Windows 11 Spacebar Malfunction Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-logilda-dll-with-ease/"><u>Revive LogiLDA DLL with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-lenovo-mouse-pad-problems-on-windows-effective-fixes-for-windows-1087-users/"><u>Solve Your Lenovo Mouse Pad Problems on Windows: Effective Fixes for Windows 10/8/7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-resolving-window-10-audio-renderer-error-with-youtube-media-playback/"><u>Step-by-Step Guide to Resolving Window 10 Audio Renderer Error with YouTube Media Playback</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-role-of-msdia80dll-file-do-you-need-to-preserve-it/"><u>The Role of msdia80.dll File: Do You Need to Preserve It?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-of-the-withings-move-combining-analog-aesthetics-with-a-cutting-edge-smartwatch-experience/"><u>The Ultimate Review of the Withings Move: Combining Analog Aesthetics with a Cutting-Edge Smartwatch Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210157199-trouble-with-windows-updates-heres-how-you-can-get-it-running-smoothly-again/"><u>Trouble with Windows Updates? Here's How You Can Get It Running Smoothly Again!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-call-of-duty-warzone-when-your-pc-cant-find-games/"><u>Troubleshooting Call of Duty: Warzone - When Your PC Can’t Find Games</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/tweaking-video-rhythms-on-youtube-desktopmobile/"><u>Tweaking Video Rhythms on YouTube (Desktop/Mobile)</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-resolving-this-action-requires-admin-approval-messages-on-windows-1078/"><u>Understanding and Resolving 'This Action Requires Admin Approval' Messages on Windows 10/7/8</u></a></li>
+</ul></div>

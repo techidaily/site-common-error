@@ -1,0 +1,231 @@
+---
+title: "Troubleshoot CSGO Issues Like a Pro: End Crashes for Good!"
+date: 2024-08-27T13:51:35.998Z
+updated: 2024-08-28T13:51:35.998Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: "This Article Describes Troubleshoot CSGO Issues Like a Pro: End Crashes for Good!"
+excerpt: "This Article Describes Troubleshoot CSGO Issues Like a Pro: End Crashes for Good!"
+thumbnail: https://thmb.techidaily.com/f242798f01f6eb6860b3f63a7fdce4b4bcb3c643fae381466103984b36dbd16d.jpg
+---
+
+## How to Troubleshoot PC Game Crashes in Nier: Automata - Solved
+
+When you are enjoying Nier Automata, but the**Nier Automata crashing** on your PC. Don’t worry. Although it’s incredibly frustrating, there are fixes that can help you get rid of it.
+
+## **Try these fixes**
+
+ Here’s a list of fixes that have helped some Nier Automata players solve the problem. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
+
+1. [**Check if your PC meets the minimum system requirements for Nier Automata**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Install the latest game patch**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Update or reinstall your drivers**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Close FAR(Fix Automata Resolution) Mod**](https://www.drivereasy.com/knowledge/solved-nier-automata-crashing-on-pc/#f4)
+5. [**Change processor affinity**](https://tools.techidaily.com/drivereasy/download/)
+
+---
+
+### **Fix 1: Check if your PC meets the minimum system requirements for Nier Automata**
+
+ Nier Automata may crash if your PC fails to meet its minimum hardware requirements. Check if your PC meets its minimum hardware requirements first:
+
+ **The minimum system requirements for Nier Automata:**
+
+| **OS**        | Windows 7/8.1/10 64 bit       |
+| ------------- | ----------------------------- |
+| **Processor** | Intel i3 2100 OR AMD A8-6500  |
+| **Graphics**  | NVidia GTX 770 OR AMD R9 270X |
+| **Memory**    | 4 GB                          |
+| **DirectX**   | Version 11                    |
+| **Storage**   | 50 GB available space         |
+| **Keyboard**  | MS-IME keyboard input         |
+| **Screen**    | 1270×720                      |
+
+ As we all know, it’s never the ideal way to play Nier Automata with a PC which just meets its minimum hardware requirements. So we also list the recommended system requirements for**Nier Automata** below.
+
+**The recommended system requirements for Nier Automata**   **:**
+
+| **OS**        | Windows 8.1/10 64bit           |
+| ------------- | ------------------------------ |
+| **Processor** | Intel i5 4670 or AMD A10-7850K |
+| **Graphics**  | NVidia GTX 980 OR AMD R9 380X  |
+| **Memory**    | 8 GB                           |
+| **DirectX**   | Version 11                     |
+| **Storage**   | 50 GB available space          |
+| **Keyboard**  | MS-IME keyboard input          |
+| **Screen**    | 1920×1080                      |
+
+**You may need to upgrade your hardware** if your PC fails to meet the minimum system requirements for Nier Automata.
+
+---
+
+### **Fix 2: Install the latest game patch**
+
+ The developers of**Nier Automata** will keep releasing game patches to fix bugs. You can install the latest patch which may have triggered this issue.
+
+ After installing the latest game patch, run Nier Automata to see if the issue has been resolved. If this issue still there, or there’s no new game patch released, move to the next fix.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
+### **Fix 3: Update or reinstall your drivers**
+
+#### A. Update your driver
+
+ Missing or outdated drivers may also trigger the game crash issues. In this case, you need to update your drivers to resolve this issue.
+
+ There are two ways to update your drivers:**automatically** and**manually** .
+
+**Option 1–Automatically**
+
+ Use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to automatically update your driver with 2 clicks (  
+ This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  ) :  
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu1-3.jpg)
+3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
+ Or you can click the**Update** button next to the graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-3.jpg)
+4. Restart your computer, and see if the problem is fixed or not.
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
+
+**Option 2–Manually**
+
+1. On your keyboard, press the**Windows logo key** and **R** together to invoke the Run box.
+2. Type “devmgmt.msc” and click**OK** .  
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
+3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Update driver** .  
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
+4. Follow the on-screen instructions to finish the process.
+5. Restart your computer, and see if the problem is fixed or not.
+
+#### B. Reinstall the previous driver
+
+ It is possible that some programs are not compatible with the latest version of the graphics driver and cause trouble. If update your driver doesn’t work or your driver is already the latest version, you can uninstall your graphics card driver and install the previous version to fix this problem.
+
+1. On your keyboard, press the**Windows logo key** and **R** together to invoke the Run box.
+2. Type “devmgmt.msc” and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
+3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
+4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
+5. Restart your computer, and see if the problem is fixed or not.
+
+---
+
+### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
+
+ Fix Automata Resolution (FAR) is developed by Nier Automata. By manipulating the graphics requirements of the game, users with lower specs can play the game. But FAR can be the reason for the Nier Automata crashing problem.
+
+ If you have already enabled FAR mod, you can disable it and restore the game settings to default to solve the problem. Then restart your computer to check whether it solves the problem or not.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
+### Fix 5: Change processor affinity
+
+ According to practice and some users experiences, processor affinity can help users get rid of the crash. You can try this method, but if it works for you, you have to repeat it every time when you launch the game.
+
+1. Run the game, then press the**Windows logo key** +**R** together to open the run box.
+2. Type “taskmgr” and press**Enter** to open the Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/task.jpg)
+3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
+4. Select only**Core 0** and**Core 2** then click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
+5. Go back to the game, it should be running properly.
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+---
+
+ Hopefully, this post helped you resolve the Nier Automata crashing issue. If you have any questions or suggestions, please leave your comments below.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-dominate-online-chatter-secrets-to-buzz-creating/"><u>[New] 2024 Approved  Dominate Online Chatter  Secrets to Buzz-Creating</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-alt-tab-not-working/"><u>[Solved] Alt Tab Not Working</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-the-request-failed-due-to-a-fatal-device-hardware-error/"><u>[SOLVED] The Request Failed Due to a Fatal Device Hardware Error</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-real-time-broadcasting-excellence-connecting-via-wirecast-to-facebook/"><u>[Updated] 2024 Approved  Real-Time Broadcasting Excellence  Connecting via Wirecast to Facebook</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-guide-to-restoring-functionality-for-non-working-function-fn-keys-on-dell-laptops/"><u>A Guide to Restoring Functionality for Non-Working Function (Fn) Keys on Dell Laptops</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-motorola-moto-g-stylus-2023-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://common-error.techidaily.com/audio-alchemy-transforming-laptops-to-detect-headsets/"><u>Audio Alchemy: Transforming Laptops to Detect Headsets</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-blockages-the-quick-fix-guide-to-gaming/"><u>Banish Blockages: The Quick Fix Guide to Gaming</u></a></li>
+<li><a href="https://common-error.techidaily.com/correcting-windows-setup-files-that-arent-working-properly/"><u>Correcting Windows Setup Files That Aren't Working Properly</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-intermittent-screen-lock-ups-in-computers/"><u>Diagnosing and Repairing Intermittent Screen Lock-Ups in Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-microsofts-print-to-pdf-not-working-on-windows-11/"><u>Effective Solutions for Microsoft’s Print to PDF Not Working on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-decrease-gpu-usage-of-dwm-in-windows-10-and-11/"><u>Effective Strategies to Decrease GPU Usage of DWM in Windows 10 and 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-resolve-windows-file-corruption-issues-ws-10-and-11-edition/"><u>Effective Strategies to Resolve Windows File Corruption Issues - WS 10 & 11 Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-free-updating-made-simple-overcoming-windows-0x80070652-mishap-with-ease/"><u>Error-Free Updating Made Simple: Overcoming Windows 0X80070652 Mishap with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-common-problems-with-your-lenovo-keyboard-not-working/"><u>Expert Advice: Overcoming Common Problems with Your Lenovo Keyboard Not Working</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-troubleshooting-steps-for-windows-10-sound-level-adjustments/"><u>Fix: Troubleshooting Steps for Windows 10 Sound Level Adjustments</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-ctrlplusaltplusdel-issues-ultimate-guide-to-restoring-functionality/"><u>Fixing Ctrl+Alt+Del Issues: Ultimate Guide to Restoring Functionality</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-enable-alternatives-after-disabling-adobe-shockwave-in-chrome/"><u>How To Enable Alternatives After Disabling Adobe Shockwave in Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-xerox-update-error-0x800f020b-and-enhance-your-printer-experience-on-windows/"><u>How to Fix 'Xerox Update Error 0X800f020b' And Enhance Your Printer Experience on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-xiaomi-redmi-13c-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Xiaomi Redmi 13C 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-msmpengexe-high-cpu-usage-on-your-windows-10-pc-solution-guide/"><u>How to Fix MsMpEng.exe High CPU Usage on Your Windows 10 PC – Solution Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-release-a-stuck-update-on-legacy-oss-like-windows-seven-latest-techniques-and-solutions-for-better-user-experience-in-the-year-of-our-lord-two-thousa24/"><u>How To Release A Stuck Update On Legacy OSs Like WIndows Seven - Latest Techniques & Solutions For Better User Experience In The Year Of Our Lord Two Thousand And Twenty Four Edition! (Helpful Tips and Troubleshooting Steps.)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-video-not-detected-problem-on-your-screen-a-detailed-walkthrough/"><u>How to Resolve the 'Video Not Detected' Problem on Your Screen - A Detailed Walkthrough</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-your-disappeared-sound-levels-icon-in-windows-11-with-images/"><u>How to Restore Your Disappeared Sound Levels Icon in Windows 11 with Images</u></a></li>
+<li><a href="https://common-error.techidaily.com/improve-your-computers-efficiency-through-effective-clutter-clearance/"><u>Improve Your Computer's Efficiency Through Effective Clutter Clearance</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-zero-30-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Zero 30 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-huawei-nova-y91-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Huawei Nova Y91 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-fix-handling-and-repairing-hamachi-errors-effectively/"><u>Master the Fix: Handling and Repairing Hamachi Errors Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-fixing-msvcp140dll-missing/"><u>Mastering the Art of Fixing MSVCP140.dll Missing</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-install-a-users-guide-to-correcting-error-0x800f081f-on-net-framework/"><u>Mastering the Install: A User's Guide to Correcting Error 0X800F081F on .NET Framework</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-rdr2-out-of-memory-error-with-this-simple-step-expand-your-page-file/"><u>Overcome 'RDR2 Out Of Memory' Error with This Simple Step – Expand Your Page File</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-infinix-hot-40i-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Infinix Hot 40i Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-video-file-cant-play-error-224003/"><u>Resolved: Fixing 'Video File Can't Play - Error 224003'</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-when-your-sims-4-game-wont-start/"><u>Solving the Problem: When Your Sims 4 Game Won’t Start</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-repair-how-to-get-your-touchpad-working-again/"><u>Step-by-Step Repair: How to Get Your Touchpad Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-end-of-fortnites-initial-failures/"><u>The End of Fortnite's Initial Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-high-disk-consumption-of-microsoft-compatibility-telemetry-on-windows-10/"><u>Troubleshooting and Fixing High Disk Consumption of Microsoft Compatibility Telemetry on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-windows-11-disk-read-failures-easy-fixes-for-users/"><u>Troubleshooting and Repairing Windows 11 Disk Read Failures: Easy Fixes for Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-non-responsive-lenovo-mouse-pads-in-widows-oss/"><u>Troubleshooting Guide for Non-Responsive Lenovo Mouse Pads in Widows OSs</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-minecraft-launch-problems-on-a-windows-pc/"><u>Troubleshooting Guide: Resolving Minecraft Launch Problems on a Windows PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-what-to-do-when-you-encounter-a-missing-module-issue/"><u>Troubleshooting: What to Do When You Encounter a Missing Module Issue</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-dough-spectrum-black-in-depth-look-at-a-top-tier-27-gaming-monitor-for-pro-gamers/"><u>Unveiling the Dough Spectrum Black: In-Depth Look at a Top-Tier 27'' Gaming Monitor for Pro Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-is-my-windows-11-start-menu-not-responding-solutions-inside/"><u>Why Is My Windows 11 Start Menu Not Responding? Solutions Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/winapi-component-absent-cruntimel1-1-0/"><u>WinAPI Component Absent - cRuntimeL1-1-0</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-upgrade-fails-with-error-0xc1900208-heres-how-to-fix-it/"><u>Windows 11 Upgrade Fails with Error 0Xc1900208? Here's How to Fix It</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-back-disappeared-desktop-icons-on-windows-11-simple-troubleshooting-tips/"><u>Winning Back Disappeared Desktop Icons on Windows 11 - Simple Troubleshooting Tips</u></a></li>
+</ul></div>
