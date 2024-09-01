@@ -1,7 +1,7 @@
 ---
 title: Medullary Carcinoma Originates From Parafollicular C Cells and Can Be Associated with Genetic Syndromes Like Multiple Endocrine Neoplasia Type 2 (MEN2).
-date: 2024-08-09T00:49:01.856Z
-updated: 2024-08-10T00:49:01.856Z
+date: 2024-08-31T17:43:24.245Z
+updated: 2024-09-01T17:43:24.245Z
 tags:
   - win11
   - win10
@@ -174,3 +174,51 @@ How to back up the game:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-metaverse-chronicles-exploring-infinite-worlds-through-film/"><u>[New] 2024 Approved  Metaverse Chronicles  Exploring Infinite Worlds Through Film</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-chuckling-chambers-humor-for-special-days/"><u>[New] Chuckling Chambers  Humor for Special Days</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhancing-your-video-impact-a-compreranble-plan-for-youtube-success/"><u>[New] In 2024, Enhancing Your Video Impact  A Compreranble Plan for YouTube Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-quantum-hdr-principles/"><u>[New] Mastering Quantum HDR Principles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-zero-fee-image-upgrade-for-smartphonespcs/"><u>[New] Prime Zero-Fee Image Upgrade for Smartphones/PCs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-showdown-battle-royales-top-titles/"><u>[New] Ultimate Showdown  Battle Royale's Top Titles</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-easy-entree-straightforward-screen-capture-methods-dell-for-2024/"><u>[Updated] Easy Entrée  Straightforward Screen Capture Methods (Dell) for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-filming-for-tweet-sharing-content-without-retweeting/"><u>[Updated] Filming for Tweet  Sharing Content without Retweeting</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-ultimate-list-of-ae-title-enhancement-methods/"><u>[Updated] In 2024, Ultimate List of AE Title Enhancement Methods</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-unlock-video-potential-premium-lens-selection-tips/"><u>[Updated] In 2024, Unlock Video Potential  Premium Lens Selection Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210640802-accelerate-your-typing-experience-effective-fixes-for-lagging-keys-in-the-latest-windows-operating-system/"><u>Accelerate Your Typing Experience: Effective Fixes for Lagging Keys in the Latest Windows Operating System.</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-distortion-in-far-cry-6-game-graphics/"><u>Addressing Distortion in Far Cry 6 Game Graphics</u></a></li>
+<li><a href="https://common-error.techidaily.com/african-americans/"><u>African Americans</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/alienwares-latest-gaming-desktop-with-rtx-4070-super-now-at-an-unbelievable-price-of-1499-after-savings/"><u>Alienware's Latest Gaming Desktop with RTX 4070 Super – Now at an Unbelievable Price of $1,499 After Savings</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/asus-ac68u-tri-band-wi-fi-router-comprehensive-review-and-analysis/"><u>Asus AC68U Tri-Band Wi-Fi Router - Comprehensive Review & Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-graphics-engine-failure-during-launch/"><u>Comprehensive Fixes Graphics Engine Failure During Launch</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-keyboard-troubleshooting-why-its-not-responding-and-what-to-do-next/"><u>Corsair Keyboard Troubleshooting: Why It's Not Responding & What To Do Next</u></a></li>
+<li><a href="https://common-error.techidaily.com/dna-damage-and-mutations/"><u>DNA Damage and Mutations</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-straightening-gridlines-on-monitors/"><u>Effective Solutions for Straightening Gridlines on Monitors</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-correctly-handle-windows-update-error-0x8007001f/"><u>Effective Solutions to Correctly Handle Windows Update Error 0X8007001F</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208316634-expert-tips-to-get-overwatch-voice-chat-working-again-no-hassle/"><u>Expert Tips to Get Overwatch Voice Chat Working Again – No Hassle!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-download-and-setup-your-dell-wd1e-hardware-drivers-with-ease/"><u>Find, Download, and Setup Your Dell WD1e Hardware Drivers with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-ensure-your-devices-are-detected-by-windows-11s-bluetooth-functionality/"><u>How to Ensure Your Devices Are Detected by Windows 11'S Bluetooth Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-no-device-found-problem-in-icue-a-step-by-step-guide/"><u>How to Fix the 'No Device Found' Problem in ICUE: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/hp-notebook-usb-dilemma-solved-how-to-restore-functionality/"><u>HP Notebook USB Dilemma Solved: How to Restore Functionality</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-v27-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo V27 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-the-onetastic-enhancer-for-microsoft-onenote-users/"><u>In-Depth Evaluation of the Onetastic Enhancer for Microsoft OneNote Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-fix-successful-steps-to-resolve-error-code-1-new-best-seo-titles-for-google-search-fatal-installer-glitch-error-1603-solved/"><u>Master the Fix: Successful Steps to Resolve Error Code 1 # New Best SEO Titles for Google Search - Fatal Installer Glitch (Error 1603) Solved</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/match-merge-and-master-color-correction-in-fcp-for-2024/"><u>Match, Merge, and Master Color Correction in FCP for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-common-problems-in-torrent-file-downloading-processes/"><u>Overcoming Common Problems in Torrent File Downloading Processes</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-teredos-disqualification-hurdles-for-successful-implementation/"><u>Overcoming Teredo's Disqualification Hurdles for Successful Implementation</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-sound-adjustment-problems-in-windows-10-expert-tips-and-tricks/"><u>Resolving Sound Adjustment Problems in Windows 10 – Expert Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-windows-cannot-locate-suitable-printer-driver-error/"><u>Solution Steps for 'Windows Cannot Locate Suitable Printer Driver' Error</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-itel-a60-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Itel A60</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-overcoming-issues-when-teredo-cant-connect-properly/"><u>Solved: Overcoming Issues When Teredo Can’t Connect Properly</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-cs-go-game-crashes-instantly-and-simply/"><u>Solving CS: GO Game Crashes Instantly and Simply</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restore-lost-devices-in-overwatch-quick-resolution-tips/"><u>Step-by-Step Guide to Restore Lost Devices in Overwatch - Quick Resolution Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-reducing-svchostexe-cpu-impact-on-your-windows-10-pc/"><u>Step-by-Step Tutorial: Reducing svchost.exe CPU Impact on Your Windows 10 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/steps-to-request-modification-authorization-from-trustedinstaller/"><u>Steps to Request Modification Authorization From TrustedInstaller</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-loops-in-windows-10-automatic-repairs-solved/"><u>Troubleshooting Persistent Loops in Windows 10 Automatic Repairs - Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tip-why-your-monitor-wont-accept-the-input-timing-setup/"><u>Troubleshooting Tip: Why Your Monitor Won't Accept the Input Timing Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-to-fix-the-power-state-driver-failure-issue/"><u>Troubleshooting Tips to Fix the Power State Driver Failure Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-usb-mouse-working-expert-tips-for-quick-laptop-fixes/"><u>Why Isn't My USB Mouse Working? Expert Tips for Quick Laptop Fixes!</u></a></li>
+</ul></div>

@@ -1,0 +1,183 @@
+---
+title: "Avoid These Pitfalls: Successful Strategies for Implementing the BattlEye Anti-Cheat System"
+date: 2024-08-31T17:45:23.748Z
+updated: 2024-09-01T17:45:23.748Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: "This Article Describes Avoid These Pitfalls: Successful Strategies for Implementing the BattlEye Anti-Cheat System"
+excerpt: "This Article Describes Avoid These Pitfalls: Successful Strategies for Implementing the BattlEye Anti-Cheat System"
+thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3430de1df3acbec7a4ce0fd7.jpg
+---
+
+## The TNM System Is Essential for Accurate Lung Cancer Staging and Treatment Planning
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca1709cae9.png)
+
+You may encounter an error with a code of **1603** when you are attempting to install something on your Windows. The error message is basically something like “**Error: -1603 Fatal error during installation.**” It usually occurs when you are using a Windows Installer package to install the program. You can try the methods below that can be help you fix the error. **1)[Change installation location](https://tools.techidaily.com/drivereasy/download/)**   **2) [Completely uninstall the same program installed](https://tools.techidaily.com/drivereasy/download/)**   **3)[Start and re-register Microsoft Installer service](https://tools.techidaily.com/drivereasy/download/)**   **4)[Acquire full permissions on the drive for installation](https://tools.techidaily.com/drivereasy/download/)**
+
+## 1) Change installation location
+
+You may encounter an error 1603 because the installation location is you choose is not available due to various reasons — such as being encrypted. You can use another installation folder to install the program and see if the error is gone.
+
+## 2) Completely uninstall the same program installed
+
+If you have previously installed the same program (or its earlier version), the error can occur when you try to install the application again. If you want to install your program successfully, you need to perform a **clean uninstall** of the one installed on your computer. This means you need to remove all the temporary files and preferences it leaves in addition to the major program. Sometimes you may lose the desktop shortcut of a program due to some reasons and therefore you may forget that you have installed it. In this case you can go to**Control Panel**to check if it is still on your computer: Press**Win + R**, and enter “ _**control**_“;
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9bf012d25.png)
+
+Find and open**Programs and Features**;
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9c81105c5.png)
+
+Then you can check if the application is listed here. If it is, uninstall it.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9d00544d7.png)
+
+## 3) Start and re-register Microsoft Installer service
+
+There may be something going wrong with**Microsoft Installer service**and therefore resulting in error 1603\. You can fix the problem by (re)starting and re-registering Microsoft Installer service. To**start**Windows Installer service:**a)** Press**Win + R**and enter “_**services.msc**_“;
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca68fd8714.png)
+
+**b)** Find and double click on**Windows Installer**;
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca70c399c1.png)
+
+**c)** Hit**Start**button under**Service status**and hit**OK**. (If its service status is**running**, you should click on**Stop**first and then hit**Start**.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca7cbbdf36.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**msiexec /unregister**_” and hit**Enter**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9370d810.png)
+
+**b)** Press**Win + R** again and enter “ _**msiexec /regserve** **r**_ “.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+## 4) Acquire full permissions on the drive for installation
+
+It is possible that the error 1603 occurs because you don’t have**full permissions**on the file location. Try getting the permissions on the drive you are installing your application to and see if this fixes the problem.**a)** Open**File Explorer**, right click on the drive containing the installation location and select**Properties**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+**b)** Go to**Security**tab and click on**Edit**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595caf24696ae.png)
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**c)** Single click on **SYSTEM**and ensure that the**Allow**box of every item in**Permissions for SYSTEM** is checked (if it is checkable). Do the same check for**Administrators**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb123f210b.png)
+
+**d)** Click on**OK**to go back to**Properties**dialog. Then click on**Advanced**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb3cf25a0c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**e)** Click on**Change Permissions**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb5c235c54.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+**f)** On**Permissions**tab, double click on**Administrators**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb67382950.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
+**g)** Select**This folder, subfolders and files**for**Applies to**field and**tick** **all the available basic permissions**. After that hit**OK**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb7074c180.png)
+
+**h)** Do the same operation above for**SYSTEM**.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb8202ef5a.png)
+
+**i)** Click on**OK** all the way out. Now you have acquired full permissions on this drive. Try installing your application and see if the issue is fixed.
+
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fixed-there-is-a-problem-with-this-windows-installer-package/"><u>[FIXED] There Is a Problem with This Windows Installer Package</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208792713-solved-minecraft-wont-launch-in-windows/"><u>[SOLVED] Minecraft Won't Launch in Windows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ditching-xsplit-ideal-splitting-software-for-2024/"><u>[Updated] Ditching XSplit  Ideal Splitting Software for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-step-into-the-stream-a-guide-to-roku-and-facebook-live-broadcasts/"><u>[Updated] In 2024, Step Into the Stream  A Guide to ROKU & Facebook Live Broadcasts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-navigating-video-capture-software-is-bandicam-superior-to-camtasia-in-2024/"><u>[Updated] Navigating Video Capture Software  Is Bandicam Superior to Camtasia, In 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-stealthy-strategies-for-eliminating-hashtags-for-2024/"><u>[Updated] Stealthy Strategies for Eliminating Hashtags for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-easy-way-to-screen-record-your-ultimate-guide-on-mi-11-for-2024/"><u>[Updated] The Easy Way to Screen Record - Your Ultimate Guide on Mi 11 for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-11-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 11 Without iTunes</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209437630-bypassing-the-welcome-screen-glitch-in-windows-11-quick-fixes/"><u>Bypassing the Welcome Screen Glitch in Windows 11, Quick Fixes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/captureking-chronicles-the-best-recorders-unveiled/"><u>CaptureKing Chronicles  The Best Recorders Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-problems-and-fixes-making-a-broken-mac-mouse-functional-once-more/"><u>Common Problems & Fixes: Making a Broken Mac Mouse Functional Once More</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-chinas-longsun-processor-motherboards-and-complete-systems-for-us-market-priced-at-a-low-of-just-373/"><u>Discover China's Longsun Processor Motherboards and Complete Systems for U.S Market, Priced at a Low of Just $373!</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-fixes-for-when-your-logitech-keyboard-stops-working/"><u>DIY Fixes for When Your Logitech Keyboard Stops Working</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-ways-to-resolve-camera-not-working-problem-with-dell-pcs-windows/"><u>Effective Ways to Resolve Camera Not Working Problem with Dell PCs (Windows)</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-an-unresponsive-aoc-usb-monitor-on-pcs-with-windows-10/"><u>Expert Tips for Fixing an Unresponsive AOC USB Monitor on PCs with Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-optimize-and-reduce-svchostexe-cpu-usage-on-windows-11-the-ultimate-fixes/"><u>Expert Tips to Optimize and Reduce svchost.exe CPU Usage on Windows 11 - The Ultimate Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-dx11-version-compatibility-glitches-on-wwe-2k-battlegrounds-game-console/"><u>Fix DX11 Version Compatibility Glitches on WWE 2K Battlegrounds Game Console</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-failed-write-operations-to-zero-point-0x-assigned-memory-region/"><u>Fixing Failed Write Operations to Zero-Point (0X) Assigned Memory Region</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-surface-device-when-its-connected-but-wont-charge/"><u>How to Fix Surface Device When It's Connected But Won't Charge</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-solve-the-unable-to-connect-issue-fixing-xerox-printer-error-0x800f020b-on-windows/"><u>How to Solve the 'Unable To Connect' Issue: Fixing Xerox Printer Error 0X800F020B on Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-a15-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/lost-the-icons-on-your-taskbar-revive-them-with-these-4-secrets-for-windows-11-users/"><u>Lost The ICONS on Your Taskbar? Revive Them with These 4 Secrets for Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-repairing-overwatch-voice-chat-glitches-quickly-and-easily/"><u>Master the Art of Repairing Overwatch Voice Chat Glitches Quickly and Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/mouse-maneuvers-for-maximum-speed/"><u>Mouse Maneuvers for Maximum Speed</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-windows-11-reducing-ms-compatibility-telemetrys-impact-on-hard-drive-space/"><u>Optimizing Windows 11: Reducing MS Compatibility Telemetry's Impact on Hard Drive Space</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-sluggish-keyboard-responses-a-step-by-step-guide/"><u>Quick Solutions for Sluggish Keyboard Responses: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-tips-navigate-past-windows-error-code-0x887a0006-effortlessly/"><u>Quick-Fix Tips: Navigate Past Windows Error Code 0X887A0006 Effortlessly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/release-notes-updated-drivers-for-amds-rx-gpu/"><u>Release Notes: Updated Drivers for AMD's RX GPU</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-pcs-no-bootable-device-dilemma-step-by-step-fixes/"><u>Solve Your PC's 'No Bootable Device' Dilemma: Step-by-Step Fixes</u></a></li>
+<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-when-logitech-keyboard-not-detected-by-windows-11/"><u>Solving the Issue When Logitech Keyboard Not Detected by Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-windows-update-problem-fixing-error-code-0x802n4002e/"><u>Solving the Windows Update Problem: Fixing Error Code 0X802n4002E</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-device-drivers-not-found-error-in-windows-7/"><u>Step-by-Step Solution for 'Device Drivers Not Found' Error in Windows 7</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/transformative-editing-mastering-blend-mode-applications-for-2024/"><u>Transformative Editing  Mastering Blend Mode Applications for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-your-pcs-persistent-freezing-problem/"><u>Ultimate Guide: Resolving Your PC's Persistent Freezing Problem</u></a></li>
+<li><a href="https://windows11.techidaily.com/unexpected-rav-guard-find-its-source-and-quit-methods/"><u>Unexpected Rav Guard? Find Its Source & Quit Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/xbox-one-controller-not-working-heres-how-you-can-establish-a-successful-connection/"><u>Xbox One Controller Not Working? Here's How You Can Establish a Successful Connection!</u></a></li>
+</ul></div>
