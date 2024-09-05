@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Resolving 'User Profile Service' Failure During Login on Windows 11
-date: 2024-08-09T00:49:02.583Z
-updated: 2024-08-10T00:49:02.583Z
+date: 2024-09-04T20:17:00.154Z
+updated: 2024-09-05T20:17:00.154Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
  Surprisingly, this is quite a common problem. But although it’s quite frustrating, it’s usually not that hard to fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 4 fixes for C**omputer Won’t Shut Down**
 
  All the fixes below work in**Windows 10** . You don’t have to try all of them; just work your way down until this**computer won’t shut down** problem is resolved.
@@ -47,38 +44,43 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Disable fast startup
 
 **Fast startup**  is a new feature in Windows 10 that helps our computer restart faster . But sometimes it can interfere with the shutdown process, hence the**computer-not-shutting-down** problem. Here’s how to disable**fast startup** :
 
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -89,10 +91,40 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -101,29 +133,21 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
 
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -146,3 +170,57 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-channel-charisma-standing-out-with-strategic-telegram-promotion-for-2024/"><u>[New] Channel Charisma  Standing Out with Strategic Telegram Promotion for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-8-editors-tablets-beyond-filmora-havent-you-tried/"><u>[New] Top 8 Editors' Tablets  Beyond Filmora, Haven't You Tried?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-quick-access-to-fb-vids-as-mp4-files/"><u>[Updated] 2024 Approved  Quick Access to FB Vids as MP4 Files</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-make-your-mark-active-living-on-facebook/"><u>2024 Approved  How to Make Your Mark  Active Living on Facebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-perfect-your-presentations-leading-free-mac-screen-capture-tools/"><u>2024 Approved  Perfect Your Presentations  Leading Free Mac Screen Capture Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-reno-11-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo Reno 11 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/acclaimed-mobile-apps-for-gopro-footage-perfection-for-2024/"><u>Acclaimed Mobile Apps for GoPro Footage Perfection for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/audio-amnesty-steps-to-get-your-stereo-receiver-echoing-again/"><u>Audio Amnesty: Steps to Get Your Stereo Receiver Echoing Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/bridging-gap-acquired-msvcr71dll/"><u>Bridging Gap: Acquired MSVCR71.dll</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-strategies-for-deleting-critical-error-scams-in-google-chrome/"><u>Complete Strategies for Deleting Critical Error Scams in Google Chrome</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-tomorrows-teachers-today-through-vr-for-2024/"><u>Crafting Tomorrow’s Teachers, Today Through VR for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/detailed-breakdown-and-reviews-of-google-maps-for-apples-handheld-device/"><u>Detailed Breakdown and Reviews of Google Maps for Apple's Handheld Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/directx-error-resolved-mastering-device-creation-techniques-for-optimal-performance/"><u>DirectX Error Resolved: Mastering Device Creation Techniques for Optimal Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/discover-the-fixes-re-emergence-of-the-elusive-mouse-pointer-on-windows-10-systems/"><u>Discover the Fixes: Re-Emergence of the Elusive Mouse Pointer on Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-to-overcome-windows-network-error-0x800704cf-easily/"><u>Expert Advice to Overcome Windows Network Error 0X800704CF Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-scrolling-problems-with-windows-11-touchpad-a-step-by-step-guide/"><u>Fixing Scrolling Problems with Windows 11 Touchpad: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-10-brightness-issue-how-to-restore-functionality/"><u>Fixing Windows 10 Brightness Issue: How To Restore Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203226414-guide-on-correcting-the-livekernelevent-144-glitch-quickly/"><u>Guide on Correcting the LiveKernelEvent 144 Glitch Quickly!</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-solving-the-high-end-graphics-issue-in-wwe-2k-battlegrounds-dx11-v10/"><u>Guide: Solving the High-End Graphics Issue in WWE 2K Battlegrounds (DX11 V10)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-and-correct-runtime-brokers-excessive-cpu-consumption-on-windows-11/"><u>How to Address and Correct Runtime Broker's Excessive CPU Consumption on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-repair-no-charge-alert-on-your-win7-or-win10-device/"><u>How to Diagnose and Repair No Charge Alert on Your Win7 or Win10 Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unsupported-miracast-connection-due-to-outdated-graphics-drivers/"><u>How to Fix Unsupported Miracast Connection Due to Outdated Graphics Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-your-windows-11-computer-displaying-content-on-an-hdtv-correctly/"><u>How to Get Your Windows 11 Computer Displaying Content on an HDTV Correctly</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-tackle-and-solve-the-notorious-easy-anti-cheat-error-in-apex-legends/"><u>How to Tackle and Solve the Notorious Easy Anti-Cheat Error in Apex Legends</u></a></li>
+<li><a href="https://common-error.techidaily.com/immediate-action-required-fixing-error-1053-no-response-from-your-service/"><u>Immediate Action Required: Fixing Error 1053 - No Response From Your Service</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/indoor-games-galore-top-9-screen-less-titles-for-android-gamers/"><u>Indoor Games Galore  Top 9 Screen-Less Titles for Android Gamers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/key-techniques-to-optimize-igtv-video-dimensions/"><u>Key Techniques to Optimize IGTV Video Dimensions</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-error-code-5-solutions-for-a-smooth-gaming-experience/"><u>Minecraft Error Code 5 - Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/peeking-at-perfection-a-compreayer-look-at-lgs-27ud68-display-for-2024/"><u>Peeking at Perfection  A Compreayer Look at LG’s 27UD68 Display for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-your-online-presence-with-these-18-elite-recording-systems/"><u>Perfect Your Online Presence with These 18 Elite Recording Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-and-easy-solutions-for-preventing-your-csgo-from-crashing/"><u>Quick & Easy Solutions for Preventing Your CS:GO From Crashing</u></a></li>
+<li><a href="https://common-error.techidaily.com/repair-x3daudio17dll-in-minutes-flat/"><u>Repair X3DAudio1_7.dll in Minutes Flat</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-playing-fortnite-on-unsupported-gpus-with-windows/"><u>Resolved: Playing Fortnite on Unsupported GPUs with Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-1011-user-profile-service-failure-during-sign-in/"><u>Resolving Windows 10/11: User Profile Service Failure During Sign In</u></a></li>
+<li><a href="https://common-error.techidaily.com/restarting-and-repairing-windows-7-sound-services-a-comprehensive-guide/"><u>Restarting and Repairing Windows 7 Sound Services: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-wacom-pen-on-windows-11-or-windows-10-a-comprehensive-fix-guide/"><u>Reviving Your Wacom Pen on Windows 11 or Windows 10 - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/side-by-side-configuration-is-incorrect-error-in-windows-10-fixed/"><u>Side by Side Configuration Is Incorrect Error in Windows 10 [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/smooth-out-the-glitches-expert-advice-for-solving-minecraft-stuttering-problems/"><u>Smooth Out the Glitches: Expert Advice for Solving Minecraft Stuttering Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-arrow-key-issues-with-these-proven-fixes-for-malfunctioning-buttons/"><u>Solve Your Arrow-Key Issues with These Proven Fixes for Malfunctioning Buttons</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-exe-error-in-windows-explorer/"><u>Solving Exe Error in Windows Explorer</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-32-bit-programs-when-print-driver-host-has-stopped-working-message-emerges/"><u>Step-by-Step Fix for 32-Bit Programs When 'Print Driver Host Has Stopped Working' Message Emerges</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-minecraft-multiplayer-lan-setup-failures/"><u>Step-by-Step Solutions for Minecraft Multiplayer LAN Setup Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-lenovos-non-responsive-fn-key-with-these-simple-steps/"><u>Troubleshoot Your Lenovo's Non-Responsive FN Key with These Simple Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-resolving-the-windows-11-bright-crimson-display-error/"><u>Troubleshooting and Resolving the Windows 11 Bright Crimson Display Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-device-not-found-error-with-fixes-for-windows-10-8-and-7-users/"><u>Troubleshooting Guide: 'Device Not Found' Error with Fixes for Windows 10, 8 & 7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-xerox-update-issue-error-code-0x800f02eb-in-windows/"><u>Troubleshooting Guide: Fixing Xerox Update Issue (Error Code 0X800f02eb) in Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-star-citizen-performance-errors-in-windows-environment/"><u>Troubleshooting Star Citizen Performance Errors in Windows Environment</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-getting-your-airpods-working-on-windows-10-and-11/"><u>Ultimate Guide: Getting Your AirPods Working on Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-the-mystery-of-steams-error-code-80/"><u>Ultimate Guide: Solving the Mystery of Steam's Error Code 80</u></a></li>
+</ul></div>

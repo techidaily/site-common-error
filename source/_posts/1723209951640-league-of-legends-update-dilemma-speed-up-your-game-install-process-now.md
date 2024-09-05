@@ -1,7 +1,7 @@
 ---
 title: League of Legends Update Dilemma? Speed Up Your Game Install Process Now!
-date: 2024-08-09T00:49:02.965Z
-updated: 2024-08-10T00:49:02.965Z
+date: 2024-09-04T20:17:46.042Z
+updated: 2024-09-05T20:17:46.042Z
 tags:
   - win11
   - win10
@@ -39,18 +39,12 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Launch as administrator
 
  The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, League of Legends can make full use of its features, running its function properly. So run it as an administrator to see if this fixes the slow download issue.
 
 1. Press**Ctrl + Shift + Esc** key together on your keyboard to open the**Task Manager** .
 2. Find League of Legends program. Right-click on it and click**Open file location** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/file.jpg)
 3. In the file, find the**LOL Launcher.exe** .
 4. Right-click on it and click**Run as administrator** .
@@ -64,15 +58,24 @@ Downloading again to see if it works.
  Windows Firewall supposes to protect your computer from malware, but sometimes it may cause trouble. It may block some features of League of Legends which result in low speed downloading. So you can try to turn off Windows Firewall to solve the “League of Legends download slow” issue.
 
 1. Click the Start button, type**windows firewall** in the search box and press the**Enter** key to open**Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Re-download to check.
 
 **Note** : If it doesn’t work, you must**turn on** Windows Firewall to protect your computer.  
@@ -81,21 +84,10 @@ Re-download to check.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 3: Manually install .NET framework 3.5
 
@@ -106,7 +98,16 @@ Key features:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Bonus: Update your drivers
 
@@ -136,13 +137,27 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -168,3 +183,42 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-maximizing-impact-the-20-key-principles-of-fb-video-marketing-for-2024/"><u>[New] Maximizing Impact  The 20 Key Principles of FB Video Marketing for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-ending-dark-mode-glitches-on-playback/"><u>[Updated] Ending Dark Mode Glitches on Playback</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-facilitating-instant-sharing-tiktok-videos-on-facebook/"><u>[Updated] In 2024, Facilitating Instant Sharing  TikTok Videos on Facebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-halo-4-ue4-game-stopping-bugs-essential-fixes-and-workarounds/"><u>Beat Halo 4 UE4 Game-Stopping Bugs: Essential Fixes and Workarounds</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/best-noise-canceling-tools-top-choices-for-clean-audio-for-2024/"><u>Best Noise-Canceling Tools Top Choices for Clean Audio for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/cloud-space-costs-analyzing-and-top-tier-savings-guide-for-2024/"><u>Cloud Space Costs  Analyzing & Top-Tier Savings Guide for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-galaxy-s21-fe-5g-2023-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Galaxy S21 FE 5G (2023) support MKV video files?</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-remedies-for-microsofts-error-code-0x800f0831-via-windows-update-options/"><u>Effortless Remedies for Microsoft's Error Code 0X800f0831 via Windows Update Options</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-how-to-restore-your-computers-keyboard-lighting/"><u>Fixes: How to Restore Your Computer's Keyboard Lighting</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-chromecasts-connectivity-woes-a-step-by-step-guide/"><u>Fixing Chromecast's Connectivity Woes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unregistered-windows-10-programs-effective-solutions-and-tips/"><u>Fixing Unregistered Windows 10 Programs: Effective Solutions and Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-the-most-out-of-league-of-legends-by-fixing-sluggish-downloads-instantly/"><u>Getting the Most Out of League of Legends by Fixing Sluggish Downloads Instantly</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-the-disappeared-volume-icon-in-windows-10-with-step-by-step-images/"><u>How to Restore the Disappeared Volume Icon in Windows 10 with Step-by-Step Images</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211673739-how-to-successfully-launch-your-hosted-network-on-windows-10-solved/"><u>How to Successfully Launch Your Hosted Network on Windows 10 - Solved</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-excellent-pictorial-archive-networks/"><u>In 2024, Excellent Pictorial Archive Networks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-m1-pro-and-m1-max-exploring-their-significant-differences/"><u>In 2024, M1 Pro & M1 Max  Exploring Their Significant Differences</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205781512-mesothelioma-is-associated-with-asbestos-exposure-and-affects-the-pleura-rather-than-lung-parenchyma/"><u>Mesothelioma Is Associated with Asbestos Exposure and Affects the Pleura Rather than Lung Parenchyma</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-the-approval-process-with-trustedinstaller-for-file-alterations/"><u>Navigating the Approval Process with TrustedInstaller for File Alterations</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-and-simple-methods-to-overcome-the-disk-write-error-on-steam/"><u>Quick & Simple Methods to Overcome the 'Disk Write Error' On Steam</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-sluggish-startups-in-windows-7/"><u>Quick Fixes for Sluggish Startups in Windows 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-elevated-cpu-consumption-issues-with-wudfhostexe-on-windows-11/"><u>Resolving Elevated CPU Consumption Issues with wudfhost.exe on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212020589-revive-your-malfunctioning-huion-pen-fast-and-easy-fixes/"><u>Revive Your Malfunctioning Huion Pen: Fast and Easy Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-fixing-the-graphic-cards-unavailability-in-starcraft-ii/"><u>Solution Found: Fixing the Graphic Card's Unavailability in StarCraft II</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-detecting-wd-my-passport-ultra-on-non-responsive-windows-devices/"><u>Solution Steps for Detecting WD My Passport Ultra on Non-Responsive Windows Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-the-mystery-why-is-my-dell-usb-port-not-responding/"><u>Solve the Mystery: Why Is My Dell USB Port Not Responding?</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-enable-bluetooth-detection-on-windows-device-manager/"><u>Solved: How to Enable Bluetooth Detection on Windows Device Manager</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-keyboard-dilemmas-how-to-repair-non-functional-arrow-keys/"><u>Solving Keyboard Dilemmas: How to Repair Non-Functional Arrow Keys</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-correct-the-configuration-fault-on-your-new-windows-11-pc/"><u>Step-by-Step Guide to Correct the Configuration Fault on Your New Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-dns-errors-in-their-tracks-with-these-4-user-friendly-fixes/"><u>Stop DNS Errors in Their Tracks with These 4 User-Friendly Fixes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-16-from-honor-magic-5-lite-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 16 from Honor Magic 5 Lite to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-constant-usb-mouse-disconnection-issues/"><u>Ultimate Guide: Solving Constant USB Mouse Disconnection Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-solving-windows-error-0x8071ac3c-disk-has-issues/"><u>Understanding and Solving Windows Error 0X80#71ac3c 'Disk Has Issues'</u></a></li>
+<li><a href="https://common-error.techidaily.com/win10-reboots-without-user-input/"><u>Win10 Reboots Without User Input</u></a></li>
+</ul></div>

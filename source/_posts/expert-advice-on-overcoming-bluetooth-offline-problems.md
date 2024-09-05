@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Overcoming 'Bluetooth Offline' Problems
-date: 2024-08-31T17:47:01.647Z
-updated: 2024-09-01T17:47:01.647Z
+date: 2024-09-04T20:22:03.060Z
+updated: 2024-09-05T20:22:03.060Z
 tags:
   - win11
   - win10
@@ -48,7 +48,10 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 2: Set default devices
 
@@ -60,27 +63,35 @@ Here’s how to do it:
 2. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **mmsys.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 3: Disable Exclusive Mode
 
@@ -93,17 +104,17 @@ Here’s how:
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Check your in-game audio settings
 
  If the fixes above didn’t help, then you might want to adjust your in-game audio settings to see if it works. To do so:
@@ -113,6 +124,12 @@ Here’s how:
 3. Make sure**GROUP VOICE CHAT** and**TEAM VOICE CHAT** are set to**AUTO JOIN, the right device selected** for**VOICE CHAT DEVICES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04c7f097042.jpg)  
  If your voice chat is set to**Push To Talk** , try changing the keybind for Voice Chat:**Push To Talk** to a different key in the Controls menu.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Join in the team chat, test to see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---

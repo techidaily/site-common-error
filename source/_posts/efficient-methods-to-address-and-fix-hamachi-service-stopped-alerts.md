@@ -1,7 +1,7 @@
 ---
 title: Efficient Methods to Address and Fix 'Hamachi Service Stopped' Alerts
-date: 2024-08-31T17:52:32.647Z
-updated: 2024-09-01T17:52:32.647Z
+date: 2024-09-04T20:21:57.959Z
+updated: 2024-09-05T20:21:57.959Z
 tags:
   - win11
   - win10
@@ -42,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/d35c94f12f755c322517a2947b55e4796f16febf7
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Run the built-in Hardware and Devices troubleshooter
 
  The**built-in Hardware and Devices troubleshooter** can help you fix problems with devices connected to your computer. Run it to try to solve your USB device not recognized problem.
@@ -56,18 +53,20 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c8665b788.png)
 3. Click**Troubleshooting** when**View by Large icons** are selected.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d76732d97.jpg)
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4. Select **Configure a device** under the**Hardware and sound** section.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c946c14d2.jpg)
 5. Click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c97b74c34.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The troubleshooter would then be running automatically to detect and repair problems.
 
@@ -75,9 +74,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### Method 3: Uninstall and reinstall all your USB controller drivers
 
  This problem could be also caused by your**misconfigured USB controller drivers** , uninstalling and reinstalling them could fix it.
@@ -87,13 +83,22 @@ See how to do it:
 1. On your keyboard, hold down the**Windows logo key** , then press**Pause** .
 2. Click**Device Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99ca5f07100.jpg)
 3. Double-click**Universal Serial Bus controllers** . Proceed to click**View** , then select**Show hidden devices** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99cadab69f6.jpg)
 4. **Right-click** on your first USB controller driver under the Universal Serial Bus controllers section to select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99cb4721f1b.jpg)
 5. **Repeat** the step 4 for all your**other USB controllers drivers** .
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you uninstall all your USB controller drivers,**restart your computer** to let Windows reinstall the USB controller drivers automatically. Then check if the error still pops up.
 
@@ -112,15 +117,18 @@ See how to do it:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d645eaf39.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99dd433fd12.jpg)
 
 Restart your computer to see if the error disappears.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 5: Disable the USB selective suspend feature
 
  The**USB selective suspend** feature helps conserve battery power which is useful in portable computers. But with it enabled, some problems sometimes might occur including your USB device not recognized problem. So disable the feature to try to solve your problem.
@@ -133,23 +141,62 @@ Restart your computer to see if the error disappears.
 3. Click**Power Options** when**View by Large icons** are selected.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7437b4c8.jpg)
 4. Select **Change plan settings** of**Balanced(recommended)** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7c4b1d80.jpg)
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5. Click**Change advanced power settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7b2da294.jpg)
 6. Double-click**USB settings** \>**USB selective suspend setting** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d80c3c948.jpg)
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 7. Click**Enabled** , then select**Disabled** from the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d845a8cb9.jpg)  
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Note:** If you’re on a laptop, there might be two Enable options to change,**On battery** and**Plugged in** .  
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Be sure to**set both to Disabled** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da409c8a5.jpg)
 8. Click**Apply** \>**OK** to save your settings.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da698818c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 Check if the error disappears.
 
  If till now, you don’t see the error message, congratulations! But if you’ve tried all the solutions above, you still see the annoying message, but your USB device works well, don’t give up hope, move on to the last solution here.
@@ -157,7 +204,10 @@ Check if the error disappears.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 6: Adjust your system settings
 
@@ -172,6 +222,12 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e389af4af.jpg)
 3. Select USB, then un-check **Notify me if there are issues connecting to USB devices.** ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e3bbc5732.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **If you’re using Windows 7:**
 
 1. On your keyboard, press the**Windows logo key** , then press**Pause** .
@@ -179,10 +235,13 @@ See how to do it:
 3. Double-click**Universal Serial Bus Controllers** .
 4. Right-click on your first USB controller driver to select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e45a3304f.jpg)
 5. Click **Advanced** , then tick on **Don’t tell me about USB errors** . Click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e4addd848.jpg)
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Repeat Steps 4 & 5 for all your other USB controller drivers.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The **USB device not recognized**  error message will not be shown any longer on your system.
 

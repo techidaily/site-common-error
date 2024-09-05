@@ -1,7 +1,7 @@
 ---
 title: "Fixing Windows 10 Brightness Issue: How To Restore Functionality"
-date: 2024-08-31T17:51:18.426Z
-updated: 2024-09-01T17:51:18.426Z
+date: 2024-09-04T20:21:59.144Z
+updated: 2024-09-05T20:21:59.144Z
 tags:
   - win11
   - win10
@@ -52,6 +52,12 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Disable Sleep Mode
 
  If you have this problem right after waking up your PC from Sleep Mode, you should consider disabling the mode. The reason is similar to that of Fix 1 – your device driver may temporarily stop working when the computer swaps from Sleep Mode to the normal working state.
@@ -65,28 +71,41 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-634.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  2) On the**Power & sleep** tab, in the results pane, under**Related settings** , click**Additional power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-636.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) In the next window, click**Change plan settings** next to your preferred plan.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-637.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  4) Expand**Put the computer to sleep:** and select**Never** . Then click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-639.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now that you’ve disabled Sleep Mode, restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
 #### on Windows 11
@@ -98,40 +117,51 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-When-plugged-in-put-my-device-to-sleep-after-Never-When-plugged-in-turn-off-my-screen-after-Never-1200x771.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Fix 3: Tick the “Support TabletPC” option
 
  As mentioned in the user manual of the Huion pen, you should check the**Support TabletPC** box to enable the pressure sensitivity function in a variety of drawing programs. Here’s how:
 
  1) Double-click the**driver tablet icon** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-27_18-52-38.jpg) on your system tray (an area on the right side of your Taskbar) to open the PenTablet control interface.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Check the**Support TabletPC** box, as shown below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your tablet driver
 
  Another culprit for the Huion pen not working issue is an outdated or corrupt tablet driver. So literally it’s not your pen but rather the tablet that is dysfunctional due to driver failures.
@@ -164,9 +194,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-650.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -183,6 +210,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-653-1024x311.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you want to download the user manual, select the icon next to**Instruction:** according to your operating system.
 
  3) After downloading the driver, open the folder in which the driver is downloaded. Usually, you’ll see a**compressed folder (with .zip extension)** there. Go on to**extract** the folder.
@@ -204,7 +237,10 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 5: Uncheck “Enable Windows Ink”
 
@@ -214,9 +250,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-663.png)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) When Notepad is opened, type in**UseSystemStylus 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
@@ -231,6 +264,12 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
 
 4) Restart Photoshop and test whether your pen works properly or not.

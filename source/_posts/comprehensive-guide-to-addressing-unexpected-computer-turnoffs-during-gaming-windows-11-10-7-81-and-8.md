@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Addressing Unexpected Computer Turnoffs During Gaming (Windows 11, 10, 7, 8.1 & 8)
-date: 2024-08-31T17:45:30.714Z
-updated: 2024-09-01T17:45:30.714Z
+date: 2024-09-04T20:22:04.409Z
+updated: 2024-09-05T20:22:04.409Z
 tags:
   - win11
   - win10
@@ -27,41 +27,63 @@ thumbnail: https://thmb.techidaily.com/2675fb371c905563da08e97bc8df2b8ac8d7bb0fb
 
  1) Press and hold the **reset** button of your adapter for around 10 seconds. ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-21.jpg)2) When you see the “**Ready to connect**” message, open Action Center from the taskbar and click**Connect**.![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-20.jpg)3) Choose **Microsoft Wireless Display Adapter** from the displays list. Then check if the adapter could work.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Method 2: Reinstall your graphics card driver
 
 This problem could be also caused by an old or incorrect graphics card driver. Go with the following steps to reinstall your graphics card driver:1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)  and **X**  at the same time to invoke the quick-access menu.2) Click**Device Manager**.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c4e6e3d234f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 3) Right-click on your graphics card driver in **Display adapters** and click **Uninstall device**.![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-10.jpg)4) Download the latest driver for the graphics card from your computer manufacturer’s website.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Or
 
 If you’re not confident playing around with drivers manually, you can do it automatically with  **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .  It’s a driver tool that detects, downloads and (if you go Pro) installs any driver updates your computer needs all automatically.  To install your tablet drivers with Driver Easy, just click the **Scan Now**  button, then when it detects the drivers you need to update, click **Update**  . The correct drivers will be downloaded, and you can install them – either manually through Windows or all automatically with [**Driver Easy Pro**](https://tools.techidaily.com/drivereasy/download/) . ![](https://images.drivereasy.com/wp-content/uploads/2017/04/de-5.8-graphics.jpg) 5) Restart your computer and re-connect your wireless display adapter to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 3: Make sure the 2.4GHz wireless frequency band is enabled
 
 1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)  and **X**  at the same time to invoke the quick-access menu.2) Click**Device Manager**.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c4e6e3d234f.png)3) Right-click on your network adapterin**Network adapters**, here we take **Marvell AVASTAR Wireless-AC Network Controller**as the example. Go on to click**Properties**.![](https://images.drivereasy.com/wp-content/uploads/2017/04/5-16.jpg)3) Click **Band** in **Advanced**. Then set it to **Auto** and click **OK**.![](https://images.drivereasy.com/wp-content/uploads/2017/04/6-16.jpg)4) Check if your adapter could work now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"

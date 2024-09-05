@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving the Mystery of Steam's Error Code 80"
-date: 2024-08-31T17:50:59.881Z
-updated: 2024-09-01T17:50:59.881Z
+date: 2024-09-04T20:21:59.420Z
+updated: 2024-09-05T20:21:59.420Z
 tags:
   - win11
   - win10
@@ -67,6 +67,12 @@ thumbnail: https://thmb.techidaily.com/863d04b9acbb47d4c816aa78863abe6c0290ed89b
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 3: Disable the screen saver
 
  The screen saver is the utility built in Windows. It will be activated after a certain period of Windows inactivity. If the screen saver is set to blank, and the wait time is 5 minutes, it’ll look like your screen has turned off or gone to sleep mode. So you can disable the screen saver and see if the problem persists.
@@ -80,12 +86,18 @@ thumbnail: https://thmb.techidaily.com/863d04b9acbb47d4c816aa78863abe6c0290ed89b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1372f5918cd.jpg)
 3. Click**Screen saver settings** at the bottom of the window.  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
@@ -97,7 +109,16 @@ thumbnail: https://thmb.techidaily.com/863d04b9acbb47d4c816aa78863abe6c0290ed89b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373fd30172.jpg)
 3. Click the**Change screen saver** button.  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
@@ -106,6 +127,18 @@ thumbnail: https://thmb.techidaily.com/863d04b9acbb47d4c816aa78863abe6c0290ed89b
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solution 4: Change the System unattended sleep timeout to a longer time
 
  If the above solutions don’t work for you, you can try to set the System unattended sleep timeout to a longer time. The option is invisible in Windows by default. You need to edit the registry to make it visible first, then you can reset the period.
@@ -118,10 +151,6 @@ thumbnail: https://thmb.techidaily.com/863d04b9acbb47d4c816aa78863abe6c0290ed89b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137510499e6.png)  
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
 2. Navigate to the following directory:  
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
@@ -132,7 +161,10 @@ thumbnail: https://thmb.techidaily.com/863d04b9acbb47d4c816aa78863abe6c0290ed89b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 6. Exit the Registry Editor.
 
@@ -142,19 +174,19 @@ thumbnail: https://thmb.techidaily.com/863d04b9acbb47d4c816aa78863abe6c0290ed89b
 2. **View by Large icons** , and click**Power Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376fc0269a.jpg)
 6. Click**OK** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Check to see if the computer keeps going to sleep.
 
 ---

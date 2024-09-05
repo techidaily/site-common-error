@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Fixing Windows Boot Delays - Expert Tips & Tricks for Quick Solutions
-date: 2024-08-31T17:53:44.273Z
-updated: 2024-09-01T17:53:44.273Z
+date: 2024-09-04T20:21:56.838Z
+updated: 2024-09-05T20:21:56.838Z
 tags:
   - win11
   - win10
@@ -61,7 +61,10 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
  You can do it for free if you like, but it partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 3: Remove any peripherals from your computer  
 
@@ -72,11 +75,10 @@ thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc7
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-2786081_1920-1024x626.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 4: Reset CMOS to the default settings  
 
@@ -100,15 +102,18 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-815.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After you enter the BIOS menu, refer to these steps to reset the settings:  
 
  1)**Find the option** to reset the BIOS settings. This option is probably called**Setup Defaults** . It also depends on the computer manufacturers. But you can expect it has the “Default” words.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-816.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) You can see a function key next to the option. Just press that key on your keyboard to bring up the edit dialog box.  
 
  3) On your keyboard,**use the narrow key** to select**Yes** to save the changes.  
@@ -117,9 +122,6 @@ For example, many Dell PCs show this key like below at the first screen:
 
  5)**Restart your computer** and check to see if the problem is resolved.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Method 5: Check PSU (Power Supply Unit)  
 
  If the PSU short circuits, the computer will shut down automatically for hardware safety. So check the PSU is working properly. You can replace the PSU with a good PSU and see if the problem is resolved. With the new PSU, if the problem is not resolved, it means the problem is not caused by the PSU.  
@@ -138,12 +140,24 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/motherboard-841487_1920-1024x678.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 7: Clean dust  
 
  Computer collects dust everyday, but we won’t notice this until too much dust causes some computer problems, like computer overheating. As we mentioned before, overheating could be the cause of the problem “computer repeatedly turns on and off”.  
 
  For desktops, you can open the case and use a soft cloth to wipe the dust. The much easier method is to use a[compressed gas cleaning duster](https://www.amazon.com/Falcon-Compressed-Disposable-Cleaning-DPSXL4T/dp/B002ZB6LZA/&tag=easeware-camillamo-20) to get rid of the dust. For laptops, you’ll need to consult the manual or get technical help there if you haven’t opened one before.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 8: Replace the motherboard  
 
  The last method to fix the problem is replace the motherboard. Replacing motherboard is a little technical and pricey. We recommend you to take your computer to the repair store for technical help.
@@ -151,7 +165,10 @@ For example, many Dell PCs show this key like below at the first screen:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/technology-1396677_1280-1024x768.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Hopefully you find the tips above helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.  
 

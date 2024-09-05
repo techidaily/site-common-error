@@ -1,7 +1,7 @@
 ---
 title: "How to Quiet Your PlayStation 4: Diagnosing and Repairing Louder-Than-Usual Fan Sounds"
-date: 2024-08-31T17:47:11.981Z
-updated: 2024-09-01T17:47:11.981Z
+date: 2024-09-04T20:22:02.889Z
+updated: 2024-09-05T20:22:02.889Z
 tags:
   - win11
   - win10
@@ -68,7 +68,16 @@ thumbnail: https://thmb.techidaily.com/18a804e379d2e35c3dce7adfbd6c31163356bdf9f
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 2: Modify your video card settings
 
@@ -80,13 +89,16 @@ To modify your video card settings, use the following procedure:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-207.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the pop-up window, select**Manage 3D settings** from its left pane. Then, click**Add** to locate and choose the executable file of Fallout 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-210.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Now you’re able to modify the settings of this program.
 
  3) Pay attention to the list below**Specify the settings for this program:** . Scroll through the list to locate these items and make the tweaks accordingly:
@@ -98,11 +110,14 @@ Now you’re able to modify the settings of this program.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-209.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-216.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After modifying your graphics card settings, it’s time to check whether these tweaks have solved your lag problem in Fallout 4\. If not, please proceed to the next fix.
 
 ---
@@ -118,7 +133,10 @@ Now you’re able to modify the settings of this program.
 ![This image has an empty alt attribute; its file name is image-215.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-215.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you’re not sure about the exact resolution of your monitor, you can right-click an empty area on your desktop and select**Display settings** from the context menu. In the pop-up window, take note of the recommended option under**Resolution** , the one that best suits your monitor size.
 
@@ -127,7 +145,10 @@ Now you’re able to modify the settings of this program.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 4: Uncap FPS limit
 
@@ -153,6 +174,12 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Stop CPU/memory hogging applications
 
  If you have too many CPU/memory hogging applications running in the background, that may slow down the processing speed of your computer and lead to low FPS in Fallout 4\. Thus, you need to close these applications before you start to play the game. Here are the steps:
@@ -167,9 +194,6 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-13_10-51-43.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Disable your antivirus software temporarily. This is optional to you but you can give it a try and see if that mitigates your problem.
 
 **Note** that Microsoft has its own default anti-malware, **Windows Defender** . It’s automatically enabled even if you also have other antivirus applications installed. Even if you disable the third-party antivirus programs, Windows Defender is still there for you during that certain time range. So, no need to worry too much about temporarily turning your antivirus off.

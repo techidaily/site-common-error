@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: What to Do When Hamachi Stops Working"
-date: 2024-08-31T17:46:03.007Z
-updated: 2024-09-01T17:46:03.007Z
+date: 2024-09-04T20:22:03.924Z
+updated: 2024-09-05T20:22:03.924Z
 tags:
   - win11
   - win10
@@ -37,7 +37,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
  If it’s the connected hardware that has the driver issue, you can also try to reconnect the hardware device to your computer, then restart the computer again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **Solution 2: Update the driver to fix Code 31**
 
@@ -60,7 +63,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7ad4d9d7044.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Click the **Update**   button next to the flagged driver to automatically install the correct driver. (You can do this with the FREE version)
 
@@ -69,7 +75,10 @@ thumbnail: https://thmb.techidaily.com/897a54d20c0fe274d0937962de97f84511515ba57
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7ad50b355c3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  4) After updating drivers, restart your computer, and reconnect your device to see if the issue is resolved.
 

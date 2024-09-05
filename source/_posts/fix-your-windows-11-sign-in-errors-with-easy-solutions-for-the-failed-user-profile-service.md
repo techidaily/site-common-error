@@ -1,7 +1,7 @@
 ---
 title: Fix Your Windows 11 Sign-In Errors with Easy Solutions for the Failed User Profile Service
-date: 2024-08-09T00:49:03.289Z
-updated: 2024-08-10T00:49:03.289Z
+date: 2024-09-04T20:18:28.122Z
+updated: 2024-09-05T20:18:28.122Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 4. [ Set Windows Photo Viewer as a default image viewer ](<https://www.drivereasy.com/knowledge/fix-class-not-registered-error-on-windows-10-solved/#Fix> 4. Set Windows Photo Viewer as a default image viewer)
 5. [ Disable iCloud](<https://www.drivereasy.com/knowledge/fix-class-not-registered-error-on-windows-10-solved/#Fix> 5. Disable iCloud) ``
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
@@ -50,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
 
 ``
@@ -63,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
 
 ``
@@ -76,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
 ``
@@ -86,27 +74,12 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 `
 ` ``
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
 
 ``
@@ -117,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
 ``
@@ -130,6 +100,18 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
 ``
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
@@ -142,6 +124,12 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ``
 
 ``
@@ -154,7 +142,10 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 ``
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
@@ -162,17 +153,26 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ``
 
  2) Click **System** .
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ``
 
 ``
@@ -181,9 +181,6 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
 ``
@@ -204,6 +201,12 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Open the app again to see if it goes fine.
 
 That’s it!
@@ -230,3 +233,43 @@ That’s it!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-what-happens-to-your-facebook-live-if-its-flagged-for-copyright/"><u>[New] What Happens to Your Facebook Live if It’s Flagged for Copyright?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamline-your-online-presence-yt-descriptive-insights/"><u>[Updated] Streamline Your Online Presence  YT Descriptive Insights</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-a-teachers-guide-to-enhancing-learning-through-youtube-videos/"><u>2024 Approved  A Teacher's Guide to Enhancing Learning Through YouTube Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-comprehensive-key-to-efficient-morphvox-usage/"><u>2024 Approved  The Comprehensive Key to Efficient MorphVOX Usage</u></a></li>
+<li><a href="https://win-dash.techidaily.com/approach-discuss-the-advantages-over-linear-methods/"><u>Approach: Discuss the Advantages over Linear Methods.</u></a></li>
+<li><a href="https://common-error.techidaily.com/avoid-these-pitfalls-successful-strategies-for-implementing-the-battleye-anti-cheat-system/"><u>Avoid These Pitfalls: Successful Strategies for Implementing the BattlEye Anti-Cheat System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/benefits-vs-drawbacks-chatgpt-subscription/"><u>Benefits vs Drawbacks: ChatGPT Subscription</u></a></li>
+<li><a href="https://common-error.techidaily.com/determined-opengl-not-advocated-by-driver/"><u>Determined: OpenGL Not Advocated by Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-for-windows-error-d3dx943dll-could-not-be-loaded/"><u>Effective Remedies for Windows Error 'd3dx9_43.dll Could Not Be Loaded'</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhancing-user-experience-through-cookiebot-integration/"><u>Enhancing User Experience Through Cookiebot Integration</u></a></li>
+<li><a href="https://common-error.techidaily.com/ensuring-uninterrupted-peaceful-nights-in-win11/"><u>Ensuring Uninterrupted Peaceful Nights in Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-resolved-correcting-orglwjgllwjglexception-for-accelerated-pixels-formats/"><u>Error Resolved: Correcting Org.LWJGL.LWJGLException for Accelerated Pixels Formats</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-techniques-for-thawing-your-windows-11-taskbar-best-practices-revealed/"><u>Essential Techniques for Thawing Your Windows 11 Taskbar: Best Practices Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-skype-microphone-issues-a-comprehensive-solution-guide/"><u>Fixing Skype Microphone Issues - A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/get-more-bang-for-your-buck-with-the-highly-praised-arcshell-ar-5/"><u>Get More Bang for Your Buck with the Highly Praised ArcShell AR- 5.</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-around-the-device-cant-receive-miracast-problem-with-simple-fixes/"><u>Getting Around the 'Device Can't Receive Miracast' Problem with Simple Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-correcting-missing-module-alerts-on-your-computer/"><u>Guide to Correcting Missing Module Alerts on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcoming-the-access-denied-http-403-problem-on-your-site/"><u>Guide to Overcoming the 'Access Denied' HTTP 403 Problem on Your Site</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-prevent-your-desktop-or-laptop-from-going-to-sleep-on-its-own/"><u>How to Prevent Your Desktop or Laptop From Going to Sleep on Its Own</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-c210-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia C210 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-turn-on-and-repair-your-bluetooth-when-its-not-working/"><u>How To Turn On and Repair Your Bluetooth When It's Not Working</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-navigation-failure-revitalize-those-arrow-buttons-here/"><u>Keyboard Navigation Failure? Revitalize Those Arrow Buttons Here</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/lensflexmax-7-superior-image-enlargement-tool/"><u>LensFlexMax 7  Superior Image Enlargement Tool</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-touchpad-problems-steps-to-get-it-working-again/"><u>Mastering Touchpad Problems: Steps to Get It Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-11-fixes-with-system-file-checker-and-deployment-image-servicing-management-utilities/"><u>Mastering Windows 11 Fixes with System File Checker and Deployment Image Servicing Management Utilities</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-advanced-audacity-editing-adjusting-pitch-without-audio-degradation/"><u>New Advanced Audacity Editing Adjusting Pitch Without Audio Degradation</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-usb-connection-problems-effective-solutions-for-device-descriptor-request-failed-error/"><u>Overcoming USB Connection Problems: Effective Solutions for 'Device Descriptor Request Failed' Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-windows-app-crash-explorerexe/"><u>Resolved: Windows App Crash - Explorer.exe</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-update-loop-at-99-or-full-get-back-on-track-now/"><u>Resolving Windows 10 Update Loop at 99%% or Full - Get Back on Track Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-this-page-cannot-be-displayed/"><u>Solved: This Page Cannot Be Displayed</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-mystery-of-the-constant-white-screen-on-your-computer/"><u>Solving the Mystery of the Constant White Screen on Your Computer!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-repair-d3dx939dll-file-absence-error-quickly-and-effectively/"><u>Step-by-Step Solution: Repair D3DX9_39.dll File Absence Error Quickly & Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203768992-troubleshooting-non-responsive-arrows-on-your-keyboard-quick-fixes/"><u>Troubleshooting Non-Responsive Arrows on Your Keyboard - Quick Fixes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-startup-woes-eliminating-black-screens-on-monster-hunter-world-launch/"><u>Troubleshooting Startup Woes: Eliminating Black Screens on Monster Hunter: World Launch</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-alert-your-pc-needs-a-directx-11-gpu-for-optimal-performance/"><u>Update Alert! Your PC Needs a DirectX 11 GPU for Optimal Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-sudden-reboots-unaccounted-for/"><u>Windows 10: Sudden Reboots Unaccounted For</u></a></li>
+</ul></div>

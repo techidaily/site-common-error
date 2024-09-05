@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Improper Image Error on Your PC Running Windows 11 or 10
-date: 2024-08-31T17:49:50.718Z
-updated: 2024-09-01T17:49:50.718Z
+date: 2024-09-04T20:22:00.455Z
+updated: 2024-09-05T20:22:00.455Z
 tags:
   - win11
   - win10
@@ -28,46 +28,57 @@ thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59
  1) Press and hold the **reset** button of your adapter for around 10 seconds. ![](https://images.drivereasy.com/wp-content/uploads/2017/04/2-21.jpg)2) When you see the “**Ready to connect**” message, open Action Center from the taskbar and click**Connect**.![](https://images.drivereasy.com/wp-content/uploads/2017/04/3-20.jpg)3) Choose **Microsoft Wireless Display Adapter** from the displays list. Then check if the adapter could work.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 2: Reinstall your graphics card driver
 
 This problem could be also caused by an old or incorrect graphics card driver. Go with the following steps to reinstall your graphics card driver:1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)  and **X**  at the same time to invoke the quick-access menu.2) Click**Device Manager**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c4e6e3d234f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 3) Right-click on your graphics card driver in **Display adapters** and click **Uninstall device**.![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-10.jpg)4) Download the latest driver for the graphics card from your computer manufacturer’s website.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Or
 
 If you’re not confident playing around with drivers manually, you can do it automatically with  **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .  It’s a driver tool that detects, downloads and (if you go Pro) installs any driver updates your computer needs all automatically.  To install your tablet drivers with Driver Easy, just click the **Scan Now**  button, then when it detects the drivers you need to update, click **Update**  . The correct drivers will be downloaded, and you can install them – either manually through Windows or all automatically with [**Driver Easy Pro**](https://tools.techidaily.com/drivereasy/download/) . ![](https://images.drivereasy.com/wp-content/uploads/2017/04/de-5.8-graphics.jpg) 5) Restart your computer and re-connect your wireless display adapter to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 3: Make sure the 2.4GHz wireless frequency band is enabled
 
 1) On your keyboard, press the   **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)  and **X**  at the same time to invoke the quick-access menu.2) Click**Device Manager**.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c4e6e3d234f.png)3) Right-click on your network adapterin**Network adapters**, here we take **Marvell AVASTAR Wireless-AC Network Controller**as the example. Go on to click**Properties**.![](https://images.drivereasy.com/wp-content/uploads/2017/04/5-16.jpg)3) Click **Band** in **Advanced**. Then set it to **Auto** and click **OK**.![](https://images.drivereasy.com/wp-content/uploads/2017/04/6-16.jpg)4) Check if your adapter could work now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"

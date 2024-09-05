@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Stop the Constant Flicker of Your Computer Cursor"
-date: 2024-08-31T17:47:50.900Z
-updated: 2024-09-01T17:47:50.900Z
+date: 2024-09-04T20:22:02.313Z
+updated: 2024-09-05T20:22:02.313Z
 tags:
   - win11
   - win10
@@ -42,7 +42,10 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 **![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a166e3214a67.jpg)**
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Method 2: Install the printer as administrator
 

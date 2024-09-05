@@ -1,7 +1,7 @@
 ---
 title: Solution for When Google Chrome Freezes Up and Won’t Respond
-date: 2024-08-31T17:46:34.450Z
-updated: 2024-09-01T17:46:34.450Z
+date: 2024-09-04T20:22:03.500Z
+updated: 2024-09-05T20:22:03.500Z
 tags:
   - win11
   - win10
@@ -42,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Turn off Chrome add-ons
 
  Add-ons are extensions to Chrome that allow you to do more things in your browser, or which improve your  user experience. For example, the AdBlock add-on blocks ads. Extensions are sometimes added manually and sometimes added by other programs on your computer (hopefully with your permission).
@@ -55,18 +52,26 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 2. In the top right, click on **the three vertical dots** button > **More tools** \> **Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432bba1ea5a.jpg)
 3. Toggle off all the extensions on your Chrome.  
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
 4. **Restart**  your computer and check if**Google Chrome**  now works:
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * If Google Chrome does respond after disabling all your add-ons, it’s likely one of your add-ons was the problem. Now you just need to figure out which one. To do this, enable the first add-on in the list, then see if Google Chrome still works. If it doesn’t, then you’ve found the cause of the problem. If Google Chrome works fine after enabling the first add-on, enable the second and test again. Continue testing each add-on in this way until you find the one that stops Internet Explorer from working. Once you find it, disable it again. If you need it, contact the vendor for support.
 * If disabling your add-ons doesn’t solve the **Chrome not responding**  issue, please try **Fix 3** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your drivers
 
  This problem may occur if you are using the wrong or outdated device drivers. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -82,7 +87,10 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432efcb9088.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -97,8 +105,10 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 4: Allow Chrome**through Windows Defender Firewall**
 
@@ -108,20 +118,26 @@ thumbnail: https://thmb.techidaily.com/15c27a9dd37e7d971ec6b1dda7daf6d5203783d6f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4322c4421a9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click **Allow an app or feature through Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4323083c3e7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Click**Change settings** . Then make sure the 4 boxes for Google Chrome are ALL ticked and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4324732913f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Re-launch Google Chrome and check if the **Google Chrome not responding** issue has been fixed. If yes, then great! But if it’s still no joy, please move on to**Fix 5** , below.
 
 ---

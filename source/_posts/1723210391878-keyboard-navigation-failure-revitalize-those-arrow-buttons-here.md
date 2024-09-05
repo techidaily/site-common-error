@@ -1,7 +1,7 @@
 ---
 title: Keyboard Navigation Failure? Revitalize Those Arrow Buttons Here!
-date: 2024-08-09T00:49:03.681Z
-updated: 2024-08-10T00:49:03.681Z
+date: 2024-09-04T20:19:15.408Z
+updated: 2024-09-05T20:19:15.408Z
 tags:
   - win11
   - win10
@@ -15,25 +15,10 @@ thumbnail: https://thmb.techidaily.com/aa15e346f7d15551b7e87cd1f2e88212dee28fcef
 
 ## Revive Your Arrow Keys on the Keyboard with These Expert Fixes
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/arrow-keys.jpg)
 
  The arrow keys on your keyboard may stop working suddenly due to various reasons. But don’t worry. Here we’ll show you how to get them working correctly again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 6 fixes that have helped other users resolve their arrow keys not working issue. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -49,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/aa15e346f7d15551b7e87cd1f2e88212dee28fcef
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Check hardware issues
 
  If your keyboard isn’t connected properly, you may face the arrow keys not working issue. To fix it, try**unplugging the USB cable** **and wait for a little while, then** **plug your keyboard back in** .
@@ -63,7 +45,10 @@ thumbnail: https://thmb.techidaily.com/aa15e346f7d15551b7e87cd1f2e88212dee28fcef
  After confirming that your hardware is not the problem, check out the next method.
 
 <!-- affiliate ads begin -->
-
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 3: Reinstall your keyboard driver
 
@@ -71,20 +56,23 @@ thumbnail: https://thmb.techidaily.com/aa15e346f7d15551b7e87cd1f2e88212dee28fcef
 
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
 2. Type**devmgmt.msc** and hit Enter.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
@@ -101,6 +89,12 @@ thumbnail: https://thmb.techidaily.com/aa15e346f7d15551b7e87cd1f2e88212dee28fcef
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
@@ -111,6 +105,12 @@ thumbnail: https://thmb.techidaily.com/aa15e346f7d15551b7e87cd1f2e88212dee28fcef
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Disable the Scroll Lock key
 
  If the arrow keys are not working as intended in**Excel** , try**disabling the Scroll Lock key** to fix the problem. If the Scroll Lock key is enabled, the whole page will move when you press any of the arrow keys, but the selected cell won’t change. So if you just want to use the arrow keys to move between different cells, you should turn off the Scroll Lock key.
@@ -123,6 +123,12 @@ thumbnail: https://thmb.techidaily.com/aa15e346f7d15551b7e87cd1f2e88212dee28fcef
 
 If this method didn’t work for you, check out the last fix.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Run Keyboard Troubleshooter
 
  If your keyboard isn’t working properly, running a built-in troubleshooter might help find and fix the problem for you. To do so:
@@ -130,15 +136,15 @@ If this method didn’t work for you, check out the last fix.
 #### on Windows 10
 
 1. On your keyboard, press the**Window logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
@@ -149,11 +155,14 @@ If this method didn’t work for you, check out the last fix.
 2. Select**System** . Scroll down and click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -175,3 +184,37 @@ If this method didn’t work for you, check out the last fix.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-beginners-guide-steady-sound-volume-rise-in-editing/"><u>[New] Beginner's Guide  Steady Sound Volume Rise in Editing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-elite-platforms-for-captivating-game-livestreams-for-2024/"><u>[New] Elite Platforms for Captivating Game Livestreams for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-inquiry-into-youtubes-monetary-frequency/"><u>[New] In 2024, Inquiry Into YouTube's Monetary Frequency</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-streaming-sounds-into-your-social-story-arcs/"><u>[New] In 2024, Streaming Sounds Into Your Social Story Arcs</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-remove-google-chrome-critical-error-scam/"><u>[Solved] How to Remove Google Chrome Critical Error SCAM</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unleash-creativity-customizing-call-alert-sounds-on-iphone/"><u>[Updated] Unleash Creativity  Customizing Call Alert Sounds on iPhone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-infinix-hot-40-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Infinix Hot 40 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/all-purpose-mobile-keyboard-from-moko-stylish-foldable-and-wireless-type-experience/"><u>All-Purpose Mobile Keyboard From MoKo: Stylish Foldable and Wireless Type Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/brilliant-displays-how-to-stop-screen-flickering/"><u>Brilliant Displays: How to Stop Screen Flickering</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-guide-to-reconnecting-your-chromecast-for-smooth-streaming/"><u>Effortless Guide to Reconnecting Your Chromecast for Smooth Streaming</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204149502-fixing-unresponsive-updown-and-leftright-buttons-on-your-keyboard-today/"><u>Fixing Unresponsive Up/Down and Left/Right Buttons on Your Keyboard Today!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-thrustmaster-t300-driving-experience-installers-for-windows-10-and-11-available-now/"><u>Get Your Thrustmaster T300 Driving Experience: Installers for Windows 10 & 11 Available Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-overcoming-non-responsive-brightness-buttons-in-windows-11/"><u>Guide: Overcoming Non-Responsive Brightness Buttons in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-cannot-locate-a-suitable-printer-driver-step-by-step-tutorials/"><u>How to Fix 'Windows Cannot Locate a Suitable Printer Driver': Step-by-Step Tutorials</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-error-code-0x80073cf9-and-successfully-use-windows-11-store-again/"><u>How to Overcome Error Code 0X80073CF9 & Successfully Use Windows 11 Store Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-set-up-battleye-anti-cheat-problems-solved/"><u>How To Successfully Set Up BattlEye Anti-Cheat: Problems Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-function-restored-no-more-typing-problems/"><u>Keyboard Function Restored: No More Typing Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/kodi-hiccups-top-strategies-for-restoring-full-media-player-functionality/"><u>Kodi Hiccups? Top Strategies for Restoring Full Media Player Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-severe-errors-in-activisions-black-ops-4-game/"><u>Overcoming Severe Errors in Activision's Black Ops 4 Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-gaming-halt-quick-fix-for-pc-pauses/"><u>Resolve Gaming Halt: Quick Fix for PC Pauses</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-resolve-driver-failed-due-to-incorrect-user-settings/"><u>Step-by-Step Guide to Resolve 'Driver Failed Due to Incorrect User Settings'</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-visible-cursor-functionality-in-windows-ebox-pcs-and-laptops/"><u>Step-by-Step Guide: Restoring Visible Cursor Functionality in Windows Ebox PCs and Laptops</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-unprintable-pdf-with-these-easy-fixes/"><u>Troubleshoot Your Unprintable PDF with These Easy Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-laptop-trackpad/"><u>Troubleshooting Guide: Fixing a Non-Responsive Laptop Trackpad</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-issue-when-windowsplusshiftpluss-key-combination-fails-in-windows-11-or-10/"><u>Troubleshooting Guide: Fixing the Issue When Windows+Shift+S Key Combination Fails in Windows 11 or 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolve-your-airpods-connection-issues-on-windows-11-top-strategies/"><u>Troubleshooting Guide: Resolve Your AirPods Connection Issues on Windows 11 - Top Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-the-windows-blue-screen-of-death-bsod-with-error-code-c00000e9/"><u>Troubleshooting Guide: Solving the Windows Blue Screen of Death (BSoD) with Error Code C00000e9</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-stalling-at-start-when-running-windows-10/"><u>Troubleshooting Persistent Stalling at Start When Running Windows 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/uniting-digital-and-physical-worlds/"><u>Uniting Digital and Physical Worlds</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-does-my-mouse-cursor-keep-disappearing-solving-the-mystery-on-windows-amoled/"><u>Why Does My Mouse Cursor Keep Disappearing? Solving the Mystery on Windows Amoled</u></a></li>
+</ul></div>

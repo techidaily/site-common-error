@@ -1,7 +1,7 @@
 ---
 title: Resolve 'Out of Memory' In Red Dead Redemption 2 by Expanding Your Pagefile
-date: 2024-08-09T00:49:04.394Z
-updated: 2024-08-10T00:49:04.394Z
+date: 2024-09-04T20:20:43.399Z
+updated: 2024-09-05T20:20:43.399Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/876b4cf01691e6a76beb54576565375ccfec6aaf5
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Run Warframe as an administrator
 
  Running the launcher as an administrator can fix anything related to the file-write permission issues.
@@ -49,9 +46,6 @@ To do this:
 
  1) Right-click the Warframe**launcher shortcut** , and then click**Properties** .  
   
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-administrator-1.jpg)
   
  2) Select the**Compatibility** tab and click**Change settings for all users** .  
@@ -60,9 +54,6 @@ To do this:
 
  3) Under the**Settings** section, click**Run this program as an administrator** . Then click**Apply** .  
   
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run Warframe as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-administrator-3-1.jpg)
 
 After applying the changes, try relaunching Warframe.
@@ -70,7 +61,10 @@ After applying the changes, try relaunching Warframe.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 2: Temporarily disable antivirus software
 
@@ -87,7 +81,10 @@ After applying the changes, try relaunching Warframe.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 3: Optimize your internet connection
 
@@ -101,15 +98,30 @@ After applying the changes, try relaunching Warframe.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/ethernet-settings-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Under the**Ethernet** section, you can see if it’s connected or not.  
   
  2) If your computer isn’t connected to ethernet, then you need to check if the ethernet is connected to your router/ modem correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ethernet; internet connection; Warframe udpate failed](https://images.drivereasy.com/wp-content/uploads/2020/09/ethernet.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ethernet
 
 #### **If you’re using a wireless connection:**
@@ -122,11 +134,14 @@ ethernet
 
  1) On the**Search** box, type**cmd** and click**Command Prompt** .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/09/open-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Type the commands below**one by one** and**before** you type the next one, remember to press**Enter** on your keyboard.  
   
 **ipconfig/flushdns**
@@ -143,7 +158,10 @@ ethernet
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 4: Repair/ Update Microsoft Visual C++ Redistributable
 
@@ -158,11 +176,14 @@ Both the repairing and updating might work. So just choose one of them.
 
  1) On the**Search** box, type**control panel** and click the**Control Panel icon** from the results.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![open control panel ](https://images.drivereasy.com/wp-content/uploads/2020/09/open-control-panel-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Click**Programs and Features**
 
 ![repair download packages; Warframe update failed](https://images.drivereasy.com/wp-content/uploads/2020/09/program-and-features.jpg)
@@ -177,18 +198,12 @@ Both the repairing and updating might work. So just choose one of them.
 
  5) When the**Modify Setup** window pops up, click**Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![repair Microsoft Visual C++; update failed; Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C-2.jpg)
 
  6) When you’re asked “Do you want to allow this app to make changes to your device?”, click**Yes** .
 
  7) Click**Close** when the repairing is finished.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![repair Microsoft Visual C++; update failed; Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C-3-3.jpg)
 
 #### **Update Microsoft Visual** **C++**
@@ -198,7 +213,10 @@ Both the repairing and updating might work. So just choose one of them.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 5: Reinstall DirectX
 
@@ -220,11 +238,14 @@ Both the repairing and updating might work. So just choose one of them.
 
 ![change settings Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/click-the-settings-icon.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Uncheck**Bulk Download** and when the**Warning** window appears, click**OK** . Then click**OK** on the**Settings** window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![change settings Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-launcher-settings.jpg)
 
 ---
@@ -260,6 +281,12 @@ To use a VPN service, you need to download a VPN application.
 
 ![vpn](https://images.drivereasy.com/wp-content/uploads/2020/09/NordVPN-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After you’ve installed NordVPN, launch it and then open Warframe to update your game.
 
 ---
@@ -283,3 +310,42 @@ To use a VPN service, you need to download a VPN application.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-greening-the-grid-paving-the-way-for-sustainable-metropolises/"><u>[New] Greening the Grid  Paving the Way for Sustainable Metropolises</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-podcasts-vs-youtube-which-should-you-choose-for-2024/"><u>[Updated] Podcasts Vs. YouTube  Which Should You Choose for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-meme-framework-essentials/"><u>2024 Approved  Prime Meme Framework Essentials</u></a></li>
+<li><a href="https://common-error.techidaily.com/avoid-these-pitfalls-successful-strategies-for-implementing-the-battleye-anti-cheat-system/"><u>Avoid These Pitfalls: Successful Strategies for Implementing the BattlEye Anti-Cheat System</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/boost-your-phones-speed-by-deleting-the-cache-in-android-systems/"><u>Boost Your Phone's Speed by Deleting the Cache in Android Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-addressing-unexpected-computer-turnoffs-during-gaming-windows-11-10-7-81-and-8/"><u>Comprehensive Guide to Addressing Unexpected Computer Turnoffs During Gaming (Windows 11, 10, 7, 8.1 & 8)</u></a></li>
+<li><a href="https://common-error.techidaily.com/determined-opengl-not-advocated-by-driver/"><u>Determined: OpenGL Not Advocated by Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-for-windows-error-d3dx943dll-could-not-be-loaded/"><u>Effective Remedies for Windows Error 'd3dx9_43.dll Could Not Be Loaded'</u></a></li>
+<li><a href="https://common-error.techidaily.com/ensuring-uninterrupted-peaceful-nights-in-win11/"><u>Ensuring Uninterrupted Peaceful Nights in Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-resolved-correcting-orglwjgllwjglexception-for-accelerated-pixels-formats/"><u>Error Resolved: Correcting Org.LWJGL.LWJGLException for Accelerated Pixels Formats</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-techniques-for-thawing-your-windows-11-taskbar-best-practices-revealed/"><u>Essential Techniques for Thawing Your Windows 11 Taskbar: Best Practices Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-skype-microphone-issues-a-comprehensive-solution-guide/"><u>Fixing Skype Microphone Issues - A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcoming-the-access-denied-http-403-problem-on-your-site/"><u>Guide to Overcoming the 'Access Denied' HTTP 403 Problem on Your Site</u></a></li>
+<li><a href="https://driver-install.techidaily.com/house-call-printer-driver/"><u>House Call: Printer Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-prevent-your-desktop-or-laptop-from-going-to-sleep-on-its-own/"><u>How to Prevent Your Desktop or Laptop From Going to Sleep on Its Own</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-successfully-reset-your-ipad-security-if-you-cant-remember-the-password/"><u>How to Successfully Reset Your iPad Security if You Can’t Remember The Password</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-turn-on-and-repair-your-bluetooth-when-its-not-working/"><u>How To Turn On and Repair Your Bluetooth When It's Not Working</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-x9a-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-navigation-failure-revitalize-those-arrow-buttons-here/"><u>Keyboard Navigation Failure? Revitalize Those Arrow Buttons Here</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/making-classroom-content-video-editing-insights/"><u>Making Classroom Content  Video Editing Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-touchpad-problems-steps-to-get-it-working-again/"><u>Mastering Touchpad Problems: Steps to Get It Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-11-fixes-with-system-file-checker-and-deployment-image-servicing-management-utilities/"><u>Mastering Windows 11 Fixes with System File Checker and Deployment Image Servicing Management Utilities</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-usb-connection-problems-effective-solutions-for-device-descriptor-request-failed-error/"><u>Overcoming USB Connection Problems: Effective Solutions for 'Device Descriptor Request Failed' Error</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/poll-power-players-leading-electoral-game-reviews-for-2024/"><u>Poll Power Players  Leading Electoral Game Reviews for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-windows-app-crash-explorerexe/"><u>Resolved: Windows App Crash - Explorer.exe</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-update-loop-at-99-or-full-get-back-on-track-now/"><u>Resolving Windows 10 Update Loop at 99%% or Full - Get Back on Track Now!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secrets-of-the-pocket-acquiring-no-pay-images/"><u>Secrets of the Pocket  Acquiring No-Pay Images</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-repair-d3dx939dll-file-absence-error-quickly-and-effectively/"><u>Step-by-Step Solution: Repair D3DX9_39.dll File Absence Error Quickly & Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/streamline-valorant-performance-with-system-restart/"><u>Streamline Valorant Performance with System Restart</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For OnePlus Nord CE 3 Lite 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203768992-troubleshooting-non-responsive-arrows-on-your-keyboard-quick-fixes/"><u>Troubleshooting Non-Responsive Arrows on Your Keyboard - Quick Fixes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-startup-woes-eliminating-black-screens-on-monster-hunter-world-launch/"><u>Troubleshooting Startup Woes: Eliminating Black Screens on Monster Hunter: World Launch</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-alert-your-pc-needs-a-directx-11-gpu-for-optimal-performance/"><u>Update Alert! Your PC Needs a DirectX 11 GPU for Optimal Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-sudden-reboots-unaccounted-for/"><u>Windows 10: Sudden Reboots Unaccounted For</u></a></li>
+</ul></div>

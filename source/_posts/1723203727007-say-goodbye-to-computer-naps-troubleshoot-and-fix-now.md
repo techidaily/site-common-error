@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Computer Naps: Troubleshoot and Fix Now"
-date: 2024-08-31T17:46:00.194Z
-updated: 2024-09-01T17:46:00.194Z
+date: 2024-09-04T20:22:03.962Z
+updated: 2024-09-05T20:22:03.962Z
 tags:
   - win11
   - win10
@@ -47,7 +47,10 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
  4) If possible,**use your current AC adapter to charge a new battery** . If the battery is charging, it indicates your battery is bad. If the new battery is not charging, perhaps it is the AC adapter that triggers this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 2: Turn off the battery charge threshold
 
@@ -69,6 +72,18 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 
  After you turn off the battery charge threshold feature, your battery should be charging.
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Perform a power reset on your laptop
 
 **Try performing a power reset on your laptop** to see if the battery not charging issue persists. Here is how to do it:
@@ -81,7 +96,10 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
 
@@ -91,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  2) Double-click**Batteries** . Right-click **Microsoft ACPI-Compliant Control Method Battery**  and select **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/1-1.jpg)
@@ -103,7 +118,10 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  4) Shut down your laptop and **disconnect the AC adapter** .
 
@@ -117,20 +135,24 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd073b6f72.png)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Update the driver for your battery management device
 
  This issue is also probably caused by a missing or outdated**driver for your battery management device** . Try updating the driver for your battery management device to see if this issue can be fixed.
@@ -152,17 +174,15 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap437.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**

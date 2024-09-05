@@ -1,0 +1,213 @@
+---
+title: Keyboard Malfunctions? Resolve Non-Working Keys in Windows 10 and 11 Quickly!
+date: 2024-09-04T20:27:39.203Z
+updated: 2024-09-05T20:27:39.203Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Keyboard Malfunctions? Resolve Non-Working Keys in Windows 10 and 11 Quickly!
+excerpt: This Article Describes Keyboard Malfunctions? Resolve Non-Working Keys in Windows 10 and 11 Quickly!
+thumbnail: https://thmb.techidaily.com/1b78f915ab1094bf850841925a5fb1c5096342e86398a63eb813197af80732b2.jpg
+---
+
+## Lenovo Keyboard Malfunction? Here's How You Can Resolve It
+
+ If your**Lenovo laptop keyboard stopped working** , don’t worry. Many Lenovo laptop users have reported this issue. You can easily fix the Lenovo keyboard not working issue with one of the solutions below.
+
+ There are**five** methods for you to try to fix this problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
+
+1. [**Restart your computer**](#method1)
+2. [**Update the driver**](#method4)
+3. [**Press the problem keys diagonally**](#method2)
+4. **[Remove the battery and the power cable](#method3)**
+5. [**Perform a system restore**](#method5)
+
+**IMPORTANT** : Some of the methods below require you to log into Windows. If you’re unable to use the laptop keyboard to do that, **use an external keyboard or a mouse instead** .
+
+### Method 1: Restart your computer
+
+ Restarting computer could resolve many hardware issues instantly. So it’s recommended you try this simple fix first before moving on.
+
+ After restarting, check to see if the keyword works again. If it’s still not working, try[Method 2](#method4) .
+
+### Method 2: Update the driver
+
+ Your Lenovo keyboard not working problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, try to update the keyboard driver for your Lenovo laptop.
+
+ If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making mistakes when installing the driver.
+
+ You can update your drivers automatically with either the **FREE** or the **Pro** version of Driver Easy. But with the Pro version, it takes just 2 clicks (and**you will get full support and a 30-day money back guarantee** ).
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c3bbe03c.jpg)
+
+ 3) Click the **Update**   button next to the flagged keyboard device name to automatically download the correct version of those driver, then you can manually it install it (you can do this with the FREE version).
+
+ Or click **Update All**   to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c508fb30.jpg)
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+ 4) Restart your laptop, and check to see if your keyboard works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 3: Press the problem keys diagonally
+
+ This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 4: Remove the battery and the power cable
+
+ This method has worked for many Lenovo laptop users who were experiencing the keyboard not working problem like you. So it’s worth a try.
+
+**Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 5: Perform a system restore
+
+ If the keyboard stopped working after you updated Windows or installed some software, performing a system restore would solve the problem. Note you need to have[restore points](https://tools.techidaily.com/drivereasy/download/) created.
+
+If you have no idea how to do a system restore, refer steps below:
+
+ 1) On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Type**control** and hit Enter to open the Control Panel.
+
+![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+2) View by **Small icons** and click **System** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) Click**System protection** in left pane.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874af17efd1d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+4) Click **System Restore** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f0301145.jpg)
+
+ 5) Click**Next** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f3039070.jpg)
+
+ 6) Choose a restore point according to the Date and Time (before the problem occurs) and click **Next** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f7c3c1c1.jpg)
+
+ 7) Click**Finish** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784fcae60ab.jpg)
+
+ 8) Click**Yes** to confirm the restore.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784ffa10af0.jpg)
+
+9) Reboot your PC for the changes to take effect.
+
+ Hopefully the methods above help you fix the Lenovo keyboard not working issue. If you have any questions, please feel free to leave your comments. We’d love to hear of any ideas or suggestions
+
+* [keyboard](https://bellelily.pxf.io/m5azgm)
+* [Lenovo](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-recording-quality-unlocked-best-mics/"><u>[New] Recording Quality Unlocked  Best Mics</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-visual-branding-in-small-business-marketing/"><u>[Updated] Visual Branding in Small Business Marketing</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/digital-cameras-that-dont-break-the-bank/"><u>Digital Cameras That Don't Break the Bank</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-doctor-patient-conversations-7-advantages-of-ai/"><u>Enhancing Doctor-Patient Conversations: 7 Advantages of AI</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-to-restoring-windows-11-using-system-file-checker-sfc-and-deployment-image-servicing-and-management-dism/"><u>Expert Guide to Restoring Windows 11 Using System File Checker (SFC) and Deployment Image Servicing and Management (DISM)</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-red-screen-error-ultimate-troubleshooting-guide/"><u>Fixing the Red Screen Error: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11s-phantom-mouse-cursor-problem/"><u>Fixing Windows 11'S Phantom Mouse Cursor Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-whiteout-to-full-display-effective-methods-to-repair-your-laptops-blank-screen-problem/"><u>From Whiteout to Full Display: Effective Methods to Repair Your Laptop's Blank Screen Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/ftdi-bus-system-alert-memory-issues-arise-from-incompatible-driver-configurations/"><u>FTDI Bus System Alert: Memory Issues Arise From Incompatible Driver Configurations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-to-streaming-espnplus-on-your-lg-smart-television/"><u>Guide to Streaming ESPN+ on Your LG Smart Television</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-microsofts-print-to-pdf-issue-on-windows-11/"><u>How to Fix Microsoft's Print to PDF Issue on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-netflix-no-sound-issues-easily/"><u>How To Fix Netflix No Sound Issues Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-non-functional-surface-pro-4-digital-pen-fixed/"><u>How to Repair Non-Functional Surface Pro 4 Digital Pen [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-windows-10-error-code-0x80070426/"><u>How to Resolve the Windows 10 Error Code 0X80070426</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-failure-to-detect-wd-my-passport-ultra-drive/"><u>How to Resolve Windows Failure to Detect WD My Passport Ultra Drive</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-12-pro-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 12 Pro In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-secure-your-files-at-no-cost-the-best-free-1tbplus-cloud-storages/"><u>In 2024, Secure Your Files at No Cost  The Best Free 1TB+ Cloud Storages</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-poor-communication-between-epson-printer-and-scanner/"><u>Navigating Poor Communication Between Epson Printer and Scanner</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-comprehensive-guide-to-nero-waveaudio-editor/"><u>New 2024 Approved Comprehensive Guide to Nero WaveAudio Editor</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-invalid-value-in-registry-issues-while-launching-photos-app-on-windows-11/"><u>Resolving 'Invalid Value in Registry' Issues While Launching Photos App on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-printer-drivers-error-successful-strategies-for-finding-the-right-one/"><u>Resolving Windows Printer Drivers Error: Successful Strategies for Finding the Right One</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-your-windows-11-taskbar-icons-with-these-4-effective-tips/"><u>Restore Your Windows 11 Taskbar Icons with These 4 Effective Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-windows-presscreen-five-step-by-step-solutions-for-windows-10-users/"><u>Reviving Your Windows Presscreen: Five Step-by-Step Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/secrets-of-selective-zoom-sharpening-in-google-meet-for-2024/"><u>Secrets of Selective Zoom Sharpening in Google Meet for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-for-directx-device-initialization-error/"><u>Solution Found for 'DirectX Device Initialization Error'</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-error-0x80004005-unspecified-error/"><u>Solved: Error 0X80004005: Unspecified Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/stopping-windows-overzealous-cpu-consumption/"><u>Stopping Window's Overzealous CPU Consumption</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-how-to-restore-your-dell-laptop-from-a-black-screen-malfunction/"><u>Troubleshooting Tips: How to Restore Your Dell Laptop From a Black Screen Malfunction</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/k-your-videos-potential-with-youtube-link-building-techniques/"><u>Unlock Your Video's Potential with YouTube Link Building Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-announcement-new-world-clears-the-way-past-previous-anti-cheat-glitches/"><u>Update Announcement: New World Clears the Way Past Previous Anti-Cheat Glitches</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-update-1607-installation-problems-and-how-to-fix-them/"><u>Windows 10 Update 1607 Installation Problems and How to Fix Them</u></a></li>
+</ul></div>

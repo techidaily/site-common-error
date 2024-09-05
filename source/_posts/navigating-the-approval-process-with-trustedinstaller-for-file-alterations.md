@@ -1,7 +1,7 @@
 ---
 title: Navigating the Approval Process with TrustedInstaller for File Alterations
-date: 2024-08-31T17:53:05.306Z
-updated: 2024-09-01T17:53:05.306Z
+date: 2024-09-04T20:21:57.446Z
+updated: 2024-09-05T20:21:57.446Z
 tags:
   - win11
   - win10
@@ -27,14 +27,8 @@ Are you trying to install an application but receive an error message? Or are yo
 
  While it’s no harm to keep it because it’s a safe system file. But this file should be located at**C:\\Program Files\\Common Files\\Microsoft Shared\\VC\\msdia80.dll** . If you find it in other drives, you may need to be careful cause it could be the reason for the unsuccessful installation for your other application.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Try the two fixes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Fix 1: Install the Microsoft Visual C++ Packages
 
  This is an easy but effective way to solve your problem. And it’s recommended by Microsoft official website.
@@ -46,15 +40,15 @@ Are you trying to install an application but receive an error message? Or are yo
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Navigate to the file location, right-click on them and choose**Run as administrator** .
 
  4) After installation, reboot your computer to take effect. Then check your problem is fixed or not.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Remove the file location
 
  If you don’t want to download and install the Microsoft Visual C++ Packages, you can try this fix. Once you put the msdia80.dll in the correct place then register it, the problem could be solved and you can delete the file which in the wrong place.
@@ -65,14 +59,32 @@ Are you trying to install an application but receive an error message? Or are yo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Copy and paste**C:\\Program Files\\Common Files\\Microsoft Shared\\VC** into the address bar and press the**Enter** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/path.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) In this folder, right-click on the empty space and click**Paste** . Click**Continue** when you were asked for permission.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/permission.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Press the**Windows logo** key**\+ R** together on your keyboard to open the Run box.
 
  6) Type**cmd** and press the**Ctrl + Shift + Enter** key on your keyboard to**run as administrator** .
@@ -80,8 +92,16 @@ Are you trying to install an application but receive an error message? Or are yo
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  7) Type or copy and paste the following command into the Command Prompt.  
 **Note** : make sure you’ve included the**double-quotes** .
@@ -91,7 +111,10 @@ regsvr32 "C:\Program Files\Common Files\Microsoft Shared\VC\msdia80.dll"
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  8) Restart your computer to take effect. Then check if your problem is solved or not.
 

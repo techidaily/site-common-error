@@ -1,7 +1,7 @@
 ---
 title: Bypass and Repair Critical Error 0xC1900208 in Your Windows 10 System Update Process
-date: 2024-08-09T00:49:02.852Z
-updated: 2024-08-10T00:49:02.852Z
+date: 2024-09-04T20:17:32.508Z
+updated: 2024-09-05T20:17:32.508Z
 tags:
   - win11
   - win10
@@ -34,23 +34,14 @@ If you’re seeing an**error code 0x8024200d**  when performing a Windows update
 
 **If your current operating system is Windows 7** , you just need to wait until the troubleshooter finishes the process and shows you the process result.**If your current operating system is Windows 8 or Windows 10** , you may need to follow the steps below.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap3-1.png)
 
 **3)** If there is a more recent version of Windows Update troubleshooter available, click to run it.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap4-2.png)
 
 **4)** In the new version of Windows Update troubleshooter, Click **Next** . The troubleshooter will check the available updates for your machine.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap5-1.png)
 
 **5)** Click **Apply this fix**  to start the update process in the background immediately.
@@ -69,18 +60,12 @@ If you’re seeing an**error code 0x8024200d**  when performing a Windows update
 
 **2)** Right-click **Windows Update**  and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap14-2.png)
 
 **3)** On your keyboard, press**the Windows Logo Key** and**E** at the same time to open **File Explorer** . Copy the path below and paste it into the address bar, then press **Enter** on your keyboard to go to the **DataStore**  folder.
 
 `C:\Windows\SoftwareDistribution\DataStore`
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap18-2.png)
 
 Please paste it in the address bar.
@@ -95,9 +80,6 @@ Please paste it in the address bar.
 
 `` `C:\Windows\SoftwareDistribution\Download`
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap21-1.png)
 
 Please paste it in the address bar.
@@ -110,22 +92,28 @@ Please paste it in the address bar.
 
 **7)** In the Services window, right-click **Windows Update**  and select**Start** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap24-2.png)
 
  Go and check Windows Update again to see whether you can perform the Windows update or not. If it still doesn’t work, please try the next method.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Running System File Checker
 
  System File Checker can scan for corruptions in Windows system files and restore corrupted files. When you fail to install Windows updates, it may be caused by some corruption error. In this case, running System File Checker may help you resolve this issue.
 
 **1)**  On your keyboard, press**the Windows Logo Key** and then type**cmd** in the search box. When you see **Command Prompt** in the list of results, right-click it and then select **Run as administrator** . You will be prompted for permission. Click **Ok** to run the **Command Prompt** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap37.png)
 
 **2)** On your keyboard, type the command below and press **Enter** . **If your current operating system is Windows 7, please skip this step.**
@@ -136,6 +124,12 @@ DISM.exe /Online /Cleanup-image /Restorehealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)** When this command operation is completed, on your keyboard, type the following command and press **Enter** .
 
 sfc /scannow
@@ -146,6 +140,18 @@ It may take some time for the command operation to be completed.
 
 **4)** When this command operation is completed, close the **Command Prompt** and run **Windows Update**  again to check whether this method works or not. If you still fail to install updates for your Windows system, please try the next method.
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Downloading updates from Microsoft Update Catalog manually
 
  If all the methods mentioned above still don’t work for you, you can try to download the updates you failed to install from **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)**  and install them manually.
@@ -157,17 +163,17 @@ It may take some time for the command operation to be completed.
 **3)** Follow the instructions below to view your system type:
 
 **i.** On your keyboard, press**the Windows Logo key** and**R** at the same time to open the Run dialog. Type**cmd** and press**Enter** to open the Command Prompt.  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap40.png)
 
 **ii.**  Type the command line**systeminfo** and press**Enter** to view your system type.  
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap31-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  “**X64-based PC** ” indicates that your Windows OS is 64-bit; “**X86-based PC** ” means that your Windows OS is 32-bit.
 
 **4)** Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)**  .
@@ -176,15 +182,24 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap42.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **6)** In the list of search results, select the right update for your operating system and click **Download** .
 
  If your Windows OS is 64-bit, you should download the update whose name contains “**x64-based** ”.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap26-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **7)** In the pop-up window, click the link to start downloading the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap27.png)
@@ -208,3 +223,51 @@ It may take some time for the command operation to be completed.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/omparing-digital-platform-profits-dailymovement-to-youtube-revenue/"><u>[New] Comparing Digital Platform Profits  DailyMovement to YouTube Revenue</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-traveling-back-in-social-media-years-a-practical-fb-guide-for-2024/"><u>[New] Traveling Back in Social Media Years  A Practical FB Guide for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-step-by-step-guide-to-download-and-store-twitter-videos-on-phone/"><u>[Updated] 2024 Approved  Step-by-Step Guide to Download and Store Twitter Videos on Phone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-engineering-engaging-media-excerpts-for-2024/"><u>[Updated] Engineering Engaging Media Excerpts for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-acquiring-high-clarity-imagery-without-limitations/"><u>2024 Approved  Acquiring High-Clarity Imagery without Limitations</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-perfect-pixels-in-a-minute-quick-fixes-with-studio-editor/"><u>2024 Approved  Perfect Pixels in a Minute  Quick Fixes with Studio Editor</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieving-optimal-ark-isle-of-carnage-speed-a-players-guide-to-fps-boosting-on-desktops/"><u>Achieving Optimal ARK: Isle of Carnage Speed: A Player's Guide to FPS Boosting on Desktops</u></a></li>
+<li><a href="https://common-error.techidaily.com/blackout-phenomenon-screen-quest/"><u>Blackout Phenomenon: Screen Quest</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatxt-innovation-for-enriched-storytelling/"><u>ChaTxt Innovation for Enriched Storytelling</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-easy-way-to-get-new-wacom-bamboo-drivers/"><u>Direct, Easy Way to Get New Wacom Bamboo Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-tips-resolving-issues-when-usb-drives-go-missing-on-your-computer/"><u>DIY Repair Tips: Resolving Issues When USB Drives Go Missing on Your Computer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-transition-upgrading-your-system-from-windows-amo-to-windows-11/"><u>Easy Transition: Upgrading Your System From Windows Amo to Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-dealing-with-an-unresponsive-internet-explorer-browser/"><u>Effective Solutions for Dealing with an Unresponsive Internet Explorer Browser</u></a></li>
+<li><a href="https://common-error.techidaily.com/elaborate-on-how-solving-problems-aids-personal-growth-and-self-reliance/"><u>Elaborate on How Solving Problems Aids Personal Growth and Self-Reliance.</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-addressing-the-your-computer-cannot-start-error-message/"><u>Expert Tips for Addressing the 'Your Computer Cannot Start' Error Message</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-repairing-malfunctioning-shift-key-on-your-computer/"><u>Expert Tips: Repairing Malfunctioning Shift Key on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/failed-to-initialize-battleye-service-generic-error-fixed/"><u>Failed to Initialize BattlEye Service: Generic Error [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-troubleshooting-and-repairing-unsuccessful-writes-to-referenced-0x-memory-locations/"><u>Fixed: Troubleshooting and Repairing Unsuccessful Writes to Referenced 0X Memory Locations</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-mystery-how-to-stop-your-pc-from-shutting-down-unexpectedly/"><u>Fixing the Mystery: How to Stop Your PC From Shutting Down Unexpectedly</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-update-error-code-8007000e-fast-and-effective-solutions/"><u>Fixing Windows Update Error Code 8007000E: Fast and Effective Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcoming-errors-when-initializing-bluetooth-stack-services/"><u>Guide to Overcoming Errors When Initializing Bluetooth Stack Services</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-tecno-pova-5-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Tecno Pova 5 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-840-g3-drivers-download-and-install/"><u>HP 840 G3 Drivers Download and Install</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-solutions-to-find-your-apple-iphone-14-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Solutions to Find Your Apple iPhone 14 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-win10-video-capture-pro-professional-edition/"><u>In 2024, Win10 Video Capture Pro - Professional Edition</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/journey-to-jewels-5-optimal-terrafirma-mapping-for-2024/"><u>Journey to Jewels  5 Optimal Terrafirma Mapping for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/netflix-issues-is-the-service-down-and-what-can-you-do-about-it/"><u>Netflix Issues: Is the Service Down, and What Can You Do About It?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/next-level-android-for-3d-video-enthusiasts-for-2024/"><u>Next-Level Android for 3D Video Enthusiasts for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/nier-automata-crashes-on-desktop-resolved-effective-fixes-and-tweaks-for-gamers/"><u>Nier: Automata Crashes on Desktop Resolved: Effective Fixes and Tweaks for Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-memory-management-executables-impact-on-your-pc-windows-10/"><u>Optimizing Memory Management Executable's Impact on Your PC [WINDOWS 10]</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-volume-control-glitches-in-windows-10-effective-solutions-for-crystal-clear-audio/"><u>Overcoming Volume Control Glitches in Windows 10: Effective Solutions for Crystal Clear Audio</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-remedies-to-prevent-your-csgo-from-suddenly-shutting-down/"><u>Quick Remedies to Prevent Your CSGO From Suddenly Shutting Down</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-set-up-problems-for-smooth-gaming-experience-with-eas-origin-platform/"><u>Resolve Set-Up Problems for Smooth Gaming Experience with EA's Origin Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solution-resolving-the-steam-disk-writes-failed-issue-without-hassle/"><u>Simple Solution: Resolving the 'Steam Disk Writes Failed' Issue Without Hassle</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-for-when-google-chrome-freezes-up-and-wont-respond/"><u>Solution for When Google Chrome Freezes Up and Won’t Respond</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-pubg-startup-failures-a-detailed-tutorial-for-gamers-and-techies/"><u>Solving PUBG Startup Failures : A Detailed Tutorial for Gamers and Techies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-method-for-uploading-pictures-from-an-aged-iphone-to-the-latest-iphone-x-using-a-mac-computer/"><u>Step-by-Step Method for Uploading Pictures From an Aged iPhone to the Latest iPhone X Using a Mac Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-fixing-a-vanishing-taskbar-on-windows-10-discover-4-key-methods/"><u>The Ultimate Guide to Fixing a Vanishing Taskbar on Windows 10 - Discover 4 Key Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206874291-trouble-with-updownleftright-keys-discover-easy-fixes-now/"><u>Trouble with Up/Down/Left/Right Keys? Discover Easy Fixes Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-ethernet-connectivity-for-windows-117-users/"><u>Troubleshooting Your Ethernet Connectivity for Windows 11/7 Users</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unlocking-fcpx-advanced-image-cropping-techniques/"><u>Updated 2024 Approved Unlocking FCPX Advanced Image Cropping Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/win10-alleviating-high-cpu-performance-issues/"><u>Win10: Alleviating High-CPU Performance Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-solution-how-to-unstuck-and-repair-your-keyboards-locked-keys/"><u>Windows Solution: How to Unstuck and Repair Your Keyboard's Locked Keys</u></a></li>
+</ul></div>

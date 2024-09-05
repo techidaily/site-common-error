@@ -1,7 +1,7 @@
 ---
 title: Immediate Fixes for When Your DNS Server Is Down - No Stress Required!
-date: 2024-08-31T17:49:34.192Z
-updated: 2024-09-01T17:49:34.192Z
+date: 2024-09-04T20:22:00.702Z
+updated: 2024-09-05T20:22:00.702Z
 tags:
   - win11
   - win10
@@ -53,7 +53,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 2: Disable Sleep Mode
 
@@ -67,6 +70,18 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-634.png)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) On the**Power & sleep** tab, in the results pane, under**Related settings** , click**Additional power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-636.png)
@@ -76,7 +91,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-637.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  4) Expand**Put the computer to sleep:** and select**Never** . Then click**Save changes** .
 
@@ -93,26 +111,49 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-When-plugged-in-put-my-device-to-sleep-after-Never-When-plugged-in-turn-off-my-screen-after-Never-1200x771.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Tick the “Support TabletPC” option
 
  As mentioned in the user manual of the Huion pen, you should check the**Support TabletPC** box to enable the pressure sensitivity function in a variety of drawing programs. Here’s how:
 
  1) Double-click the**driver tablet icon** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-27_18-52-38.jpg) on your system tray (an area on the right side of your Taskbar) to open the PenTablet control interface.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Check the**Support TabletPC** box, as shown below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
@@ -121,9 +162,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your tablet driver
 
  Another culprit for the Huion pen not working issue is an outdated or corrupt tablet driver. So literally it’s not your pen but rather the tablet that is dysfunctional due to driver failures.
@@ -152,13 +190,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Huion tablet driver for now, simply click the **Update**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-650.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -175,9 +216,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-653-1024x311.png)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to download the user manual, select the icon next to**Instruction:** according to your operating system.
 
  3) After downloading the driver, open the folder in which the driver is downloaded. Usually, you’ll see a**compressed folder (with .zip extension)** there. Go on to**extract** the folder.
@@ -190,6 +228,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-660.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5) Follow the on-screen wizard to install the driver.
 
 6) When everything’s done, reboot your computer for the changes to take effect.
@@ -198,9 +242,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Uncheck “Enable Windows Ink”
 
  This fix should work if you’re experiencing brush lags or other similar issues in Photoshop, with a Huion pen/tablet. Here’s how to do it:
@@ -209,15 +250,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-663.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  2) When Notepad is opened, type in**UseSystemStylus 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Then save the file as**PSUserConfig.txt** to the following location:
 

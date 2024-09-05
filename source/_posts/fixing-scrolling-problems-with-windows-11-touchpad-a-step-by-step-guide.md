@@ -1,7 +1,7 @@
 ---
 title: "Fixing Scrolling Problems with Windows 11 Touchpad: A Step-by-Step Guide"
-date: 2024-08-31T17:51:02.616Z
-updated: 2024-09-01T17:51:02.616Z
+date: 2024-09-04T20:21:59.371Z
+updated: 2024-09-05T20:21:59.371Z
 tags:
   - win11
   - win10
@@ -53,7 +53,10 @@ Then click **Device Manager**  to open it.
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Method 2\. Update your touchpad driver
 
@@ -68,7 +71,10 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 3) After scanning, you have 2 options.
 
@@ -79,7 +85,10 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 

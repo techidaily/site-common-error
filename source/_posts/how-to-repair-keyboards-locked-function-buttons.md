@@ -1,7 +1,7 @@
 ---
 title: How To Repair Keyboard's Locked Function Buttons
-date: 2024-08-09T00:49:02.652Z
-updated: 2024-08-10T00:49:02.652Z
+date: 2024-09-04T20:17:07.697Z
+updated: 2024-09-05T20:17:07.697Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/6d2d53e2342f21d415006db38fe4601b286d92e55
 
 ## Directional Dilemma? Here's How to Get Those Keyboard Arrows Back in Action
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/arrow-keys.jpg)
 
  The arrow keys on your keyboard may stop working suddenly due to various reasons. But don’t worry. Here we’ll show you how to get them working correctly again.
@@ -33,16 +30,10 @@ thumbnail: https://thmb.techidaily.com/6d2d53e2342f21d415006db38fe4601b286d92e55
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### Fix 2: Check hardware issues
 
  If your keyboard isn’t connected properly, you may face the arrow keys not working issue. To fix it, try**unplugging the USB cable** **and wait for a little while, then** **plug your keyboard back in** .
@@ -64,10 +55,19 @@ thumbnail: https://thmb.techidaily.com/6d2d53e2342f21d415006db38fe4601b286d92e55
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
@@ -81,27 +81,36 @@ thumbnail: https://thmb.techidaily.com/6d2d53e2342f21d415006db38fe4601b286d92e55
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
  After updating your keyboard driver, restart your PC for the changes to take effect.
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable the Scroll Lock key
 
  If the arrow keys are not working as intended in**Excel** , try**disabling the Scroll Lock key** to fix the problem. If the Scroll Lock key is enabled, the whole page will move when you press any of the arrow keys, but the selected cell won’t change. So if you just want to use the arrow keys to move between different cells, you should turn off the Scroll Lock key.
@@ -110,15 +119,15 @@ thumbnail: https://thmb.techidaily.com/6d2d53e2342f21d415006db38fe4601b286d92e55
 
 1. On your keyboard, press the**Windows logo key + Ctrl + O** at the same time to turn on the**On-Screen Keyboard** .
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
 If this method didn’t work for you, check out the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 6: Run Keyboard Troubleshooter
 
@@ -129,10 +138,28 @@ If this method didn’t work for you, check out the last fix.
 1. On your keyboard, press the**Window logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -140,11 +167,14 @@ If this method didn’t work for you, check out the last fix.
 2. Select**System** . Scroll down and click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -166,3 +196,45 @@ If this method didn’t work for you, check out the last fix.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-high-res-gaming-the-best-screen-capture-options/"><u>[New] High-Res Gaming  The Best Screen Capture Options</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-easy-route-to-capturing-every-gameplay-moment/"><u>[New] In 2024, The Easy Route to Capturing Every Gameplay Moment</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-precision-in-recording-windowsmaciosandroid-edition/"><u>[New] Precision in Recording  Windows/Mac/iOS/Android Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-simplify-your-audio-life-master-vrecorder-installs/"><u>[New] Simplify Your Audio Life - Master VRecorder Installs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-complete-cheat-sheet-for-negative-snap-playback/"><u>[New] The Complete Cheat Sheet for Negative Snap Playback</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-expert-tips-on-tracking-your-videos-view-counts-and-earnings-potential/"><u>[Updated] Expert Tips on Tracking Your Video's View Counts & Earnings Potential</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unraveling-the-mystery-of-downloading-youtube-playlists/"><u>[Updated] In 2024, Unraveling the Mystery of Downloading YouTube Playlists</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-pushing-up-conversions-with-high-roi-animated-advertisements-on-fb/"><u>[Updated] Pushing Up Conversions with High-ROI Animated Advertisements on FB</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-find-x6-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-deep-dive-into-buttons-used-by-brazilians-and-europeans/"><u>A Deep Dive Into Buttons Used by Brazilians and Europeans</u></a></li>
+<li><a href="https://common-error.techidaily.com/avoid-these-pitfalls-successful-strategies-for-implementing-the-battleye-anti-cheat-system/"><u>Avoid These Pitfalls: Successful Strategies for Implementing the BattlEye Anti-Cheat System</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-xiaomi-redmi-note-12-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Xiaomi Redmi Note 12 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/determined-opengl-not-advocated-by-driver/"><u>Determined: OpenGL Not Advocated by Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-for-windows-error-d3dx943dll-could-not-be-loaded/"><u>Effective Remedies for Windows Error 'd3dx9_43.dll Could Not Be Loaded'</u></a></li>
+<li><a href="https://common-error.techidaily.com/ensuring-uninterrupted-peaceful-nights-in-win11/"><u>Ensuring Uninterrupted Peaceful Nights in Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-techniques-for-thawing-your-windows-11-taskbar-best-practices-revealed/"><u>Essential Techniques for Thawing Your Windows 11 Taskbar: Best Practices Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-skype-microphone-issues-a-comprehensive-solution-guide/"><u>Fixing Skype Microphone Issues - A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-around-the-device-cant-receive-miracast-problem-with-simple-fixes/"><u>Getting Around the 'Device Can't Receive Miracast' Problem with Simple Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-correcting-missing-module-alerts-on-your-computer/"><u>Guide to Correcting Missing Module Alerts on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcoming-the-access-denied-http-403-problem-on-your-site/"><u>Guide to Overcoming the 'Access Denied' HTTP 403 Problem on Your Site</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-prevent-your-desktop-or-laptop-from-going-to-sleep-on-its-own/"><u>How to Prevent Your Desktop or Laptop From Going to Sleep on Its Own</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-v27-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo V27 Pro Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-navigation-failure-revitalize-those-arrow-buttons-here/"><u>Keyboard Navigation Failure? Revitalize Those Arrow Buttons Here</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-enhanced-multilingual-acquisition/"><u>Leveraging ChatGPT for Enhanced Multilingual Acquisition</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-touchpad-problems-steps-to-get-it-working-again/"><u>Mastering Touchpad Problems: Steps to Get It Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-11-fixes-with-system-file-checker-and-deployment-image-servicing-management-utilities/"><u>Mastering Windows 11 Fixes with System File Checker and Deployment Image Servicing Management Utilities</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-stuttering-gameplay-a-players-guide-to-resolving-fallout-4-lags/"><u>Overcoming Stuttering Gameplay: A Player's Guide to Resolving Fallout 4 Lags</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-usb-connection-problems-effective-solutions-for-device-descriptor-request-failed-error/"><u>Overcoming USB Connection Problems: Effective Solutions for 'Device Descriptor Request Failed' Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-windows-app-crash-explorerexe/"><u>Resolved: Windows App Crash - Explorer.exe</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-update-loop-at-99-or-full-get-back-on-track-now/"><u>Resolving Windows 10 Update Loop at 99%% or Full - Get Back on Track Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-this-page-cannot-be-displayed/"><u>Solved: This Page Cannot Be Displayed</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-mystery-of-the-constant-white-screen-on-your-computer/"><u>Solving the Mystery of the Constant White Screen on Your Computer!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203768992-troubleshooting-non-responsive-arrows-on-your-keyboard-quick-fixes/"><u>Troubleshooting Non-Responsive Arrows on Your Keyboard - Quick Fixes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-startup-woes-eliminating-black-screens-on-monster-hunter-world-launch/"><u>Troubleshooting Startup Woes: Eliminating Black Screens on Monster Hunter: World Launch</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-alert-your-pc-needs-a-directx-11-gpu-for-optimal-performance/"><u>Update Alert! Your PC Needs a DirectX 11 GPU for Optimal Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-sudden-reboots-unaccounted-for/"><u>Windows 10: Sudden Reboots Unaccounted For</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Trouble with Your Huion Pen? Here's How to Repair It Fast
-date: 2024-08-31T17:52:16.812Z
-updated: 2024-09-01T17:52:16.812Z
+date: 2024-09-04T20:21:58.213Z
+updated: 2024-09-05T20:21:58.213Z
 tags:
   - win11
   - win10
@@ -52,6 +52,12 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Disable Sleep Mode
 
  If you have this problem right after waking up your PC from Sleep Mode, you should consider disabling the mode. The reason is similar to that of Fix 1 – your device driver may temporarily stop working when the computer swaps from Sleep Mode to the normal working state.
@@ -64,27 +70,30 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-634.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) On the**Power & sleep** tab, in the results pane, under**Related settings** , click**Additional power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-636.png)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) In the next window, click**Change plan settings** next to your preferred plan.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-637.png)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Expand**Put the computer to sleep:** and select**Never** . Then click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-639.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now that you’ve disabled Sleep Mode, restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
 #### on Windows 11
@@ -96,15 +105,15 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-When-plugged-in-put-my-device-to-sleep-after-Never-When-plugged-in-turn-off-my-screen-after-Never-1200x771.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  Restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
 ---
@@ -115,9 +124,6 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 
  1) Double-click the**driver tablet icon** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-27_18-52-38.jpg) on your system tray (an area on the right side of your Taskbar) to open the PenTablet control interface.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  2) Check the**Support TabletPC** box, as shown below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
@@ -127,7 +133,10 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 4: Update your tablet driver
 
@@ -158,7 +167,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Huion tablet driver for now, simply click the **Update**  button next to it.
 
@@ -180,16 +192,18 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-653-1024x311.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you want to download the user manual, select the icon next to**Instruction:** according to your operating system.
 
  3) After downloading the driver, open the folder in which the driver is downloaded. Usually, you’ll see a**compressed folder (with .zip extension)** there. Go on to**extract** the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  The folder name can be different based on your tablet model.
 
  4) Double-click the extracted folder you get and then double-click the**.exe file** in that folder.
@@ -197,7 +211,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-660.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5) Follow the on-screen wizard to install the driver.
 
@@ -219,6 +236,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030381/7443" target="_top" id="2030381">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030381" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030381/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then save the file as**PSUserConfig.txt** to the following location:
 
 C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photoshop CC 2018 Settings
@@ -229,6 +252,12 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
 
 4) Restart Photoshop and test whether your pen works properly or not.

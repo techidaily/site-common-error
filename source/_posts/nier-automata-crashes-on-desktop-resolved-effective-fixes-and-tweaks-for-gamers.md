@@ -1,7 +1,7 @@
 ---
 title: "Nier: Automata Crashes on Desktop Resolved: Effective Fixes and Tweaks for Gamers"
-date: 2024-08-31T17:46:33.094Z
-updated: 2024-09-01T17:46:33.094Z
+date: 2024-09-04T20:22:03.521Z
+updated: 2024-09-05T20:22:03.521Z
 tags:
   - win11
   - win10
@@ -66,9 +66,6 @@ To check the specs of your PC:
 
  If your PC specs are up to the mark but Total War: ROME REMASTERED still crashes, please move on to **Fix 2** , below to begin troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your device drivers
 
  Device drivers, which act as a translator between your hardware components and your computer system, are essential for the proper functioning of your computer. A wrong, outdated or corrupt driver may cause instability or even crashes to your system. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -81,18 +78,23 @@ To check the specs of your PC:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/Update-drivers-with-Driver-Easy.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 5. Launch Total War: ROME REMASTERED and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 3: Run Steam as administrator
 
  Total War: ROME REMASTERED requires administrator privileges in order to access protected system resources. If the game or the game client doesn’t have the required permissions, you may encounter crash. So you should make sure to runSteam as administrator to see if it fixes the issue.
@@ -102,6 +104,12 @@ Here’s how:
 1. On your keyboard, press the **Windows logo key** and type **epic** , then right-click on **Steam**  and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123-1.png)
 2. Click **Yes**  when UAC promots for permissions to proceed.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, launch Total War: ROME REMASTERED game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 4** , below.
 
@@ -128,7 +136,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-1-1.png)
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
 <!-- affiliate ads begin -->
-
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall-1.png)
 3. Browse through the list of Allowed apps and features to see if Steam is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
@@ -139,7 +150,10 @@ Here’s how:
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 6: Install the latest patch
 
@@ -157,20 +171,29 @@ Here are the steps to perform a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/msconfig-1.png)
 2. Click the **Services**  tab and tick the box for **Hide all Microsoft services** .  
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services-1.png)
 3. Browse through the full list of services, make sure to   **check the boxes for the items that belong to your hardware manufacturers**  (such as Intel, AMD, and Qualcomm) and **uncheck the boxes for the rest** . Once finished, click **OK** to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/esential.png)
 4. Restart your computer, then test to see if the game still crashes.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    * **If Total War: ROME REMASTERED stops crashing** , you can try repeating these steps, disabling half of the services each time until you isolate the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
    * **If Total War: ROME REMASTERED still crashes** , please continue to **Fix 8** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 8:**Reinstall Total War: ROME REMASTERED and Steam**
 

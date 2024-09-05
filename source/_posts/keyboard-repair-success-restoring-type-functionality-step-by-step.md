@@ -1,7 +1,7 @@
 ---
 title: "Keyboard Repair Success: Restoring Type Functionality Step by Step"
-date: 2024-08-31T17:53:15.512Z
-updated: 2024-09-01T17:53:15.512Z
+date: 2024-09-04T20:21:57.275Z
+updated: 2024-09-05T20:21:57.275Z
 tags:
   - win11
   - win10
@@ -88,7 +88,10 @@ Your keyboard should be back in the default settings.
 4. Wait for the computer to reboot.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Hard Reset
 

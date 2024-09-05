@@ -1,7 +1,7 @@
 ---
 title: Beating the Easy Anti-Cheat Challenge in Apex Legends – Your Complete Guide to Solutions
-date: 2024-08-31T17:48:41.696Z
-updated: 2024-09-01T17:48:41.696Z
+date: 2024-09-04T20:22:01.536Z
+updated: 2024-09-05T20:22:01.536Z
 tags:
   - win11
   - win10
@@ -48,6 +48,12 @@ No game can be immune to bugs and glitches, and this is particularly true with**
 4. Restart your computer for the changes to take effect.
 5. Launch Apex Legends and check to see if the error has been fixed. If yes, then great! If the issue persists, please try**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Repair Apex Legends in Origin
 
  You may run into the Easy Anti-Cheat error if the game files are faulty or corrupt. Luckily, Origin has built the repair feature into the launcher itself, allowing you to fix little glitches on your own.
@@ -59,7 +65,10 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-14.png)
 3. Wait until the repair process finishes.  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-5.png)
 4. Once done, run Apex Legends and see if the Easy Anti-Cheat error has been resolved. If it’s no joy, please continue with**Fix 3** , below.
@@ -70,9 +79,6 @@ Here are the steps to repair Apex Legends in Origin:
 
  After that, launch Apex Legends game and see if the Easy Anti-Cheat error still occurs. If it doesn’t, then great! If the issue persists, please try**Fix 4** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Verify connectivity to Easy Anti-Cheat
 
  You may encounter this error is Easy Anti-Cheat isn’t properly connected. To verify your connectivity to Easy Anti-Cheat, navigate to these two sites:
@@ -95,19 +101,24 @@ Here are the steps to repair Apex Legends in Origin:
 2. In the window that pops up, click**Allow an app or feature through Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-13.png)
 3. Browse through the list of Allowed apps and features to see if Easy Anti-Cheat and Apex Legends are included. If not, click**Change settings** , click**Allow another app…** , then follow the on-screen instructions to add the apps.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Snap5.png)
 4. Once completed, click**OK** .
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5. Check to see if the error still occurs. If it doesn’t, then congrats! If it’s still happening, please move on to**Fix 6** , below.
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. While the role of an anti-virus program is hardly questionable, it’s known to conflict with other programs, rendering games unplayble.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Install the latest patch
 
  The Anti Easy-Cheat error may be an unintended bug ensconced in the patches of the game. If this is the case, the developers would respond to this and address the issue with a new patch. So you can check out the latest patch to see if it helps fix the issue.
@@ -116,15 +127,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Navigate to**My Game Library** , then **right-click** on **Apex Legends** and select **Update Game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.png)
 3. Wait until you see the following message. Then click **Close** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-2.png)
 4. Open Apex Legends and hopefully the error is resolved. If not, please try**Fix 7** .
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 7: Reinstall Apex Legends and Origin
 
  If you’ve exhausted the options above but the issue still sticks around, then you should perhaps reinstall the game and the Origin game launcher to see if you could put the error to rest.
@@ -136,7 +147,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6-3.png)
 3. Download and reinstall Apex Legends.
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4. Launch the game to see if you can play without error.
 
@@ -146,12 +160,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-15.png)
 2. View Control Panel by **Category** , and then click **Uninstall a program** .  
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-14.png)
 3. Double-click **Origin** to uninstall it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-6.png)
 4. Restart your Windows system when it is completed.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. **[Download](https://www.dm.origin.com/download)**  the latest version of Origin and then double-click the file you downloaded to reinstall it.
 6. Launch Apex Legends to see if you can play without error.
 

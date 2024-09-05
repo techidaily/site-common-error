@@ -1,7 +1,7 @@
 ---
 title: "Beat The Update Blues: Fix 'Miracast Unsupported by This Device' Easy Steps"
-date: 2024-08-31T17:47:52.147Z
-updated: 2024-09-01T17:47:52.147Z
+date: 2024-09-04T20:22:02.297Z
+updated: 2024-09-05T20:22:02.297Z
 tags:
   - win11
   - win10
@@ -41,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/8fe3e4daa8d42d226ab99d6ad95d4825a0edf9f54
 
  Restart your computer and check if it can detect your battery now. If not, read on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Check your battery in Device Manager
 
  You might also have this problem because your battery is disabled in Device Manager. So you should run Device Manager to check your battery status. Here is how:
@@ -53,21 +50,27 @@ thumbnail: https://thmb.techidaily.com/8fe3e4daa8d42d226ab99d6ad95d4825a0edf9f54
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **2)** Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)** Double-click**Batteries,** and then check if your battery is disabled.
 
  If you see a**down arrow** next to your battery, that means your battery is disabled. You need to right-click your battery and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If this didn’t help, don’t fret. There are still 3 more fixes to try.
 
 ### Fix 3: Run the power troubleshooter
@@ -86,6 +89,12 @@ thumbnail: https://thmb.techidaily.com/8fe3e4daa8d42d226ab99d6ad95d4825a0edf9f54
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-28.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2)** Click**System and Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-37.jpg)
@@ -94,13 +103,16 @@ thumbnail: https://thmb.techidaily.com/8fe3e4daa8d42d226ab99d6ad95d4825a0edf9f54
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-44.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 **4)** Click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-53.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Wait for the process to be complete. If your computer fails to fix your problem, check **[fix 4](https://tools.techidaily.com/drivereasy/download/)**  to see if it can help.  
 
 #### If you’re on Windows 10…
@@ -109,9 +121,6 @@ thumbnail: https://thmb.techidaily.com/8fe3e4daa8d42d226ab99d6ad95d4825a0edf9f54
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 **2)** Click**Power,** and then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-11.jpg)
@@ -133,18 +142,23 @@ thumbnail: https://thmb.techidaily.com/8fe3e4daa8d42d226ab99d6ad95d4825a0edf9f54
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_18-06-57-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **3)** Click the**Update button** next to the battery driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-35.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Update your BIOS
 
  An outdated BIOS may also cause this problem. In this case, updating your BIOS is very likely the solution to it. Follow the instructions below:
@@ -156,18 +170,30 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **2)** Type **msinfo32** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)** Check the **BIOS Version/Date**  to know your BIOS manufacturer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **4)** Go to your BIOS manufacturer’s support website and download the latest update.
 

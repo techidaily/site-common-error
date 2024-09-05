@@ -1,7 +1,7 @@
 ---
 title: Repair X3DAudio1_7.dll in Minutes Flat
-date: 2024-08-31T17:51:28.598Z
-updated: 2024-09-01T17:51:28.598Z
+date: 2024-09-04T20:21:58.987Z
+updated: 2024-09-05T20:21:58.987Z
 tags:
   - win11
   - win10
@@ -69,14 +69,20 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-636.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) In the next window, click**Change plan settings** next to your preferred plan.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-637.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  4) Expand**Put the computer to sleep:** and select**Never** . Then click**Save changes** .
 
@@ -92,38 +98,52 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-When-plugged-in-put-my-device-to-sleep-after-Never-When-plugged-in-turn-off-my-screen-after-Never-1200x771.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Tick the “Support TabletPC” option
 
  As mentioned in the user manual of the Huion pen, you should check the**Support TabletPC** box to enable the pressure sensitivity function in a variety of drawing programs. Here’s how:
 
  1) Double-click the**driver tablet icon** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-27_18-52-38.jpg) on your system tray (an area on the right side of your Taskbar) to open the PenTablet control interface.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
  2) Check the**Support TabletPC** box, as shown below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Update your tablet driver
 
  Another culprit for the Huion pen not working issue is an outdated or corrupt tablet driver. So literally it’s not your pen but rather the tablet that is dysfunctional due to driver failures.
@@ -152,9 +172,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Huion tablet driver for now, simply click the **Update**  button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-650.png)
@@ -176,7 +193,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-653-1024x311.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you want to download the user manual, select the icon next to**Instruction:** according to your operating system.
 
@@ -184,6 +204,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The folder name can be different based on your tablet model.
 
  4) Double-click the extracted folder you get and then double-click the**.exe file** in that folder.
@@ -191,7 +217,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-660.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5) Follow the on-screen wizard to install the driver.
 
@@ -201,10 +230,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Fix 5: Uncheck “Enable Windows Ink”
 
  This fix should work if you’re experiencing brush lags or other similar issues in Photoshop, with a Huion pen/tablet. Here’s how to do it:
@@ -213,13 +238,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-663.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) When Notepad is opened, type in**UseSystemStylus 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then save the file as**PSUserConfig.txt** to the following location:
 
 C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photoshop CC 2018 Settings

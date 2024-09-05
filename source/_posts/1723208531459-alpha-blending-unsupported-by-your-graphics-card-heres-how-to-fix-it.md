@@ -1,7 +1,7 @@
 ---
 title: Alpha Blending Unsupported by Your Graphics Card? Here's How to Fix It
-date: 2024-08-31T17:53:56.853Z
-updated: 2024-09-01T17:53:56.853Z
+date: 2024-09-04T20:21:56.624Z
+updated: 2024-09-05T20:21:56.624Z
 tags:
   - win11
   - win10
@@ -131,5 +131,8 @@ You can also click the **Update All**  button at the bottom right to automatical
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

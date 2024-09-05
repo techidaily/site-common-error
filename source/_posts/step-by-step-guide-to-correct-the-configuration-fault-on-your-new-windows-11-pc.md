@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Correct the Configuration Fault on Your New Windows 11 PC
-date: 2024-08-31T17:52:55.349Z
-updated: 2024-09-01T17:52:55.349Z
+date: 2024-09-04T20:21:57.592Z
+updated: 2024-09-05T20:21:57.592Z
 tags:
   - win11
   - win10
@@ -57,19 +57,34 @@ thumbnail: https://thmb.techidaily.com/37869e8fa5678b06fcfcd68ab91a0c5d831e481d4
 
 **7)** Launch your program and see if this fixes the error.  
   
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Reinstall the Microsoft Visual C++ Redistributable Packages
 
  The “side by side configuration is incorrect” error may occur because the Visual C++ Runtime on your computer is corrupted or missing. Reinstalling the Microsoft Visual C++ Redistributable Packages on your computer can help you restore the corrupted or missing Runtime. To do so:
 
 **1)** On your keyboard, press the**Windows logo**   **key![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)**  and**R** at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2)** Type “_**control**_ ” and press**Enter** to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b609e2cee18.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Select**Large icons** in the View by drop-down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60a8beffe8.jpg)
@@ -79,18 +94,36 @@ thumbnail: https://thmb.techidaily.com/37869e8fa5678b06fcfcd68ab91a0c5d831e481d4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b60b6ea986e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **5)** Delete every Visual C++ Redistributable (right-click on each of the programs with the name of “**Microsoft Visual C++ XXXX Redistributable** ” and then select**Uninstall** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b6556f6ddfc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **6)**  Go to the[**Microsoft Visual C++ downloads website**](https://support.microsoft.com/help/2977003/the-latest-supported-visual-c-downloads) to download the programs you have just uninstalled. Then install them on your computer.
 
 **7)** Restart your computer. If this method works for you, the error won’t bother you again.  
   
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Method 4: Run system checks
 
@@ -109,7 +142,16 @@ thumbnail: https://thmb.techidaily.com/37869e8fa5678b06fcfcd68ab91a0c5d831e481d4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b74672c10aa.png)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **4)** Wait for the scan to complete. Then check to see if the error is gone.
 
@@ -119,9 +161,6 @@ thumbnail: https://thmb.techidaily.com/37869e8fa5678b06fcfcd68ab91a0c5d831e481d4
 
 **6)**  Wait until the process completes. Then check to see if this fixes the error.  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 5: Reset your system
 
  If none of the methods above can help you, you should try resetting your Windows 10 to fix the error.
@@ -135,7 +174,10 @@ To reset your Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b74c521d0cb.png)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **2)** Click **Update & Security** .
 
@@ -145,9 +187,6 @@ To reset your Windows 10:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b74e3feb5d0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Wait for the system to complete the resetting process.
 
 **5)** Install and launch the program that caused the error. If this method works, you won’t see the error any more.

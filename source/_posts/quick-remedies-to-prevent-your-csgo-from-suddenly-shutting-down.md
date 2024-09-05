@@ -1,7 +1,7 @@
 ---
 title: Quick Remedies to Prevent Your CSGO From Suddenly Shutting Down
-date: 2024-08-31T17:46:24.194Z
-updated: 2024-09-01T17:46:24.194Z
+date: 2024-09-04T20:22:03.641Z
+updated: 2024-09-05T20:22:03.641Z
 tags:
   - win11
   - win10
@@ -49,21 +49,27 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0354b845be.png)
 3. Click**Devices and Printers** in**Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0355fe9f37.jpg)
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4. Make sure there is a green ✔ mark with your printer, which means it’s set to default.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0361852b11.jpg)  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If it’s not set to default, right-click on your printer and click**Set as default printer** .  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0363012f57.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 2\. Make sure your printer driver is up-to-date
 
  The latest printer driver enables your printer to work fine. An old, corrupted, or missing printer driver would make you cannot print PDF files. Follow these to update your printer driver to solve your problem:
@@ -81,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 2. Click **Scan Now** . It will quickly detect all driver’s problems with your computer. Your printer driver is no exception.  
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update**  next to your flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/printer-driver-9015.png)
 4. Restart your computer and try to print your PDF file in Adobe to see if successful.
 
@@ -102,9 +105,6 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 2. Click the print icon on the toolbar.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03f2e27b7d.png)
 3. Click**Advanced** , then tick on **Print As Image** .  Go on to click**OK** \>**Print** to see if your PDF file can be printed.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f046ecc9c75.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
 #### 2\. Recreate a new PDF file
 
@@ -115,12 +115,15 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 **c)** Using the**Save as…** feature in Acrobat Reader: Click **File** \> **Save as…**  , save your PDF file directly to your hard drive.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03fccde7ab.png)
 2. Double-click the new PDF file on your hard drive and then try to print it to see if successful.
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Scan your computer to detect issues
 
  Can’t print PDFs but worry about wasting too much time troubleshooting? You can perform a complete scan on your PC to locate the exact problem.
@@ -146,6 +149,12 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Option 2 – Manually
 
  To check and restore your system file might take time and computer skills. You will need to run numerous commands, wait for the process to complete, or risk your personal data.
@@ -158,6 +167,18 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -168,6 +189,18 @@ sfc /scannow
 
 ![Windows 11 - System File Checker](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-sfc-scannow.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) You may receive something like the following messages after the verification.
 
 * no errors
@@ -202,6 +235,12 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Restart your PC after repairing the corrupt files and test your printer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Troubleshoot problems with your Acrobat Reader
 
  If something corrupt happens to your Acrobat Reader or if the software is of an old version, you can’t use it to print your PDF file, either. Troubleshoot the problem with your Acrobat Reader:
@@ -211,12 +250,18 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 3. Type features in the search box from Start. Then click Apps & features.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03ff1ce57c.png)
 4. Find your Acrobat Reader, then Uninstall.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f040401a2b4.jpg)
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 6. Open your PDF file using the new Acrobat Reader. Then try to print it to see if successful.
 
 ---

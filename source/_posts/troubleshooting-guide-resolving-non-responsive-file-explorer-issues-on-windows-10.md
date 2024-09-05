@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Non-Responsive File Explorer Issues on Windows 10"
-date: 2024-08-09T00:49:03.987Z
-updated: 2024-08-10T00:49:03.987Z
+date: 2024-09-04T20:19:54.053Z
+updated: 2024-09-05T20:19:54.053Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 3. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 1: Check for hardware issues
 
  This keyboard lag problem may be caused by hardware issues. To check for potential hardware issues:
@@ -41,26 +37,50 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
 
 1. On your keyboard, press **the Windows logo key**  and type **troubleshoot** , then click **Troubleshoot** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Update your keyboard driver
 
  This**keyboard lag** issue may also occur if you have the wrong or corrupt keyboard driver. So you should update these drivers to to see if it fixes the problem. If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -73,17 +93,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -93,7 +112,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 4: Run DISM
 
@@ -105,6 +127,18 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
 4. Restart your computer, type a few words and see if it registers as expected.
@@ -132,3 +166,39 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/fixed-dead-by-daylight-keeps-crashing-2024-tips/"><u>[Fixed] Dead by Daylight Keeps Crashing | 2024 Tips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-laughter-labyr-writes-making-memorable-parodies/"><u>[New] 2024 Approved  Laughter Labyr Writes  Making Memorable Parodies</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-remove-google-chrome-critical-error-scam/"><u>[Solved] How to Remove Google Chrome Critical Error SCAM</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/chrome-not-responding-heres-how-to-relaunch-and-continue-seamlessly/"><u>Chrome Not Responding? Here's How to Relaunch and Continue Seamlessly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-oppo-find-x7-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Oppo Find X7.</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204149502-fixing-unresponsive-updown-and-leftright-buttons-on-your-keyboard-today/"><u>Fixing Unresponsive Up/Down and Left/Right Buttons on Your Keyboard Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-overcoming-non-responsive-brightness-buttons-in-windows-11/"><u>Guide: Overcoming Non-Responsive Brightness Buttons in Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-cannot-locate-a-suitable-printer-driver-step-by-step-tutorials/"><u>How to Fix 'Windows Cannot Locate a Suitable Printer Driver': Step-by-Step Tutorials</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-your-xbox-one-connection-issues-with-xbox-live-solved/"><u>How to Fix Your Xbox One Connection Issues with Xbox Live (Solved)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-error-code-0x80073cf9-and-successfully-use-windows-11-store-again/"><u>How to Overcome Error Code 0X80073CF9 & Successfully Use Windows 11 Store Again</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-a05s-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy A05s without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-on-your-apple-iphone-12-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID On your Apple iPhone 12 without Security Questions?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-stealthy-sound-softening-with-garageband/"><u>In 2024, Stealthy Sound Softening with Garageband</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-look-lg-bp350-screen-resolution-and-aspect-ratio/"><u>In-Depth Look  LG BP350 Screen Resolution and Aspect Ratio</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-function-restored-no-more-typing-problems/"><u>Keyboard Function Restored: No More Typing Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/kodi-hiccups-top-strategies-for-restoring-full-media-player-functionality/"><u>Kodi Hiccups? Top Strategies for Restoring Full Media Player Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-ai-horizinas-explore-chatgpts-interpreter-for-6-use-cases/"><u>Navigating AI Horizinas: Explore ChatGPT's Interpreter for 6 Use-Cases</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-severe-errors-in-activisions-black-ops-4-game/"><u>Overcoming Severe Errors in Activision's Black Ops 4 Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-gaming-halt-quick-fix-for-pc-pauses/"><u>Resolve Gaming Halt: Quick Fix for PC Pauses</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-resolve-driver-failed-due-to-incorrect-user-settings/"><u>Step-by-Step Guide to Resolve 'Driver Failed Due to Incorrect User Settings'</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-visible-cursor-functionality-in-windows-ebox-pcs-and-laptops/"><u>Step-by-Step Guide: Restoring Visible Cursor Functionality in Windows Ebox PCs and Laptops</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-load-caused-by-the-desktop-window-manager-on-windows-10-and-11/"><u>Top 5 Solutions for Reducing GPU Load Caused by the Desktop Window Manager on Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-unprintable-pdf-with-these-easy-fixes/"><u>Troubleshoot Your Unprintable PDF with These Easy Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-non-responsive-laptop-trackpad/"><u>Troubleshooting Guide: Fixing a Non-Responsive Laptop Trackpad</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-issue-when-windowsplusshiftpluss-key-combination-fails-in-windows-11-or-10/"><u>Troubleshooting Guide: Fixing the Issue When Windows+Shift+S Key Combination Fails in Windows 11 or 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolve-your-airpods-connection-issues-on-windows-11-top-strategies/"><u>Troubleshooting Guide: Resolve Your AirPods Connection Issues on Windows 11 - Top Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-the-windows-blue-screen-of-death-bsod-with-error-code-c00000e9/"><u>Troubleshooting Guide: Solving the Windows Blue Screen of Death (BSoD) with Error Code C00000e9</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-stalling-at-start-when-running-windows-10/"><u>Troubleshooting Persistent Stalling at Start When Running Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-does-my-mouse-cursor-keep-disappearing-solving-the-mystery-on-windows-amoled/"><u>Why Does My Mouse Cursor Keep Disappearing? Solving the Mystery on Windows Amoled</u></a></li>
+</ul></div>

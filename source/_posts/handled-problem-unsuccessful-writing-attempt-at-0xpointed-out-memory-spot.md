@@ -1,7 +1,7 @@
 ---
 title: "Handled Problem: Unsuccessful Writing Attempt at 0XPointed-Out Memory Spot"
-date: 2024-08-31T17:51:37.734Z
-updated: 2024-09-01T17:51:37.734Z
+date: 2024-09-04T20:21:58.821Z
+updated: 2024-09-05T20:21:58.821Z
 tags:
   - win11
   - win10
@@ -95,7 +95,10 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587487e7dd051.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Method 3: Delete Some Related Files**
 
@@ -109,24 +112,30 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746f3a14981.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Right-click **Windows Update**  then select**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58746fbb6d514.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Open **Windows Explorer** and navigate to “**C:\\Windows\\SoftwareDistribution** “.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874704edc0c2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Delete all the content in this folder. (Some files may not be deleted, in this case, go back to Step 3 and try again. Just ensure to delete “Download” and “DeliveryOptimation”.)
 
  6) Restart your PC and check to see if the error persists.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 4:** Repair system files
 
  The 0x800705b4 Error may be related to system files. When the system files were broken or corrupted, it may cause a Blue screen issue.
@@ -148,12 +157,21 @@ There are 2 ways to solve it. Here’s how:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -165,6 +183,12 @@ There are 2 ways to solve it. Here’s how:
  2) Type **cmd** and press **Shift** +**Ctrl** +**Enter** together on your keyboard to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Type **sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
@@ -177,9 +201,6 @@ There are 2 ways to solve it. Here’s how:
 
  If you are not sure how to perform a clean boot, see [How to Perform a Clean Boot in Windows 10](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 6: Update the Drivers
 
  The steps above may resolve the problem, but if they don’t, it’s time to update the drivers. If you don’t have the time, patience or computer skills to update the drivers manually, you can do it automatically with Driver Easy.
@@ -194,9 +215,6 @@ There are 2 ways to solve it. Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-440.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the **Update** button next to one driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -204,7 +222,16 @@ There are 2 ways to solve it. Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-441.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Hopefully methods here will help you resolve the 0x800705b4 error. If you have any questions, please feel free to leave your comments. I’d love to hear of any suggestions or ideas.
 

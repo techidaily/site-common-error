@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Issue: Reactivating Your Device's Disabled Wi-Fi Feature"
-date: 2024-08-31T17:49:58.803Z
-updated: 2024-09-01T17:49:58.803Z
+date: 2024-09-04T20:22:00.348Z
+updated: 2024-09-05T20:22:00.348Z
 tags:
   - win11
   - win10
@@ -37,6 +37,12 @@ thumbnail: https://thmb.techidaily.com/749c8b13fba53b16e3cca7c517e32ea283379a232
 
  Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Update your network driver
 
  You can update your drivers automatically with either the[**FREE**](https://tools.techidaily.com/drivereasy/download/) or the **[Pro versio](https://tools.techidaily.com/drivereasy/download/)** [**n**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
@@ -46,18 +52,24 @@ thumbnail: https://thmb.techidaily.com/749c8b13fba53b16e3cca7c517e32ea283379a232
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![update network driver with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/03/de-update-network-driver.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 5. Run the**ipconfig /renew** in CMD again to see if the error message is resolved.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Roll back your network driver
 
  If updating your network driver didn’t cut it, you can try restoring it to see if it resolves the error. Before you do that, make sure you do a back up of the driver first.
@@ -69,18 +81,27 @@ thumbnail: https://thmb.techidaily.com/749c8b13fba53b16e3cca7c517e32ea283379a232
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/tools.png)
 3. Click**Driver Backup** , then tick the box for**Network Adapter** , then click**Start Backup** .
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4. Wait around until the backup is complete. Then click**OK** to close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/backup.png)
 5. In the Tools pane, click**Driver** **Restore** \>**Browse…** , then choose the backup file you’re going to restore from, then click **Open** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/12.png)
 6. Select the driver you’re going to restore, then click **Continue** .
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 7. Wait until the restore is successful, and click**OK** .
 8. Run the**ipconfig /renew** in CMD again to see if the error message is resolved. If yes, then congrats – you’ve fixed the error. If the issue persists, please move on to**Fix 2** , below.
@@ -98,9 +119,6 @@ thumbnail: https://thmb.techidaily.com/749c8b13fba53b16e3cca7c517e32ea283379a232
 5. Click the **Start** button.
 6. Click **Apply > OK**  to save changes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3 – Register your DNS
 
  According to some users, registering their DNS has helped recovered the situation. You can try to see if it helps in your case.
@@ -110,12 +128,21 @@ Here’s how:
 1. On your keyboard, press the**Windows logo** key and type**cmd** . Right-click on**Command Prompt** as it pops up as a result, and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. Type **ipconfig /registerdns** and press**Enter** .
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Click Close to exit the window.
 4. Restart your PC.
 5. Check to see if the**Unable to Contact DHCP Server** error is solved. If yes, then great. If it still happens, please continue with**Fix 4** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Fix 4 – Reset TCP/IP Configuration
 
@@ -130,9 +157,6 @@ Here’s how:
 3. Restart computer.
 4. Run the**ipconfig /renew** command and see if the Unable to contact your dhcp server error is solved. If it’s still no joy, please continue with**Fix 5** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5 –**Disable IPv6 on your active connection**
 
  The error also occurs if IPv6 is enabled for the internet connection you’re using and you don’t have a local gateway to connect. To rule out this as a possible cause, you should disable IPv6 on your active connection and see if it works.
@@ -141,6 +165,18 @@ Here’s how:
 2. Right click the Internet Connection you’re using and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/2.png)
 3. Under the **Networking** tab, uncheck the box next to **Internet Protocol version 6 (IPv6)** , then click**OK** .  
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/sharing12.jpg)
 4. Restart your computer.
 5. Check to see if the error message still occurs when you perform rge ipconfig command.
