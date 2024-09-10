@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"common-error.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8065</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8507</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -652,7 +709,7 @@
                 <div class="author flex flex-col justify-center my-2.5 mx-0">
     <div class="name">Ronald</div>
     
-        <div class="label">Lv11</div>
+        <div class="label">Lv12</div>
     
 </div>
                 <div class="statistics flex justify-around my-2.5">
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8065</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8507</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/repair-guide-fix-for-the-broken-corsair-hs50-mic-a-step-by-step-solution/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53968b002df8bcb5d506324cf.jpg" alt="Repair Guide: Fix for the Broken Corsair HS50 Mic - A Step-by-Step Solution" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/resolving-issues-with-disabled-usb-devices-in-the-latest-version-of-windows/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d063f2ca427c5d79f99dec8234182f00aa398e1a002cdcbe4fddf542d8d4ff20.jpg" alt="Resolving Issues with Disabled USB Devices in the Latest Version of Windows" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/repair-guide-fix-for-the-broken-corsair-hs50-mic-a-step-by-step-solution/">
-                            Repair Guide: Fix for the Broken Corsair HS50 Mic - A Step-by-Step Solution
+                        <a href="/resolving-issues-with-disabled-usb-devices-in-the-latest-version-of-windows/">
+                            Resolving Issues with Disabled USB Devices in the Latest Version of Windows
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Repair Guide: Fix for the Broken Corsair HS50 Mic - A Step-by-Step Solution</p>
+                            <p>This Article Describes Resolving Issues with Disabled USB Devices in the Latest Version of Windows</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Sep 04 2024 20:16:48 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 20:23:08 GMT+0800">
                 
                     2024-09-04
                 
@@ -763,7 +820,7 @@
         
     </div>
 
-    <a href="/repair-guide-fix-for-the-broken-corsair-hs50-mic-a-step-by-step-solution/">Read more<span class="seo-reader-text">Repair Guide: Fix for the Broken Corsair HS50 Mic - A Step-by-Step Solution</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/resolving-issues-with-disabled-usb-devices-in-the-latest-version-of-windows/">Read more<span class="seo-reader-text">Resolving Issues with Disabled USB Devices in the Latest Version of Windows</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,21 +836,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/streamline-valorant-performance-with-system-restart/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8dff629c3669eeacd81da2258d66f3b6e2ba5af06b80b9aa947e69afc78af4df.jpg" alt="Streamline Valorant Performance with System Restart" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/display-advancements-addressing-the-gap-in-present-day-refresh-rate-support/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496eb332810c3bf1138a8452ea4.jpg" alt="Display Advancements: Addressing the Gap in Present-Day Refresh Rate Support" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/streamline-valorant-performance-with-system-restart/">
-                            Streamline Valorant Performance with System Restart
+                        <a href="/display-advancements-addressing-the-gap-in-present-day-refresh-rate-support/">
+                            Display Advancements: Addressing the Gap in Present-Day Refresh Rate Support
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Streamline Valorant Performance with System Restart</p>
+                            <p>This Article Describes Display Advancements: Addressing the Gap in Present-Day Refresh Rate Support</p>
 
                         
                     </div>
@@ -801,9 +858,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 17:45:29 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 20:23:06 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-04
                 
             </span>
         </span>
@@ -849,7 +906,7 @@
         
     </div>
 
-    <a href="/streamline-valorant-performance-with-system-restart/">Read more<span class="seo-reader-text">Streamline Valorant Performance with System Restart</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/display-advancements-addressing-the-gap-in-present-day-refresh-rate-support/">Read more<span class="seo-reader-text">Display Advancements: Addressing the Gap in Present-Day Refresh Rate Support</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,21 +922,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-turn-on-and-repair-your-bluetooth-when-its-not-working/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/e763646df56241e163aeceaafcbcf01e71b694cfa53e5f00bb7e352c2dad15fc.jpg" alt="How To Turn On and Repair Your Bluetooth When It&#39;s Not Working" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/ultimate-solution-for-dealing-with-fatal-application-error-0xc0000005-in-windows/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/37824763b4fe230259d6bef6fbaeb97e72f0109764846d4b08ba179c365c9b27.jpg" alt="Ultimate Solution for Dealing with Fatal Application Error (0xC0000005) in Windows" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-turn-on-and-repair-your-bluetooth-when-its-not-working/">
-                            How To Turn On and Repair Your Bluetooth When It&#39;s Not Working
+                        <a href="/ultimate-solution-for-dealing-with-fatal-application-error-0xc0000005-in-windows/">
+                            Ultimate Solution for Dealing with Fatal Application Error (0xC0000005) in Windows
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How To Turn On and Repair Your Bluetooth When It’s Not Working</p>
+                            <p>This Article Describes Ultimate Solution for Dealing with Fatal Application Error (0xC0000005) in Windows</p>
 
                         
                     </div>
@@ -887,9 +944,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 17:45:27 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 20:23:05 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-04
                 
             </span>
         </span>
@@ -935,7 +992,7 @@
         
     </div>
 
-    <a href="/how-to-turn-on-and-repair-your-bluetooth-when-its-not-working/">Read more<span class="seo-reader-text">How To Turn On and Repair Your Bluetooth When It&#39;s Not Working</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/ultimate-solution-for-dealing-with-fatal-application-error-0xc0000005-in-windows/">Read more<span class="seo-reader-text">Ultimate Solution for Dealing with Fatal Application Error (0xC0000005) in Windows</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,21 +1008,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-solution-repair-d3dx939dll-file-absence-error-quickly-and-effectively/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de3231ef2557f357bda5f1ea303.jpg" alt="Step-by-Step Solution: Repair D3DX9_39.dll File Absence Error Quickly &amp; Effectively" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-solve-total-war-rome-remastered-stability-issues-a-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f84ca632563f78a12990cc533.jpg" alt="How to Solve Total War: Rome Remastered Stability Issues - A Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-solution-repair-d3dx939dll-file-absence-error-quickly-and-effectively/">
-                            Step-by-Step Solution: Repair D3DX9_39.dll File Absence Error Quickly &amp; Effectively
+                        <a href="/how-to-solve-total-war-rome-remastered-stability-issues-a-comprehensive-guide/">
+                            How to Solve Total War: Rome Remastered Stability Issues - A Comprehensive Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Solution: Repair D3DX9_39.dll File Absence Error Quickly &amp; Effectively</p>
+                            <p>This Article Describes How to Solve Total War: Rome Remastered Stability Issues - A Comprehensive Guide</p>
 
                         
                     </div>
@@ -973,9 +1030,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 17:45:26 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 20:23:04 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-04
                 
             </span>
         </span>
@@ -1021,7 +1078,7 @@
         
     </div>
 
-    <a href="/step-by-step-solution-repair-d3dx939dll-file-absence-error-quickly-and-effectively/">Read more<span class="seo-reader-text">Step-by-Step Solution: Repair D3DX9_39.dll File Absence Error Quickly &amp; Effectively</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-solve-total-war-rome-remastered-stability-issues-a-comprehensive-guide/">Read more<span class="seo-reader-text">How to Solve Total War: Rome Remastered Stability Issues - A Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,21 +1094,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/error-resolved-correcting-orglwjgllwjglexception-for-accelerated-pixels-formats/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8f7510761ca720ed11b8607a0a38e0963e70a7dc56f71395b32e950e225dc939.jpg" alt="Error Resolved: Correcting Org.LWJGL.LWJGLException for Accelerated Pixels Formats" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1723212081531-hearthstone-slowness-bypass-lag-issues-using-simple-fixes/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31be3889aa12b125cc68b1e89.jpg" alt="Hearthstone Slowness? Bypass Lag Issues Using Simple Fixes" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/error-resolved-correcting-orglwjgllwjglexception-for-accelerated-pixels-formats/">
-                            Error Resolved: Correcting Org.LWJGL.LWJGLException for Accelerated Pixels Formats
+                        <a href="/1723212081531-hearthstone-slowness-bypass-lag-issues-using-simple-fixes/">
+                            Hearthstone Slowness? Bypass Lag Issues Using Simple Fixes
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Error Resolved: Correcting Org.LWJGL.LWJGLException for Accelerated Pixels Formats</p>
+                            <p>This Article Describes Hearthstone Slowness? Bypass Lag Issues Using Simple Fixes</p>
 
                         
                     </div>
@@ -1059,9 +1116,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 17:45:25 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 20:23:03 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-04
                 
             </span>
         </span>
@@ -1107,7 +1164,7 @@
         
     </div>
 
-    <a href="/error-resolved-correcting-orglwjgllwjglexception-for-accelerated-pixels-formats/">Read more<span class="seo-reader-text">Error Resolved: Correcting Org.LWJGL.LWJGLException for Accelerated Pixels Formats</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1723212081531-hearthstone-slowness-bypass-lag-issues-using-simple-fixes/">Read more<span class="seo-reader-text">Hearthstone Slowness? Bypass Lag Issues Using Simple Fixes</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,21 +1180,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/avoid-these-pitfalls-successful-strategies-for-implementing-the-battleye-anti-cheat-system/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3430de1df3acbec7a4ce0fd7.jpg" alt="Avoid These Pitfalls: Successful Strategies for Implementing the BattlEye Anti-Cheat System" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/avoid-game-pauses-with-x3daudio17dll-restoration/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140b89f27b65013967fb63481d.jpg" alt="Avoid Game Pauses with X3DAudio1_7.dll Restoration" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/avoid-these-pitfalls-successful-strategies-for-implementing-the-battleye-anti-cheat-system/">
-                            Avoid These Pitfalls: Successful Strategies for Implementing the BattlEye Anti-Cheat System
+                        <a href="/avoid-game-pauses-with-x3daudio17dll-restoration/">
+                            Avoid Game Pauses with X3DAudio1_7.dll Restoration
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Avoid These Pitfalls: Successful Strategies for Implementing the BattlEye Anti-Cheat System</p>
+                            <p>This Article Describes Avoid Game Pauses with X3DAudio1_7.dll Restoration</p>
 
                         
                     </div>
@@ -1145,9 +1202,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 17:45:23 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 20:23:01 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-04
                 
             </span>
         </span>
@@ -1193,7 +1250,7 @@
         
     </div>
 
-    <a href="/avoid-these-pitfalls-successful-strategies-for-implementing-the-battleye-anti-cheat-system/">Read more<span class="seo-reader-text">Avoid These Pitfalls: Successful Strategies for Implementing the BattlEye Anti-Cheat System</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/avoid-game-pauses-with-x3daudio17dll-restoration/">Read more<span class="seo-reader-text">Avoid Game Pauses with X3DAudio1_7.dll Restoration</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,21 +1266,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1723203768992-troubleshooting-non-responsive-arrows-on-your-keyboard-quick-fixes/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45d452041bd7c83bf359b02fd.jpg" alt="Troubleshooting Non-Responsive Arrows on Your Keyboard - Quick Fixes!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-stuck-windows-11-screens-tips-to-get-it-running-smoothly-again/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a678efc068af4239160ee06bb.jpg" alt="Troubleshooting Stuck Windows 11 Screens: Tips to Get It Running Smoothly Again" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1723203768992-troubleshooting-non-responsive-arrows-on-your-keyboard-quick-fixes/">
-                            Troubleshooting Non-Responsive Arrows on Your Keyboard - Quick Fixes!
+                        <a href="/troubleshooting-stuck-windows-11-screens-tips-to-get-it-running-smoothly-again/">
+                            Troubleshooting Stuck Windows 11 Screens: Tips to Get It Running Smoothly Again
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Non-Responsive Arrows on Your Keyboard - Quick Fixes!</p>
+                            <p>This Article Describes Troubleshooting Stuck Windows 11 Screens: Tips to Get It Running Smoothly Again</p>
 
                         
                     </div>
@@ -1231,9 +1288,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 17:45:22 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 20:23:00 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-04
                 
             </span>
         </span>
@@ -1279,7 +1336,7 @@
         
     </div>
 
-    <a href="/1723203768992-troubleshooting-non-responsive-arrows-on-your-keyboard-quick-fixes/">Read more<span class="seo-reader-text">Troubleshooting Non-Responsive Arrows on Your Keyboard - Quick Fixes!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-stuck-windows-11-screens-tips-to-get-it-running-smoothly-again/">Read more<span class="seo-reader-text">Troubleshooting Stuck Windows 11 Screens: Tips to Get It Running Smoothly Again</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,21 +1352,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/overcoming-usb-connection-problems-effective-solutions-for-device-descriptor-request-failed-error/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d273051a98d6681ad00d9eef8a0a1e7b14cf2a7e1a69ef55a0c0753824f4548a.jpg" alt="Overcoming USB Connection Problems: Effective Solutions for &#39;Device Descriptor Request Failed&#39; Error" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fast-track-reinstating-logildadll/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a663fa0800cea00c3335313c9.png" alt="Fast-Track: Reinstating LogiLDA.dll" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/overcoming-usb-connection-problems-effective-solutions-for-device-descriptor-request-failed-error/">
-                            Overcoming USB Connection Problems: Effective Solutions for &#39;Device Descriptor Request Failed&#39; Error
+                        <a href="/fast-track-reinstating-logildadll/">
+                            Fast-Track: Reinstating LogiLDA.dll
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Overcoming USB Connection Problems: Effective Solutions for ‘Device Descriptor Request Failed’ Error</p>
+                            <p>This Article Describes Fast-Track: Reinstating LogiLDA.dll</p>
 
                         
                     </div>
@@ -1317,9 +1374,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 17:45:21 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 20:22:59 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-04
                 
             </span>
         </span>
@@ -1365,7 +1422,7 @@
         
     </div>
 
-    <a href="/overcoming-usb-connection-problems-effective-solutions-for-device-descriptor-request-failed-error/">Read more<span class="seo-reader-text">Overcoming USB Connection Problems: Effective Solutions for &#39;Device Descriptor Request Failed&#39; Error</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fast-track-reinstating-logildadll/">Read more<span class="seo-reader-text">Fast-Track: Reinstating LogiLDA.dll</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,21 +1438,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/effective-remedies-for-windows-error-d3dx943dll-could-not-be-loaded/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa582bc360a8483bf8c37d216.jpg" alt="Effective Remedies for Windows Error &#39;d3dx9_43.dll Could Not Be Loaded&#39;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/overcome-startup-issues-with-easy-tips-for-stuck-at-getting-ready-errors/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c588003fe7de564148a8e3e23c.jpg" alt="Overcome Startup Issues with Easy Tips for &#39;Stuck at Getting Ready&#39; Errors" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/effective-remedies-for-windows-error-d3dx943dll-could-not-be-loaded/">
-                            Effective Remedies for Windows Error &#39;d3dx9_43.dll Could Not Be Loaded&#39;
+                        <a href="/overcome-startup-issues-with-easy-tips-for-stuck-at-getting-ready-errors/">
+                            Overcome Startup Issues with Easy Tips for &#39;Stuck at Getting Ready&#39; Errors
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Effective Remedies for Windows Error ‘d3dx9_43.dll Could Not Be Loaded’</p>
+                            <p>This Article Describes Overcome Startup Issues with Easy Tips for ‘Stuck at Getting Ready’ Errors</p>
 
                         
                     </div>
@@ -1403,9 +1460,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 17:45:19 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 20:22:58 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-04
                 
             </span>
         </span>
@@ -1451,7 +1508,7 @@
         
     </div>
 
-    <a href="/effective-remedies-for-windows-error-d3dx943dll-could-not-be-loaded/">Read more<span class="seo-reader-text">Effective Remedies for Windows Error &#39;d3dx9_43.dll Could Not Be Loaded&#39;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/overcome-startup-issues-with-easy-tips-for-stuck-at-getting-ready-errors/">Read more<span class="seo-reader-text">Overcome Startup Issues with Easy Tips for &#39;Stuck at Getting Ready&#39; Errors</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,21 +1524,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/keyboard-navigation-failure-revitalize-those-arrow-buttons-here/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c64fedaf756cbcf9ac92722c1b2668052e1efc526bd85097cc0c097ddacbbc3a.jpg" alt="Keyboard Navigation Failure? Revitalize Those Arrow Buttons Here" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/crucial-specification-your-system-requires-directx-11-capable-video-card-to-operate-this-application/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554cd872de0aa746e8545edfc3c.jpg" alt="Crucial Specification: Your System Requires DirectX 11 Capable Video Card to Operate This Application" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/keyboard-navigation-failure-revitalize-those-arrow-buttons-here/">
-                            Keyboard Navigation Failure? Revitalize Those Arrow Buttons Here
+                        <a href="/crucial-specification-your-system-requires-directx-11-capable-video-card-to-operate-this-application/">
+                            Crucial Specification: Your System Requires DirectX 11 Capable Video Card to Operate This Application
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Keyboard Navigation Failure? Revitalize Those Arrow Buttons Here</p>
+                            <p>This Article Describes Crucial Specification: Your System Requires DirectX 11 Capable Video Card to Operate This Application</p>
 
                         
                     </div>
@@ -1489,9 +1546,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 17:45:18 GMT+0800">
+            <span class="home-article-date" data-date="Wed Sep 04 2024 20:22:56 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-04
                 
             </span>
         </span>
@@ -1537,7 +1594,7 @@
         
     </div>
 
-    <a href="/keyboard-navigation-failure-revitalize-those-arrow-buttons-here/">Read more<span class="seo-reader-text">Keyboard Navigation Failure? Revitalize Those Arrow Buttons Here</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/crucial-specification-your-system-requires-directx-11-capable-video-card-to-operate-this-application/">Read more<span class="seo-reader-text">Crucial Specification: Your System Requires DirectX 11 Capable Video Card to Operate This Application</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1604,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/122/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/121/">121</a><a class="page-number" href="/page/122/">122</a><span class="page-number current">123</span><a class="page-number" href="/page/124/">124</a><a class="page-number" href="/page/125/">125</a><span class="space">&hellip;</span><a class="page-number" href="/page/807/">807</a><a class="extend next" rel="next" href="/page/124/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/122/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/121/">121</a><a class="page-number" href="/page/122/">122</a><span class="page-number current">123</span><a class="page-number" href="/page/124/">124</a><a class="page-number" href="/page/125/">125</a><span class="space">&hellip;</span><a class="page-number" href="/page/851/">851</a><a class="extend next" rel="next" href="/page/124/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

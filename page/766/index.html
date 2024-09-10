@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"common-error.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8065</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8507</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -652,7 +709,7 @@
                 <div class="author flex flex-col justify-center my-2.5 mx-0">
     <div class="name">Ronald</div>
     
-        <div class="label">Lv11</div>
+        <div class="label">Lv12</div>
     
 </div>
                 <div class="statistics flex justify-around my-2.5">
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8065</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8507</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solution-guide-dealing-with-a-hanging-google-chrome-window/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a0c3cbd8da95f67bc3541f25661fe30a0c6972d4ccaf476511883f0c541f437a.jpg" alt="Solution Guide: Dealing with a Hanging Google Chrome Window" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/effective-fixes-and-tips-for-resolving-the-ce-34878-code-on-your-ps4-console/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757ff19f24408692f694faf166.jpg" alt="Effective Fixes and Tips for Resolving the &#39;CE-34878&#39; Code on Your PS4 Console" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solution-guide-dealing-with-a-hanging-google-chrome-window/">
-                            Solution Guide: Dealing with a Hanging Google Chrome Window
+                        <a href="/effective-fixes-and-tips-for-resolving-the-ce-34878-code-on-your-ps4-console/">
+                            Effective Fixes and Tips for Resolving the &#39;CE-34878&#39; Code on Your PS4 Console
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solution Guide: Dealing with a Hanging Google Chrome Window</p>
+                            <p>This Article Describes Effective Fixes and Tips for Resolving the ‘CE-34878’ Code on Your PS4 Console</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:09 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:16 GMT+0800">
                 
                     2024-08-09
                 
@@ -763,7 +820,7 @@
         
     </div>
 
-    <a href="/solution-guide-dealing-with-a-hanging-google-chrome-window/">Read more<span class="seo-reader-text">Solution Guide: Dealing with a Hanging Google Chrome Window</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/effective-fixes-and-tips-for-resolving-the-ce-34878-code-on-your-ps4-console/">Read more<span class="seo-reader-text">Effective Fixes and Tips for Resolving the &#39;CE-34878&#39; Code on Your PS4 Console</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,21 +836,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-guide-correcting-the-unrecoverable-error-1603-during-program-install/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f266aaf5068a5f2270c6aff62a.jpeg" alt="Troubleshooting Guide: Correcting the Unrecoverable Error 1603 During Program Install" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/overcoming-class-unregistered-on-windows-11-error-tips-and-tricks-inside/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/71dbe143e288ec4099b8181c39d20715dbe7d69222a673d777b92948de77c3fd.jpg" alt="Overcoming &#39;Class Unregistered on Windows 11&#39; Error – Tips &amp; Tricks Inside" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-guide-correcting-the-unrecoverable-error-1603-during-program-install/">
-                            Troubleshooting Guide: Correcting the Unrecoverable Error 1603 During Program Install
+                        <a href="/overcoming-class-unregistered-on-windows-11-error-tips-and-tricks-inside/">
+                            Overcoming &#39;Class Unregistered on Windows 11&#39; Error – Tips &amp; Tricks Inside
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Guide: Correcting the Unrecoverable Error 1603 During Program Install</p>
+                            <p>This Article Describes Overcoming ‘Class Unregistered on Windows 11’ Error – Tips &amp; Tricks Inside</p>
 
                         
                     </div>
@@ -801,7 +858,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:09 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:16 GMT+0800">
                 
                     2024-08-09
                 
@@ -849,7 +906,7 @@
         
     </div>
 
-    <a href="/troubleshooting-guide-correcting-the-unrecoverable-error-1603-during-program-install/">Read more<span class="seo-reader-text">Troubleshooting Guide: Correcting the Unrecoverable Error 1603 During Program Install</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/overcoming-class-unregistered-on-windows-11-error-tips-and-tricks-inside/">Read more<span class="seo-reader-text">Overcoming &#39;Class Unregistered on Windows 11&#39; Error – Tips &amp; Tricks Inside</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,21 +922,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fixing-the-failed-to-update-warframe-issue-a-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3b5dbab902dc8db71b72fe778c491655a451dd9fd6fc0286da7f19ebe4c291dd.jpg" alt="Fixing the &#39;Failed to Update Warframe&#39; Issue – A Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-error-code-0x80-windows-1110-expert-tips-and-solutions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/3b5dbab902dc8db71b72fe778c491655a451dd9fd6fc0286da7f19ebe4c291dd.jpg" alt="Troubleshooting Error Code 0X80^ (Windows 11/10): Expert Tips &amp; Solutions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fixing-the-failed-to-update-warframe-issue-a-comprehensive-guide/">
-                            Fixing the &#39;Failed to Update Warframe&#39; Issue – A Comprehensive Guide
+                        <a href="/troubleshooting-error-code-0x80-windows-1110-expert-tips-and-solutions/">
+                            Troubleshooting Error Code 0X80^ (Windows 11/10): Expert Tips &amp; Solutions
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fixing the ‘Failed to Update Warframe’ Issue – A Comprehensive Guide</p>
+                            <p>This Article Describes Troubleshooting Error Code 0X80^ (Windows 11&#x2F;10): Expert Tips &amp; Solutions</p>
 
                         
                     </div>
@@ -887,7 +944,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:09 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:16 GMT+0800">
                 
                     2024-08-09
                 
@@ -935,7 +992,7 @@
         
     </div>
 
-    <a href="/fixing-the-failed-to-update-warframe-issue-a-comprehensive-guide/">Read more<span class="seo-reader-text">Fixing the &#39;Failed to Update Warframe&#39; Issue – A Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-error-code-0x80-windows-1110-expert-tips-and-solutions/">Read more<span class="seo-reader-text">Troubleshooting Error Code 0X80^ (Windows 11/10): Expert Tips &amp; Solutions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,21 +1008,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/top-8-solutions-overcome-the-persistent-windows-10-update-error-0x800f0922/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c34daec24e1d24e09cc0c1b30.jpg" alt="Top 8 Solutions: Overcome the Persistent Windows 10 Update Error 0X800F0922" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/tackling-opencl-library-file-errors/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/fe142fc722967440c0a67173b1e546447bf0e801339eadf58291eb4451fb4b01.jpg" alt="Tackling OpenCL Library File Errors" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/top-8-solutions-overcome-the-persistent-windows-10-update-error-0x800f0922/">
-                            Top 8 Solutions: Overcome the Persistent Windows 10 Update Error 0X800F0922
+                        <a href="/tackling-opencl-library-file-errors/">
+                            Tackling OpenCL Library File Errors
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Top 8 Solutions: Overcome the Persistent Windows 10 Update Error 0X800F0922</p>
+                            <p>This Article Describes Tackling OpenCL Library File Errors</p>
 
                         
                     </div>
@@ -973,7 +1030,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:09 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:16 GMT+0800">
                 
                     2024-08-09
                 
@@ -1021,7 +1078,7 @@
         
     </div>
 
-    <a href="/top-8-solutions-overcome-the-persistent-windows-10-update-error-0x800f0922/">Read more<span class="seo-reader-text">Top 8 Solutions: Overcome the Persistent Windows 10 Update Error 0X800F0922</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/tackling-opencl-library-file-errors/">Read more<span class="seo-reader-text">Tackling OpenCL Library File Errors</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,21 +1094,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-tips-to-fix-steam-cannot-write-to-disc-error-swiftly/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8a7c2713a5a85ee94384e3a403324debf1e357fa3f2637bf212870351e0edf0f.jpg" alt="Step-by-Step Tips to Fix Steam Cannot Write to Disc Error Swiftly" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/top-5-solutions-for-reducing-gpu-consumption-by-the-desktop-window-manager-on-windows-10-and-11/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc28694609982153cd6de4dd43a450d.jpg" alt="Top 5 Solutions for Reducing GPU Consumption by the Desktop Window Manager on Windows 10 &amp; 11" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-tips-to-fix-steam-cannot-write-to-disc-error-swiftly/">
-                            Step-by-Step Tips to Fix Steam Cannot Write to Disc Error Swiftly
+                        <a href="/top-5-solutions-for-reducing-gpu-consumption-by-the-desktop-window-manager-on-windows-10-and-11/">
+                            Top 5 Solutions for Reducing GPU Consumption by the Desktop Window Manager on Windows 10 &amp; 11
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Tips to Fix Steam Cannot Write to Disc Error Swiftly</p>
+                            <p>This Article Describes Top 5 Solutions for Reducing GPU Consumption by the Desktop Window Manager on Windows 10 &amp; 11</p>
 
                         
                     </div>
@@ -1059,7 +1116,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:09 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:16 GMT+0800">
                 
                     2024-08-09
                 
@@ -1107,7 +1164,7 @@
         
     </div>
 
-    <a href="/step-by-step-tips-to-fix-steam-cannot-write-to-disc-error-swiftly/">Read more<span class="seo-reader-text">Step-by-Step Tips to Fix Steam Cannot Write to Disc Error Swiftly</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/top-5-solutions-for-reducing-gpu-consumption-by-the-desktop-window-manager-on-windows-10-and-11/">Read more<span class="seo-reader-text">Top 5 Solutions for Reducing GPU Consumption by the Desktop Window Manager on Windows 10 &amp; 11</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,21 +1180,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/quick-fixes-for-when-your-pc-mouse-gets-stuck-a-complete-solution/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb44504b07d25f967a878becd.png" alt="Quick Fixes for When Your PC Mouse Gets Stuck – A Complete Solution" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/shift-key-failure-solved-tips-for-restoring-functionality/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ef833586db2eca1205112d6a1324831706810837347cef6ebb757a75a1e9ec6c.jpg" alt="Shift Key Failure Solved: Tips for Restoring Functionality" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/quick-fixes-for-when-your-pc-mouse-gets-stuck-a-complete-solution/">
-                            Quick Fixes for When Your PC Mouse Gets Stuck – A Complete Solution
+                        <a href="/shift-key-failure-solved-tips-for-restoring-functionality/">
+                            Shift Key Failure Solved: Tips for Restoring Functionality
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Quick Fixes for When Your PC Mouse Gets Stuck – A Complete Solution</p>
+                            <p>This Article Describes Shift Key Failure Solved: Tips for Restoring Functionality</p>
 
                         
                     </div>
@@ -1145,7 +1202,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:09 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:16 GMT+0800">
                 
                     2024-08-09
                 
@@ -1193,7 +1250,7 @@
         
     </div>
 
-    <a href="/quick-fixes-for-when-your-pc-mouse-gets-stuck-a-complete-solution/">Read more<span class="seo-reader-text">Quick Fixes for When Your PC Mouse Gets Stuck – A Complete Solution</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/shift-key-failure-solved-tips-for-restoring-functionality/">Read more<span class="seo-reader-text">Shift Key Failure Solved: Tips for Restoring Functionality</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,21 +1266,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/code-28-malfunction-in-windows-explorer-explained-solutions-and-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/cc5e0ccb2974725fe4ffe86c209fbe5c027a26cc8f4a4bedddf4dd27e4096c3f.jpg" alt="Code 28 Malfunction in Windows Explorer Explained: Solutions and Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/beating-destiny-2s-loading-hurdle-fixing-initialization-errors-effectively/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c7c73b7c4a7efc6c835802b5aee6775aac1b5aafcbc08ea28ac48bf90c458f91.jpg" alt="Beating Destiny 2&#39;S Loading Hurdle - Fixing Initialization Errors Effectively" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/code-28-malfunction-in-windows-explorer-explained-solutions-and-tips/">
-                            Code 28 Malfunction in Windows Explorer Explained: Solutions and Tips
+                        <a href="/beating-destiny-2s-loading-hurdle-fixing-initialization-errors-effectively/">
+                            Beating Destiny 2&#39;S Loading Hurdle - Fixing Initialization Errors Effectively
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Code 28 Malfunction in Windows Explorer Explained: Solutions and Tips</p>
+                            <p>This Article Describes Beating Destiny 2’S Loading Hurdle - Fixing Initialization Errors Effectively</p>
 
                         
                     </div>
@@ -1231,7 +1288,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:09 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:16 GMT+0800">
                 
                     2024-08-09
                 
@@ -1279,7 +1336,7 @@
         
     </div>
 
-    <a href="/code-28-malfunction-in-windows-explorer-explained-solutions-and-tips/">Read more<span class="seo-reader-text">Code 28 Malfunction in Windows Explorer Explained: Solutions and Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/beating-destiny-2s-loading-hurdle-fixing-initialization-errors-effectively/">Read more<span class="seo-reader-text">Beating Destiny 2&#39;S Loading Hurdle - Fixing Initialization Errors Effectively</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,21 +1352,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/usb-device-not-recognized-keeps-popping-up-solved/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21efbb35cbfda2026996e2400a4.jpg" alt="USB Device Not Recognized Keeps Popping Up [SOLVED]" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/why-your-shift-key-wont-work-and-how-to-solve-it-effectively/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d4d65dffa6d108b05861c08e391929dff0db7f6ebc3e8d7f9915a07380165e20.jpg" alt="Why Your Shift Key Won&#39;t Work and How to Solve It Effectively" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/usb-device-not-recognized-keeps-popping-up-solved/">
-                            USB Device Not Recognized Keeps Popping Up [SOLVED]
+                        <a href="/why-your-shift-key-wont-work-and-how-to-solve-it-effectively/">
+                            Why Your Shift Key Won&#39;t Work and How to Solve It Effectively
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes USB Device Not Recognized Keeps Popping Up [SOLVED]</p>
+                            <p>This Article Describes Why Your Shift Key Won’t Work and How to Solve It Effectively</p>
 
                         
                     </div>
@@ -1317,7 +1374,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:09 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:16 GMT+0800">
                 
                     2024-08-09
                 
@@ -1365,7 +1422,7 @@
         
     </div>
 
-    <a href="/usb-device-not-recognized-keeps-popping-up-solved/">Read more<span class="seo-reader-text">USB Device Not Recognized Keeps Popping Up [SOLVED]</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/why-your-shift-key-wont-work-and-how-to-solve-it-effectively/">Read more<span class="seo-reader-text">Why Your Shift Key Won&#39;t Work and How to Solve It Effectively</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,21 +1438,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-tips-overcome-the-hurdle-of-error-0x800f0831-using-windows-update-features/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba8565a3523ea779e463db4b2.jpg" alt="Troubleshooting Tips: Overcome the Hurdle of Error 0X800f0831 Using Windows Update Features" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/top-tricks-for-resolving-issues-with-your-playstation-4-headset-audio/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/013867366887b6fa0094f393317cb0e64fa230f897f024e133b92335d61d4b28.jpg" alt="Top Tricks for Resolving Issues with Your PlayStation 4 Headset Audio" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-tips-overcome-the-hurdle-of-error-0x800f0831-using-windows-update-features/">
-                            Troubleshooting Tips: Overcome the Hurdle of Error 0X800f0831 Using Windows Update Features
+                        <a href="/top-tricks-for-resolving-issues-with-your-playstation-4-headset-audio/">
+                            Top Tricks for Resolving Issues with Your PlayStation 4 Headset Audio
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Tips: Overcome the Hurdle of Error 0X800f0831 Using Windows Update Features</p>
+                            <p>This Article Describes Top Tricks for Resolving Issues with Your PlayStation 4 Headset Audio</p>
 
                         
                     </div>
@@ -1403,7 +1460,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:09 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:16 GMT+0800">
                 
                     2024-08-09
                 
@@ -1451,7 +1508,7 @@
         
     </div>
 
-    <a href="/troubleshooting-tips-overcome-the-hurdle-of-error-0x800f0831-using-windows-update-features/">Read more<span class="seo-reader-text">Troubleshooting Tips: Overcome the Hurdle of Error 0X800f0831 Using Windows Update Features</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/top-tricks-for-resolving-issues-with-your-playstation-4-headset-audio/">Read more<span class="seo-reader-text">Top Tricks for Resolving Issues with Your PlayStation 4 Headset Audio</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,21 +1524,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-tips-to-restore-keyboard-functionality-on-login/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f885c10acf9d70c8e5fd03d37.jpg" alt="Step-by-Step Tips to Restore Keyboard Functionality on Login" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/call-of-duty-ww2-bug-code-easy-troubleshooting-steps-to-correct-errors/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f60b5cb5d31f0db6c00b1faa5bbb82ce655e5c5fa0350104266b8258e603ad98.png" alt="Call of Duty WW2 Bug Code 지표: Easy Troubleshooting Steps to Correct Errors" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-tips-to-restore-keyboard-functionality-on-login/">
-                            Step-by-Step Tips to Restore Keyboard Functionality on Login
+                        <a href="/call-of-duty-ww2-bug-code-easy-troubleshooting-steps-to-correct-errors/">
+                            Call of Duty WW2 Bug Code 지표: Easy Troubleshooting Steps to Correct Errors
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Tips to Restore Keyboard Functionality on Login</p>
+                            <p>This Article Describes Call of Duty WW2 Bug Code 지표: Easy Troubleshooting Steps to Correct Errors</p>
 
                         
                     </div>
@@ -1489,7 +1546,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:09 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:16 GMT+0800">
                 
                     2024-08-09
                 
@@ -1537,7 +1594,7 @@
         
     </div>
 
-    <a href="/step-by-step-tips-to-restore-keyboard-functionality-on-login/">Read more<span class="seo-reader-text">Step-by-Step Tips to Restore Keyboard Functionality on Login</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/call-of-duty-ww2-bug-code-easy-troubleshooting-steps-to-correct-errors/">Read more<span class="seo-reader-text">Call of Duty WW2 Bug Code 지표: Easy Troubleshooting Steps to Correct Errors</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1604,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/765/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/764/">764</a><a class="page-number" href="/page/765/">765</a><span class="page-number current">766</span><a class="page-number" href="/page/767/">767</a><a class="page-number" href="/page/768/">768</a><span class="space">&hellip;</span><a class="page-number" href="/page/807/">807</a><a class="extend next" rel="next" href="/page/767/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/765/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/764/">764</a><a class="page-number" href="/page/765/">765</a><span class="page-number current">766</span><a class="page-number" href="/page/767/">767</a><a class="page-number" href="/page/768/">768</a><span class="space">&hellip;</span><a class="page-number" href="/page/851/">851</a><a class="extend next" rel="next" href="/page/767/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"common-error.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8065</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8507</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -652,7 +709,7 @@
                 <div class="author flex flex-col justify-center my-2.5 mx-0">
     <div class="name">Ronald</div>
     
-        <div class="label">Lv11</div>
+        <div class="label">Lv12</div>
     
 </div>
                 <div class="statistics flex justify-around my-2.5">
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8065</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8507</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/error-resolution-for-net-framework-35-how-to-overcome-the-obstacle-of-code-0x800f081f/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c1fececef10bedb4fef9ebd7f2b853faa68d2a84ac1f20b42c3b2db4cf801728.png" alt="Error Resolution for .NET Framework 3.5: How to Overcome the Obstacle of Code 0X800F081F" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/dealing-with-dead-dns-servers-here-are-4-effortless-fixes/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5dfa6d1b3e758e9ac9f354ba6.jpg" alt="Dealing with Dead DNS Servers? Here Are 4 Effortless Fixes!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/error-resolution-for-net-framework-35-how-to-overcome-the-obstacle-of-code-0x800f081f/">
-                            Error Resolution for .NET Framework 3.5: How to Overcome the Obstacle of Code 0X800F081F
+                        <a href="/dealing-with-dead-dns-servers-here-are-4-effortless-fixes/">
+                            Dealing with Dead DNS Servers? Here Are 4 Effortless Fixes!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Error Resolution for .NET Framework 3.5: How to Overcome the Obstacle of Code 0X800F081F</p>
+                            <p>This Article Describes Dealing with Dead DNS Servers? Here Are 4 Effortless Fixes!</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:11 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:18 GMT+0800">
                 
                     2024-08-09
                 
@@ -763,7 +820,7 @@
         
     </div>
 
-    <a href="/error-resolution-for-net-framework-35-how-to-overcome-the-obstacle-of-code-0x800f081f/">Read more<span class="seo-reader-text">Error Resolution for .NET Framework 3.5: How to Overcome the Obstacle of Code 0X800F081F</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/dealing-with-dead-dns-servers-here-are-4-effortless-fixes/">Read more<span class="seo-reader-text">Dealing with Dead DNS Servers? Here Are 4 Effortless Fixes!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,21 +836,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/windows-c-runtime-framework-missing/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/929258c247a8621297933bc07467c148b4e889d770687adeff11aece67284c9d.jpg" alt="Windows C Runtime Framework Missing" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/unplugged-and-confused-heres-why-your-laptop-turned-off-randomly-solved/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2fae50b407ca5b13b61d24c2.jpg" alt="Unplugged and Confused? Here&#39;s Why Your Laptop Turned Off Randomly (Solved)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/windows-c-runtime-framework-missing/">
-                            Windows C Runtime Framework Missing
+                        <a href="/unplugged-and-confused-heres-why-your-laptop-turned-off-randomly-solved/">
+                            Unplugged and Confused? Here&#39;s Why Your Laptop Turned Off Randomly (Solved)
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Windows C Runtime Framework Missing</p>
+                            <p>This Article Describes Unplugged and Confused? Here’s Why Your Laptop Turned Off Randomly (Solved)</p>
 
                         
                     </div>
@@ -801,7 +858,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:11 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:18 GMT+0800">
                 
                     2024-08-09
                 
@@ -849,7 +906,7 @@
         
     </div>
 
-    <a href="/windows-c-runtime-framework-missing/">Read more<span class="seo-reader-text">Windows C Runtime Framework Missing</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/unplugged-and-confused-heres-why-your-laptop-turned-off-randomly-solved/">Read more<span class="seo-reader-text">Unplugged and Confused? Here&#39;s Why Your Laptop Turned Off Randomly (Solved)</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,21 +922,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-steps-for-repairing-a-non-functional-aoc-monitor-on-windows-10/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867cd294c9e58180160b4e9b56.jpg" alt="Troubleshooting Steps for Repairing a Non-Functional AOC Monitor on Windows 10" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/google-chrome-crash-course-overcoming-the-not-responding-dilemma/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2152da5539a4a5d5cb3e57e3.jpg" alt="Google Chrome Crash Course: Overcoming the Not Responding Dilemma" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-steps-for-repairing-a-non-functional-aoc-monitor-on-windows-10/">
-                            Troubleshooting Steps for Repairing a Non-Functional AOC Monitor on Windows 10
+                        <a href="/google-chrome-crash-course-overcoming-the-not-responding-dilemma/">
+                            Google Chrome Crash Course: Overcoming the Not Responding Dilemma
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Steps for Repairing a Non-Functional AOC Monitor on Windows 10</p>
+                            <p>This Article Describes Google Chrome Crash Course: Overcoming the Not Responding Dilemma</p>
 
                         
                     </div>
@@ -887,7 +944,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:11 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:18 GMT+0800">
                 
                     2024-08-09
                 
@@ -935,7 +992,7 @@
         
     </div>
 
-    <a href="/troubleshooting-steps-for-repairing-a-non-functional-aoc-monitor-on-windows-10/">Read more<span class="seo-reader-text">Troubleshooting Steps for Repairing a Non-Functional AOC Monitor on Windows 10</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/google-chrome-crash-course-overcoming-the-not-responding-dilemma/">Read more<span class="seo-reader-text">Google Chrome Crash Course: Overcoming the Not Responding Dilemma</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,21 +1008,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1723204559833-arrow-key-issues-on-your-keyboard-fix-them-with-these-expert-methods/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/9fb33bd6bba9695ce8ba1da0e2a2f8b35a76e62cf2e1d56812a41fc12ff7dc0c.jpg" alt="Arrow Key Issues on Your Keyboard? Fix Them With These Expert Methods" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-driverpowerstateerror-on-your-computer/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg" alt="Troubleshooting DRIVER_POWER_STATE_ERROR on Your Computer" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1723204559833-arrow-key-issues-on-your-keyboard-fix-them-with-these-expert-methods/">
-                            Arrow Key Issues on Your Keyboard? Fix Them With These Expert Methods
+                        <a href="/troubleshooting-driverpowerstateerror-on-your-computer/">
+                            Troubleshooting DRIVER_POWER_STATE_ERROR on Your Computer
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Arrow Key Issues on Your Keyboard? Fix Them With These Expert Methods</p>
+                            <p>This Article Describes Troubleshooting DRIVER_POWER_STATE_ERROR on Your Computer</p>
 
                         
                     </div>
@@ -973,7 +1030,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:11 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:18 GMT+0800">
                 
                     2024-08-09
                 
@@ -1021,7 +1078,7 @@
         
     </div>
 
-    <a href="/1723204559833-arrow-key-issues-on-your-keyboard-fix-them-with-these-expert-methods/">Read more<span class="seo-reader-text">Arrow Key Issues on Your Keyboard? Fix Them With These Expert Methods</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-driverpowerstateerror-on-your-computer/">Read more<span class="seo-reader-text">Troubleshooting DRIVER_POWER_STATE_ERROR on Your Computer</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,21 +1094,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/understanding-and-fixing-the-limited-system-capacity-error-a-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e62628b7a3a5060d5bc396913a4e.jpg" alt="Understanding and Fixing the &#39;Limited System Capacity&#39; Error: A Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/windows-10-troubleshooting-harnessing-the-power-of-sfc-and-dism-utilities/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/1c433afae0f8c316ba83d724b6e1d85b8ae483fb36c0489f83439481af084268.jpg" alt="Windows 10 Troubleshooting: Harnessing the Power of SFC and DISM Utilities" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/understanding-and-fixing-the-limited-system-capacity-error-a-comprehensive-guide/">
-                            Understanding and Fixing the &#39;Limited System Capacity&#39; Error: A Comprehensive Guide
+                        <a href="/windows-10-troubleshooting-harnessing-the-power-of-sfc-and-dism-utilities/">
+                            Windows 10 Troubleshooting: Harnessing the Power of SFC and DISM Utilities
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Understanding and Fixing the ‘Limited System Capacity’ Error: A Comprehensive Guide</p>
+                            <p>This Article Describes Windows 10 Troubleshooting: Harnessing the Power of SFC and DISM Utilities</p>
 
                         
                     </div>
@@ -1059,7 +1116,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:11 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:18 GMT+0800">
                 
                     2024-08-09
                 
@@ -1107,7 +1164,7 @@
         
     </div>
 
-    <a href="/understanding-and-fixing-the-limited-system-capacity-error-a-comprehensive-guide/">Read more<span class="seo-reader-text">Understanding and Fixing the &#39;Limited System Capacity&#39; Error: A Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/windows-10-troubleshooting-harnessing-the-power-of-sfc-and-dism-utilities/">Read more<span class="seo-reader-text">Windows 10 Troubleshooting: Harnessing the Power of SFC and DISM Utilities</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,21 +1180,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-techniques-for-livekernelevent-error-number-1e/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8805f4d9fd76617ab713149a133229b90048f9ca9cbe9183fec9ff8d375f357d.jpg" alt="Troubleshooting Techniques for LiveKernelEvent Error Number 1E" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-guide-fixing-lenovos-unresponsive-fingerprint-reader-with-minimal-hassle/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/fa44e4072bbca8fffcfb2ff9a75f7dc0fad47a3e60bc93d2b05739fc57c6b83c.jpg" alt="Step-by-Step Guide: Fixing Lenovo&#39;s Unresponsive Fingerprint Reader with Minimal Hassle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-techniques-for-livekernelevent-error-number-1e/">
-                            Troubleshooting Techniques for LiveKernelEvent Error Number 1E
+                        <a href="/step-by-step-guide-fixing-lenovos-unresponsive-fingerprint-reader-with-minimal-hassle/">
+                            Step-by-Step Guide: Fixing Lenovo&#39;s Unresponsive Fingerprint Reader with Minimal Hassle
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Techniques for LiveKernelEvent Error Number 1E</p>
+                            <p>This Article Describes Step-by-Step Guide: Fixing Lenovo’s Unresponsive Fingerprint Reader with Minimal Hassle</p>
 
                         
                     </div>
@@ -1145,7 +1202,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:11 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:18 GMT+0800">
                 
                     2024-08-09
                 
@@ -1193,7 +1250,7 @@
         
     </div>
 
-    <a href="/troubleshooting-techniques-for-livekernelevent-error-number-1e/">Read more<span class="seo-reader-text">Troubleshooting Techniques for LiveKernelEvent Error Number 1E</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-guide-fixing-lenovos-unresponsive-fingerprint-reader-with-minimal-hassle/">Read more<span class="seo-reader-text">Step-by-Step Guide: Fixing Lenovo&#39;s Unresponsive Fingerprint Reader with Minimal Hassle</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,21 +1266,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/resolving-hdmi-connectivity-issues-windows-10-wont-recognize-your-tv/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d940e7732f01996ef0ed9bff8746265de4ef97bd20619840505d03a7ae8944c3.jpg" alt="Resolving HDMI Connectivity Issues: Windows 10 Won&#39;t Recognize Your TV" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1723211344252-miracast-troubles-correct-your-graphics-driver-for-seamless-screen-mirroring/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd8b2538ecaa291b275493185.jpg" alt="Miracast Troubles? Correct Your Graphics Driver for Seamless Screen Mirroring!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/resolving-hdmi-connectivity-issues-windows-10-wont-recognize-your-tv/">
-                            Resolving HDMI Connectivity Issues: Windows 10 Won&#39;t Recognize Your TV
+                        <a href="/1723211344252-miracast-troubles-correct-your-graphics-driver-for-seamless-screen-mirroring/">
+                            Miracast Troubles? Correct Your Graphics Driver for Seamless Screen Mirroring!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Resolving HDMI Connectivity Issues: Windows 10 Won’t Recognize Your TV</p>
+                            <p>This Article Describes Miracast Troubles? Correct Your Graphics Driver for Seamless Screen Mirroring!</p>
 
                         
                     </div>
@@ -1231,7 +1288,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:11 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:18 GMT+0800">
                 
                     2024-08-09
                 
@@ -1279,7 +1336,7 @@
         
     </div>
 
-    <a href="/resolving-hdmi-connectivity-issues-windows-10-wont-recognize-your-tv/">Read more<span class="seo-reader-text">Resolving HDMI Connectivity Issues: Windows 10 Won&#39;t Recognize Your TV</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1723211344252-miracast-troubles-correct-your-graphics-driver-for-seamless-screen-mirroring/">Read more<span class="seo-reader-text">Miracast Troubles? Correct Your Graphics Driver for Seamless Screen Mirroring!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,21 +1352,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1723209040509-total-war-rome-remastered-crashes-heres-how-to-get-it-running-smoothly-again/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/37188c2ac0547dbb668f9ed584425f62c5411d081b5606c8c487c2ccf4f6d577.jpg" alt="Total War: Rome Remastered Crashes? Here&#39;s How to Get It Running Smoothly Again" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-bypass-the-configuring-windows-stuck-phase-and-continue-setup/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/344ccd42970473c822ce3d8647d1f132f07ed11b189d66bfa12739452e5e4fb4.jpg" alt="How to Bypass the &#39;Configuring Windows&#39; Stuck Phase and Continue Setup" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1723209040509-total-war-rome-remastered-crashes-heres-how-to-get-it-running-smoothly-again/">
-                            Total War: Rome Remastered Crashes? Here&#39;s How to Get It Running Smoothly Again
+                        <a href="/how-to-bypass-the-configuring-windows-stuck-phase-and-continue-setup/">
+                            How to Bypass the &#39;Configuring Windows&#39; Stuck Phase and Continue Setup
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Total War: Rome Remastered Crashes? Here’s How to Get It Running Smoothly Again</p>
+                            <p>This Article Describes How to Bypass the ‘Configuring Windows’ Stuck Phase and Continue Setup</p>
 
                         
                     </div>
@@ -1317,7 +1374,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:10 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:18 GMT+0800">
                 
                     2024-08-09
                 
@@ -1365,7 +1422,7 @@
         
     </div>
 
-    <a href="/1723209040509-total-war-rome-remastered-crashes-heres-how-to-get-it-running-smoothly-again/">Read more<span class="seo-reader-text">Total War: Rome Remastered Crashes? Here&#39;s How to Get It Running Smoothly Again</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-bypass-the-configuring-windows-stuck-phase-and-continue-setup/">Read more<span class="seo-reader-text">How to Bypass the &#39;Configuring Windows&#39; Stuck Phase and Continue Setup</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,21 +1438,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/effective-strategies-troubleshooting-windows-10-bluetooth-connection-issues-tip-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c706e3284222e7ce2389a41f.jpg" alt="Effective Strategies: Troubleshooting Windows 10 Bluetooth Connection Issues (Tip Guide )" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fixing-the-issue-why-your-wireless-mouse-fails-in-windows-11-and-10/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/98a90a980daafb5d4122c6bec488811f000154f10382aff0b3452de9d0f47411.jpg" alt="Fixing the Issue: Why Your Wireless Mouse Fails in Windows 11 &amp; 10" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/effective-strategies-troubleshooting-windows-10-bluetooth-connection-issues-tip-guide/">
-                            Effective Strategies: Troubleshooting Windows 10 Bluetooth Connection Issues (Tip Guide )
+                        <a href="/fixing-the-issue-why-your-wireless-mouse-fails-in-windows-11-and-10/">
+                            Fixing the Issue: Why Your Wireless Mouse Fails in Windows 11 &amp; 10
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Effective Strategies: Troubleshooting Windows 10 Bluetooth Connection Issues (Tip Guide )</p>
+                            <p>This Article Describes Fixing the Issue: Why Your Wireless Mouse Fails in Windows 11 &amp; 10</p>
 
                         
                     </div>
@@ -1403,7 +1460,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:10 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:18 GMT+0800">
                 
                     2024-08-09
                 
@@ -1451,7 +1508,7 @@
         
     </div>
 
-    <a href="/effective-strategies-troubleshooting-windows-10-bluetooth-connection-issues-tip-guide/">Read more<span class="seo-reader-text">Effective Strategies: Troubleshooting Windows 10 Bluetooth Connection Issues (Tip Guide )</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fixing-the-issue-why-your-wireless-mouse-fails-in-windows-11-and-10/">Read more<span class="seo-reader-text">Fixing the Issue: Why Your Wireless Mouse Fails in Windows 11 &amp; 10</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,21 +1524,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-guide-how-to-restore-functionality-to-your-windows-11-start-menu/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/5bf39f94c554a82a4d105671b92aeedfbf496d47a60fe2c90aaed3563884eba7.jpg" alt="Troubleshooting Guide: How to Restore Functionality to Your Windows 11 Start Menu" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/effective-techniques-for-addressing-the-hamachi-service-stopped-trouble-on-your-system/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5bb08ab6d34a1fb0acace4e8322f42ab6cac411cdc94c053d0ad8ae749b9c794.jpg" alt="Effective Techniques for Addressing the &#39;Hamachi Service Stopped&#39; Trouble on Your System" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-guide-how-to-restore-functionality-to-your-windows-11-start-menu/">
-                            Troubleshooting Guide: How to Restore Functionality to Your Windows 11 Start Menu
+                        <a href="/effective-techniques-for-addressing-the-hamachi-service-stopped-trouble-on-your-system/">
+                            Effective Techniques for Addressing the &#39;Hamachi Service Stopped&#39; Trouble on Your System
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Guide: How to Restore Functionality to Your Windows 11 Start Menu</p>
+                            <p>This Article Describes Effective Techniques for Addressing the ‘Hamachi Service Stopped’ Trouble on Your System</p>
 
                         
                     </div>
@@ -1489,7 +1546,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:10 GMT+0800">
+            <span class="home-article-date" data-date="Fri Aug 09 2024 00:49:18 GMT+0800">
                 
                     2024-08-09
                 
@@ -1537,7 +1594,7 @@
         
     </div>
 
-    <a href="/troubleshooting-guide-how-to-restore-functionality-to-your-windows-11-start-menu/">Read more<span class="seo-reader-text">Troubleshooting Guide: How to Restore Functionality to Your Windows 11 Start Menu</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/effective-techniques-for-addressing-the-hamachi-service-stopped-trouble-on-your-system/">Read more<span class="seo-reader-text">Effective Techniques for Addressing the &#39;Hamachi Service Stopped&#39; Trouble on Your System</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1604,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/750/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/749/">749</a><a class="page-number" href="/page/750/">750</a><span class="page-number current">751</span><a class="page-number" href="/page/752/">752</a><a class="page-number" href="/page/753/">753</a><span class="space">&hellip;</span><a class="page-number" href="/page/807/">807</a><a class="extend next" rel="next" href="/page/752/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/750/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/749/">749</a><a class="page-number" href="/page/750/">750</a><span class="page-number current">751</span><a class="page-number" href="/page/752/">752</a><a class="page-number" href="/page/753/">753</a><span class="space">&hellip;</span><a class="page-number" href="/page/851/">851</a><a class="extend next" rel="next" href="/page/752/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

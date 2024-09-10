@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"common-error.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8065</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8507</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -632,71 +689,71 @@
                     <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-09'>
                 
                     
-                        <a href="/solved-api-ms-win-core-libraryloader-l1-1-1dll-is-missing-from-your-computer/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">[Solved] api-ms-win-core-libraryloader-l1-1-1.dll Is Missing From Your Computer</span>
+                        <a href="/1723204734289-step-by-step-solution-for-stable-usb-connections-no-more-drops/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Solution for Stable USB Connections - No More Drops!</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-get-your-macbookpc-keyboard-lights-working-again-effective-fixes-and-tips/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Get Your Macbook/PC Keyboard Lights Working Again: Effective Fixes &amp; Tips</span>
+                        <a href="/resolving-microphone-not-working-error-in-windows-11-step-by-step-guide/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Resolving &#39;Microphone Not Working&#39; Error in Windows 11 - Step by Step Guide</span>
                         </a>
                     
               
                 
                     
-                        <a href="/guide-repairing-user-profile-service-malfunctions-and-ensuring-successful-logins-in-windows-1011/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Guide: Repairing &#39;User Profile Service&#39; Malfunctions and Ensuring Successful Logins in Windows 10/11</span>
+                        <a href="/uncover-the-secret-retrieving-disappeared-windows-in-os/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Uncover the Secret: Retrieving Disappeared Windows in OS</span>
                         </a>
                     
               
                 
                     
-                        <a href="/troubleshooting-guide-for-non-working-mic-on-steelseries-arctis-5-a-step-by-step-solution/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Troubleshooting Guide for Non-Working Mic on SteelSeries Arctis 5: A Step-by-Step Solution</span>
+                        <a href="/how-to-fix-a-pc-freezing-during-boot-complete-guide/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How to Fix a PC Freezing During Boot: Complete Guide</span>
                         </a>
                     
               
                 
                     
-                        <a href="/keyboard-malfunction-in-windows-11-a-step-by-step-repair-manual-for-faulty-letters/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Keyboard Malfunction in Windows 11 – A Step-by-Step Repair Manual for Faulty Letters</span>
+                        <a href="/beat-the-0x80073712-easy-tricks-to-correctly-address-the-code-issue-in-windows-11/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Beat the &#39;0X80073712&#39;: Easy Tricks to Correctly Address the Code Issue in Windows 11</span>
                         </a>
                     
               
                 
                     
-                        <a href="/solving-print-screen-malfunctions-in-windows-operating-systems-a-step-by-step-approach/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Solving Print Screen Malfunctions in Windows Operating Systems: A Step-by-Step Approach</span>
+                        <a href="/laptop-display-errors-how-to-fix-a-stuck-white-screen-issue-effectively/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Laptop Display Errors: How to Fix a Stuck White Screen Issue Effectively</span>
                         </a>
                     
               
                 
                     
-                        <a href="/accelerating-response-time-a-guide-to-fixing-slow-keyboards-instantly/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Accelerating Response Time: A Guide to Fixing Slow Keyboards Instantly</span>
+                        <a href="/troubleshooting-tips-restoring-functionality-to-your-windows-11-start-menu/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Troubleshooting Tips - Restoring Functionality to Your Windows 11 Start Menu</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-fix-could-not-complete-action-on-file-due-to-rpc-server-unavailable-or-timeout-in-windows/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Fix &#39;Could Not Complete Action on File Due To RPC Server Unavailable or Timeout&#39; In Windows</span>
+                        <a href="/troubleshooting-and-correcting-failed-to-create-graphics-device-problem-for-improved-performance/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Troubleshooting and Correcting &#39;Failed to Create Graphics Device&#39; Problem for Improved Performance</span>
                         </a>
                     
               
                 
                     
-                        <a href="/solving-the-problem-of-a-non-charging-laptop-in-no-time/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Solving the Problem of a Non-Charging Laptop in No Time</span>
+                        <a href="/troubleshooting-unsuccessful-windows-11-build-1607-feature-upgrade/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Troubleshooting: Unsuccessful Windows 11 Build 1607 Feature Upgrade</span>
                         </a>
                     
               
                 
                     
-                        <a href="/bypassing-the-blockade-8-steps-to-resolving-windows-10s-error-code-0x800f0922-during-updates/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Bypassing the Blockade: 8 Steps to Resolving Windows 10&#39;S Error Code 0X800F0922 During Updates</span>
+                        <a href="/solving-the-issue-of-randomly-typed-letters-in-word-processors/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Solving the Issue of Randomly Typed Letters in Word Processors</span>
                         </a>
                     
               
@@ -709,7 +766,7 @@
 </div>
 <div class="category-paginator">
     <div class="paginator">
-    <a class="extend prev" rel="prev" href="/categories/CommonErrors/page/692/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/CommonErrors/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/CommonErrors/page/691/">691</a><a class="page-number" href="/categories/CommonErrors/page/692/">692</a><span class="page-number current">693</span><a class="page-number" href="/categories/CommonErrors/page/694/">694</a><a class="page-number" href="/categories/CommonErrors/page/695/">695</a><span class="space">&hellip;</span><a class="page-number" href="/categories/CommonErrors/page/807/">807</a><a class="extend next" rel="next" href="/categories/CommonErrors/page/694/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/categories/CommonErrors/page/692/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/CommonErrors/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/CommonErrors/page/691/">691</a><a class="page-number" href="/categories/CommonErrors/page/692/">692</a><span class="page-number current">693</span><a class="page-number" href="/categories/CommonErrors/page/694/">694</a><a class="page-number" href="/categories/CommonErrors/page/695/">695</a><span class="space">&hellip;</span><a class="page-number" href="/categories/CommonErrors/page/851/">851</a><a class="extend next" rel="next" href="/categories/CommonErrors/page/694/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

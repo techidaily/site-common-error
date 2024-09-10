@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"common-error.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8065</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8507</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-09'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-15'>
                 
                     
-                        <a href="/troubleshooting-guide-solving-logitech-mouse-scroll-wheel-issues/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Troubleshooting Guide: Solving Logitech Mouse Scroll Wheel Issues</span>
+                        <a href="/comprehensive-fixes-for-hp-deskjet-d1nker-printing-software-compatibility-with-windows-7-10/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Comprehensive Fixes for HP Deskjet D1nker Printing Software Compatibility with Windows 7-10</span>
                         </a>
                     
               
                 
                     
-                        <a href="/solving-the-mystery-a-step-by-step-guide-to-overcoming-twitch-error-4nk/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Solving the Mystery: A Step-by-Step Guide to Overcoming Twitch Error 4Nk</span>
+                        <a href="/resolving-setbacks-with-the-windows-10-april-2020-update-version-1903-insights/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Resolving Setbacks with the Windows 10 April 2020 Update: Version 1903 Insights</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-eliminate-latency-in-fallout-4-proven-techniques-for-faster-gameplay/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Eliminate Latency in Fallout 4 - Proven Techniques for Faster Gameplay</span>
+                        <a href="/execution-barred/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Execution Barred</span>
                         </a>
                     
               
                 
                     
-                        <a href="/dll-resolution-core-library-loader-not-found/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">DLL Resolution: Core Library Loader Not Found</span>
+                        <a href="/mastering-the-art-of-troubleshooting-seamless-bluetooth-pairings-with-your-windows-10/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Mastering the Art of Troubleshooting: Seamless Bluetooth Pairings with Your Windows 10</span>
                         </a>
                     
               
                 
                     
-                        <a href="/solution-found-troubleshooting-failed-directx-hardware-initialization-processes/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Solution Found: Troubleshooting Failed DirectX Hardware Initialization Processes</span>
+                        <a href="/fix-a-non-responsive-huion-pen-in-minutes-with-these-5-techniques/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Fix a Non-Responsive Huion Pen in Minutes with These 5 Techniques</span>
                         </a>
                     
               
                 
                     
-                        <a href="/bypass-error-0x887a0006-easily-with-these-quick-fixes-resolved-tutorial/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Bypass Error 0X887A0006 Easily with These Quick Fixes! | Resolved Tutorial</span>
+                        <a href="/stop-worrying-about-your-huion-device-discover-these-5-quick-pen-repair-tips/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Stop Worrying About Your Huion Device; Discover These 5 Quick Pen Repair Tips!</span>
                         </a>
                     
               
                 
                     
-                        <a href="/troubleshooting-steps-to-resolve-world-of-warcraft-slowdowns/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Troubleshooting Steps to Resolve World of Warcraft Slowdowns</span>
+                        <a href="/troubleshooting-steps-for-non-supported-display-reaction-times-on-your-device/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Troubleshooting Steps for Non-Supported Display Reaction Times on Your Device</span>
                         </a>
                     
               
                 
                     
-                        <a href="/troubleshooting-high-cpu-load-from-windows-audio-service/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Troubleshooting High CPU Load From Windows Audio Service</span>
+                        <a href="/overcoming-voice-chat-hurdles-in-overwatch-simple-solutions-inside/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Overcoming Voice Chat Hurdles in Overwatch - Simple Solutions Inside</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-restore-functionality-for-an-unresponsive-google-chrome-browser/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Restore Functionality for an Unresponsive Google Chrome Browser</span>
+                        <a href="/ultimate-repair-guide-getting-your-xbox-one-controller-xp-back-online/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Ultimate Repair Guide: Getting Your Xbox One Controller (XP) Back Online</span>
                         </a>
                     
               
                 
                     
-                        <a href="/step-by-step-solutions-to-fix-destiny-2-when-it-gets-stuck-during-startup/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Solutions to Fix Destiny 2 When It Gets Stuck During Startup</span>
+                        <a href="/silent-blackout-visual-quirk/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Silent Blackout: Visual Quirk</span>
                         </a>
                     
               
@@ -709,7 +766,7 @@
 </div>
 <div class="category-paginator">
     <div class="paginator">
-    <a class="extend prev" rel="prev" href="/categories/CommonErrors/page/480/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/CommonErrors/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/CommonErrors/page/479/">479</a><a class="page-number" href="/categories/CommonErrors/page/480/">480</a><span class="page-number current">481</span><a class="page-number" href="/categories/CommonErrors/page/482/">482</a><a class="page-number" href="/categories/CommonErrors/page/483/">483</a><span class="space">&hellip;</span><a class="page-number" href="/categories/CommonErrors/page/807/">807</a><a class="extend next" rel="next" href="/categories/CommonErrors/page/482/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/categories/CommonErrors/page/480/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/CommonErrors/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/CommonErrors/page/479/">479</a><a class="page-number" href="/categories/CommonErrors/page/480/">480</a><span class="page-number current">481</span><a class="page-number" href="/categories/CommonErrors/page/482/">482</a><a class="page-number" href="/categories/CommonErrors/page/483/">483</a><span class="space">&hellip;</span><a class="page-number" href="/categories/CommonErrors/page/851/">851</a><a class="extend next" rel="next" href="/categories/CommonErrors/page/482/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

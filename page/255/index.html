@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"common-error.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8065</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8507</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -652,7 +709,7 @@
                 <div class="author flex flex-col justify-center my-2.5 mx-0">
     <div class="name">Ronald</div>
     
-        <div class="label">Lv11</div>
+        <div class="label">Lv12</div>
     
 </div>
                 <div class="statistics flex justify-around my-2.5">
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8065</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8507</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1723210596431-dells-usb-port-problem-discover-proven-strategies-to-get-it-working-again/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbce95a2d263cbd7e4a2de27ba.jpg" alt="Dell&#39;s USB Port Problem? Discover Proven Strategies to Get It Working Again!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/solution-how-to-fix-your-pc-when-it-gets-stuck-during-the-boot-process/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5f054d3dfd45c1532d156f3720d0c9546d3d3042842f99d6ad1737f5e8cdf8a9.jpg" alt="Solution: How to Fix Your PC When It Gets Stuck During the Boot Process" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1723210596431-dells-usb-port-problem-discover-proven-strategies-to-get-it-working-again/">
-                            Dell&#39;s USB Port Problem? Discover Proven Strategies to Get It Working Again!
+                        <a href="/solution-how-to-fix-your-pc-when-it-gets-stuck-during-the-boot-process/">
+                            Solution: How to Fix Your PC When It Gets Stuck During the Boot Process
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Dell’s USB Port Problem? Discover Proven Strategies to Get It Working Again!</p>
+                            <p>This Article Describes Solution: How to Fix Your PC When It Gets Stuck During the Boot Process</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 13:33:43 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 27 2024 13:47:47 GMT+0800">
                 
                     2024-08-27
                 
@@ -763,7 +820,7 @@
         
     </div>
 
-    <a href="/1723210596431-dells-usb-port-problem-discover-proven-strategies-to-get-it-working-again/">Read more<span class="seo-reader-text">Dell&#39;s USB Port Problem? Discover Proven Strategies to Get It Working Again!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/solution-how-to-fix-your-pc-when-it-gets-stuck-during-the-boot-process/">Read more<span class="seo-reader-text">Solution: How to Fix Your PC When It Gets Stuck During the Boot Process</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,21 +836,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/overcoming-cache-miss-errors-errcachemiss-in-google-chrome-easily/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ad227a8d5363831d078e6323942af2a72809395f7bf85c351306cae77a65bd05.jpg" alt="Overcoming Cache Miss Errors (ERR_CACHE_MISS) in Google Chrome Easily" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/apex-legends-resolving-the-simple-cheating-detector-glitch/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/3e80e86fdb89e0d01e5a25ed6bf14d403b0478903fdc0c6822654e31324aff29.jpg" alt="Apex Legends - Resolving the Simple Cheating Detector Glitch" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/overcoming-cache-miss-errors-errcachemiss-in-google-chrome-easily/">
-                            Overcoming Cache Miss Errors (ERR_CACHE_MISS) in Google Chrome Easily
+                        <a href="/apex-legends-resolving-the-simple-cheating-detector-glitch/">
+                            Apex Legends - Resolving the Simple Cheating Detector Glitch
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Overcoming Cache Miss Errors (ERR_CACHE_MISS) in Google Chrome Easily</p>
+                            <p>This Article Describes Apex Legends - Resolving the Simple Cheating Detector Glitch</p>
 
                         
                     </div>
@@ -801,7 +858,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 13:33:42 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 27 2024 13:47:46 GMT+0800">
                 
                     2024-08-27
                 
@@ -849,7 +906,7 @@
         
     </div>
 
-    <a href="/overcoming-cache-miss-errors-errcachemiss-in-google-chrome-easily/">Read more<span class="seo-reader-text">Overcoming Cache Miss Errors (ERR_CACHE_MISS) in Google Chrome Easily</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/apex-legends-resolving-the-simple-cheating-detector-glitch/">Read more<span class="seo-reader-text">Apex Legends - Resolving the Simple Cheating Detector Glitch</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,21 +922,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/overcoming-issues-with-broken-function-keys-on-your-asus-portable-computer/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3bcdc30700e11e0dc89d352ba121db6f054908533edda16b2785562f97192408.jpg" alt="Overcoming Issues with Broken Function Keys on Your ASUS Portable Computer" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/resolving-failed-secure-connection-errors-in-mozilla-firefox/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/84a67b265f596974e97bfdda7a90a26dbf8d262c88616db568ebfae06dbc4deb.jpg" alt="Resolving &#39;Failed Secure Connection&#39; Errors in Mozilla Firefox" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/overcoming-issues-with-broken-function-keys-on-your-asus-portable-computer/">
-                            Overcoming Issues with Broken Function Keys on Your ASUS Portable Computer
+                        <a href="/resolving-failed-secure-connection-errors-in-mozilla-firefox/">
+                            Resolving &#39;Failed Secure Connection&#39; Errors in Mozilla Firefox
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Overcoming Issues with Broken Function Keys on Your ASUS Portable Computer</p>
+                            <p>This Article Describes Resolving ‘Failed Secure Connection’ Errors in Mozilla Firefox</p>
 
                         
                     </div>
@@ -887,7 +944,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 13:33:40 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 27 2024 13:47:44 GMT+0800">
                 
                     2024-08-27
                 
@@ -935,7 +992,7 @@
         
     </div>
 
-    <a href="/overcoming-issues-with-broken-function-keys-on-your-asus-portable-computer/">Read more<span class="seo-reader-text">Overcoming Issues with Broken Function Keys on Your ASUS Portable Computer</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/resolving-failed-secure-connection-errors-in-mozilla-firefox/">Read more<span class="seo-reader-text">Resolving &#39;Failed Secure Connection&#39; Errors in Mozilla Firefox</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,21 +1008,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solving-the-problem-of-a-nonfunctional-hp-laptop-camera-in-windows-11-tips-and-solutions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/80dbe73edcb9caed2b21ead0e410557adcd12285542419110d9449a4ec8ee940.jpg" alt="Solving the Problem of a Nonfunctional HP Laptop Camera in Windows 11 – Tips and Solutions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-silent-pc-fixing-installed-audio-device-errors-on-windows-11/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a4cc32918e39c53ac0181d3e14c0cb7c5573f6c68460130a6a8de8214128380d.jpg" alt="Troubleshooting Silent PC: Fixing Installed Audio Device Errors on Windows 11" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solving-the-problem-of-a-nonfunctional-hp-laptop-camera-in-windows-11-tips-and-solutions/">
-                            Solving the Problem of a Nonfunctional HP Laptop Camera in Windows 11 – Tips and Solutions
+                        <a href="/troubleshooting-silent-pc-fixing-installed-audio-device-errors-on-windows-11/">
+                            Troubleshooting Silent PC: Fixing Installed Audio Device Errors on Windows 11
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solving the Problem of a Nonfunctional HP Laptop Camera in Windows 11 – Tips and Solutions</p>
+                            <p>This Article Describes Troubleshooting Silent PC: Fixing Installed Audio Device Errors on Windows 11</p>
 
                         
                     </div>
@@ -973,7 +1030,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 13:33:39 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 27 2024 13:47:43 GMT+0800">
                 
                     2024-08-27
                 
@@ -1021,7 +1078,7 @@
         
     </div>
 
-    <a href="/solving-the-problem-of-a-nonfunctional-hp-laptop-camera-in-windows-11-tips-and-solutions/">Read more<span class="seo-reader-text">Solving the Problem of a Nonfunctional HP Laptop Camera in Windows 11 – Tips and Solutions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-silent-pc-fixing-installed-audio-device-errors-on-windows-11/">Read more<span class="seo-reader-text">Troubleshooting Silent PC: Fixing Installed Audio Device Errors on Windows 11</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,21 +1094,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-resolve-not-charging-problem-for-connected-gadgets-on-your-windows-computer-versions-7-10/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6b47eda0442887da93806c3f.jpg" alt="How to Resolve Not Charging Problem for Connected Gadgets on Your Windows Computer (Versions 7, 10)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/deciphering-and-solving-non-writable-errors-to-specified-0x-memory-locations-in-systems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/44b00e7ceffa68921ecf622a184f48a9d902f80a57b12969c744bb786188a75e.png" alt="Deciphering and Solving Non-Writable Errors to Specified 0X Memory Locations in Systems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-resolve-not-charging-problem-for-connected-gadgets-on-your-windows-computer-versions-7-10/">
-                            How to Resolve Not Charging Problem for Connected Gadgets on Your Windows Computer (Versions 7, 10)
+                        <a href="/deciphering-and-solving-non-writable-errors-to-specified-0x-memory-locations-in-systems/">
+                            Deciphering and Solving Non-Writable Errors to Specified 0X Memory Locations in Systems
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How to Resolve Not Charging Problem for Connected Gadgets on Your Windows Computer (Versions 7, 10)</p>
+                            <p>This Article Describes Deciphering and Solving Non-Writable Errors to Specified 0X Memory Locations in Systems</p>
 
                         
                     </div>
@@ -1059,7 +1116,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 13:33:38 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 27 2024 13:47:42 GMT+0800">
                 
                     2024-08-27
                 
@@ -1107,7 +1164,7 @@
         
     </div>
 
-    <a href="/how-to-resolve-not-charging-problem-for-connected-gadgets-on-your-windows-computer-versions-7-10/">Read more<span class="seo-reader-text">How to Resolve Not Charging Problem for Connected Gadgets on Your Windows Computer (Versions 7, 10)</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/deciphering-and-solving-non-writable-errors-to-specified-0x-memory-locations-in-systems/">Read more<span class="seo-reader-text">Deciphering and Solving Non-Writable Errors to Specified 0X Memory Locations in Systems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,21 +1180,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/banish-the-shadows-expert-tips-to-restore-your-game-after-monster-hunter-worlds-startup-screens-are-swallowed-by-darkness/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3f22ae9e837b10e05053cf12480b5c15e8d166c20b49b11db4fda3e3ee1b2757.jpg" alt="Banish the Shadows: Expert Tips to Restore Your Game After Monster Hunter: World&#39;s Startup Screens Are Swallowed by Darkness" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/simple-tricks-to-prevent-your-computer-from-going-to-sleep-unexpectedly/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f80591ecadf09ffda8a120cc.jpg" alt="Simple Tricks to Prevent Your Computer From Going To Sleep Unexpectedly" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/banish-the-shadows-expert-tips-to-restore-your-game-after-monster-hunter-worlds-startup-screens-are-swallowed-by-darkness/">
-                            Banish the Shadows: Expert Tips to Restore Your Game After Monster Hunter: World&#39;s Startup Screens Are Swallowed by Darkness
+                        <a href="/simple-tricks-to-prevent-your-computer-from-going-to-sleep-unexpectedly/">
+                            Simple Tricks to Prevent Your Computer From Going To Sleep Unexpectedly
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Banish the Shadows: Expert Tips to Restore Your Game After Monster Hunter: World’s Startup Screens Are Swallowed by Darkness</p>
+                            <p>This Article Describes Simple Tricks to Prevent Your Computer From Going To Sleep Unexpectedly</p>
 
                         
                     </div>
@@ -1145,7 +1202,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 13:33:37 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 27 2024 13:47:41 GMT+0800">
                 
                     2024-08-27
                 
@@ -1193,7 +1250,7 @@
         
     </div>
 
-    <a href="/banish-the-shadows-expert-tips-to-restore-your-game-after-monster-hunter-worlds-startup-screens-are-swallowed-by-darkness/">Read more<span class="seo-reader-text">Banish the Shadows: Expert Tips to Restore Your Game After Monster Hunter: World&#39;s Startup Screens Are Swallowed by Darkness</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/simple-tricks-to-prevent-your-computer-from-going-to-sleep-unexpectedly/">Read more<span class="seo-reader-text">Simple Tricks to Prevent Your Computer From Going To Sleep Unexpectedly</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,21 +1266,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-fix-nier-automata-crashes-in-pc-game-detailed-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8800b9d23bc87e05ba1bcbcb7871dcd72ced90a72c9734029cc19974bbea9ac3.jpg" alt="How to Fix Nier: Automata Crashes in PC Game – Detailed Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-solutions-when-you-encounter-internet-explorer-has-stopped-working/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/1a5a77b6bb8382f9ae076aba5fd29ec526a7185503287d136a96a308fa63833f.jpg" alt="Step-by-Step Solutions When You Encounter &#39;Internet Explorer Has Stopped Working&#39;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-fix-nier-automata-crashes-in-pc-game-detailed-guide/">
-                            How to Fix Nier: Automata Crashes in PC Game – Detailed Guide
+                        <a href="/step-by-step-solutions-when-you-encounter-internet-explorer-has-stopped-working/">
+                            Step-by-Step Solutions When You Encounter &#39;Internet Explorer Has Stopped Working&#39;
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How to Fix Nier: Automata Crashes in PC Game – Detailed Guide</p>
+                            <p>This Article Describes Step-by-Step Solutions When You Encounter ‘Internet Explorer Has Stopped Working’</p>
 
                         
                     </div>
@@ -1231,7 +1288,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 13:33:36 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 27 2024 13:47:40 GMT+0800">
                 
                     2024-08-27
                 
@@ -1279,7 +1336,7 @@
         
     </div>
 
-    <a href="/how-to-fix-nier-automata-crashes-in-pc-game-detailed-guide/">Read more<span class="seo-reader-text">How to Fix Nier: Automata Crashes in PC Game – Detailed Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-solutions-when-you-encounter-internet-explorer-has-stopped-working/">Read more<span class="seo-reader-text">Step-by-Step Solutions When You Encounter &#39;Internet Explorer Has Stopped Working&#39;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,21 +1352,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/diagnosing-and-repairing-the-remote-procedure-call-failed-message-on-windows-systems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/734ba7f5cb5c21a47d1f0b28c0f28b69fa0ec96215f4c2ee497557b9ec2807d6.jpg" alt="Diagnosing and Repairing the &#39;Remote Procedure Call Failed&#39; Message on Windows Systems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/solved-fn-keys-on-my-asus-laptop-not-working/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd85f95b1f8c43ff4375091ae.jpg" alt="[Solved] Fn Keys on My ASUS Laptop Not Working" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/diagnosing-and-repairing-the-remote-procedure-call-failed-message-on-windows-systems/">
-                            Diagnosing and Repairing the &#39;Remote Procedure Call Failed&#39; Message on Windows Systems
+                        <a href="/solved-fn-keys-on-my-asus-laptop-not-working/">
+                            [Solved] Fn Keys on My ASUS Laptop Not Working
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Diagnosing and Repairing the ‘Remote Procedure Call Failed’ Message on Windows Systems</p>
+                            <p>This Article Describes [Solved] Fn Keys on My ASUS Laptop Not Working</p>
 
                         
                     </div>
@@ -1317,7 +1374,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 13:33:35 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 27 2024 13:47:38 GMT+0800">
                 
                     2024-08-27
                 
@@ -1365,7 +1422,7 @@
         
     </div>
 
-    <a href="/diagnosing-and-repairing-the-remote-procedure-call-failed-message-on-windows-systems/">Read more<span class="seo-reader-text">Diagnosing and Repairing the &#39;Remote Procedure Call Failed&#39; Message on Windows Systems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/solved-fn-keys-on-my-asus-laptop-not-working/">Read more<span class="seo-reader-text">[Solved] Fn Keys on My ASUS Laptop Not Working</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,21 +1438,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solving-lenovo-mousepad-issues-on-windows-11-8-and-7-a-comprehensive-fix-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b2d930dc9f54bd4e0c530d86c2a348d9ac40f0a9ccacade9f15d83732ceb2db8.jpg" alt="Solving Lenovo Mousepad Issues on Windows 11, 8 &amp; 7: A Comprehensive Fix Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-fixes-for-overcoming-opengl-glitches-in-minecraft/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/894f058d97b0ae58b0d33f76cb56fbf958c597ef2e3803e9c39a34ad0c70622d.jpg" alt="Step-by-Step Fixes for Overcoming OpenGL Glitches in Minecraft" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solving-lenovo-mousepad-issues-on-windows-11-8-and-7-a-comprehensive-fix-guide/">
-                            Solving Lenovo Mousepad Issues on Windows 11, 8 &amp; 7: A Comprehensive Fix Guide
+                        <a href="/step-by-step-fixes-for-overcoming-opengl-glitches-in-minecraft/">
+                            Step-by-Step Fixes for Overcoming OpenGL Glitches in Minecraft
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solving Lenovo Mousepad Issues on Windows 11, 8 &amp; 7: A Comprehensive Fix Guide</p>
+                            <p>This Article Describes Step-by-Step Fixes for Overcoming OpenGL Glitches in Minecraft</p>
 
                         
                     </div>
@@ -1403,7 +1460,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 13:33:34 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 27 2024 13:47:37 GMT+0800">
                 
                     2024-08-27
                 
@@ -1451,7 +1508,7 @@
         
     </div>
 
-    <a href="/solving-lenovo-mousepad-issues-on-windows-11-8-and-7-a-comprehensive-fix-guide/">Read more<span class="seo-reader-text">Solving Lenovo Mousepad Issues on Windows 11, 8 &amp; 7: A Comprehensive Fix Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-fixes-for-overcoming-opengl-glitches-in-minecraft/">Read more<span class="seo-reader-text">Step-by-Step Fixes for Overcoming OpenGL Glitches in Minecraft</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,21 +1524,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solved-pubg-fixing-missing-building-assets-issue/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db6e3204484fdd608537b1478.png" alt="Solved: PUBG - Fixing Missing Building Assets Issue" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1723207757346-troubleshoot-and-solve-call-of-duty-world-war-iis-persistent-error-code-angs-12320/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19ac7a8b8eb3ad2286e02cfeb.jpg" alt="Troubleshoot and Solve Call of Duty: World War II&#39;s Persistent Error Code Angs 12320" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solved-pubg-fixing-missing-building-assets-issue/">
-                            Solved: PUBG - Fixing Missing Building Assets Issue
+                        <a href="/1723207757346-troubleshoot-and-solve-call-of-duty-world-war-iis-persistent-error-code-angs-12320/">
+                            Troubleshoot and Solve Call of Duty: World War II&#39;s Persistent Error Code Angs 12320
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solved: PUBG - Fixing Missing Building Assets Issue</p>
+                            <p>This Article Describes Troubleshoot and Solve Call of Duty: World War II’s Persistent Error Code Angs 12320</p>
 
                         
                     </div>
@@ -1489,7 +1546,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 13:33:32 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 27 2024 13:47:36 GMT+0800">
                 
                     2024-08-27
                 
@@ -1537,7 +1594,7 @@
         
     </div>
 
-    <a href="/solved-pubg-fixing-missing-building-assets-issue/">Read more<span class="seo-reader-text">Solved: PUBG - Fixing Missing Building Assets Issue</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1723207757346-troubleshoot-and-solve-call-of-duty-world-war-iis-persistent-error-code-angs-12320/">Read more<span class="seo-reader-text">Troubleshoot and Solve Call of Duty: World War II&#39;s Persistent Error Code Angs 12320</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1604,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/254/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/253/">253</a><a class="page-number" href="/page/254/">254</a><span class="page-number current">255</span><a class="page-number" href="/page/256/">256</a><a class="page-number" href="/page/257/">257</a><span class="space">&hellip;</span><a class="page-number" href="/page/807/">807</a><a class="extend next" rel="next" href="/page/256/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/254/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/253/">253</a><a class="page-number" href="/page/254/">254</a><span class="page-number current">255</span><a class="page-number" href="/page/256/">256</a><a class="page-number" href="/page/257/">257</a><span class="space">&hellip;</span><a class="page-number" href="/page/851/">851</a><a class="extend next" rel="next" href="/page/256/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

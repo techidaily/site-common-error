@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"common-error.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8065</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8507</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -652,7 +709,7 @@
                 <div class="author flex flex-col justify-center my-2.5 mx-0">
     <div class="name">Ronald</div>
     
-        <div class="label">Lv11</div>
+        <div class="label">Lv12</div>
     
 </div>
                 <div class="statistics flex justify-around my-2.5">
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8065</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8507</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fixing-the-issue-windows-1011-night-light-feature-wont-start/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/1a08c8dedd48664d90b507bda304483e40c9a1d2dac0696255a8394fc453f16e.jpg" alt="Fixing the Issue: Windows 10/11 Night Light Feature Won&#39;t Start" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1723208694618-silent-in-the-realm-of-sd-cards-loudly-respond/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb6000047d745afbd7491bdcb.jpg" alt="Silent in the Realm of SD Cards? Loudly Respond" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fixing-the-issue-windows-1011-night-light-feature-wont-start/">
-                            Fixing the Issue: Windows 10/11 Night Light Feature Won&#39;t Start
+                        <a href="/1723208694618-silent-in-the-realm-of-sd-cards-loudly-respond/">
+                            Silent in the Realm of SD Cards? Loudly Respond
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fixing the Issue: Windows 10&#x2F;11 Night Light Feature Won’t Start</p>
+                            <p>This Article Describes Silent in the Realm of SD Cards? Loudly Respond</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 22 2024 19:14:06 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 22 2024 19:27:24 GMT+0800">
                 
                     2024-08-22
                 
@@ -763,7 +820,7 @@
         
     </div>
 
-    <a href="/fixing-the-issue-windows-1011-night-light-feature-wont-start/">Read more<span class="seo-reader-text">Fixing the Issue: Windows 10/11 Night Light Feature Won&#39;t Start</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1723208694618-silent-in-the-realm-of-sd-cards-loudly-respond/">Read more<span class="seo-reader-text">Silent in the Realm of SD Cards? Loudly Respond</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,21 +836,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solving-the-ce-34878-0-hacking-glitch-on-your-sony-ps4-console-complete-walkthrough/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c9308c3a6e3bd3b331c76fa1b44152ac54aefa6a4b58484c2ecd065884a25aa3.jpg" alt="Solving the CE-34878-0 Hacking Glitch on Your Sony PS4 Console - Complete Walkthrough" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-overcome-dx11-level-100-complication-in-your-wwe-n-battlegrounds-gameplay/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd58483ee49e8397ad83cab217.jpg" alt="How to Overcome DX11 Level 10.0 Complication in Your WWE N&#39; Battlegrounds Gameplay" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solving-the-ce-34878-0-hacking-glitch-on-your-sony-ps4-console-complete-walkthrough/">
-                            Solving the CE-34878-0 Hacking Glitch on Your Sony PS4 Console - Complete Walkthrough
+                        <a href="/how-to-overcome-dx11-level-100-complication-in-your-wwe-n-battlegrounds-gameplay/">
+                            How to Overcome DX11 Level 10.0 Complication in Your WWE N&#39; Battlegrounds Gameplay
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solving the CE-34878-0 Hacking Glitch on Your Sony PS4 Console - Complete Walkthrough</p>
+                            <p>This Article Describes How to Overcome DX11 Level 10.0 Complication in Your WWE N’ Battlegrounds Gameplay</p>
 
                         
                     </div>
@@ -801,7 +858,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 22 2024 19:14:05 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 22 2024 19:27:22 GMT+0800">
                 
                     2024-08-22
                 
@@ -849,7 +906,7 @@
         
     </div>
 
-    <a href="/solving-the-ce-34878-0-hacking-glitch-on-your-sony-ps4-console-complete-walkthrough/">Read more<span class="seo-reader-text">Solving the CE-34878-0 Hacking Glitch on Your Sony PS4 Console - Complete Walkthrough</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-overcome-dx11-level-100-complication-in-your-wwe-n-battlegrounds-gameplay/">Read more<span class="seo-reader-text">How to Overcome DX11 Level 10.0 Complication in Your WWE N&#39; Battlegrounds Gameplay</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,21 +922,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/comprehensive-solutions-to-cure-google-chromes-persistent-black-display-problem/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/1a71493edba37cb030611c5a8b9738f6d63a9069f2561431aa2bb888dda851d0.jpg" alt="Comprehensive Solutions to Cure Google Chrome&#39;s Persistent Black Display Problem" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/resolved-how-to-reduce-msmpengs-excessive-cpu-consumption-on-pc-windows-10/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb75637faff2a09a30c684309.jpg" alt="Resolved: How to Reduce MsMpEng&#39;s Excessive CPU Consumption on PC [Windows 10]" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/comprehensive-solutions-to-cure-google-chromes-persistent-black-display-problem/">
-                            Comprehensive Solutions to Cure Google Chrome&#39;s Persistent Black Display Problem
+                        <a href="/resolved-how-to-reduce-msmpengs-excessive-cpu-consumption-on-pc-windows-10/">
+                            Resolved: How to Reduce MsMpEng&#39;s Excessive CPU Consumption on PC [Windows 10]
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Comprehensive Solutions to Cure Google Chrome’s Persistent Black Display Problem</p>
+                            <p>This Article Describes Resolved: How to Reduce MsMpEng’s Excessive CPU Consumption on PC [Windows 10]</p>
 
                         
                     </div>
@@ -887,7 +944,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 22 2024 19:14:04 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 22 2024 19:27:21 GMT+0800">
                 
                     2024-08-22
                 
@@ -935,7 +992,7 @@
         
     </div>
 
-    <a href="/comprehensive-solutions-to-cure-google-chromes-persistent-black-display-problem/">Read more<span class="seo-reader-text">Comprehensive Solutions to Cure Google Chrome&#39;s Persistent Black Display Problem</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/resolved-how-to-reduce-msmpengs-excessive-cpu-consumption-on-pc-windows-10/">Read more<span class="seo-reader-text">Resolved: How to Reduce MsMpEng&#39;s Excessive CPU Consumption on PC [Windows 10]</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,21 +1008,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fixing-windows-device-driver-power-failures-a-comprehensive-walkthrough/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/98776572354897cc2b9eb92b9469126b6b1576e9ed20c23d2405392dbcb37fbd.jpg" alt="Fixing Windows Device Driver Power Failures - A Comprehensive Walkthrough" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1723207162018-pdf-wont-print-try-these-simple-and-effective-tricks-immediately/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f6b900a7e2a78e7ffb6b0f28d526eebcba1c857a70cbdea2eddb16d9a4a9539b.png" alt="PDF Won&#39;t Print? Try These Simple and Effective Tricks Immediately." class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fixing-windows-device-driver-power-failures-a-comprehensive-walkthrough/">
-                            Fixing Windows Device Driver Power Failures - A Comprehensive Walkthrough
+                        <a href="/1723207162018-pdf-wont-print-try-these-simple-and-effective-tricks-immediately/">
+                            PDF Won&#39;t Print? Try These Simple and Effective Tricks Immediately.
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fixing Windows Device Driver Power Failures - A Comprehensive Walkthrough</p>
+                            <p>This Article Describes PDF Won’t Print? Try These Simple and Effective Tricks Immediately.</p>
 
                         
                     </div>
@@ -973,7 +1030,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 22 2024 19:14:03 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 22 2024 19:27:20 GMT+0800">
                 
                     2024-08-22
                 
@@ -1021,7 +1078,7 @@
         
     </div>
 
-    <a href="/fixing-windows-device-driver-power-failures-a-comprehensive-walkthrough/">Read more<span class="seo-reader-text">Fixing Windows Device Driver Power Failures - A Comprehensive Walkthrough</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1723207162018-pdf-wont-print-try-these-simple-and-effective-tricks-immediately/">Read more<span class="seo-reader-text">PDF Won&#39;t Print? Try These Simple and Effective Tricks Immediately.</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,21 +1094,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshoot-steam-disk-readwrite-errors-with-these-easy-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b733704c87b6bafd0385f7132f.jpg" alt="Troubleshoot Steam Disk Read/Write Errors with These Easy Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/starcraft-ii-graphics-troubleshooting-issue-no-longer-present-after-update/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f02287ca2d451303bdd76b5dd20.jpg" alt="StarCraft II Graphics Troubleshooting: Issue No Longer Present After Update" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshoot-steam-disk-readwrite-errors-with-these-easy-tips/">
-                            Troubleshoot Steam Disk Read/Write Errors with These Easy Tips
+                        <a href="/starcraft-ii-graphics-troubleshooting-issue-no-longer-present-after-update/">
+                            StarCraft II Graphics Troubleshooting: Issue No Longer Present After Update
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshoot Steam Disk Read&#x2F;Write Errors with These Easy Tips</p>
+                            <p>This Article Describes StarCraft II Graphics Troubleshooting: Issue No Longer Present After Update</p>
 
                         
                     </div>
@@ -1059,7 +1116,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 22 2024 19:14:03 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 22 2024 19:27:19 GMT+0800">
                 
                     2024-08-22
                 
@@ -1107,7 +1164,7 @@
         
     </div>
 
-    <a href="/troubleshoot-steam-disk-readwrite-errors-with-these-easy-tips/">Read more<span class="seo-reader-text">Troubleshoot Steam Disk Read/Write Errors with These Easy Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/starcraft-ii-graphics-troubleshooting-issue-no-longer-present-after-update/">Read more<span class="seo-reader-text">StarCraft II Graphics Troubleshooting: Issue No Longer Present After Update</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,21 +1180,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solved-troubleshooting-and-repairing-stuck-file-explorer-on-windows-10/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f66f107a750ec12115071e0dc.jpg" alt="Solved! Troubleshooting and Repairing Stuck File Explorer on Windows 10" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fixing-the-issue-windows-11-brightness-settings-malfunction/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaece80212cfc98f386a6cd1281.jpg" alt="Fixing the Issue: Windows 11 Brightness Settings Malfunction" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solved-troubleshooting-and-repairing-stuck-file-explorer-on-windows-10/">
-                            Solved! Troubleshooting and Repairing Stuck File Explorer on Windows 10
+                        <a href="/fixing-the-issue-windows-11-brightness-settings-malfunction/">
+                            Fixing the Issue: Windows 11 Brightness Settings Malfunction
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solved! Troubleshooting and Repairing Stuck File Explorer on Windows 10</p>
+                            <p>This Article Describes Fixing the Issue: Windows 11 Brightness Settings Malfunction</p>
 
                         
                     </div>
@@ -1145,7 +1202,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 22 2024 19:14:02 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 22 2024 19:27:18 GMT+0800">
                 
                     2024-08-22
                 
@@ -1193,7 +1250,7 @@
         
     </div>
 
-    <a href="/solved-troubleshooting-and-repairing-stuck-file-explorer-on-windows-10/">Read more<span class="seo-reader-text">Solved! Troubleshooting and Repairing Stuck File Explorer on Windows 10</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fixing-the-issue-windows-11-brightness-settings-malfunction/">Read more<span class="seo-reader-text">Fixing the Issue: Windows 11 Brightness Settings Malfunction</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,21 +1266,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-wrap-error-fixing-windows-resource-protection-failed-issues/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112495eb0d057b6f746e88f4ee.jpg" alt="Troubleshooting WRAP Error: Fixing &#39;Windows Resource Protection Failed&#39; Issues" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-fix-common-wacom-tablet-connectivity-problems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af91f00d4dbb04a5e5e72a795.jpg" alt="How to Fix Common Wacom Tablet Connectivity Problems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-wrap-error-fixing-windows-resource-protection-failed-issues/">
-                            Troubleshooting WRAP Error: Fixing &#39;Windows Resource Protection Failed&#39; Issues
+                        <a href="/how-to-fix-common-wacom-tablet-connectivity-problems/">
+                            How to Fix Common Wacom Tablet Connectivity Problems
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting WRAP Error: Fixing ‘Windows Resource Protection Failed’ Issues</p>
+                            <p>This Article Describes How to Fix Common Wacom Tablet Connectivity Problems</p>
 
                         
                     </div>
@@ -1231,7 +1288,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 22 2024 19:14:00 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 22 2024 19:27:17 GMT+0800">
                 
                     2024-08-22
                 
@@ -1279,7 +1336,7 @@
         
     </div>
 
-    <a href="/troubleshooting-wrap-error-fixing-windows-resource-protection-failed-issues/">Read more<span class="seo-reader-text">Troubleshooting WRAP Error: Fixing &#39;Windows Resource Protection Failed&#39; Issues</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-fix-common-wacom-tablet-connectivity-problems/">Read more<span class="seo-reader-text">How to Fix Common Wacom Tablet Connectivity Problems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,21 +1352,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/resolve-file-explorer-freezing-issue-on-windows-10-a-complete-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/72bac3551a829f100e80929327a859a230ef81a06fa60256119f57f4b98caf7a.jpg" alt="Resolve File Explorer Freezing Issue on Windows 10: A Complete Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/addressing-freezing-during-windows-11-updates-best-fixes-and-techniques/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a50d24fd1a27318344d95b256.jpg" alt="Addressing Freezing During Windows 11 Updates: Best Fixes &amp; Techniques" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/resolve-file-explorer-freezing-issue-on-windows-10-a-complete-guide/">
-                            Resolve File Explorer Freezing Issue on Windows 10: A Complete Guide
+                        <a href="/addressing-freezing-during-windows-11-updates-best-fixes-and-techniques/">
+                            Addressing Freezing During Windows 11 Updates: Best Fixes &amp; Techniques
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Resolve File Explorer Freezing Issue on Windows 10: A Complete Guide</p>
+                            <p>This Article Describes Addressing Freezing During Windows 11 Updates: Best Fixes &amp; Techniques</p>
 
                         
                     </div>
@@ -1317,7 +1374,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 22 2024 19:13:59 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 22 2024 19:27:15 GMT+0800">
                 
                     2024-08-22
                 
@@ -1365,7 +1422,7 @@
         
     </div>
 
-    <a href="/resolve-file-explorer-freezing-issue-on-windows-10-a-complete-guide/">Read more<span class="seo-reader-text">Resolve File Explorer Freezing Issue on Windows 10: A Complete Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/addressing-freezing-during-windows-11-updates-best-fixes-and-techniques/">Read more<span class="seo-reader-text">Addressing Freezing During Windows 11 Updates: Best Fixes &amp; Techniques</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,21 +1438,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solving-lenovo-mouse-pad-issues-on-windows-10-8-and-7-a-complete-fix-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/2861a5dab13720b2493f18438249b45a68a3216a33822b3eddfa44a23282ff28.jpg" alt="Solving Lenovo Mouse Pad Issues on Windows 10, 8 &amp; 7: A Complete Fix Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/reviving-a-malfunctioning-huion-pen-5-swift-repair-strategies-for-artists/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb27504376cae815fa3cc71523fe648a.jpg" alt="Reviving A Malfunctioning Huion Pen: 5 Swift Repair Strategies for Artists" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solving-lenovo-mouse-pad-issues-on-windows-10-8-and-7-a-complete-fix-guide/">
-                            Solving Lenovo Mouse Pad Issues on Windows 10, 8 &amp; 7: A Complete Fix Guide
+                        <a href="/reviving-a-malfunctioning-huion-pen-5-swift-repair-strategies-for-artists/">
+                            Reviving A Malfunctioning Huion Pen: 5 Swift Repair Strategies for Artists
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solving Lenovo Mouse Pad Issues on Windows 10, 8 &amp; 7: A Complete Fix Guide</p>
+                            <p>This Article Describes Reviving A Malfunctioning Huion Pen: 5 Swift Repair Strategies for Artists</p>
 
                         
                     </div>
@@ -1403,7 +1460,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 22 2024 19:13:58 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 22 2024 19:27:14 GMT+0800">
                 
                     2024-08-22
                 
@@ -1451,7 +1508,7 @@
         
     </div>
 
-    <a href="/solving-lenovo-mouse-pad-issues-on-windows-10-8-and-7-a-complete-fix-guide/">Read more<span class="seo-reader-text">Solving Lenovo Mouse Pad Issues on Windows 10, 8 &amp; 7: A Complete Fix Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/reviving-a-malfunctioning-huion-pen-5-swift-repair-strategies-for-artists/">Read more<span class="seo-reader-text">Reviving A Malfunctioning Huion Pen: 5 Swift Repair Strategies for Artists</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,21 +1524,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/guide-to-diagnosing-and-repairing-problematic-video-card-drivers-that-cause-minecraft-crashes-in-windows-environments/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/29fde795ffee614c269b7a4e148b93d0201f16c6e463e2b9427b9aa8d21b5faf.jpg" alt="Guide to Diagnosing and Repairing Problematic Video Card Drivers that Cause Minecraft Crashes in Windows Environments" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/diagnosing-and-fixing-netflix-accessibility-is-it-a-service-interruption-or-something-else/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2f673e094959a8fdb4cdbd5b.jpg" alt="Diagnosing &amp; Fixing Netflix Accessibility: Is It a Service Interruption or Something Else?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/guide-to-diagnosing-and-repairing-problematic-video-card-drivers-that-cause-minecraft-crashes-in-windows-environments/">
-                            Guide to Diagnosing and Repairing Problematic Video Card Drivers that Cause Minecraft Crashes in Windows Environments
+                        <a href="/diagnosing-and-fixing-netflix-accessibility-is-it-a-service-interruption-or-something-else/">
+                            Diagnosing &amp; Fixing Netflix Accessibility: Is It a Service Interruption or Something Else?
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Guide to Diagnosing and Repairing Problematic Video Card Drivers that Cause Minecraft Crashes in Windows Environments</p>
+                            <p>This Article Describes Diagnosing &amp; Fixing Netflix Accessibility: Is It a Service Interruption or Something Else?</p>
 
                         
                     </div>
@@ -1489,7 +1546,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 22 2024 19:13:57 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 22 2024 19:27:13 GMT+0800">
                 
                     2024-08-22
                 
@@ -1537,7 +1594,7 @@
         
     </div>
 
-    <a href="/guide-to-diagnosing-and-repairing-problematic-video-card-drivers-that-cause-minecraft-crashes-in-windows-environments/">Read more<span class="seo-reader-text">Guide to Diagnosing and Repairing Problematic Video Card Drivers that Cause Minecraft Crashes in Windows Environments</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/diagnosing-and-fixing-netflix-accessibility-is-it-a-service-interruption-or-something-else/">Read more<span class="seo-reader-text">Diagnosing &amp; Fixing Netflix Accessibility: Is It a Service Interruption or Something Else?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1604,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/351/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/350/">350</a><a class="page-number" href="/page/351/">351</a><span class="page-number current">352</span><a class="page-number" href="/page/353/">353</a><a class="page-number" href="/page/354/">354</a><span class="space">&hellip;</span><a class="page-number" href="/page/807/">807</a><a class="extend next" rel="next" href="/page/353/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/351/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/350/">350</a><a class="page-number" href="/page/351/">351</a><span class="page-number current">352</span><a class="page-number" href="/page/353/">353</a><a class="page-number" href="/page/354/">354</a><span class="space">&hellip;</span><a class="page-number" href="/page/851/">851</a><a class="extend next" rel="next" href="/page/353/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

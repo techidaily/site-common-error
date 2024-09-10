@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"common-error.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8065</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8507</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -652,7 +709,7 @@
                 <div class="author flex flex-col justify-center my-2.5 mx-0">
     <div class="name">Ronald</div>
     
-        <div class="label">Lv11</div>
+        <div class="label">Lv12</div>
     
 </div>
                 <div class="statistics flex justify-around my-2.5">
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8065</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8507</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1723208083482-stuck-with-a-non-printable-pdf-heres-how-to-solve-it-fast/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e831040b4d1625093a313f8396691.JPG" alt="Stuck with a Non-Printable PDF? Here&#39;s How to Solve It Fast!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshoot-and-fix-ps4-nat-types-with-this-detailed-walkthrough/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a787c6d843bcaac6bb60600aaa2f37966d7c97dba0770c510351be73e79c7abb.jpg" alt="Troubleshoot and Fix PS4 NAT Types with This Detailed Walkthrough" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1723208083482-stuck-with-a-non-printable-pdf-heres-how-to-solve-it-fast/">
-                            Stuck with a Non-Printable PDF? Here&#39;s How to Solve It Fast!
+                        <a href="/troubleshoot-and-fix-ps4-nat-types-with-this-detailed-walkthrough/">
+                            Troubleshoot and Fix PS4 NAT Types with This Detailed Walkthrough
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Stuck with a Non-Printable PDF? Here’s How to Solve It Fast!</p>
+                            <p>This Article Describes Troubleshoot and Fix PS4 NAT Types with This Detailed Walkthrough</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 15 2024 10:59:19 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 11:12:05 GMT+0800">
                 
                     2024-08-15
                 
@@ -763,7 +820,7 @@
         
     </div>
 
-    <a href="/1723208083482-stuck-with-a-non-printable-pdf-heres-how-to-solve-it-fast/">Read more<span class="seo-reader-text">Stuck with a Non-Printable PDF? Here&#39;s How to Solve It Fast!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshoot-and-fix-ps4-nat-types-with-this-detailed-walkthrough/">Read more<span class="seo-reader-text">Troubleshoot and Fix PS4 NAT Types with This Detailed Walkthrough</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,21 +836,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-fix-driverpowerstatefailure-issue/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4baa291781cd47c73ffc42e1f.jpeg" alt="How to Fix DRIVER_POWER_STATE_FAILURE Issue" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-the-dxgkrnl-fatal-crash-during-video-streaming-on-windows/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/de937a72a9831deac2239784b95be37c37d8202476d267d4e1560ec58a9d1f7e.jpg" alt="Troubleshooting the Dxgkrnl Fatal Crash During Video Streaming on Windows" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-fix-driverpowerstatefailure-issue/">
-                            How to Fix DRIVER_POWER_STATE_FAILURE Issue
+                        <a href="/troubleshooting-the-dxgkrnl-fatal-crash-during-video-streaming-on-windows/">
+                            Troubleshooting the Dxgkrnl Fatal Crash During Video Streaming on Windows
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How to Fix DRIVER_POWER_STATE_FAILURE Issue</p>
+                            <p>This Article Describes Troubleshooting the Dxgkrnl Fatal Crash During Video Streaming on Windows</p>
 
                         
                     </div>
@@ -801,7 +858,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 15 2024 10:59:18 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 11:12:04 GMT+0800">
                 
                     2024-08-15
                 
@@ -849,7 +906,7 @@
         
     </div>
 
-    <a href="/how-to-fix-driverpowerstatefailure-issue/">Read more<span class="seo-reader-text">How to Fix DRIVER_POWER_STATE_FAILURE Issue</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-the-dxgkrnl-fatal-crash-during-video-streaming-on-windows/">Read more<span class="seo-reader-text">Troubleshooting the Dxgkrnl Fatal Crash During Video Streaming on Windows</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,21 +922,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/combat-automatic-sleep-mode-easy-remedies-for-stable-pc-performance/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f1f3b2af38f5058bc81f8e98.jpg" alt="Combat Automatic Sleep Mode – Easy Remedies for Stable PC Performance" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fixing-the-cannot-cast-to-device-issue-in-windows-10-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b0d297df5c97f5c875c0d9e40013c911e8c4f3b18d6fb59abc7ca17939ca2139.jpg" alt="Fixing the &#39;Cannot Cast to Device&#39; Issue in Windows 10 - Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/combat-automatic-sleep-mode-easy-remedies-for-stable-pc-performance/">
-                            Combat Automatic Sleep Mode – Easy Remedies for Stable PC Performance
+                        <a href="/fixing-the-cannot-cast-to-device-issue-in-windows-10-comprehensive-guide/">
+                            Fixing the &#39;Cannot Cast to Device&#39; Issue in Windows 10 - Comprehensive Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Combat Automatic Sleep Mode – Easy Remedies for Stable PC Performance</p>
+                            <p>This Article Describes Fixing the ‘Cannot Cast to Device’ Issue in Windows 10 - Comprehensive Guide</p>
 
                         
                     </div>
@@ -887,7 +944,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 15 2024 10:59:17 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 11:12:03 GMT+0800">
                 
                     2024-08-15
                 
@@ -935,7 +992,7 @@
         
     </div>
 
-    <a href="/combat-automatic-sleep-mode-easy-remedies-for-stable-pc-performance/">Read more<span class="seo-reader-text">Combat Automatic Sleep Mode – Easy Remedies for Stable PC Performance</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fixing-the-cannot-cast-to-device-issue-in-windows-10-comprehensive-guide/">Read more<span class="seo-reader-text">Fixing the &#39;Cannot Cast to Device&#39; Issue in Windows 10 - Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,21 +1008,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/elevate-your-windows-11-gaming-performance-essential-adjustments-and-tweaks/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8484759aac0f2217a1c47e166f9703590835bee6447866146f3b1628180769c5.jpg" alt="Elevate Your Windows 11 Gaming Performance – Essential Adjustments &amp; Tweaks" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/chrome-in-crisis-effective-ways-to-address-your-browsers-sudden-nightfall/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/77611f2e0e7b4b101c92af3b172df9c62d2c1071591d3411a278cc0334c16e37.jpg" alt="Chrome in Crisis: Effective Ways to Address Your Browser’s Sudden Nightfall" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/elevate-your-windows-11-gaming-performance-essential-adjustments-and-tweaks/">
-                            Elevate Your Windows 11 Gaming Performance – Essential Adjustments &amp; Tweaks
+                        <a href="/chrome-in-crisis-effective-ways-to-address-your-browsers-sudden-nightfall/">
+                            Chrome in Crisis: Effective Ways to Address Your Browser’s Sudden Nightfall
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Elevate Your Windows 11 Gaming Performance – Essential Adjustments &amp; Tweaks</p>
+                            <p>This Article Describes Chrome in Crisis: Effective Ways to Address Your Browser’s Sudden Nightfall</p>
 
                         
                     </div>
@@ -973,7 +1030,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 15 2024 10:59:16 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 11:12:02 GMT+0800">
                 
                     2024-08-15
                 
@@ -1021,7 +1078,7 @@
         
     </div>
 
-    <a href="/elevate-your-windows-11-gaming-performance-essential-adjustments-and-tweaks/">Read more<span class="seo-reader-text">Elevate Your Windows 11 Gaming Performance – Essential Adjustments &amp; Tweaks</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/chrome-in-crisis-effective-ways-to-address-your-browsers-sudden-nightfall/">Read more<span class="seo-reader-text">Chrome in Crisis: Effective Ways to Address Your Browser’s Sudden Nightfall</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,21 +1094,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-guide-overcoming-easy-steam-disk-write-errors/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/0ee1225be77fa4613effbd7e0a5133a0aefce994347fcea7074a0ffcc7271165.JPG" alt="Step-by-Step Guide: Overcoming Easy Steam Disk Write Errors" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/revive-your-hp-laptops-webcam-expert-fixes-compatible-with-windows-11-operating-system/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cece118b77c428c885565f6981.jpg" alt="Revive Your HP Laptop&#39;s Webcam: Expert Fixes Compatible with Windows 11 Operating System" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-guide-overcoming-easy-steam-disk-write-errors/">
-                            Step-by-Step Guide: Overcoming Easy Steam Disk Write Errors
+                        <a href="/revive-your-hp-laptops-webcam-expert-fixes-compatible-with-windows-11-operating-system/">
+                            Revive Your HP Laptop&#39;s Webcam: Expert Fixes Compatible with Windows 11 Operating System
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Guide: Overcoming Easy Steam Disk Write Errors</p>
+                            <p>This Article Describes Revive Your HP Laptop’s Webcam: Expert Fixes Compatible with Windows 11 Operating System</p>
 
                         
                     </div>
@@ -1059,7 +1116,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 15 2024 10:59:15 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 11:12:00 GMT+0800">
                 
                     2024-08-15
                 
@@ -1107,7 +1164,7 @@
         
     </div>
 
-    <a href="/step-by-step-guide-overcoming-easy-steam-disk-write-errors/">Read more<span class="seo-reader-text">Step-by-Step Guide: Overcoming Easy Steam Disk Write Errors</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/revive-your-hp-laptops-webcam-expert-fixes-compatible-with-windows-11-operating-system/">Read more<span class="seo-reader-text">Revive Your HP Laptop&#39;s Webcam: Expert Fixes Compatible with Windows 11 Operating System</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,21 +1180,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/rectify-unseen-windows-1011-window-2/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/04735b88e1441114a8925bb5e15d2369f293d2c3a93400105413a698d6a65c62.jpg" alt="Rectify Unseen Windows 10/11 Window" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-guide-correcting-your-pcs-failure-to-boot-successfully/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e9d8ea14624823ab42b920ae7e64bd0cdd0f223f034665de677791f435688b98.jpg" alt="Step-by-Step Guide: Correcting Your PC’s Failure to Boot Successfully" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/rectify-unseen-windows-1011-window-2/">
-                            Rectify Unseen Windows 10/11 Window
+                        <a href="/step-by-step-guide-correcting-your-pcs-failure-to-boot-successfully/">
+                            Step-by-Step Guide: Correcting Your PC’s Failure to Boot Successfully
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Rectify Unseen Windows 10&#x2F;11 Window</p>
+                            <p>This Article Describes Step-by-Step Guide: Correcting Your PC’s Failure to Boot Successfully</p>
 
                         
                     </div>
@@ -1145,7 +1202,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 15 2024 10:59:14 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 11:11:59 GMT+0800">
                 
                     2024-08-15
                 
@@ -1193,7 +1250,7 @@
         
     </div>
 
-    <a href="/rectify-unseen-windows-1011-window-2/">Read more<span class="seo-reader-text">Rectify Unseen Windows 10/11 Window</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-guide-correcting-your-pcs-failure-to-boot-successfully/">Read more<span class="seo-reader-text">Step-by-Step Guide: Correcting Your PC’s Failure to Boot Successfully</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,21 +1266,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-reduce-wudfhostexes-impact-on-your-pcs-processor-in-windows-10/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/5f29ab47c82493b144af09fd3ee1e6f095ceaed40a8d07f3a01f7431f1caf6d4.jpg" alt="How to Reduce WUDFHost.exe&#39;s Impact on Your PC&#39;s Processor in Windows 10" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/unstick-your-windows-10-update-dilemma-easy-repair-techniques-explained/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e9acc6aa08cfa474d06b70d099285d874e59f0982ea9c5cdd47970e026d0c0b2.jpg" alt="Unstick Your Windows 10 Update Dilemma – Easy Repair Techniques Explained" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-reduce-wudfhostexes-impact-on-your-pcs-processor-in-windows-10/">
-                            How to Reduce WUDFHost.exe&#39;s Impact on Your PC&#39;s Processor in Windows 10
+                        <a href="/unstick-your-windows-10-update-dilemma-easy-repair-techniques-explained/">
+                            Unstick Your Windows 10 Update Dilemma – Easy Repair Techniques Explained
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How to Reduce WUDFHost.exe’s Impact on Your PC’s Processor in Windows 10</p>
+                            <p>This Article Describes Unstick Your Windows 10 Update Dilemma – Easy Repair Techniques Explained</p>
 
                         
                     </div>
@@ -1231,7 +1288,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 15 2024 10:59:13 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 11:11:58 GMT+0800">
                 
                     2024-08-15
                 
@@ -1279,7 +1336,7 @@
         
     </div>
 
-    <a href="/how-to-reduce-wudfhostexes-impact-on-your-pcs-processor-in-windows-10/">Read more<span class="seo-reader-text">How to Reduce WUDFHost.exe&#39;s Impact on Your PC&#39;s Processor in Windows 10</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/unstick-your-windows-10-update-dilemma-easy-repair-techniques-explained/">Read more<span class="seo-reader-text">Unstick Your Windows 10 Update Dilemma – Easy Repair Techniques Explained</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,21 +1352,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/unstuck-with-a-broken-dell-camera-heres-how-to-fix-it-in-windows/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b2a4f404614a92dadcad15cd.jpg" alt="Unstuck with a Broken Dell Camera? Here&#39;s How to Fix It in Windows" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1723209002585-overcoming-the-kernel-power-hurdle-addressing-windows-error-code-0xc00pressure-to-ensure-a-healthy-environment/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37108b148f724431123b9f7ea.jpg" alt="Overcoming the &#39;Kernel Power&#39; Hurdle: Addressing Windows Error Code 0xC00pressure to Ensure a Healthy Environment" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/unstuck-with-a-broken-dell-camera-heres-how-to-fix-it-in-windows/">
-                            Unstuck with a Broken Dell Camera? Here&#39;s How to Fix It in Windows
+                        <a href="/1723209002585-overcoming-the-kernel-power-hurdle-addressing-windows-error-code-0xc00pressure-to-ensure-a-healthy-environment/">
+                            Overcoming the &#39;Kernel Power&#39; Hurdle: Addressing Windows Error Code 0xC00pressure to Ensure a Healthy Environment
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Unstuck with a Broken Dell Camera? Here’s How to Fix It in Windows</p>
+                            <p>This Article Describes Overcoming the ‘Kernel Power’ Hurdle: Addressing Windows Error Code 0xC00pressure to Ensure a Healthy Environment</p>
 
                         
                     </div>
@@ -1317,7 +1374,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 15 2024 10:59:12 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 11:11:57 GMT+0800">
                 
                     2024-08-15
                 
@@ -1365,7 +1422,7 @@
         
     </div>
 
-    <a href="/unstuck-with-a-broken-dell-camera-heres-how-to-fix-it-in-windows/">Read more<span class="seo-reader-text">Unstuck with a Broken Dell Camera? Here&#39;s How to Fix It in Windows</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1723209002585-overcoming-the-kernel-power-hurdle-addressing-windows-error-code-0xc00pressure-to-ensure-a-healthy-environment/">Read more<span class="seo-reader-text">Overcoming the &#39;Kernel Power&#39; Hurdle: Addressing Windows Error Code 0xC00pressure to Ensure a Healthy Environment</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,21 +1438,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-steps-when-microsoft-store-doesnt-start-up/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/1a1e5c2753d0c8947ba30db3ebb53725cfb2d03191ed52125f4aa37e29665125.jpg" alt="Troubleshooting Steps When Microsoft Store Doesn&#39;t Start Up" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/overcoming-network-startup-hurdles-in-dragon-ball-fighterz-comprehensive-troubleshooting-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60e59b4a6159a2401dabd161b.jpg" alt="Overcoming Network Startup Hurdles in Dragon Ball FighterZ – Comprehensive Troubleshooting Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-steps-when-microsoft-store-doesnt-start-up/">
-                            Troubleshooting Steps When Microsoft Store Doesn&#39;t Start Up
+                        <a href="/overcoming-network-startup-hurdles-in-dragon-ball-fighterz-comprehensive-troubleshooting-tips/">
+                            Overcoming Network Startup Hurdles in Dragon Ball FighterZ – Comprehensive Troubleshooting Tips
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Steps When Microsoft Store Doesn’t Start Up</p>
+                            <p>This Article Describes Overcoming Network Startup Hurdles in Dragon Ball FighterZ – Comprehensive Troubleshooting Tips</p>
 
                         
                     </div>
@@ -1403,7 +1460,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 15 2024 10:59:11 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 11:11:56 GMT+0800">
                 
                     2024-08-15
                 
@@ -1451,7 +1508,7 @@
         
     </div>
 
-    <a href="/troubleshooting-steps-when-microsoft-store-doesnt-start-up/">Read more<span class="seo-reader-text">Troubleshooting Steps When Microsoft Store Doesn&#39;t Start Up</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/overcoming-network-startup-hurdles-in-dragon-ball-fighterz-comprehensive-troubleshooting-tips/">Read more<span class="seo-reader-text">Overcoming Network Startup Hurdles in Dragon Ball FighterZ – Comprehensive Troubleshooting Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,21 +1524,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-tips-fixing-the-astro-a40-microphone-issue/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433a92cd047a35aea4a9510783.jpg" alt="Troubleshooting Tips: Fixing the Astro A40 Microphone Issue" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-stuck-file-explorer-in-windows-10-easy-fixes-for-seamless-navigation/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5a612b69f151ee0b6ea165a5e0a8368a6294f13aca50623658d8bbb7241b81d0.jpg" alt="Troubleshooting Stuck File Explorer in Windows 10 - Easy Fixes for Seamless Navigation" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-tips-fixing-the-astro-a40-microphone-issue/">
-                            Troubleshooting Tips: Fixing the Astro A40 Microphone Issue
+                        <a href="/troubleshooting-stuck-file-explorer-in-windows-10-easy-fixes-for-seamless-navigation/">
+                            Troubleshooting Stuck File Explorer in Windows 10 - Easy Fixes for Seamless Navigation
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Tips: Fixing the Astro A40 Microphone Issue</p>
+                            <p>This Article Describes Troubleshooting Stuck File Explorer in Windows 10 - Easy Fixes for Seamless Navigation</p>
 
                         
                     </div>
@@ -1489,7 +1546,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Thu Aug 15 2024 10:59:10 GMT+0800">
+            <span class="home-article-date" data-date="Thu Aug 15 2024 11:11:55 GMT+0800">
                 
                     2024-08-15
                 
@@ -1537,7 +1594,7 @@
         
     </div>
 
-    <a href="/troubleshooting-tips-fixing-the-astro-a40-microphone-issue/">Read more<span class="seo-reader-text">Troubleshooting Tips: Fixing the Astro A40 Microphone Issue</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-stuck-file-explorer-in-windows-10-easy-fixes-for-seamless-navigation/">Read more<span class="seo-reader-text">Troubleshooting Stuck File Explorer in Windows 10 - Easy Fixes for Seamless Navigation</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1604,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/443/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/442/">442</a><a class="page-number" href="/page/443/">443</a><span class="page-number current">444</span><a class="page-number" href="/page/445/">445</a><a class="page-number" href="/page/446/">446</a><span class="space">&hellip;</span><a class="page-number" href="/page/807/">807</a><a class="extend next" rel="next" href="/page/445/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/443/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/442/">442</a><a class="page-number" href="/page/443/">443</a><span class="page-number current">444</span><a class="page-number" href="/page/445/">445</a><a class="page-number" href="/page/446/">446</a><span class="space">&hellip;</span><a class="page-number" href="/page/851/">851</a><a class="extend next" rel="next" href="/page/445/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>
