@@ -1,7 +1,7 @@
 ---
 title: "Quickly Restore Charging Functionality to Your Laptop: Expert Tips Inside!"
-date: 2024-08-09T00:49:09.862Z
-updated: 2024-08-10T00:49:09.862Z
+date: 2024-09-13T14:06:43.352Z
+updated: 2024-09-15T01:32:31.802Z
 tags:
   - win11
   - win10
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/98381f75da9e421b6eb855209185ef7a1fbf0a3e4
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -51,9 +48,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -66,9 +60,6 @@ Here’s how to reinstall the keyboard driver:
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
@@ -82,8 +73,12 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -106,10 +101,14 @@ Here is how to make sure you’ve disabled Filter Keys:
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -118,9 +117,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key**
  and type**filter** . Then click on**Turn filter keys on or off** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
  2) Make sure the**Filter Keys** toggle is**Off** .
@@ -137,14 +133,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -171,11 +171,29 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-easy-steps-to-decode-your-facebook-data-for-2024/"><u>[New] Easy Steps to Decode Your Facebook Data for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/eading-8-linux-tools-for-seamless-editing/"><u>[New] Leading 8 Linux Tools for Seamless Editing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-openplayclip-your-free-pass-to-perfect-gamers-recordings/"><u>[Updated] OpenPlayClip Your Free Pass to Perfect Gamers' Recordings</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-walkthrough-repairing-the-0x80070490-error-during-system-updates-on-windows/"><u>Comprehensive Walkthrough: Repairing the 0X80070490 Error During System Updates on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-fix-ethernet-problems-on-your-windows-11-or-windows-7-computer/"><u>How to Diagnose & Fix Ethernet Problems on Your Windows 11 or Windows 7 Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-touch-control-on-your-laptop-or-desktop-essential-repair-tips-for-windows-11-enthusiasts/"><u>Mastering Touch Control on Your Laptop or Desktop - Essential Repair Tips for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/method-for-limiting-user-permissions-in-windows-10-filesystem/"><u>Method for Limiting User Permissions in Windows 10 Filesystem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/noise-loss-on-astro-a50-here-are-quick-remedies/"><u>Noise Loss on Astro A50? Here Are Quick Remedies</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-excessive-noise-in-playstation-4-consoles-tips-and-tricks/"><u>Resolving Excessive Noise in PlayStation 4 Consoles - Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-function-key-malfunction-on-your-dell-pc-a-step-by-step-guide/"><u>Solving the Function-Key Malfunction on Your Dell PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-restoring-right-click-functionality-in-windows-11-pcs/"><u>Step-by-Step Solution: Restoring Right-Click Functionality in Windows 11 PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-how-to-effortlessly-divide-your-display-on-macos-devices/"><u>The Ultimate Tutorial: How to Effortlessly Divide Your Display on macOS Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-elusive-video-connection-fix-the-no-video-input-detected-issue-today/"><u>Troubleshooting the Elusive Video Connection: Fix the 'No Video Input Detected' Issue Today</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-transforming-videos-into-your-desired-format-seamlessly/"><u>Ultimate Guide: Transforming Videos Into Your Desired Format Seamlessly</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-a2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi A2 Hard Reset | Dr.fone</u></a></li>
+</ul></div>
+

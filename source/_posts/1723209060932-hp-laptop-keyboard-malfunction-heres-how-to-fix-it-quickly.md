@@ -1,7 +1,7 @@
 ---
 title: HP Laptop Keyboard Malfunction? Here's How to Fix It Quickly!
-date: 2024-09-09T09:04:38.994Z
-updated: 2024-09-10T09:04:38.994Z
+date: 2024-09-13T12:20:34.230Z
+updated: 2024-09-15T15:36:01.226Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 
 Is your**microphone not working on laptop** ? You’re certainly not alone. But don’t worry – it can be quite easy to fix…
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Fixes for**Microphone Not Working On Laptop**
 
  Here’re 4 fixes that have helped other users resolve the**microphone not working on laptop in Windows 10, 8.1 and 7** issue. Just work your way down the list until the problem is fixed.
@@ -32,12 +26,6 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -48,12 +36,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
@@ -62,22 +44,10 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  One of the most common causes of this problem is an outdated or a faulty audio driver. So you should always make sure to keep the latest audio driver up-to-date. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -105,31 +75,29 @@ To do so:
 1. Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
@@ -158,8 +126,6 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,42 +135,17 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-digital-domination-how-videos-rule-twitter-for-2024/"><u>[New] Digital Domination How Videos Rule Twitter for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-extensive-appraisal-the-essence-of-hero4-black/"><u>[New] Extensive Appraisal The Essence of Hero4 Black</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-streamlining-your-edit-with-jump-cut-tips/"><u>[New] Streamlining Your Edit with Jump Cut Tips</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-behind-the-scenes-how-to-create-youtube-trailers-in-filmora/"><u>[Updated] In 2024, Behind the Scenes How-To Create YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-mastering-screen-recording-mi-11-edition/"><u>[Updated] Mastering Screen Recording Mi 11 Edition</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-sony-xperia-5-v-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Sony Xperia 5 V</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/customizable-ai-revolution-crafting-unique-gpt-models-via-chatgpt-upgrade/"><u>Customizable AI Revolution: Crafting Unique GPT Models via ChatGPT Upgrade</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-dead-dns-servers-here-are-4-effortless-fixes/"><u>Dealing with Dead DNS Servers? Here Are 4 Effortless Fixes!</u></a></li>
-<li><a href="https://common-error.techidaily.com/discovering-your-windows-10-start-button-essential-tips-and-tricks/"><u>Discovering Your Windows 10 Start Button: Essential Tips and Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-dealing-with-disruptions-in-hamachi-virtual-private-network-services/"><u>Effective Fixes: Dealing with Disruptions in Hamachi Virtual Private Network Services</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719168172703-embrace-all-games-free-to-play-and-premium-on-one-plan/"><u>Embrace All Games, Free-to-Play & Premium On One Plan</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-vac-was-unable-to-verify-the-game-session/"><u>Fix: VAC Was Unable to Verify the Game Session</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-windows-resource-protection-could-not-start-the-repair-service-sfc-error/"><u>Fixed: Windows Resource Protection Could Not Start the Repair Service - Sfc Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/getting-your-camera-back-to-work-on-surface-book-pro-4-after-upgrading-to-windows-11-a-solution-guide/"><u>Getting Your Camera Back to Work on Surface Book (Pro 4) After Upgrading to Windows 11 - A Solution Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/google-chrome-crash-course-overcoming-the-not-responding-dilemma/"><u>Google Chrome Crash Course: Overcoming the Not Responding Dilemma</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-successfully-overcome-game-crashes-in-football-manager-2020/"><u>How to Successfully Overcome Game Crashes in Football Manager 2020</u></a></li>
-<li><a href="https://common-error.techidaily.com/immediate-solutions-for-printer-error-on-your-pdf-documents/"><u>Immediate Solutions for Printer Error on Your PDF Documents</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-honor-magic-5-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Honor Magic 5 Pro to Protect Your Individual Information</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/lg-k92-smartphone-assessment-is-5g-capability-enough-to-recommend/"><u>LG K92 Smartphone Assessment: Is 5G Capability Enough to Recommend?</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211344252-miracast-troubles-correct-your-graphics-driver-for-seamless-screen-mirroring/"><u>Miracast Troubles? Correct Your Graphics Driver for Seamless Screen Mirroring!</u></a></li>
-<li><a href="https://common-error.techidaily.com/operation-denied-execution-stopped/"><u>Operation Denied: Execution Stopped</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-windows-update-error-0x80070002-effective-fixes-for-hassle-free-updating/"><u>Overcome Windows Update Error 0X80070002: Effective Fixes for Hassle-Free Updating</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/pixelbook-go-reviewed-stunningly-crafted-chromebook-with-steep-pricing/"><u>Pixelbook Go Reviewed: Stunningly Crafted Chromebook with Steep Pricing</u></a></li>
-<li><a href="https://common-error.techidaily.com/shockwave-flash-issues-in-google-chrome-follow-our-updated-solution-guide/"><u>Shockwave Flash Issues in Google Chrome? Follow Our Updated Solution Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-mystery-of-a-vanished-bluetooth-icon-on-windows-10-machines-expert-tips-and-tricks/"><u>Solving the Mystery of a Vanished Bluetooth Icon on Windows 10 Machines: Expert Tips and Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-fixing-lenovos-unresponsive-fingerprint-reader-with-minimal-hassle/"><u>Step-by-Step Guide: Fixing Lenovo's Unresponsive Fingerprint Reader with Minimal Hassle</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-ranking-mp4-video-converter-tools-free-downloads-and-comprehensive-features/"><u>Top-Ranking MP4 Video Converter Tools - Free Downloads & Comprehensive Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-lenovo-special-characters-key-with-ease/"><u>Troubleshoot Lenovo Special Characters Key with Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-solutions-for-svchostexe-high-resource-consumption-on-windows-11/"><u>Troubleshooting and Solutions for svchost.exe High Resource Consumption on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-driverpowerstateerror-on-your-computer/"><u>Troubleshooting DRIVER_POWER_STATE_ERROR on Your Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-update-failure-messages-in-warframe/"><u>Troubleshooting Guide: Overcoming 'Update Failure' Messages in Warframe</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-unintended-bootups-how-and-why-your-windows-10-machine-starts-alone/"><u>Understanding Unintended Bootups: How and Why Your Windows 10 Machine Starts Alone</u></a></li>
-<li><a href="https://common-error.techidaily.com/unplugged-and-confused-heres-why-your-laptop-turned-off-randomly-solved/"><u>Unplugged and Confused? Here's Why Your Laptop Turned Off Randomly (Solved)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/unveiling-magix-video-mastery/"><u>Unveiling MAGIX Video Mastery</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-troubleshooting-harnessing-the-power-of-sfc-and-dism-utilities/"><u>Windows 10 Troubleshooting: Harnessing the Power of SFC and DISM Utilities</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-solving-problems-with-your-spacebar-not-working-properly/"><u>Windows 11: Solving Problems with Your Spacebar Not Working Properly</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-quick-cut-technique-making-your-vlog-more-engaging/"><u>[New] 2024 Approved Quick-Cut Technique Making Your Vlog More Engaging</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/disabling-facebook-video-ad-pop-ups-quickly-for-2024/"><u>Disabling Facebook Video Ad Pop-Ups Quickly for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-volume-control-icons-in-windows-11-with-helpful-illustrations/"><u>Fixing Volume Control Icons in Windows 11 with Helpful Illustrations</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/harnessing-hobbies-for-hefty-helpings-on-digital-domains/"><u>Harnessing Hobbies for Hefty Helpings on Digital Domains</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-huawei-nova-y71-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Huawei Nova Y71? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-apply-recent-windows-1asterns-10-version-1803-features-fixed/"><u>How to Successfully Apply Recent Windows 1Asterns 10 Version 1803 Features [FIXED]</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/mastering-youtube-link-building-a-strategic-guide/"><u>Mastering YouTube Link Building A Strategic Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-steam-service-disruptions-a-guide-to-restoring-access/"><u>Overcoming Steam Service Disruptions: A Guide to Restoring Access</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-fixing-the-troublesome-windows-update-error-0x80070n652-instantly/"><u>Step-by-Step Guide: Fixing the Troublesome Windows Update Error 0X80070n652 Instantly</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-correcting-logon-failures-in-group-policy-clients-solved/"><u>Troubleshooting Steps for Correcting Logon Failures in Group Policy Clients [SOLVED]</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-poco-c55-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Poco C55 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
+

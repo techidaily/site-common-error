@@ -1,7 +1,7 @@
 ---
 title: "DIY Fix for Your Lenovo Laptop's Camera Problem: A Comprehensive Approach"
-date: 2024-08-09T00:49:10.365Z
-updated: 2024-08-10T00:49:10.365Z
+date: 2024-09-10T18:22:32.206Z
+updated: 2024-09-15T08:43:10.077Z
 tags:
   - win11
   - win10
@@ -50,14 +50,8 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
 1. Open Chrome.
 2. In the top right, click on **the three vertical dots** button > **More tools** \> **Extensions** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432bba1ea5a.jpg)
 3. Toggle off all the extensions on your Chrome.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
 4. **Restart**  your computer and check if**Google Chrome**  now works:
 
@@ -78,25 +72,10 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432efcb9088.jpg)
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b1daa19ee7.jpg)
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -107,47 +86,52 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Allow Chrome**through Windows Defender Firewall**
 
  Sometimes the denied access to the Internet is another culprit for our**Chrome locked up** problem. To**allow Chrome through** **Windows Defender Firewall** :
 
  1) On your keyboard, press **the Windows logo key**  and **R** at the same time. Then copy & paste**control firewall.cpl** into the box and click **OK** .
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4322c4421a9.png)
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click **Allow an app or feature through Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4323083c3e7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Change settings** . Then make sure the 4 boxes for Google Chrome are ALL ticked and click**OK** .
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4324732913f.jpg)
 
  4) Re-launch Google Chrome and check if the **Google Chrome not responding** issue has been fixed. If yes, then great! But if it’s still no joy, please move on to**Fix 5** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Update or reinstall Chrome
 
  If all else fails, then we might have to update Chrome to see if there’s any bugfix in it that will solve the Chrome not responding issue.
@@ -160,6 +144,14 @@ To do so:
 2. In the top right, click on **the three vertical dots** button > **help** \>**About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * If yes, follow the on-screen instruction to finish the update.  
    * If no, delete Chrome and re-install it on Windows store or other trustworthy third-party website. (**NOTE** : This will erase your Chrome browser settings and data)
 4. Check if the**Google** **Chrome not responding** issue has been resolved.
@@ -178,11 +170,27 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-wildlife-documentary-showdown-gopro-hero5-vs-sjcam-star/"><u>[New] In 2024, Wildlife Documentary Showdown GoPro Hero5 vs SJCAM Star</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-adding-closed-captions-to-vimeo-footage/"><u>[Updated] 2024 Approved Adding Closed Captions to Vimeo Footage</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-twilight-tales-top-hdr-sky-captures-from-leading-portals/"><u>[Updated] 2024 Approved Twilight Tales - Top HDR Sky Captures From Leading Portals</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-comprehensive-tips-for-constructing-podcast-rss-feeds/"><u>[Updated] In 2024, Comprehensive Tips for Constructing Podcast RSS Feeds</u></a></li>
+<li><a href="https://common-error.techidaily.com/critical-error-cruntimel1-1-0-missing-from-system/"><u>Critical Error: CRuntimeL1-1-0 Missing From System</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-high-disk-usage-caused-by-microsofts-telemetry-service-in-windows-11-systems/"><u>Fixing High Disk Usage Caused by Microsoft's Telemetry Service in Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-successfully-power-off-your-computer-running-windows-11/"><u>Fixing the Issue: How to Successfully Power Off Your Computer Running Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-xs-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone XS Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-snapseed-101-easy-steps-for-image-transformation/"><u>In 2024, Snapseed 101 Easy Steps for Image Transformation</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-step-by-step-guide-to-overcome-the-preparing-to-configure-windows-issue/"><u>Resolved: Step-by-Step Guide to Overcome the 'Preparing to Configure Windows' Issue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-into-premium-filmmaking-discover-these-8-online-backdrop-banks-for-2024/"><u>Step Into Premium Filmmaking Discover These 8 Online Backdrop Banks for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-right-time-to-invest-in-your-next-4k-lens/"><u>The Right Time to Invest in Your Next 4K Lens</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unveiling-the-hidden-meanings-behind-facebooks-messenger-icon/"><u>Unveiling the Hidden Meanings Behind Facebook's Messenger Icon</u></a></li>
+</ul></div>
+

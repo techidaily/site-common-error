@@ -1,7 +1,7 @@
 ---
 title: Fixing Microphone Issues on Your Laptop - Simple Solutions
-date: 2024-08-09T00:49:07.928Z
-updated: 2024-08-10T00:49:07.928Z
+date: 2024-09-13T02:38:59.738Z
+updated: 2024-09-15T14:27:25.507Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/5cbe5314b93a999758b5a00e2527a722031ccfee9
 
  If you ever run into the**laptop keys not working** on your HP laptop, don’t panic. It’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/5cbe5314b93a999758b5a00e2527a722031ccfee9
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -54,9 +48,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -97,9 +88,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
  1) On your keyboard, press**the Windows logo key** and type**accessibility** **keyboard** **settings** . Then click **Accessibility** **keyboard** **settings** when it pops up as the Best match.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -108,6 +96,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -115,17 +110,18 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key**
  and type**filter** . Then click on**Turn filter keys on or off** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -144,8 +140,12 @@ Here is how to make sure you’ve disabled Filter Keys:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Reseat your laptop battery
 
  Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot the **keys not working on laptop** issues. To do so:
@@ -171,11 +171,26 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-engage-enchant-excel-the-quintessential-5-strategies-for-youtube-marketing/"><u>[New] 2024 Approved Engage, Enchant, Excel The Quintessential 5 Strategies for YouTube Marketing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonizing-youtube-content-with-audio-files/"><u>[Updated] 2024 Approved Harmonizing YouTube Content with Audio Files</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-enhance-your-imagery-a-step-by-step-guide-for-instagram-videos/"><u>[Updated] In 2024, Enhance Your Imagery A Step-by-Step Guide for Instagram Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-idevice-video-recording-guide/"><u>2024 Approved Ultimate iDevice Video Recording Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-x-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone X</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-game-install-and-update-failures-on-steam-platform/"><u>How to Fix Game Install and Update Failures on Steam Platform</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-step-by-step-tutorials-to-excel-at-google-meet-free-edition/"><u>In 2024, Step-by-Step Tutorials to Excel at Google Meet (Free Edition)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-motorola-moto-g-stylus-5g-2023-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Motorola Moto G Stylus 5G (2023) Phone Now with These Tips</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/repairing-mp4-bitrate-anomalies/"><u>Repairing MP4 Bitrate Anomalies</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-typing-woes-fix-unresponsive-letter-keys-in-windows-10-and-11/"><u>Solve Your Typing Woes: Fix Unresponsive Letter Keys in Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/uninstall-and-reinstall-audio-drivers-a-remedy-for-windows-11-sound-failures/"><u>Uninstall and Reinstall Audio Drivers - A Remedy for Windows 11 Sound Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-your-devices-drivers-a-simple-solution-for-wow-incompatibility-issues/"><u>Update Your Device's Drivers: A Simple Solution for WoW Incompatibility Issues</u></a></li>
+</ul></div>
+

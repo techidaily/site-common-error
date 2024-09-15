@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Solution for Dealing With Failed Attempts at Accessing a Remote Server
-date: 2024-08-09T00:49:09.329Z
-updated: 2024-08-10T00:49:09.329Z
+date: 2024-09-11T13:47:23.904Z
+updated: 2024-09-15T12:42:08.776Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 
  If you get a **missing file privileges**  error while waiting for your game to install/update on **Steam** , you’re not alone. M any users have had this headache too. Luckily they have successfully tackled the problem with the following steps, so check them out.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6 fixes for Steam **missing file privileges**
 
  The screenshots below are from**Windows 10** , but the fixes also work in**Windows 7** . You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -33,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500
 5. **[Give administrator privileges to Steam](#F5)**
 6. **[Want us to fix the problem for you?](#F6)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 1: End  igfxEm Module in Task Manager
 
  Killing **igfxEm Module** , as reported by most users, is one of the most effective methods in solving this **Steam missing file privileges** problem. To do so:
@@ -57,21 +50,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  1) Open Steam. Then click**Steam** \>**Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44283e9e804.jpg)
 
  2) Click**Downloads** , then change**download region** in the drop-down list and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44299d19c87.jpg)
 
 3) Re-download/update the game and see if it works now.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 3: Repair Steam Library Folder**
 
@@ -81,10 +75,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 2) Click**Steam** \>**Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b442ec7b8cb3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Downloads** \>**STEAM LIBRARY FOLDERS** .
 
@@ -94,13 +98,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b442edecc5d9.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5)Re-try the install/update and hopefully this time it succeeds.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 4: Verify the integrity of game cache**
 
 Fix 4 is to verify that our game files are not corrupt. To do so:
@@ -121,9 +135,6 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Fix 5: Give administrator privileges to Steam
 
  Sometimes **Steam missing file privileges**  happens because you don’t have full permissions to run Steam. So to**give Steam administrator privileges** :
@@ -133,16 +144,10 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/programfile.jpg)
 
  2) Right-click on**Steam** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/steam2.jpg)
 
  3) Click**Security** \>**Advanced** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44509268b60.jpg)
 
  4) Make sure**the first two rows** are granted**Full control** . If not, click edit to change accordingly.
@@ -154,11 +159,22 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Want us to fix the problem for you?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10e3465cf33.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the fix above didn’t work, and you don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you. All you need to do is[**buy a 1-year subscription to Driver Easy**](https://tools.techidaily.com/drivereasy/download/)   (just $29.95) and you get free technical support as part of your purchase. This means you can contact our computer technicians directly and explain your problem, and they’ll investigate to see if they can resolve it remotely.
 
@@ -175,11 +191,23 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-step-by-step-framework-for-iconic-podcast-visuals/"><u>2024 Approved A Step-by-Step Framework for Iconic Podcast Visuals</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-elite-android-and-pc-mkv-software/"><u>2024 Approved Elite Android & PC MKV Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-premier-manual-leveraging-mobizens-full-potential-for-mobile-capture/"><u>In 2024, Premier Manual Leveraging Mobizen's Full Potential for Mobile Capture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revving-into-excellence-winning-10-srt-converter-titles-for-2024/"><u>Revving Into Excellence Winning 10 SRT Converter Titles for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-why-wont-my-usb-composite-device-work-with-usb-30-troubleshooting-tips-inside/"><u>Solved! Why Won't My USB Composite Device Work with USB 3.0? Troubleshooting Tips Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-invisible-mouse-icons-in-windows-10-a-complete-solution/"><u>Troubleshooting Invisible Mouse Icons in Windows 10 – A Complete Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/unraveling-error-0x80004005-a-step-by-step-troubleshooting-guide/"><u>Unraveling Error 0X80004005 - A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-eliminating-audio-turbulence-in-recordings-across-devices/"><u>Updated In 2024, Eliminating Audio Turbulence in Recordings Across Devices</u></a></li>
+</ul></div>
+

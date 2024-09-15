@@ -1,7 +1,7 @@
 ---
 title: "Solved: Fixing a Non-Responsive Laptop Trackpad on Windows 10, 8 & 7"
-date: 2024-09-09T08:59:27.603Z
-updated: 2024-09-10T08:59:27.603Z
+date: 2024-09-10T11:48:27.809Z
+updated: 2024-09-15T09:53:27.081Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/1d7a3c5b577ddb7940a6a2457c0bee5c40f1807e2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf28acbb220e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Update your touchpad driver with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) to ensure your touchpad works fine.
 
  It’s a massive pain if your touchpad doesn’t respond when you scroll on it. Many people have experienced this issue. But don’t worry, it’s fixable. Here are some tips for you to fix your touchpad not working problem.
@@ -44,28 +38,10 @@ thumbnail: https://thmb.techidaily.com/1d7a3c5b577ddb7940a6a2457c0bee5c40f1807e2
 2. Type**control** and press**Enter** to go to Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf297e71ab26.png)
 3. In the view of**Category** , click**Hardware and Sound** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298111eba5.jpg)
 4. Under**Devices and Printers** , click**Mouse** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29836c37da.jpg)
 5. Select the last tab. (The last tab is usually for touchpad configuration if you have a touchpad. And its name varies with different models of computer.) Then you can select a checkbox or click a button to enable your touchpad.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c061bc83.jpg)
 6. Check if your touchpad problem is resolved. If not, move on to Tip 2, below.
 
@@ -80,15 +56,16 @@ thumbnail: https://thmb.techidaily.com/1d7a3c5b577ddb7940a6a2457c0bee5c40f1807e2
 3. Expand**MultiFinger Gestures** , and select the**Two-Finger Scrolling** box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c98471f8.jpg)
 4. Click**Apply** .
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Check if your touchpad now works properly. If not, try Tip 3, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 3: Change your mouse pointer
 
@@ -98,22 +75,18 @@ thumbnail: https://thmb.techidaily.com/1d7a3c5b577ddb7940a6a2457c0bee5c40f1807e2
 2. In the**Pointers** tab, under**Scheme** , select a different pointer from the drop-down menu. You can change your mouse pointer to a solid black one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298ab89d01.jpg)
 3. Click**Apply** .
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Check if your touchpad now works properly. If not, try Tip 4, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip 4: Update your touchpad driver
 
  A missing or outdated touchpad driver may also stop your touchpad from working properly. There are two ways to update your touchpad driver:**manually** and**automatically** .
@@ -145,8 +118,6 @@ Hopefully, this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,46 +127,21 @@ Hopefully, this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-effective-affordable-youtube-intros-with-templates-for-2024/"><u>[New] Crafting Effective, Affordable YouTube Intros with Templates for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-infinite-loading-screen-on-valorant-a-guide-to-getting-you-back-into-action/"><u>[Solved] Infinite Loading Screen on Valorant: A Guide to Getting You Back Into Action</u></a></li>
-<li><a href="https://common-error.techidaily.com/activating-bluetooth-on-a-windows-7-machine-a-comprehensive-tutorial/"><u>Activating Bluetooth on a Windows 7 Machine - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/all-systems-checked-yet-one-component-idles/"><u>All Systems Checked, Yet One Component Idles</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-solving-dolby-audio-issues-in-windows-10-systems/"><u>Comprehensive Guide: Solving Dolby Audio Issues in Windows 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-xbox-elite-controller-padlock-problems-unlock-the-secrets-to-reviving-your-pen-in-depth-guide/"><u>DIY Xbox Elite Controller Padlock Problems: Unlock the Secrets to Reviving Your Pen (In-Depth Guide)</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-overcoming-driverpowerstatefailure-errors/"><u>Effective Solutions for Overcoming DRIVER_POWER_STATE_FAILURE Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-solutions-why-isnt-your-airdrop-working/"><u>Effortless Solutions: Why Isn't Your AirDrop Working?</u></a></li>
-<li><a href="https://common-error.techidaily.com/elevate-pc-gameplay-strategies-for-optimizing-windows-11-systems/"><u>Elevate PC Gameplay: Strategies for Optimizing Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhance-win10-efficiency-cpu-reduction-steps/"><u>Enhance Win10 Efficiency: CPU Reduction Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-successfully-launching-a-hosted-network-on-your-windows-11-pc/"><u>Expert Tips: Successfully Launching a Hosted Network on Your Windows 11 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-system-handling-livekernelevent-complication-id-117-efficiently/"><u>Fix Your System: Handling LiveKernelEvent Complication ID 117 Efficiently</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-fix-not-present-device-alert-on-pcs-running-windows-1187-error-code-t24/"><u>Guide to Fix 'Not Present' Device Alert on PCs Running Windows 11/8/7 (Error Code: T24)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-poco-x5-frp-by-drfone-android/"><u>How Can We Bypass Poco X5 FRP?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-error-code-0x8024401c-during-windows-1011-operating-system-updates-successfully/"><u>How to Fix 'Error Code: 0X8024401c' During Windows 10/11 Operating System Updates Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-functioning-lenovo-keyboard-step-by-step-guide/"><u>How to Fix a Non-Functioning Lenovo Keyboard – Step by Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-8-plus-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 8 Plus Stuck at attempting data recovery Loop | Stellar</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-12-pro-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 12 Pro Screen | Stellar</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-reign-over-the-market-selecting-the-best-7-nft-enabling-services/"><u>In 2024, Reign Over the Market Selecting the Best 7 NFT-Enabling Services</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210391878-keyboard-navigation-failure-revitalize-those-arrow-buttons-here/"><u>Keyboard Navigation Failure? Revitalize Those Arrow Buttons Here!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lattepanda-unveiled-surpassing-raspberry-pi-4-in-speed-and-cost/"><u>LattePanda Unveiled: Surpassing Raspberry Pi 4 in Speed and Cost</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-fcpx-title-tutorial-from-basics-to-advanced-techniques/"><u>New In 2024, FCPX Title Tutorial From Basics to Advanced Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-device-unavailable-error-error-code-24-on-windows-1187/"><u>Resolved: 'Device Unavailable' Error (Error Code 24) on Windows 11/8/7</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-the-error-when-windows-fails-to-link-with-the-system-event-notification-service/"><u>Resolved: Fixing the Error When Windows Fails to Link with the System Event Notification Service</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-the-notorious-windows-10-crimson-display-problem/"><u>Resolved: Fixing the Notorious Windows 10 Crimson Display Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/restoring-wireless-connectivity-overcoming-off-status-alerts-on-devices/"><u>Restoring Wireless Connectivity: Overcoming Off Status Alerts on Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-fixes-for-the-constant-reboot-problem-on-windows-11/"><u>Simple Fixes for the Constant Reboot Problem on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restoring-functionality-for-the-windows-key-combo-shiftpluss-in-windows-operating-systems/"><u>Step-by-Step Guide to Restoring Functionality for the Windows Key Combo (Shift+S) in WIndows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restoring-geforce-experience-setting-capabilities/"><u>Step-by-Step Guide to Restoring GeForce Experience Setting Capabilities</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-overcoming-the-crimson-display-malfunction/"><u>Step-by-Step Guide: Overcoming The Crimson Display Malfunction</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-enabling-a-disabled-bluetooth-connection/"><u>Step-by-Step Solution for Enabling a Disabled Bluetooth Connection</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-list-best-fb-videos-to-watch/"><u>The Ultimate List Best FB Videos To Watch</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transform-dvds-to-digital-on-macos-with-macx-download-free-dvd-ripper-software-and-stream-seamlessly-to-youtube-flvmp4mp3/"><u>Transform DVDs to Digital on macOS with MacX - Download FREE DVD Ripper Software and Stream Seamlessly to YouTube, FLV/MP4/MP3</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-increased-disk-space-consumption-of-telemetry-feature-in-windows-press)windows-11/"><u>Troubleshooting the Increased Disk Space Consumption of Telemetry Feature in Windows Press>Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-night-light-not-responding-errors/"><u>Troubleshooting Windows 11 Night Light Not Responding Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fix-for-windows-camera-issue-error-code-0xa00f4292/"><u>Ultimate Fix for Windows Camera Issue (Error Code 0Xa00f4292)</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-x100-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo X100 FRP Bypass</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-to-correcting-the-recurring-windows-update-issue-error-0x80240017/"><u>Ultimate Guide to Correcting the Recurring Windows Update Issue (Error 0X80240017)</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-fixing-your-laptop-screen-when-its-accidentally-rotated/"><u>Ultimate Guide: Fixing Your Laptop Screen When It's Accidentally Rotated</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-wow-performance-sluggishness/"><u>Ultimate Guide: Solving 'WoW' Performance Sluggishness</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-troubleshooting-your-lenovo-laptops-malfunctioning-webcam/"><u>Ultimate Guide: Troubleshooting Your Lenovo Laptop's Malfunctioning Webcam</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstuck-from-microsoft-store-problems-heres-how-to-open-it-successfully/"><u>Unstuck From Microsoft Store Problems? Here's How to Open It Successfully!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-enhancing-team-collaboration-with-regular-video-chats/"><u>[New] 2024 Approved Enhancing Team Collaboration with Regular Video Chats</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-key-elements-in-constructing-a-podcast-rss-feed/"><u>[Updated] Key Elements in Constructing a Podcast RSS Feed</u></a></li>
+<li><a href="https://facebook.techidaily.com/bitcoin-named-as-zucks-unconventional-goat-companion/"><u>Bitcoin Named as Zuck's Unconventional Goat Companion.</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-fixes-to-prevent-nier-automata-crashes-on-personal-computers/"><u>Essential Fixes to Prevent Nier: Automata Crashes on Personal Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/experience-crystal-clear-sound-with-the-newest-sades-headset-drivers-free-and-safe-download/"><u>Experience Crystal Clear Sound with the Newest Sades Headset Drivers - Free & Safe Download!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-when-your-wacom-touchpad-wont-function-correctly/"><u>Expert Solutions for When Your Wacom Touchpad Won’t Function Correctly</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-guide-for-service-failed-error-during-logon-on-windows-11-devices/"><u>Fix Guide for 'Service Failed' Error During Logon on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-common-issues-how-to-repair-a-non-functional-dell-laptop-keyboard/"><u>Fixing Common Issues: How to Repair a Non-Functional Dell Laptop Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-stuck-or-damaged-scroll-wheel-on-your-logitech-mouse-expert-tips-and-tricks/"><u>Fixing the Stuck or Damaged Scroll Wheel on Your Logitech Mouse - Expert Tips & Tricks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-meizu-21-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Meizu 21 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-sony-xperia-5-v-easily-by-drfone-android/"><u>How To Unlock a Sony Xperia 5 V Easily?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-meizu-21-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Meizu 21 Bootloader Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-escaping-the-clutches-of-a-false-google-chrome-crisis/"><u>Step-by-Step Guide: Escaping the Clutches of a False Google Chrome Crisis</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-print-driver-host-issues-in-32-bit-systems/"><u>Troubleshooting Guide: Fixing 'Print Driver Host' Issues in 32-Bit Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-and-fixing-the-root-causes-of-everspace-ii-pc-instability/"><u>Understanding and Fixing the Root Causes of Everspace II PC Instability</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleashing-potential-the-easy-path-to-blending-linktree-with-tiktok-bios/"><u>Unleashing Potential The Easy Path to Blending Linktree with TikTok Bios</u></a></li>
 </ul></div>
+

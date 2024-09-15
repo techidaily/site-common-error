@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Functional USB Ports on Windows 10 & 11
-date: 2024-09-09T08:57:50.811Z
-updated: 2024-09-10T08:57:50.811Z
+date: 2024-09-08T00:32:37.859Z
+updated: 2024-09-14T22:39:10.197Z
 tags:
   - win11
   - win10
@@ -13,24 +13,12 @@ excerpt: This Article Describes Troubleshooting Non-Functional USB Ports on Wind
 thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc14a37bcb509db67f36be2c1.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting a Non-Functional Astro A40 Microphone - Resolved
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6bc5e95188.jpg)
 
  If you run into the **Astro A40** **mic not working** problem, don’t panic – many users have reported the same. Luckily, it’s quite easy to fix…
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Fixes for Astro A40 Mic Not Working
 
  All the screenshots below are from**Windows 10** , but the fixes work in**Windows 8.1** &**7** as well.
@@ -55,12 +43,6 @@ thumbnail: https://thmb.techidaily.com/f1e60caa3e6b666a54baaa6c3e17dd97a81f74bfc
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Make sure the volume is audible
 
  Sometimes the mic on A40 won’t work simply because the volume is mute or set too low.
@@ -76,17 +58,12 @@ To make sure the volume is audible:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Adjust your audio settings
 
  Ideally when a new audio device is inserted, Windows will automatically set it as the default audio playback device. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -103,34 +80,25 @@ To do so:
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
+
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your audio driver
 
 This problem may occur if you are using the wrong audio  driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -149,12 +117,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Once you’ve updated the driver for your Astro A40 headset,**restart** your computer and check if the**Astro A40 mic not working** problem has been resolved.
@@ -178,8 +140,6 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,41 +149,20 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-highest-quality-action-capturing-methods/"><u>[New] 2024 Approved Highest Quality Action Capturing Methods</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-breakthrough-techniques-for-online-audio-archiving-and-editing/"><u>[New] Breakthrough Techniques for Online Audio Archiving & Editing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-filmoras-pathway-to-convert-video-avi-files-into-image-gif/"><u>[New] Filmora’s Pathway to Convert Video (AVI) Files Into Image (GIF)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-fixing-the-frustrating-missing-footage-in-fb-feed/"><u>[New] In 2024, Fixing the Frustrating Missing Footage in FB Feed</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-premium-photographic-archives/"><u>[New] Premium Photographic Archives</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-dynamic-titles-for-adobe-after-effects-for-2024/"><u>[Updated] Dynamic Titles for Adobe After Effects for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-gif-magic-on-mac-leading-tools-of-10/"><u>[Updated] GIF Magic on Mac Leading Tools of 10</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-see-groups-shared-photos-and-movies-on-messenger-for-2024/"><u>[Updated] How to See Group's Shared Photos and Movies on Messenger for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-the-0x80073712-easy-tricks-to-correctly-address-the-code-issue-in-windows-11/"><u>Beat the '0X80073712': Easy Tricks to Correctly Address the Code Issue in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/best-practices-to-eliminate-fallout-flet-faekst-lag-latency-and-improve-gameplay-2022/"><u>Best Practices to Eliminate Fallout ˈfɔːləʊt Fˈækst Lˈaɪg/ Latency and Improve Gameplay - 2022</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-guide-addressing-and-correcting-crc-errors-effectively/"><u>Complete Guide: Addressing and Correcting CRC Errors Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/conquering-startup-problems-effective-solutions-for-renderer-error-fixes-in-latest-software-versions/"><u>Conquering Startup Problems: Effective Solutions for Renderer Error Fixes in Latest Software Versions</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-logitech-keyboard-connectivity-issues-in-windows-11/"><u>Diagnosing and Resolving Logitech Keyboard Connectivity Issues in Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-hp-officejet-pro-8610-printer-drivers-compatible-with-windows-1087xpvista/"><u>Download & Upgrade HP OfficeJet Pro 8610 Printer Drivers: Compatible with Windows 10/8/7/XP/Vista</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-cracked-steps-to-fix-windows-camera-problem-0xa00f4292-explained/"><u>Error Code Cracked: Steps to Fix Windows Camera Problem - 0xA00F4292 Explained</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204136321-error-free-update-strategies-for-windows-10-with-error-code-0x800f0922-top-8-fixes-you-need-to-try/"><u>Error-Free Update Strategies for Windows 10 with Error Code 0X800f0922 – Top 8 Fixes You Need to Try</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-how-to-restore-the-missing-wi-fi-settings-on-windows-11/"><u>Fix: How to Restore the Missing Wi-Fi Settings on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-pc-freezing-during-boot-complete-guide/"><u>How to Fix a PC Freezing During Boot: Complete Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-y28-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo Y28 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-podcast-scriptwriting-made-easy-techniques-and-illustrative-templates/"><u>In 2024, Podcast Scriptwriting Made Easy Techniques and Illustrative Templates</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-freeipodcasts-downloads-on-iphone/"><u>In 2024, Step-by-Step FreeiPodcasts Downloads on iPhone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ipad-pro-vs-surface-pro-face-off-deciding-on-the-better-tablet-experience/"><u>IPad Pro Vs. Surface Pro Face-Off: Deciding on the Better Tablet Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-malfunction-fixes-for-windows-operating-systems-11-7-and-8/"><u>Keyboard Malfunction Fixes for Windows Operating Systems: 11, 7 & 8</u></a></li>
-<li><a href="https://common-error.techidaily.com/laptop-display-errors-how-to-fix-a-stuck-white-screen-issue-effectively/"><u>Laptop Display Errors: How to Fix a Stuck White Screen Issue Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/managing-overheating-pcs-fix-high-cpu-usage-caused-by-realtek-ravbg64exe/"><u>Managing Overheating PCs: Fix High CPU Usage Caused by Realtek 'ravbg64.exe'</u></a></li>
-<li><a href="https://common-error.techidaily.com/not-responsive-contemporary-timing-not-supported-by-current-monitor-display-technology/"><u>Not Responsive: Contemporary Timing Not Supported by Current Monitor Display Technology</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/optimize-your-videos-for-instagram-mac-resizing-guide/"><u>Optimize Your Videos for Instagram Mac Resizing Guide</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-access-denied-solving-usb-installation-troubles-on-your-pc/"><u>Overcoming 'Access Denied': Solving USB Installation Troubles on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-microphone-not-working-error-in-windows-11-step-by-step-guide/"><u>Resolving 'Microphone Not Working' Error in Windows 11 - Step by Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-silent-acer-effective-tips-for-fixing-lack-of-sound-output/"><u>Solve Silent Acer: Effective Tips for Fixing Lack of Sound Output</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-the-windows-system-file-check-utility-sfc-malfunction/"><u>Solve the Windows System File Check Utility (SFC) Malfunction</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-broken-keys-on-modern-microsoft-operating-systems/"><u>Step-by-Step Guide: Restoring Broken Keys on Modern Microsoft Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204734289-step-by-step-solution-for-stable-usb-connections-no-more-drops/"><u>Step-by-Step Solution for Stable USB Connections - No More Drops!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-for-enabling-bluetooth-feature-on-windows-10-and-11-systems/"><u>Step-by-Step Tutorial for Enabling Bluetooth Feature on Windows 10 & 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-restoring-functionality-to-your-windows-11-start-menu/"><u>Troubleshooting Tips - Restoring Functionality to Your Windows 11 Start Menu</u></a></li>
-<li><a href="https://common-error.techidaily.com/uncover-the-secret-retrieving-disappeared-windows-in-os/"><u>Uncover the Secret: Retrieving Disappeared Windows in OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-managing-company-wide-windows-setup-preferences/"><u>Understanding and Managing Company-Wide Windows Setup Preferences</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-shrinking-volume-levels-seamlessly-in-lumafusion/"><u>[New] Shrinking Volume Levels Seamlessly in Lumafusion</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-a-practical-approach-to-incorporate-youtube-playlists-online/"><u>[Updated] In 2024, A Practical Approach to Incorporate YouTube Playlists Online</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-interlinked-networks-transferring-fb-videos-to-whatsapp/"><u>2024 Approved Interlinked Networks Transferring FB Videos to WhatsApp</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-addressing-and-repairing-ethernet-malfunctions-in-windows-operating-systems/"><u>Effective Fixes: Addressing and Repairing Ethernet Malfunctions in Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-diagnosing-and-fixing-non-functional-corsair-keyboard-problems/"><u>Expert Advice on Diagnosing and Fixing Non-Functional Corsair Keyboard Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-xbox-one-for-pc-controls-functional/"><u>Fix: Xbox One for PC Controls Functional</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-11x-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme 11X 5G Location | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-resolving-the-endless-loop-of-windows-11-reboots/"><u>Quick Fixes: Resolving the Endless Loop of Windows 11 Reboots</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-fatal-installation-mishaps-overcoming-error-1603-for-smooth-software-launches/"><u>Resolving Fatal Installation Mishaps: Overcoming Error 1603 for Smooth Software Launches</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secrets-of-the-savvy-the-ultimate-guide-to-the-best-12-free-image-banks-for-2024/"><u>Secrets of the Savvy - The Ultimate Guide to the Best 12 Free Image Banks for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-fixing-a-non-responsive-laptop-trackpad-on-windows-10-8-and-7/"><u>Solved: Fixing a Non-Responsive Laptop Trackpad on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205671582-speeding-up-league-of-legends-setup-fixes-for-sluggish-downloads/"><u>Speeding Up League of Legends Setup – Fixes for Sluggish Downloads!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-solutions-to-stop-constant-iphone-application-failures/"><u>Top 10 Solutions to Stop Constant iPhone Application Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-0x80240034-glitch-in-windows-11-updates-effective-strategies-for-success/"><u>Troubleshooting the 0X80240034 Glitch in Windows 11 Updates – Effective Strategies for Success</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot & Resolve Your Windows 0X80cuase 070643 Updating or Installing Problems Easily
-date: 2024-08-09T00:49:09.235Z
-updated: 2024-08-10T00:49:09.235Z
+date: 2024-09-14T02:19:43.216Z
+updated: 2024-09-14T19:20:58.956Z
 tags:
   - win11
   - win10
@@ -21,22 +21,12 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
  **1)[Fix the 0x80070643 error in Windows Update](#a)**  — This is the error you can see when you are trying to install some updates in Windows Update.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d22a9b2e7.jpg)
 
  **2)[Fix the 0x80070643 error during a program installation](#b)**  — This is the error that can occur when you are trying to install a program.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a9098f95479.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1) Fix the 0x80070643 error on Windows Update
 
  Here are fixes that you should try when you see an 0x80070643 error in Windows Update.
@@ -59,9 +49,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 **iii.** Click on**Download** .
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d8364e9e9.jpg)
 
 **iv.** Open the downloaded file and follow the on-screen instructions to install it.
@@ -84,9 +71,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 **iii.** In Command Prompt, type “_**sfc /scannow**_ ” and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8de0f758fc.png)
 
 **iv.** Wait for the scan to complete.
@@ -111,18 +95,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 **iv.** Go to[**Microsoft Update Catalog**](http://www.catalog.update.microsoft.com) and search the codes for those updates.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a920adb952b.jpg)
 
 **v.** Find the update that is suitable for your operating**system type** (**x86-based** or**x64-based** ) and click on the**Download** button next to it.
 
 _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, please go to[**method 4**](#f) ._
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a902100a42e.jpg)
 
 **vi.** Wait for the download to complete. Then install the downloaded file.
@@ -137,9 +115,6 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 
 **ii.** Download the update file for Windows Defender Antivirus that matches your operating system (the right one for your system type).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37871a5b248.jpg)
 
 **iii.** Open the file you have downloaded and install the update on your computer.
@@ -178,9 +153,6 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 
 **iii.** Click on**Windows Installer** , then**Restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a918b2d4c1e.jpg)
 
 **iv.** If this method works for you, you will be able to install your program without the error troubling you.
@@ -197,16 +169,10 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
 
 **iii.** Click on the latest version of .NET Framework.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d75d07929.png)
 
 **iv.** Click **Download** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8d8364e9e9.jpg)
 
 **v.** Open the downloaded file and follow the on-screen instructions to install it.
@@ -224,11 +190,35 @@ _**NOTE:** If you can’t find the update you need on Microsoft Update Catalog, 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-jujutsu-kaisens-tiktok-fan-filled-fun/"><u>[Updated] Jujutsu Kaisen's TikTok Fan-Filled Fun</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-faster-youtube-submission-via-smart-rendering-and-uploading/"><u>[Updated] Unlock Faster YouTube Submission via Smart Rendering & Uploading</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-and-resolving-display-driver-stopped-responding-alerts-successfully/"><u>Addressing & Resolving 'Display Driver Stopped Responding' Alerts Successfully</u></a></li>
+<li><a href="https://discover-able.techidaily.com/breaking-into-kindle-ebooks-methods-to-circumvent-drm-for-private-enjoyment/"><u>Breaking Into Kindle eBooks: Methods to Circumvent DRM for Private Enjoyment</u></a></li>
+<li><a href="https://common-error.techidaily.com/dxgidll-resolution-pubg-glitch-overcome/"><u>Dxgi.dll Resolution: PUBG Glitch Overcome</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-resolving-random-disconnections-of-your-bluetooth-mouse-with-windows-1110/"><u>Expert Tips for Resolving Random Disconnections of Your Bluetooth Mouse with Windows 11/10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-and-regain-access-to-your-windows-smartscreen-guard/"><u>How to Fix and Regain Access to Your Windows SmartScreen Guard</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-90-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 90 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-opengl-problems-a-comprehensive-guide-for-minecraft-players/"><u>Overcoming OpenGL Problems - A Comprehensive Guide for Minecraft Players</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premier-5-iphones-for-podcast-aficionados/"><u>Premier 5 iPhones for Podcast Aficionados</u></a></li>
+<li><a href="https://common-error.techidaily.com/revitalize-your-pc-a-beginners-walkthrough-for-updating-windows-10/"><u>Revitalize Your PC: A Beginner's Walkthrough for Updating Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-platforms-facebook-twitter-instagram-youtube/"><u>Social Media Platforms: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-rust-from-crashing-forever-debugging-techniques-that-work/"><u>Stop Rust From Crashing Forever: Debugging Techniques That Work</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-budget-friendly-gaming-unlocking-free-to-play-event-opportunities/"><u>Top Budget-Friendly Gaming: Unlocking Free to Play Event Opportunities</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

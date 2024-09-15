@@ -1,7 +1,7 @@
 ---
 title: Comprehvew of Fixes to Bring Back Sound on Your PS4's Chat Microphone
-date: 2024-08-09T00:49:09.812Z
-updated: 2024-08-10T00:49:09.812Z
+date: 2024-09-09T09:41:31.655Z
+updated: 2024-09-15T06:31:15.244Z
 tags:
   - win11
   - win10
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -39,9 +36,6 @@ Here’s how to reinstall the keyboard driver:
 
  1) Hover your mouse around**the Start button** (on the bottom left of your desktop screen), _right-click_  and then click on**Device Manager** to open Device Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
@@ -70,9 +64,6 @@ Here’s how to reinstall the keyboard driver:
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 4) Restart your computer for the changes to take effect.
@@ -80,6 +71,13 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -105,6 +103,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -112,10 +117,14 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key**
  and type**filter** . Then click on**Turn filter keys on or off** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -127,25 +136,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Reseat your laptop battery
 
  Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot the **keys not working on laptop** issues. To do so:
@@ -171,11 +171,25 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-optimize-your-video-consumption-the-guide-to-auto-play-youtube-on-facebook/"><u>[Updated] 2024 Approved Optimize Your Video Consumption The Guide to Auto-Play Youtube on Facebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-expert-evaluation-of-vsdc-features-and-best-competitor-software-for-2024/"><u>[Updated] Expert Evaluation of VSDC Features and Best Competitor Software for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/building-emotional-awareness-with-chatgpt-a-step-by-step-guide/"><u>Building Emotional Awareness with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/cut-to-clarity-the-power-of-onscreen-text-in-film-for-2024/"><u>Cut to Clarity The Power of Onscreen Text in Film for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204171759-fix-the-too-many-redirects-error-instantly-simple-solutions/"><u>Fix the 'Too Many Redirects' Error Instantly - Simple Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-driver-issues-on-your-computer-for-smooth-windows-operation-a-step-by-step-guide/"><u>Fixing Driver Issues on Your Computer for Smooth Windows Operation - A Step-by-Step Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-social-media-sensations-most-liked-and-watched-amazon-originals/"><u>In 2024, The Social Media Sensations Most Liked & Watched Amazon Originals</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/practical-experience-with-innovative-arlo-home-defense-mechanism/"><u>Practical Experience with Innovative Arlo Home Defense Mechanism</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/protect-your-bitcoin-unveiling-how-fraudsters-utilize-google-advertising-for-virtual-currency-crimes/"><u>Protect Your Bitcoin: Unveiling How Fraudsters Utilize Google Advertising for Virtual Currency Crimes</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-incorrect-side-by-side-configuration-on-windows-10-comprehensive-guide-and-fixes/"><u>Solve 'Incorrect Side-by-Side Configuration' On Windows 10 - Comprehensive Guide and Fixes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/troubleshooting-the-fix-for-fall-guys-boot-problems-and-continuous-play/"><u>Troubleshooting the Fix for Fall Guys Boot Problems and Continuous Play</u></a></li>
+</ul></div>
+

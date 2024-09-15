@@ -1,7 +1,7 @@
 ---
 title: "How to Optimize Your System: Resolving High Graphics Usage by Desktop Window Manager in Windows"
-date: 2024-08-09T00:49:09.872Z
-updated: 2024-08-10T00:49:09.872Z
+date: 2024-09-09T15:48:34.447Z
+updated: 2024-09-15T12:15:58.871Z
 tags:
   - win11
   - win10
@@ -21,9 +21,6 @@ thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a7
 
  But don’t worry, here in this article, we’ll provide 3 effective workarounds for you to put this nasty problem to bed in no time…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 3 Fixes for MsMpEng.exe Eating Up Too Much CPU
 
  You may not have to try all these fixes; just work your way down the list until the problem is resolved.
@@ -40,17 +37,10 @@ thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a7
 
  2) Click **Virus & threat protection settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b484832a46a2.jpg)
 
  3) Scroll down to the bottom and click**Add or remove exclusions** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4848b874e63.jpg)
 
  4) Click**Add an exclusion** \>**Folder** .
@@ -59,9 +49,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  5) Copy & paste **C:\\Program Files\\Windows Defender** into the box and click Select**Folder** .
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4849bf2c80f.jpg)
 
  6) See if MsMpEng.exe is still hogging your CPU usage. If the problem persists, move on to**Fix 2** .
@@ -74,9 +61,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  2) Locate and double-click on**Task Schedule Library** \> **Microsoft** \>**Windows** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48247e04d53.jpg)
 
  3) Scroll down to the bottom, double-click on**Windows Defender** , then right-click on**Windows Defender Scheduled Scan** and click**Properties** .
@@ -89,16 +73,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  5) Click the**Conditions** tab, make sure**the boxes** in this window are**unchecked** .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48462bea585.jpg)
 
  5) Click the**Triggers** tab >**New…** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482828900da.png)
 
  6) Schedule your own**Windows Defender** scan. Carefully choose the frequency, scan time and date at your own convenience and click**OK** .
@@ -108,8 +86,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Fix 3: Use the Local Group Policy Editor to turn off Windows Defender**
 
  Note that**Fix 3** is about to turn off your**Windows Defender** program which might leave your computer at the mercy of virus and malware attacks. Please proceed with caution.
@@ -124,20 +112,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  3) Locate and double-click on**Windows Defender Antivirus** (aka. **Windows Defender** , same as below). Then double-click on **Turn off Windows Defender Antivirus** .
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48417e7d299.jpg)
 
  4) Choose the**Enabled** option, and click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4841ef0331d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Restart your computer and see if your computer runs normally now.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Want us to fix the problem for you?
 
  If the fix above didn’t work, and you don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you. All you need to do is **[buy a 1-year subscription to Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  (just $29.95) and you get free technical support as part of your purchase. This means you can contact our computer technicians directly and explain your problem, and they’ll investigate to see if they can resolve it remotely.
@@ -152,11 +141,30 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-pinnacle-video-devices-for-windows-11-enthusiasts/"><u>[New] 2024 Approved Pinnacle Video Devices for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-stream-smarter-with-float-mastery-over-pip-on-netflix/"><u>[New] Stream Smarter with Float Mastery Over PIP on Netflix</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-streamlabs-vs-obs-assessing-the-leading-livestream-tools/"><u>2024 Approved Streamlabs Vs. OBS Assessing the Leading Livestream Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-blues-handling-and-correcting-microsoft-update-error-0x8024402c-on-windows/"><u>Beat the Blues: Handling and Correcting Microsoft Update Error 0X8024402C on Windows</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-lava-blaze-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Lava Blaze Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-honor-x9b-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Honor X9b to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-optimizing-your-xbox-experience-with-advanced-screen-capture-methods/"><u>In 2024, Optimizing Your Xbox Experience with Advanced Screen Capture Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/instantaneous-solutions-for-preventing-your-csgo-from-crashing-unexpectedly/"><u>Instantaneous Solutions for Preventing Your CSGO From Crashing Unexpectedly</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-remote-connection-fixes-overcoming-communication-barriers-with-servers/"><u>Mastering Remote Connection Fixes: Overcoming Communication Barriers with Servers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-mac-video-editors-similar-to-vsdc-top-picks/"><u>New Mac Video Editors Similar to VSDC Top Picks</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-how-to-troubleshoot-and-repair-your-overwatch-voice-communication-problems/"><u>Quick Fixes: How to Troubleshoot and Repair Your Overwatch Voice Communication Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-0x80244022-bug-comprehensive-guide-for-fixing-windows-update-issues/"><u>Solving the 0X80244022 Bug: Comprehensive Guide for Fixing Windows Update Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubled-by-the-0x80071ac3-error-heres-how-to-fix-your-volumes-corruption-problem/"><u>Troubled by the 0X80071AC3 Error? Here's How to Fix Your Volume's Corruption Problem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-and-resolving-graphics-card-acceleration-errors-on-your-pc/"><u>Troubleshooting and Resolving Graphics Card Acceleration Errors on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-the-ce-34878-0-issue-on-your-playstation-4/"><u>Troubleshooting Guide: Resolving the CE-34878-0 Issue on Your PlayStation 4</u></a></li>
+</ul></div>
+

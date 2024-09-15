@@ -1,7 +1,7 @@
 ---
 title: How to Fix Bluetooth Devices Showing as Connected but Inaccessible in Windows 10
-date: 2024-08-09T00:49:09.833Z
-updated: 2024-08-10T00:49:09.833Z
+date: 2024-09-10T07:23:53.411Z
+updated: 2024-09-15T08:16:11.158Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 3. **[Set the Bluetooth support service to automatic](#c)**
 4. **[Update your Bluetooth driver](#d)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 1: Remove all Bluetooth devices
 
  If you’ve connected multiple Bluetooth devices to your PC, chances are that one or more of your devices are preventing your PC from detecting other Bluetooth devices.
@@ -39,16 +36,10 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 
 **2)** Type**control panel** , then hit the**Enter key** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_15-06-07.jpg)
 
 **3)** Under**View by** , select**Category** , then click**View devices and printers** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-02-15.jpg)
 
 **4)** Right-click your Bluetooth device and select**Remove device** .
@@ -71,14 +62,18 @@ If your problem persists, then move on and try the fix below.
 
 **2)** Select**Bluetooth** , then click**Run the troubleshooter** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-48-23.jpg)
 
 **3)** Wait for this process to be complete. Then, try pairing your Bluetooth devices to your PC again.
 
  If your Bluetooth still won’t discover devices, then read on and try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Set the Bluetooth support service
 
@@ -90,24 +85,21 @@ If your problem persists, then move on and try the fix below.
 
 **2)** Type**services.msc** , then hit the**Enter key** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-56-23.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Right-click**Bluetooth Support Service** . If the service is running, click**Restart** ; if the service isn’t running, click**Start** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_12-00-47.jpg)
 
  4) Right-click**Bluetooth Support Service** and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-59-45.jpg)
 
 **5)** Set the**Startup Type** to **Automatic** , then click**OK** .
@@ -118,9 +110,6 @@ If your problem persists, then move on and try the fix below.
 
 If your issue continues to occur, then try the next solution, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update Bluetooth driver
 
  You might run into this issue when you’re using a faulty Bluetooth driver, or the driver is outdated. Try updating your Bluetooth driver to see if that’s the problem for you.
@@ -135,9 +124,6 @@ If your issue continues to occur, then try the next solution, below.
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-09-57.jpg)
 
 **3)** Click the **Update**  button next to the Bluetooth driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -145,6 +131,13 @@ If your issue continues to occur, then try the next solution, below.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-07-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Restart your PC, then try reconnecting your Bluetooth devices to test your issue.
 
@@ -159,11 +152,27 @@ If your issue continues to occur, then try the next solution, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-the-importance-of-b-roll-diversity-in-filmmaking/"><u>[New] The Importance of B-Roll Diversity in Filmmaking</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-chuckling-chords-and-clever-cuts-10-parody-classics/"><u>[Updated] In 2024, Chuckling Chords & Clever Cuts 10 Parody Classics</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-perfecting-gameplay-capture-on-the-newest-windows-11/"><u>2024 Approved Perfecting Gameplay Capture on the Newest Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-humor-capabilities-explored-plus-a-fascinating-look-at-laptops-throughout-history-and-how-vpns-are-leveling-up/"><u>AI Humor Capabilities Explored: Plus, a Fascinating Look at Laptops Throughout History & How VPNs Are Leveling Up</u></a></li>
+<li><a href="https://common-error.techidaily.com/beating-oddworld-soulstorm-pc-freezing-glitches-a-step-by-step-fix/"><u>Beating Oddworld: Soulstorm PC Freezing Glitches – A Step-by-Step Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-fix-for-n64-controllers-that-arent-responding-expert-advice-inside/"><u>Complete Fix for N64 Controllers That Aren't Responding - Expert Advice Inside</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-0x0-errors-in-windows-11-successfully/"><u>Correcting 0X0 Errors in Windows 11 Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/curing-the-malfunction-of-inability-to-properly-shut-down-windows-10-and-ending-up-in-a-restart-loop/"><u>Curing the Malfunction of Inability to Properly Shut Down Windows 10 and Ending Up in a Restart Loop</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ging-paths-youtube-licensing-and-creative-commons/"><u>Diverging Paths YouTube Licensing & Creative Commons</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-issues-with-mouses-right-click-feature-on-windows-11-pcs/"><u>Fixing Issues with Mouse's Right-Click Feature on Windows 11 PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-motorola-moto-g14-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Motorola Moto G14.</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-dns-server-not-responding-in-five-steps/"><u>Troubleshooting Guide: Resolving 'DNS Server Not Responding' In Five Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-netflix-outages-identifying-the-issue-and-fixing-quickly/"><u>Understanding Netflix Outages – Identifying the Issue & Fixing Quickly</u></a></li>
+</ul></div>
+

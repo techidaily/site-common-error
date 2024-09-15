@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] League of Legends Slow Download Issue"
-date: 2024-08-09T00:49:09.073Z
-updated: 2024-08-10T00:49:09.073Z
+date: 2024-09-08T17:25:29.675Z
+updated: 2024-09-14T22:55:41.226Z
 tags:
   - win11
   - win10
@@ -25,9 +25,6 @@ League of Legends is a world popular game, but the slow download speed can easil
 
  Before you try the following fixes, you need to make sure this slow speed issue only happened on League of Legends, which means it’s nothing to do with your internet speed. Otherwise, you may need to check your internet connection first.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -48,9 +45,6 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 1. Press**Ctrl + Shift + Esc** key together on your keyboard to open the**Task Manager** .
 2. Find League of Legends program. Right-click on it and click**Open file location** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/file.jpg)
 3. In the file, find the**LOL Launcher.exe** .
 4. Right-click on it and click**Run as administrator** .
@@ -66,9 +60,6 @@ Downloading again to see if it works.
 1. Click the Start button, type**windows firewall** in the search box and press the**Enter** key to open**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
@@ -80,10 +71,6 @@ Re-download to check.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Method 3: Manually install .NET framework 3.5
 
  .NET Framework is a software that runs on Microsoft Windows. It is one of the key software which League of Legends relies on. If nothing wrong with the game, the issue might be related to Microsoft .NET Framework.
@@ -93,8 +80,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Bonus: Update your drivers
 
  Missing or outdated drivers can cause many issues. Updating If you want to have better gaming experience and prevent potential problems, you’re recommended to keep your drivers update to date.
@@ -123,10 +114,15 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -146,11 +142,27 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-pioneering-patterns-screen-cast-with-loom-pro/"><u>[New] 2024 Approved Pioneering Patterns Screen Cast with Loom Pro</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-supercharge-your-game-trailers-with-keywords-for-2024/"><u>[Updated] Supercharge Your Game Trailers with Keywords for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-picks-hilarity-driven-ringtones-for-laughter-lovers-for-2024/"><u>[Updated] Top Picks Hilarity-Driven Ringtones for Laughter Lovers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-screen-capture-solutions-top-5-recommendations-for-windows/"><u>2024 Approved Free Screen Capture Solutions – Top 5 Recommendations for Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-and-repairing-the-persistent-ce-34878-0-code-issue-on-sony-playstation-4/"><u>Bypassing and Repairing the Persistent CE-34878-0 Code Issue on Sony PlayStation 4</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-premier-smartwatch-selection-available-this-year/"><u>Discover the Premier Smartwatch Selection Available This Year</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-your-worries-6-powerful-remedies-for-werfaultexe-issues-on-windows/"><u>Eliminate Your Worries: 6 Powerful Remedies for werFault.exe Issues on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-back-those-missing-windows-on-your-desktop-screen/"><u>How To Get Back Those Missing Windows On Your Desktop Screen</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-best-outside-blu-ray-recording-drives-your-2-reliable-guide-to-2024s-options/"><u>Navigating the Best Outside Blu-Ray Recording Drives: Your 2# Reliable Guide to 2024'S Options</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-7-video-joiners-with-no-watermark-or-logo/"><u>New In 2024, Top 7 Video Joiners with No Watermark or Logo</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-when-your-laptops-mouse-wont-respond-a-comprehensive-fix/"><u>Solutions for When Your Laptop's Mouse Won’t Respond: A Comprehensive Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-windows-11-start-menu-issues-get-back-on-track-today/"><u>Ultimate Fixes for Windows 11 Start Menu Issues – Get Back on Track Today!</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-oneplus-ace-2-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of OnePlus Ace 2?</u></a></li>
+</ul></div>
+

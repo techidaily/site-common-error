@@ -1,0 +1,230 @@
+---
+title: Comprehensive Strategies for Repairing Windows RPC Server Connection Problems Quickly
+date: 2024-09-10T16:02:01.301Z
+updated: 2024-09-15T16:01:49.110Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Comprehensive Strategies for Repairing Windows RPC Server Connection Problems Quickly
+excerpt: This Article Describes Comprehensive Strategies for Repairing Windows RPC Server Connection Problems Quickly
+thumbnail: https://thmb.techidaily.com/99ddeff4dd981a34b1bf66d98e84fae1038add51e63fa5e698f7136621990952.jpg
+---
+
+## Overcoming 'Class Unregistered on Windows 11' Error – Tips & Tricks Inside
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a90d415e22e7.jpg)
+
+ If you want to open an app or program on your Windows 10, but if fails, and you’re seeing this error saying: **Class not registered** . Reset assured, you’re not alone. Many Windows users encounter this error. More importantly, you can fix it easily by yourself.
+
+ This error occurs on your Windows 10 mainly due to the app or the program with**unregistered DLL files** . You can probably fix it by these following solutions:
+
+ **Try one at a time:**
+
+1. [  Fix DCOM(Distributed Component Object Model) errors ](<https://www.drivereasy.com/knowledge/fix-class-not-registered-error-on-windows-10-solved/#Fix> 1. Fix DCOM%28Distributed Component Object Model%29 errors)
+2. [ Re-register ExplorerFrame.dll file](<https://www.drivereasy.com/knowledge/fix-class-not-registered-error-on-windows-10-solved/#Fix> 2. Re-register ExplorerFrame.dll file)
+3. [ Start Internet Explorer ETW Collector Service](<https://www.drivereasy.com/knowledge/fix-class-not-registered-error-on-windows-10-solved/#Fix> 3. Start Internet Explorer ETW Collector Service)
+4. [ Set Windows Photo Viewer as a default image viewer ](<https://www.drivereasy.com/knowledge/fix-class-not-registered-error-on-windows-10-solved/#Fix> 4. Set Windows Photo Viewer as a default image viewer)
+5. [ Disable iCloud](<https://www.drivereasy.com/knowledge/fix-class-not-registered-error-on-windows-10-solved/#Fix> 5. Disable iCloud) ``
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Fix 1: Fix DCOM(**Distributed Component Object Model)** errors
+
+ 1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+`` 2) Type **dcomcnfg**  and press Enter to open **Component Services** .
+
+``
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-19.png)
+
+``
+
+``
+
+`` 2) Go to **Component Services**  \> **Computers**  \> **My Computer**  on the Component Services window. Then double-click on **DCOM Config** .
+
+``
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-17.png)
+
+``
+
+``
+
+`` 3) Then a few DCOM Configuration warning messages will pop up. Click **Yes**  for each one.
+
+``
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-18.png)
+
+``
+
+``
+
+`` 4) Reboot your Windows 10 and open the app again to see if it goes fine.
+
+``
+
+## Fix 2: Re-register the ExplorerFrame.dll file
+
+``
+
+`
+` ``
+
+ 1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
+
+`` Click **Yes**  when prompted by User Account Control.
+
+``
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
+
+``
+
+``
+
+`` 2) Type **regsvr32 ExplorerFrame.dll**  in the command prompt window and press **Enter**  to run it.
+
+``
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
+
+``
+
+``
+
+`` 3) Open the app again to see if it goes fine.
+
+``
+
+## Fix 3: Start the Internet Explorer ETW Collector Service
+
+``
+
+ 1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+ 2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
+
+``
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
+
+``
+
+``
+ 3) Find and right-click on **Internet** **Explorer ETW Collector Service** . Then click**Start** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
+
+4) Open the app again to see if it goes fine.
+
+``
+
+## Fix 4: Set Windows Photo Viewer as a default image viewer
+
+ Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
+
+ 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
+
+``
+
+ 2) Click **System** .
+
+``
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
+
+``
+
+``
+
+`` 3) Click **Default apps**  on the left pane. Then on the right pane, scroll down to click **Reset**  under the **Reset to the Microsoft recommended defaults**  section.
+
+``
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
+
+``
+
+``
+
+4) Open the app again to see if it goes fine.
+
+ Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Fix 5: Disable iCloud
+
+ Some users reported that to disable iCloud in Task Manager fix the error for them. So make sure to try to disable icloud if you install one on Windows 10.
+
+ 1) Press**Shift** +**Ctrl** +**Esc** keys at the same time to open**Task Manager** .
+
+ 2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+3) Open the app again to see if it goes fine.
+
+That’s it!
+
+ Hopefully you have got your Windows 10 out of Class not registered error.
+
+[](https://tools.techidaily.com/drivereasy/download/)
+
+[](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)
+
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-get-your-pc-listening-to-you-not-too-x-recorder-for-2024/"><u>[New] Get Your PC Listening to You, Not Too - X-Recorder for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-visual-vibrancy-theory-turned-practice/"><u>[New] In 2024, Visual Vibrancy Theory-Turned-Practice</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-top-10-best-flvto-alternatives-youtube-converter-you-can-try-for-2024/"><u>[New] Top 10 Best Flvto Alternatives YouTube Converter You Can Try for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-picks-for-drone-pilots-vr-eyewear/"><u>[Updated] Expert Picks for Drone Pilots’ VR Eyewear</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-5-photo-background-modifier-tools-x87-series/"><u>2024 Approved Leading 5 Photo Background Modifier Tools X/8/7 Series</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-solving-ethernet-issues-in-windows-11-windows-navigating-to-os-7/"><u>Diagnosing and Solving Ethernet Issues in Windows 11 / Windows Navigating to OS 7</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-classic-usb-composite-devices-a-step-by-step-solution/"><u>Fixing Classic USB Composite Devices: A Step-by-Step Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-non-responsive-right-click-functionality-in-windows-11-computers/"><u>Fixing the Non-Responsive Right-Click Functionality in Windows 11 Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-unresponsive-right-click-functionality-on-windows-11-systems/"><u>Fixing the Unresponsive Right Click Functionality on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-elevated-cpu-use-by-windows-sound-card-driver/"><u>How to Fix Elevated CPU Use by Windows Sound Card Driver</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/obs-audio-fix-strategies-quickly-for-2024/"><u>OBS Audio Fix Strategies Quickly for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-device-connection-error-when-casting-from-a-windows-10-computer/"><u>Resolving Device Connection Error When Casting From a Windows 10 Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-code-24-fixing-the-missing-device-issue-in-windows-operating-systems/"><u>Troubleshooting Code 24: Fixing the Missing Device Issue in Windows Operating Systems</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-race-realism-5-favorites-for-2024/"><u>Ultimate Race Realism 5 Favorites for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unlocking-potential-how-to-maximize-whiteboards-in-zoom-meets-for-2024/"><u>Unlocking Potential How to Maximize Whiteboards in Zoom Meets for 2024</u></a></li>
+</ul></div>
+

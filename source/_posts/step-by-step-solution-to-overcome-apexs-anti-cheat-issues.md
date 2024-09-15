@@ -1,0 +1,221 @@
+---
+title: Step-by-Step Solution to Overcome Apex's Anti-Cheat Issues
+date: 2024-09-08T16:00:11.600Z
+updated: 2024-09-15T16:00:15.997Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Step-by-Step Solution to Overcome Apex's Anti-Cheat Issues
+excerpt: This Article Describes Step-by-Step Solution to Overcome Apex's Anti-Cheat Issues
+thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040cafc9935f89ba444801c2e0013.jpg
+---
+
+## How to Resolve Common Issues: Apex Legends Cheating Protection Bugs Fixed
+
+No game can be immune to bugs and glitches, and this is particularly true with**Apex Legends** . Ever since its launch in early 2019, the game has had quite a plethora of bugs – the**Easy Anti-Cheat error** is one of them. What happens is that the game crashes with an Easy Anti-Cheat error, making it completely unplayable.
+
+ If you’re plagued by the error, don’t worry. While it’s frustrating, it is fixable…
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## How to fix Apex Legends Easy Anti-Cheat Error
+
+ Here are seven fixes that have helped other players resolve the Easy Anti-Cheat error. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
+
+1. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Repair Apex Legends in Origin](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Run Apex Legends and Origin as Administrator](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Verify connectivity to Easy Anti-Cheat](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Add Easy Anti-Cheat and Apex Legends to your firewall exceptions list](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Install the latest patch](https://tools.techidaily.com/drivereasy/download/)**
+7. **[Reinstall Apex Legends and Origin](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Update your device drivers
+
+ This error may occur if you are using the wrong or out-dated device drivers. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.**Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the[**FREE**](https://tools.techidaily.com/drivereasy/download/) or the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2.png)  
+**Note** : You can do it for free if you like, but it’s partly manual.
+4. Restart your computer for the changes to take effect.
+5. Launch Apex Legends and check to see if the error has been fixed. If yes, then great! If the issue persists, please try**Fix 2** , below.
+
+### Fix 2: Repair Apex Legends in Origin
+
+ You may run into the Easy Anti-Cheat error if the game files are faulty or corrupt. Luckily, Origin has built the repair feature into the launcher itself, allowing you to fix little glitches on your own.
+
+Here are the steps to repair Apex Legends in Origin:
+
+1. Launch Origin.
+2. Click **My Game Library** , then right-click on **Apex Legends** and select **Repair** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-14.png)
+3. Wait until the repair process finishes.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-5.png)
+4. Once done, run Apex Legends and see if the Easy Anti-Cheat error has been resolved. If it’s no joy, please continue with**Fix 3** , below.
+
+### Fix 3: Run Apex Legends and Origin as Administrator
+
+ Apex Legends requires administrator privileges in order to access protected system resources. If the game or the game client doesn’t have the required permissions, you may receive Easy Anti-Cheat error. So you should make sure to run Apex Legends and Origin as administrator to see if it fixes the issue.
+
+ After that, launch Apex Legends game and see if the Easy Anti-Cheat error still occurs. If it doesn’t, then great! If the issue persists, please try**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Fix 4: Verify connectivity to Easy Anti-Cheat
+
+ You may encounter this error is Easy Anti-Cheat isn’t properly connected. To verify your connectivity to Easy Anti-Cheat, navigate to these two sites:
+
+* [https://download.eac-cdn.com/](https://download.eac-cdn.com/)
+* [https://download-alt.easyanticheat.net/](https://download-alt.easyanticheat.net/)
+
+**If you see the 200 – HTTP OK message** , it means your connection to Easy Anti-Cheat is healthy. You can rule this out as a possible cause and move on to Fix 6 to continue troubleshooting.
+
+**If you’re not presented with the message** , then something is blocking your Internet connection. You can move on to**Fix 5** to check if your firewall is the culprit, if not, you should contact your Internet Service Provider to locate the problem.
+
+### Fix 5: Add Easy Anti-Cheat and Apex Legends to your firewall exceptions list
+
+ A firewall is a network security system that filters incoming and outgoing network traffic by permitting/blocking specific traffic based on a set of security rules. You should allow Easy Anti-Cheat and Apex Legends through the firewall to make sure that the connection isn’t lost.
+
+ To make sure you allow these programs to communicate through Windows Defender Firewall:
+
+1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then type**control firewall.cpl** into the box and press**Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/run.png)
+2. In the window that pops up, click**Allow an app or feature through Windows Defender Firewall** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-13.png)
+3. Browse through the list of Allowed apps and features to see if Easy Anti-Cheat and Apex Legends are included. If not, click**Change settings** , click**Allow another app…** , then follow the on-screen instructions to add the apps.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/Snap5.png)
+4. Once completed, click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+5. Check to see if the error still occurs. If it doesn’t, then congrats! If it’s still happening, please move on to**Fix 6** , below.
+
+ If you have anti-virus software running in your computer, make sure you disable it temporarily too. While the role of an anti-virus program is hardly questionable, it’s known to conflict with other programs, rendering games unplayble.
+
+### Fix 6: Install the latest patch
+
+ The Anti Easy-Cheat error may be an unintended bug ensconced in the patches of the game. If this is the case, the developers would respond to this and address the issue with a new patch. So you can check out the latest patch to see if it helps fix the issue.
+
+1. Fire up Origin.
+2. Navigate to**My Game Library** , then **right-click** on **Apex Legends** and select **Update Game** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.png)
+3. Wait until you see the following message. Then click **Close** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-2.png)
+4. Open Apex Legends and hopefully the error is resolved. If not, please try**Fix 7** .
+
+### Fix 7: Reinstall Apex Legends and Origin
+
+ If you’ve exhausted the options above but the issue still sticks around, then you should perhaps reinstall the game and the Origin game launcher to see if you could put the error to rest.
+
+**Here’s how to reinstall Apex Legends:**
+
+1. Open **Origin** .
+2. Go to **My Game Library** , then **right-click** on **Apex Legends** and select **Uninstall** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/6-3.png)
+3. Download and reinstall Apex Legends.
+4. Launch the game to see if you can play without error.
+
+**Here’s how to reinstall Origin:**
+
+1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter** to open **Control Panel** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-15.png)
+2. View Control Panel by **Category** , and then click **Uninstall a program** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-14.png)
+3. Double-click **Origin** to uninstall it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-6.png)
+4. Restart your Windows system when it is completed.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+5. **[Download](https://www.dm.origin.com/download)**  the latest version of Origin and then double-click the file you downloaded to reinstall it.
+6. Launch Apex Legends to see if you can play without error.
+
+---
+
+ That’s it – hopefully this post helped. If you have any questions, ideas or suggestions, you’re more than welcome to leave us a comment below.
+
+* [Apex Legends](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/1723203476262-fix-reclaim-your-devices-efficiency-direct-steps-to-resolve-high-system-load-from-shell-infrastructures/"><u>[Fix] Reclaim Your Device’s Efficiency: Direct Steps To Resolve High System Load From Shell Infrastructures</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-picks-for-personalizing-mbp-screens-with-skins/"><u>[New] Top Picks for Personalizing MBP Screens with Skins</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-mastering-social-media-enhancing-your-facebook-page-position/"><u>[Updated] 2024 Approved Mastering Social Media Enhancing Your Facebook Page Position</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-post-a-vimeo-video-on-instagram-in-2024/"><u>[Updated] How to Post a Vimeo Video on Instagram, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-gadgets-in-auto-traffic-camera-tech/"><u>2024 Approved Premier Gadgets in Auto Traffic Camera Tech</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-blue-screen-of-death-win32-kernal-exception-0xc0-similar-problem-for-us-audience/"><u>Fixing the 'Blue Screen of Death: Win32 Kernal Exception' (0XC0 # Similar Problem for US Audience</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-y200e-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo Y200e 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Spy on Text Messages from Computer & Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-nubia-red-magic-8s-pro-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/mastering-school-without-edgenuity-videos-for-2024/"><u>Mastering School Without Edgenuity Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-wwe-2k-battlegrounds-directx-11-version-100-troubleshooting-challenge/"><u>Overcoming the WWE 2K Battlegrounds DirectX 11 Version 10.0 Troubleshooting Challenge</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-laptop-screen-turn-off-problems-quickly-and-effectively/"><u>Resolve Laptop Screen Turn-Off Problems Quickly and Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-geforce-experience-cannot-fetch-configurations-issue/"><u>Resolved: Fixing 'GeForce Experience Cannot Fetch Configurations' Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-com-surrogate-has-stopped-working/"><u>Solved: COM Surrogate Has Stopped Working</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-addressing-and-repairing-the-power-state-driver-error/"><u>Step-by-Step Solution: Addressing and Repairing the Power State Driver Error</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-elite-picks-for-dominant-automakers-of-autonomous-cars-by-2024/"><u>The Elite Picks for Dominant Automakers of Autonomous Cars by 2024</u></a></li>
+</ul></div>
+

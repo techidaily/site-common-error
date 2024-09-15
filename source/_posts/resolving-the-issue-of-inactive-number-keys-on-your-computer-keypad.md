@@ -1,7 +1,7 @@
 ---
 title: Resolving the Issue of Inactive Number Keys on Your Computer Keypad
-date: 2024-08-09T00:49:10.227Z
-updated: 2024-08-10T00:49:10.227Z
+date: 2024-09-13T20:47:57.073Z
+updated: 2024-09-15T07:03:49.324Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ Recently some**WoW** players are getting the**Your device driver is not compatib
 2. **[Reset WoW User Interface](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Make sure your PC meets the minimum specifications](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Update your device drivers
 
  It is very likely that the drivers you’ve installed on your computer are corrupt, outdated or in other ways incompatible. So you should update your drivers to see if it fixes the issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -42,9 +39,6 @@ Recently some**WoW** players are getting the**Your device driver is not compatib
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-MPOW-driver.png)  
@@ -61,25 +55,23 @@ Here’s how to do it:
 1. Exit World of Warcraft.
 2. If you have any addon managers, please uninstall to make sure they don’t re-add the removed addons.
 3. In Battle.net, click **Options** and select **Show in Explorer** .  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-4.png)
 4. Exit **Blizzard.net** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4.png)
 5. In the pop-up windows, double-click on the **World of Warcraft** folder.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-1.png)
 6. Double-click on **the game version that is having the connection issue** ( **\_retail\_**  or **\_classic\_** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6-2.png)
 7. Rename these three folders: **Cache** , **Interface** , and **WTF folders** to **CacheOld** , **InterfaceOld** , and **WTFOld** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/7.png)
 8. Relaunch World of Warcraft and see if you can play it properly. If yes, then great – you’ve resolved the error! If the issue still remains, you should try **Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure your PC meets the minimum specifications
 
@@ -100,9 +92,14 @@ Here’s how to do it:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-12.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-11.png)
 3. Click the **Display** tab and you can check what **graphics card** your PC is using.
 4. Close DirectX.
@@ -121,11 +118,27 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-top-5-facebook-video-grabber-for-2024/"><u>[New] Top 5 Facebook Video Grabber for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nlock-more-views-the-art-of-crafting-titles-and-tags-for-youtube-for-2024/"><u>[New] Unlock More Views The Art of Crafting Titles & Tags for YouTube for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-guide-to-premium-google-pixel-tones/"><u>2024 Approved Guide to Premium Google Pixel Tones</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-strategic-tips-to-enhance-your-gmeet-ppt-presentations-on-mobilelaptop/"><u>2024 Approved Strategic Tips to Enhance Your GMeet PPT Presentations on Mobile/Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/critical-system-failure-devices-at-end/"><u>Critical System Failure: Devices at End</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/el-sistema-muscular-en-espanol-descubrimiento-desde-el-brazo-a-las-unas/"><u>El Sistema Muscular en Español: Descubrimiento Desde El Brazo A Las Uñas</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-the-unable-to-record-macro-error-in-excel-2007-by-stellar-guide/"><u>How to Fix the Unable to Record Macro Error in Excel 2007?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-non-responsive-backspace-key-on-your-device/"><u>How To Repair a Non-Responsive Backspace Key on Your Device</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/kulturkontakt-deutsches-greetings-spektrum-ohne-hallo/"><u>Kulturkontakt: Deutsches Greetings-Spektrum Ohne Hallo</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-15-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 15 Plus to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fixing-the-0x800f081f-issue-during-net-framework-35-installation/"><u>Step-by-Step Guide to Fixing the '0X800F081F' Issue During .NET Framework 3.5 Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-update-issue-0xc1900208-error-resolved/"><u>Troubleshooting Windows 11 Update Issue - 0xC1900208 Error Resolved</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-secrets-to-flawless-gopro-4k-edits/"><u>Unveiling the Secrets to Flawless GoPro 4K Edits</u></a></li>
+</ul></div>
+

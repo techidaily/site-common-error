@@ -1,7 +1,7 @@
 ---
 title: "Unsticking Stuck Buttons: Essential Tips for Restoring Function to a Faulty Dell Laptop Keyboard"
-date: 2024-08-09T00:49:07.841Z
-updated: 2024-08-10T00:49:07.841Z
+date: 2024-09-11T22:03:55.680Z
+updated: 2024-09-14T22:47:51.383Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 
  If you ever run into the**laptop keys not working** on your HP laptop, don’t panic. It’s often not hard to fix at all…
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4 Fixes For Laptop Keys Not Working On HP
 
  Here are 4 fixes that have helped other users resolve their**keys not working on HP laptop** problem. Just work your way down the list until you find one that works for you.
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -42,16 +36,10 @@ Here’s how to reinstall the keyboard driver:
 
  1) Hover your mouse around**the Start button** (on the bottom left of your desktop screen), _right-click_  and then click on**Device Manager** to open Device Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -100,15 +88,14 @@ Here is how to make sure you’ve disabled Filter Keys:
 
  1) On your keyboard, press**the Windows logo key** and type**accessibility** **keyboard** **settings** . Then click **Accessibility** **keyboard** **settings** when it pops up as the Best match.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
@@ -125,6 +112,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
@@ -139,10 +133,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
@@ -150,8 +140,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Reseat your laptop battery
 
  Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot the **keys not working on laptop** issues. To do so:
@@ -177,11 +171,28 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-proven-mac-screen-recording-programs-beyond-bandicaps-success/"><u>[New] Proven Mac Screen Recording Programs Beyond Bandicap's Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-digital-diary-the-art-of-screen-recording-on-macbook-air/"><u>[Updated] 2024 Approved Digital Diary The Art of Screen Recording on MacBook Air</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-screen-review-snapshot-is-active-8-top-tier-or-not/"><u>[Updated] 2024 Approved Screen Review Snapshot Is Active 8 Top-Tier or Not?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/davinci-resolve/"><u>音声ファイルがダヴァリニ・ロール(DaVinci Resolve)で正しく読み込めない解決策</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204171759-fix-the-too-many-redirects-error-instantly-simple-solutions/"><u>Fix the 'Too Many Redirects' Error Instantly - Simple Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-driver-issues-on-your-computer-for-smooth-windows-operation-a-step-by-step-guide/"><u>Fixing Driver Issues on Your Computer for Smooth Windows Operation - A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-unboxing-and-testing-the-capabilities-of-the-affordable-linksys-wrt1900acs-for-open-networks/"><u>In-Depth Analysis: Unboxing & Testing the Capabilities of the Affordable Linksys WRT1900ACS for Open Networks</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-ie-tips-for-fixing-the-browser-has-stopped-working/"><u>Revive Your IE: Tips for Fixing the 'Browser Has Stopped Working'</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-reviving-broken-32-bit-applications-print-driver-host/"><u>Solution Found: Reviving Broken '32-Bit Applications Print Driver Host'</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-incorrect-side-by-side-configuration-on-windows-10-comprehensive-guide-and-fixes/"><u>Solve 'Incorrect Side-by-Side Configuration' On Windows 10 - Comprehensive Guide and Fixes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-fix-for-windows-encryption-mismatch-issues-errssl/"><u>Step-by-Step Fix for Windows Encryption Mismatch Issues (Err_SSL)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-infographic-index-youtubes-surprising-stat-treasury-2017-for-2024/"><u>The Infographic Index YouTube's Surprising Stat Treasury (2017) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-repairing-windows-defender-security-center-malfunctions-wrp-trouble/"><u>Understanding and Repairing Windows Defender Security Center Malfunctions: WRP Trouble</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-did-yahoo-messenger-end-a-look-back-at-its-journey/"><u>Why Did Yahoo! Messenger End? A Look Back at Its Journey</u></a></li>
+</ul></div>
+

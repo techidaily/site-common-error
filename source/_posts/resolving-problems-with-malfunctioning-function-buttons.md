@@ -1,7 +1,7 @@
 ---
 title: Resolving Problems with Malfunctioning Function Buttons
-date: 2024-08-09T00:49:07.888Z
-updated: 2024-08-10T00:49:07.888Z
+date: 2024-09-10T22:09:03.742Z
+updated: 2024-09-14T20:50:48.672Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/df17b0b8aa577c2bde2045014ca7106f6ac63b426
 
 If you’re greeted with a dark screen with this **Personalized Settings (Not Responding)** box in the upper left after**Windows Update** , don’t panic. Many users have reported the same. But luckily they’ve solved this woe with the fixes below. So read on and check them out…
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6 Fixes for Personalized Settings (Not Responding)
 
  The screenshots below are from**Windows 10** , but the fixes work in**Windows 8.1** and**7** as well.
@@ -35,32 +32,19 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Fix 1: Restart your computer
 
 1. On your keyboard, press**Ctrl** ,**Alt** and**Del** keys at the same time.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 2. In the bottom right of your screen, click **the Power button![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a02279b2c.png)**  
   and choose**Restart** .
 3. Hopefully your desktop comes up normally this time. If not, continue with**Fix 2** .
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Fix 2: Switch the network connection
 
 1. On your keyboard, press**Ctrl** ,**Alt** and**Del** keys at the same time.
 2. In the bottom right of your screen, click **the airplane mode icon![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a54a1f6ef.png)**  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (or**the computer network icon** ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d23f72604.png) ). T hen click **Airplane mode** whether it’s On or Off to switch the network connection.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d2934707d.jpg)
 3. In the middle of your computer screen, click**Sign out** .
@@ -74,9 +58,14 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Right-click on**Windows Explorer** and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a86cad1b3.jpg)
 3. Click**File** \>**Run new task** .  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8edaee0c.jpg)
 4. Type**explorer** into the box, tick**the box** before**Create this task with administrative privileges** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a9de42ba1.png)  
@@ -89,30 +78,43 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ### Fix 4: Run SFC Command
 
 1. On your keyboard, press the **Windows logo key**  and type**cmd** . Then right click on**Command Prompt** and click**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click**Yes** when prompted to confirm.
 2. In the command prompt window, type**sfc /scannow** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. 🙂
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Restart your computer and see if your desktop loads properly. If the **Personalized Settings (Not Responding)** issue still persists, continue with**Fix 5** .
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Delete a file in regedit
 
  Please note: any modifications in regedit must be proceeded with caution to avoid further problems.
 
 1. On your keyboard, press the **Windows logo key**  and type**regedit** , then right-click on**regedit** and click **Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b3d238270.png)  
 
  Click**Yes** when prompted to confirm.
@@ -142,11 +144,28 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-premium-talker-alteration-tech-for-bloggers-and-streamers/"><u>[New] 2024 Approved Premium Talker Alteration Tech for Bloggers and Streamers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-effortless-techniques-recording-and-storing-gotomeeting-data/"><u>2024 Approved Effortless Techniques Recording and Storing GoToMeeting Data</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/aquatic-adventures-top-5-anglers-choice-cameras-for-2024/"><u>Aquatic Adventures Top 5 Anglers' Choice Cameras for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-ensure-smooth-play-in-armored-core-6-on-your-personal-computer/"><u>Expert Tips to Ensure Smooth Play in Armored Core 6 on Your Personal Computer</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-cod-modern-warfare-2-directx-errors-a-comprehensive-tutorial/"><u>Fixing COD Modern Warfare 2 DirectX Errors: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-fix-ethernet-problems-on-your-windows-11-or-windows-7-computer/"><u>How to Diagnose & Fix Ethernet Problems on Your Windows 11 or Windows 7 Computer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-xiaomi-redmi-note-12-pro-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Xiaomi Redmi Note 12 Pro 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-essential-guide-to-verifying-your-youtube-profile/"><u>In 2024, The Essential Guide to Verifying Your YouTube Profile</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-touch-control-on-your-laptop-or-desktop-essential-repair-tips-for-windows-11-enthusiasts/"><u>Mastering Touch Control on Your Laptop or Desktop - Essential Repair Tips for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-excessive-noise-in-playstation-4-consoles-tips-and-tricks/"><u>Resolving Excessive Noise in PlayStation 4 Consoles - Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-function-key-malfunction-on-your-dell-pc-a-step-by-step-guide/"><u>Solving the Function-Key Malfunction on Your Dell PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-restoring-right-click-functionality-in-windows-11-pcs/"><u>Step-by-Step Solution: Restoring Right-Click Functionality in Windows 11 PCs</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: The Definitive 6-Step Approach to Fixing the werfault.exe Problem on Windows Operating Systems
-date: 2024-09-09T09:02:32.984Z
-updated: 2024-09-10T09:02:32.984Z
+date: 2024-09-10T06:58:23.146Z
+updated: 2024-09-15T15:39:28.723Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes The Definitive 6-Step Approach to Fixing the wer
 thumbnail: https://thmb.techidaily.com/4e77949115cfac19c020244425b911f0553ff80a11c2ba7a975a6f440c1a6fff.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering the Art of Fixing Windows System Crashes: Dealing with Blue Screen Error 0XC00eby
 
 **0xc0000005** is a commonly seen error code on Windows PC. There are three types of situations where you can see this error code. They are:
@@ -29,24 +23,12 @@ thumbnail: https://thmb.techidaily.com/4e77949115cfac19c020244425b911f0553ff80a1
 
  If you are dealing with this error, you can check the methods below that can help you get rid of it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1) Access violation error
 
  One of the situations where you will see error code 0xc0000005 is when you get an**Access violation error** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59506a549650c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Access violation error occurs when the program you try to run is attempting to reach a location that is not assigned for it. This can result from various reasons. You can try the methods below to troubleshoot this error.
 
 **a)**  First, you should run your**security software** to**scan out malicious programs** . Viruses or malware on your computer (if any) can affect your system and cause the 0xc0000005 error. You should run a virus scan before going to any further troubleshooting.
@@ -61,32 +43,14 @@ thumbnail: https://thmb.techidaily.com/4e77949115cfac19c020244425b911f0553ff80a1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507a17971f4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **iii.** Click the **Advanced** tab. Click the**Settings** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507b4b00aa2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **iv.** Click the **Data Execution Prevention** tab. Select **Turn on DEP for all programs and services except those I select** . Then click**Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507cc89e487.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **v.** Open the problematic**executable (.exe)** files. Then click**OK** all the way out.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507e3c65465.png)
@@ -147,22 +111,10 @@ To resolve this error, you can try the methods below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a33e24868.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On Windows 10/11, click**Create a restore** **point** ,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And then in the dialog popping up, click the**System Restore** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
@@ -187,12 +139,6 @@ To repair BCD:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3a019b37dab.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **iii.** In Command Prompt, type the following lines and press**Enter** on your keyboard after each (press the**Y** key followed by**Enter** after you enter the final line):
 
 del d:\windows\system32\xntkrnl.exe
@@ -209,12 +155,6 @@ bootrec /rebuildbcd
 
 **iv.** Close the Command Prompt window and restart your computer. Then check to see if you get rid of the error.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3) Windows installation error
 
  The third type of 0xc0000005 error is an error you can get when you are installing your Windows. The error message tells you that**Windows installation encountered an unexpected error** . At this point you cannot continue your installation.
@@ -233,8 +173,6 @@ bootrec /rebuildbcd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -244,47 +182,32 @@ bootrec /rebuildbcd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-beyond-borders-blurring-techniques-for-global-audienes/"><u>[New] 2024 Approved Beyond Borders Blurring Techniques for Global Audienes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-excellent-e-recorders-for-voices-for-2024/"><u>[New] Excellent E-Recorders for Voices for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-gain-massive-viewership-with-a-small-financial-investment/"><u>[Updated] Gain Massive Viewership with a Small Financial Investment</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-uniting-digital-and-physical-worlds/"><u>[Updated] Uniting Digital and Physical Worlds</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-advanced-5-cloud-view-recorder/"><u>2024 Approved Advanced 5 Cloud View Recorder</u></a></li>
-<li><a href="https://video-capture.techidaily.com/augment-your-audibility-the-leading-android-tools-for-voice-recording-change/"><u>Augment Your Audibility The Leading Android Tools for Voice Recording Change</u></a></li>
-<li><a href="https://common-error.techidaily.com/bluetooth-setup-hurdles-cleared-expert-solutions-for-starting-the-stack-service/"><u>Bluetooth Setup Hurdles Cleared: Expert Solutions for Starting the Stack Service</u></a></li>
-<li><a href="https://common-error.techidaily.com/bring-your-dells-non-functional-wireless-keyboard-back-to-life-with-these-tips/"><u>Bring Your Dell's Non-Functional Wireless Keyboard Back to Life with These Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-troubleshooting-techniques-for-fixing-wows-latency-problems/"><u>Comprehensive Troubleshooting Techniques for Fixing WoW's Latency Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/cxfreeze-disasters-demystified-simple-steps-to-resolve-them-easily/"><u>Cx_Freeze Disasters Demystified: Simple Steps to Resolve Them Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-why-windows-cant-search-for-system-updates/"><u>Diagnosing and Repairing: Why Windows Can't Search for System Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-windows-11-how-to-make-uwp-app-shortcuts/"><u>Enhancing Windows 11: How to Make UWP App Shortcuts</u></a></li>
-<li><a href="https://common-error.techidaily.com/expedited-reinstating-logildadll/"><u>Expedited: Reinstating LogiLDA.dll</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-establishing-a-stable-connection-between-xbox-one-and-xbox-live-services/"><u>Expert Tips for Establishing a Stable Connection Between Xbox One and Xbox Live Services</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-get-your-hp-laptop-keys-working-again-immediately/"><u>Expert Tips to Get Your HP Laptop Keys Working Again Immediately</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-how-to-resolve-unresponsive-google-chrome-issues/"><u>Fix: How to Resolve Unresponsive Google Chrome Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-gaming-related-pc-shutdowns-on-windows-systems-win11-win10-win7-win81-and-win8/"><u>Fixes for Gaming-Related PC Shutdowns on Windows Systems - Win11, Win10, Win7, Win8.1 & Win8</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-class-unregistered-errors-in-windows-11-a-comprehensive-guide/"><u>Fixing 'Class Unregistered' Errors in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/geforce-experience-fixes-solving-problems-in-getting-setup-parameters/"><u>GeForce Experience Fixes - Solving Problems in Getting Setup Parameters</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-solve-missing-directx-9-library-d3dxt939dll-problems-in-windows-systems/"><u>How to Correctly Solve Missing DirectX 9 Library d3dxt9_39.dll Problems in Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-0x80eb0922-error-during-windows-11-updates-eight-effective-methods/"><u>How to Fix the 0X80eb0922 Error During Windows 11 Updates - Eight Effective Methods</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-your-touchscreen-in-windows-10-5-ways/"><u>How to Fix Your Touchscreen in Windows 10 [5 Ways]</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-itel-p55plus-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Itel P55+ FRP Bypass Instantly</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/master-the-craft-with-stellar-comprehensive-guides-to-article-writing-and-diy-tips/"><u>Master the Craft with Stellar: Comprehensive Guides to Article Writing & DIY Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-controlled-group-policies-and-settings-in-a-windows-network/"><u>Mastering Controlled Group Policies & Settings in a Windows Network</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-challenges-with-deficient-xinput13dll-availability/"><u>Overcoming Challenges with Deficient XINPUT1_3.dll Availability</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-display-issues-fixing-hdcp-unsupported-devices/"><u>Overcoming Display Issues: Fixing HDCP Unsupported Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-1ntricacies-effective-fixes-for-error-0x80072efd-on-windows-11-systems/"><u>Overcoming Windows 1Ntricacies: Effective Fixes for Error 0X80072EFD on Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solution-for-change-rendering-api-problems-in-dota-2-error-2024/"><u>Quick Solution for 'Change Rendering API' Problems in Dota 2 - Error 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-initialization-error-with-dragon-ball-fighterzs-networking-features/"><u>Resolved: Initialization Error with Dragon Ball FighterZ's Networking Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-0x80n0705b4-windows-update-issue-on-windows-10-detailed-solutions/"><u>Resolving 0X80n0705b4 Windows Update Issue on Windows 10 [Detailed Solutions]</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/score-big-savings-snag-asus-2024-rog-zephyrus-g14-oled-screen-rtx-4060-for-300-less/"><u>Score Big Savings: Snag ASUS 2024 ROG Zephyrus G14 - OLED Screen, RTX 4060 for $300 Less!</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-the-bluetooth-not-found-problem-in-windows-11-step-by-step-guide/"><u>Solve the 'Bluetooth Not Found' Problem in Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211151686-solve-your-headset-woes-the-ultimate-guide-to-restoring-steelseries-arctis-5-mic-performance/"><u>Solve Your Headset Woes! The Ultimate Guide to Restoring SteelSeries Arctis 5 Mic Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-address-the-problem-of-being-plugged-in-but-laptop-wont-charge-in-windows-710/"><u>Step-by-Step Guide to Address the Problem of Being Plugged In but Laptop Won’t Charge in Windows 7/10</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-reactivating-the-webcam-feature-on-a-lenovo-computer/"><u>Step-by-Step Guide: Reactivating the Webcam Feature on a Lenovo Computer</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-elusive-guide-to-unseen-menu-adjustments-windows-style/"><u>The Elusive Guide to Unseen Menu Adjustments, Windows Style</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-windows-11s-bluetooth-connection-issues/"><u>Troubleshooting Guide: Solving Windows 11'S Bluetooth Connection Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-limited-capacity-issues-during-command-execution/"><u>Troubleshooting Limited Capacity Issues During Command Execution</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-randomly-pressed-buttons-fixes-for-keyboard-errors/"><u>Troubleshooting Randomly Pressed Buttons: Fixes for Keyboard Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-keyboard-fails-to-register-inputs/"><u>Troubleshooting Steps - When Keyboard Fails to Register Inputs</u></a></li>
-<li><a href="https://common-error.techidaily.com/unsuccessful-feature-installation-on-windows-n-11-version-1607-how-to-fix-it/"><u>Unsuccessful Feature Installation on Windows N 11 Version 1607: How to Fix It</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-screen-saver-troubles-here-are-the-fixes/"><u>Windows 10 Screen Saver Troubles? Here Are the Fixes!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-finding-the-facebook-in-niche-driven-instagram-realms/"><u>[New] 2024 Approved Finding the Face(book) in Niche-Driven Instagram Realms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pro-cameras-showdown-gopro-max-vs-hero-11-comparison/"><u>[New] Pro Cameras Showdown GoPro Max VS Hero 11 Comparison</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-elevating-your-content-game-with-these-top-20-tiktok-captions/"><u>[Updated] 2024 Approved Elevating Your Content Game with These Top 20 TikTok Captions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/creation-of-international-institutions/"><u>Creation of International Institutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-power-on-your-unlit-razer-keyboard/"><u>Expert Tips to Restore Power on Your Unlit Razer Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204171759-fix-the-too-many-redirects-error-instantly-simple-solutions/"><u>Fix the 'Too Many Redirects' Error Instantly - Simple Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-gain-access-adjusting-file-permissions-via-trustedinstaller/"><u>How to Gain Access: Adjusting File Permissions via TrustedInstaller</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-phantom-v-flip-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Tecno Phantom V Flip PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721457999620-idevice-not-receiving-new-updates-learn-these-9-troubleshooting-tips-immediately/"><u>IDevice Not Receiving New Updates? Learn These 9 Troubleshooting Tips Immediately</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/macbook-pro-power-on-issues-heres-how-you-can-fix-them/"><u>MacBook Pro Power On Issues? Here's How You Can Fix Them</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-deadlock-irreparable-error/"><u>System Deadlock: Irreparable Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-repairing-windows-defender-security-center-malfunctions-wrp-trouble/"><u>Understanding and Repairing Windows Defender Security Center Malfunctions: WRP Trouble</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-stability-upgrade-fixing-pixel-anomalies-and-ending-the-screen-dance/"><u>Windows 11 Stability Upgrade: Fixing Pixel Anomalies and Ending the Screen Dance.</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

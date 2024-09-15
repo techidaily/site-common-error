@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Correcting Windows Update Failure (Error 0X80070002)
-date: 2024-08-09T00:49:09.257Z
-updated: 2024-08-10T00:49:09.257Z
+date: 2024-09-11T13:09:16.811Z
+updated: 2024-09-14T19:05:00.080Z
 tags:
   - win11
   - win10
@@ -25,21 +25,10 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 
 2) Launch Internet Explorer. Click the**settings icon** on the very top right. Then choose**Internet options** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/1-5.png)
 
  3) Click **LAN settings**  under**Connection** pane.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/2-4.png)
 
 4) Check on Automatically detect settings
@@ -62,9 +51,6 @@ Now try to install Windows Updates now.
 
  Then click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
 
 6) Exit Internet Explorer and run Command Prompt.
@@ -83,10 +69,6 @@ Find and click to open Command Prompt from Start menu.
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Fix 3\. Change DNS Servers
 
  If there were any issue of your ISP(Internet service provider), it could also lead to Error 0x8024402c. Change DNS Servers into public one can solve it.
@@ -103,9 +85,6 @@ Double-click on your active Network Adapter.
 
  Then click **Properties**  and double-click on **Internet Protocol Version 4 (TCP/IPv4)** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
 3) Locate Use the following DNS server addresses.
@@ -130,17 +109,18 @@ If the fixes above didn’t serve you, try this one.
 
  Click **Yes**  when prompted by User Account Control.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
@@ -156,23 +136,37 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
 
  And name the new key**A** **U** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
 
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
  Name the new value **UseWUServer** .
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -180,14 +174,11 @@ After the fixes above, Windows Update should be good to go now.
 
 * [Windows Update](/tag-search/?tagId=62)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -195,3 +186,22 @@ After the fixes above, Windows Update should be good to go now.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-extensive-breakdown-what-the-google-podcast-app-means-for-you/"><u>[New] Extensive Breakdown What the Google Podcast App Means for You</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-navigating-echo-reduction-techniques-in-audacity-for-2024/"><u>[New] Navigating Echo Reduction Techniques in Audacity for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/esolving-the-disappearance-of-shorts-thumbnails-for-2024/"><u>[New] Resolving the Disappearance of Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-telehealth-advancements-with-vr-integrations/"><u>[New] Telehealth Advancements with VR Integrations</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-15-plusipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 15 Plus/iPad | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/excel-mastery-through-artificayerly-crafted-chatgpt-solutions/"><u>Excel Mastery Through Artificayerly-Crafted ChatGPT Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/google-pixels-latest-rumors-expected-price-tag-probable-release-date-and-specs-overview/"><u>Google Pixel's Latest Rumors: Expected Price Tag, Probable Release Date & Specs Overview</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-cannot-create-directx-graphics-device-error-solutions-included/"><u>How to Fix the 'Cannot Create DirectX Graphics Device' Error - Solutions Included</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-hidefake-snapchat-location-on-your-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-physxloaderdll-not-found-error-when-starting-games/"><u>Resolving the 'physxloader.dll Not Found' Error When Starting Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/success-story-fixing-the-persistent-unrecoverable-directx-error-issue/"><u>Success Story: Fixing the Persistent Unrecoverable DirectX Error Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-a-missing-printer-or-scanner-driver-in-windows-a-step-by-step-guide/"><u>Troubleshooting a Missing Printer or Scanner Driver in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstoppable-exe-how-to-handle-application-stopped-working-mishaps/"><u>Unstoppable Exe: How to Handle Application Stopped Working Mishaps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-simplify-your-workflow-gopro-quik-video-editing-made-easy-on-macbook-for-2024/"><u>Updated Simplify Your Workflow GoPro Quik Video Editing Made Easy on MacBook for 2024</u></a></li>
+</ul></div>
+

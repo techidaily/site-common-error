@@ -1,7 +1,7 @@
 ---
 title: Fix Common Elevation Errors During Operation Requests in Windows Operating Systems
-date: 2024-09-09T09:04:37.643Z
-updated: 2024-09-10T09:04:37.643Z
+date: 2024-09-07T16:28:06.895Z
+updated: 2024-09-14T19:45:48.993Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Fix Common Elevation Errors During Operation Req
 thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Resolving Audio Glitches: Speaker Issues on Windows Operating Systems Solved
 
 If you ever encounter this**speaker crackling** issue, don’t worry. Many users have reported this problem too.
@@ -37,12 +31,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -52,18 +40,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Right-click on**speakers** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
@@ -90,12 +66,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Adjust **the minimum processor state**
 
  Adjusting**the minimum processor state** , as reported by many users, is another effective way to fix the annoying sound problem in our speaker. To do so:
@@ -103,36 +73,28 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
 ---
@@ -148,8 +110,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,40 +119,18 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-tier-free-screen-capture-programs-2023-edition/"><u>[New] 2024 Approved Top-Tier Free Screen Capture Programs – 2023 Edition</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-complete-guide-to-mastering-picsart/"><u>[Updated] Complete Guide to Mastering PicsArt</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-revolutionize-your-posts-best-igtv-edits-unveiled-for-2024/"><u>[Updated] Revolutionize Your Posts Best IGTV Edits Unveiled for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/1-lost-memories-revived-customers-heartfelt-success-with-photo-recovery/"><u>1 Lost Memories Revived: Customer's Heartfelt Success with Photo Recovery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unique-business-symbols-edit-refine-and-download-logos-from-template-basics/"><u>2024 Approved Unique Business Symbols Edit, Refine, and Download Logos From Template Basics</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-videographers-guide-to-capturing-sports-competitions/"><u>2024 Approved Videographer's Guide to Capturing Sports Competitions</u></a></li>
-<li><a href="https://common-error.techidaily.com/abrupt-termination-devices-last-stand/"><u>Abrupt Termination: Devices' Last Stand</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/advanced-techniques-in-apples-preview-app-for-professional-level-image-editing-on-mac/"><u>Advanced Techniques in Apple's Preview App for Professional-Level Image Editing on Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-addressing-pc-performance-problems-in-monster-hunter-world/"><u>Diagnosing and Addressing PC Performance Problems in 'Monster Hunter: World'</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-ending-vertical-scrolling-glitches-in-windows-10/"><u>Diagnosing and Ending Vertical Scrolling Glitches in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/directx-error-resolution-handling-the-unrecoverable-error-exception/"><u>DirectX Error Resolution: Handling the 'Unrecoverable Error' Exception</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fixes-how-to-ensure-successful-steam-updates-downloading-process/"><u>Easy Fixes: How to Ensure Successful Steam Updates Downloading Process</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-steps-to-resolve-monitor-errors-with-no-image-or-video-output/"><u>Easy Steps to Resolve Monitor Errors with No Image or Video Output</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fixes-for-windows-11-bluetooth-disappearance-errors/"><u>Effortless Fixes for Windows 11 Bluetooth Disappearance Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-0x887a0006-unraveled-effortless-fixes-inside/"><u>Error 0X887A0006 Unraveled: Effortless Fixes Inside!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-dark-launch-issue-resolving-black-screen-at-game-boot-in-monster-hunter-world/"><u>Fixing the Dark Launch Issue - Resolving 'Black Screen at Game Boot' In Monster Hunter: World</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-unresponsive-touchpad-scroll-issues-in-windows-10/"><u>Fixing Unresponsive Touchpad Scroll Issues in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207339862-fortnite-successfully-started-now/"><u>Fortnite: Successfully Started Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-elevated-cpu-use-by-the-32-bit-iastordatasvc-on-windows-11-solution/"><u>How to Fix Elevated CPU Use by the 32-Bit IAstorDataSvc on Windows 11 [Solution]</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-reactivate-personalized-configuration-options-that-wont-respond/"><u>How to Reactivate Personalized Configuration Options That Won’t Respond</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-mini-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 mini without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/hp-laptop-camera-issues-in-windows-11-heres-how-to-get-it-working-again/"><u>HP Laptop Camera Issues in Windows 11? Here's How to Get It Working Again!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/integrating-online-entertainment-setting-up-a-smart-home-theater-with-wi-fi-connectivity/"><u>Integrating Online Entertainment: Setting Up a Smart Home Theater with Wi-Fi Connectivity</u></a></li>
-<li><a href="https://common-error.techidaily.com/league-of-legends-lag-no-more-speedy-download-fixes-unveiled/"><u>League of Legends Lag No More: Speedy Download Fixes Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/minecraft-troubles-beat-error-code-5-with-these-expert-fixes/"><u>Minecraft Troubles? Beat Error Code 5 with These Expert Fixes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/most-advanced-audio-to-written-conversion-tools/"><u>Most Advanced Audio to Written Conversion Tools</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/nba-2k24-error-guide-solving-issue-727e66ac-with-easy-troubleshooting-steps/"><u>NBA 2K24 Error Guide: Solving Issue 727E66ac with Easy Troubleshooting Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211977815-overcome-windows-update-challenge-clear-error-8007000e-effortlessly/"><u>Overcome Windows Update Challenge: Clear Error 8007000E Effortlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209845733-resolving-the-troublesome-0x80240017-windows-update-issue-proven-solutions/"><u>Resolving the Troublesome 0X80240017 Windows Update Issue: Proven Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-the-windows-11-will-not-shut-down-issue-proven-methods-inside/"><u>Solve the 'Windows 11 Will Not Shut Down' Issue - Proven Methods Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-resolution-to-your-olive-obstacle-in-nba-2k21-solving-steps-unpacked/"><u>The Resolution to Your Olive Obstacle in NBA 2K21 - Solving Steps Unpacked!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-nubia-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Nubia Android SIM Unlock APK</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-acer-laptop-solutions-when-it-wont-charge/"><u>Troubleshooting Acer Laptop: Solutions When It Won't Charge</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-lenovo-mousepad-issues-on-windows-1087-fixes-and-solutions/"><u>Troubleshooting Lenovo Mousepad Issues on Windows 10/8/7: Fixes and Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-to-troubleshooting-and-solving-crashes-in-total-war-rome-remastered/"><u>Ultimate Guide to Troubleshooting and Solving Crashes in Total War: Rome Remastered</u></a></li>
-<li><a href="https://common-error.techidaily.com/wmi-overload-fix-win1011-performance-boost/"><u>WMI Overload Fix: Win10/11 Performance Boost</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-electorate-engagement-experience-top-gaming-selections-for-2024/"><u>[New] Electorate Engagement Experience Top Gaming Selections for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-expert-advice-for-aspiring-youtube-stars-the-art-of-reaction-videos-3-essential-steps/"><u>[Updated] Expert Advice for Aspiring YouTube Stars - The Art of Reaction Videos (3 Essential Steps)</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x8024200d-windows-update-failure-solved/"><u>Error 0X8024200d – Windows Update Failure [SOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-typing-the-wrong-keys-on-your-keyboard/"><u>How to Fix Typing the Wrong Keys on Your Keyboard</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-nubia-red-magic-9-proplus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Nubia Red Magic 9 Pro+ Location | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-value-uncertainty-issues-in-windows-10/"><u>Overcoming Value Uncertainty Issues in Windows 10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/recover-lost-watch-visual-preview/"><u>Recover Lost Watch Visual Preview</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-persistent-0x80240017-issue-with-windows-updates-a-step-by-step-guide/"><u>Resolving the Persistent 0X80240017 Issue with Windows Updates - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/strategies-for-preventing-system-conflict-over-shared-resources/"><u>Strategies for Preventing System Conflict Over Shared Resources</u></a></li>
+<li><a href="https://common-error.techidaily.com/taming-the-noise-effective-ways-to-quiet-a-boisterous-ps4/"><u>Taming the Noise: Effective Ways to Quiet a Boisterous PS4</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-quintessential-list-of-11-empowering-films-to-transform-your-perspective/"><u>The Quintessential List of 11 Empowering Films to Transform Your Perspective</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/travel-tech-essentials-utilizing-roku-for-hotel-or-school-wi-fi-networks/"><u>Travel Tech Essentials: Utilizing Roku for Hotel or School Wi-Fi Networks</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-error-4220-in-call-of-duty-world-war-ii-gameplay/"><u>Troubleshooting Error 4220 in Call of Duty World War II Gameplay</u></a></li>
 </ul></div>
+

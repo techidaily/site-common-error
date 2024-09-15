@@ -1,7 +1,7 @@
 ---
 title: How to Fix 'Secure Connection Failed' Error in Mozilla Firefox
-date: 2024-08-09T00:49:08.904Z
-updated: 2024-08-10T00:49:08.904Z
+date: 2024-09-11T01:54:21.084Z
+updated: 2024-09-15T13:40:32.031Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/8c3fea9ecff5819a34ecdfc34985ff0e7d79f6ba1
 
 ## Resolving the Unknown Issuer Error in Mozilla Firefox - Quick Solutions
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c11ffb5cd5be.jpg)
 
  You might see an error message of**SEC\_ERROR\_UNKNOWN\_ISSUER** in Firefox, and you can’t open the webpages. This is frustrating. But don’t panic! There is something you can do to fix the error.
@@ -56,28 +53,39 @@ To do so, follow the steps below:
 
 1. If Firefox is open click the**menu button** and click**Exit** to close Firefox.  
  If Firefox in your computer is already closed, head to the next step.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12025bb9964.jpg)
 2. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box.
 3. Type**firefox.exe -P** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1202b7e8d62.jpg)
 4. **Firefox – Choose User Profile** will pop up. Click**Create Profile** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12020cdc034.png)
 5. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Re-launch Firefox and log in your new user profile.
 7. Open the website again to see if your problem has been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable SSL scanning in your antivirus software
 
  Sometimes your antivirus program prevents your computer from visiting the websites without certificate issuer. If you want to open the website that’s giving you the SEC\_ERROR\_UNKNOWN\_ISSUER error, you’ll need to disable SSL scanning in your antivirus program.
@@ -91,9 +99,6 @@ To do so, follow the steps below:
 3. Uncheck the box next to**Enable HTTPS scanning** in the pop-up window. Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12013f88f23.jpg)
 4. Click**OK** again to save your changes.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12019e3eba4.jpg)
 5. Re-open Firefox, and open the website again to see if it works now.
 
@@ -110,11 +115,27 @@ To do so, follow the steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-cutting-edge-third-place-ipad-audio-capture-apps/"><u>[New] In 2024, Cutting-Edge Third-Place iPad Audio Capture Apps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-watch-unseen-selective-tools-for-insta-enthusiasts/"><u>[Updated] In 2024, Watch Unseen Selective Tools for Insta Enthusiasts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-facebooks-full-potential-4-sharing-techniques/"><u>[Updated] Unlocking Facebook's Full Potential 4 Sharing Techniques</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/auditory-adventures-at-home-a-step-by-nstep-guide-for-the-sound-enthusiast-starter/"><u>Auditory Adventures at Home: A Step-by-nStep Guide for the Sound Enthusiast Starter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-do-i-enable-adobe-flash-player-on-chrome-firefox-opera-and-edge/"><u>How Do I Enable Adobe Flash Player on Chrome, Firefox, Opera and Edge?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-premier-10-subtitle-editing-software-online/"><u>In 2024, Premier 10 Subtitle Editing Software Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-bluetooth-pairing-with-a-simple-guide-for-windows-7-users/"><u>Mastering Bluetooth Pairing with a Simple Guide for Windows 7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-typing-woes-fix-unresponsive-letter-keys-in-windows-10-and-11/"><u>Solve Your Typing Woes: Fix Unresponsive Letter Keys in Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205191382-svchostexe-cpu-hogs-in-windows-10-discover-efficient-solutions-for-immediate-relief/"><u>Svchost.exe CPU Hogs in Windows 10? Discover Efficient Solutions for Immediate Relief</u></a></li>
+<li><a href="https://common-error.techidaily.com/uninstall-and-reinstall-audio-drivers-a-remedy-for-windows-11-sound-failures/"><u>Uninstall and Reinstall Audio Drivers - A Remedy for Windows 11 Sound Failures</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unselect-recommended-podcasts-efficiently-on-spotify/"><u>Unselect Recommended Podcasts Efficiently on Spotify</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-your-devices-drivers-a-simple-solution-for-wow-incompatibility-issues/"><u>Update Your Device's Drivers: A Simple Solution for WoW Incompatibility Issues</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/what-is-screenplay/"><u>What Is Screenplay</u></a></li>
+</ul></div>
+

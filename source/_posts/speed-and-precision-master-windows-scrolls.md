@@ -1,7 +1,7 @@
 ---
 title: "Speed and Precision: Master Windows Scrolls"
-date: 2024-08-09T00:49:08.964Z
-updated: 2024-08-10T00:49:08.964Z
+date: 2024-09-11T14:06:41.644Z
+updated: 2024-09-15T11:47:40.307Z
 tags:
   - win11
   - win10
@@ -17,27 +17,17 @@ thumbnail: https://thmb.techidaily.com/7b420d51a7e917d12325acc7124ce448649fcdb3a
 
 If you have a razer keyboard which has many lights on and meant to lighten up, but it stops working, you might be frustrated. Don’t worry, you’re not alone and you’ve come to the right place! The fixes here can solve this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [**Plug your keyboard in another USB port**](https://tools.techidaily.com/drivereasy/download/)
 2. [**Uninstall and reinstall Razer Synapse**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Plug your keyboard in another USB port
 
  It’s probably caused by the poor connection. Plug your keyboard into another USB port and check if it does light up. If it does and everything works well, it’s your USB port that has the issue.  
  If it doesn’t light up, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### Fix 2: Uninstall and reinstall Razer Synapse
 
  Plug your keyboard into another computer to see it light up or not. If it doesn’t light up, it might be a hardware problem and you need to contact Razer support.  
@@ -47,10 +37,6 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 2. Uninstall Synapse.
 3. Press**Windows key + R** together to open the Run box.
 4. Type “service.msc” and press**Enter** to open Windows Services. Make sure all Razer services listed are stopped.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/services.jpg)
 5. Go to C:\\Users\\Your user name\\AppData and delete any Razer folders.
 6. Go to C:\\Program Files (x86)… or wherever you installed Synapse and delete the Razer folders.
@@ -61,8 +47,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 11. Plug your keyboard and check the lightening.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your driver
 
  The problem can be caused by faulty drivers. So one of the things you should do is to verify that all your devices have the right drivers, and update those that don’t.
@@ -78,9 +68,14 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 3. Click the **Update**  button next to the flagged device to automatically download the correct version of its driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)  
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. After updating the drivers, check to see the issue is resolved or not.
 
@@ -94,11 +89,27 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-captivate-your-circle-the-art-of-sending-gifs-on-snapchat/"><u>[New] In 2024, Captivate Your Circle The Art of Sending Gifs on Snapchat</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-webcam-buying-simplified-the-best-10-options/"><u>[New] In 2024, Webcam Buying Simplified The Best 10 Options</u></a></li>
+<li><a href="https://fox-that.techidaily.com/19-effective-solutions-for-fixing-the-hey-siri-feature-not-working-correctly-in-ios-systems/"><u>19 Effective Solutions for Fixing the 'Hey Siri' Feature Not Working Correctly in iOS Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-instant-windows-photograph-gazing-tool-for-2024/"><u>Best Instant Windows Photograph Gazing Tool for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211076397-ce-34878-0-glitch-on-ps4-heres-how-you-can-easily-solve-it/"><u>CE-34878-0 Glitch on PS4? Here's How You Can Easily Solve It</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-making-a-damaged-dell-usb-port-work-again/"><u>Expert Advice on Making a Damaged Dell USB Port Work Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-missing-entry-point-error-in-windows-programs/"><u>How to Fix the Missing Entry Point Error in Windows Programs</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-missing-network-connections-on-windows-11-devices/"><u>How to Resolve Missing Network Connections on Windows 11 Devices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/leading-screen-recorders-without-performance-delay/"><u>Leading Screen Recorders Without Performance Delay</u></a></li>
+<li><a href="https://common-error.techidaily.com/stay-on-top-of-your-battle-royale-essential-tips-to-avoid-unexpected-game-shutdowns/"><u>Stay on Top of Your Battle Royale: Essential Tips to Avoid Unexpected Game Shutdowns</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-battle-of-flagships-iphone-15-pro-max-vs-samsung-s24-ultra-analysis/"><u>The Battle of Flagships: IPhone 15 Pro Max Vs. Samsung S24 Ultra Analysis</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-compreenas-for-snapchat-success-stories/"><u>The Compreenas for SnapChat Success Stories</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-bootup-keys-not-responding-heres-how-to-restore-functionality/"><u>Windows 11 Bootup Keys Not Responding? Here's How to Restore Functionality</u></a></li>
+</ul></div>
+

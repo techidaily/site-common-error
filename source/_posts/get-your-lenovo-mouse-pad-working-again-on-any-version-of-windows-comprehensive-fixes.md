@@ -1,7 +1,7 @@
 ---
 title: Get Your Lenovo Mouse Pad Working Again on Any Version of Windows - Comprehensive Fixes!
-date: 2024-08-09T00:49:10.015Z
-updated: 2024-08-10T00:49:10.015Z
+date: 2024-09-07T22:29:08.461Z
+updated: 2024-09-15T08:07:30.004Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/615ccea35f3975e2e23f9f8f0c68324d21de4feaa
 
  If the keypad suddenly stops working on your laptop, don’t worry. Thousands of users have reported the same. Luckily they’ve solved this woe with the one of the 3 fixes below. So read on and check them out…
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  All the fixes below work in **Windows 10** , **8** and **7** . You may not have to try them all; just work your way down the list until this**laptop keyboard not working** problem goes away.
@@ -30,16 +27,10 @@ thumbnail: https://thmb.techidaily.com/615ccea35f3975e2e23f9f8f0c68324d21de4feaa
 2. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Reseat your laptop battery**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Reinstall your keyboard driver
 
  The incorrectly installed/ corrupted keyboard driver may account for this**keypad on laptop not working** issue. So we can try reinstalling the driver and see if the keys work properly again. Here’s a quick walk-through:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 1. On your keyboard, press **the Windows logo key** **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Locate and double-click on **Keyboards** , then right-click on your keyboard and click **Uninstall device** .  
@@ -49,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/615ccea35f3975e2e23f9f8f0c68324d21de4feaa
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your keyboard driver
 
  Your outdated keyboard driver may very well be another reason responsible for this **keys not working in laptop** problem if**Fix 1** didn’t help with the situation. We might have to update our keyboard driver to the latest version to make sure problems don’t exacerbate.
@@ -67,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/615ccea35f3975e2e23f9f8f0c68324d21de4feaa
  You can update your drivers automatically with either **[the FREE](https://tools.techidaily.com/drivereasy/download/)**  or[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Type on your keypad and test if the**laptop keypad not working** problem has been fixed.
@@ -77,8 +62,12 @@ thumbnail: https://thmb.techidaily.com/615ccea35f3975e2e23f9f8f0c68324d21de4feaa
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3:  Reseat your laptop battery
 
  Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot this**laptop** **keyboard not working** issue. To do so:
@@ -104,11 +93,26 @@ thumbnail: https://thmb.techidaily.com/615ccea35f3975e2e23f9f8f0c68324d21de4feaa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-craft-and-share-360-videos-to-youtube-an-essential-guide-for-creators/"><u>[New] In 2024, Craft and Share 360 Videos to YouTube An Essential Guide for Creators</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-photographic-lifelines-in-the-cloud-affordable-and-elite-storage-solutions/"><u>[New] In 2024, Photographic Lifelines in the Cloud Affordable & Elite Storage Solutions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-pro-level-snap-tech-free-from-any-delaying-hiccups/"><u>[Updated] 2024 Approved Pro-Level Snap Tech Free From Any Delaying Hiccups</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-twitch-time-travel-retrieve-lost-broadcast-moments/"><u>[Updated] 2024 Approved Twitch Time-Travel Retrieve Lost Broadcast Moments</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-21-witty-tiktok-joke-and-puzzle-collection/"><u>[Updated] In 2024, 21 Witty TikTok Joke & Puzzle Collection</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-error-code-0x800f081f-successful-setup-of-net-framework-groove-in-windows/"><u>Bypassing Error Code 0X800F081F - Successful Setup of .NET Framework Groove in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-restore-key-usage-on-computers-and-phones/"><u>Comprehensive Guide to Restore @ Key Usage on Computers and Phones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-bridge-chatgpt-and-whatsapp-platforms-a-revolution-in-customer-support-solutions/"><u>How to Bridge ChatGPT and WhatsApp Platforms: A Revolution in Customer Support Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-ensure-wd-my-passport-ultra-connects-and-shows-up-in-your-windows-environment/"><u>How to Ensure WD My Passport Ultra Connects and Shows Up in Your Windows Environment</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55plus-phone-without-password-by-drfone-android/"><u>How To Unlock Itel P55+ Phone Without Password?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionizing-work-with-windows-10-innovations/"><u>In 2024, Revolutionizing Work with Windows 10 Innovations</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-battle-royale-games-resolving-in-game-crashes/"><u>Troubleshooting Tips for Battle Royale Games - Resolving In-Game Crashes</u></a></li>
+</ul></div>
+

@@ -1,0 +1,165 @@
+---
+title: "Mastering Network Troubleshooting: How To Correctly Repair Your PC's Ethernet Connection for Windows 7 & 10 Devotees"
+date: 2024-09-08T16:08:52.700Z
+updated: 2024-09-15T16:03:32.475Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: "This Article Describes Mastering Network Troubleshooting: How To Correctly Repair Your PC's Ethernet Connection for Windows 7 & 10 Devotees"
+excerpt: "This Article Describes Mastering Network Troubleshooting: How To Correctly Repair Your PC's Ethernet Connection for Windows 7 & 10 Devotees"
+thumbnail: https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d86117d513193a67649a60b72.jpg
+---
+
+## Troubleshooting Guide: Starting the Hosted Network in Windows 10 Fixed
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595da421ab523.jpg)
+
+ “**The hosted network couldn’t be started** ” error may occur when you set up WiFi hotspot via command prompt. The issue is very likely due to your WiFi network adapter. But no worry! We’ve got the answer for you. In this post, we will be showing you the tried-and-true methods to fix “The hosted network couldn’t be started” error on Windows 10\. Read along please.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Try these fixes
+
+1. [Enable Microsoft Hosted Network Virtual Adapter](https://tools.techidaily.com/drivereasy/download/)
+2. [Check your wireless network adapter](https://tools.techidaily.com/drivereasy/download/)
+3. [Update your WiFi driver](https://tools.techidaily.com/drivereasy/download/)
+
+## Method 1\. Enable Microsoft Hosted Network Virtual Adapter
+
+ 1)Press**Windows** key +**X** key together to open quick-access menu.  
+ Click**Device Manager** to open it.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b0c9c888b5.png)
+
+ 2)Click**View** icon and tick on**Show hidden devices** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595daff2127b9.png)
+
+ 3)Find and expand**Network adapters** dialog.  
+ Then right-click on**Microsoft Hosted Network Virtual Adapter** to choose**Enable device** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db07149d8a.jpg)
+
+4)Now set your WiFi hotspot again to see if the error has been fixed.
+
+## Method 2\. Check your wireless network adapter
+
+ 1)Follow[step 1 in Method 1](https://tools.techidaily.com/drivereasy/download/) to open Device Manager.
+
+ 2)Find and expand**Network adapters** dialog.  
+ Then right-click on your wireless network adapter to choose**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db5161c78b.jpg)
+
+ 3)View on**Power Management** pane.  
+ Make sure**Allow the comoputer to turn off this device to save power** is**unchecked** and click**OK** to save settings.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db64b2e5ab.png)
+
+ If unluckily, neither method 1 nor method 2 helps you fix the error, it’s advise that update your WiFi driver with Method 3.
+
+## Method 3\. Update your WiFi driver
+
+ It is very important to update your WiFi drivers, because the wrong or outdated drivers may cause problems.
+
+ There are two ways you can update your driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[automatically (Recommend)](https://www.drivereasy.com/knowledge/solved-the-hosted-network-couldnt-be-started-on-windows-10/#op2) .
+
+#### Option 1 – Manually
+
+ 1) Follow[step 1 in Method 1](https://tools.techidaily.com/drivereasy/download/) to open Device Manager.
+
+ 2) Find and expand the**Network adapters** . Right-click on your wireless network adapter in Device Manager.  
+ Then choose**Update driver** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db84f55cbc.jpg)
+
+ 3) Click**Search automatically for updated driver software** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db867abdfc.png)
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Now Microsoft will detect the update for you automatically.
+
+ However, for some reason, Microsoft cannot always find the update for you. If you receive the message:**The best driver software for your device is already installed** , please try the next method to update the driver.
+
+#### Option 2 – Automatically
+
+ This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the **FREE** or the **Pro** version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a **30-day money back guarantee** ):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
+3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-wireless-network-adapter-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After updating your driver, reboot Windows 10 to make the new driver take effect. Set your WiFi hotspot again to see if it works.
+
+---
+
+ Did you solve the problem? Which method worked for you? Feel free to comment below to share with your own experiences and let me know if you have any question.
+
+* [WiFi](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-efficient-use-of-movie-maker-in-windows-8/"><u>2024 Approved Expert Tips for Efficient Use of Movie Maker in Windows 8</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-time-saving-strategies-for-srt-to-text-file-changes/"><u>2024 Approved Time-Saving Strategies for SRT to Text File Changes</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-proven-strategies-for-superior-windows-11-search-performance/"><u>5 Proven Strategies for Superior Windows 11 Search Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211342842-facing-printer-issues-with-pdfs-here-are-fast-remedies/"><u>Facing Printer Issues with PDFs? Here Are Fast Remedies!</u></a></li>
+<li><a href="https://win-able.techidaily.com/game-fixed-wrath-of-the-rightenous-no-longer-plagued-by-continuous-crashes-patch-details-inside/"><u>Game Fixed! 'Wrath of the Rightenous' No Longer Plagued by Continuous Crashes – Patch Details Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-fixing-the-problem-when-windows-cant-find-a-compatible-printer-driver/"><u>Guide: Fixing the Problem When Windows Can't Find a Compatible Printer Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-scroll-functionality-for-a-non-responsive-touchpad-in-windows-11-computers/"><u>How to Restore Scroll Functionality for a Non-Responsive Touchpad in Windows 11 Computers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/key-methods-from-video-links-to-downloaded-audios-for-2024/"><u>Key Methods From Video Links to Downloaded Audios for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/navigating-new-realms-todays-vr-tomorrows-trials-for-2024/"><u>Navigating New Realms Today's VR, Tomorrow's Trials for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-print-to-pdf-error-on-your-windows-10-or-11-pc/"><u>Resolving the Print to PDF Error on Your Windows 10 or 11 PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-compendium-of-ai-enhanced-note-managers/"><u>The Ultimate Compendium of AI Enhanced Note Managers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/windows-11-upgrade-blueprint-stepwise-system-revamping/"><u>Windows 11 Upgrade Blueprint Stepwise System Revamping</u></a></li>
+</ul></div>
+

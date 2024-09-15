@@ -1,7 +1,7 @@
 ---
 title: Fixing Lack of Sound Devices Message on Windows 10 and 11 Systems
-date: 2024-08-09T00:49:10.081Z
-updated: 2024-08-10T00:49:10.081Z
+date: 2024-09-08T09:58:43.246Z
+updated: 2024-09-15T03:00:35.908Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 3. **[Set the Bluetooth support service to automatic](#c)**
 4. **[Update your Bluetooth driver](#d)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Remove all Bluetooth devices
 
  If you’ve connected multiple Bluetooth devices to your PC, chances are that one or more of your devices are preventing your PC from detecting other Bluetooth devices.
@@ -43,16 +40,10 @@ thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c
 
 **3)** Under**View by** , select**Category** , then click**View devices and printers** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-02-15.jpg)
 
 **4)** Right-click your Bluetooth device and select**Remove device** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-12-48.jpg)
 
 **5)** Click**Add a device** to see if your Bluetooth works properly now.
@@ -67,9 +58,6 @@ If your problem persists, then move on and try the fix below.
 
 **1)** On your keyboard, press the**Windows logo key** and type**troubleshoot** . Then hit the**Enter key** on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-35-46-1.jpg)
 
 **2)** Select**Bluetooth** , then click**Run the troubleshooter** .
@@ -80,9 +68,6 @@ If your problem persists, then move on and try the fix below.
 
  If your Bluetooth still won’t discover devices, then read on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Set the Bluetooth support service
 
  You’re likely to encounter the Bluetooth not detecting devices error if the Bluetooth service isn’t running properly on your PC. To see if that’s the core issue, follow the instructions below:
@@ -101,21 +86,22 @@ If your problem persists, then move on and try the fix below.
 
  4) Right-click**Bluetooth Support Service** and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-59-45.jpg)
 
 **5)** Set the**Startup Type** to **Automatic** , then click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_18-02-50.jpg)
 
 **6)** Try connecting your Bluetooth devices to test your problem.
 
 If your issue continues to occur, then try the next solution, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update Bluetooth driver
 
@@ -131,19 +117,33 @@ If your issue continues to occur, then try the next solution, below.
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-09-57.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the **Update**  button next to the Bluetooth driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-07-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Restart your PC, then try reconnecting your Bluetooth devices to test your issue.
 
@@ -158,11 +158,28 @@ If your issue continues to occur, then try the next solution, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-rx-memory-treasure/"><u>[New] RX Memory Treasure</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-driving-traffic-to-long-form-videos-via-shorts-for-2024/"><u>[Updated] Driving Traffic to Long-Form Videos via Shorts for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-lighting-the-way-enhancing-your-youtube-videos-with-pro-tips/"><u>[Updated] Lighting the Way Enhancing Your YouTube Videos with Pro Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-and-repairing-the-persistent-ce-34878-0-code-issue-on-sony-playstation-4/"><u>Bypassing and Repairing the Persistent CE-34878-0 Code Issue on Sony PlayStation 4</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/canon-printer-is-offline-heres-how-to-fix-it/"><u>Canon Printer Is Offline? Here’s How to Fix It</u></a></li>
+<li><a href="https://common-error.techidaily.com/clearing-up-error-0xc0000005-a-detailed-walkthrough-for-windows-users/"><u>Clearing Up Error 0xC0000005 – A Detailed Walkthrough for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/monster-hunter-world-overcoming-initial-boot-up-black-screens/"><u>Monster Hunter World: Overcoming Initial Boot-Up Black Screens</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/most-valuable-maps-top-treasures-in-terraria-for-2024/"><u>Most Valuable Maps Top Treasures in Terraria for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/optimize-with-cookiebot-next-level-user-engagement-analysis/"><u>Optimize With Cookiebot: Next-Level User Engagement Analysis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/pituitary-adenomas-are-classified-based-on-the-type-of-hormone-they-excessively-secrete/"><u>Pituitary Adenomas Are Classified Based on the Type of Hormone They Excessively Secrete.</u></a></li>
+<li><a href="https://games-able.techidaily.com/reinstate-your-disappeared-wordle-streak-seamlessly/"><u>Reinstate Your Disappeared Wordle Streak Seamlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-when-your-laptops-mouse-wont-respond-a-comprehensive-fix/"><u>Solutions for When Your Laptop's Mouse Won’t Respond: A Comprehensive Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-fixing-windows-update-failed-with-code-0x80070643/"><u>Step-by-Step Solutions for Fixing 'Windows Update Failed' With Code 0X80070643</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-windows-11-start-menu-issues-get-back-on-track-today/"><u>Ultimate Fixes for Windows 11 Start Menu Issues – Get Back on Track Today!</u></a></li>
+</ul></div>
+

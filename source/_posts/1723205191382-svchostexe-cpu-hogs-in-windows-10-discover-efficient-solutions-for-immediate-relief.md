@@ -1,7 +1,7 @@
 ---
 title: Svchost.exe CPU Hogs in Windows 10? Discover Efficient Solutions for Immediate Relief
-date: 2024-09-09T08:56:52.023Z
-updated: 2024-09-10T08:56:52.023Z
+date: 2024-09-10T16:00:34.779Z
+updated: 2024-09-15T16:00:35.775Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/svchost-exe-in-task-manager-600x402.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re seeing many svchost.exe items hogging your CPU usage, you’re not alone. Many Windows 10 users are reporting this problem. No worries, it’s possible to fix. Here are[4 fixes](#how) for you to sort it out.
 
 ### **What is svchost.exe?**
@@ -33,12 +27,6 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 
  In simpler words, it’ s a legitimate Windows process when running certain Windows operations. But in certain cases, you may see the **svchost.exe**  process hogging the CPU or memory resources in **Task Manager**  without apparent reasons.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **How do I fix it?**
 
  Here are 4 solutions for you to try. You may not need to try them all; just work your way down until you find the one that works for you.
@@ -73,18 +61,6 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Right-click one of the processes and click **Stop**  to stop it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-service-in-task-manager.jpg)
@@ -96,39 +72,29 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/open-services-600x422.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7) We’re using the **Windows Update**  service as an example. Right-click **Windows Update**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/startup-type-disable.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9) See if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **3: Empty event viewer log**
 
  Large log files in Windows event viewer could cause excessively high usage of CPU or memory. To fix that, you can clear Event Viewer’s log:
@@ -141,30 +107,12 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/clear-log-windows-log-application-event-viewer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Repeat the same procedures to clear the **Security, Setup** and **System** logs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Restart your computer after this.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **4: Troubleshoot Windows Updates issues**
 
  If something is wrong with your Windows Updates settings, svchost.exe will see an abnormal increase as well. To fix it:
@@ -173,19 +121,27 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/services-msc.png)
 
- 2) Right-click**Windows Update** and click **Stop** .
-
-![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
-
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
   <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ 2) Right-click**Windows Update** and click **Stop** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
+
  3) Go to**This PC > Local Disk (C:) > Windows** and delete **SoftwareDistribution** folder. Restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **PRO TIP**
 
@@ -209,13 +165,18 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21fb4e7c7a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -226,39 +187,19 @@ thumbnail: https://thmb.techidaily.com/c381619f8aafcfb0f80b6508563d2271437d8649f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-4-essential-methods-for-file-delivery-to-pc/"><u>[New] 4 Essential Methods for File Delivery to PC</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-immediate-sharing-from-twitter-vids-to-whatsapp-for-2024/"><u>[New] Immediate Sharing From Twitter Vids to WhatsApp for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-virtual-space-clearing-perfecting-your-backdrop-in-zoom-and-google-meet-for-2024/"><u>[New] Virtual Space Clearing Perfecting Your Backdrop in Zoom & Google Meet for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-soundscape-shifting-made-easy-unveiling-the-best-free-vocal-transformers/"><u>2024 Approved Soundscape Shifting Made Easy Unveiling the Best Free Vocal Transformers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-unparalleled-background-music-compilation/"><u>2024 Approved Unparalleled Background Music Compilation</u></a></li>
-<li><a href="https://common-error.techidaily.com/audio-anomaly-eliminated-pc-finds-hidden-headphone-earbuds/"><u>Audio Anomaly Eliminated: PC Finds Hidden Headphone Earbuds</u></a></li>
-<li><a href="https://common-error.techidaily.com/avoid-game-pauses-with-x3daudio17dll-restoration/"><u>Avoid Game Pauses with X3DAudio1_7.dll Restoration</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/behind-the-scenes-the-science-of-creating-conversational-ai-with-chatbots/"><u>Behind the Scenes: The Science of Creating Conversational AI with Chatbots</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/crafting-an-engaging-review-vlog-for-everyday-items/"><u>Crafting an Engaging Review Vlog for Everyday Items</u></a></li>
-<li><a href="https://common-error.techidaily.com/crucial-specification-your-system-requires-directx-11-capable-video-card-to-operate-this-application/"><u>Crucial Specification: Your System Requires DirectX 11 Capable Video Card to Operate This Application</u></a></li>
-<li><a href="https://common-error.techidaily.com/decoding-and-correcting-error-0x800705b4-while-updating-your-windows-11-system/"><u>Decoding and Correcting Error 0X800705B4 While Updating Your Windows 11 System</u></a></li>
-<li><a href="https://common-error.techidaily.com/display-advancements-addressing-the-gap-in-present-day-refresh-rate-support/"><u>Display Advancements: Addressing the Gap in Present-Day Refresh Rate Support</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204344134-easily-repair-unresponsive-buttons-on-your-hp-laptop-step-by-step-guide/"><u>Easily Repair Unresponsive Buttons on Your HP Laptop - Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-non-functioning-dell-cameras-in-the-windows-operating-system/"><u>Effective Fixes for Non-Functioning Dell Cameras in the Windows Operating System</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/examining-the-midland-lxt500v3-handheld-radios-are-their-promised-features-actually-reliable/"><u>Examining the Midland LXT500V3 Handheld Radios – Are Their Promised Features Actually Reliable?</u></a></li>
-<li><a href="https://common-error.techidaily.com/fast-track-reinstating-logildadll/"><u>Fast-Track: Reinstating LogiLDA.dll</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-fix-unlisted-bluetooth-drivers-on-your-computers-device-list/"><u>Guide to Fix Unlisted Bluetooth Drivers on Your Computer's Device List</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212081531-hearthstone-slowness-bypass-lag-issues-using-simple-fixes/"><u>Hearthstone Slowness? Bypass Lag Issues Using Simple Fixes</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-motorola-defy-2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Motorola Defy 2 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-solve-total-war-rome-remastered-stability-issues-a-comprehensive-guide/"><u>How to Solve Total War: Rome Remastered Stability Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-ps5-connectivity-wi-fi-troubleshooting-steps/"><u>Navigating PS5 Connectivity: Wi-Fi Troubleshooting Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-startup-issues-with-easy-tips-for-stuck-at-getting-ready-errors/"><u>Overcome Startup Issues with Easy Tips for 'Stuck at Getting Ready' Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-errors-enabling-windows-to-locate-new-software-updates/"><u>Overcoming Errors: Enabling Windows to Locate New Software Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-issues-with-inactive-function-keys-on-your-computer/"><u>Overcoming Issues with Inactive Function Keys on Your Computer</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/powerdirectors-complete-blueprint-for-success-for-2024/"><u>PowerDirector's Complete Blueprint for Success for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/premium-vs-code-add-ons-elevating-your-gpt-interaction/"><u>Premium VS Code Add-Ons: Elevating Your GPT Interaction</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-with-disabled-usb-devices-in-the-latest-version-of-windows/"><u>Resolving Issues with Disabled USB Devices in the Latest Version of Windows</u></a></li>
-<li><a href="https://win-dash.techidaily.com/simplify-your-system-ultimate-guide-to-windows-update-drivers/"><u>Simplify Your System: Ultimate Guide to Windows Update Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-netflixs-stuttering-playback-on-your-pc-or-mac/"><u>Troubleshoot and Fix Netflix's Stuttering Playback on Your PC or Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-overwatch-unable-to-connect-to-the-game-server-issue/"><u>Troubleshooting Steps for 'Overwatch - Unable to Connect to the Game Server' Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-stuck-windows-11-screens-tips-to-get-it-running-smoothly-again/"><u>Troubleshooting Stuck Windows 11 Screens: Tips to Get It Running Smoothly Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-bungie-destiny-2-server-connectivity-issues/"><u>Troubleshooting Tips for Fixing Bungie Destiny 2 Server Connectivity Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-solution-for-dealing-with-fatal-application-error-0xc0000005-in-windows/"><u>Ultimate Solution for Dealing with Fatal Application Error (0xC0000005) in Windows</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ling-10-inspirational-workout-plans-for-video-creators-for-2024/"><u>Unveiling 10 Inspirational Workout Plans for Video Creators for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-is-my-corsair-hs60-mic-dead-and-what-you-can-do-about-it/"><u>Why Is My Corsair HS60 Mic Dead and What You Can Do About It?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-best-iphoneandroid-photo-background-subtraction/"><u>[New] In 2024, Best iPhone/Android Photo Background Subtraction</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-speedy-inspector-for-windows-images/"><u>[New] In 2024, Speedy Inspector for Windows Images</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-premium-android-photography-alterations/"><u>[Updated] 2024 Approved Premium Android Photography Alterations</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-memetic-mayhem-the-20-most-shared-gems-for-2024/"><u>[Updated] Memetic Mayhem The 20 Most Shared Gems for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-pixma-mg2522-finding-and-installing-the-correct-driver-version/"><u>Canon Pixma MG2522: Finding and Installing the Correct Driver Version</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-solutions-to-fix-windows-network-error-code-0x800704cf/"><u>Efficient Solutions to Fix 'Windows Network Error Code 0X800704CF'</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-non-responsive-backspace-button-on-your-keyboard/"><u>Fixing a Non-Responsive Backspace Button on Your Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207566463-forgotten-sd-card-discover-remedies/"><u>Forgotten SD Card, Discover Remedies!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-effortless-installation-of-the-most-recent-ios-system-upgrade/"><u>Guide: Effortless Installation of the Most Recent iOS System Upgrade</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastery-in-electronics-tips-and-tricks-from-toms-hardware-reviews/"><u>Mastery in Electronics: Tips and Tricks From Tom’s Hardware Reviews</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-4-best-video-resume-makers/"><u>New 4 Best Video Resume Makers</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204368141-troubleshoot-your-way-out-of-windows-10-update-failure-code-0x800f0922-solved/"><u>Troubleshoot Your Way Out of Windows 10 Update Failure: Code 0X800F0922 Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-oculus-device-malfunctions/"><u>Ultimate Guide: Resolving Oculus Device Malfunctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-update-error-0x80240017-fixed/"><u>Windows Update Error 0X80240017 [Fixed]</u></a></li>
 </ul></div>
+

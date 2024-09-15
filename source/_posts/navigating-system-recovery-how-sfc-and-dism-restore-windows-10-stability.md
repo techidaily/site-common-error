@@ -1,7 +1,7 @@
 ---
 title: "Navigating System Recovery: How SFC and DISM Restore Windows 10 Stability"
-date: 2024-08-09T00:49:09.662Z
-updated: 2024-08-10T00:49:09.662Z
+date: 2024-09-07T22:31:58.624Z
+updated: 2024-09-15T15:42:09.454Z
 tags:
   - win11
   - win10
@@ -26,23 +26,6 @@ thumbnail: https://thmb.techidaily.com/c6cef7d8d098cc3ec193ea28736f5c8bb8a150dde
 
 If the issue remains, continue to the advanced fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you hit the one that does the trick.
@@ -51,9 +34,6 @@ Key features:
 2. [**Install all Windows updates**](#fix2)
 3. **[Modify the Windows Registry](#fix3)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Reinstall your Bluetooth driver
 
  In most cases, the AirPods not connecting issue indicates that you’re using a**broken or outdated Bluetooth driver** . To fix this, the easiest and quickest way is to reinstall the Bluetooth driver on your PC.
@@ -66,9 +46,6 @@ To do so, first you need to uninstall the Bluetooth driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-uninstall-bluetooth-driver.jpg)  
  To identify the Bluetooth adapter, one common method is to look for the name that**starts with a manufacturer** (e.g. Intel, Qualcomm or Realtek) and**ends with a “Bluetooth”** .
 3. In the pop-up window, check the box next to **Delete the driver software for this device** . Then click **Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/uninstall-device-driver-02.jpg)
 4. Once you’ve uninstalled your Bluetooth driver, restart your PC for the changes to apply.
 
@@ -90,9 +67,6 @@ To do so, first you need to uninstall the Bluetooth driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-2.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/bluetooth-de-update.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -100,6 +74,19 @@ To do so, first you need to uninstall the Bluetooth driver:
  Once you’ve updated yourBluetooth driver, restart your PC and check if you can now connect AirPods to Windows.
 
  If the latest driver doesn’t give you luck, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Install all Windows updates
 
@@ -112,27 +99,25 @@ To do so, first you need to uninstall the Bluetooth driver:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 #### Check for system updates on Windows 10
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 1. On your keyboard, press the **Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2023/10/windows-logo.png) and the**I** key (**Win+I** ) to open the Windows Settings app.
 2. Click**Windows Update** on the right.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![win 11 update windows 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-1.jpg)
 3. Then click**Check for updates** . Windows will then check if there are any newly released updates. If so, it will automatically download and install the updates for you. It might take some time.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-2.jpg)
 4. You may repeat these steps until it prompts**You’re up to date** when you click**Check for updates** to make sure you have all the updates installed. Restart your computer when it’s done.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, restart your PC and check if the issue persists.
 
@@ -143,25 +128,37 @@ To do so, first you need to uninstall the Bluetooth driver:
  Some users managed to solve the connection issue by modifying the Windows Registry, and according to feedback, this is a promising solution for AirPods issues on Windows. After some digging, we learn that this will prevent Windows from turning off the Bluetooth adapter. You can try this and see if it helps.
 
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type**regedit** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windows-10-run-regedit.jpg)
 2. In address bar of the pop-up window, type or paste **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class{e0cbf06c-cd8b-4647-bb8a-263b43f0f974}** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods.jpg)
 3. At the empty area, right-click and move your cursor to**New** to expand the list. Select**String Value** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods-2.jpg)
 4. Rename the new entry to**PnPCapabilities** . Right click it and select**Modify…**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods-4.jpg)
 5. In the pop-up window, click the input area under**Value data** :, then type or paste**24** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods-5.jpg)
 6. Now restart your computer and test your AirPods.
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -175,11 +172,27 @@ To do so, first you need to uninstall the Bluetooth driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-decoding-the-algorithm-behind-youtube-shorts-for-2024/"><u>[Updated] Decoding the Algorithm Behind YouTube Shorts for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/elite-professionals-drone-choices-top-5-for-2024/"><u>Elite Professionals' Drone Choices (Top 5) for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-eight-profitable-auxiliary-roles-for-chatgpt-users-can-you-truly-make-money/"><u>Exploring Eight Profitable Auxiliary Roles for ChatGPT Users - Can You Truly Make Money?</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-common-elevation-errors-during-operation-requests-in-windows-operating-systems/"><u>Fix Common Elevation Errors During Operation Requests in Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207566463-forgotten-sd-card-discover-remedies/"><u>Forgotten SD Card, Discover Remedies!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-windows-failed-to-connect-to-ens-errors/"><u>How to Overcome 'Windows Failed to Connect to ENS' Errors</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-installing-and-upgrading-software-on-your-canoscan-lide-220/"><u>Step-by-Step: Installing and Upgrading Software on Your CanoScan LiDE 220</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-truth-behind-asmr-video-enthusiasm-for-2024/"><u>The Truth Behind ASMR Video Enthusiasm for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204368141-troubleshoot-your-way-out-of-windows-10-update-failure-code-0x800f0922-solved/"><u>Troubleshoot Your Way Out of Windows 10 Update Failure: Code 0X800F0922 Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/tutorial-correctly-setting-up-windows-10-configuration-system-to-avoid-failure/"><u>Tutorial: Correctly Setting Up Windows 10 Configuration System to Avoid Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-update-error-0x80240017-fixed/"><u>Windows Update Error 0X80240017 [Fixed]</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Making Your USB Flash Drive Detectable Again"
-date: 2024-08-09T00:49:09.112Z
-updated: 2024-08-10T00:49:09.112Z
+date: 2024-09-12T19:52:45.321Z
+updated: 2024-09-14T17:20:22.222Z
 tags:
   - win11
   - win10
@@ -42,29 +42,17 @@ It’s possible that too many people connect to the Destiny servers during the t
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable DHCP for your connection
 
 If you’re connecting via WiFi, you’re more likely to have the servers not available error in Destiny 2\. So you can try disabling DHCP in your computer to fix your problem. To do so:
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 1. Right click on the**network** **icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 2. Click**Change adapter** **settings** on the left.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connection** you’re currently using, and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
@@ -73,28 +61,34 @@ It should have fixed the server issues in Destiny 2\. If not, don’t be upset. 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Use the Ethernet connection
 
 It’s recommended to use the Ethernet connection, since playing games like Destiny 2 requires a more stable and faster Internet connection. So you can switch to the**Ethernet connection**on your computer to see if it works. If you want to use the WiFi connection, or there’s no Ethernet connection available, try these steps to force your computer (and Destiny 2 included) to connect via WiFi.
 
 1. Right click on the**network icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png) ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0540f4ac.jpg)  
  You’ll need to repeat this step for any other connections that you’re not using.
 4. Now your computer will only use the connection via WiFi. Restart the game and see if it works.
 Still no luck? Ok, there’s one more thing to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your network card driver
 
@@ -104,9 +98,14 @@ A missing or outdated network card driver will cause connection issues in your c
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b08c06924.jpg)
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
 4. Restart your computer to take effect.
 Open Destiny 2 and see the servers not available error has been removed.
@@ -124,11 +123,25 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-15-best-stop-motion-films-of-all-time-for-2024/"><u>[New] 15 Best Stop Motion Films of All Time for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-list-best-video-making-for-ios-android-users/"><u>[New] 2024 Approved The Ultimate List Best Video-Making For iOS, Android Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-expert-techniques-for-enhanced-minecraft-zooms/"><u>[New] Expert Techniques for Enhanced Minecraft Zooms</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-upgrading-igtv-thumbnails-a-comprehensive-walkthrough/"><u>[Updated] 2024 Approved Upgrading IGTV Thumbnails A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unraveling-the-art-of-screencasts-a-step-by-step-approach/"><u>[Updated] In 2024, Unraveling the Art of Screencasts A Step-by-Step Approach</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-how-to-preview-off-facebook-activities-and-should-i-leave-it-on-check/"><u>2024 Approved How to Preview Off-Facebook Activities and Should I Leave It On? Check</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhancing-device-capacity-fixing-errors-related-to-inadequate-memory-allocation/"><u>Enhancing Device Capacity: Fixing Errors Related to Inadequate Memory Allocation</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-malfunction-fixing-dead-or-stuck-number-keys/"><u>Keyboard Malfunction: Fixing Dead or Stuck Number Keys</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-endless-loading-screen-problem-for-the-witcher-3-players/"><u>Resolving the Endless Loading Screen Problem for The Witcher 3 Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-to-fix-starfields-unsuccessful-launch-on-steamxbox/"><u>Step-by-Step Solution to Fix Starfield's Unsuccessful Launch on Steam/Xbox</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-steam-servers-offline-problems/"><u>Troubleshooting Guide: Overcoming 'Steam Servers Offline' Problems</u></a></li>
+</ul></div>
+

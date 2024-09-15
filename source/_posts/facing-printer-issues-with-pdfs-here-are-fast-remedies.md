@@ -1,7 +1,7 @@
 ---
 title: Facing Printer Issues with PDFs? Here Are Fast Remedies
-date: 2024-08-09T00:49:08.840Z
-updated: 2024-08-10T00:49:08.840Z
+date: 2024-09-09T17:43:18.051Z
+updated: 2024-09-14T22:36:16.403Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
  It can be very frustrating if you**can’t print your PDF files** on Adobe. No error messages; each time you click Print on Adobe, it just doesn’t print at all. Don’t worry. This guide is going to help you solve this problem step by step. Read on to find out how.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Before we go…
 
  The problems of your printer, your PDF files, and your Adobe software all can cause you can’t print a PDF file. First things first, **figure out if the problem is due to your printer, your PDF file, or your Adobe software** .
@@ -32,18 +29,6 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
    1. If you**can’t** print your PDF file in your browser either, probably your PDF files are corrupted, follow to**[repair or recreate your PDF file](#PDF)** .  
    2. If you **can**  print your PDF file in your browser, you need to [**troubleshoot problems with your Acrobat Reader** .](#reader)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Troubleshoot problems with your printer](#printer)**
@@ -53,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Troubleshoot problems with your printer
 
  Either a USB-connected printer or a network one you’re using, make sure your printer is set as the default printer and your printer driver is up-to-date.
@@ -65,13 +47,7 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box.
 2. Type**control** and click**OK** .”  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0354b845be.png)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Devices and Printers** in**Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0355fe9f37.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Make sure there is a green ✔ mark with your printer, which means it’s set to default.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0361852b11.jpg)  
  If it’s not set to default, right-click on your printer and click**Set as default printer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0363012f57.png)
@@ -101,18 +77,6 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Repair or recreate your PDF file
 
  If there were any corrupted or incompatible data in your PDF file, your file wouldn’t be printed successfully. Here we give you two methods to try:
@@ -121,14 +85,21 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
 1. Open your PDF file in Acrobat Reader.
 2. Click the print icon on the toolbar.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03f2e27b7d.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 3. Click**Advanced** , then tick on **Print As Image** .  Go on to click**OK** \>**Print** to see if your PDF file can be printed.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f046ecc9c75.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 2\. Recreate a new PDF file
 
@@ -139,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 **c)** Using the**Save as…** feature in Acrobat Reader: Click **File** \> **Save as…**  , save your PDF file directly to your hard drive.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03fccde7ab.png)
 2. Double-click the new PDF file on your hard drive and then try to print it to see if successful.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -167,6 +145,19 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Option 2 – Manually
 
  To check and restore your system file might take time and computer skills. You will need to run numerous commands, wait for the process to complete, or risk your personal data.
@@ -177,9 +168,6 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-cmd.jpg)
 
  Click**Yes** when prompted for permission to make changes to your device.
@@ -233,10 +221,21 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 1. Restart your computer.
 2. Open your PDF file in Acrobat Reader and try to print it to see if successful. If a simple restart cannot solve your problem, reinstall your Acrobat Reader with the latest version with the following steps.
 3. Type features in the search box from Start. Then click Apps & features.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03ff1ce57c.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 4. Find your Acrobat Reader, then Uninstall.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f040401a2b4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
 6. Open your PDF file using the new Acrobat Reader. Then try to print it to see if successful.
 
@@ -252,11 +251,24 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-reviews.techidaily.com/asus-revolutionizes-chinas-pc-building-with-a-dedicated-motherboard-skyrocketing-kx-7000-cpu-speed-by-25-through-overclocking/"><u>Asus Revolutionizes China’s PC Building with a Dedicated Motherboard, Skyrocketing KX-7000 CPU Speed by 25% Through Overclocking</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-and-prevent-frequent-mouse-disconnects-a-comprehensive-walkthrough/"><u>Fix and Prevent Frequent Mouse Disconnects: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-issues-with-mouses-right-click-feature-on-windows-11-pcs/"><u>Fixing Issues with Mouse's Right-Click Feature on Windows 11 PCs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-xiaomi-redmi-note-12r-frp-by-drfone-android/"><u>Full Guide to Bypass Xiaomi Redmi Note 12R FRP</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-expired-semaphore-timeout-period-issue-with-error-0x80070079/"><u>How to Fix the 'Expired Semaphore Timeout Period' Issue with Error 0X80070079</u></a></li>
+<li><a href="https://solve-news.techidaily.com/mac-extraction-software-how-to-get-audio-from-dvds-with-free-ripper-applications/"><u>Mac Extraction Software: How to Get Audio From DVDs with Free Ripper Applications</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-20-anime-openers-soundscape/"><u>Prime 20 Anime Openers' Soundscape</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-6-solutions-for-resolving-werfaultexe-errors-in-windows/"><u>Top 6 Solutions for Resolving werFault.exe Errors in Windows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/transform-viewing-experience-with-these-leading-top-ranked-cost-free-and-on-demand-video-downloaders/"><u>Transform Viewing Experience with These Leading Top-Ranked, Cost-Free & On-Demand Video Downloaders</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-list-10-best-free-whiteboard-animation-programs/"><u>Updated 2024 Approved The Ultimate List 10 Best Free Whiteboard Animation Programs</u></a></li>
+</ul></div>
+

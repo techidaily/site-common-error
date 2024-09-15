@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Resolving the Dilemma of a Unresponsive Charging PS4 Gamepad"
-date: 2024-08-09T00:49:09.173Z
-updated: 2024-08-10T00:49:09.173Z
+date: 2024-09-14T01:52:10.499Z
+updated: 2024-09-15T07:02:41.666Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/8fe4d84aaa35fa17a267dd739fedd96f93a66f985
 
  Recently, many laptop users have reported that they have an issue with their battery. **When they view their battery information, they notice that their battery is not charging.** If you also run into this issue, don’t worry! we’ve put together some useful fixes to help you resolve this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Fixes to try:**
 
  You don’t have to try them all; just try each one in turn until your battery is charging again.
@@ -65,16 +62,17 @@ thumbnail: https://thmb.techidaily.com/8fe4d84aaa35fa17a267dd739fedd96f93a66f985
 
  2)**Turn off** the toggle under **Battery Charge Threshold** if it is turned on.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
 
  After you turn off the battery charge threshold feature, your battery should be charging.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Perform a power reset on your laptop
 
 **Try performing a power reset on your laptop** to see if the battery not charging issue persists. Here is how to do it:
@@ -87,28 +85,39 @@ thumbnail: https://thmb.techidaily.com/8fe4d84aaa35fa17a267dd739fedd96f93a66f985
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
 
  You can try reinstalling **Microsoft ACPI-Compliant Control Method Battery**  to see if this annoying issue persists. Here is how to do it:
 
  1) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Type **devmgmt.msc** and press **Enter** to open **Device Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/6.png)
 
  2) Double-click**Batteries** . Right-click **Microsoft ACPI-Compliant Control Method Battery**  and select **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Uninstall** to uninstall it.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/2.jpg)
 
  4) Shut down your laptop and **disconnect the AC adapter** .
@@ -121,9 +130,6 @@ thumbnail: https://thmb.techidaily.com/8fe4d84aaa35fa17a267dd739fedd96f93a66f985
 
  i. On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Type **devmgmt.msc** and press **Enter** to open **Device Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd073b6f72.png)
 
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
@@ -150,9 +156,6 @@ thumbnail: https://thmb.techidaily.com/8fe4d84aaa35fa17a267dd739fedd96f93a66f985
 
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap437.jpg)
 
  3) Click**Update** next to your battery management device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
@@ -169,6 +172,13 @@ Your battery should then be charging.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hopefully one of the fixes above resolved the laptop battery not charging issue for you. Please leave your comment below if you have any questions.
 
 * [laptop](https://tools.techidaily.com/drivereasy/download/)
@@ -180,11 +190,26 @@ Your battery should then be charging.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-obsession-with-top-10-tiktok-videos/"><u>[Updated] In 2024, Twitter's Obsession with Top 10 TikTok Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lustrous-frameworks-structuring-illumination-in-film/"><u>[Updated] Lustrous Frameworks Structuring Illumination in Film</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-making-your-favorite-tiktok-beats-your-personal-mobile-alarm-signal/"><u>2024 Approved Making Your Favorite TikTok Beats Your Personal Mobile Alarm Signal</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-when-you-cant-connect-to-destiny-ii-game-servers/"><u>Comprehensive Fixes for When You Can't Connect to Destiny II Game Servers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722982183794-diablo-ii-reborn-bug-solved-stop-the-game-from-unexpectedly-closing-now/"><u>Diablo II Reborn Bug Solved: Stop the Game From Unexpectedly Closing Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-resolving-windows-resource-shield-malfunction-and-restoration-steps/"><u>Expert Guide: Resolving Windows Resource Shield Malfunction and Restoration Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/experts-choice-in-4k-capture-top-camera-list/"><u>Expert's Choice in 4K Capture Top Camera List</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-continuous-reboot-loop-on-windows-11-and-windows-10/"><u>Resolved: How to Fix Continuous Reboot Loop on Windows 11 & Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-960-evo-nvme-ssd-driver-download-compatible-with-windows-operating-systems/"><u>Samsung 960 EVO NVMe SSD Driver Download: Compatible with Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208996112-solve-your-league-of-legends-woes-fixing-the-sluggish-downloads-once-and-for-all/"><u>Solve Your League of Legends Woes: Fixing the Sluggish Downloads Once and For All</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/surging-up-the-search-listings-key-tips-for-optimizing-your-videos-for-2024/"><u>Surging Up the Search Listings Key Tips for Optimizing Your Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-solutions-for-managing-high-gpu-consumption-by-the-desktop-window-manager-on-windows-11/"><u>Top 5 Solutions for Managing High GPU Consumption by the Desktop Window Manager on Windows 11</u></a></li>
+</ul></div>
+

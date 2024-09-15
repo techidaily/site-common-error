@@ -1,7 +1,7 @@
 ---
 title: Error Code 31 on Your PC? Here's How You Can Solve It!
-date: 2024-08-09T00:49:09.755Z
-updated: 2024-08-10T00:49:09.755Z
+date: 2024-09-12T23:37:18.524Z
+updated: 2024-09-14T18:17:27.579Z
 tags:
   - win11
   - win10
@@ -61,9 +61,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
  1) Click the speaker icon ![](https://images.drivereasy.com/wp-content/uploads/2016/01/2020-05-18_15-02-50.jpg) in the notification area of your taskbar. Then click **Open Volume mixer** .
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
 
  2) Select**System Sounds** .
@@ -84,16 +81,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
  5) Again, click to highlight your mic. This time, click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-5.png)
 
  6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
 
  7) Click**OK** to save all the changes you’ve made.
@@ -104,18 +95,12 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Fix 3: Re-enable microphone in Device Manager
 
  This is a quick yet useful solution when your internal microphone ran into glitches. Just follow the steps below to disable and then re-enable the mic device from Windows Device Manager:
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then, type**devmgmt.msc** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
 
  2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
@@ -124,49 +109,47 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
  3) Right-click your mic and select**Disable device** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
 
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
 
 Now check to see your mic is back on track.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Modify privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, your mic may be forbidden to work normally. To check and modify these settings, here’s what you can do:
 
  1) On your keyboard, press the **Windows logo key** and **I** at the same time to fire up the **Settings** window. Then, select **Privacy** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
 
  Below you’ll see another toggle for **Allow apps to access your microphone** . Also turn it**on** if it’s been set to Off.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
 
@@ -182,11 +165,27 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-catalog-films-for-streamlined-playback/"><u>[New] Catalog Films for Streamlined Playback</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-revolutionize-your-farm-life-stardews-best-7-game-updates/"><u>[Updated] Revolutionize Your Farm Life Stardew's Best 7 Game Updates</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-snapshots-secured-techniques-for-instagrams-close-ups-and-distances/"><u>[Updated] Snapshots Secured Techniques for Instagram's Close-Ups & Distances</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlocking-windows-high-dynamic-range-potential-for-2024/"><u>[Updated] Unlocking Windows' High Dynamic Range Potential for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206293647-accelerate-your-league-of-legends-experience-fixing-download-delays-once-and-for-all/"><u>Accelerate Your League of Legends Experience – Fixing Download Delays Once and For All</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722988247447-dark-souls-crashes-and-bugs-heres-how-you-can-resolve-them/"><u>Dark Souls 지미: Crashes and Bugs? Here's How You Can Resolve Them!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-sluggish-shutdown-problem-on-windows-11/"><u>Fixing the Sluggish Shutdown Problem on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/install-the-required-media-device-drivers-fix-and-solutions/"><u>Install the Required Media Device Drivers: Fix and Solutions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/maximizing-insights-with-twitter-archive-analysis-for-2024/"><u>Maximizing Insights with Twitter Archive Analysis for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-wi-fi-issues-starting-the-hosted-network-on-windows-11/"><u>Resolved: Troubleshooting Wi-Fi Issues - Starting the Hosted Network on Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/reviewing-previous-social-networks-on-fb/"><u>Reviewing Previous Social Networks on FB</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-wacom-pen-issues-working-against-incompatibility-with-windows-1110/"><u>Solutions for Wacom Pen Issues: Working Against Incompatibility with Windows 11/10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/tips-for-capturing-youtube-sounds-for-2024/"><u>Tips for Capturing YouTube Sounds for 2024</u></a></li>
+</ul></div>
+

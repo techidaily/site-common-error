@@ -1,7 +1,7 @@
 ---
 title: How to Swiftly Rectify DLL Absence in Games
-date: 2024-08-09T00:49:08.344Z
-updated: 2024-08-10T00:49:08.344Z
+date: 2024-09-13T10:43:16.533Z
+updated: 2024-09-14T19:45:54.347Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
  The Fn keys play an important role in saving both time and energy, especially for those who often work with Excel, PowerPoint and suchlike. That’s why it can drive you nuts when you find the**Fn keys not working** on your**Lenovo** computer. But rest assured that you’re not alone – in this post, you’ll be greeted with 3 useful methods that have helped many Windows users solve their problems.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## 3 fixes for Lenovo Fn key not working
 
  Here are the 3 fixes provided for you to solve the issue. You don’t need to try them all; just work your way down the list until you find the one that works for you.
@@ -90,18 +87,12 @@ In another version of BIOS, the procedure may go like this:
 
 ![This image has an empty alt attribute; its file name is image-128.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-140.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-141.png)
 
  3) Go to the**Driver** tab and click**Roll Back Driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-142.png)
 
  If the option appears dimmed, that means there’s no previous driver for you to roll back to. In this case, you should try out the next method instead.
@@ -113,8 +104,12 @@ In another version of BIOS, the procedure may go like this:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your chipset/keyboard drivers
 
  Sometimes an outdated or corrupt driver may cause you trouble, like preventing the Fn keys from working properly. To cure the issue, you should consider updating both your chipset and keyboard drivers that are closely related to the normal functioning of Fn keys.
@@ -135,21 +130,29 @@ OR
 
  1) Press the**Windows Logo key** and**R** at the same time to invoke the Run dialog box. Then, type in**devmgmt.msc** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52-1.png)
 
  2) In the pop-up Device Manager window, double-click on the**Keyboards** node to expand its drop-down list. Then right-click on your keyboard device and select**Update driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-122.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-126.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Follow the onscreen instructions to download and install your keyboard drivers.
 
@@ -165,12 +168,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-129.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Right-click on each of these devices and select**Update driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-130.png)
 
  8) Repeat**Step3 through Step 4** to update your chipset driver.
@@ -193,16 +199,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-06-10_14-52-48-1.png)
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-388.png)
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -221,11 +221,29 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-fast-fixed-ways-to-scramble-youtube-watchlist-content/"><u>[New] 2024 Approved Fast Fixed Ways to Scramble YouTube Watchlist Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-strategies-for-maximizing-your-twitter-archive/"><u>[New] Strategies for Maximizing Your Twitter Archive</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-dominate-instagram-with-superior-reel-content-for-2024/"><u>[Updated] Dominate Instagram with Superior Reel Content for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-preserving-sims-4-moments-effective-strategies-for-recording-playthroughs-for-2024/"><u>[Updated] Preserving Sims 4 Moments Effective Strategies for Recording Playthroughs for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-digital-makeup-on-video-platforms-for-2024/"><u>[Updated] The Art of Digital Makeup on Video Platforms for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/critical-error-cruntimel1-1-0-missing-from-system/"><u>Critical Error: CRuntimeL1-1-0 Missing From System</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-file-explorer-not-responding-problems-in-windows-11/"><u>Effective Fixes for 'File Explorer Not Responding' Problems in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-high-disk-usage-caused-by-microsofts-telemetry-service-in-windows-11-systems/"><u>Fixing High Disk Usage Caused by Microsoft's Telemetry Service in Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-successfully-power-off-your-computer-running-windows-11/"><u>Fixing the Issue: How to Successfully Power Off Your Computer Running Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-techniques-to-apply-watermarks-on-fb-content/"><u>In 2024, Techniques to Apply Watermarks on FB Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-step-by-step-guide-to-overcome-the-preparing-to-configure-windows-issue/"><u>Resolved: Step-by-Step Guide to Overcome the 'Preparing to Configure Windows' Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-overcoming-the-errcachemiss-challenge-in-chrome/"><u>The Ultimate Guide to Overcoming the ERR_CACHE_MISS Challenge in Chrome</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/undercover-echo-enthusiasts-6-hidden-voice-capture-apps/"><u>Undercover Echo Enthusiasts 6 Hidden Voice Capture Apps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-if-you-are-having-mkv-files-that-do-not-meet-your-desired-size-length-or-quality-then-you-need-to-access-editing-tools/"><u>Updated 2024 Approved If You Are Having MKV Files that Do Not Meet Your Desired Size, Length or Quality, Then You Need to Access Editing Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-transform-your-videos-into-animated-masterpieces-a-step-by-step-guide/"><u>Updated In 2024, Transform Your Videos Into Animated Masterpieces A Step-by-Step Guide</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Unseen Troubles: Making Western Digital's My Passport Ultra Visible Again on a Windows PC"
-date: 2024-08-09T00:49:09.144Z
-updated: 2024-08-10T00:49:09.144Z
+date: 2024-09-09T18:10:16.276Z
+updated: 2024-09-14T22:43:05.597Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/1526ae325fb6d05a08910e7b5067d22acd2fa8b70
 
  One of the situations where you will see error code 0xc0000005 is when you get an**Access violation error** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59506a549650c.png)
 
  Access violation error occurs when the program you try to run is attempting to reach a location that is not assigned for it. This can result from various reasons. You can try the methods below to troubleshoot this error.
@@ -48,16 +45,10 @@ thumbnail: https://thmb.techidaily.com/1526ae325fb6d05a08910e7b5067d22acd2fa8b70
 
 **iii.** Click the **Advanced** tab. Click the**Settings** button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507b4b00aa2.png)
 
 **iv.** Click the **Data Execution Prevention** tab. Select **Turn on DEP for all programs and services except those I select** . Then click**Add** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59507cc89e487.png)
 
 **v.** Open the problematic**executable (.exe)** files. Then click**OK** all the way out.
@@ -70,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/1526ae325fb6d05a08910e7b5067d22acd2fa8b70
 
 **d)**  In addition to all the causes above, an**incompatible** **RAM** (Random Access Memory, shown by images below, an essential part of the computer) can also result in Access violation error.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad370059cc.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59dad3756980a.jpg)
@@ -81,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/1526ae325fb6d05a08910e7b5067d22acd2fa8b70
 
  (RAM is a hardware component inserted**inside** your computer. You need to**disassemble** your computer to remove or replace it. You can ask a specialist to do it for you, or consult your product manufacturer for assistance.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2) The application unable to start
 
  This 0xc0000005 error usually appears when you are attempting to run an application and it nevertheless crashes. It comes with a message saying “**The application was unable to start correctly.** “
@@ -102,9 +87,6 @@ To resolve this error, you can try the methods below.
 
  To use Driver Easy to fix faulty drivers, you need to download and install it. Then open the program and click on**Scan Now** button. All the devices on your computer will be scanned and checked within a few seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
  Click on**Update** button next to any device to download its driver. Or you can hit**Update All** button at the bottom to download and install all the drivers (this requires upgrading to**Pro version** ).
@@ -131,16 +113,10 @@ To resolve this error, you can try the methods below.
 
  On Windows 10/11, click**Create a restore** **point** ,
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a48dd948f.png)
 
  And then in the dialog popping up, click the**System Restore** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a4e07f234.png)
 
 **iii.**  In the System Restore wizard, follow the instructions to select a restore point and complete the restoration.
@@ -161,9 +137,6 @@ To repair BCD:
 
  If you are using Windows 8 or 10, click   **Next > Repair your computer > Troubleshoot > Command Prompt** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3a019b37dab.png)
 
 **iii.** In Command Prompt, type the following lines and press**Enter** on your keyboard after each (press the**Y** key followed by**Enter** after you enter the final line):
@@ -200,11 +173,34 @@ bootrec /rebuildbcd
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-innovative-tools-to-craft-top-titles/"><u>[New] Innovative Tools to Craft Top Titles</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-laughter-in-the-clouds-iphone-for-2024/"><u>[New] Laughter in the Clouds (iPhone) for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-avoid-piracy-safe-youtube-to-mp4-conversion-tips-for-2024/"><u>[Updated] Avoid Piracy Safe YouTube to MP4 Conversion Tips for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-sky-high-technology-unleashed-compreeive-review-of-dji-phantom-4/"><u>[Updated] In 2024, Sky High Technology Unleashed Compreeive Review of DJI Phantom 4</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-best-free-passport-picture-creation-services-online/"><u>2024 Approved Explore the Best Free Passport Picture Creation Services Online</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/avoid-frustration-correct-a-mistaken-tiktok-reset/"><u>Avoid Frustration – Correct a Mistaken TikTok Reset</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-addressing-and-repairing-ethernet-malfunctions-in-windows-operating-systems/"><u>Effective Fixes: Addressing and Repairing Ethernet Malfunctions in Windows Operating Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620255417-making-the-right-choice-understanding-iphone-jailbreaking-and-its-implications-for-your-device/"><u>Making the Right Choice: Understanding iPhone Jailbreaking and Its Implications for Your Device.</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-resolving-the-endless-loop-of-windows-11-reboots/"><u>Quick Fixes: Resolving the Endless Loop of Windows 11 Reboots</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-fatal-installation-mishaps-overcoming-error-1603-for-smooth-software-launches/"><u>Resolving Fatal Installation Mishaps: Overcoming Error 1603 for Smooth Software Launches</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205671582-speeding-up-league-of-legends-setup-fixes-for-sluggish-downloads/"><u>Speeding Up League of Legends Setup – Fixes for Sluggish Downloads!</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-guide-to-blurring-videos-on-iphone-and-android/"><u>Updated The Ultimate Guide to Blurring Videos on iPhone and Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/video-hosting-service-downloads-failing-top-strategies-for-unblocking-access/"><u>Video Hosting Service Downloads Failing? Top Strategies for Unblocking Access</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

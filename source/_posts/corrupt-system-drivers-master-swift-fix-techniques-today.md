@@ -1,7 +1,7 @@
 ---
 title: Corrupt System Drivers? Master Swift Fix Techniques Today!
-date: 2024-09-09T09:02:49.930Z
-updated: 2024-09-10T09:02:49.930Z
+date: 2024-09-11T17:05:37.626Z
+updated: 2024-09-15T06:12:16.247Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Corrupt System Drivers? Master Swift Fix Techniq
 thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a2765ac1b15d1b78fad2268973.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## HP Laptops' Unresponsive Keys? Master the Rapid Restoration Methods Today
 
  If you ever run into the**laptop keys not working** on your HP laptop, don’t panic. It’s often not hard to fix at all…
@@ -54,12 +48,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -84,6 +72,13 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -102,12 +97,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -115,11 +104,12 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -134,17 +124,12 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -153,32 +138,14 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Reseat your laptop battery
 
  Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot the **keys not working on laptop** issues. To do so:
@@ -204,8 +171,6 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,47 +180,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-audience-connection-implementing-a-triplet-of-copywriting-tactics-in-fb-ads/"><u>[New] 2024 Approved Audience Connection Implementing a Triplet of Copywriting Tactics in FB Ads</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-discover-effortless-pathways-to-dynamic-snaps-for-2024/"><u>[New] Discover Effortless Pathways to Dynamic Snaps for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-how-to-view-instagram-stories-anonymously-on-pc-android-and-iphone-free/"><u>[New] How to View Instagram Stories Anonymously on PC, Android and iPhone [Free]</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-frontier-of-film-diving-into-lgs-digital-cinema-31mu97-b/"><u>[New] The Frontier of Film Diving Into LG's Digital Cinema 31MU97-B</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-pathway-to-perfected-kinemaster-edits/"><u>[New] The Ultimate Pathway to Perfected Kinemaster Edits</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-finding-premium-photography-without-spending-for-2024/"><u>[Updated] Finding Premium Photography Without Spending for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-font-selection-wonders-enhancing-youtube-video-thumbnails/"><u>[Updated] Font Selection Wonders Enhancing YouTube Video Thumbnails</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-endless-preservation-of-instagrams-free-and-easy/"><u>[Updated] In 2024, Endless Preservation of Instagrams, Free & Easy</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-instagram-tips-sharing-your-podcast-content/"><u>[Updated] Instagram Tips Sharing Your Podcast Content</u></a></li>
-<li><a href="https://common-error.techidaily.com/a-comprehensive-guide-to-fixing-update-error-with-code-0x8024401c-on-windows-1110/"><u>A Comprehensive Guide to Fixing 'Update Error' With Code 0X8024401c on Windows 11/10</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-the-bugs-masterful-techniques-to-get-oddworld-soulstorm-running-on-windows-and-mac/"><u>Beat the Bugs! Masterful Techniques to Get Oddworld: Soulstorm Running on Windows and Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/boosting-windows-11-performance-solve-your-systems-low-memory-issues/"><u>Boosting Windows 11 Performance: Solve Your System's Low Memory Issues</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/busting-myths-essential-facts-on-instagrams-reels-for-2024/"><u>Busting Myths Essential Facts on Instagram's Reels for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-fixes-for-malfunctioning-windows-keyboards-dealing-with-persistent-keys/"><u>DIY Fixes for Malfunctioning Windows Keyboards: Dealing with Persistent Keys</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhance-your-article-output-with-these-8-essential-ai-tools-for-writers/"><u>Enhance Your Article Output with These 8 Essential AI Tools for Writers</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-solutions-for-video-input-not-connected-error-on-your-display-device/"><u>Expert Solutions for Video Input Not Connected Error on Your Display Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-the-challenge-of-unopenable-geforce-experience-software/"><u>Expert Tips for Overcoming the Challenge of Unopenable GeForce Experience Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-directory-name-is-incorrectly-set-up-error/"><u>Fixing the Issue: 'Directory Name' Is Incorrectly Set Up Error</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-get-your-steelseries-gg-engine-running-smoothly-on-windows/"><u>Fixing the Issue: How to Get Your SteelSeries GG Engine Running Smoothly on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/from-troubled-to-triumphant-the-end-of-easy-anti-cheat-problems-in-new-world-release/"><u>From Troubled to Triumphant: The End of Easy Anti-Cheat Problems in New World Release</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-nvidia-display-driver-updates-for-multiple-windows-versions-here/"><u>Get the Newest Nvidia Display Driver Updates for Multiple Windows Versions Here!</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209659317-hidden-in-plain-sight-your-sd-card-solution/"><u>Hidden in Plain Sight - Your SD Card Solution!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-easily-address-and-correct-a-503-http-server-error/"><u>How To Easily Address and Correct a #503 HTTP Server Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-msmpengexe-high-cpu-usage-on-windows-11-a-comprehensive-guide/"><u>How to Fix MsMpEng.exe High CPU Usage on Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-persistent-pairing-problems-with-bluetooth-on-your-windows-10-device/"><u>How to Fix Persistent Pairing Problems with Bluetooth on Your Windows 10 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-the-an-issue-occurred-when-reinstalling-windows-11-message/"><u>How to Resolve the 'An Issue Occurred When Reinstalling Windows 11' Message</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-werfaultexe-application-malfunctions-quickly/"><u>How to Resolve Windows werfault.exe Application Malfunctions Quickly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-to-raise-the-barrier-new-desktop-chips-might-run-hotter-than-ever-before-with-elevated-heat-ceilings-for-arrow-lake-series/"><u>Intel to Raise the Barrier? New Desktop Chips Might Run Hotter than Ever Before with Elevated Heat Ceilings for Arrow Lake Series</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/july-2024-showcase-selecting-the-top-13-free-pdf-manipulation-programs/"><u>July 2024 Showcase: Selecting the Top 13 Free PDF Manipulation Programs</u></a></li>
-<li><a href="https://common-error.techidaily.com/minecraft-troubleshooting-masterclass-eradicate-lag-for-smoother-gaming/"><u>Minecraft Troubleshooting Masterclass: Eradicate Lag for Smoother Gaming</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-monitor-errors-a-deep-dive-into-unsupported-input-categories/"><u>Navigating Monitor Errors: A Deep Dive Into Unsupported Input Categories</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207834759-overcome-fresh-renderer-launch-issues-apply-the-latest-fix/"><u>Overcome Fresh Renderer Launch Issues - Apply the Latest Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-update-errors-successfully-installing-the-windows-10-may-2019-v1903-upgrade/"><u>Overcoming Windows Update Errors: Successfully Installing the Windows 10 May 2019 (v1903) Upgrade</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-input-device-a-comprehensive-reset-for-keyboards/"><u>Reviving Your Input Device: A Comprehensive Reset for Keyboards</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/shield-yourself-online-strategies-to-hide-visual-identities/"><u>Shield Yourself Online Strategies to Hide Visual Identities</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-guide-escaping-the-endless-loop-of-windows-configuration-preparation/"><u>Solution Guide: Escaping the Endless Loop of Windows Configuration Preparation</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-how-to-converting-avi-files-to-mov-for-both-pc-and-mac-users/"><u>Step-by-Step How-To: Converting AVI Files to MOV for Both PC and Mac Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-for-enabling-bluetooth-connectivity-in-windows-1110/"><u>Step-by-Step Tutorial for Enabling Bluetooth Connectivity in Windows 11/10</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-hunt-for-hit-tunes-and-viral-videos-on-fb/"><u>The Hunt for Hit Tunes and Viral Videos on FB</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transcribing-spoken-words-in-minutes-using-auto-transcribe-and-office-suite-tools-for-2024/"><u>Transcribing Spoken Words in Minutes Using Auto-Transcribe and Office Suite Tools for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-with-pdf-printers-discover-swift-solutions/"><u>Trouble With PDF Printers? Discover Swift Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-fatal-dxgkrnl-bug-in-windows-multimedia-playback/"><u>Troubleshooting the Fatal Dxgkrnl Bug in Windows Multimedia Playback</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-is-my-pc-running-windows-11-turning-on-without-command/"><u>Why Is My PC Running Windows 11 Turning on without Command?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-designing-impactful-social-media-fb-ads/"><u>[New] Designing Impactful Social Media FB Ads</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-megadatasky-affordable-space-for-big-files/"><u>[Updated] 2024 Approved MegaDataSky - Affordable Space for Big Files</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bring-laughs-home-for-free-mememakers-way/"><u>2024 Approved Bring Laughs Home for FREE - MemeMaker's Way</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-standard-to-spectacomed-adding-fonts-to-after-effects-workflow/"><u>2024 Approved From Standard to Spectacomed Adding Fonts to After Effects Workflow</u></a></li>
+<li><a href="https://common-error.techidaily.com/compatibility-checklist-verify-your-system-has-a-d3d11-ready-graphics-unit-for-optimal-performance/"><u>Compatibility Checklist: Verify Your System Has a D3D11-Ready Graphics Unit for Optimal Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/discovering-the-solution-to-xbox-onpc-issues/"><u>Discovering the Solution to Xbox OnPC Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-missing-desktop-icons-on-windows-11-complete-solution/"><u>Fixing Missing Desktop Icons on Windows 11 - Complete Solution!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-damaged-files-a-complete-fix-guide/"><u>How to Repair Damaged Files: A Complete Fix Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/jump-start-your-dead-laptop-battery-with-these-easy-troubleshooting-steps/"><u>Jump-Start Your Dead Laptop Battery with These Easy Troubleshooting Steps!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/inent-audience-alteration-tools-for-content-casters-for-2024/"><u>Preeminent Audience Alteration Tools for Content Casters for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-bluetooth-connectivity-issues-in-windows-10/"><u>Resolved: Troubleshooting Bluetooth Connectivity Issues in Windows 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/rev-up-your-reps-exercise-tunes-from-the-top-20-for-2024/"><u>Rev Up Your Reps Exercise Tunes From the Top 20 for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-lava-yuva-2-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Lava Yuva 2</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-tips-5-ways-to-address-no-login-situations-in-counter-strike-global-offensive/"><u>Ultimate Troubleshooting Tips - 5 Ways to Address No-Login Situations in Counter Strike Global Offensive</u></a></li>
+<li><a href="https://common-error.techidaily.com/win1011-manage-overloaded-cores/"><u>Win10/11: Manage Overloaded Cores</u></a></li>
 </ul></div>
+

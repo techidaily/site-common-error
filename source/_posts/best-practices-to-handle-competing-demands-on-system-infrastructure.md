@@ -1,0 +1,135 @@
+---
+title: Best Practices to Handle Competing Demands on System Infrastructure
+date: 2024-09-14T16:03:50.282Z
+updated: 2024-09-15T16:04:49.173Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Best Practices to Handle Competing Demands on System Infrastructure
+excerpt: This Article Describes Best Practices to Handle Competing Demands on System Infrastructure
+thumbnail: https://thmb.techidaily.com/e88d8c41e4814f7655a90371c7c1a9d7d6681eb85438d5aed456505e78685831.jpg
+---
+
+## Master the Art of Connecting HDMI Devices with a Windows 11 System: No More Frustrations
+
+If you’ve upgraded to Windows 10 or performed a Windows 10 update, and Windows can’t detect your TV, don’t worry. You’re not the only one. Quite a number of Windows 10 users have reported this issue. Fortunately, you can fix the problem with one of the solutions below.
+
+ First of all, ensure there is no problem with the HDMI port and the cable:
+
+ 1)**Unplug the TV then plug it to the HDMI port again** . Then check to see if the problem is resolved.
+
+ 2)**Try using a different HDMI cable**
+
+ A broken HDMI cable can cause the problem. Try to use another cable, and see if the issue persists.
+
+ If there’s no problem with the HDMI port and the cable, you can try the two solutions below. Start with Solution 1, then try Solution 2 if it doesn’t solve the problem.  
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## **Solution 1: Check the display output settings**
+
+ Incorrect display output settings could be preventing your TV from detecting your connected computer. Follow the steps below to check.
+
+ 1) Right-click your desktop and click **Personalize** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f20f2242c5.png)
+
+ 2) Click**Display** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f25c04e4c2.jpg)
+
+3) Check if you’re able to see the TV as a second monitor.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f296382361.jpg)
+
+ If you can’t see your TV on the screen , follow steps below:
+
+ 1) On your keyboard, press the**Windows logo key**  and **P** at the same time.
+ 2) Click**Duplicate** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587f2b20b8e25.jpg)
+
+ If Duplicate doesn’t work, try switching to**Extend** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bc8338cfae9.png)
+
+After that, check to see if Windows can detect your TV.
+
+## **Solution 2: Update the graphics driver**
+
+ Your problem may be caused by a graphics driver issue. This can happen if the Windows basic video driver is installed but not the manufacturer’s driver.  So try to update your graphics driver to fix the problem.
+
+ There are two ways you can get the right drivers for your video card: manually or automatically.
+
+**Manual driver update** – You can update your video drivers manually by going to the manufacturer’s website for your video card, and searching for the most recent correct driver. Be sure to choose only drivers that are compatible with your variant of Windows 10.
+
+**Automatic driver update** – If you don’t have the time, patience or computer skills to update your video drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .  Driver Easy will automatically recognize your system and find the correct drivers for your video card, and your variant of Windows 10, and it will download and install them correctly. Here;s what you need to do:
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**   and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0ea2eb0b92e.jpg)
+
+ 3) Click the **Update**  button next to the flagged video driver driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the **FREE** version).
+
+Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0e9e0ebcfe9.jpg)
+
+ 4) Restart your computer and check to see if Windows 10 can now detect your TV.
+
+**TIP:** After connecting your TV via HDMI successfully, if you can’t hear sound from the output, go to [Fix HDMI No Sound in Windows 10](https://tools.techidaily.com/drivereasy/download/) for the solutions.
+
+ That’s all there is to it. Hopefully one of these methods resolves your problem.  Please feel free to leave your comment below if you have any questions.
+
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-achieve-crystal-clear-slack-discussions-with-these-10-tools/"><u>[New] Achieve Crystal Clear Slack Discussions with These 10 Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-channels-standing-with-these-tactics/"><u>[New] Elevate Your Channel's Standing with These Tactics</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-busting-the-top-10-vloggers-fears-strategies-for-success-for-2024/"><u>[Updated] Busting the Top 10 Vloggers' Fears Strategies for Success for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/discovering-the-best-soil-sprouts-of-valheim-for-2024/"><u>Discovering the Best Soil Sprouts of Valheim for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-the-runtime-broker-cpu-crunch-on-windows-11-with-these-proven-fixes-get-started-now/"><u>End the Runtime Broker CPU Crunch on Windows 11 with These Proven Fixes – Get Started Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-incompatible-drivers-affect-ftdi-memory-integrity-and-solutions/"><u>How Incompatible Drivers Affect FTDI Memory Integrity and Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/perspective-analysis-why-owning-an-ipad-makes-sense-economically/"><u>Perspective Analysis: Why Owning an iPad Makes Sense Economically</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-d3derr-not-available-errors-on-your-windows-pc-step-by-step-guide/"><u>Resolving D3DERR Not Available Errors on Your Windows PC – Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-problem-no-download-from-steam-updates/"><u>Resolving the Problem: No Download From Steam Updates</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ix-escort-revealed-an-intuitive-radar-detector-that-upgrades-while-on-the-road/"><u>The iX Escort Revealed: An Intuitive Radar Detector that Upgrades While on the Road</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-windows-10-bluetooth-connectivity-issues/"><u>Ultimate Guide: Solving Windows 10 Bluetooth Connectivity Issues</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

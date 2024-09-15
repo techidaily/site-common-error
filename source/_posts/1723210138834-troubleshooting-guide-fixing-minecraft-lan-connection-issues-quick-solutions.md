@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing 'Minecraft LAN Connection Issues' - Quick Solutions!"
-date: 2024-08-09T00:49:09.494Z
-updated: 2024-08-10T00:49:09.494Z
+date: 2024-09-10T14:36:53.656Z
+updated: 2024-09-15T03:52:10.488Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 
 ## Troubleshooting Guide: Fixing 'Minecraft LAN Connection Issues' - Quick Solutions
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/minecraft-300x178.jpg)
 
 **LAN not working** is one of the common Windows problems for Minecraft. In most scenarios, the players can connect to the internet but they can’t join each other to play the game. **If you run into this problem, don’t worry. You can fix it with one of the methods below.**
@@ -43,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 
  First, navigate to**Control Panel** \->**Windows Defender Firewall** \->**Allow an app for feature through Windows Defender Firewall** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c26077d5f666.jpg)
 
  Then see if the “javaw.exe” is checked. If it’s not checked, click the**Change settings** button then check the box next to “javaw.exe”. If you see more than one “javaw.exe” entry, check all of them. Also, ensure the Private box and the Public box are checked.
@@ -82,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-715.png)
 
  You can do it with the Free version, but it’s partly manual.
@@ -93,6 +83,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  After updating the network drivers, check to see if the LAN not working issue is resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Ensure every computer is connected to the same network
 
@@ -105,8 +108,12 @@ If this method doesn’t work for you, try other solutions.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Ensure everyone is running the same version of Minecraft
 
  Check if you and other players are running the same version of Minecraft. If you’re running a different version, you can’t play the game with each other.
@@ -121,9 +128,6 @@ If this method doesn’t work for you, try other solutions.
 
  3)**Select the Version** from the Use version drop-down menu**.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c26092ec00a3.jpg)
 
 If this method doesn’t work for you, try other solutions.
@@ -138,9 +142,6 @@ If this method doesn’t work for you, try other methods.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Try a direct connect
 
  One way to fix the LAN not working issue is to try a direct connection on the host computer. It requires you to manually enter the IP address and the game port.
@@ -151,14 +152,18 @@ If this method doesn’t work for you, try other methods.
 
  2)**Type cmd in the box** .
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260a9e41a12.png)
 
  3)**Type ipconfig and press the Enter key on your keyboard** . Then you’ll get a list of information about the network.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260ad5f1c53.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4)**Find the IPv4 Address** which usually means the IP address for that computer.
 
@@ -168,26 +173,18 @@ If this method doesn’t work for you, try other methods.
 
 **Secondly** , you need to get the game port. As soon as you launch Minecraft on the host computer, you can get the game port number at the bottom of the screen as follows.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260b667f112.jpg)
 
  If you see a screen like the one below, click the**Direct Connect** button then enter the IP address and the game port number.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260b918466d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this method doesn’t work for you, try other methods.
 
@@ -200,8 +197,12 @@ If this method doesn’t work for you, try other methods.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 9\. Disable AP Isolation (for WiFi only)
 
  If you’re connected to the wireless, one possible cause of the problem is the AP Isolation (Access Point Isolation). AP isolation is a security feature on some routers. If it’s enabled, it’ll prevent devices on a wireless network from communicating directly with one another. In this case, the computers on the same wireless network cannot communicate with each other. So you can check if the AP Isolation is enabled on your router. You can refer to your router documentation for the information and the instructions.
@@ -227,11 +228,27 @@ You also like…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-capturing-quality-logitech-webcam-recording-guide/"><u>[New] In 2024, Capturing Quality Logitech Webcam Recording Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-picsart-guide-discreetly-mask-faces/"><u>[New] Picsart Guide Discreetly Mask Faces</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-ride-the-viral-wave-mixing-tiktok-flair-into-instagram-reels-for-2024/"><u>[Updated] Ride the Viral Wave Mixing TikTok Flair Into Instagram Reels for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-pioneering-filmmakers-top-7-color-grading-hacks/"><u>2024 Approved Pioneering Filmmakers' Top 7 Color Grading Hacks</u></a></li>
+<li><a href="https://common-error.techidaily.com/5-rapid-remedies-when-you-cant-print-to-pdf/"><u>5 Rapid Remedies When You Can't Print to PDF</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/custom-settings-reactivated-overcame-non-responsive-error/"><u>Custom Settings Reactivated – Overcame Non-Responsive Error</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/r-type-final-2-stability-guide-how-to-prevent-game-crashes-on-your-computer/"><u>R-Type Final 2 Stability Guide: How to Prevent Game Crashes on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-resolve-error-code-0x800f0831-via-windows-updates/"><u>Simple Solutions: Resolve Error Code 0X800f0831 via Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/stay-in-the-fight-fix-csgo-crashing-problems-quick-and-easy-ways/"><u>Stay in the Fight - Fix CSGO Crashing Problems Quick and Easy Ways</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-printscreen-functionality-problems-in-windows-11-and-windows-10-systems/"><u>Troubleshooting PrintScreen Functionality Problems in Windows 11 and Windows 10 Systems</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-ranking-the-top-hand-drawn-whiteboard-animation-software-for-2024/"><u>Updated Ranking the Top Hand-Drawn Whiteboard Animation Software for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-12-pro-maxipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 12 Pro Max/iPad? Solved | Dr.fone</u></a></li>
+</ul></div>
+

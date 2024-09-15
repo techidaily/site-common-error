@@ -1,7 +1,7 @@
 ---
 title: Fixes for Persistent Reboot Loop in Windows 11 & 10 Systems
-date: 2024-08-09T00:49:09.182Z
-updated: 2024-08-10T00:49:09.182Z
+date: 2024-09-09T14:10:07.036Z
+updated: 2024-09-15T03:36:43.315Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/88b9d1a1839e87bc852a7b88397e12987972348fa
 
 ## Troubleshooting Persistent Loops in Windows 10 Automatic Repairs - Solved
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58afe2f523108.jpg)
 
 When you met boot error with Windows 10, you hoped that automatic repair will help fix the problem. But it got you more troubles. The worse thing is that repair process seems never end. Then what to do to end the loop? Read on to find the solutions.  
@@ -42,32 +39,14 @@ When you met boot error with Windows 10, you hoped that automatic repair will he
   
  2\. When you go to the setup screen, select the Language that you wish to use.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58afee8fe2d3c.jpg)
   
  3\. Then you will see the Windows Install screen, select**Repair your computer** at the bottom left corner.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58afee63020fa.png)
   
  4\. In Choose an option screen, select**Troubleshoot** .  
   
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58afef1de6d4e.png)
   
  5\. Then select**Advanced options** .  
@@ -84,9 +63,6 @@ No advertising on the website.
   
  Follow these steps: 1\. In Command Prompt, t ype **copy c:\\windows\\system32\\config\\RegBack\\\* c:\\windows\\system32\\config** and hit**Enter** .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58b004f363cc4.png)
   
  2\. If prompted to overwrite existing files, type**All** and hit **Enter** .  
@@ -99,9 +75,6 @@ No advertising on the website.
   
  1\. In Command Prompt, type**bcdedit** and hit**Enter** . Then you will see the result displayed. Look for**resumeobject** item and note the number next to it (In below case, the number is 7ce0dd34-d277-11e4-8263-68f7286346fb).  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58aff3f6500f3.jpg)
   
  2\. Type **bcdedit /set GUID recoveryenabled No** and hit**Enter** . Replace GUID with the number that you noted in last step. (For example, if the number is 7ce0dd34-d277-11e4-8263-68f7286346fb, the full command will be “bcdedit /set 7ce0dd34-d277-11e4-8263-68f7286346fb recoveryenabled No”)  
@@ -144,11 +117,31 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-best-ways-to-record-and-save-itunes-videos/"><u>[New] 2024 Approved Best Ways to Record and Save iTunes Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-ancient-aesthetics-public-domain-pieces/"><u>[Updated] Ancient Aesthetics Public Domain Pieces</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-steps-for-chromakey-magic/"><u>[Updated] In 2024, Essential Steps for Chromakey Magic</u></a></li>
+<li><a href="https://common-error.techidaily.com/boost-productivity-with-file-explorer-in-windows-11-a-beginners-guide/"><u>Boost Productivity with File Explorer in Windows 11 - A Beginner's Guide</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/discovering-tiktoks-most-shared-meals/"><u>Discovering TikTok's Most Shared Meals</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-itel-a60s-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Itel A60s Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reduce-high-network-activity-caused-by-svchostexe-netsvcs/"><u>How to Reduce High Network Activity Caused by svchost.exe NETSVCS</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-typing-setup-when-the-at-symbol-doesnt-work/"><u>How To Repair Your Typing Setup When the 'At' Symbol Doesn’t Work</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-video-playback-rate-adjustments-in-snapchat/"><u>In 2024, Mastering Video Playback Rate Adjustments in Snapchat</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-11-update-obstacles-expert-advice-and-solutions/"><u>Overcoming Windows 11 Update Obstacles: Expert Advice & Solutions</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

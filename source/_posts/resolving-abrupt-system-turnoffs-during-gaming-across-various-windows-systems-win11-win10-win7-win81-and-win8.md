@@ -1,0 +1,121 @@
+---
+title: Resolving Abrupt System Turnoffs During Gaming Across Various Windows Systems (Win11, Win10, Win7, Win8.1 & Win8)
+date: 2024-09-14T16:05:04.110Z
+updated: 2024-09-15T16:01:31.509Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Resolving Abrupt System Turnoffs During Gaming Across Various Windows Systems (Win11, Win10, Win7, Win8.1 & Win8)
+excerpt: This Article Describes Resolving Abrupt System Turnoffs During Gaming Across Various Windows Systems (Win11, Win10, Win7, Win8.1 & Win8)
+thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb1733f1b9948bd185f0bb490.jpg
+---
+
+## Solve Your Laptop's Stuck Keys Problem Across Various Windows Platforms
+
+[keyboard notworking](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bffc41c409ee.jpg) ](https://tools.techidaily.com/drivereasy/download/)
+
+ If the keypad suddenly stops working on your laptop, don’t worry. Thousands of users have reported the same. Luckily they’ve solved this woe with the one of the 3 fixes below. So read on and check them out…
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Try these fixes
+
+ All the fixes below work in **Windows 10** , **8** and **7** . You may not have to try them all; just work your way down the list until this**laptop keyboard not working** problem goes away.
+
+1. [**Reinstall your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Update your keyboard driver**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Reseat your laptop battery**](https://tools.techidaily.com/drivereasy/download/)
+
+### Fix 1: Reinstall your keyboard driver
+
+ The incorrectly installed/ corrupted keyboard driver may account for this**keypad on laptop not working** issue. So we can try reinstalling the driver and see if the keys work properly again. Here’s a quick walk-through:
+
+1. On your keyboard, press **the Windows logo key** **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
+2. Locate and double-click on **Keyboards** , then right-click on your keyboard and click **Uninstall device** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+3. Wait until the uninstall finishes and **Restart**   your computer so that your computer can auto-install the keyboard driver.
+4. Type on your laptop keyboard again and see if it works properly.
+
+---
+
+### Fix 2: Update your keyboard driver
+
+ Your outdated keyboard driver may very well be another reason responsible for this **keys not working in laptop** problem if**Fix 1** didn’t help with the situation. We might have to update our keyboard driver to the latest version to make sure problems don’t exacerbate.
+
+ There’re two ways you can update your device drivers —
+
+**Update your keyboard driver manually** – You can update your device drivers manually by going to the **manufacturer’s official website** (like**HP** for example), and searching for the most recent correct driver for the exact device. Be sure to choose **ONLY** drivers that are compatible with your variant of Windows system versions.
+
+**OR**
+
+**Update your keyboard driver automatically** – If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .  You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either **[the FREE](https://tools.techidaily.com/drivereasy/download/)**  or[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
+3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
+4. Type on your keypad and test if the**laptop keypad not working** problem has been fixed.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Fix 3:  Reseat your laptop battery
+
+ Reseating the laptop battery is another proven effective way as reported by many users to troubleshoot this**laptop** **keyboard not working** issue. To do so:
+
+1. Power off your HP laptop and disconnect the charger.
+2. Carefully remove the battery from the back of the laptop. (You might also need to check the manual if you’re unsure how this is done).
+3. Wait for a few seconds.
+4. Recharge your laptop and power it on.
+5. Test the keys on the keyboard and see if**keyboard not working**  issue goes away.
+
+---
+
+ If all else fails, then it might be a bad connection problem or even a hardware issue where it’s better to leave it with professional hands if you’re not quite comfortable playing around with your laptop.
+
+  There you go – top 3 fixes for your  keypad not working on laptop problem. Hope your keyboard works properly now and feel free to drop us a comment if you have any further questions or ideas to share with us. 🙂
+
+* [driver](https://tools.techidaily.com/drivereasy/download/)
+* [keyboard](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-discovering-and-developing-your-personalized-mukbang-style/"><u>[Updated] 2024 Approved Discovering and Developing Your Personalized Mukbang Style</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-art-of-crafting-a-youtube-video-with-100kplus-reach/"><u>[Updated] The Art of Crafting a YouTube Video with 100K+ Reach</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-essential-gimbal-selection-tips-for-aerial-photography/"><u>2024 Approved Essential Gimbal Selection Tips for Aerial Photography</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/conquer-the-controller-xbox-one-screenshot-basics-for-2024/"><u>Conquer the Controller Xbox One Screenshot Basics for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deep-dive-into-ai-evolution-distinguishing-features-between-googles-palm-2-and-openais-gpt-4/"><u>Deep Dive Into AI Evolution: Distinguishing Features Between Google's PaLM 2 and OpenAI's GPT-4</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-nailing-video-format-change-iphonedesktops-8-choices/"><u>In 2024, Nailing Video Format Change IPhone/Desktop's #8 Choices</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-continuous-reboot-loop-on-windows-11-and-windows-10/"><u>Resolved: How to Fix Continuous Reboot Loop on Windows 11 & Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208996112-solve-your-league-of-legends-woes-fixing-the-sluggish-downloads-once-and-for-all/"><u>Solve Your League of Legends Woes: Fixing the Sluggish Downloads Once and For All</u></a></li>
+<li><a href="https://common-error.techidaily.com/stuck-on-startup-top-methods-for-unlocking-your-device/"><u>Stuck On Startup? Top Methods for Unlocking Your Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-solutions-for-managing-high-gpu-consumption-by-the-desktop-window-manager-on-windows-11/"><u>Top 5 Solutions for Managing High GPU Consumption by the Desktop Window Manager on Windows 11</u></a></li>
+</ul></div>
+

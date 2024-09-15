@@ -1,7 +1,7 @@
 ---
 title: How to Overcome the Game-Starting Problem When PhysXloader.dll Is Absent
-date: 2024-09-09T09:02:52.650Z
-updated: 2024-09-10T09:02:52.650Z
+date: 2024-09-12T06:05:40.780Z
+updated: 2024-09-15T13:34:31.341Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Recently, many laptop users have reported that they have an issue with their battery. **When they view their battery information, they notice that their battery is not charging.** If you also run into this issue, don’t worry! we’ve put together some useful fixes to help you resolve this issue.
 
 ## **Fixes to try:**
@@ -52,12 +46,6 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 
  4) If possible,**use your current AC adapter to charge a new battery** . If the battery is charging, it indicates your battery is bad. If the new battery is not charging, perhaps it is the AC adapter that triggers this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Turn off the battery charge threshold
 
  Some laptops have**the battery charge threshold feature** . This feature allows laptop users to customize the battery charge threshold so that when the battery reaches that threshold, the battery won’t charge.
@@ -76,20 +64,8 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After you turn off the battery charge threshold feature, your battery should be charging.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Perform a power reset on your laptop
 
 **Try performing a power reset on your laptop** to see if the battery not charging issue persists. Here is how to do it:
@@ -102,11 +78,12 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
 
  You can try reinstalling **Microsoft ACPI-Compliant Control Method Battery**  to see if this annoying issue persists. Here is how to do it:
@@ -119,22 +96,17 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Uninstall** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Shut down your laptop and **disconnect the AC adapter** .
 
  5) Remove your laptop battery, **press and hold the power button for 30 seconds** and then release the power button.
@@ -147,6 +119,19 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd073b6f72.png)
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
@@ -154,11 +139,12 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Update the driver for your battery management device
 
  This issue is also probably caused by a missing or outdated**driver for your battery management device** . Try updating the driver for your battery management device to see if this issue can be fixed.
@@ -183,12 +169,6 @@ thumbnail: https://thmb.techidaily.com/633f0a6d177df3d7fb477a15a0804c21edff9926a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -210,8 +190,6 @@ Your battery should then be charging.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,40 +199,15 @@ Your battery should then be charging.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-how-to-fix-minecraft-lagging-issue/"><u>[FIXED] How To Fix Minecraft Lagging Issue</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-sky-eyes-on-the-action-dji-phantom-pro-vs-gopro-fusion/"><u>[New] 2024 Approved Sky Eyes on the Action DJi Phantom Pro VS GoPro Fusion</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-deep-dive-into-freeweb-recorder-v2-interface-for-2024/"><u>[New] Deep Dive Into FreeWeb Recorder V2 Interface for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-perfecting-ultimate-canon-temp-visuals/"><u>[New] Perfecting Ultimate Canon Temp Visuals</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-secrets-of-storing-whatsapp-conversations/"><u>[Updated] 2024 Approved Secrets of Storing WhatsApp Conversations</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-altering-visuals-in-teams-calls-timely-setup-adjustments-for-2024/"><u>[Updated] Altering Visuals in Teams Calls Timely Setup Adjustments for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-enhancing-communication-strategies-for-effective-call-logging/"><u>[Updated] Enhancing Communication Strategies for Effective Call Logging</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-exploring-mycams-video-recording-quality-and-efficiency/"><u>[Updated] Exploring MyCam's Video Recording Quality and Efficiency</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-easy-steps-for-win-11-users-to-reactivate-photo-viewing-software/"><u>[Updated] In 2024, Easy Steps for Win 11 Users to Reactivate Photo Viewing Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-enriching-video-storytelling-implement-3-vital-description-methods-on-instagram/"><u>[Updated] In 2024, Enriching Video Storytelling Implement 3 Vital Description Methods on Instagram</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-drone-enthusiasts-compendium-of-must-haves-for-2024/"><u>[Updated] The Drone Enthusiast's Compendium of Must-Haves for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-dive-into-digital-friendship-start-your-facebook-journey/"><u>2024 Approved Dive Into Digital Friendship Start Your Facebook Journey</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/blizzard-out-of-service-status/"><u>Blizzard Out Of Service Status</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-destiny-2-connectivity-woes-fix-your-servers-now/"><u>Bypassing Destiny 2 Connectivity Woes: Fix Your Servers Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/code-rejection-awaiting-new-instructions/"><u>Code Rejection: Awaiting New Instructions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-cutting-edge-electronics-through-toms-equipment-insights/"><u>Discover Cutting-Edge Electronics Through Tom's Equipment Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/execution-interrupted-command-issued/"><u>Execution Interrupted: Command Issued</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-fixing-the-critical-process-died-error-error-code-0x00000005/"><u>Expert Tips: Fixing the Critical Process Died Error (Error Code 0X00000005)</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-guide-resolving-windows-10-update-error-code-0xc1900208/"><u>Fix Guide: Resolving Windows 10 Update Error Code 0xC1900208</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-nier-automata-game-crashing-issues-on-pc/"><u>Fixes for Nier: Automata Game Crashing Issues on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-a-broken-service-register-on-windows-10/"><u>How to Repair a Broken Service Register on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-and-prevent-driver-related-power-offset-problems-on-your-pc-windows/"><u>How to Repair and Prevent Driver-Related Power Offset Problems on Your PC (Windows)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-v29-pro-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo V29 Pro to PC? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-defeating-the-frustrating-windows-update-error-0x80244022-once-and-for-all/"><u>Mastering the Art of Defeating the Frustrating Windows Update Error (0X80244022) Once and For All</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204342003-maximizing-your-machines-potential-how-to-end-overbearing-system-load-from-shell-infrastructures/"><u>Maximizing Your Machine’s Potential – How to End Overbearing System Load From Shell Infrastructures!</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-and-easy-ways-to-repair-lost-bluetooth-connectivity-in-windows-10/"><u>Quick and Easy Ways to Repair Lost Bluetooth Connectivity in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/success-story-resolved-problem-with-a-malfunctioning-igfx-emm/"><u>Success Story: Resolved Problem with a Malfunctioning iGFX EMM</u></a></li>
-<li><a href="https://common-error.techidaily.com/treatment-options-may-include-surgery-radiation-therapy-chemotherapy-targeted-therapy-or-a-combination-of-these-modalities/"><u>Treatment Options May Include Surgery, Radiation Therapy, Chemotherapy, Targeted Therapy, or a Combination of These Modalities.</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-address-minecraft-issues-caused-by-faulty-gpu-drivers-in-windows/"><u>Troubleshooting Guide: How to Address Minecraft Issues Caused by Faulty GPU Drivers in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-non-operational-intel-rst-service-on-your-windows-11-pc/"><u>Troubleshooting the Non-Operational Intel RST Service on Your Windows 11 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-the-livekernelevent-117-error-permanently/"><u>Ultimate Guide: Solving the 'LiveKernelEvent 117' Error Permanently</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-steps-resolving-xbox-one-controller-connectivity-issues-a-complete-walkthrough/"><u>Ultimate Troubleshooting Steps: Resolving Xbox One Controller Connectivity Issues - A Complete Walkthrough</u></a></li>
-<li><a href="https://common-error.techidaily.com/unraveling-the-challenge-of-error-code-0x8024a105-in-microsoft-updates/"><u>Unraveling the Challenge of Error Code 0X8024a105 in Microsoft Updates</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-times-running-out-learn-to-add-a-countdown-timer-in-fcpx-fast/"><u>Updated 2024 Approved Times Running Out! Learn to Add a Countdown Timer in FCPX Fast</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-startup-error-learn-how-to-correct-entry-point-not-found-issues/"><u>Windows Startup Error? Learn How to Correct Entry Point Not Found Issues</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-original-visual-documentation-evaluation-and-alternatives/"><u>[New] 2024 Approved Original Visual Documentation Evaluation & Alternatives</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-fundamentals-of-assembling-photos-into-art-for-2024/"><u>[New] The Fundamentals of Assembling Photos Into Art for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-solutions-to-fix-windows-network-error-code-0x800704cf/"><u>Efficient Solutions to Fix 'Windows Network Error Code 0X800704CF'</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-y27-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo Y27 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-video-editor-for-mavericks-how-to-edit-videos-in-os-x-mavericks/"><u>In 2024, Video Editor for Mavericks How to Edit Videos in OS X Mavericks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/instagram-enhancement-picture-posting-guide/"><u>Instagram Enhancement Picture Posting Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/simultaneous-shutdown-techniques-for-windowed-applications/"><u>Simultaneous Shutdown Techniques for Windowed Applications</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-oculus-device-malfunctions/"><u>Ultimate Guide: Resolving Oculus Device Malfunctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-update-error-0x80240017-fixed/"><u>Windows Update Error 0X80240017 [Fixed]</u></a></li>
 </ul></div>
+

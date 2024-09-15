@@ -1,7 +1,7 @@
 ---
 title: Overcoming Common Problems for Seamless Minecraft Multiplayer LAN Play
-date: 2024-08-09T00:49:08.942Z
-updated: 2024-08-10T00:49:08.942Z
+date: 2024-09-13T08:45:33.164Z
+updated: 2024-09-15T00:37:19.853Z
 tags:
   - win11
   - win10
@@ -24,26 +24,14 @@ thumbnail: https://thmb.techidaily.com/f29f99d4419c1c54f223ae0fe4e25f224aa2e0b29
   * [**Method Four: Update Video Card Driver Automatically**](https://tools.techidaily.com/drivereasy/download/)
  **\[Problem Description\]**The**Minecraft “Bad Video Card Drivers” Crash** could be frustrating since it stops you from playing Minecraft. And before you could get this problem solved, there is nothing you could do to the game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785b1d6ac28e.png)
 
 Let’s look closer at this problem:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f82ede599.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To fix this problem, this tutorial provides five different and effective ways for you to have a try. Please read along and find the right method for you.   **\[Before We Start\]**The first thing we can do when we are addressing this crash is to make sure that Minecraft is up to date, which applies to the game itself. You can check the version number of**Minecraft**on the bottom right corner and the**Minecraft Launcher**version under**Launcher Log**tab. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785b82e22374.png)Then compare the version number with the one that could be found on[Minecraft website](https://minecraft.net/en/)to see if you have the latest version installed. Second, you need to make sure that you have installed the latest Windows Update. You can type**windows update**in the search box and open the Windows Update program that comes up.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785befa5c60a.png)
 
 If you can see some updates on your computer, click the**Install updates**button here and let the system run the updates. This step could help you update your video card driver or graphics card driver when there is update detected, which might fix the problem.
@@ -66,9 +54,6 @@ Thirdly, you need to make sure that you have the latest version of Java installe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e3640a93c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 3) In the coming up window, go to**Driver**tab and then click the**Roll Back Driver**option. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e3cf36bcb.png)4) Click**Yes**when this window comes up.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e4168f03c.png)5) Restart your computer after this change. **Note**: If the**Roll Back Driver** button is grey here like the screen shot below, then you might not be able to proceed with this method. It is suggested that you try the other methods below. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e52a88640.png)   **Method Three: Update Video Driver Manually**1) Press**Windows Key + R**at the same time to invoke a**Run**command. Then type in**dxdiag**and press**Enter**.![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e7a2b26ae.png)2) Go to**Display**tab and locate the video card device information. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785e7dd4fc08.png)Base on the device name of your video or display card, go to the manufacturer’s official website and look for the latest version of driver for your video card. The majority of users will have one of the below makes of video card:
 
 * **Intel –[How to download Intel display card driver?](https://tools.techidaily.com/drivereasy/download/)**
@@ -80,9 +65,6 @@ If you have video card made by manufacturers other than these three listed here,
 
 2) Choose the driver you need and then press the**Update**button to download the driver file.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e6164b50ba1.jpg)
 
 As you can see, the free version is equally capable as the professional version of **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** . But it is required that you install the downloaded drivers manually. Here is **[a post](https://tools.techidaily.com/drivereasy/download/)** showing you how to do it. If you are looking for a faster download and update speed and more features such as driver back up and driver restore and also a professional technical support team, it is always suggested that you use the[**professional version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Moreover, we have a 30-day money back policy, so if you find our product or services not satisfactory enough, you could always ask for a refund.
@@ -93,11 +75,28 @@ As you can see, the free version is equally capable as the professional version 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-to-proficiently-follow-facebook-live-updates/"><u>[Updated] How to Proficiently Follow Facebook Live Updates</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-splitcam-review-does-it-reign-supreme-in-video-tech/"><u>[Updated] In 2024, SplitCam Review Does It Reign Supreme in Video Tech?</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-guide-to-address-svchostexe-overutilization-of-cpu-resources-in-windows-11/"><u>Definitive Guide to Address svchost.exe Overutilization of CPU Resources in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-incompatible-drivers-affect-ftdi-memory-integrity-and-solutions/"><u>How Incompatible Drivers Affect FTDI Memory Integrity and Solutions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-zoom-audio-excellence-balance-and-clarity-tactics/"><u>In 2024, Zoom Audio Excellence Balance and Clarity Tactics</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-visual-note-taking-with-obsidian-paint/"><u>Mastering Visual Note-Taking with Obsidian Paint</u></a></li>
+<li><a href="https://common-error.techidaily.com/sudden-power-offs-with-win10/"><u>Sudden Power-Offs with Win10</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

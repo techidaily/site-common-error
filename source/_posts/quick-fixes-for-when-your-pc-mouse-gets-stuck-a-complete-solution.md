@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for When Your PC Mouse Gets Stuck – A Complete Solution
-date: 2024-08-09T00:49:09.383Z
-updated: 2024-08-10T00:49:09.383Z
+date: 2024-09-12T02:46:03.488Z
+updated: 2024-09-15T05:29:47.555Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb
 
 Is your**microphone not working on laptop** ? You’re certainly not alone. But don’t worry – it can be quite easy to fix…
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Fixes for**Microphone Not Working On Laptop**
 
  Here’re 4 fixes that have helped other users resolve the**microphone not working on laptop in Windows 10, 8.1 and 7** issue. Just work your way down the list until the problem is fixed.
@@ -37,16 +34,10 @@ Here’s how to do it:
 
  1) On your keyboard, press **the Windows logo key**  and type **microphone** , then click on **Microphone privacy settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
@@ -67,24 +58,14 @@ Here’s how to do it:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -96,10 +77,21 @@ To do so:
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
-3. Click on **your microphone device again** and click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
@@ -107,6 +99,19 @@ To do so:
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -132,11 +137,29 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fixed-error-orglwjgllwjglexception-pixel-format-not-accelerated/"><u>[Fixed] Error: org.lwjgl.LWJGLException: Pixel Format Not Accelerated</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-renowned-experts-exquisite-insta-highlight-creators/"><u>[New] 2024 Approved Renowned Experts Exquisite Insta Highlight Creators</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-dissecting-the-dynamics-of-aurora-high-quality-outputs/"><u>[New] Dissecting the Dynamics of Aurora High-Quality Outputs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-cloud-storages-essential-choices-for-you/"><u>2024 Approved Top Cloud Storages Essential Choices for You</u></a></li>
+<li><a href="https://article-files.techidaily.com/a-complete-guide-to-videdit-studio-pro-features-and-more-for-2024/"><u>A Complete Guide to VidEdit Studio Pro, Features and More for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/easily-fix-a-unresponsive-dns-server-with-these-4-steps/"><u>Easily Fix a Unresponsive DNS Server with These 4 Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-optimize-desktop-window-managers-performance-a-guide-to-lowering-gpu-usage-in-windows-1011/"><u>How to Optimize Desktop Window Manager's Performance: A Guide to Lowering GPU Usage in Windows 10/11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-v29-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo V29</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/leading-tools-for-extracting-fb-videos-top-5-for-2024/"><u>Leading Tools for Extracting FB Videos - TOP 5 for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-reactivating-your-screens-night-light-feature-on-windows/"><u>Solution Guide: Reactivating Your Screen's Night Light Feature on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-restoring-functionality-of-your-hp-laptops-camera-in-windows-10/"><u>Step-by-Step Solution: Restoring Functionality of Your HP Laptop's Camera in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-overcome-update-error-0xc1900208-in-windows-11/"><u>Step-by-Step Solutions to Overcome Update Error 0xC1900208 in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-path-forward-for-responsible-ai-development/"><u>The Path Forward for Responsible AI Development</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211145723-windows-11-mic-not-working-heres-what-you-need-to-do-next/"><u>Windows 11 Mic Not Working? Here's What You Need to Do Next!</u></a></li>
+</ul></div>
+

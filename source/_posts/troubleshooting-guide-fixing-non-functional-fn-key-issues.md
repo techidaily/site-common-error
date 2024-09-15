@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Non-Functional Fn Key Issues"
-date: 2024-08-09T00:49:07.918Z
-updated: 2024-08-10T00:49:07.918Z
+date: 2024-09-12T02:44:54.796Z
+updated: 2024-09-15T14:36:49.631Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ Here’s how to do it:
 
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
@@ -51,9 +48,6 @@ Here’s how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your audio driver
 
  One of the most common causes of this problem is an outdated or a faulty audio driver. So you should always make sure to keep the latest audio driver up-to-date. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -79,25 +73,21 @@ Here’s how to do it:
 To do so:
 
 1. Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 3. Click on **your microphone device again** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
@@ -105,8 +95,18 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Troubleshoot hardware issues
 
  If none of the fixes works for you, it’s time to check for potential hardware issues.
@@ -131,11 +131,29 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-holographic-horizons-unveiling-new-dimensions-with-sci-fi-classics/"><u>[New] Holographic Horizons Unveiling New Dimensions with Sci-Fi Classics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-critique-free2x-app-for-webcam-capture/"><u>[Updated] Critique Free2X App for Webcam Capture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-smile-inducing-shots-on-iphones/"><u>[Updated] Smile-Inducing Shots on IPhones</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-essential-blueprint-for-breathtaking-instagram-films/"><u>2024 Approved The Essential Blueprint for Breathtaking Instagram Films</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-15-pro-max-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 15 Pro Max to iPod touch | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/circumnavigating-permission-fail-in-installer-errors/"><u>Circumnavigating Permission Fail in Installer Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-guide-activating-bluetooth-connectivity-in-windows-11-and-10/"><u>Easy Guide: Activating Bluetooth Connectivity in Windows 11 and 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-of-your-logitech-mouses-scroll-wheel/"><u>How to Restore Functionality of Your Logitech Mouse's Scroll Wheel</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-stop-your-iphone-from-losing-wi-fi-connection-a-guide-with-5-tips/"><u>How to Stop Your iPhone From Losing Wi-Fi Connection: A Guide with 5 Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-f15-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy F15 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/instantaneous-solutions-for-preventing-your-csgo-from-crashing-unexpectedly/"><u>Instantaneous Solutions for Preventing Your CSGO From Crashing Unexpectedly</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-bluetooth-pairing-with-a-simple-guide-for-windows-7-users/"><u>Mastering Bluetooth Pairing with a Simple Guide for Windows 7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/skype-audio-problem-heres-how-you-can-get-your-mic-working-again/"><u>Skype Audio Problem? Here's How You Can Get Your Mic Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205191382-svchostexe-cpu-hogs-in-windows-10-discover-efficient-solutions-for-immediate-relief/"><u>Svchost.exe CPU Hogs in Windows 10? Discover Efficient Solutions for Immediate Relief</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-unresponsive-shift-key-a-comprehensive-guide/"><u>Troubleshoot & Fix Unresponsive Shift Key: A Comprehensive Guide</u></a></li>
+</ul></div>
+
