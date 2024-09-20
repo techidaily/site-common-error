@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Computer Won't Wake Up From Sleep Windows 11/10"
-date: 2024-09-14T16:00:22.867Z
-updated: 2024-09-15T16:00:00.247Z
+date: 2024-09-16T18:10:54.284Z
+updated: 2024-09-20T16:23:35.001Z
 tags:
   - win11
   - win10
@@ -57,20 +57,28 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a38f0341d.png)
 5. Try your keyboard and see if disabling Filter Keys can restore your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Windows 11
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
 2. Go to**Accessibility > Keyboard** .![Windows 11 - disable filter keys via Settings](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle**Off** Filter keys.  
-![](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Filter-keys-Off.jpg)
-4. Now try using your keyboard and see if disabling Filter Keys can restore your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Filter-keys-Off.jpg)
+4. Now try using your keyboard and see if disabling Filter Keys can restore your keyboard.
 
 ## Method 3: Update your keyboard driver
 
@@ -83,22 +91,15 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/hid-keyboard-device.png)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -130,18 +131,19 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-essential-guide-understanding-digital-narrative-creation/"><u>[New] In 2024, Essential Guide Understanding Digital Narrative Creation</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unlocking-vlcs-full-potential-an-overview/"><u>[Updated] 2024 Approved Unlocking VLC's Full Potential An Overview</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-quantum-leap-the-most-astonishing-sci-fi-films-of-metaverses/"><u>[Updated] In 2024, Quantum Leap The Most Astonishing Sci-Fi Films of Metaverses</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-creative-product-launches/"><u>2024 Approved Creative Product Launches</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-exploring-the-void-of-originality-in-vr-content/"><u>2024 Approved Exploring the Void of Originality in VR Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-go-big-or-go-home-selecting-the-most-satisfying-1tbplus-cloud-services/"><u>2024 Approved Go Big or Go Home - Selecting the Most Satisfying 1TB+ Cloud Services</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-issues-with-window-10-slow-shut-down-processes/"><u>Bypassing Issues with Window 10 Slow Shut Down Processes</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-224003-deciphered-how-to-troubleshoot-and-resolve-unplayable-video-files/"><u>Error 224003 Deciphered: How to Troubleshoot and Resolve Unplayable Video Files</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-and-avoid-the-notorious-google-chrome-crash-scam/"><u>How to Fix and Avoid the Notorious Google Chrome Crash Scam</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-peripherals-keyboard-and-mouse-woes-under-win7/"><u>How to Fix Unresponsive Peripherals: Keyboard and Mouse Woes Under Win7</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-high-cpu-load-issues-in-the-windows-driver-framework/"><u>Resolving High CPU Load Issues in the Windows Driver Framework</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-dealing-with-hp-spectre-x360-overheating-woes/"><u>Step-by-Step Fix for Dealing with HP Spectre X360 Overheating Woes</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-correcting-installation-problems-with-audio-devices-on-windows-11/"><u>Step-by-Step Guide: Correcting Installation Problems with Audio Devices on Windows 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-breaking-into-the-brainshare-how-to-hype-up-your-fb-content/"><u>[New] 2024 Approved Breaking Into the Brainshare How to Hype Up Your FB Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-wacom-tablet-driver-not-found-on-windows-11/"><u>[Solved] Wacom Tablet Driver Not Found on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-10-update-0x80240034-error/"><u>[Solved] Windows 10 Update 0X80240034 Error</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-charting-financial-horizons-the-threefold-technique-for-analyzing-youtube-earning-data/"><u>[Updated] 2024 Approved Charting Financial Horizons The Threefold Technique for Analyzing YouTube Earning Data</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028697985-flac/"><u>無劣化音楽データの変換テクニック: FLACを他形式に変換する方法</u></a></li>
+<li><a href="https://common-error.techidaily.com/access-granted-post-security-fix-now-available-for-secure-file-downloading/"><u>Access Granted Post-Security Fix: Now Available for Secure File Downloading</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723062407540-discover-why-the-newly-released-apple-mac-mini-with-m1-chip-is-dominating-the-market/"><u>Discover Why the Newly Released Apple Mac Mini with M1 Chip Is Dominating the Market!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-fists-vs-followers-choosing-the-champion/"><u>In 2024, Fists vs Followers Choosing the Champion</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-a18-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlock-your-reddit-potential-practical-tips-for-mastery/"><u>In 2024, Unlock Your Reddit Potential - Practical Tips for Mastery</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-common-errors-and-solutions-for-failed-steam-game-installationsupdates/"><u>Solved! Common Errors and Solutions for Failed Steam Game Installations/Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-the-infamous-green-glitch-in-nba-2k21-was-corrected/"><u>Solved! How the Infamous Green Glitch in NBA 2K21 Was Corrected</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-vivo-y36-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Vivo Y36 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-connection-failures-why-cant-my-airplay-stream-to-apple-tv/"><u>Understanding Connection Failures: Why Can't My AirPlay Stream to Apple TV?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fix LOL “PvP.net Patcher Kernel Has Stopped Working” Easily
-date: 2024-09-12T16:04:31.993Z
-updated: 2024-09-15T16:01:00.548Z
+date: 2024-09-17T17:27:11.968Z
+updated: 2024-09-20T17:07:49.209Z
 tags:
   - win11
   - win10
@@ -65,10 +65,10 @@ To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**m
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4) Acquire full permissions on the drive for installation
@@ -76,19 +76,6 @@ To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**m
 It is possible that the error 1603 occurs because you don’t have**full permissions**on the file location. Try getting the permissions on the drive you are installing your application to and see if this fixes the problem.**a)** Open**File Explorer**, right click on the drive containing the installation location and select**Properties**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **b)** Go to**Security**tab and click on**Edit**.
 
@@ -114,15 +101,22 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb7074c180.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **h)** Do the same operation above for**SYSTEM**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb8202ef5a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **i)** Click on**OK** all the way out. Now you have acquired full permissions on this drive. Try installing your application and see if the issue is fixed.
@@ -144,20 +138,19 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-amplify-your-message-facebook-engagement-secrets/"><u>[New] 2024 Approved Amplify Your Message Facebook Engagement Secrets</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-upgrading-effortlessly-with-a-focus-on-key-lens-features/"><u>[New] Upgrading Effortlessly with a Focus on Key Lens Features</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unveiling-tv-friendly-practices-for-facebook-lives-for-2024/"><u>[Updated] Unveiling TV-Friendly Practices for Facebook Lives for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-investing-in-the-future-learning-to-proficiently-record-skype-calls/"><u>2024 Approved Investing in the Future Learning to Proficiently Record Skype Calls</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-rtx-2070-super-graphics-card-drivers-for-windows-11-step-by-step-guide/"><u>Download and Update RTX 2070 Super Graphics Card Drivers for Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/harmonious-solution-to-laptop-headphones-disconnect/"><u>Harmonious Solution to Laptop-Headphones Disconnect</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/harmonized-high-res-overlays-for-devices/"><u>Harmonized High-Res Overlays for Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-cyclic-redundancy-checks-detect-data-corruption-issues/"><u>How Cyclic Redundancy Checks Detect Data Corruption Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-rendering-device-missing-in-your-overwatch-game/"><u>How to Resolve 'Rendering Device Missing' In Your Overwatch Game</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-elevate-visual-storytelling-with-windows-photos-and-story-remix-techniques/"><u>In 2024, Elevate Visual Storytelling with Windows Photos & Story Remix Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207874253-quick-fixes-for-common-airdrop-problems-now-resolved/"><u>Quick Fixes for Common AirDrop Problems – Now Resolved!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-the-directory-name-has-wrong-characters-problem/"><u>Step-by-Step Fix for the 'Directory Name Has Wrong Characters' Problem</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-pathway-to-profitability-navigating-youtube-adsense-for-2024/"><u>The Pathway to Profitability Navigating YouTube AdSense for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-making-your-usb-drive-recognizable-again/"><u>Troubleshooting Guide: Making Your USB Drive Recognizable Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fix-for-the-persistent-0x800705b4-windows-update-problem-in-windows-11-systems/"><u>Ultimate Fix for the Persistent 0X800705b4 Windows Update Problem in Windows 11 Systems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-mastering-the-art-of-crafting-compelling-content-in-60-second-videos/"><u>[New] In 2024, Mastering the Art of Crafting Compelling Content in 60-Second Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-tech-insight-saving-meetings-on-devices-for-2024/"><u>[New] Tech Insight Saving Meetings on Devices for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-efficiently-archive-your-gaming-adventures-on-windows-10/"><u>[Updated] 2024 Approved Efficiently Archive Your Gaming Adventures on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-problem-0x800f0831-swiftly-using-the-latest-windows-patches/"><u>Bypassing Problem 0X800F0831 Swiftly Using the Latest Windows Patches</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-restoring-a-malfunctioning-windows-11-start-interface/"><u>Diagnosing and Restoring a Malfunctioning Windows 11 Start Interface</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-updateerror-on-windows-11-resolve-0x80240034-issue/"><u>How to Fix the 'Update_Error' On Windows 11 – Resolve 0X80240034 Issue</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-elite-8-streaming-software-selections/"><u>In 2024, Elite 8 Streaming Software Selections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-vlcs-potential-for-mpeg-4-and-diverse-file-alterations/"><u>In 2024, Unlocking VLC's Potential for MPEG-4 and Diverse File Alterations</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-repairing-unidentified-usb-equipment-a-step-by-step-fix-for-port-reset-failures-in-windows-10/"><u>Mastering the Art of Repairing Unidentified USB Equipment: A Step-by-Step Fix for Port Reset Failures in Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/perfect-precision-eradicating-delays-in-win10/"><u>Perfect Precision: Eradicating Delays in Win10</u></a></li>
+<li><a href="https://common-error.techidaily.com/screen-sync-error-resolved-update-and-adjust-for-compatible-display-response-times/"><u>Screen Sync Error Resolved: Update and Adjust for Compatible Display Response Times</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/understanding-why-your-phones-wi-fi-speed-is-not-up-to-par-7-insights/"><u>Understanding Why Your Phone's Wi-Fi Speed Is Not Up To Par: 7 Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-success-a-step-by-nstep-strategy-to-overcome-windows-update-issue-0x80240017/"><u>Unlocking Success: A Step-by-nStep Strategy to Overcome Windows Update Issue 0X80240017</u></a></li>
 </ul></div>
 

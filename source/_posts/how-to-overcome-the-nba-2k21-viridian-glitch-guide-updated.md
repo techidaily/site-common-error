@@ -1,7 +1,7 @@
 ---
 title: How to Overcome the NBA 2K21 Viridian Glitch – Guide Updated
-date: 2024-09-08T16:11:35.220Z
-updated: 2024-09-15T16:09:56.734Z
+date: 2024-09-13T16:54:56.362Z
+updated: 2024-09-20T16:15:46.898Z
 tags:
   - win11
   - win10
@@ -58,19 +58,6 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
 
 **5)** Run your Windows Update again and see if your error is fixed.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### on Windows 11
 
 **1)** On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
@@ -96,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
  Your error may occur because of interference from malicious software. You should run a scan on your computer for any malicious program.
 
  You can use the **[Malicious Software Removal Tool](https://www.microsoft.com/en-us/download/malicious-software-removal-tool-details.aspx)**  released by Microsoft. Download the tool and run it on your computer. Then follow its instructions to complete the scanning process. If this method works for you, you won’t see the error on your Windows Update again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Restart your Windows Update associated services
 
@@ -130,20 +110,27 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2f73c5553.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)** Double click**Windows Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb327c20a47.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb361957d5c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Close the Services snap-in and restart your computer. Then check to see if this resolves your problem.
 
@@ -169,7 +156,21 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3f4e427ba.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Restart your computer. Then run Windows Update see if this helps you get rid of the Windows Update service not running error.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5: Update your device drivers
 
@@ -187,28 +188,15 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9e7d372aa0.png)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the **Update**  button next to your each of your devices to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9f8a62a090.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Restart your computer. Then run you Windows Update to see if this resolves your problem.
@@ -230,19 +218,16 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-tips-for-incorporating-music-selections-on-vimeo-videos-for-2024/"><u>[Updated] Tips for Incorporating Music Selections on Vimeo Videos for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-reason-behind-photo-booth-video-stalls/"><u>2024 Approved Reason Behind Photo Booth Video Stalls</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-strategies-for-chronicling-lol-showdowns/"><u>2024 Approved Top Strategies for Chronicling LOL Showdowns</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-walkthrough-installing-and-using-the-revo-application-manager/"><u>Comprehensive Walkthrough: Installing and Using the Revo Application Manager</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205500665-copy-pasting-woes-heres-how-to-fix-it-on-your-windows-11-machine/"><u>Copy-Pasting Woes? Here's How to Fix It on Your Windows 11 Machine!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-the-rendering-api-update-for-dota-2-error-202/"><u>Fix the 'Rendering API Update' For Dota 2 Error 202</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-game-install-and-update-failures-on-steam-platform/"><u>How to Fix Game Install and Update Failures on Steam Platform</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-install-audio-devices-when-none-are-recognized-on-windows-11/"><u>How to Install Audio Devices When None Are Recognized on Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-honoring-heritage-photo-conversion-and-visual-storytelling/"><u>In 2024, Honoring Heritage Photo Conversion and Visual Storytelling</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mastering-noise-reduction-a-guide-to-the-best-features-of-davinci-resolves-denoising-options/"><u>Mastering Noise Reduction: A Guide to the Best Features of DaVinci Resolve's Denoising Options</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-choosing-the-right-green-screen-tool-for-your-mac/"><u>New 2024 Approved Choosing the Right Green Screen Tool for Your Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-restore-microphone-functionality-in-your-steelseries-arctis-5/"><u>Solved: How to Restore Microphone Functionality in Your SteelSeries Arctis 5</u></a></li>
-<li><a href="https://win-dash.techidaily.com/the-fast-track-to-updating-your-nvidia-geforce-gtx-1660-gpu-driver/"><u>The Fast Track to Updating Your Nvidia GeForce GTX 1660 GPU Driver</u></a></li>
-<li><a href="https://common-error.techidaily.com/uninstall-and-reinstall-audio-drivers-a-remedy-for-windows-11-sound-failures/"><u>Uninstall and Reinstall Audio Drivers - A Remedy for Windows 11 Sound Failures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-crafting-captivating-video-narratives-for-youtube-success/"><u>[New] 2024 Approved Crafting Captivating Video Narratives for YouTube Success</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mellowing-the-feed-the-art-of-adding-soundtracks-to-stories/"><u>[New] Mellowing the Feed The Art of Adding Soundtracks to Stories</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-seamless-tactic-for-igtv-stories-integration/"><u>[Updated] Seamless Tactic for IGTV Stories Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-defective-battery-meter-on-windows-11-devices/"><u>Correcting Defective Battery Meter on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-buffering-woes-in-kodi-once-and-for-all-effective-fixes-revealed/"><u>End Buffering Woes in Kodi Once and For All: Effective Fixes Revealed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-itel-a70-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Itel A70</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/mobile-reaction-video-creation-top-tools-and-apps-for-2024/"><u>Mobile Reaction Video Creation Top Tools and Apps for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-unknown-usb-device-issues-in-windows-n-with-these-easy-steps/"><u>Resolve 'Unknown USB Device' Issues in Windows N with These Easy Steps!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/smarter-enhancements-key-factors-in-technology-progress/"><u>Smarter Enhancements Key Factors in Technology Progress</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-puzzle-of-unplanned-restarts-how-your-windows-10-keeps-waking-up/"><u>The Puzzle of Unplanned Restarts: How Your Windows 10 Keeps Waking Up</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-z-edge-z3-plus-a-cost-effective-and-easy-to-use-dash-cam-exposed/"><u>Unveiling the Z-Edge Z3 Plus - A Cost-Effective and Easy-to-Use Dash Cam Exposed</u></a></li>
 </ul></div>
 

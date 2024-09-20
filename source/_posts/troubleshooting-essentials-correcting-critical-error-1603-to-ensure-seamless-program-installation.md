@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Essentials: Correcting Critical Error 1603 to Ensure Seamless Program Installation"
-date: 2024-09-09T16:15:53.304Z
-updated: 2024-09-15T16:03:05.746Z
+date: 2024-09-13T19:18:29.545Z
+updated: 2024-09-20T19:31:49.591Z
 tags:
   - win11
   - win10
@@ -85,16 +85,10 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
@@ -104,6 +98,13 @@ To make sure you’ve this setting disabled:
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Change power management settings for USB Root Hubs
 
@@ -118,10 +119,10 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
@@ -129,22 +130,15 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -170,16 +164,16 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-leading-aerial-footage-best-drone-editors-ranked-by-skill-level/"><u>[Updated] Leading Aerial Footage Best Drone Editors Ranked by Skill Level</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-realism-refined-how-to-use-motion-blur-in-faces-using-picsart/"><u>[Updated] Realism Refined How to Use Motion Blur in Faces Using Picsart</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/confirmed-age-adjustment-editing-your-profile-on-tiktok-easily/"><u>Confirmed Age Adjustment Editing Your Profile on TikTok Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-solving-ethernet-issues-in-windows-11-windows-navigating-to-os-7/"><u>Diagnosing and Solving Ethernet Issues in Windows 11 / Windows Navigating to OS 7</u></a></li>
-<li><a href="https://techtrends.techidaily.com/eliminating-nvidia-drivers-a-complete-guide-for-windows-10-users/"><u>Eliminating NVIDIA Drivers: A Complete Guide for Windows 10 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-overcoming-problems-when-the-com-surrogate-worker-has-stopped-functioning/"><u>Expert Tips: Overcoming Problems When The COM Surrogate Worker Has Stopped Functioning</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-non-responsive-right-click-functionality-in-windows-11-computers/"><u>Fixing the Non-Responsive Right-Click Functionality in Windows 11 Computers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-iphone-11-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or iPhone 11 without iCloud Password or Apple ID?</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-device-connection-error-when-casting-from-a-windows-10-computer/"><u>Resolving Device Connection Error When Casting From a Windows 10 Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-code-24-fixing-the-missing-device-issue-in-windows-operating-systems/"><u>Troubleshooting Code 24: Fixing the Missing Device Issue in Windows Operating Systems</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/lizing-the-most-influential-23-social-trends/"><u>Visualizing the Most Influential '23 Social Trends</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-essential-guide-easy-to-install-vrecorder/"><u>[New] In 2024, Essential Guide Easy-to-Install VRecorder</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-classroom-aid-selecting-effective-recorders/"><u>[Updated] Classroom Aid Selecting Effective Recorders</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-strategies-for-repairing-windows-rpc-server-connection-problems-quickly/"><u>Comprehensive Strategies for Repairing Windows RPC Server Connection Problems Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-correcting-the-print-driver-service-for-32-bit-applications-has-stopped-problem-on-pc-systems/"><u>Diagnosing and Correcting the 'Print Driver Service for 32-Bit Applications Has Stopped' Problem on PC Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-a56s-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-windows-camera-malfunction-error-0xa00f4292-easily/"><u>How to Overcome the Windows Camera Malfunction (Error 0Xa00f4292) Easily</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-excel-files-after-windows-upgrade-stellar-by-stellar-guide/"><u>How to Repair Excel Files after Windows Upgrade | Stellar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-persistent-initializing-error-in-destiny-2-a-complete-guide/"><u>How to Resolve the Persistent 'Initializing' Error in Destiny 2 - A Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-spontaneous-computer-outages-a-comprehensive-guide/"><u>Resolving Spontaneous Computer Outages - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-the-soundscape-of-windows-11-comprehensive-solutions-for-fixing-audio-problems/"><u>Reviving the Soundscape of Windows 11: Comprehensive Solutions for Fixing Audio Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/whats-a-good-processing-speed-for-my-laptop-or-desktop/"><u>What's a Good Processing Speed for My Laptop or Desktop?</u></a></li>
 </ul></div>
 

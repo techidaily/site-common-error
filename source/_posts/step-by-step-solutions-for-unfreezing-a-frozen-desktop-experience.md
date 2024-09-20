@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Unfreezing a Frozen Desktop Experience
-date: 2024-09-08T16:00:53.658Z
-updated: 2024-09-15T16:01:36.634Z
+date: 2024-09-16T18:13:17.986Z
+updated: 2024-09-20T16:48:14.656Z
 tags:
   - win11
   - win10
@@ -67,10 +67,10 @@ To rule out this as a possibility:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Turn off USB selective suspend
@@ -84,22 +84,15 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
 
@@ -108,6 +101,13 @@ To make sure you’ve this setting disabled:
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
@@ -125,6 +125,19 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
@@ -132,13 +145,6 @@ To make sure you’ve this setting disabled:
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -164,20 +170,19 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-gentle-glide-of-noises-subdued-amplitude-adjustment/"><u>[New] Gentle Glide of Noises Subdued Amplitude Adjustment</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-blueprint-for-viral-video-mastery/"><u>[Updated] The Blueprint for Viral Video Mastery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/1-uncover-the-secrets-top-5-methods-to-keep-your-applications-in-front-of-you-on-windows-operating-systems/"><u>1. Uncover the Secrets: Top 5 Methods to Keep Your Applications in Front of You on Windows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/airpods-wont-pair-with-windows-heres-how-you-can-solve-it/"><u>AirPods Won't Pair with Windows? Here's How You Can Solve It</u></a></li>
-<li><a href="https://common-error.techidaily.com/compatibility-check-confirm-presence-of-a-d3d11-ready-graphics-card-before-launch/"><u>Compatibility Check: Confirm Presence of a D3D11 Ready Graphics Card Before Launch</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-making-a-damaged-dell-usb-port-work-again/"><u>Expert Advice on Making a Damaged Dell USB Port Work Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-missing-network-connections-on-windows-11-devices/"><u>How to Resolve Missing Network Connections on Windows 11 Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-gionee-f3-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Gionee F3 Pro to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-affordable-overseas-vr-headsets-china/"><u>In 2024, Affordable Overseas VR Headsets (China)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-a54-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy A54 5G Phones with/without a PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/radeon-management-tools-not-responding-solutions-and-tips/"><u>Radeon Management Tools Not Responding - Solutions and Tips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-mastering-snapchats-zoom-feature/"><u>The Ultimate Guide to Mastering Snapchat's Zoom Feature</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-watchful-eye-app-critique-and-rating/"><u>The Watchful Eye App Critique and Rating</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-overcome-slow-download-problems-with-league-of-legends/"><u>Troubleshoot & Overcome Slow Download Problems with League of Legends</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-boost-views-top-10-free-tools-for-custom-youtube-thumbnails/"><u>[New] Boost Views Top 10 Free Tools for Custom YouTube Thumbnails</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-spark-conversation-crafting-questions-for-ig-story-boost/"><u>[New] In 2024, Spark Conversation Crafting Questions for IG Story Boost</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-10-battle-royale-games/"><u>[Updated] 2024 Approved Top 10 Battle Royale Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-perfect-every-moment-incorporating-captions-in-instagram-footage/"><u>[Updated] In 2024, Perfect Every Moment Incorporating Captions in Instagram Footage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-picsart-edge-bringing-facial-movement-into-the-digital-realm/"><u>[Updated] Picsart Edge Bringing Facial Movement Into the Digital Realm</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-premier-no-8-digital-composers-kit/"><u>2024 Approved Premier No. 8 Digital Composer's Kit</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-straightforward-anti-cheat-issue-in-apex-legends-game/"><u>Fixing the Straightforward Anti-Cheat Issue in Apex Legends Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-minecraft-optimization-a-deep-dive-into-fixing-opengl-mistakes/"><u>Mastering Minecraft Optimization: A Deep Dive Into Fixing OpenGL Mistakes</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-and-simple-guide-how-to-reset-your-windows-11-system/"><u>Quick and Simple Guide: How to Reset Your Windows 11 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-correcting-error-0x80240017-during-windows-updates/"><u>Step-by-Step Solutions for Correcting Error 0X80240017 During Windows Updates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/thrifty-shoppers-guide-to-cameras-for-2024/"><u>Thrifty Shopper's Guide to Cameras for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208426611-troubleshoot-and-solve-the-0x887a0006-glitch-in-no-time/"><u>Troubleshoot and Solve the 0X887A0006 Glitch in No Time</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unmarked-image-accumulation-essentials-for-2024/"><u>Unmarked Image Accumulation Essentials for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-dead-laptop-mousepads-on-windows-10-8-and-7-expert-hacks-unveiled/"><u>Winning the Battle Against Dead Laptop Mousepads on Windows 10, 8 & 7 - Expert Hacks Unveiled</u></a></li>
 </ul></div>
 

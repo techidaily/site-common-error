@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot RDR2 Memory Errors with Simple Pagefile Enhancement Techniques
-date: 2024-08-09T00:49:13.292Z
-updated: 2024-08-10T00:49:13.292Z
+date: 2024-09-18T16:30:03.051Z
+updated: 2024-09-20T18:28:49.265Z
 tags:
   - win11
   - win10
@@ -38,16 +38,10 @@ and etc.
 
  1) Press**Windows key** and**X** at the same time, then choose**Command Prompt (Admin)** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca149cf04d.png)
 
  When prompted with the UAC, hit**Yes** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca13144fd3.jpg)
 
 2) In the Command Prompt window, type in the following command:
@@ -56,25 +50,16 @@ sfc /scannow
 
  Make sure that you have made no typo and hit**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca221df44e.jpg)
 
 Leave the Command Prompt window on until the command completes.
 
  3) If you see the message saying that   **Windows Resource Protection did not find any integrity violations** , then everything is fine with your system.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca520c7e49.png)
 
  4) If you see a message saying   **Windows Resource Protection found corrupt files but was unable to fix some of them** , then you need to go to[**safe mode**](https://tools.techidaily.com/drivereasy/download/) and run the system file checker again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586ca59f1f21f.jpg)
 
  If the SFC command doesn’t work well, please mve on to the next section to run the DISM command to fix the SFC command problem and then run SFC command again.
@@ -107,9 +92,6 @@ Wait for a while for the whole process to finishes.
 
  If the above tools cannot help you solve your computer problems, you can have a try at refreshing or resetting your Windows 10.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_586caacd9f489.jpg)
 
 For more detailed information, please go to the posts below:
@@ -136,11 +118,34 @@ For more detailed information, please go to the posts below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-crafting-unique-ps3-gameplay-presentations-with-screen-recordings/"><u>[Updated] In 2024, Crafting Unique PS3 Gameplay Presentations with Screen Recordings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfect-palette-playbook-mastering-the-art-of-grading/"><u>[Updated] Perfect Palette Playbook Mastering the Art of Grading</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-for-controlling-wudfhostexes-high-resource-use-on-windows-10/"><u>Effective Strategies for Controlling wudfhost.exe's High Resource Use on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-correcting-the-0x80070490-error-in-windows-updates/"><u>Expert Solutions for Correcting the 0X80070490 Error in Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/games-causing-pc-restarts/"><u>Games Causing PC Restarts</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-correct-unexpected-outcome-error-messages-on-your-windows-11-device/"><u>How to Correct “Unexpected Outcome” Error Messages on Your Windows 11 Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-htc-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your HTC</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-fixing-the-compatibility-issue-with-your-device-drivers-in-wow/"><u>Solution: Fixing the Compatibility Issue with Your Device Drivers in WoW</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-amd-radeon-drivers-wont-start-properly/"><u>Solving the Issue: AMD Radeon Drivers Won't Start Properly</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723200794078-troubleshooting-tips-for-windows-10-issues-with-the-duo-approach-system-file-checker-sfc-and-deployment-image-servicing-dism/"><u>Troubleshooting Tips for Windows 10 Issues with The Duo Approach: System File Checker (SFC) and Deployment Image Servicing (DISM)</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-maintenance-made-easy-with-resetrefresh-options/"><u>Windows 10 Maintenance Made Easy with Reset/Refresh Options</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

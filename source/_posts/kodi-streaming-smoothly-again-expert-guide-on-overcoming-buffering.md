@@ -1,7 +1,7 @@
 ---
 title: Kodi Streaming Smoothly Again - Expert Guide on Overcoming Buffering
-date: 2024-08-09T00:49:12.900Z
-updated: 2024-08-10T00:49:12.900Z
+date: 2024-09-14T19:21:18.603Z
+updated: 2024-09-20T17:25:08.498Z
 tags:
   - win11
   - win10
@@ -24,16 +24,10 @@ thumbnail: https://thmb.techidaily.com/0fde8be80e602ff65625842ff908df27188b32034
   * [**Method Four: Update Video Card Driver Automatically**](https://tools.techidaily.com/drivereasy/download/)
  **\[Problem Description\]**The**Minecraft “Bad Video Card Drivers” Crash** could be frustrating since it stops you from playing Minecraft. And before you could get this problem solved, there is nothing you could do to the game.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785b1d6ac28e.png)
 
 Let’s look closer at this problem:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f82ede599.png)
 
 To fix this problem, this tutorial provides five different and effective ways for you to have a try. Please read along and find the right method for you.   **\[Before We Start\]**The first thing we can do when we are addressing this crash is to make sure that Minecraft is up to date, which applies to the game itself. You can check the version number of**Minecraft**on the bottom right corner and the**Minecraft Launcher**version under**Launcher Log**tab. ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785b82e22374.png)Then compare the version number with the one that could be found on[Minecraft website](https://minecraft.net/en/)to see if you have the latest version installed. Second, you need to make sure that you have installed the latest Windows Update. You can type**windows update**in the search box and open the Windows Update program that comes up.
@@ -42,23 +36,14 @@ To fix this problem, this tutorial provides five different and effective ways fo
 
 If you can see some updates on your computer, click the**Install updates**button here and let the system run the updates. This step could help you update your video card driver or graphics card driver when there is update detected, which might fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785bf28ed4ba.png)
 
 Thirdly, you need to make sure that you have the latest version of Java installed on your computer also. You could check the version of your Java by opening this[webpage](https://www.java.com/en/download/installed.jsp)in Firefox or Internet Explorer browser. If you don’t have the latest version yet, please update it. When you have get the preparation done, it is time for you to follow the instructions below to get the problem fixed.   **Method One: Change Hardware Acceleration** 1) Click**Start**button, then select **Control Panel**. 2) View by**Small icons**and select**Display**option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785efeb9f490.png)
 
 3) On the left panel, click**Change display settings**option.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/07/img_5785f01132191.png)
 
 4) Then select**Advanced settings**.
@@ -80,9 +65,6 @@ If you have video card made by manufacturers other than these three listed here,
 
 2) Choose the driver you need and then press the**Update**button to download the driver file.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e6164b50ba1.jpg)
 
 As you can see, the free version is equally capable as the professional version of **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** . But it is required that you install the downloaded drivers manually. Here is **[a post](https://tools.techidaily.com/drivereasy/download/)** showing you how to do it. If you are looking for a faster download and update speed and more features such as driver back up and driver restore and also a professional technical support team, it is always suggested that you use the[**professional version of Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Moreover, we have a 30-day money back policy, so if you find our product or services not satisfactory enough, you could always ask for a refund.
@@ -93,11 +75,33 @@ As you can see, the free version is equally capable as the professional version 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-insiders-look-at-configuring-a-powerful-zoom-room/"><u>[New] The Insider's Look at Configuring a Powerful Zoom Room</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-step-by-step-process-for-iphone-voice-memo-creation/"><u>[Updated] 2024 Approved Step-by-Step Process for iPhone Voice Memo Creation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-prime-monitor-companion-for-gaming-on-xbox-series-x/"><u>[Updated] 2024 Approved The Prime Monitor Companion for Gaming on Xbox Series X</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-uniting-disparate-iphone-media-into-one-feed-for-2024/"><u>[Updated] Uniting Disparate iPhone Media Into One Feed for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-transforming-youtube-videos-bars-free-vision/"><u>2024 Approved Transforming YouTube Videos Bars-Free Vision</u></a></li>
+<li><a href="https://common-error.techidaily.com/6-effective-remedies-to-fix-werfaultexe-error-and-boost-system-stability/"><u>6 Effective Remedies to Fix werFault.exe Error and Boost System Stability</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/eyecatcher-ultimate-screen-capture-guide-for-2024/"><u>EyeCatcher Ultimate Screen Capture Guide for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-finding-the-social-beacons-in-your-interests-digital-landscape/"><u>In 2024, Finding the Social Beacons in Your Interests’ Digital Landscape</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/organizational-oversight-in-windows-setup-configured-system-parameters/"><u>Organizational Oversight in Windows Setup - Configured System Parameters</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-lenovo-keyboard-solutions-for-unresponsive-keys/"><u>Reviving Your Lenovo Keyboard: Solutions for Unresponsive Keys</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-ethernet-connectivity-issues-in-windows-117/"><u>Step-by-Step Solutions to Ethernet Connectivity Issues in Windows 11/7</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

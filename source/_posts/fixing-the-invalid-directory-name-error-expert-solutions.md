@@ -1,7 +1,7 @@
 ---
 title: Fixing the 'Invalid Directory Name' Error – Expert Solutions
-date: 2024-09-11T16:12:17.656Z
-updated: 2024-09-15T16:11:35.953Z
+date: 2024-09-16T16:56:29.150Z
+updated: 2024-09-20T19:34:00.226Z
 tags:
   - win11
   - win10
@@ -99,10 +99,10 @@ Here are the examples of checking extensions in Chrome and Firefox.
  You can **disable all the extensions** to see if this fix the problem. If it does, you can enable**one extension at a time** to identify the one that causes the trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4) Correct your system date and time
@@ -117,13 +117,6 @@ Here are the examples of checking extensions in Chrome and Firefox.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f82d4f3a5d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **c)** Select**Internet Time** tab, and then click on**Change settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f83de02494.png)
@@ -131,6 +124,13 @@ Here are the examples of checking extensions in Chrome and Firefox.
 **d)** In Internet Time Settings, tick **Synchronize with an Internet time server** and select a**time server** . Then click on**Update now** , and hit**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f84b23c29a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The date and time on your system is now updated.
 
@@ -156,14 +156,15 @@ The date and time on your system is now updated.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-record-mov-files-on-windows-11-for-2024/"><u>[Updated] How to Record MOV Files on Windows 11 for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/effortlessly-establish-canon-printer-link/"><u>Effortlessly Establish Canon Printer Link</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/re-10-premier-yoga-streams-for-wellness-boost-for-2024/"><u>Explore 10 Premier Yoga Streams for Wellness Boost for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/harmonious-solution-to-laptop-headphones-disconnect/"><u>Harmonious Solution to Laptop-Headphones Disconnect</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/keep-the-vision-clear-without-rests-for-2024/"><u>Keep the Vision Clear Without Rests for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-the-directory-name-has-wrong-characters-problem/"><u>Step-by-Step Fix for the 'Directory Name Has Wrong Characters' Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fix-for-the-persistent-0x800705b4-windows-update-problem-in-windows-11-systems/"><u>Ultimate Fix for the Persistent 0X800705b4 Windows Update Problem in Windows 11 Systems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-xbox-screen-recorder-how-to-guide-for-2024/"><u>[Updated] Xbox Screen Recorder How-To Guide for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-8-social-and-adventure-games-for-oculus-users/"><u>2024 Approved Top 8 Social & Adventure Games for Oculus Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cambiar-de-formato-flv-a-m4v-online-sin-coste-hacerlo-con-eficacia/"><u>Cambiar De Formato FLV a M4V Online Sin Coste - Hacerlo Con Eficacia</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oppo-a78-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo A78 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/faster-than-light-instagram-video-experience-for-mobile-users-for-2024/"><u>Faster-Than-Light Instagram Video Experience for Mobile Users for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/halo-ns-ultimate-guide-to-troubleshooting-ue4-crash-errors-solutions-gamers/"><u>Halo N's Ultimate Guide to Troubleshooting UE4 Crash Errors - Solutions Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-persistent-windows-11-update-error-0x8024401c-once-and-for-all/"><u>How to Fix the Persistent Windows 11 Update Error 0X8024401c Once and For All!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205715143-how-to-recover-when-your-google-chrome-freezes-problem-solved/"><u>How To Recover When Your Google Chrome Freezes – Problem Solved</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-macs-best-mkv-player-vendors/"><u>In 2024, Mac's Best MKV Player Vendors</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-troubles-learn-how-to-perform-a-quick-reset/"><u>Keyboard Troubles? Learn How to Perform a Quick Reset!</u></a></li>
 </ul></div>
 

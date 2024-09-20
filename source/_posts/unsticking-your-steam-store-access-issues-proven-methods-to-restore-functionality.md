@@ -1,7 +1,7 @@
 ---
 title: "Unsticking Your Steam Store Access Issues: Proven Methods to Restore Functionality"
-date: 2024-09-13T16:00:29.670Z
-updated: 2024-09-15T16:02:07.714Z
+date: 2024-09-17T18:49:14.614Z
+updated: 2024-09-20T17:41:45.569Z
 tags:
   - win11
   - win10
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 3 – Uninstall and reinstall your keyboard driver
@@ -99,6 +99,14 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 4. Right-click on your keyboard and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d02c6cb5ba.jpg)
 5. When prompted for confirmation, click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d031b9c5f0.jpg)
 6. Save any open files and close all programs, then click**Yes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d03560715f.jpg)
@@ -115,6 +123,14 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 2. Under**Country or Region** , make sure an English-speaking country or region is selected. If you cannot find any, then you can click the**Add a Language** button to add one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cdd1e9fccd.jpg)
 3. Under**Languages** , click**Windows display language** and select**Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cdfb50cdf8.jpg)
 4. Under**Keyboards** , check what keyboard is selected and verify the input language is English.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8ce010368bc.jpg)
@@ -122,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
  Can you type**@** now? If not, try the next solution.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 5 – Run hardware and devices troubleshooter (Windows 10)
 
@@ -141,14 +150,14 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 3. If you see something like the screenshot below, you can then continue with the next solution.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cfb0f5ec3d.png)
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Solution 6 – Boot your PC into Safe Mode
 
@@ -161,22 +170,15 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d0c0263d34.jpg)  
 **Note:** If you want to start Windows in**Normal Mode** , ensure the**Safe boot** box is**unchecked** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Make sure all the currently open files are saved and click   **Restart.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d0c41804c9.png)
 5. Check if the @ key is working.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    * If the @ key is working, you can download an antivirus to scan your PC in Safe Mode. Then, go back to step 3),**uncheck** Safe boot, click**OK** and restart your PC to check if the @ key not working problem is resolved in Normal Mode.  
@@ -205,18 +207,15 @@ thumbnail: https://thmb.techidaily.com/2e98346ae0ee2e0559c5260d992a7113232d0df75
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-zooms-acoustic-edge-unlocking-two-pronged-audio-perfection/"><u>[New] In 2024, Zoom's Acoustic Edge Unlocking Two-Pronged Audio Perfection</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-evaluating-storage-limits-for-multi-channel-vids-128gb/"><u>[Updated] Evaluating Storage Limits for Multi-Channel Vids, 128GB</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-is-youtubes-4-second-trick-effective/"><u>[Updated] In 2024, Is YouTube's 4-Second Trick Effective?</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fixes-for-when-your-usb-flash-drive-wont-be-detected/"><u>Effortless Fixes for When Your USB Flash Drive Won't Be Detected!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-11-installation-failure-resolve-error-code-802/"><u>Fixing Windows 11 Installation Failure: Resolve Error Code 802 #</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-activating-windows-7-bluetooth-connectivity-solutions-unveiled/"><u>Guide: Activating Windows 7 Bluetooth Connectivity - Solutions Unveiled</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-essential-youtube-video-editing-techniques/"><u>In 2024, Essential YouTube Video Editing Techniques</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-the-ergohead-mat-enhancing-prolonged-comfort-on-adjustable-height-desks/"><u>Review of the Ergohead Mat - Enhancing Prolonged Comfort on Adjustable Height Desks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/smirk-spectacle-catching-the-funniest-twitter-talents/"><u>Smirk Spectacle Catching the Funniest Twitter Talents</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-nonfunctional-mousepads-in-windows-operating-systems/"><u>Step-by-Step Solutions for Nonfunctional Mousepads in Windows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/success-story-fixing-the-persistent-unrecoverable-directx-error-issue/"><u>Success Story: Fixing the Persistent Unrecoverable DirectX Error Issue</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-pre-owned-ipad-shoppers-checklist-5-points-you-cant-ignore/"><u>The Pre-Owned iPad Shopper's Checklist - 5 Points You Can't Ignore</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-disappearance-of-your-default-windows-desktop/"><u>Troubleshooting the Disappearance of Your Default Windows Desktop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-d500-experience-achieving-excellence-with-4k-hd/"><u>[New] The D500 Experience Achieving Excellence with 4K HD</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-scaling-up-your-social-media-presence-with-effective-strategies/"><u>[Updated] In 2024, Scaling Up Your Social Media Presence with Effective Strategies</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/complete-guide-capturing-images-with-your-keyboard-on-windows-10/"><u>Complete Guide: Capturing Images with Your Keyboard on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-disk-space-in-windows-11-when-dealing-with-high-usage-microsoft-telemetry-services/"><u>Optimizing Disk Space in Windows 11 When Dealing with High-Usage Microsoft Telemetry Services</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-skyrims-infinite-loading-glitch-for-smooth-gaming-experience/"><u>Overcome Skyrim's Infinite Loading Glitch for Smooth Gaming Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/southampton-university-enhances-digital-archive-with-massive-print-digitization-initiative/"><u>Southampton University Enhances Digital Archive with Massive Print Digitization Initiative</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackle-error-8007000e-on-your-windows-updates-like-a-pro-quick-and-effective-methods/"><u>Tackle Error 8007000E on Your Windows Updates Like a Pro – Quick and Effective Methods</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/tailor-your-vocal-expression-masterful-techniques-for-snapchat-voices-for-2024/"><u>Tailor Your Vocal Expression Masterful Techniques for Snapchat Voices for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-movie-magic-made-simple-a-step-by-step-guide-for-2024/"><u>Updated Movie Magic Made Simple A Step-by-Step Guide for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Gearhead's Guide to Restoring Audio on Your Forza Horizon 4 Tracks
-date: 2024-09-13T16:14:25.049Z
-updated: 2024-09-15T16:12:18.632Z
+date: 2024-09-17T17:56:25.501Z
+updated: 2024-09-20T16:43:14.788Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ When you launch the game you can hear the intro music but right after that, all 
 4. Follow the on-screen instructions.
 5. Reboot your computer and check whether the problem is solved or not.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Update your audio driver
 
  The outdated or missing drivers may be the reason for the “Forza Horizon 4 no sound” problem. You can update your audio driver to solve the problem.
@@ -68,13 +75,6 @@ There are two ways you can update your audio drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-515.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### **Option 2 – Automatically update your audio drivers**
 
  If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with Driver Easy.
@@ -86,14 +86,15 @@ There are two ways you can update your audio drivers.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -106,29 +107,23 @@ There are two ways you can update your audio drivers.
 3. Click**Sound, video and game controllers** , right-click on the**Realtek(R) Audio** and click**Uninstall device** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click**Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3.1.jpg)
 5. Use Method 3 to install the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Reboot your computer to check whether the problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Update your Windows system
 
@@ -158,18 +153,20 @@ There are two ways you can update your audio drivers.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-f15-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy F15 5G</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-failed-initialization-of-directx-d3d-rendering-engine/"><u>Fixing the Failed Initialization of DirectX D3D Rendering Engine</u></a></li>
-<li><a href="https://common-error.techidaily.com/flawless-wireless-pairing-how-to-overcome-bluetooth-sync-challenges-on-windows-10-in-the-new-year/"><u>Flawless Wireless Pairing: How to Overcome Bluetooth Sync Challenges on Windows 10 in the New Year</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-honor-x8b-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-xbox-one-controllers-syncing-problems-quickly-and-easily/"><u>How to Resolve Xbox One Controllers Syncing Problems Quickly and Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-repair-a-failed-windows-10-update-fixing-the-0x800705b4-error/"><u>How to Successfully Repair a Failed Windows 10 Update: Fixing the 0X800705b4 Error</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Moto G23? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-kernel32dll-failures/"><u>Overcoming Kernel32.dll Failures</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-secure-eraser-for-mac-reliable-standard-edition-with-timed-file-destruction/"><u>Stellar Secure Eraser for Mac - Reliable Standard Edition With Timed File Destruction</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-role-of-msdia80dll-file-should-you-retain-or-remove-it/"><u>The Role of msdia80.dll File: Should You Retain or Remove It?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/why-is-alan-wake-2-still-unreleased-expert-tips-for-resolving-the-glitch/"><u>Why Is Alan Wake 2 Still Unreleased? Expert Tips for Resolving the Glitch</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-5-ways-to-record-webinar-for-free-for-2024/"><u>[Updated] 5 Ways to Record Webinar for Free for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-academic-allies-premier-educators-on-youtube/"><u>[Updated] In 2024, Academic Allies Premier Educators on YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-steps-how-to-grant-admin-rights-for-operations-in-windows-11-10-and-7/"><u>Essential Steps: How to Grant Admin Rights for Operations in Windows 11, 10 & 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-system-service-exception-issue-on-windows-11-solutions-and-tips/"><u>Fixing the 'System Service' Exception Issue on Windows 11: Solutions and Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206118065-google-chrome-stuck-heres-how-we-fixed-it-and-ensured-smooth-browsing/"><u>Google Chrome Stuck? Here's How We Fixed It and Ensured Smooth Browsing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mejore-la-compatibilidad-de-su-contenido-con-una-facil-transcodificacion-de-h265hevc-a-h264-sin-costo-ni-perdida-de-calidad/"><u>Mejore La Compatibilidad De Su Contenido Con Una Fácil Transcodificación De H.265/HEVC a H.264 Sin Costo Ni Pérdida De Calidad</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/navigating-networked-video-streams-with-precision-using-vlc/"><u>Navigating Networked Video Streams with Precision Using VLC</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-simplify-4k-video-post-production-the-top-proxy-video-editing-apps/"><u>New 2024 Approved Simplify 4K Video Post-Production The Top Proxy Video Editing Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-error-code-0x800f0831-a-step-by-step-guide/"><u>Quick Fixes for Error Code 0X800f0831: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-0x800f0831-problem-in-no-time-a-guide-to-windows-update-remedies/"><u>Resolve the 0X800F0831 Problem in No Time: A Guide to Windows Update Remedies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/step-by-step-guide-to-slow-mo-techniques-on-instagram-reels/"><u>Step-by-Step Guide to Slow Mo Techniques on Instagram Reels</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-recovering-missing-file-privileges-in-steam-fixed/"><u>The Ultimate Guide to Recovering Missing File Privileges in Steam [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-systemprofile-desktop-access-error-in-windows-cwindowsconfig/"><u>Troubleshooting: SystemProfile Desktop Access Error in Windows C: Windows Config</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-your-modern-home-network-hub-solutions-for-connectivity-issues/"><u>Understanding Your Modern Home Network Hub: Solutions for Connectivity Issues</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unparalleled-video-quality-the-ultimate-18-list/"><u>Unparalleled Video Quality - The Ultimate #18 List</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fix Guide to the Frustrating 0X80070490 Windows Update Bug
-date: 2024-09-08T16:04:43.144Z
-updated: 2024-09-15T16:06:46.864Z
+date: 2024-09-18T18:09:33.469Z
+updated: 2024-09-20T16:43:37.311Z
 tags:
   - win11
   - win10
@@ -116,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-10_11-51-40-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 2: Delete the Software Distribution Folder
 
  1) Double-click the drive where your Windows is installed, generally in**C drive** .
@@ -145,6 +138,13 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017371df6a8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click Windows Update (if you are using Windows XP, right-click**Automatic Updates** ), and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Windows-update-Start-1200x690.jpg)
@@ -161,35 +161,22 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0177a875597.png)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Run the downloaded file.
 
  3) Click**Windows Update** , and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0175eea504b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Then it will run and try to fix the problem. After completing, restart your computer and try Windows Update again to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 4: Modify Registry Editor**
 
@@ -203,15 +190,36 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7816a3da385.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Go to   _**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade** ._
 
  4) Select**OSUpgrade** key, then right-click the empty area on the right pane of Registry Editor, and click**New** , then c lick **DWORD (32-bit) Value** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7817546e624.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Right-click the newly created**NewValue#1** and select**Modify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a78180511caf.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Change the value name to **AllowOSUpgrade** , after which you can double-click the number under Value data and enter**1** . Select **Hexadecimal** and click**OK** .
 
@@ -220,13 +228,6 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 7) Restart your computer and try again to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Bonus Tip: Update device drivers**
 
@@ -245,13 +246,6 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged device to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
   
@@ -282,18 +276,13 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-frolics-of-fun-dissecting-the-goofy-movie/"><u>[Updated] 'Frolics of Fun' - Dissecting 'The Goofy Movie'</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-revolutionizing-operations-with-virtual-engineering/"><u>[Updated] In 2024, Revolutionizing Operations with Virtual Engineering</u></a></li>
-<li><a href="https://common-error.techidaily.com/critical-system-failure-devices-at-end/"><u>Critical System Failure: Devices at End</u></a></li>
-<li><a href="https://win-dash.techidaily.com/discover-how-to-pinpoint-extreme-values-a-guide-to-finding-minmax-numbers-with-excel/"><u>Discover How to Pinpoint Extreme Values: A Guide to Finding Min/Max Numbers with Excel</u></a></li>
-<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-15-pro-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-infinix-note-30-pro-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Infinix Note 30 Pro?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-unleashing-creativity-quick-lens-building-on-snapchat/"><u>In 2024, Unleashing Creativity Quick Lens Building on Snapchat</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-visualize-success-with-these-three-insta-video-caption-approaches/"><u>In 2024, Visualize Success with These Three Insta Video Caption Approaches</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/max-360-vs-hero-11-the-decisive-battle-for-superior-gopro-action-footage-for-2024/"><u>Max 360 vs Hero 11 - The Decisive Battle for Superior GoPro Action Footage for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issue-why-arent-my-keyboards-number-keys-functioning/"><u>Resolved Issue: Why Aren't My Keyboard's Number Keys Functioning?</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210175884-solution-found-halting-error-in-32-bit-applications-print-driver-revived/"><u>Solution Found: Halting Error in 32-Bit Application's Print Driver Revived</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restore-keyboard-activity-on-a-dell-computer/"><u>Step-by-Step Guide to Restore Keyboard Activity on a Dell Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-update-issue-0xc1900208-error-resolved/"><u>Troubleshooting Windows 11 Update Issue - 0xC1900208 Error Resolved</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-approach-for-stellar-gopro-videos/"><u>[New] Step-By-Step Approach for Stellar GoPro Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-unveiling-the-secrets-to-a-successful-fb-giveaway/"><u>2024 Approved Unveiling the Secrets to a Successful FB Giveaway</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/from-zero-to-media-hub-the-easy-steps-to-get-and-set-up-kodi-on-your-xbox-one/"><u>From Zero to Media Hub: The Easy Steps to Get and Set Up Kodi on Your Xbox One</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-windows-10-update-error-code-0x800705b4-comprehensive-guide/"><u>How to Fix the Windows 10 Update Error Code 0X800705b4 – Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/svchostexe-overload-effective-strategies-for-reducing-cpu-usage-in-windows-10/"><u>svchost.exe Overload: Effective Strategies for Reducing CPU Usage in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-your-broken-touchscreen-top-5-solutions-for-windows-10-users/"><u>The Ultimate Fix for Your Broken Touchscreen - Top 5 Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unleash-your-full-potential-in-tiktok-video-making-with-templates-for-2024/"><u>Unleash Your Full Potential in TikTok Video Making with Templates for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/wireless-earbud-tips-using-airpods-as-an-alternative-headset-on-the-nintendo-switch/"><u>Wireless Earbud Tips: Using AirPods as an Alternative Headset on the Nintendo Switch</u></a></li>
 </ul></div>
 

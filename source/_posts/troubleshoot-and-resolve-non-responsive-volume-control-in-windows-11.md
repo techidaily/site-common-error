@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Resolve Non-Responsive Volume Control in Windows 11
-date: 2024-09-11T16:10:25.873Z
-updated: 2024-09-15T16:08:06.982Z
+date: 2024-09-13T16:12:16.098Z
+updated: 2024-09-20T18:27:02.440Z
 tags:
   - win11
   - win10
@@ -73,9 +73,30 @@ thumbnail: https://thmb.techidaily.com/c5954b26aae847d226df8714f23c02a4ef32990ac
 2. In the**Pointers** tab, under**Scheme** , select a different pointer from the drop-down menu. You can change your mouse pointer to a solid black one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298ab89d01.jpg)
 3. Click**Apply** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Check if your touchpad now works properly. If not, try Tip 4, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 4: Update your touchpad driver
 
@@ -92,22 +113,8 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money-back guarantee.)  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf22faf2a3c4.jpg)
 4. Restart your computer and check if your touchpad now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -132,18 +139,21 @@ Hopefully, this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-stepwise-approach-to-implementing-youtube-cards-and-annotations/"><u>[New] 2024 Approved Stepwise Approach to Implementing YouTube Cards & Annotations</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-adobes-art-of-amusement-and-jest/"><u>[New] Adobe's Art of Amusement and Jest</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-throughput-your-videos-8-top-android-apps/"><u>[New] Throughput Your Videos 8 Top Android Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/beating-oddworld-soulstorm-pc-freezing-glitches-a-step-by-step-fix/"><u>Beating Oddworld: Soulstorm PC Freezing Glitches – A Step-by-Step Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-fix-for-n64-controllers-that-arent-responding-expert-advice-inside/"><u>Complete Fix for N64 Controllers That Aren't Responding - Expert Advice Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/curing-the-malfunction-of-inability-to-properly-shut-down-windows-10-and-ending-up-in-a-restart-loop/"><u>Curing the Malfunction of Inability to Properly Shut Down Windows 10 and Ending Up in a Restart Loop</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/digitized-counseling-a-look-at-5-leading-bots/"><u>Digitized Counseling: A Look at 5 Leading Bots</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/oad-youtube-videos-anywhere-anytime-free-android-tips/"><u>Download YouTube Videos Anywhere, Anytime Free Android Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/how-to-create-and-edit-videos-on-windows-10/"><u>How to Create and Edit Videos on Windows 10</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-redmi-note-12r-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi Note 12R Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-netflix-outages-identifying-the-issue-and-fixing-quickly/"><u>Understanding Netflix Outages – Identifying the Issue & Fixing Quickly</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-mastering-video-editing-in-os-x-mavericks-a-comprehensive-guide-for-2024/"><u>Updated Mastering Video Editing in OS X Mavericks A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-asteroids-how-to-repair-malfunctioning-usb-input-devices/"><u>Windows Asteroids! How To Repair Malfunctioning USB Input Devices</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-key-to-effective-instagram-chats-a-comprehensive-guide/"><u>[New] 2024 Approved The Key to Effective Instagram Chats A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-navigating-multitasking-media-expertise-in-using-picture-in-picture-for-2024/"><u>[New] Navigating Multitasking Media Expertise in Using Picture-in-Picture for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-actions-replay-analysis-for-2024/"><u>[New] Ultimate Actions Replay Analysis for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-1110-stuck-on-restarting/"><u>[SOLVED] Windows 11/10 Stuck On Restarting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-mac-tips-for-effective-lecture-saves/"><u>[Updated] Mac Tips for Effective Lecture Saves</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/effortless-entertainment-with-the-singing-machine-sml385btbk-colorful-playable-and-simplistic-karaoke-device-reviewed/"><u>Effortless Entertainment with the Singing Machine SML385BTBK - Colorful, Playable and Simplistic Karaoke Device Reviewed!</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-poco-m6-pro-4g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Poco M6 Pro 4G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-bargain-hunting-with-our-chosen-top-6-savings-portals/"><u>Master the Art of Bargain Hunting with Our Chosen Top 6 Savings Portals</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-driverpowerstatefailure-error-effectively/"><u>Resolving the DRIVER_POWER_STATE_FAILURE Error Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-dell-wireless-keyboard-solution-guide/"><u>Reviving Your Dell Wireless Keyboard - Solution Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sing-your-heart-out-top-karaoke-devices-to-enjoy/"><u>Sing Your Heart Out: Top Karaoke Devices to Enjoy</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-handling-semaphore-timed-out-with-code-0x80070079/"><u>Step-by-Step Guide: Handling 'Semaphore Timed Out' With Code 0X80070079</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-screen-mirroring-problems-making-your-windows-t-10-cast-perfectly/"><u>Troubleshooting Screen Mirroring Problems: Making Your Windows T 10 Cast Perfectly</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-when-geforce-experience-cant-access-preferences/"><u>Troubleshooting Steps for When GeForce Experience Can't Access Preferences</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/whats-new-updated-control-software-for-logitech-extreme-3d-gaming-keyboard/"><u>What's New: Updated Control Software for Logitech Extreme 3D Gaming Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-cant-teredo-meet-qualification-standards/"><u>Why Can't Teredo Meet Qualification Standards?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: USB to HDMI Transmitter Issues Resolved - How to Get Them Up and Running
-date: 2024-09-10T16:10:13.619Z
-updated: 2024-09-15T16:02:20.920Z
+date: 2024-09-16T16:56:23.515Z
+updated: 2024-09-20T18:07:11.949Z
 tags:
   - win11
   - win10
@@ -72,10 +72,10 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -90,22 +90,23 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
@@ -145,19 +146,15 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-mov-storage-solutions-maximizing-capacity-on-windows/"><u>[New] .mov Storage Solutions Maximizing Capacity on Windows</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-best-photo-boosts-for-perfecting-your-feed/"><u>[New] In 2024, Best Photo Boosts for Perfecting Your Feed</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-from-standard-to-spectaculuxe-video-enhancer-22-upgrade-guide/"><u>[New] In 2024, From Standard to Spectaculuxe Video Enhancer 2.2 Upgrade Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-pioneering-open-worlds-worth-your-time/"><u>[New] In 2024, Pioneering Open Worlds Worth Your Time</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-your-personal-playlist-on-the-go/"><u>[Updated] 2024 Approved Your Personal Playlist On-the-Go</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-xiaomi-civi-3-disney-100th-anniversary-edition-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Xiaomi Civi 3 Disney 100th Anniversary Edition Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-common-elevation-errors-during-operation-requests-in-windows-operating-systems/"><u>Fix Common Elevation Errors During Operation Requests in Windows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207566463-forgotten-sd-card-discover-remedies/"><u>Forgotten SD Card, Discover Remedies!</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-best-free-downloaders-download-youtube-thumbnail-for-free/"><u>In 2024, Best Free Downloaders Download YouTube Thumbnail for Free</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/instructor-insights-choosing-the-prime-video-capturing-technology-for-2024/"><u>Instructor Insights Choosing the Prime Video Capturing Technology for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204368141-troubleshoot-your-way-out-of-windows-10-update-failure-code-0x800f0922-solved/"><u>Troubleshoot Your Way Out of Windows 10 Update Failure: Code 0X800F0922 Solved!</u></a></li>
-<li><a href="https://common-error.techidaily.com/tutorial-correctly-setting-up-windows-10-configuration-system-to-avoid-failure/"><u>Tutorial: Correctly Setting Up Windows 10 Configuration System to Avoid Failure</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-update-error-0x80240017-fixed/"><u>Windows Update Error 0X80240017 [Fixed]</u></a></li>
+<li><a href="https://common-error.techidaily.com/net-framework-35-trouble-heres-how-to-fix-error-code-0x800f081f-during-installation/"><u>.NET Framework 3.5 Trouble? Here's How to Fix Error Code 0X800F081F During Installation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unlocking-the-secrets-of-instagram-scheduling-for-2024/"><u>[New] Unlocking the Secrets of Instagram Scheduling for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/25-groundbreaking-metaverse-initiatives-for-comprehension/"><u>25 Groundbreaking Metaverse Initiatives for Comprehension</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-magic-vs-2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor Magic Vs 2 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-persistent-delays-resolving-keyboard-slowdowns-on-windows-11/"><u>Fixing Persistent Delays: Resolving Keyboard Slowdowns on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-choose-the-ideal-full-screen-recording-tool-for-windows-11-8-and-7-computers/"><u>How To Choose The Ideal Full-Screen Recording Tool For Windows 11, 8 & 7 Computers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-apple-iphone-8-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My Apple iPhone 8?</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-playing-frustratingly-fix-csgo-crash-problems-instantly/"><u>Stop Playing Frustratingly: Fix CSGO Crash Problems Instantly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/thoroughly-reviewed-chilled-treats-screenshot-capture/"><u>Thoroughly Reviewed Chilled Treats Screenshot Capture</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-stalled-during-setup-heres-the-fix/"><u>Windows Stalled During Setup? Here's the Fix!</u></a></li>
 </ul></div>
 

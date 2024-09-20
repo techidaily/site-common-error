@@ -1,7 +1,7 @@
 ---
 title: Fixing a Non-Functional Mic Issue in Windows 11 - Troubleshooting Guide
-date: 2024-09-11T16:03:31.224Z
-updated: 2024-09-15T16:07:09.267Z
+date: 2024-09-14T17:12:04.724Z
+updated: 2024-09-20T18:41:26.846Z
 tags:
   - win11
   - win10
@@ -84,10 +84,10 @@ To run SFC:
  Click **Yes**   when prompted to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
@@ -95,10 +95,10 @@ To run SFC:
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
@@ -115,15 +115,16 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
 ---
@@ -148,20 +149,13 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-vocalvault-critique-of-live-sounds-for-2024/"><u>[New] VocalVault Critique of Live Sounds for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-your-journey-to-1k-followers-in-one-month-secrets-from-top-influencers-for-2024/"><u>[New] Your Journey to 1K Followers in One Month Secrets From Top Influencers for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-preserving-sims-4-moments-effective-strategies-for-recording-playthroughs/"><u>[Updated] 2024 Approved Preserving Sims 4 Moments Effective Strategies for Recording Playthroughs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-best-multiple-video-call-and-chat-tools/"><u>[Updated] Best Multiple Video Call & Chat Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-master-list-saving-your-favorite-ringtone-files/"><u>[Updated] In 2024, Master List Saving Your Favorite Ringtone Files</u></a></li>
-<li><a href="https://common-error.techidaily.com/critical-error-cruntimel1-1-0-missing-from-system/"><u>Critical Error: CRuntimeL1-1-0 Missing From System</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-file-explorer-not-responding-problems-in-windows-11/"><u>Effective Fixes for 'File Explorer Not Responding' Problems in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-successfully-power-off-your-computer-running-windows-11/"><u>Fixing the Issue: How to Successfully Power Off Your Computer Running Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-windows-10-couldnt-be-installed-problem-with-error-code-e80240020/"><u>How to Overcome 'Windows 10 Couldn't Be Installed' Problem with Error Code E80240020</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-step-by-step-guide-to-overcome-the-preparing-to-configure-windows-issue/"><u>Resolved: Step-by-Step Guide to Overcome the 'Preparing to Configure Windows' Issue</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-iphone-qr-code-scanner-malfunctions-discover-these-10-quick-solutions/"><u>Resolving iPhone QR Code Scanner Malfunctions: Discover These 10 Quick Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-apple-watchs-failure-to-detect-stand-a-comprehensive-guide/"><u>Solving Apple Watch's Failure to Detect Stand: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-overcoming-the-errcachemiss-challenge-in-chrome/"><u>The Ultimate Guide to Overcoming the ERR_CACHE_MISS Challenge in Chrome</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-high-system-load-from-wudfhostexe-on-windows-10-devices/"><u>Troubleshooting High System Load From WUDFHost.exe on Windows 10 Devices</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-unleash-your-voice-budget-friendly-tools-to-clear-out-background-noise-for-2024/"><u>Updated Unleash Your Voice Budget-Friendly Tools to Clear Out Background Noise for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-breathtaking-image-mosaics-step-by-step/"><u>[New] Crafting Breathtaking Image Mosaics Step-by-Step</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-path-to-youtube-earnings-setting-up-and-selling-content/"><u>[Updated] Your Path to YouTube Earnings Setting Up and Selling Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/contact-hp-support/"><u>Contact HP Support</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhanced-fixes-when-system-resources-are-overstretched/"><u>Enhanced Fixes When System Resources Are Overstretched</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-multiplayer-lag-solve-your-lan-woes-here/"><u>Minecraft Multiplayer Lag? Solve Your LAN Woes Here!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-say-goodbye-to-crooked-videos-10-best-online-rotation-tools/"><u>New In 2024, Say Goodbye to Crooked Videos 10 Best Online Rotation Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-5-solutions-for-resolving-zooms-failed-video-launch/"><u>Top 5 Solutions for Resolving Zoom's Failed Video Launch</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ling-the-process-of-identifying-youtube-audience/"><u>Unveiling the Process of Identifying YouTube Audience</u></a></li>
 </ul></div>
 

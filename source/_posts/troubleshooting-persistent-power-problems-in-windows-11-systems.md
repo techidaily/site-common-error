@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Persistent Power Problems in Windows 11 Systems
-date: 2024-09-08T16:06:21.828Z
-updated: 2024-09-15T16:09:38.663Z
+date: 2024-09-18T18:52:32.424Z
+updated: 2024-09-20T19:02:43.458Z
 tags:
   - win11
   - win10
@@ -91,6 +91,13 @@ The CMOS battery looks like this
 
 5) Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 4: Restore your System to the Previous State
 
  If the issue happened because of a bad piece of software, say an app your installed or a driver that went wrong, you can use the windows build-in System Recovery feature to fix it. System Recovery allows you to roll your Windows installation back to its last working state.
@@ -110,13 +117,6 @@ The CMOS battery looks like this
  3) Click **Choose a different restore point** , and click**Next** to select a restore point before the issue occurs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-13-05.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Follow the on-screen instructions to finish the restore.
 
@@ -147,6 +147,13 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -156,28 +163,15 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-28-48.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **SFC /Scannow** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-29-41.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Type **DISM /Online /Cleanup-Image /RestoreHealth** , and then press **Enter** .
@@ -185,10 +179,10 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_17-08-53.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 6: Perform a Fresh Install
@@ -212,20 +206,21 @@ The CMOS battery looks like this
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-pc-stops-without-reason-w11/"><u>[FIXED] PC Stops Without Reason: W11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-download-youtube-responsibly-legal-mp4-conversion-methods-for-2024/"><u>[New] Download YouTube Responsibly Legal MP4 Conversion Methods for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-the-perfect-aesthetic-with-controlled-lighting/"><u>[New] In 2024, Crafting the Perfect Aesthetic with Controlled Lighting</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-gopros-greatest-hits-max-360-vs-hero-11-comparison/"><u>[New] In 2024, GoPro's Greatest Hits Max 360 vs Hero 11 Comparison</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-visual-enhancements-with-polarrs-platform/"><u>[New] Mastering Visual Enhancements with Polarr's Platform</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-truth-in-frames-how-to-validate-yourselfies-on-instagram/"><u>[Updated] 2024 Approved Truth in Frames How to Validate Yourselfies on Instagram</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-cinematic-continuity-a-kinemaster-led-guide/"><u>2024 Approved Cinematic Continuity A Kinemaster-Led Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/edit-videos-for-free-top-14-watermark-free-software/"><u>Edit Videos for Free Top 14 Watermark-Free Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-224003-deciphered-how-to-troubleshoot-and-resolve-unplayable-video-files/"><u>Error 224003 Deciphered: How to Troubleshoot and Resolve Unplayable Video Files</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-and-avoid-the-notorious-google-chrome-crash-scam/"><u>How to Fix and Avoid the Notorious Google Chrome Crash Scam</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-peripherals-keyboard-and-mouse-woes-under-win7/"><u>How to Fix Unresponsive Peripherals: Keyboard and Mouse Woes Under Win7</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/leading-workspace-high-flying-space/"><u>Leading Workspace High-Flying Space</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-high-cpu-load-issues-in-the-windows-driver-framework/"><u>Resolving High CPU Load Issues in the Windows Driver Framework</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-dealing-with-hp-spectre-x360-overheating-woes/"><u>Step-by-Step Fix for Dealing with HP Spectre X360 Overheating Woes</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-average-earnings-per-view-whats-the-income-for-youtubers-per-ad-playback-for-2024/"><u>[New] Average Earnings Per View What's the Income for YouTubers per Ad Playback for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-jumpstart-success-with-top-30-youtube-intra-designers-insights/"><u>[New] Jumpstart Success with Top 30 YouTube Intra Designers' Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-computer-wont-wake-up-from-sleep-windows-1110/"><u>[SOLVED] Computer Won't Wake Up From Sleep Windows 11/10</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/converting-mp2-files-to-free-flac-format-online-effortless-with-movavi/"><u>Converting MP2 Files to Free Flac Format Online - Effortless with Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/delve-into-the-worlds-best-online-outlets-for-curious-gift-containers/"><u>Delve Into the World's Best Online Outlets for Curious Gift Containers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/digital-audiovideo-artisans-den-for-2024/"><u>Digital Audio/Video Artisan's Den for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-diagnose-and-solve-stop-code-0xc0000005-issues-on-your-pc-running-windows/"><u>Guide to Diagnose and Solve Stop Code 0Xc0000005 Issues on Your PC Running Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-pasting-issues-in-windows-11-a-step-by-step-guide/"><u>How to Fix Pasting Issues in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-itel-s23-phone-by-drfone-android/"><u>How to Unlock a Network Locked Itel S23 Phone?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-update-or-change-an-outdated-or-compatible-device-driver-in-windows/"><u>How to Update or Change an Outdated or Compatible Device Driver in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/methods-to-ensure-chatgpt-doesnt-store-your-messages-securely/"><u>Methods to Ensure ChatGPT Doesn't Store Your Messages Securely</u></a></li>
+<li><a href="https://common-error.techidaily.com/origin-gaming-error-solutions-correcting-setup-problems-smoothly/"><u>Origin Gaming Error Solutions: Correcting Setup Problems Smoothly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-chromecast-with-google-tv-the-new-contender-in-smart-streaming-devices/"><u>Review: Chromecast with Google TV – The New Contender in Smart Streaming Devices!</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-illuminated-keys-corsair-keyboard-lighting-fixes/"><u>Revive Your Illuminated Keys: Corsair Keyboard Lighting Fixes</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-silent-cyberspace-app-downtimes-explained/"><u>The Silent Cyberspace: App Downtimes Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-restore-pen-and-touch-interaction-on-your-screen/"><u>Troubleshooting: How to Restore Pen & Touch Interaction on Your Screen</u></a></li>
 </ul></div>
 

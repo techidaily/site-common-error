@@ -1,7 +1,7 @@
 ---
 title: "Error-Free Windows Updates: Solving the 0X8024401c Error on Windows 11/10"
-date: 2024-09-14T16:10:27.434Z
-updated: 2024-09-15T16:04:06.501Z
+date: 2024-09-13T18:08:49.004Z
+updated: 2024-09-20T19:24:39.466Z
 tags:
   - win11
   - win10
@@ -104,13 +104,6 @@ Double-click on your active Network Adapter.
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4\. Configure Updates Client
 
 If the fixes above didn’t serve you, try this one.
@@ -123,9 +116,29 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
@@ -141,13 +154,6 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
 
  And name the new key**A** **U** .
@@ -155,10 +161,10 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
@@ -188,20 +194,19 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-fast-lanes-migrating-iphone-media-to-a-desktop/"><u>[Updated] Fast Lanes Migrating iPhone Media to a Desktop</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-10-ingenious-ae-techniques-for-headline-hype/"><u>[Updated] Top 10 Ingenious AE Techniques for Headline Hype</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-to-fix-windows-update-stuck-at-0-issue/"><u>Easy to Fix Windows Update Stuck at 0% Issue</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-predictive-ai-techniques-and-processes-involved/"><u>Exploring Predictive AI: Techniques and Processes Involved</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-7-plus-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone 7 Plus Online</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-infinix-hot-40i-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Infinix Hot 40i</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-troubleshooting-of-persistent-windows-10-update-failures/"><u>Master the Troubleshooting of Persistent Windows 10 Update Failures</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/melodies-and-movie-editing-imovie-edition/"><u>Melodies & Movie Editing IMovie Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-an-unresponsive-microsoft-store-a-step-by-step-fix/"><u>Overcoming the Challenge of an Unresponsive Microsoft Store: A Step-by-Step Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-the-soundscape-solving-silent-issues-with-your-acer-pc/"><u>Revive the Soundscape: Solving Silent Issues with Your Acer PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restore-keyboard-activity-on-a-dell-computer/"><u>Step-by-Step Guide to Restore Keyboard Activity on a Dell Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-resolved-windows-updates-now-working/"><u>Successfully Resolved: Windows Updates Now Working</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-faulty-volume-shadows-in-win/"><u>Troubleshooting Faulty Volume Shadows in Win</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-what-to-do-when-your-usb-isnt-detected/"><u>Troubleshooting Guide: What to Do When Your USB Isn't Detected</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-duality-in-display-rotating-videos-on-instagram-one-click-at-a-time/"><u>[New] 2024 Approved Duality in Display Rotating Videos on Instagram, One Click at a Time</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-guide-to-shopping-for-a-gopro-camera/"><u>[New] The Essential Guide to Shopping for a Gopro Camera</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-10-freezes-on-startup-or-boot/"><u>[Solved] Windows 10 Freezes on Startup or Boot</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-windows-10-gamers-guide-to-effective-video-capture/"><u>[Updated] Windows 10 Gamers' Guide to Effective Video Capture</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-high-gpu-demands-from-windows-11s-dwm-discover-five-essential-solutions/"><u>Conquer High GPU Demands From Windows 11’S DWM - Discover Five Essential Solutions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-amd-rx-480-gpu-drivers-with-simplicity/"><u>Download and Update AMD RX 480 GPU Drivers with Simplicity</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-crashes-in-nier-automata-windows-edition/"><u>How to Fix Crashes in Nier: Automata Windows Edition</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-apple-iphone-13-mini-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your Apple iPhone 13 mini and iPad</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tailored-titles-for-your-youtube-success/"><u>In 2024, Tailored Titles for Your YouTube Success</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-lenovo-ideapad-stunning-construction-for-essential-use/"><u>In-Depth Analysis of the Lenovo Ideapad: Stunning Construction for Essential Use</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205065502-quick-solutions-for-windows-update-problem-overcome-error-8007000e-today/"><u>Quick Solutions for Windows Update Problem - Overcome Error 8007000E Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/screen-fix-for-non-hid-interactive-response/"><u>Screen Fix for Non-HID Interactive Response</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-resolving-win10-update-error-code-0x800705b4/"><u>Step-by-Step Solutions for Resolving Win10 Update Error Code 0X800705B4</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-no-matches-found-error-on-bumble/"><u>Ultimate Guide: Resolving 'No Matches Found' Error on Bumble</u></a></li>
 </ul></div>
 

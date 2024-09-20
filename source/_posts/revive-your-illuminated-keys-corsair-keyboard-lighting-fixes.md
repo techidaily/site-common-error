@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Illuminated Keys: Corsair Keyboard Lighting Fixes"
-date: 2024-09-14T16:03:40.890Z
-updated: 2024-09-15T16:03:20.762Z
+date: 2024-09-17T18:05:42.925Z
+updated: 2024-09-20T19:40:23.457Z
 tags:
   - win11
   - win10
@@ -65,13 +65,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Update and configure the iCUE software
 
  iCUE is a software that allows you to control the performance of Corsair’s devices. Updating the iCUE software may help you deal with bugs that relate to your backlight problem. Here is how:
@@ -81,19 +74,27 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 1. Open iCUE and click the**Settings** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
-3. Wait for the installing process to complete.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
+3. Wait for the installing process to complete.
 
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/icue-setting.jpg)  
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -117,15 +118,15 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boosting-channels-growth-strategies-for-effective-trailers/"><u>[Updated] In 2024, Boosting Channels' Growth Strategies for Effective Trailers</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-comprehensive-guide-to-sound-in-powerpoint-presentations/"><u>2024 Approved Comprehensive Guide to Sound in PowerPoint Presentations</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/achieving-memetic-mastery-top-9-techniques-to-create-engaging-gifs/"><u>Achieving Memetic Mastery Top 9 Techniques to Create Engaging GIFs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-itel-p40-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Itel P40?</u></a></li>
-<li><a href="https://common-error.techidaily.com/in-depth-analysis-why-does-total-war-rome-remastered-keep-crashing-and-how-to-prevent-it/"><u>In-Depth Analysis: Why Does Total War: Rome Remastered Keep Crashing & How To Prevent It?</u></a></li>
-<li><a href="https://win11.techidaily.com/routine-for-accessing-and-clearing-activity-in-windows-11/"><u>Routine for Accessing and Clearing Activity in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-error-code-1067-when-your-windows-process-ends-prematurely/"><u>Troubleshooting Guide: Fixing 'Error Code 1067' - When Your Windows Process Ends Prematurely</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-missing-bluetooth-devices-in-windows-device-manager/"><u>Troubleshooting Missing Bluetooth Devices in Windows Device Manager</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-repairing-damaged-registry-and-system-files-in-windows-11/"><u>Ultimate Guide: Repairing Damaged Registry and System Files in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/usb-serial-fix-overcoming-windows-driver-woes/"><u>USB-Serial Fix: Overcoming Windows Driver Woes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-expert-shortcuts-for-savvy-screen-capture-on-your-pc-for-2024/"><u>[New] Expert Shortcuts for Savvy Screen Capture on Your PC for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-explore-tiktoks-1-game-bloggers-list-for-2024/"><u>[New] Explore TikTok's #1 Game Bloggers List for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-highlights-the-5-most-advanced-low-speed-recorders-for-2024/"><u>[New] Highlights The 5 Most Advanced Low-Speed Recorders for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-to-overcome-the-storportsys-crash-on-your-windows-10-pc/"><u>Comprehensive Guide to Overcome the StorPort.sys Crash on Your Windows 10 PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-8-immersive-titles-with-oculus-support/"><u>In 2024, Top 8 Immersive Titles with Oculus Support</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solution-for-immediate-response-failure-overcoming-error-1053/"><u>Quick Solution for Immediate Response Failure - Overcoming Error 1053</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-a-compromised-microsoft-store-memory-bank/"><u>Solving the Problem of a Compromised Microsoft Store Memory Bank</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-11-usb-connectivity-issues-a-comprehensive-fix/"><u>Solving Windows 11 USB Connectivity Issues: A Comprehensive Fix</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-power-of-youtubes-creative-commons-for-videographers/"><u>The Power of YouTube's Creative Commons for Videographers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-imovie-for-windows-10-try-these-free-and-paid-alternatives-instead/"><u>Updated 2024 Approved IMovie for Windows 10? Try These Free and Paid Alternatives Instead</u></a></li>
 </ul></div>
 

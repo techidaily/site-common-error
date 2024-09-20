@@ -1,7 +1,7 @@
 ---
 title: Effortless Fix for When Your USB Flash Drive Won’t Be Detected by Computer
-date: 2024-08-09T00:49:12.222Z
-updated: 2024-08-10T00:49:12.222Z
+date: 2024-09-19T16:05:11.621Z
+updated: 2024-09-20T17:05:06.025Z
 tags:
   - win11
   - win10
@@ -35,16 +35,10 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
 **[4) Correct your system date and time](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1) Test with other browsers
 
  The ERR\_TOO\_MANY\_REDIRECTS error may result from the web browser you are using. You can try visiting the same URL using**other browsers** . If the error still persists, the issue may come from the server side. You may need to log on the website at another time. If the error doesn’t appear on a new browser, try the methods below to fix issues on your original browser.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2) Clear your browser data
 
  Browser data like browsing history, cache, cookies, etc can contain faulty files that cause the ERR\_TOO\_MANY\_REDIRECTS error. Clearing these data is an effective way to fix the error. To clear the browsing data:
@@ -63,27 +57,18 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
 **c)**  Click **Clear browsing data** .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5a4277ce0.png)
 
  And on **Mozilla Firefox** :
 
 **a)**  Click the**Menu** button of Firefox, and then select**Options** .
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5c7cb124c.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5c93bf987.png)
 
 **b)** Select**Privacy** and then**clear your recent history** .
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5d86b7592.png)
 
 **c)** Select**Everything** for Time range to clear and then click **Clear Now** .
@@ -92,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac
 
  Once the browser data are cleared, you can try logging in the website and see if the error is gone.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3) Check your browser extensions
 
  The ERR\_TOO\_MANY\_REDIRECTS may be caused by a wrong browser extension. You should open the extension manager in your browser to check the extensions you have installed on your browser.
@@ -103,17 +85,10 @@ Here are the examples of checking extensions in Chrome and Firefox.
 
 **a)**  For**Chrome** , type “_**chrome://extensions**_ ” in the address bar and press **Enter** . Then you can see all the extensions listed below, and you can try enabling or disabling any of them.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f642024598.png)
 
 **b)**  For **Firefox** ,type “ _**about:addons**_ ” in the address bar, press **Enter** , and then select**Extensions** . You will see all the extensions for Firefox is listed here.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f6496cf6c6.png)
 
  You can **disable all the extensions** to see if this fix the problem. If it does, you can enable**one extension at a time** to identify the one that causes the trouble.
@@ -124,11 +99,14 @@ Here are the examples of checking extensions in Chrome and Firefox.
 
 **a)** Press**Win + R** keys on your keyboard to invoke Run box. Type “_**control**_ ” and press **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f827608c6c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **b)** In Control Panel, select**Date and Time** .
 
@@ -140,13 +118,16 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 **d)** In Internet Time Settings, tick **Synchronize with an Internet time server** and select a**time server** . Then click on**Update now** , and hit**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f84b23c29a.png)
 
 The date and time on your system is now updated.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## You may also want to read…
 
@@ -161,11 +142,28 @@ The date and time on your system is now updated.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-scoping-out-spots-where-to-meet-youtube-brand-deals/"><u>[New] 2024 Approved Scoping Out Spots Where to Meet YouTube Brand Deals</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-picks-recommended-portals-for-acquiring-snapalert-melodies/"><u>[Updated] Premium Picks Recommended Portals for Acquiring SnapAlert Melodies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-5-easy-steps-for-altering-game-voices-in-pubg/"><u>2024 Approved The 5 Easy Steps for Altering Game Voices in PUBG</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/choosing-prime-top-8-budget-friendly-srt-translator-tools/"><u>Choosing Prime Top 8 Budget-Friendly SRT Translator Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-dealing-with-uncharging-issues-while-using-a-charger-on-windows-7-or-10/"><u>Effective Solutions for Dealing With Uncharging Issues While Using a Charger on Windows 7 or 10</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-infinix-smart-8-hd-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Infinix Smart 8 HD Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-razers-unlit-keys-a-comprehensive-guide/"><u>Fixing Your Razer's Unlit Keys: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-earn-facebooks-trusted-prestigious-symbol/"><u>How to Earn Facebook's Trusted, Prestigious Symbol</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-scroll-wheel-capability-on-a-laptop-touchpad-for-windows-10-users/"><u>How to Restore Scroll Wheel Capability on a Laptop Touchpad for Windows 10 Users</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-s23-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy S23 is off? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-photo-realism-in-artwork-illustrator-motion-magic/"><u>In 2024, Photo Realism in Artwork Illustrator Motion Magic</u></a></li>
+<li><a href="https://driver-download.techidaily.com/risk-of-multi-organ-failure/"><u>Risk of Multi-Organ Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-issues-with-an-aoc-monitor-compatibility-on-windows-10/"><u>Troubleshooting Tips: Resolving Issues with an AOC Monitor Compatibility on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-guide-resolving-a-non-responsive-mouse-on-your-computer/"><u>Ultimate Troubleshooting Guide: Resolving a Non-Responsive Mouse on Your Computer</u></a></li>
+</ul></div>
+

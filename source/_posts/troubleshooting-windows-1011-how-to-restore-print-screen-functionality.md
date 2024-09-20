@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows 10/11: How to Restore Print Screen Functionality"
-date: 2024-09-10T16:00:37.852Z
-updated: 2024-09-15T16:07:32.832Z
+date: 2024-09-14T16:26:48.667Z
+updated: 2024-09-20T18:49:35.496Z
 tags:
   - win11
   - win10
@@ -124,13 +124,6 @@ Now check to see your mic is back on track.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Modify privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, your mic may be forbidden to work normally. To check and modify these settings, here’s what you can do:
@@ -139,22 +132,29 @@ Now check to see your mic is back on track.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
 
  Below you’ll see another toggle for **Allow apps to access your microphone** . Also turn it**on** if it’s been set to Off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
 
@@ -179,15 +179,16 @@ If this fix doesn’t work, please proceed to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-behind-the-glamour-10-honest-insights-into-reels/"><u>[New] Behind the Glamour 10 Honest Insights Into Reels</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-dive-into-multi-tasking-mastery-with-chromes-pip-feature/"><u>[Updated] In 2024, Dive Into Multi-Tasking Mastery with Chrome's PIP Feature</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-when-the-shift-key-stops-working/"><u>Effective Solutions for When the Shift Key Stops Working</u></a></li>
-<li><a href="https://common-error.techidaily.com/halo-4-ue4-troubleshooting-fixing-the-fatal-error-and-preventing-crashes/"><u>Halo 4 UE4 Troubleshooting: Fixing the 'Fatal Error' And Preventing Crashes</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-mic-functionality-in-windows-10-solutions-explored/"><u>How to Restore Mic Functionality in Windows 10 - Solutions Explored</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-split-screen-video-editing-software-free-online-and-offline-solutions-for-2024/"><u>New Split Screen Video Editing Software Free Online and Offline Solutions for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/reviewing-the-tp-link-av2000-powerline-converter-exceptional-connectivity-lackluster-look-and-feel/"><u>Reviewing the TP-Link AV2000 Powerline Converter: Exceptional Connectivity, Lackluster Look and Feel</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-lost-desktop-icons-on-your-windows-10-pc/"><u>The Ultimate Fix for Lost Desktop Icons on Your Windows 10 PC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-ultimate-guide-to-removing-photo-borders/"><u>The Ultimate Guide to Removing Photo Borders</u></a></li>
-<li><a href="https://fox-that.techidaily.com/understanding-iphone-screen-brightness-the-ultimate-10-reasons-for-auto-dimming/"><u>Understanding iPhone Screen Brightness: The Ultimate 10 Reasons for Auto-Dimming</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-exclusive-selection-winning-16-free-video-tools/"><u>[New] In 2024, Exclusive Selection Winning 16 Free Video Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pro-video-cinematography-choosing-the-right-lenses/"><u>[New] Pro Video Cinematography Choosing the Right Lenses</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-intriguing-ways-to-twist-images/"><u>2024 Approved Intriguing Ways to Twist Images</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-updateerror-on-windows-11-resolve-0x80240034-issue/"><u>How to Fix the 'Update_Error' On Windows 11 – Resolve 0X80240034 Issue</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Nokia 150 (2023)? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-repairing-unidentified-usb-equipment-a-step-by-step-fix-for-port-reset-failures-in-windows-10/"><u>Mastering the Art of Repairing Unidentified USB Equipment: A Step-by-Step Fix for Port Reset Failures in Windows 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/satiresnapshots-jokeframe-world-for-2024/"><u>SatireSnapshots JokeFrame World for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/smooth-sailing-through-updates-effective-solutions-for-windows-error-0x8007001f/"><u>Smooth Sailing Through Updates: Effective Solutions for Windows Error 0X8007001f</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-success-a-step-by-nstep-strategy-to-overcome-windows-update-issue-0x80240017/"><u>Unlocking Success: A Step-by-nStep Strategy to Overcome Windows Update Issue 0X80240017</u></a></li>
 </ul></div>
 

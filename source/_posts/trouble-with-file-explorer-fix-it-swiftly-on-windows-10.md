@@ -1,7 +1,7 @@
 ---
 title: Trouble with File Explorer? Fix It Swiftly on Windows 10
-date: 2024-09-10T16:01:31.323Z
-updated: 2024-09-15T16:10:52.687Z
+date: 2024-09-17T16:47:27.438Z
+updated: 2024-09-20T18:11:10.899Z
 tags:
   - win11
   - win10
@@ -78,31 +78,19 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 2. Click**Devices** from the menu options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-18-58.jpg)
 3. Click**Bluetooth & other devices** on the left panel and then select**Add Bluetooth or other device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-25-05.jpg)
 4. Click**Bluetooth** on the dialog box below.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-21_08-39-48.jpg)
 5. You have to wait for the mouse to appear in the list and then follow the on-screen instructions to pair the device.
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Update your wireless mouse driver
 
@@ -137,16 +125,17 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 5. After disabling**Realtek High Definition Audio,** you can check if your mouse works.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5: Disable disappearing cursor feature
@@ -178,16 +167,10 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 4. After that, you can see if your mouse works.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 7: Fix unknown hard errors
@@ -199,17 +182,18 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-23_19-22-08-1.jpg)
 3. The dialog box will pop up. Type**cmd** and check the box next to the**Create this task with administrative privileges** . Then Click the**OK** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-22_17-17-44-1.jpg)
 4. Type**chkdsk /f /r** (you can just copy and paste it) in the Command Prompt window and then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-13_13-38-35-2.jpg)
 5. Press**Y** on your keyboard. As is described in the figure below, Disk check will start the next time when you boot your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-13_13-41-31-1.jpg)
 
  It might take some time to check the hard disk. If you don’t have time to wait for the disk check to complete in your next reboot, you can skip it and reschedule it again.
@@ -231,16 +215,16 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-the-art-of-video-clarity-with-version-22-vce/"><u>[New] Mastering the Art of Video Clarity with Version 2.2 VCE</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-perfecting-your-images-the-art-of-curving/"><u>[New] Perfecting Your Images The Art of Curving</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-affordable-aerial-cameras-top-picks-under-100/"><u>[Updated] In 2024, Affordable Aerial Cameras Top Picks Under $100</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-fast-track-setting-up-and-enjoying-ifunny-memes/"><u>2024 Approved The Fast Track Setting Up & Enjoying iFunny Memes</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafting-charts-with-a-click-youtube-short-tunes-made-easy/"><u>Crafting Charts with a Click YouTube Short Tunes Made Easy</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-fix-resolving-code-0xc1900208-during-your-windows-11-installation-fixed/"><u>Mastering the Fix: Resolving Code 0Xc1900208 During Your Windows 11 Installation [FIXED]</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/navigating-virtual-board-functions-across-zoom-devices/"><u>Navigating Virtual Board Functions Across Zoom Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-icue-when-your-computer-doesnt-recognize-hardware/"><u>Solution Steps for ICUE When Your Computer Doesn't Recognize Hardware</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-resolving-the-diagnostic-policy-service-not-active-error/"><u>Successfully Resolving the 'Diagnostic Policy Service Not Active' Error</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-3-best-free-video-converters-in-2019-for-mac-and-pc-convert-high-resolution-4k-to-hd/"><u>Top 3 Best Free Video Converters in 2019 for Mac & PC: Convert High-Resolution 4K to HD</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-ultimate-list-of-easy-to-use-neon-text-generators/"><u>Updated In 2024, The Ultimate List of Easy-to-Use Neon Text Generators</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-from-silence-to-soundscape-step-by-step-in-audition/"><u>[New] 2024 Approved From Silence to Soundscape Step-by-Step in Audition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-azoom-for-your-videos-top-10-choices-to-watch-out-for/"><u>[New] Azoom for Your Videos Top 10 Choices to Watch Out For</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-uncover-the-best-tablet-titans-for-photo-editing-aficionados-for-2024/"><u>[New] Uncover the Best Tablet Titans for Photo Editing Aficionados for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-issues-and-solutions-for-dvd-compatibility-with-windows-operating-systems/"><u>Common Issues and Solutions for DVD Compatibility with Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-steps-for-fixing-missing-media-device-drivers-on-windows/"><u>Essential Steps for Fixing Missing Media Device Drivers on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-nubia-z50-ultra-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Nubia Z50 Ultra? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/laptop-power-issues-heres-how-to-get-the-battery-charging-fast/"><u>Laptop Power Issues? Here’s How to Get the Battery Charging Fast</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-an-unresponsive-hp-camera-when-using-windows-11/"><u>Quick Fixes for an Unresponsive HP Camera when Using Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-power-symbol-disappearance-issue-on-windows-11-a-comprehensive-guide/"><u>Resolving the Power Symbol Disappearance Issue on Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-x100-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo X100 Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Non-Responsive Function (Fn) Keys on Your Lenovo Laptop"
-date: 2024-09-13T16:03:54.704Z
-updated: 2024-09-15T16:12:44.559Z
+date: 2024-09-13T17:40:32.532Z
+updated: 2024-09-20T17:28:08.715Z
 tags:
   - win11
   - win10
@@ -101,6 +101,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -110,15 +117,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -129,19 +143,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -149,13 +150,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -191,19 +185,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-how-to-reactivate-your-photo-viewer-in-win-11-proactively/"><u>[New] In 2024, How to Reactivate Your Photo Viewer in Win 11 Proactively</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-revamp-your-tiktok-videos-insightful-strategies-for-backdrop-changes/"><u>[Updated] In 2024, Revamp Your TikTok Videos Insightful Strategies for Backdrop Changes</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-notable-20-anime-series-theme-tracks/"><u>[Updated] Notable 20 Anime Series Theme Tracks</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-cutting-edge-video-communities-eclipsing-youtube/"><u>2024 Approved Cutting-Edge Video Communities Eclipsing Youtube</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-tecno-camon-20-premier-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Tecno Camon 20 Premier 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-repair-tips-what-to-do-when-your-dells-speakers-wont-work-anymore/"><u>DIY Repair Tips: What To Do When Your Dell's Speakers Won't Work Anymore</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-fixes-to-prevent-deathloop-game-freezing-on-your-computer-or-ps5-console/"><u>Effective Fixes to Prevent Deathloop Game Freezing on Your Computer or PS5 Console</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fixing-lg-screen-problems-solutions-for-drivers-in-windows-10781/"><u>Fixing LG Screen Problems: Solutions for Drivers in Windows 10/7/8.1</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-free-up-iphone-se-2022-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up iPhone SE (2022) Space | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/in-depth-analysis-why-does-total-war-rome-remastered-keep-crashing-and-how-to-prevent-it/"><u>In-Depth Analysis: Why Does Total War: Rome Remastered Keep Crashing & How To Prevent It?</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-error-code-0x80n2efd-on-your-windows-11-device/"><u>Troubleshooting and Fixing Error Code 0X80n2EFD on Your Windows 11 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-error-code-1067-when-your-windows-process-ends-prematurely/"><u>Troubleshooting Guide: Fixing 'Error Code 1067' - When Your Windows Process Ends Prematurely</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-missing-bluetooth-devices-in-windows-device-manager/"><u>Troubleshooting Missing Bluetooth Devices in Windows Device Manager</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-creative-sound-discover-free-voice-alterations-for-2024/"><u>Unlocking Creative Sound Discover Free Voice Alterations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-youtube-end-screen-templates-plushow-tos/"><u>[New] 2024 Approved Free YouTube End Screen Templates [+How-Tos]</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unlocking-the-potential-voice-control-with-siri-on-tiktok/"><u>[Updated] Unlocking the Potential Voice Control with Siri on TikTok</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-y77t-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo Y77t Device SIM</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-devices-fail-to-sync-on-windows-11/"><u>Effective Fixes for When Your Devices Fail to Sync on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-movement-in-frozen-mouse-buttons-and-scroll-wheel/"><u>Expert Tips to Restore Movement in Frozen Mouse Buttons and Scroll Wheel</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/high-quality-mp4-audio-extraction-the-ultimate-guide-to-preserving-sound-fidelity/"><u>High-Quality MP4 Audio Extraction: The Ultimate Guide to Preserving Sound Fidelity</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-class-not-registered-errors-on-windows-11-solved/"><u>How to Fix 'Class Not Registered' Errors on Windows 11 – Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-hp-wireless-keyboard-malfunctions-quickly-and-easily/"><u>How to Resolve HP Wireless Keyboard Malfunctions Quickly and Easily</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-armor-upgrade-solve-amd-tarkov-bug/"><u>Quick Armor Upgrade: Solve AMD Tarkov Bug</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205992205-troubleshooting-guide-for-non-working-mic-on-steelseries-arctis-5-a-step-by-step-solution/"><u>Troubleshooting Guide for Non-Working Mic on SteelSeries Arctis 5: A Step-by-Step Solution!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-list-expert-picks-for-premium-nikon-dslr-lenses/"><u>Ultimate List: Expert Picks for Premium Nikon DSLR Lenses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-your-creativity-with-any-of-these-top-4-ai-story-generators/"><u>Unleash Your Creativity with Any of These Top 4 AI Story Generators</u></a></li>
 </ul></div>
 

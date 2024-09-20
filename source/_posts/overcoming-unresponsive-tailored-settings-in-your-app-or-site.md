@@ -1,7 +1,7 @@
 ---
 title: Overcoming Unresponsive Tailored Settings in Your App or Site
-date: 2024-08-09T00:49:10.610Z
-updated: 2024-08-10T00:49:10.610Z
+date: 2024-09-15T16:25:30.948Z
+updated: 2024-09-20T16:13:25.523Z
 tags:
   - win11
   - win10
@@ -15,14 +15,6 @@ thumbnail: https://thmb.techidaily.com/1fd143d9eb4d07db9c9ac9863a1f2f928a907a725
 
 ## How to Resolve 'There Was an Error Setting up Your PC' Bug in Windows 11 - Fixed Now
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/1-18.jpg)
 
  This post is going to tell you how to fix **“There was a problem resetting your PC”**  error on your Windows 10\. It may occur when you try to reset your Windows 10 to its default state. Microsoft also noticed such known error. And they have given the following 4 conditions under which your Windows 10 reset may fail. If unluckily you’re also facing such error, please go on with the fixes step by step to solve the error.
@@ -43,18 +35,12 @@ thumbnail: https://thmb.techidaily.com/1fd143d9eb4d07db9c9ac9863a1f2f928a907a725
  Click Power button from Start menu.  
  Then while holding **Shift**  key, click **Restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-17.jpg)
 
  2)  
 
  Click **Troubleshoot**  \>**Advanced options**  \> **Command Prompt** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-18.jpg)
 
  3)  
@@ -62,14 +48,8 @@ thumbnail: https://thmb.techidaily.com/1fd143d9eb4d07db9c9ac9863a1f2f928a907a725
  Select your administrator account and then enter the password if you set one before.  
  Click **Continue**  to go on.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-14.jpg)
 
  4)  
@@ -120,9 +100,6 @@ thumbnail: https://thmb.techidaily.com/1fd143d9eb4d07db9c9ac9863a1f2f928a907a725
 
  Select your USB drive and click **Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/12-2.jpg)
 
  5)  
@@ -158,11 +135,42 @@ Go on to follow the on-screen instructions to complete the reinstalling.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-amazon-prime-and-tweet-fandom-most-appreciated-videos-2023/"><u>[Updated] 2024 Approved Amazon Prime and Tweet Fandom - Most Appreciated Videos, 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ingenious-ways-to-enhance-trustworthiness-in-client-spots-on-screen/"><u>[Updated] Ingenious Ways to Enhance Trustworthiness in Client Spots on Screen</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-how-to-find-your-niche-and-style-a-starters-guide-high-cpm/"><u>2024 Approved How to Find Your Niche and Style - a Starter's Guide [High CPM]</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-strategies-for-repairing-windows-rpc-server-connection-problems-quickly/"><u>Comprehensive Strategies for Repairing Windows RPC Server Connection Problems Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-correcting-the-print-driver-service-for-32-bit-applications-has-stopped-problem-on-pc-systems/"><u>Diagnosing and Correcting the 'Print Driver Service for 32-Bit Applications Has Stopped' Problem on PC Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-visual-performance-via-acer-updates/"><u>Enhance Visual Performance via Acer Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-windows-camera-malfunction-error-0xa00f4292-easily/"><u>How to Overcome the Windows Camera Malfunction (Error 0Xa00f4292) Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-motorola-moto-g-stylus-2023-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Motorola Moto G Stylus (2023)?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-poco-x5-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Poco X5 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-spontaneous-computer-outages-a-comprehensive-guide/"><u>Resolving Spontaneous Computer Outages - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-post-boot-crashes-effective-solutions/"><u>Resolving Windows 11 Post-Boot Crashes: Effective Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-new-world-easy-anti-cheat-error-step-by-step-troubleshooting-tips/"><u>Solve Your New World Easy Anti-Cheat Error: Step-by-Step Troubleshooting Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/superior-dvd-copying-with-winx-platinum-edition-high-speed-multiplatform-dvd-duplicator-for-windows-11/"><u>Superior DVD Copying with WinX Platinum Edition - High-Speed, Multiplatform DVD Duplicator for Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-issues-with-the-rundll32-in-windows-host-process/"><u>Troubleshooting Tips: Resolving Issues with the Rundll32 in Windows Host Process</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-14-pro-lock-with-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 14 Pro lock with Apple ID</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

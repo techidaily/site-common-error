@@ -1,7 +1,7 @@
 ---
 title: "Fix a Stuck DNS: A Step-by-Step Approach with 5 Proven Solutions"
-date: 2024-09-10T16:04:33.806Z
-updated: 2024-09-15T16:07:40.247Z
+date: 2024-09-19T18:04:39.704Z
+updated: 2024-09-20T16:49:35.518Z
 tags:
   - win11
   - win10
@@ -132,22 +132,29 @@ Here’s how to update drivers with Driver Easy:
   
 ![Run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you want to make Origin always run as administrator, take these steps:
 
 * Right-click the Origin client icon on your desktop (or in the Origin directory if not on your desktop and click**Properties** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/always-run-Origin-as-an-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-Origin-as-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Resume your installation and check if it helped you fix the issue. If your problem persists, try the next fix below.
 
@@ -157,19 +164,6 @@ If you want to make Origin always run as administrator, take these steps:
 
 If that didn’t help, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Download Media Feature Pack for Windows 10 N
 
  For users who are running Windows N versions, you need to download the Media Feature Pack from Microsoft, which helped many players get rid of the error.
@@ -177,10 +171,16 @@ If that didn’t help, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/download-media-feature-pack-1200x715.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Not sure which Windows version you’re running? No worries! Follow the steps below to check it out:
@@ -212,21 +212,14 @@ If that didn’t help, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-building-a-channel-team-up-videography-guide/"><u>[New] In 2024, Building a Channel Team-Up Videography Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-infinix-note-30-vip-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/community-conquest-raising-the-bar-for-your-fb-group/"><u>Community Conquest: Raising the Bar for Your Fb Group</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722987081941-enhanced-gaming-experience-no-more-stuttering-in-starfield/"><u>Enhanced Gaming Experience - No More Stuttering in Starfield!</u></a></li>
-<li><a href="https://common-error.techidaily.com/firefox-secure-connection-error-explained-a-guide-for-the-secerrorunknownissuer-problem/"><u>Firefox Secure Connection Error Explained – A Guide for the SEC_ERROR_UNKNOWN_ISSUER Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-0x800705b4-problem-a-step-by-step-guide-for-windows-11-updates/"><u>Fixing the 0X800705b4 Problem: A Step-by-Step Guide for Windows 11 Updates</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-demystifying-viewer-statistics-on-instagram-images/"><u>In 2024, Demystifying Viewer Statistics on Instagram Images</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-surpass-your-competition-effective-youtube-seo-tips/"><u>In 2024, Surpass Your Competition Effective YouTube SEO Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-keys-sticking-on-windows-solved/"><u>Keyboard Keys Sticking on Windows [Solved]</u></a></li>
-<li><a href="https://extra-support.techidaily.com/learn-to-edit-videos-professionally-using-inshot-for-2024/"><u>Learn to Edit Videos Professionally Using Inshot for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-game-immersion-resolve-your-forza-horizon-4-sound-malfunction-with-these-steps/"><u>Restore Game Immersion: Resolve Your 'Forza Horizon 4' Sound Malfunction with These Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/semaphore-timeout-problem-solved-resolving-prolonged-process-interruption-error-0x80n070079/"><u>Semaphore Timeout Problem Solved - Resolving Prolonged Process Interruption (Error 0X80n070079)</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-remedies-overcoming-issues-with-inoperative-function-keys/"><u>Step-by-Step Remedies: Overcoming Issues with Inoperative Function Keys</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208857831-struggling-with-a-non-printable-pdf-master-swift-solutions/"><u>Struggling with a Non-Printable PDF? Master Swift Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-non-functioning-voice-chat-in-overwatch-with-simple-steps/"><u>Troubleshoot Non-Functioning Voice Chat in Overwatch with Simple Steps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-relaxation-station-leisurely-phone-game-guide/"><u>[Updated] 2024 Approved Relaxation Station Leisurely Phone Game Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204423354-fix-lol-pvpnet-patcher-kernel-has-stopped-working-easily/"><u>Fix LOL “PvP.net Patcher Kernel Has Stopped Working” Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-wwe-2k-battlegrounds-and-enable-dx11-feature-level-100-without-issues/"><u>How to Fix WWE 2K Battlegrounds and Enable DX11, Feature Level 10.0 without Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-incompatible-timing-settings-on-your-computers-display/"><u>How to Resolve Incompatible Timing Settings on Your Computer's Display</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-non-profit-gaming-soundtrack-sources/"><u>In 2024, Non-Profit Gaming Soundtrack Sources</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-list-selecting-excellent-webcams-for-podcasts/"><u>In 2024, Ultimate List Selecting Excellent Webcams for Podcasts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-photo-burst-how-to-take-burst-images/"><u>IPhone Photo Burst How to Take Burst Images</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-steps-for-windows-sandbox-configuration-in-11/"><u>The Essential Steps for Windows Sandbox Configuration in 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/s-for-snagging-youtube-dialogues-for-2024/"><u>Tricks for Snagging YouTube Dialogues for 2024</u></a></li>
 </ul></div>
 

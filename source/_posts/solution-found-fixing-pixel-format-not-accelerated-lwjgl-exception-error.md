@@ -1,7 +1,7 @@
 ---
 title: Solution Found! Fixing 'Pixel Format Not Accelerated' LWJGL Exception Error
-date: 2024-09-09T16:04:51.271Z
-updated: 2024-09-15T16:02:53.105Z
+date: 2024-09-13T16:09:33.335Z
+updated: 2024-09-20T19:08:50.493Z
 tags:
   - win11
   - win10
@@ -81,18 +81,18 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 
  Corrupted system files may cause high CPU and disk usage with ntoskrnl.exe, but luckily, there are two built-in tools that can help to identify and repair such bad system files. The whole process could take some time, and we suggest you don’t run any other programs when doing the test. To run these tools:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3.1\. Scan corrupt files with System File Checker
 
  1) On your keyboard, press the**Windows** logo key and**R** at the same time. Type**cmd** and press**Ctrl+Shift+Enter** at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -105,10 +105,10 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3.2\. Run dism.exe
@@ -116,6 +116,13 @@ sfc /scannow
  1) On your keyboard, press the**Windows** logo key and**R** at the same time. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -148,24 +155,24 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to the following location: `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\TimeBroker`  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker.png)
 4. On the right side, double-click**Start** , and change its value to**4** .  
-![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker-4.png)
-5. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker-4.png)
+5. Restart your computer for the changes to take effect.
 
 See if the ntoskrnl.exe high CPU or disk usage problem remains.
 
@@ -184,16 +191,16 @@ See if the ntoskrnl.exe high CPU or disk usage problem remains.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-debating-the-need-for-itop-screencasting/"><u>[Updated] 2024 Approved Debating the Need for ITop Screencasting</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-tomorrows-insight-rethinking-choices/"><u>[Updated] In 2024, Tomorrow's Insight Rethinking Choices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-anime-and-cartoon-masterpieces-of-now-and-everlasting-favorites/"><u>Best Anime and Cartoon Masterpieces of Now and Everlasting Favorites</u></a></li>
-<li><a href="https://common-error.techidaily.com/end-the-runtime-broker-cpu-crunch-on-windows-11-with-these-proven-fixes-get-started-now/"><u>End the Runtime Broker CPU Crunch on Windows 11 with These Proven Fixes – Get Started Now!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/flying-high-a-compreenasol-guide-to-cutting-edge-drone-editing/"><u>Flying High A Compreenasol Guide to Cutting-Edge Drone Editing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-from-ordinary-to-outstanding-mastering-instagram-editing-skills/"><u>In 2024, From Ordinary to Outstanding Mastering Instagram Editing Skills</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gear-vr-and-mobile-devices-the-2023-compatibility-guide/"><u>In 2024, Gear VR and Mobile Devices The 2023 Compatibility Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-d3derr-not-available-errors-on-your-windows-pc-step-by-step-guide/"><u>Resolving D3DERR Not Available Errors on Your Windows PC – Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-problem-no-download-from-steam-updates/"><u>Resolving the Problem: No Download From Steam Updates</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-preserving-video-quality-while-converting-from-hevc-to-mp4/"><u>Step-by-Step Guide: Preserving Video Quality While Converting From HEVC to MP4</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-remote-procedure-call-failed-solved/"><u>The Remote Procedure Call Failed [Solved]</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-boosting-efficiency-creating-speed-driven-google-collages/"><u>2024 Approved Boosting Efficiency Creating Speed-Driven Google Collages</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-redmi-k70-pro-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi Redmi K70 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/the-borders-enhancing-your-videos-appeal-on-yt-for-2024/"><u>Blur the Borders Enhancing Your Video's Appeal on YT for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/fb-video-downloader-extraordinaire-mp4-transformation-for-2024/"><u>FB Video Downloader Extraordinaire - MP4 Transformation for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-your-windows-11-computer-from-randomly-powering-on-by-itself/"><u>How to Stop Your Windows 11 Computer From Randomly Powering On by Itself</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-burning-videos-to-dvds-on-windows-and-mac-os/"><u>New 2024 Approved The Ultimate Guide to Burning Videos to DVDs on Windows and Mac OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-windows-11-how-to-fix-insufficient-memory-warnings/"><u>Optimizing Windows 11 - How to Fix Insufficient Memory Warnings</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-ps4-remote-solutions-for-power-charging-issues/"><u>Revive Your PS4 Remote - Solutions for Power-Charging Issues</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/top-rated-green-screen-software-for-mobile-devices-free-download-for-2024/"><u>Top-Rated Green Screen Software for Mobile Devices Free Download for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-easy-errors-with-apex-legends-anti-cheat-system/"><u>Troubleshooting Easy Errors with Apex Legends Anti-Cheat System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-crypto-success-leverage-these-5-chatgpt-hacks-for-trading-triumphs/"><u>Unlocking Crypto Success: Leverage These 5 ChatGPT Hacks for Trading Triumphs</u></a></li>
 </ul></div>
 

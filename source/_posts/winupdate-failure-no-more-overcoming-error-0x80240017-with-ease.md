@@ -1,7 +1,7 @@
 ---
 title: WinUpdate Failure No More! Overcoming Error 0X80240017 with Ease
-date: 2024-09-09T16:05:46.613Z
-updated: 2024-09-15T16:08:19.684Z
+date: 2024-09-15T19:12:52.221Z
+updated: 2024-09-20T18:36:24.091Z
 tags:
   - win11
   - win10
@@ -116,16 +116,22 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
@@ -141,24 +147,18 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
 
  And name the new key**A** **U** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
@@ -167,10 +167,10 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
@@ -194,16 +194,14 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-accelerated-learning-for-background-deletion-using-affinitys-toolkit/"><u>[New] Accelerated Learning for Background Deletion Using Affinity's Toolkit</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-digital-diary-top-picks-for-personal-video-devices/"><u>[New] Digital Diary Top Picks for Personal Video Devices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-optimizing-presentations-through-skilled-use-of-aiseesoft-recorder/"><u>[New] Optimizing Presentations Through Skilled Use of Aiseesoft Recorder</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-subtle-music-level-decrease-for-pcmac-users/"><u>[Updated] Subtle Music Level Decrease for PC/Mac Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-identifying-and-fixing-common-problems-in-pebble-bluetooth-speakers/"><u>Expert Advice: Identifying & Fixing Common Problems in Pebble Bluetooth Speakers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/t-reviews-best-game-capture-apps-for-2024/"><u>Expert Reviews Best Game Capture Apps for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-the-module-cannot-be-located-issue-effective-strategies-for-developers/"><u>Fix the ‘Module Cannot Be Located’ Issue - Effective Strategies for Developers</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-usb-connections-repairing-unknown-device-and-port-reset-issues-in-windows-10-systems/"><u>Mastering USB Connections: Repairing Unknown Device and Port Reset Issues in Windows 10 Systems</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-avs-video-editor-review-a-beginners-guide/"><u>New In 2024, The Ultimate AVS Video Editor Review A Beginners Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/oddworld-soulstorm-troubleshooting-and-solving-pc-game-freezes/"><u>Oddworld: Soulstorm - Troubleshooting and Solving PC Game Freezes</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-taskbar-not-hiding-solved/"><u>Windows 11 Taskbar Not Hiding [Solved]</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-masking-methods-for-confidential-recordings-for-2024/"><u>[New] Masking Methods for Confidential Recordings for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-professional-insights-on-selecting-top-vhs-artistic-upgrades/"><u>2024 Approved Professional Insights on Selecting Top VHS Artistic Upgrades</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-error-message-what-to-do-when-binkw32dll-is-missing/"><u>Fixing the Error Message: What to Do When BinkW32.DLL Is Missing</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209952046-how-to-fix-the-user-profile-service-service-failed-the-sign-in-error-windows-1011/"><u>How to Fix The User Profile Service Service Failed the Sign-In Error Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/microsoft-store-access-trouble-heres-what-worked/"><u>Microsoft Store Access Trouble? Here’s What Worked</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-non-responsive-huion-pen-with-this-5-step-quick-guide/"><u>Revive Your Non-Responsive Huion Pen with This 5-Step Quick Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionize-with-a-stroke-premier-tablet-draw-tools/"><u>Revolutionize with a Stroke Premier Tablet Draw Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo Y17s | Dr.fone</u></a></li>
 </ul></div>
 

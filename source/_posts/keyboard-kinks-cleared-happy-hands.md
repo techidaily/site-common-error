@@ -1,7 +1,7 @@
 ---
 title: Keyboard Kinks Cleared - Happy Hands
-date: 2024-09-08T16:09:20.436Z
-updated: 2024-09-15T16:02:07.139Z
+date: 2024-09-13T16:35:51.819Z
+updated: 2024-09-20T17:22:38.678Z
 tags:
   - win11
   - win10
@@ -66,10 +66,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Update and configure the iCUE software
@@ -81,18 +81,25 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 1. Open iCUE and click the**Settings** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/icue-setting.jpg)  
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -116,17 +123,21 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-understanding-split-screen-techniques-in-facebook-lives/"><u>[New] 2024 Approved Understanding Split Screen Techniques in Facebook Lives</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-diverse-bites-foodies-top-international-menu-picks-for-2024/"><u>[New] Diverse Bites Foodies' Top International Menu Picks for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-metaverse-joke-ology-building-your-own-hilarious-memes/"><u>[Updated] 2024 Approved Metaverse Joke-Ology Building Your Own Hilarious Memes</u></a></li>
-<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-ways-to-correctly-address-minecrafts-error-5-issue/"><u>Effective Ways to Correctly Address Minecraft's Error 5 Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-the-module-cannot-be-located-issue-effective-strategies-for-developers/"><u>Fix the ‘Module Cannot Be Located’ Issue - Effective Strategies for Developers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-infinix-zero-5g-2023-turbo-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Infinix Zero 5G 2023 Turbo To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-usb-connections-repairing-unknown-device-and-port-reset-issues-in-windows-10-systems/"><u>Mastering USB Connections: Repairing Unknown Device and Port Reset Issues in Windows 10 Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-d3dx925dll-missing-file-issue/"><u>Solutions for Resolving d3dx9_25.dll Missing File Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-taskbar-not-hiding-solved/"><u>Windows 11 Taskbar Not Hiding [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/camera-troubles-behind-you-expert-tips-to-rectify-windows-error-0xa00f4292-and-resume-photography/"><u>[Camera Troubles Behind You]: Expert Tips to Rectify Windows Error 0xA00F4292 and Resume Photography!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-accelerate-how-to-swiftly-broadcast-playlists/"><u>[Updated] Accelerate How To Swiftly Broadcast Playlists</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-enhancing-ppts-with-auditory-content/"><u>[Updated] Expert Tips for Enhancing PPTs with Auditory Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-comprehensive-io-recorder-explained-for-users/"><u>2024 Approved Comprehensive IO Recorder Explained for Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-to-your-volume-is-dirty-problem-error-code-0x80071ac3/"><u>Comprehensive Fixes to Your 'Volume Is Dirty' Problem (Error Code 0X80071AC3)</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fix-for-unity-initialization-graphics-glitch-beginner-friendly-tips/"><u>Effortless Fix for Unity Initialization Graphics Glitch - Beginner-Friendly Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-complications-with-the-windows-1903-os-update/"><u>How to Overcome Complications with the Windows 1903 OS Update</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-ultimate-iphone-playlist-podcast-tips/"><u>In 2024, The Ultimate iPhone Playlist Podcast Tips</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/organizing-video-content-with-vimeo-chapters/"><u>Organizing Video Content with Vimeo Chapters</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reversed-cominterface-error-on-windows-os/"><u>Reversed: COMInterface Error on Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-age-of-empires-iii-boot-issue-with-these-proven-fixes-for-initialization-failures/"><u>Solve Your Age of Empires III Boot Issue with These Proven Fixes for Initialization Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-overcome-apexs-anti-cheat-issues/"><u>Step-by-Step Solution to Overcome Apex's Anti-Cheat Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-fundamentals-of-exceptional-interviewing/"><u>The Fundamentals of Exceptional Interviewing</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-astro-a40-microphone-issues-quick-fixes-and-solutions/"><u>Troubleshoot Your Astro A40 Microphone Issues: Quick Fixes & Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-prevent-frostpunk-from-freezing-on-your-pc/"><u>Ultimate Guide to Prevent Frostpunk From Freezing on Your PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-honor-x9b-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Honor X9b? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

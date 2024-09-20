@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Repairing Your Stuck Shift Key - Tips & Solutions
-date: 2024-09-08T16:02:12.660Z
-updated: 2024-09-15T16:04:21.442Z
+date: 2024-09-18T18:55:57.254Z
+updated: 2024-09-20T17:50:24.622Z
 tags:
   - win11
   - win10
@@ -67,10 +67,10 @@ It should have fixed the server issues in Destiny 2\. If not, don’t be upset. 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Use the Ethernet connection
@@ -81,21 +81,16 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0540f4ac.jpg)  
  You’ll need to repeat this step for any other connections that you’re not using.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Now your computer will only use the connection via WiFi. Restart the game and see if it works.
 Still no luck? Ok, there’s one more thing to try.
 
@@ -109,15 +104,16 @@ A missing or outdated network card driver will cause connection issues in your c
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b08c06924.jpg)
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
-4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
+4. Restart your computer to take effect.
 
 Open Destiny 2 and see the servers not available error has been removed.
 
@@ -143,16 +139,20 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-facebooks-premier-evolution-the-five-must-know-features/"><u>[New] Facebook's Premier Evolution The Five Must-Know Features</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-auditing-video-content-monetization-success-for-2024/"><u>[Updated] Auditing Video Content Monetization Success for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-bring-your-creative-windows-video-projects-online-via-vimeo/"><u>[Updated] Bring Your Creative Windows Video Projects Online via Vimeo</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/how-to-watch-facebook-videos-on-my-apple-tv-for-2024/"><u>How to Watch Facebook Videos on My Apple TV for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-kinemaster-a-comprehensive-guide-and-top-online-platforms/"><u>In 2024, Mastering KineMaster A Comprehensive Guide & Top Online Platforms</u></a></li>
-<li><a href="https://win-dash.techidaily.com/newest-rtx-2060-graphics-card-drivers-compatible-with-windows-11-10-8-and/"><u>Newest RTX 2060 Graphics Card Drivers: Compatible with Windows 11, 10, 8 &</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-how-to-troubleshoot-and-repair-your-overwatch-voice-communication-problems/"><u>Quick Fixes: How to Troubleshoot and Repair Your Overwatch Voice Communication Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-0x80244022-bug-comprehensive-guide-for-fixing-windows-update-issues/"><u>Solving the 0X80244022 Bug: Comprehensive Guide for Fixing Windows Update Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-upcoming-apple-audio-device-uncovered-projections-on-pricing-strategy-and-product-specs/"><u>The Upcoming Apple Audio Device Uncovered: Projections on Pricing Strategy & Product Specs</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-the-ce-34878-0-issue-on-your-playstation-4/"><u>Troubleshooting Guide: Resolving the CE-34878-0 Issue on Your PlayStation 4</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-inshot-adding-your-favorite-tunes/"><u>[New] 2024 Approved Mastering InShot Adding Your Favorite Tunes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-comprehensive-analysis-of-how-to-speed-up-audio-files-on-spotify-safely/"><u>[Updated] A Comprehensive Analysis of How to Speed Up Audio Files on Spotify Safely</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-premier-pro-ultimate-2023-template-giveaway/"><u>[Updated] In 2024, Premier Pro Ultimate 2023 Template Giveaway</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-optimizing-colors-in-films-via-luts/"><u>[Updated] Optimizing Colors in Films via Luts</u></a></li>
+<li><a href="https://common-error.techidaily.com/guidelines-for-securing-trustware-trustedinstaller-approval-for-file-modification/"><u>Guidelines for Securing TrustWare TrustedInstaller Approval for File Modification</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-fatal-error-1603-and-complete-software-installation-successfully/"><u>How to Resolve 'Fatal Error 1603' & Complete Software Installation Successfully</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-y17s-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo Y17s Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/local-authority-security-patched-successfully-learn-more-inside/"><u>Local Authority Security Patched Successfully - Learn More Inside</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macx-free-m2tsavimov/"><u>MacX Freeの魅力: M2TSフォーマットをAVIやMOVに自由に変換できる無料ソフト🖥️✨</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-rpc-server-unavailable-error-code-0xc0000098-in-windows-a-step-by-step-guide/"><u>Solving the RPC Server Unavailable (Error Code 0xC0000098) in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sonys-nw-ws623-examined-for-style-and-functionality/"><u>Sony's NW-WS623 Examined for Style and Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-network-adapter-failures-on-windows-117-pcs/"><u>Step-by-Step Guide: Resolving Network Adapter Failures on Windows 11/7 PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-transforming-dvd-content-into-mkvmp4avi-format-and-adding-personalized-subtitles/"><u>Step-by-Step Tutorial on Transforming DVD Content Into MKV/MP4/AVI Format and Adding Personalized Subtitles</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-correct-the-issue-of-failed-resets-in-windows-11-proven-methods-revealed/"><u>Troubleshoot and Correct the Issue of Failed Resets in Windows 11 – Proven Methods Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-fast-instant-solutions-for-detected-battery-errors/"><u>Troubleshoot Fast: Instant Solutions for Detected Battery Errors</u></a></li>
 </ul></div>
 

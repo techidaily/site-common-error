@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Glitch: What to Do When Your Windows Integrated Camera Won't Work Anymore"
-date: 2024-09-14T16:01:32.862Z
-updated: 2024-09-15T16:05:46.046Z
+date: 2024-09-17T18:59:21.595Z
+updated: 2024-09-20T17:25:03.986Z
 tags:
   - win11
   - win10
@@ -85,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/c169b3dacf2f59341958f21d25bf2991aa2ae1cda
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/router-pixabay.jpg)
 3. Test your internet connection by browsing any website. If the browsing speed is slow, try to use a wired connection instead of Wi-Fi.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. **Turn off** your VPN software if you are using any. Then run your Microsoft Windows 10 upgrade again.
 
  If the upgrade runs successfully, restart your computer and turn VPN software back on. If the network and VPN aren’t accountable for the upgrade error, continue to have another try.
@@ -104,21 +97,36 @@ thumbnail: https://thmb.techidaily.com/c169b3dacf2f59341958f21d25bf2991aa2ae1cda
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-5.jpg)
 2. Check any box related to**.NET Framework** and click**OK** to save the change.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-6.jpg)
 3. A pop-up Window appears and choose**Let Windows Update download the files for you** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-17.jpg)
 4. Windows will download the required files and install those features for you.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-18.jpg)
 5. Reboot your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After rebooting, try to run the upgrade again to see if error 0x800f0922 disappears. If not, try the next trick.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5 Turn off firewall
 
@@ -154,19 +162,6 @@ To use Fortect to repair your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. Once finished, Fortect will generate a detailed report of your computer health, which includes all issues detected.
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. To automatically fix all the issues, click**Start Repair** (You’ll need to pay for the full version. It comes with a 60-day money-back guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -179,6 +174,14 @@ Restart your computer for the changes to take effect.
 1. Type**cmd** in the search box and click**Run as administrator** to launch Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/cmd.jpg)
 2. Type**sfc /scannow** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-14.jpg)
 3. The scan can take up to 15 minutes, so wait patiently and check if the problem is still there after the scan.
 
@@ -187,19 +190,6 @@ Restart your computer for the changes to take effect.
 1. Type**cmd** in the search box and click**Run as administrator** to launch Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/cmd.jpg)
 2. Copy and paste**DISM /Online /Cleanup-Image /RestoreHealth** and hit**Enter** .  
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-15.jpg)
 3. Type**sfc /scannow** and press**Enter** .  
@@ -218,13 +208,6 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-10.jpg)
 2. Select**Virus & threat protection** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-12.jpg)
 3. Click**Scan options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-13.jpg)
@@ -234,6 +217,19 @@ Restart your computer for the changes to take effect.
  The scan will go through all the files on your computer and take a while to finish. After that, let this tool remove any threat on your computer and restart the machine. Then run Windows update again.
 
  If the error 0x800f0922 doesn’t go away, give a shot to the final one.
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 8 Reach out to an IT specialist
 
@@ -268,18 +264,20 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-error-orglwjgllwjglexception-pixel-format-not-accelerated/"><u>[Fixed] Error: org.lwjgl.LWJGLException: Pixel Format Not Accelerated</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-instagram-analysts-handbook-decoding-engagement-and-reach/"><u>[New] The Instagram Analyst's Handbook Decoding Engagement and Reach</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-unpacking-audafreewares-audio-retrieval-capabilities/"><u>[Updated] 2024 Approved Unpacking AudaFreeware's Audio Retrieval Capabilities</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/discovering-top-tier-language-mastery-with-mondly/"><u>Discovering Top-Tier Language Mastery with Mondly</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-solving-d3derrnotavailable-error-with-ease/"><u>Expert Advice on Solving 'D3DERR_NOTAVAILABLE' Error with Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-stalled-or-halted-windows-11-update-process-guide/"><u>Fixing a Stalled or Halted Windows 11 Update Process - Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-freezing-or-crashing-windows-10-system/"><u>How to Fix a Freezing or Crashing Windows 10 System</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-13-pro-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your Apple iPhone 13 Pro?</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-manually-shutting-down-unresponsive-pcs-on-windows-10-solved/"><u>Mastering The Art Of Manually Shutting Down Unresponsive PCs on Windows 10 [SOLVED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-fix-error-1-section-1-problem-advanced-pulse-modulation-techniques/"><u>Mastering the Fix: Error 1 # Section 1: Problem - Advanced Pulse Modulation Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/optimizing-space-setting-up-a-vr-capable-area-for-2024/"><u>Optimizing Space Setting Up a VR-Capable Area for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-to-download-and-set-up-your-epson-et-4550-driver-for-windows-users/"><u>Step-by-Step Instructions to Download and Set Up Your Epson ET-4550 Driver for Windows Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44ow44o844oh44op44oz44ki44ox44oq44gn6lk844kk5luy44gr44kj44km44gq44ge44ot44oh44kq44ks54m55yil44gq44kc44gu44gr5asj44gi44kl44k544og44od44ox/"><u>ブーメランアプリで貼り付けられないビデオを特別なものに変えるステップ</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-enhanced-audio-playback-acceleration-tools-list/"><u>[New] In 2024, Enhanced Audio Playback Acceleration Tools List</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-elite-game-line-up-best-7-fps-classics/"><u>[Updated] 2024 Approved Elite Game Line-Up Best 7 FPS Classics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-how-to-screen-record-on-xiaomi-11t-mi-11mi-11-lite/"><u>[Updated] 2024 Approved How to Screen Record on Xiaomi 11T/ Mi 11/Mi 11 Lite</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-androidiphone-top-10-vr-gaming-picks-for-2024/"><u>[Updated] Android/iPhone Top 10 VR Gaming Picks for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-chucklecraft-sign-up-now-and-laugh-later/"><u>[Updated] In 2024, ChuckleCraft Sign Up Now & Laugh Later</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-master-your-sketches-with-the-ultimate-mac-apps/"><u>2024 Approved Master Your Sketches with the Ultimate Mac Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/augmented-vulnerability-the-growing-ai-risk-factor/"><u>Augmented Vulnerability: The Growing AI Risk Factor</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-unsolvable-resolving-windows-1110-image-corruption-issues/"><u>Fixing the Unsolvable: Resolving Windows 11/10 Image Corruption Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-correcting-critical-errors-restoring-missing-operating-systems/"><u>Guide to Correcting Critical Errors: Restoring Missing Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-high-cpu-load-caused-by-wudfhost-in-windows-11-environments/"><u>Optimizing High CPU Load Caused by WUDFHost in Windows 11 Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-fast-instant-solutions-for-detected-battery-errors/"><u>Troubleshoot Fast: Instant Solutions for Detected Battery Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-power-problems-in-windows-11-systems/"><u>Troubleshooting Persistent Power Problems in Windows 11 Systems</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/troubleshooting-tips-eliminate-stutter-and-lag-in-fall-guys-pc-version/"><u>Troubleshooting Tips: Eliminate Stutter and Lag in Fall Guys PC Version</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-repair-steps-for-malfunctioning-dell-laptop-keys/"><u>Troubleshooting: Repair Steps for Malfunctioning Dell Laptop Keys</u></a></li>
+<li><a href="https://common-error.techidaily.com/unfreezing-a-stuck-windows-update-on-legacy-systems-updated-guide-with-expert-advice-for-users-seeking-help-this-year-helpful-tips-and-guides/"><u>Unfreezing a Stuck Windows Update on Legacy Systems – Updated Guide with Expert Advice for Users Seeking Help This Year! (Helpful Tips and Guides.)</u></a></li>
 </ul></div>
 

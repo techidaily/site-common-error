@@ -1,7 +1,7 @@
 ---
 title: Speeding Up Your LoL Downloads - Effective Solutions and Tips
-date: 2024-09-11T16:13:10.079Z
-updated: 2024-09-15T16:06:50.122Z
+date: 2024-09-14T18:34:06.195Z
+updated: 2024-09-20T17:27:45.548Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ If all your USB ports aren’t working, try Step 2, below.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3: Check your power management settings
 
  It’s also possible that Windows switches off your USB controllers when they’re not in use to save power, and “forgets” to switch them on when they’re needed. You can take these steps to have a check:
@@ -60,34 +67,28 @@ If all your USB ports aren’t working, try Step 2, below.
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
-7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
+7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
 
 8. Check if your USB port works properly now. If not, try Step 4, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 4: Update your USB driver
@@ -132,20 +133,14 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-examining-splitcam-top-video-recorder-in-2024/"><u>[New] Examining SplitCam Top Video Recorder, In 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-how-to-save-or-record-periscope-videos-complete-guide/"><u>2024 Approved How to Save or Record Periscope Videos Complete Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-insider-guide-elevating-your-instagram-imagery/"><u>2024 Approved The Insider Guide Elevating Your Instagram Imagery</u></a></li>
-<li><a href="https://games-able.techidaily.com/8-revolutionary-features-of-edge-for-gamers/"><u>8 Revolutionary Features of Edge for Gamers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-compreenas-guide-to-leveraging-ps-background-erasure-for-professional-results-for-2024/"><u>A Compreenas Guide to Leveraging PS Background Erasure for Professional Results for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/continuous-learning-via-chatgpt-for-all/"><u>Continuous Learning via ChatGPT for All</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminate-your-worries-6-powerful-remedies-for-werfaultexe-issues-on-windows/"><u>Eliminate Your Worries: 6 Powerful Remedies for werFault.exe Issues on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/explorerexe-stabilized-on-win-oses/"><u>Explorer.exe Stabilized on Win OSes</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-get-back-those-missing-windows-on-your-desktop-screen/"><u>How To Get Back Those Missing Windows On Your Desktop Screen</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-a05-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Samsung Galaxy A05 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-trendsetting-sky-docks-for-android-users/"><u>In 2024, Trendsetting Sky Docks for Android Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-challenges-with-starting-a-hosted-network-on-windows-10-solved/"><u>Overcoming Challenges with Starting a Hosted Network on Windows 10 (Solved)</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-windows-11-installation-issue-fix-error-code-80240020/"><u>Solving Windows 11 Installation Issue: Fix Error Code 80240020</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-stubborn-file-explorer-hitches-on-windows-10-effective-strategies-and-solutions/"><u>Winning the Battle Against Stubborn File Explorer Hitches on Windows 10: Effective Strategies and Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-call-of-duty-ww2-error-code-4220/"><u>[FIXED] Call of Duty WW2 Error Code 4220</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-macos-slideshow-creator-unite-images-and-videos/"><u>2024 Approved MacOS SlideShow Creator Unite Images & Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-seamless-username-switching-in-google-meet-settings/"><u>2024 Approved Seamless Username Switching in Google Meet Settings</u></a></li>
+<li><a href="https://common-error.techidaily.com/best-practices-to-handle-competing-demands-on-system-infrastructure/"><u>Best Practices to Handle Competing Demands on System Infrastructure</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nokia-130-music-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-steam-servers-not-reachable-error-and-enjoy-gaming-again/"><u>How to Fix 'Steam Servers Not Reachable' Error and Enjoy Gaming Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210744015-how-to-resolve-persistent-cursor-blink-a-detailed-tutorial/"><u>How To Resolve Persistent Cursor Blink - A Detailed Tutorial</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-vivo-t2-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Vivo T2 5G Unlock Without Password</u></a></li>
+<li><a href="https://techidaily.com/sony-xperia-5-v-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Sony Xperia 5 V won’t play HEVC H.265 media, how to fix? </u></a></li>
 </ul></div>
 

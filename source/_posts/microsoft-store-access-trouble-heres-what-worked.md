@@ -1,7 +1,7 @@
 ---
 title: Microsoft Store Access Trouble? Here’s What Worked
-date: 2024-09-12T16:10:58.823Z
-updated: 2024-09-15T16:04:55.861Z
+date: 2024-09-15T16:58:25.700Z
+updated: 2024-09-20T19:35:37.647Z
 tags:
   - win11
   - win10
@@ -73,16 +73,10 @@ To do so:
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
@@ -91,24 +85,25 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
@@ -161,18 +156,17 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-ultimate-how-to-subtitling-your-igtv-videos/"><u>2024 Approved The Ultimate How-To Subtitling Your IGTV Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/a-melodic-guide-navigating-copyright-with-instagram-for-2024/"><u>A Melodic Guide Navigating Copyright with Instagram for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digiarty-software-inc-macxdvd/"><u>Digiarty Software, Inc. MacXDVDソフトウェアの返金ガイドラインをご紹介します</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discover-chromebooks-premier-web-based-speech-alteration-tools/"><u>Discover Chromebook’s Premier Web-Based Speech Alteration Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-pitch-black-a-comprehensive-approach-to-dell-laptop-screen-problems/"><u>Fixing the Pitch Black: A Comprehensive Approach to Dell Laptop Screen Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722997059289-ghost-recon-breakpoint-no-more-crashes-fast-fix-guide/"><u>Ghost Recon Breakpoint No More Crashes - Fast Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-audio-functionality-when-windows-1n-detects-no-output-device-installed/"><u>How to Restore Audio Functionality When Windows 1N Detects No Output Device Installed</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-lava-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Lava Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-sound-blaster-z-driver-installation-on-windows-10-easy-and-reliable-methods/"><u>Secure Sound Blaster Z Driver Installation on Windows 10 - Easy and Reliable Methods</u></a></li>
-<li><a href="https://common-error.techidaily.com/speed-up-your-keys-effective-methods-to-fix-laggy-keyboard-performance/"><u>Speed Up Your Keys: Effective Methods to Fix Laggy Keyboard Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-6-solutions-for-resolving-werfaultexe-errors-in-windows/"><u>Top 6 Solutions for Resolving werFault.exe Errors in Windows</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-fixing-the-slow-playback-issues-in-davinci-resolve/"><u>Updated In 2024, Fixing The Slow Playback Issues in DaVinci Resolve</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212161589-win-11-volume-troubleshooting-guide-get-your-sounds-back-today/"><u>Win 11 Volume Troubleshooting Guide - Get Your Sounds Back Today</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlock-the-power-of-your-camera-with-snapchats-tools-for-2024/"><u>[Updated] Unlock the Power of Your Camera with Snapchat's Tools for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ace-titles-our-picks-for-the-very-best-adventurous-players/"><u>2024 Approved Ace Titles Our Picks for the Very Best Adventurous Players</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-introduction-to-moving-graphics-core-principles/"><u>2024 Approved Introduction to Moving Graphics Core Principles</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-mastering-quick-face-blurring-on-picscroller/"><u>2024 Approved Mastering Quick Face-Blurring on PicScroller</u></a></li>
+<li><a href="https://common-error.techidaily.com/explorer-down-restore-it-now/"><u>Explorer Down? Restore It Now!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-depth-viewer-tool-for-chilled-pleasures-for-2024/"><u>In-Depth Viewer Tool for Chilled Pleasures for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206484481-lenovo-pad-not-responding-get-it-up-and-running-on-your-pc-again/"><u>Lenovo Pad Not Responding? Get It Up & Running on Your PC Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-hang-ups-in-windows-11-for-smooth-operation/"><u>Overcoming Hang-Ups in Windows 11 for Smooth Operation</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-windows-11-microphone-challenges-a-comprehensive-fix-guide/"><u>Solve Your Windows 11 Microphone Challenges: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-ethernet-connection-problems-in-windows-11-and-7/"><u>Troubleshooting Ethernet Connection Problems in Windows 11 and 7</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-normalizdll-not-found-error-on-your-pc/"><u>Troubleshooting the 'Normaliz.dll Not Found' Error on Your PC</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unraveling-the-magic-of-time-extension-in-reels-for-2024/"><u>Unraveling the Magic of Time Extension in Reels for 2024</u></a></li>
 </ul></div>
 

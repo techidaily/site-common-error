@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Repair Steps for Malfunctioning Dell Laptop Keys"
-date: 2024-09-13T16:11:53.337Z
-updated: 2024-09-15T16:03:22.268Z
+date: 2024-09-16T17:10:06.058Z
+updated: 2024-09-20T18:48:28.503Z
 tags:
   - win11
   - win10
@@ -78,10 +78,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -103,10 +103,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -114,6 +114,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -135,13 +142,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -185,17 +185,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/a-thorough-insight-into-androids-lightroom-application/"><u>A Thorough Insight Into Android's Lightroom Application</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oneplus-ace-2v-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass OnePlus Ace 2V FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-ways-to-stop-windows-11-from-continuously-restarting/"><u>Effortless Ways to Stop Windows 11 From Continuously Restarting</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-your-film-edits-proficient-use-of-kinemaster-and-best-digital-options/"><u>Enhancing Your Film Edits Proficient Use of KineMaster & Best Digital Options</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-unresponsive-right-click-functionality-on-windows-11-systems/"><u>Fixing the Unresponsive Right Click Functionality on Windows 11 Systems</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-a78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/how-to-fix-obs-high-encoding-problem-for-2024/"><u>How To Fix OBS High Encoding Problem for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/machine-prediction-or-stardust-insights-for-the-future/"><u>Machine Prediction or Stardust Insights for the Future?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/magix-composition-wizard-an-audio-editing-experience-for-2024/"><u>Magix Composition Wizard An Audio Editing Experience for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-failure-during-resetting-your-pc-challenges-on-windows-11-solutions-applied/"><u>Overcoming 'Failure During Resetting Your PC' Challenges on Windows 11: Solutions Applied</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-motorola-moto-g-stylus-2023-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Motorola Moto G Stylus (2023) Android SIM Unlock APK</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-y17s-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo Y17s Device</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-insta-lives-guide-to-downloads-and-creative-techniques/"><u>[New] 2024 Approved Mastering Insta Lives Guide to Downloads & Creative Techniques</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-maximize-your-gaming-experience-with-kinemaster-and-its-top-competitors-reviewed/"><u>[New] 2024 Approved Maximize Your Gaming Experience with KineMaster and Its Top Competitors Reviewed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-transforming-unboxing-magic-7-ways/"><u>[New] Transforming Unboxing Magic 7 Ways</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-story-stream-sequencer-app/"><u>[Updated] In 2024, Story Stream Sequencer App</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/backtracking-visual-vectors-techniques-for-tracking-originals-in-instagram-posts/"><u>Backtracking Visual Vectors Techniques for Tracking Originals in Instagram Posts</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-logitech-keyboard-unrecognition-in-windows-11-a-step-by-step-guide/"><u>Fixing Logitech Keyboard Unrecognition in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-steam-dll-failure/"><u>Overcoming Steam DLL Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-how-to-repair-your-non-functioning-huion-drawing-tablet/"><u>Quick Solutions: How to Repair Your Non-Functioning Huion Drawing Tablet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-lava-blaze-2-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Lava Blaze 2 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-windows-code-28-device-driver-issue-a-step-by-step-guide/"><u>Resolving the Windows Code 28 Device Driver Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-wireless-woes-repair-steps-for-a-persistent-pc-and-bluetooth-keyboard-pairing-problem/"><u>Solving Wireless Woes: Repair Steps for a Persistent PC and Bluetooth Keyboard Pairing Problem</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/thinkers-arena-premier-gk-quiz-vids-for-2024/"><u>Thinkers’ Arena Premier GK Quiz Vids for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-combine-mov-files-for-free-5-excellent-options/"><u>Updated Combine MOV Files for Free 5 Excellent Options</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Clearing Cache Failures: How to Address Erroneous Caching (ERR_CACHE_MISS) Errors on Chrome"
-date: 2024-09-11T16:11:52.529Z
-updated: 2024-09-15T16:02:55.789Z
+date: 2024-09-17T19:05:07.566Z
+updated: 2024-09-20T17:21:10.981Z
 tags:
   - win11
   - win10
@@ -74,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 
  Go and check Windows Update again to see whether the issue persists or not. If the issue reappears, don’t worry, there are more fixes for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 3: Change the DNS server settings**
 
  If your Windows 7 gets stuck when it is checking for updates, this may be a network issue. You can try changing the DNS server in your PC to  the**Google Public DNS addresses** .  Google Public DNS provides you with   **a speed boost**  and   **an increased security.**  Here is how to do it:
@@ -91,25 +84,19 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap22-4.jpg)
 3. In the pop-up window, click **Change adapter settings**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap23-6.jpg)
 4. **Right-click**  your current network and then select **Properties**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap24-4.jpg)
 5. Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap25-6.jpg)
 6. Select **Obtain an IP address automatically**  and   **Use the following DNS server addresses** .  
    * **For the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ;  
@@ -117,7 +104,21 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap26-2.jpg)
 7. Restart your PC and try performing a Windows update.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See if the Windows 7 update stuck issue reappears. If not, you’ve fixed this annoying issue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 4: Run System File Checker**
 
@@ -133,6 +134,13 @@ sfc /scannow
 
  See if you can perform a Windows update or not. If not, you may need to download updates from **Microsoft Update Catalog**  manually to resolve this annoying problem.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 5: Download updates from Microsoft Update Catalog manually**
 
  If this annoying issue persists, try downloading the updates you failed to install from [**Microsoft Update Catalog**](http://www.catalog.update.microsoft.com/home.aspx)  and install them manually. Follow the instructions below to download updates from Microsoft Update Catalog manually:
@@ -143,10 +151,10 @@ sfc /scannow
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap32-3.jpg)  
@@ -157,13 +165,6 @@ sfc /scannow
    2. On the left panel, click**View update history**  to check the updates you failed to install. For example, if you fail to install update KB3006137, you can download the update and install it manually.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap34-4.jpg)
 3. Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Type the update number (KBxxxxxxx) that you failed to install before and then click **Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap40-1.jpg)
@@ -198,15 +199,19 @@ After installing these updates, this issue should be resolved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-become-a-facetime-pro-skype-call-basics-for-mobile-users/"><u>[New] 2024 Approved Become a Facetime Pro Skype Call Basics for Mobile Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/bring-back-windows-photo-viewer-a-1111-edition-guide/"><u>Bring Back Windows Photo Viewer: A 11/11 Edition Guide</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/convert-mov-files-to-mp4-free-online-tool-compatible-with-mac-and-windows-11/"><u>Convert MOV Files to MP4 Free Online Tool - Compatible with Mac and Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212143161-experience-uninterrupted-updates-on-windows-11-solve-error-code-0x800f0922-using-our-top-fixes/"><u>Experience Uninterrupted Updates on Windows 11: Solve ERROR CODE 0X800F0922 Using Our Top Fixes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-concept-to-reality-selecting-top-3d-animators-software/"><u>In 2024, From Concept to Reality Selecting Top 3D Animators' Software</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a78-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo A78 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-unlock-youtubes-power-for-free-educational-sessions/"><u>In 2024, Unlock YouTube's Power for FREE Educational Sessions</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-fixes-for-the-elusive-error-in-windows-installer-services/"><u>Mastering Fixes for the Elusive Error in Windows Installer Services</u></a></li>
-<li><a href="https://common-error.techidaily.com/tips-to-combat-high-resource-drain-caused-by-wudfhostexe-on-windows-10-systems/"><u>Tips to Combat High Resource Drain Caused by WUDFHost.exe on Windows 10 Systems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-fastest-time-lapse-capturing-system-5/"><u>[New] 2024 Approved Fastest Time-Lapse Capturing System #5</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-complete-encyclopedia-of-tweetresponses/"><u>[New] 2024 Approved The Complete Encyclopedia of TweetResponses</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-pro-rated-apple-compreran-of-the-best-screen-recorders/"><u>[New] In 2024, Pro-Rated Apple Compreran of the Best Screen Recorders</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-exclusive-selection-of-the-top-4k-capture-apps/"><u>[Updated] Exclusive Selection of the Top 4K Capture Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-optimal-size-strategy-for-click-driven-titles/"><u>[Updated] Optimal Size Strategy for Click-Driven Titles</u></a></li>
+<li><a href="https://common-error.techidaily.com/critical-update-for-ftdi-systems-avoid-compatibility-errors-and-preserve-memory-integrity/"><u>Critical Update for FTDI Systems: Avoid Compatibility Errors and Preserve Memory Integrity.</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-when-your-print-key-fails-on-windows-11-and-windows-10-devices/"><u>Effective Fixes When Your Print Key Fails on Windows 11 and Windows 10 Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/exclusive-offer-free-copy-of-winx-dvd-to-ipad-ripper-with-new-ipad-air-2-release-premium-software-for-movies-on-your-tablet/"><u>Exclusive Offer: Free Copy of 'WinX DVD to iPad Ripper' With New iPad Air 2 Release - Premium Software for Movies on Your Tablet!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-your-playstation-4s-microphone-functionality/"><u>Expert Tips for Restoring Your PlayStation 4'S Microphone Functionality</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-easy-steps-to-record-and-screen-capture-ios-2023/"><u>In 2024, Easy Steps to Record and Screen Capture [iOS, 2023]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/onscreen-text-craftsman-for-2024/"><u>Onscreen Text Craftsman for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimize-msmpengexe-for-better-performance-reduce-high-cpu-consumption-in-windows-11-solution-guide/"><u>Optimize MsMpEng.exe for Better Performance: Reduce High CPU Consumption in Windows 11 [SOLUTION GUIDE]</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-your-ps4-dualshock-controller-charging-issues/"><u>Resolved: Fixing Your PS4 Dualshock Controller Charging Issues</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-fixed-shorts-are-now-easily-accessible-for-2024/"><u>YouTube Fixed Shorts Are Now Easily Accessible for 2024</u></a></li>
 </ul></div>
 

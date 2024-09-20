@@ -1,7 +1,7 @@
 ---
 title: Top 5 Solutions for Reducing GPU Load by the Desktop Window Manager on Windows 10 and 11
-date: 2024-09-09T16:09:21.976Z
-updated: 2024-09-15T16:04:21.878Z
+date: 2024-09-15T17:08:38.018Z
+updated: 2024-09-20T17:41:23.808Z
 tags:
   - win11
   - win10
@@ -74,6 +74,13 @@ Now your print to PDF should work properly.
 
 ![open the Control Panel using the command](https://images.drivereasy.com/wp-content/uploads/2021/05/open-the-Control-Panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Make sure you set**Category** as your view-by. Then find**View devices and printers** . Click on it.
 
  3)Find and right-click on **Microsoft Print to PDF**  under Printers dialog on Devices and Printers window. Then click **Set as default printer** .
@@ -93,6 +100,13 @@ Now your print to PDF should work properly.
  3) Scroll down and click**Printers & scanners** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-1200x827.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Find**Microsoft Print to PDF** and click on it.
 
@@ -145,13 +159,6 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  10) Click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/15.jpg)
@@ -166,10 +173,10 @@ Now your print to PDF should work properly.
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure you set **Category**  as your view-by. Then find **View devices and printers** . Click on it.
@@ -181,10 +188,10 @@ Now your print to PDF should work properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-1200x827.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Find **Microsoft Print to PDF** and click on it.
@@ -196,10 +203,10 @@ Now your print to PDF should work properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Microsoft-Print-to-PDF-Remove-1200x801.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Back to the Printers & scanners window, you should see the button**Add device** .
@@ -217,13 +224,6 @@ Now your print to PDF should work properly.
  9) Select**PORTPROMPT: (Local Port)** from the drop-down list, then click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-PORTPROMPT-Local-Port.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  10) From the left column, select**Microsoft** . From the right column, select**Microsoft Print To PDF** . Then click**Next** .
 
@@ -252,21 +252,21 @@ Now your print to PDF should work properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-cutting-corners-on-creative-work-lunapic-basics/"><u>[New] In 2024, Cutting Corners on Creative Work LunaPic Basics</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-deep-dive-into-benq-sw320s-4k-visuals/"><u>[New] In 2024, Deep Dive Into BenQ SW320's 4K Visuals</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-slick-facebook-downloaders-top-8-free-and-easy-online-accessories/"><u>[New] In 2024, Slick Facebook Downloaders Top 8 Free & Easy Online Accessories</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-avatar-asymmetry-artistry-sketching-distorted-images-for-2024/"><u>[Updated] Avatar Asymmetry Artistry Sketching Distorted Images for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/banish-irritating-pop-ups-and-cracks-in-your-speaker-with-these-solutions-for-windows-11-or-7/"><u>Banish Irritating Pop-Ups and Cracks in Your Speaker with These Solutions for Windows 11 or 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/conquering-monster-hunters-stealthy-foes-eradicating-the-dark-screen-malfunction-when-initiating-gameplay/"><u>Conquering Monster Hunter's Stealthy Foes: Eradicating the Dark Screen Malfunction When Initiating Gameplay</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-netflix-error-ui-800-3-step-by-step-troubleshooting-tips/"><u>Decoding Netflix Error UI-800-3 - Step by Step Troubleshooting Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-drivers-for-hp-officejet-4500-to-enhance-your-printer-performance/"><u>Download Updated Drivers for HP Officejet 4500 to Enhance Your Printer Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-slow-typing-on-pc-a-step-by-step-manual/"><u>Fixing Slow Typing on PC: A Step-by-Step Manual</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-speed-with-top-pc-monitor-controls/"><u>In 2024, Maximizing Speed with Top PC Monitor Controls</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-bluetooth-connectivity-issues-in-windows-10/"><u>Resolved: Troubleshooting Bluetooth Connectivity Issues in Windows 10</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-the-problem-of-non-functional-windows-spotlight-images-on-windows-11/"><u>Solving the Problem of Non-Functional Windows Spotlight Images on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-activate-wi-fi-on-any-gadget/"><u>Troubleshooting Guide: How to Activate Wi-Fi on Any Gadget</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-this-os-is-unsupported-error-when-setting-up-software/"><u>Troubleshooting Steps for 'This OS Is Unsupported Error' When Setting Up Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-solve-driver-caused-restart-problems-on-your-pc/"><u>Troubleshooting Tips: Solve Driver-Caused Restart Problems on Your PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-core-ideas-behind-mixed-reality/"><u>[New] The Core Ideas Behind Mixed Reality</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-100-disk-usage-in-windows-11/"><u>[SOLVED] 100% Disk Usage in Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-most-effective-ways-to-log-youtube-live-events/"><u>[Updated] In 2024, Most Effective Ways to Log YouTube Live Events</u></a></li>
+<li><a href="https://common-error.techidaily.com/bring-back-the-missing-cursor-fixes-for-windows-11-touchpad-malfunctions/"><u>Bring Back the Missing Cursor: Fixes for Windows 11 Touchpad Malfunctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-overactive-cpu-by-wudfhostexe-a-guide-for-windows-11-users/"><u>Dealing with Overactive CPU by WUDFHost.exe: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/guide-to-overcome-lag-and-hang-ups-in-minecraft-for-desktop-players/"><u>Guide to Overcome Lag and Hang-Ups in Minecraft for Desktop Players</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-updatefailed-message-on-windows-10-solving-error-code-0x80240034/"><u>How to Fix the 'Update_Failed' Message on Windows 10: Solving Error Code 0X80240034</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-warframe-from-continuously-stalling/"><u>How to Stop Warframe From Continuously Stalling</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-y02t-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo Y02T FRP?</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-boost-sales-with-live-shopping-learn-winning-strategies-from-top-brands/"><u>New 2024 Approved Boost Sales with Live Shopping Learn Winning Strategies From Top Brands</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-non-responsive-screen-brightness-settings-in-windows-11/"><u>Resolving Non-Responsive Screen Brightness Settings in Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/strategies-for-effective-youtube-comment-engagement-for-2024/"><u>Strategies for Effective YouTube Comment Engagement for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206834037-troubleshoot-and-repair-unresponsive-key-caps-on-hp-computers-fast/"><u>Troubleshoot & Repair Unresponsive Key Caps on HP Computers - Fast!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-stereo-sound-issues-how-to-restore-your-audio-channel/"><u>Troubleshooting Stereo Sound Issues: How to Restore Your Audio Channel</u></a></li>
+<li><a href="https://common-error.techidaily.com/yac558-yamahaaturbosound-ii-sound-module-based-on-the-ymf794dymu793-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of-142/"><u>YAC558 - Yamaha'aturboSound II Sound Module Based on the YMF794D/YMU79^3 (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
 </ul></div>
 

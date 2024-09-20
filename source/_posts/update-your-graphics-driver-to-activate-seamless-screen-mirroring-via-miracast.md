@@ -1,7 +1,7 @@
 ---
 title: Update Your Graphics Driver to Activate Seamless Screen Mirroring via Miracast
-date: 2024-08-09T00:49:14.570Z
-updated: 2024-08-10T00:49:14.570Z
+date: 2024-09-16T17:00:19.077Z
+updated: 2024-09-20T16:56:10.193Z
 tags:
   - win11
   - win10
@@ -41,23 +41,14 @@ thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388
 
  2) Type **dxdiag** , then press **Enter**  on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/dxdiag-Run-box-1.jpg)
 
  3) In the DirectX Diagnostic Tool window, click**Save All Information…** at the bottom.  
   
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check if your Windows 10 PC supports Miracast](https://images.drivereasy.com/wp-content/uploads/2020/10/check-if-your-Windows-10-PC-supports-Miracast.jpg)
 
  4) When the**Save As** window appears, select**Desktop** so that it’s easy to find. Then click**Save** .  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![check-if-your-Windows-10-PC-supports-Miracast](https://images.drivereasy.com/wp-content/uploads/2020/10/check-if-your-Windows-10-PC-supports-Miracast-save-as.jpg)
 
  5) From your desktop, double-click on the**DxDiag** text file to open it.
@@ -72,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Check if WiFi is enabled on both devices
 
  Miracast is a WiFi standard. So to connect your computer to another device, you must use WiFi. Many users report that the reason they can’t use Miracast is that they were using Ethernet. After they switched to WiFi, they can connect their computer to other devices. Here’s how you can check if WiFi is enabled on your computer:
@@ -83,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388
 
  2) Type **ms-settings:network-wifi** , then press **Enter**  on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![check if WiFi is enabled on computer ](https://images.drivereasy.com/wp-content/uploads/2020/10/check-if-WiFi-is-eneabled-on-computer-step-1.jpg)
 
  3) Click on the toggle to activate WiFi if it’s deactivated.  
@@ -100,16 +85,10 @@ Now you can check if it works:
 
  1) In the Search box, type**projection** . Select**Projection settings** from the result.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![open projection settings](https://images.drivereasy.com/wp-content/uploads/2020/10/projection-settings-1.jpg)
 
  2) The error message should be gone.  
   
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![projecting to this PC](https://images.drivereasy.com/wp-content/uploads/2020/10/error-message-gone.jpg)
 
  If you still have the error message, don’t panic. There are a few other working fixes for you.
@@ -120,9 +99,6 @@ Now you can check if it works:
 
  If you have WiFi enabled but can’t really connect to WiFi and still see the error message, you should reinstall the wireless network adapter driver. There is a possibility that your wireless network adapter driver is out of date or corrupted, which would prevent you from connecting your PC to the Internet. If the wireless driver is the culprit, reinstalling it will get you back online in minutes. Here’s how you can do this:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  1) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **R**  at the same time to invoke the Run box.
 
  2) Type **devmgmt.msc** , then press **Enter**  on your keyboard.
@@ -131,10 +107,14 @@ Now you can check if it works:
 
  3) Expand**Network adapters** . Select your wireless network adapter driver, right-click on it and select**Uninstall device** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uninstalll wireless network adapter driver via Device Manager](https://images.drivereasy.com/wp-content/uploads/2020/10/reinstall-wireless-network-adapter-driver.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Restart your computer and Windows will reinstall the driver automatically. (Note: you need to connect to the network.)
 
@@ -142,16 +122,27 @@ Now you can check if it works:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Verify your network driver if it’s compatible
 
  To check if your network driver is compatible, you can follow the steps below:
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  1) Right-click on the Start menu.![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) Then select**Windows PowerShell (Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows-PowerShell-Admin.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click**Yes** when a prompt appears asking for the right.
 
@@ -165,9 +156,6 @@ Get-netadapter|select Name, ndisversion
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Update your network drivers
 
  If your network drivers are outdated or faulty, you will encounter connectivity issues. So to fix it, you need to check for updates.
@@ -178,10 +166,20 @@ Get-netadapter|select Name, ndisversion
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any problem drivers** . (Any problem drivers can cause issues. So we recommend checking for drivers updates on a regular basis.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-drivers-scan-now.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to your wireless network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -203,18 +201,18 @@ Get-netadapter|select Name, ndisversion
 
  2) Type **devmgmt.msc** , then press **Enter**  on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/open-device-manger.jpg)
 
  3) Expand**Network adapters** . Select your wireless network adapter driver, right-click on it, and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/set-auto-for-Wireless-Mode-Selection.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Select the tab**Advanced** . Set the**Value** to**Auto** . Then click**OK** .  
   
@@ -224,9 +222,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7: Disable third-party VPN
 
  If you have any third-party VPN software such as Cisco AnyConnect running on your PC, they might be in conflict with you utilizing Miracast mirroring. So to fix it, you should disable them.
@@ -243,11 +238,29 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-best-in-class-android-storage-in-the-cloud/"><u>[Updated] Best-in-Class Android Storage in the Cloud</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-present-trends-in-drone-technology-for-the-future/"><u>[Updated] Present Trends in Drone Technology for the Future</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-decoding-dynamic-range-with-an-insight-into-luminance/"><u>2024 Approved Decoding Dynamic Range with an Insight Into Luminance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-apps-for-perfectly-altered-videos-on-ios-and-desktop/"><u>2024 Approved Premium Apps for Perfectly Altered Videos on iOS & Desktop</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/best-file-management-apps-on-ios-17-top-picks-for-iphone-and-ipad/"><u>Best File Management Apps on iOS 17: Top Picks for iPhone and iPad</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-accessing-downloads-of-user-guides-for-all-iphone-models/"><u>Comprehensive Guide: Accessing Downloads of User Guides for All iPhone Models</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-on-the-garmin-forerunner-45-why-its-a-game-changer-for-runners/"><u>Expert Insights on the Garmin Forerunner 45 - Why It's a Game-Changer for Runners</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-fatal-error-1603-and-complete-software-installation-successfully/"><u>How to Resolve 'Fatal Error 1603' & Complete Software Installation Successfully</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-stream-on-youtube-and-twitch-with-obs-for-2024/"><u>How to Stream on YouTube & Twitch with OBS for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/local-authority-security-patched-successfully-learn-more-inside/"><u>Local Authority Security Patched Successfully - Learn More Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-geforce-experience-launch-problem-a-complete-guide/"><u>Resolving the GeForce Experience Launch Problem - A Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-rpc-server-unavailable-error-code-0xc0000098-in-windows-a-step-by-step-guide/"><u>Solving the RPC Server Unavailable (Error Code 0xC0000098) in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-network-adapter-failures-on-windows-117-pcs/"><u>Step-by-Step Guide: Resolving Network Adapter Failures on Windows 11/7 PCs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-portuguese-dialect-dichotomy-south-america-meets-europe/"><u>The Portuguese Dialect Dichotomy: South America Meets Europe</u></a></li>
+<li><a href="https://common-error.techidaily.com/yac598-yamahaaturbosound-ii-sound-module-based-on-the-ymf7a1cymu3x-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of-r103/"><u>YAC598 - Yamaha'aturboSound II Sound Module Based on the YMF7A1C/YMU^3X (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+</ul></div>
+

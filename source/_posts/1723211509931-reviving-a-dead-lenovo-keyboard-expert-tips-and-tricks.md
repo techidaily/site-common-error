@@ -1,7 +1,7 @@
 ---
 title: Reviving a Dead Lenovo Keyboard – Expert Tips & Tricks!
-date: 2024-09-10T16:00:05.039Z
-updated: 2024-09-15T16:07:43.803Z
+date: 2024-09-15T18:51:46.262Z
+updated: 2024-09-20T17:45:33.882Z
 tags:
   - win11
   - win10
@@ -61,16 +61,16 @@ Here’s how:
 
  If the above methods can’t fix this issue, you’d better contact AppleCare for help. The problem may be caused by a hardware issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## For Windows
 
  There are different PC using the Windows system. The reason for the keyboard backlight not working may be various, but there are some common reason and common fixes you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Common Method 1: Reboot your computer
 
@@ -120,10 +120,16 @@ Here’s how:
 5. Download and install the ATK driver manually.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Option 2 – Automatically update the ATK drivers**
@@ -140,17 +146,17 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the Update button next to your **ATK** driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/atk.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips for keyboard maintenance
 
@@ -181,16 +187,18 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-brush-up-your-youtube-videos-with-color-correction/"><u>[New] 2024 Approved Brush Up Your Youtube Videos with Color Correction</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-best-of-the-best-unlimited-recorders-top12-for-2024/"><u>[Updated] Best of the Best Unlimited Recorders, #Top12 for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-co-branded-content-on-youtube-platforms/"><u>[Updated] Crafting Co-Branded Content on YouTube Platforms</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-tutorial-triumphant-skyrocketing-your-youtube-presence/"><u>2024 Approved Tutorial Triumphant Skyrocketing Your YouTube Presence</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-14-pro-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 14 Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-fix-ethernet-problems-on-your-windows-11-or-windows-7-computer/"><u>How to Diagnose & Fix Ethernet Problems on Your Windows 11 or Windows 7 Computer</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-briefclip-artist/"><u>In 2024, BriefClip Artist</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-touch-control-on-your-laptop-or-desktop-essential-repair-tips-for-windows-11-enthusiasts/"><u>Mastering Touch Control on Your Laptop or Desktop - Essential Repair Tips for Windows 11 Enthusiasts</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-excessive-noise-in-playstation-4-consoles-tips-and-tricks/"><u>Resolving Excessive Noise in PlayStation 4 Consoles - Tips and Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-function-key-malfunction-on-your-dell-pc-a-step-by-step-guide/"><u>Solving the Function-Key Malfunction on Your Dell PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-restoring-right-click-functionality-in-windows-11-pcs/"><u>Step-by-Step Solution: Restoring Right-Click Functionality in Windows 11 PCs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unveiling-fake-followers-on-instagram-effortlessly/"><u>[New] 2024 Approved Unveiling Fake Followers on Instagram, Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-fix-minecraft-launching-issues-in-windows/"><u>[SOLVED] How to Fix Minecraft Launching Issues in Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-download-your-instagram-masterpieces-easily/"><u>[Updated] Download Your Instagram Masterpieces Easily</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-sync-your-device-pace-youtube-audio-control-guide/"><u>2024 Approved Sync Your Device Pace YouTube Audio Control Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/direct-access-to-the-latest-amd-radeon-r5-driver-download-for-various-windows-versions/"><u>Direct Access to the Latest AMD Radeon R5 Driver Download for Various Windows Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-connectivity-in-multiplayer-solving-minecraft-lan-problems/"><u>How to Restore Connectivity in Multiplayer: Solving Minecraft LAN Problems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/illuminating-path-to-stellar-android-video-quality-for-2024/"><u>Illuminating Path to Stellar Android Video Quality for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fast-forwarding-fundamentals-a-novices-guide-to-snapchat/"><u>In 2024, Fast Forwarding Fundamentals A Novice's Guide to Snapchat</u></a></li>
+<li><a href="https://common-error.techidaily.com/seamless-usb-tethering-setup-on-windows-10-made-simple/"><u>Seamless USB Tethering Setup on Windows 10 Made Simple</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-ethernet-network-malfunctions-on-windows-117-a-step-by-step-guide/"><u>Solving Ethernet Network Malfunctions on Windows 11/7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-perfect-setup-for-travel-storytelling/"><u>The Perfect Setup for Travel Storytelling</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-guide-on-how-to-enable-the-text-to-speech-function-on-iphone/"><u>Updated 2024 Approved Guide on How to Enable the Text to Speech Function on iPhone</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo V29e | Dr.fone</u></a></li>
 </ul></div>
 

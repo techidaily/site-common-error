@@ -1,7 +1,7 @@
 ---
 title: How to Fix Windows 7 Sudden Crashes and Unexpected Freezes - Step-by-Step Guide
-date: 2024-09-12T16:11:12.813Z
-updated: 2024-09-15T16:07:16.783Z
+date: 2024-09-19T17:46:21.337Z
+updated: 2024-09-20T18:14:27.422Z
 tags:
   - win11
   - win10
@@ -80,6 +80,14 @@ To do so:
 1. Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 3. Click on **your microphone device again** and click**Properties** .  
@@ -88,22 +96,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
@@ -139,20 +140,20 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/limbing-to-youtube-zenith-a-step-by-step-guide-to-creative-studio-mastery-for-2024/"><u>[New] Climbing to YouTube Zenith A Step-by-Step Guide to Creative Studio Mastery for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-spreading-smiles-crafting-visual-jokes-for-fbinstagram-shares-for-2024/"><u>[Updated] Spreading Smiles Crafting Visual Jokes for FB/Instagram Shares for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-advanced-tips-for-recording-google-voice-dialogues/"><u>2024 Approved Advanced Tips for Recording Google Voice Dialogues</u></a></li>
-<li><a href="https://blog-min.techidaily.com/convert-avi-videos-to-webm-format-free-best-desktop-and-online-tools/"><u>Convert AVI Videos to WebM Format Free: Best Desktop & Online Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-the-rendering-api-update-for-dota-2-error-202/"><u>Fix the 'Rendering API Update' For Dota 2 Error 202</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-game-install-and-update-failures-on-steam-platform/"><u>How to Fix Game Install and Update Failures on Steam Platform</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-install-audio-devices-when-none-are-recognized-on-windows-11/"><u>How to Install Audio Devices When None Are Recognized on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/keeping-taskmanager-visible-on-top/"><u>Keeping TaskManager Visible on Top</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-typing-woes-fix-unresponsive-letter-keys-in-windows-10-and-11/"><u>Solve Your Typing Woes: Fix Unresponsive Letter Keys in Windows 10 & 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205191382-svchostexe-cpu-hogs-in-windows-10-discover-efficient-solutions-for-immediate-relief/"><u>Svchost.exe CPU Hogs in Windows 10? Discover Efficient Solutions for Immediate Relief</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-6-methods-to-flawlessly-transform-swf-files-into-high-quality-mp4-videos/"><u>Top 6 Methods to Flawlessly Transform SWF Files Into High-Quality MP4 Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/understanding-consumer-behavior-a-guide-for-market-researchers-for-2024/"><u>Understanding Consumer Behavior A Guide for Market Researchers for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/uninstall-and-reinstall-audio-drivers-a-remedy-for-windows-11-sound-failures/"><u>Uninstall and Reinstall Audio Drivers - A Remedy for Windows 11 Sound Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/update-your-devices-drivers-a-simple-solution-for-wow-incompatibility-issues/"><u>Update Your Device's Drivers: A Simple Solution for WoW Incompatibility Issues</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-tecno-phantom-v-flip-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Tecno Phantom V Flip</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-calculated-viewing-time-for-a-standard-20mb-film/"><u>[Updated] 2024 Approved Calculated Viewing Time for a Standard 20Mb Film</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-diving-into-av1-codec-mechanics/"><u>[Updated] 2024 Approved Diving Into AV1 Codec Mechanics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-top-vloggers-dreaded-fears-and-victory-strategies/"><u>2024 Approved Top Vloggers' Dreaded Fears and Victory Strategies</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-sony-xperia-5-v-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Sony Xperia 5 V Phone</u></a></li>
+<li><a href="https://common-error.techidaily.com/clear-up-the-confusion-diagnosing-and-repairing-windows-11-usb-connectivity-problems/"><u>Clear Up the Confusion: Diagnosing & Repairing Windows 11 USB Connectivity Problems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-s24-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy S24</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-razers-unlit-keys-a-comprehensive-guide/"><u>Fixing Your Razer's Unlit Keys: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-ensure-smooth-download-of-steam-updates-for-optimal-gaming-performance/"><u>How To Ensure Smooth Download of Steam Updates for Optimal Gaming Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209474783-how-to-fix-printer-driver-not-found-on-your-windows-computer-solution/"><u>How to Fix 'Printer Driver Not Found' On Your Windows Computer - SOLUTION!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-masterful-technology-for-virtual-meetings/"><u>In 2024, Masterful Technology for Virtual Meetings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/new-graphics-card-no-sight/"><u>New Graphics Card No Sight</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-the-crucial-media-device-driver-now-installed-on-your-system/"><u>Resolved: The Crucial Media Device Driver Now Installed on Your System</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-new-heads-of-air-cooling-royalty-comprehensive-reviews-of-id-coolings-frozn-a72n-and-a620-models/"><u>The New Heads of Air Cooling Royalty: Comprehensive Reviews of ID-Cooling's FROZN A72n and A620 Models</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-issues-with-an-aoc-monitor-compatibility-on-windows-10/"><u>Troubleshooting Tips: Resolving Issues with an AOC Monitor Compatibility on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-guide-resolving-a-non-responsive-mouse-on-your-computer/"><u>Ultimate Troubleshooting Guide: Resolving a Non-Responsive Mouse on Your Computer</u></a></li>
 </ul></div>
 

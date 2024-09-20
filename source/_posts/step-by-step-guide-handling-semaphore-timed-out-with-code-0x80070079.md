@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Handling 'Semaphore Timed Out' With Code 0X80070079"
-date: 2024-09-09T16:09:40.260Z
-updated: 2024-09-15T16:12:04.554Z
+date: 2024-09-13T19:03:39.108Z
+updated: 2024-09-20T18:07:16.692Z
 tags:
   - win11
   - win10
@@ -102,14 +102,14 @@ thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe
 7. In the Services window, right-click **Windows Update**  and select **Start** .  
 ![Fix 3 step 7](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-3-step-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Go and check Windows Update again to see whether you can perform the Windows update or not. If it still doesn’t work, please try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run the DISM tool
 
@@ -133,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe
 3. Close Command Prompt when the restore operation completed.  
 ![Fix 4 step 3](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-4-step-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
 
 ### Fix 5: Run System File Checker
@@ -147,26 +154,13 @@ thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe
 ![sfc sacannow](https://images.drivereasy.com/wp-content/uploads/2018/09/sfc-sacannow.jpg)
 3. When this command operation is completed, close the Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run Windows Update again to check whether this fix works or not. If you still fail to install updates for your Windows system, please try the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Download updates from Microsoft Update Catalog manually
@@ -179,13 +173,6 @@ thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe
 2. Type the command line **systeminfo** and press **Enter** to view your system type.  
 ![view system type](https://images.drivereasy.com/wp-content/uploads/2018/09/view-system-type.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
 
 **To download and install Windows updates manually:**
@@ -197,17 +184,24 @@ thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe
 ![Fix 6 step 4](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-6-step-4.jpg)
 5. In the list of search results, select right update for your operating system and click **Download** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.
 6. In the pop-up window, click the link to start downloading the updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-6-step-6.jpg)
 7. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## This issue persists?
 
@@ -238,20 +232,20 @@ thumbnail: https://thmb.techidaily.com/b926e430c3910450366f0c5eac6f2faf425580bfe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-drone-enhancement-list-for-dji-phantom-4-for-2024/"><u>[New] The Ultimate Drone Enhancement List for DJI Phantom 4 for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-bridging-the-gap-integrating-spotify-and-youtube-music-playlists-for-2024/"><u>[Updated] Bridging the Gap Integrating Spotify and YouTube Music Playlists for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-best-extras-to-maximize-your-yi-4k-shooting/"><u>2024 Approved The Best Extras to Maximize Your YI 4K Shooting</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-cldll-absence-in-systems/"><u>Addressing ClDLL Absence in Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/amplifying-visuals-android-video-guide-for-2024/"><u>Amplifying Visuals Android Video Guide for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-12-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 12</u></a></li>
-<li><a href="https://facebook.techidaily.com/experience-seamless-file-retrieval-stellar-releases-redesigned-user-friendly-data-rescue-application/"><u>Experience Seamless File Retrieval: Stellar Releases Redesigned, User-Friendly Data Rescue Application</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-hp-laptop-keyboard-issues-fast-and-simple-now-solved/"><u>Fix HP Laptop Keyboard Issues Fast and Simple - Now Solved</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-fixing-non-working-dolby-surround-systems-in-windows-11/"><u>Guide to Fixing Non-Working Dolby Surround Systems in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-windows-troubleshooting-how-to-address-and-repair-error-code-grove/"><u>Mastering Windows Troubleshooting: How to Address and Repair Error Code Grove</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-more-dropped-signals-masterful-solutions-for-persistent-usb-disconnection-problems/"><u>No More Dropped Signals: Masterful Solutions for Persistent USB Disconnection Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-setup-obstacles-master-troubleshooting-for-your-origin-gaming-experience/"><u>Overcoming Setup Obstacles? Master Troubleshooting for Your Origin Gaming Experience</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-xiaomi-redmi-note-12r-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Xiaomi Redmi Note 12R, is it possible?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-easy-update-instructions-for-your-amd-ryzen-drivers-stay-protected/"><u>Quick & Easy Update Instructions for Your AMD Ryzen Drivers - Stay Protected</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ultimate-racer-replicas-our-top-games-for-2024/"><u>Ultimate Racer Replicas Our Top Games for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-how-to-start-a-google-meet-on-laptops-and-mobile/"><u>[New] In 2024, How to Start a Google Meet on Laptops & Mobile?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-visual-snippet-retriever-for-2024/"><u>[New] Visual Snippet Retriever for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-profile-imagery-for-youtubers-for-2024/"><u>[Updated] Free Profile Imagery for YouTubers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-reducing-microsoft-compatibility-telemetrys-impact-on-hard-drive-capacity-in-windows-10-devices/"><u>Guide to Reducing Microsoft Compatibility Telemetry's Impact on Hard Drive Capacity in Windows 10 Devices</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-xiaomi-redmi-note-12-pro-4g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Xiaomi Redmi Note 12 Pro 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-xiaomi-redmi-k70-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Xiaomi Redmi K70 Pro Phone?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-xcover-7-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy XCover 7 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/remedy-poor-connection-performance-between-epson-scan-and-printer/"><u>Remedy Poor Connection Performance Between Epson Scan & Printer</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-addressing-the-issue-with-0x-referenced-memory-location-0x-writing-failure/"><u>Resolved: Addressing the Issue with 0X Referenced Memory Location (0X) - Writing Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-installation-error-code-802-step-by-step-guide/"><u>Resolving Windows 10 Installation Error: Code 802# - Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-and-repair-bluetooth-functionality-in-windows-11-instant-fixes/"><u>Restore and Repair Bluetooth Functionality in Windows 11 - Instant Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-your-broken-touchscreen-top-5-solutions-for-windows-10-users/"><u>The Ultimate Fix for Your Broken Touchscreen - Top 5 Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-laptop-mousepad-issues-in-windows-operating-systems-windows-1187/"><u>Troubleshooting Laptop Mousepad Issues in Windows Operating Systems (Windows 11/8/7)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y56-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y56 5G Device</u></a></li>
 </ul></div>
 

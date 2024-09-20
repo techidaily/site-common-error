@@ -1,7 +1,7 @@
 ---
 title: Google Chrome Stops Working? Here's How You Can Resolve It!
-date: 2024-09-10T16:03:57.478Z
-updated: 2024-09-15T16:05:10.827Z
+date: 2024-09-18T18:40:37.882Z
+updated: 2024-09-20T19:26:28.171Z
 tags:
   - win11
   - win10
@@ -83,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b1daa19ee7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -92,16 +99,10 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 ---
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Allow Chrome**through Windows Defender Firewall**
@@ -112,16 +113,16 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4322c4421a9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Allow an app or feature through Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4323083c3e7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Change settings** . Then make sure the 4 boxes for Google Chrome are ALL ticked and click**OK** .
 
@@ -143,13 +144,6 @@ To do so:
 2. In the top right, click on **the three vertical dots** button > **help** \>**About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    * If yes, follow the on-screen instruction to finish the update.  
    * If no, delete Chrome and re-install it on Windows store or other trustworthy third-party website. (**NOTE** : This will erase your Chrome browser settings and data)
@@ -178,18 +172,18 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-discover-the-best-5-sd-cards-for-gopro-hero-8-and-7-for-2024/"><u>[Updated] Discover the Best 5 SD Cards for GoPro Hero 8 and 7 for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-kickstart-your-stream-must-have-youtube-tools/"><u>[Updated] Kickstart Your Stream Must-Have YouTube Tools</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-invisible-readers-pathway-how-to-engage-with-instagram-stories-unseen/"><u>2024 Approved The Invisible Reader's Pathway How to Engage with Instagram Stories Unseen</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-repair-tips-what-to-do-when-your-dells-speakers-wont-work-anymore/"><u>DIY Repair Tips: What To Do When Your Dell's Speakers Won't Work Anymore</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-infinix-hot-30-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Infinix Hot 30 5G Is Unlocked</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-oppo-find-x7-ultra-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Oppo Find X7 Ultra.</u></a></li>
-<li><a href="https://common-error.techidaily.com/in-depth-analysis-why-does-total-war-rome-remastered-keep-crashing-and-how-to-prevent-it/"><u>In-Depth Analysis: Why Does Total War: Rome Remastered Keep Crashing & How To Prevent It?</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207884086-resolve-too-many-redirects-error-with-simple-fixes/"><u>Resolve Too Many Redirects Error with Simple Fixes</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-oppo-reno-8t-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Oppo Reno 8T Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-balancing-act-managing-your-off-facebook-activity-displays-for-2024/"><u>The Balancing Act Managing Your Off-Facebook Activity Displays for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-error-code-0x80n2efd-on-your-windows-11-device/"><u>Troubleshooting and Fixing Error Code 0X80n2EFD on Your Windows 11 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-error-code-1067-when-your-windows-process-ends-prematurely/"><u>Troubleshooting Guide: Fixing 'Error Code 1067' - When Your Windows Process Ends Prematurely</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-missing-bluetooth-devices-in-windows-device-manager/"><u>Troubleshooting Missing Bluetooth Devices in Windows Device Manager</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-asus-rog-phone-7-ultimate-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Asus ROG Phone 7 Ultimate Fingerprint Lock</u></a></li>
+<li><a href="https://common-error.techidaily.com/configuration-complete-response-deficiency-present/"><u>Configuration Complete; Response Deficiency Present</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-guide-to-retrieving-iphone-data-safely-and-efficiently/"><u>Expert Guide to Retrieving iPhone Data Safely and Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212302588-fix-your-bluetooth-troubles-visible-now-in-device-manager/"><u>Fix Your Bluetooth Troubles: Visible Now in Device Manager!</u></a></li>
+<li><a href="https://techidaily.com/free-brother-l2540dw-printer-software-setup-and-installation-guide-for-pc-users/"><u>Free Brother L2540DW Printer Software Setup and Installation Guide for PC Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-fix-the-livekernelevent-error-code/"><u>How to Troubleshoot and Fix the LiveKernelEvent Error (Code</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-overview-of-lg-channels-what-you-should-be-aware-of/"><u>In-Depth Overview of LG Channels – What You Should Be Aware Of</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagrams-secret-fine-tuning-fcpx-for-high-aspect-videos/"><u>Instagram's Secret Fine-Tuning FCPX for High Aspect Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-fixes-for-easier-handling-of-steam-write-errors/"><u>Mastering Fixes for Easier Handling of Steam Write Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-to-delayed-fortnite-starts/"><u>Say Goodbye to Delayed Fortnite Starts</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-getting-your-playstation-microphone-back-online/"><u>Troubleshooting Tips: Getting Your PlayStation Microphone Back Online</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-free-tv-streaming-9-sites-you-need-to-know/"><u>Updated Free TV Streaming 9 Sites You Need To Know</u></a></li>
 </ul></div>
 

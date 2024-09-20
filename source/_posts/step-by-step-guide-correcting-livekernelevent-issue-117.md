@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Correcting LiveKernelEvent Issue #117"
-date: 2024-09-10T16:11:57.122Z
-updated: 2024-09-15T16:01:50.321Z
+date: 2024-09-15T18:02:18.202Z
+updated: 2024-09-20T17:54:55.747Z
 tags:
   - win11
   - win10
@@ -67,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/10021b17375d6e35424f943b31fb1f59b98c4b332
 
 4) Try to install Windows again.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Try another USB port
 
  If re-plugging the USB drive doesn’t work, you can try another USB port:
@@ -76,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/10021b17375d6e35424f943b31fb1f59b98c4b332
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756dfa249f7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) The Windows installation will return back, then**unplug the USB drive** from your computer.
@@ -135,16 +142,10 @@ thumbnail: https://thmb.techidaily.com/10021b17375d6e35424f943b31fb1f59b98c4b332
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a741854f33af.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
@@ -152,13 +153,6 @@ thumbnail: https://thmb.techidaily.com/10021b17375d6e35424f943b31fb1f59b98c4b332
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a742eeb04a11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer to make it take effect.
 
@@ -182,21 +176,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-audience-allure-powerful-hashtags-that-transform-youtube-shorts/"><u>[New] In 2024, Audience Allure Powerful Hashtags That Transform YouTube Shorts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-precisioncapture-w10-pro/"><u>[New] PrecisionCapture W10 Pro</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-capture-and-save-the-essentials-of-pc-display-recordings-for-2024/"><u>[Updated] Capture & Save The Essentials of PC Display Recordings for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-time-lapse-potential-on-samsung-screens/"><u>[Updated] Unlocking Time-Lapse Potential on Samsung Screens</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-hot-40i-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Hot 40i Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fixes-for-when-your-usb-flash-drive-wont-be-detected/"><u>Effortless Fixes for When Your USB Flash Drive Won't Be Detected!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-11-installation-failure-resolve-error-code-802/"><u>Fixing Windows 11 Installation Failure: Resolve Error Code 802 #</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-activating-windows-7-bluetooth-connectivity-solutions-unveiled/"><u>Guide: Activating Windows 7 Bluetooth Connectivity - Solutions Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-and-regain-access-to-your-windows-smartscreen-guard/"><u>How to Fix and Regain Access to Your Windows SmartScreen Guard</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-realme-11-proplus-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Realme 11 Pro+?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-7-plus-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From iPhone 7 Plus</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-opengl-problems-a-comprehensive-guide-for-minecraft-players/"><u>Overcoming OpenGL Problems - A Comprehensive Guide for Minecraft Players</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-nonfunctional-mousepads-in-windows-operating-systems/"><u>Step-by-Step Solutions for Nonfunctional Mousepads in Windows Operating Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-cinemagraph-guide-top-5-must-know-tactics-for-2024/"><u>The Ultimate Cinemagraph Guide - Top 5 Must-Know Tactics for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-disappearance-of-your-default-windows-desktop/"><u>Troubleshooting the Disappearance of Your Default Windows Desktop</u></a></li>
-<li><a href="https://facebook.techidaily.com/unlocking-your-chats-a-guide-to-downloading-private-fb-messages/"><u>Unlocking Your Chats: A Guide to Downloading Private FB Messages</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-elevating-video-popularity-on-youtube/"><u>[New] 2024 Approved Elevating Video Popularity on YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-keyboard-randomly-stops-working/"><u>[SOLVED] Keyboard Randomly Stops Working</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-tales-from-tomorrow-learning-snapchat-video-inversion/"><u>[Updated] 2024 Approved Tales From Tomorrow Learning Snapchat Video Inversion</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-course-on-morphvox-converting-your-voice-professionally/"><u>2024 Approved Full Course on MorphVOX Converting Your Voice Professionally</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-tiktok-engagement-in-unboxing-videos/"><u>2024 Approved Maximizing TikTok Engagement in Unboxing Videos</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-xs-maxipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone XS Max/iPad | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-xiaomi-redmi-k70-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Xiaomi Redmi K70 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-unresponsive-touchpad-issue-tips-for-smooth-scrolling-in-windows-prise-the-new-world-of-business-collaboration-software-a-comprehensive-guide/"><u>Fixing the Unresponsive Touchpad Issue: Tips for Smooth Scrolling in Windows Prise | The New World of Business Collaboration Software - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-optimize-dwm-for-lower-gpu-consumption-in-windows-11-a-five-step-guide/"><u>How to Optimize DWM for Lower GPU Consumption in Windows 11: A Five-Step Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/ig-peak-performers-iphone-plus-androids-top-covers-app-for-2024/"><u>IG Peak Performers IPhone + Android's Top Covers App for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-tecno-spark-go-2023-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Tecno Spark Go (2023) Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-nvidia-installation-hurdles-completely/"><u>Resolving NVIDIA Installation Hurdles Completely</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-typing-dilemma-reactive-tips-for-broken-letter-keys-in-win-1011/"><u>Solve Your Typing Dilemma: Reactive Tips for Broken Letter Keys in Win 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201160873-tackling-high-cpu-drain-by-svchostexe-on-windows-11-solved/"><u>Tackling High CPU Drain by svchost.exe on Windows 11: Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-mic-steelseries-arctis-5-audio-fixes-and-solutions/"><u>Troubleshooting the Mic: SteelSeries Arctis 5 Audio Fixes and Solutions</u></a></li>
 </ul></div>
 

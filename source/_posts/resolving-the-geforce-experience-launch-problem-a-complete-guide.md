@@ -1,7 +1,7 @@
 ---
 title: Resolving the GeForce Experience Launch Problem - A Complete Guide
-date: 2024-09-14T16:01:58.692Z
-updated: 2024-09-15T16:03:27.912Z
+date: 2024-09-19T16:27:48.336Z
+updated: 2024-09-20T19:06:36.305Z
 tags:
   - win11
   - win10
@@ -76,10 +76,10 @@ There are 3 types of NAT in your PS4:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548aaf1616f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Copy and paste the following**command** in the Command Prompt, and press**Enter** .
@@ -87,13 +87,6 @@ There are 3 types of NAT in your PS4:
 ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548b35211b0.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Note down the**IP address** , the**default gateway** , the**subnet** **mask** and the**DNS server** .
 
@@ -139,6 +132,13 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Go to**Advanced** \>**Forwarding** , and you will see**UPnP** . (Or you can find the UPnP section in other tab according to the different routers.)
 
  5)**Turn UPnP on** .
@@ -169,6 +169,19 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Go to**Advanced** \>**Forwarding** , and you’ll see**DMZ** on the left. (Or you can find the DMZ section in other tab according to the different routers.)
 
  5) Click**Enable** to**enable DMZ** .
@@ -176,10 +189,10 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548e4dac329.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Change the**IP address** to match with the IP address in your PS4\. (If you don’t know your PS4 IP address, click[**here**](#Step1) to know how to check.)
@@ -187,16 +200,10 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548e65a013a.png)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) If you are using routers that has the**NAT Filtering** option, such as NETGEAR router, you can also click to**open NAT filtering** . (You can skip to the next step if you don’t have this option.)
@@ -226,19 +233,6 @@ ipconfig/all
  3) Type your**Username** and**Password** , then**login** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Go to the**forward ports section** (or**ports forwarding** ,**Virtual Server** ,**Applications**  according to different routers).
 
@@ -274,13 +268,20 @@ ipconfig/all
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-streamlining-the-process-of-iptv-video-recordings/"><u>[New] 2024 Approved Streamlining the Process of IPTV Video Recordings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-communication-conquests-powerful-expressions-for-success/"><u>[Updated] Communication Conquests Powerful Expressions for Success</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-tickling-titles-top-10-comedy-centric-youtube-short-ideas/"><u>2024 Approved Tickling Titles Top 10 Comedy-Centric YouTube Short Ideas</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-for-unresponsive-computers-handling-windows-10-hangs/"><u>Expert Advice for Unresponsive Computers - Handling Windows 10 Hangs</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-print-screen-issues-on-windows-11-and-10-a-comprehensive-guide/"><u>Fixing Print Screen Issues on Windows 11 & 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/maximizing-disk-space-tips-and-tricks-for-windows-11-users/"><u>Maximizing Disk Space: Tips & Tricks for Windows 11 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-persistent-lag-on-windows-11-keyboards/"><u>Resolved: How to Fix Persistent Lag on Windows 11 Keyboards</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-and-install-hp-printer-software-on-your-computer-the-official-guide-to-the-laserjet-p3t15-drivers/"><u>Update and Install HP Printer Software on Your Computer - The Official Guide to the LaserJet P3t15 Drivers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-value-packed-skyspace-service-big-data-at-low-cost/"><u>[New] 2024 Approved Value-Packed SkySpace Service Big Data at Low Cost</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-strategy-for-efficient-use-of-mobizens-recording-features/"><u>[New] In 2024, The Ultimate Strategy for Efficient Use of Mobizen's Recording Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-could-not-complete-the-installation-quickly-and-easily/"><u>[Solved] | Windows Could Not Complete The Installation | Quickly & Easily</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-innovative-techniques-for-secure-and-quality-vimeo-recording/"><u>[Updated] 2024 Approved Innovative Techniques for Secure & Quality Vimeo Recording</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-google-account-integration-for-private-youtube-video-sharing/"><u>[Updated] In 2024, Google Account Integration for Private YouTube Video Sharing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-neuroscience-insights-enhance-effective-corporate-governance/"><u>[Updated] In 2024, How Neuroscience Insights Enhance Effective Corporate Governance</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-fix-a-white-display-on-your-laptop/"><u>Effective Solutions to Fix a White Display on Your Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-windows-10-devices-not-connecting-during-cast-expert-tips-and-tricks/"><u>Fix Your Windows 10 Devices Not Connecting During Cast - Expert Tips & Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guarding-against-virtual-sickness-for-2024/"><u>Guarding Against Virtual Sickness for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-windows-11-using-sfc-and-dism-commands-a-step-by-step-guide/"><u>How to Repair Your Windows 11 Using SFC & DISM Commands – A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-up-to-date-nvidia-gf-tx-980-ti-driver-software/"><u>Install Up-to-Date NVIDIA GF TX 980 Ti Driver Software</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/resurrect-deleted-content-from-your-apple-device-expert-tips-and-tricks-with-stellars-tech/"><u>Resurrect Deleted Content From Your Apple Device - Expert Tips & Tricks with Stellar's Tech</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-when-your-pc-runs-into-a-hang-on-windows-10/"><u>Step-by-Step Solution for When Your PC Runs Into a Hang on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-your-airpods-connection-issues-on-windows-1011/"><u>Ultimate Guide: Solving Your AirPods Connection Issues on Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-solving-com-surrogate-has-halted-unexpectedly/"><u>Understanding and Solving: 'COM Surrogate Has Halted Unexpectedly'</u></a></li>
 </ul></div>
 
