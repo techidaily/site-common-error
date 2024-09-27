@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Issues with Nvidia GeForce Experience's Setting Retrieval"
-date: 2024-09-13T19:47:17.778Z
-updated: 2024-09-20T17:05:12.611Z
+date: 2024-09-22T17:25:07.713Z
+updated: 2024-09-26T18:00:00.762Z
 tags:
   - win11
   - win10
@@ -33,15 +33,38 @@ When you pay the money and look forward to enjoying the game but find that the g
 5. [Check your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 6. [Set the Windows Secondary Logon is set to automatic](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Rename the Destiny 2 folder
 
  To solve Destiny 2 stuck on initializing problem, this method is the first to go. Many users have proven its effective.
 
 1. Pause the initializing process and close**Battle.net** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d22.jpg)
 2. Navigate to your Destiny 2 folder location. Usually, it’s in C:\\Program Files (x86)\\. Then rename the Destiny 2 folder.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Open**Battle.net** and click**Install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d20.jpg)
 4. Change the folder name back to Destiny 2.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
 5. Click**Start install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d21.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Be patient, the process will resume from where you left off after verifying the files that are already there. Then you’re good to go.
 
  After downloading the program successfully, it is recommended to[update your driver](https://tools.techidaily.com/drivereasy/download/) to improve your gaming performances.
@@ -70,19 +93,6 @@ Reinstall the Battle.net can may help you solve the issue.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 4: Run your Blizzard client as administrator
 
  The privilege issue might be the reason for this problem. With high integrity access, Blizzard can make full use of its features, so run Blizzard as an administrator to see if this fixes your issue.
@@ -94,23 +104,10 @@ Reinstall the Battle.net can may help you solve the issue.
 4. Run Blizzard and check whether the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5: Check your antivirus software
@@ -131,16 +128,24 @@ Reinstall the Battle.net can may help you solve the issue.
 2. Type “services.msc” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/services.jpg)
 3. Locate and right-click**Secondary Logon** in the right pane.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/servi.jpg)
 5. Find Startup type and select**Automatic** in the dropdown menu. Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/ser.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Some security programs may turn the secondary logon service off. If the service is disabled again after you’ve switched it to automatic, you must configure your security program to stop disabling the service. Contact your security program’s manufacturer if you need assistance with configuring your security software.
 
@@ -175,10 +180,10 @@ OR
 3. Click the**Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/07/gpu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -200,5 +205,17 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-best-of-the-web-the-10-leading-sites-for-purchasing-mystery-boxes/"><u>[New] Best of the Web The 10 Leading Sites for Purchasing Mystery Boxes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-brain-benders-await-at-the-best-room-sanctuaries/"><u>[New] In 2024, Brain Benders Await at the Best Room Sanctuaries</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovations-in-portraying-chrono-displacement-on-screen/"><u>[New] Innovations in Portraying Chrono-Displacement on Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-0x80072f8f-on-windows-1110-top-solutions-to-restore-your-pcs-functionality/"><u>Error Code 0X80072F8F on Windows 11/10: Top Solutions to Restore Your PC's Functionality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guida-passo-passo-per-far-funzionare-vlc-su-chromecast-quando-non-riesce-a-collegarsi/"><u>Guida Passo-Passo per Far Funzionare VLC Su Chromecast Quando Non Riesce a Collegarsi</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-silence-your-ps4s-overheating-problem-a-step-by-step-guide/"><u>How to Silence Your PS4's Overheating Problem – A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-asus-rog-phone-7-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Asus ROG Phone 7 to iPad | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-zte-nubia-flip-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on ZTE Nubia Flip 5G online without jailbreak</u></a></li>
+<li><a href="https://common-error.techidaily.com/uncover-hidden-network-adapters-solving-windows-11s-wi-fi-dilemma/"><u>Uncover Hidden Network Adapters: Solving Windows 11'S Wi-Fi Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/xinput13dll-explained-essentiality-and-recovery-steps/"><u>XINPUT1_3.dll Explained: Essentiality and Recovery Steps</u></a></li>
+</ul></div>
 

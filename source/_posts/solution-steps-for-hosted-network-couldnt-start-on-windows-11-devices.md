@@ -1,7 +1,7 @@
 ---
 title: Solution Steps for 'Hosted Network Couldn't Start' On Windows 11 Devices
-date: 2024-09-19T19:08:24.768Z
-updated: 2024-09-20T17:56:03.781Z
+date: 2024-09-21T16:31:29.164Z
+updated: 2024-09-26T18:52:50.690Z
 tags:
   - win11
   - win10
@@ -57,6 +57,13 @@ When you fail to access another computer of the same network, or when you cannot
 **3)** Select**Status** . Then, click**Change adapter options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-3-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Right-click the network you’re currently using, and click**Properties** .
 
@@ -115,10 +122,10 @@ netsh int ip reset
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Right-click a device and click**Uninstall device** .
@@ -135,16 +142,16 @@ netsh int ip reset
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Fix 0x800704cf error when accessing the Microsoft Store**
 
 ![Fix 0x800704cf error when accessing the Microsoft Store on Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/08/error-case-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you fail to access the Microsoft Store on Windows 10 or 11, this 0x800704cf error will appear. It implies you’re not connected to the Internet, even though you are, as you can use the browser and other applications normally. But don’t worry; here’s a list of fixes that can help.
 
@@ -160,19 +167,33 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-2-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Select**Your info** in the left pane. Then, click**Sign in with a Microsoft account instead** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Enter your**account** and**password** to sign in.
@@ -227,33 +248,20 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-2-4.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Select**Apps & features** . Then, scroll down to click**Microsoft Store** , and click**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-3-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Scroll down and click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-4-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Click**Reset** .
 
@@ -264,6 +272,13 @@ netsh int ip reset
  Network issue like 0x800704cf error is a common PC problem but it’s insufferable. There’s so much you can’t do without the Internet, and even worse, you can’t search a solution to fix it. If you’ve frequently run into this kind of issues such as no or slow Internet access, be sure to check our bonus tips below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus tips: Update your network driver
 
@@ -314,5 +329,22 @@ netsh int ip reset
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-perfect-pitches-and-polished-pictures-music-mixing-for-youtube/"><u>[New] 2024 Approved Perfect Pitches and Polished Pictures Music Mixing for YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-advancing-your-slow-motion-footage-using-gopro-hero-10/"><u>[New] Advancing Your Slow-Motion Footage Using GoPro Hero 10</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-premier-transcriber-platform-video-to-writing/"><u>[New] In 2024, Premier Transcriber Platform Video to Writing</u></a></li>
+<li><a href="https://common-error.techidaily.com/correcting-sxs-side-by-side-configurations-resolving-compatibility-issues-in-windows-11/"><u>Correcting SxS (Side-by-Side) Configurations: Resolving Compatibility Issues in Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-professionalism-the-best-practices-for-post-upload-editing-for-2024/"><u>Crafting Professionalism The Best Practices for Post-Upload Editing for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/dvd-shrinkisomp4/"><u>DVD Shrinkで効率よくISOをMP4にし直せる方法？エラー時の解決手順</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-application-startup-problems-a-guide-for-built-in-admin-accounts/"><u>Fixing Application Startup Problems: A Guide for Built-In Admin Accounts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-samsung-galaxy-f15-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Samsung Galaxy F15 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-7-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 7 Plus Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-non-appearance-of-wi-fi-settings-on-windows-11-devices/"><u>Resolving the Non-Appearance of Wi-Fi Settings on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201594479-shockwave-flash-issues-in-google-chrome-follow-our-updated-solution-guide/"><u>Shockwave Flash Issues in Google Chrome? Follow Our Updated Solution Guide!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-integrity-of-windows-os-file-system/"><u>Step-by-Step Guide: Restoring Integrity of Windows OS File System</u></a></li>
+<li><a href="https://article-posts.techidaily.com/surging-up-the-search-results-with-effective-podcast-seo/"><u>Surging Up the Search Results with Effective Podcast SEO</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-tackling-and-overcoming-delayed-shutdowns-in-windows-10/"><u>The Ultimate Fix: Tackling and Overcoming Delayed Shutdowns in Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-v30-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo V30 | Dr.fone</u></a></li>
+</ul></div>
 

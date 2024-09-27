@@ -1,7 +1,7 @@
 ---
 title: Keyboard Failure at Boot Time - Effective Solutions for Immediate Fixes
-date: 2024-09-16T19:53:58.330Z
-updated: 2024-09-20T17:25:15.760Z
+date: 2024-09-25T17:32:01.552Z
+updated: 2024-09-26T18:06:31.341Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -45,12 +52,27 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04aae3578ee.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Set default devices
 
@@ -66,6 +88,14 @@ Here’s how to do it:
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
@@ -84,19 +114,19 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check your in-game audio settings
 
@@ -107,13 +137,6 @@ Here’s how:
 3. Make sure**GROUP VOICE CHAT** and**TEAM VOICE CHAT** are set to**AUTO JOIN, the right device selected** for**VOICE CHAT DEVICES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04c7f097042.jpg)  
  If your voice chat is set to**Push To Talk** , try changing the keybind for Voice Chat:**Push To Talk** to a different key in the Controls menu.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Join in the team chat, test to see if the**Overwatch voice chat not working** issue has been resolved.
 
@@ -138,5 +161,24 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-tips-to-prevent-frame-loss-during-real-time-broadcasts-with-obs/"><u>[Updated] Tips to Prevent Frame Loss During Real-Time Broadcasts with OBS</u></a></li>
+<li><a href="https://facebook.techidaily.com/banned-beyond-borders-facebook-in-these-countries/"><u>Banned Beyond Borders: Facebook in These Countries?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-edge-2023-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Edge 2023</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-solving-icue-hardware-detection-issues-effectively/"><u>Expert Advice on Solving ICUE Hardware Detection Issues Effectively</u></a></li>
+<li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra iPhone 6s Plus</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 with/without SIM Card</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-speedy-techniques-for-converting-whatsapp-voice-recordings-to-mp3/"><u>New Speedy Techniques for Converting WhatsApp Voice Recordings to Mp3</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-elevated-permission-issues-for-task-execution-on-windows-11-10-and-7/"><u>Overcoming Elevated Permission Issues for Task Execution on Windows 11, 10 and 7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/perfecting-image-clarity-a-guide-to-correcting-blur-with-iphone-tricks/"><u>Perfecting Image Clarity: A Guide to Correcting Blur with iPhone Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-writing-failure-in-the-referenced-0xmemory-address/"><u>Resolved: Writing Failure in the Referenced 0xMemory Address</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-update-error-code-802-a-comprehensive-guide/"><u>Resolving Windows Update Error Code 802#: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-0x80070643-issue-tips-and-tricks-for-smooth-windows-updates/"><u>Solving the 0X80070643 Issue: Tips and Tricks for Smooth Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repair-a-damaged-windows-installation-win1110/"><u>Step-by-Step Guide to Repair a Damaged Windows Installation (Win11/10)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-leading-selection-no-cost-outstanding-lut-links/"><u>The Leading Selection No-Cost, Outstanding LUT Links</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-a-frozen-screen-on-windows-11-a-step-by-step-guide/"><u>Troubleshooting a Frozen Screen on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-class-registration-failures-on-windows-10-quick-fixes/"><u>Troubleshooting Class Registration Failures on Windows 10: Quick Fixes</u></a></li>
+</ul></div>
 

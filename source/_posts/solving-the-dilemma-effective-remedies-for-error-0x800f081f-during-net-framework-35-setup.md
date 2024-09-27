@@ -1,7 +1,7 @@
 ---
 title: "Solving the Dilemma: Effective Remedies for Error 0X800F081F During .NET Framework 3.5 Setup"
-date: 2024-09-16T16:19:59.456Z
-updated: 2024-09-20T17:08:00.633Z
+date: 2024-09-22T18:46:35.243Z
+updated: 2024-09-26T20:40:37.989Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
@@ -48,6 +55,13 @@ Here’s how to do it:
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
@@ -65,11 +79,26 @@ Here’s how to do it:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -83,28 +112,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
@@ -142,5 +158,21 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-catalyze-viewers-interest-tutorial-for-traffic-triumphs/"><u>[New] Catalyze Viewers' Interest Tutorial for Traffic Triumphs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-efficient-screen-recording-on-xbox-explained-for-2024/"><u>[New] Efficient Screen Recording on Xbox Explained for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-stepwise-training-for-effective-transcription-with-gdoc/"><u>[New] Stepwise Training for Effective Transcription with GDoc</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-stream-to-script-service/"><u>[Updated] Stream-to-Script Service</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-enhancing-your-discord-experience-with-recordings/"><u>2024 Approved Enhancing Your Discord Experience with Recordings</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-complete-walkthrough-to-fix-monitors-showing-no-image-error-easily-and-quickly/"><u>A Complete Walkthrough to Fix Monitors Showing No Image Error Easily and Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/audio-stumbling-blocks-cleared-for-win-1011-users/"><u>Audio Stumbling Blocks Cleared for WIN 10/11 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-techniques-for-revamping-your-powerpoint-slides/"><u>Effortless Techniques for Revamping Your PowerPoint Slides</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-solved-correcting-the-root-cause-of-driver-settings-configuration-error/"><u>Error Solved: Correcting the Root Cause of 'Driver Settings Configuration Error'</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-14-pro-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 14 Pro Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instantaneous-darkness-creation/"><u>Instantaneous Darkness Creation</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-your-windows-11-experience-through-sfc-and-dism-repair-techniques/"><u>Optimizing Your Windows 11 Experience Through SFC and DISM Repair Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/resurrecting-off-screen-windows-made-simple-quick-fixes-for-desktop-woes/"><u>Resurrecting Off-Screen Windows Made Simple - Quick Fixes for Desktop Woes</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-non-functional-scrolling-on-a-logitech-mouse/"><u>Step-by-Step Solutions for Non-Functional Scrolling on a Logitech Mouse</u></a></li>
+</ul></div>
 

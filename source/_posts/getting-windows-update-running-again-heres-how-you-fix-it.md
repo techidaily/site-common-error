@@ -1,7 +1,7 @@
 ---
 title: Getting Windows Update Running Again? Here’s How You Fix It
-date: 2024-09-17T16:24:06.264Z
-updated: 2024-09-20T18:06:23.453Z
+date: 2024-09-19T16:47:32.679Z
+updated: 2024-09-26T22:30:52.476Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
 4. [**Clear the SoftwareDistribution folder**](#d)
 5. [**Update your device drivers**](#e)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Run Windows Update troubleshooter
 
  Windows has a built-in troubleshooter that can check and fix issues with Windows Update. You should run it when an error occurs on your Windows Update. To do so:
@@ -70,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters-1200x699.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click on the**Run** button next to**Windows Update** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Troubleshooter-Windows-Update-1200x616.jpg)
@@ -77,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
 **5)** Follow the on-screen instructions to complete the troubleshooting process.
 
 **6)** Run your Windows Update again and see if your error is fixed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Check for malicious software
 
@@ -101,20 +108,34 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2aa01cd2e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Double click **Background Intelligent Transfer Service** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb31524505e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3214c6b1e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Double click**Cryptographic Services** .
 
@@ -132,13 +153,6 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb361957d5c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)** Close the Services snap-in and restart your computer. Then check to see if this resolves your problem.
 
 ## Method 4: Clear the SoftwareDistribution folder
@@ -150,6 +164,13 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
 **2)** Type “_services.msc_ ” and click**OK**  to open the_Services_ snap-in.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2aa01cd2e.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click**Windows Update** and then click**Stop** (the service).
 
@@ -166,10 +187,10 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
 **6)** Restart your computer. Then run Windows Update see if this helps you get rid of the Windows Update service not running error.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 5: Update your device drivers
@@ -193,16 +214,10 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9f8a62a090.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Restart your computer. Then run you Windows Update to see if this resolves your problem.
@@ -222,5 +237,26 @@ thumbnail: https://thmb.techidaily.com/097da45e601814f3f9c7530b7e6070342fc3124e5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-strategies-for-success-in-work-and-online-creation/"><u>[New] 2024 Approved Strategies for Success in Work and Online Creation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-deciphering-the-language-of-copyright-notices-from-youtube-for-2024/"><u>[New] Deciphering the Language of Copyright Notices From YouTube for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-seamless-art-of-game-recording-on-sonys-playstation-4/"><u>[Updated] 2024 Approved The Seamless Art of Game Recording on Sony's PlayStation 4</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ultimate-tutorial-on-precise-audioshifting-for-2024/"><u>[Updated] Ultimate Tutorial on Precise Audioshifting for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/0x80244022-windows-update-error-solved/"><u>0X80244022 Windows Update Error [SOLVED]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-learn-how-to-add-youtube-video-to-google-slides/"><u>2024 Approved Learn How to Add YouTube Video to Google Slides</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-obstacle-winning-against-windows-11-error-0x800f0922-with-easy-fixes/"><u>Bypassing the Obstacle: Winning Against Windows 11 Error 0X800f0922 with Easy Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-for-repairing-compromised-hardware-drivers-fast/"><u>Effortless Solutions for Repairing Compromised Hardware Drivers Fast</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-diagnose-and-repair-livekernelevent-117-mishaps-efficiently/"><u>Expert Tips to Diagnose and Repair 'LiveKernelEvent 117' Mishaps Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-fix-continuous-operation-mode-on-windows-11-the-shutdown-problem-solved/"><u>Expert Tips to Fix Continuous Operation Mode on Windows 11 - The Shutdown Problem SOLVED!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/extreme-capture-duo-gopro-hero5-black-versus-hero4-silver-edition/"><u>Extreme Capture Duo GoPro Hero5 Black Versus Hero4 Silver Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-for-persistent-lagging-and-hitching-in-serious-sam-4-on-windows/"><u>Fixes for Persistent Lagging and Hitching in Serious Sam 4 on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208689449-fixing-a-laptop-that-wont-exit-the-startup-display-issue-solution-included/"><u>Fixing a Laptop That Won't Exit the Startup Display Issue - Solution Included!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-best-tools-in-magix-video-pro-x-for-editors/"><u>In 2024, The Best Tools in Magix Video Pro X for Editors</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-login-issues-steps-to-repair-user-profile-service-failures/"><u>Resolving Windows 11 Login Issues: Steps to Repair User Profile Service Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-astro-a4e-audio-problem-expert-advice-on-repairing-the-unresponsive-mic/"><u>Solve Your Astro A4e Audio Problem: Expert Advice on Repairing the Unresponsive Mic</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/soundtrack-streamlining-top-websites-for-skype-ringtones-for-2024/"><u>Soundtrack Streamlining Top Websites for Skype Ringtones for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-overcome-your-game-installation-woes-with-quick-tips-to-solve-steam-errors/"><u>Troubleshoot & Overcome Your Game Installation Woes with Quick Tips to Solve Steam Errors</u></a></li>
+</ul></div>
 

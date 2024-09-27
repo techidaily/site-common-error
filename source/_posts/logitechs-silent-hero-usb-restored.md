@@ -1,7 +1,7 @@
 ---
 title: "Logitech's Silent Hero: USB Restored"
-date: 2024-09-18T17:16:13.575Z
-updated: 2024-09-20T17:14:13.723Z
+date: 2024-09-20T20:48:10.523Z
+updated: 2024-09-26T20:21:53.228Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 5. [**Disable Taskbar auto-hide**](#fix5)
 6. **[Update your graphics drivers](#fix6)**
 7. **[Try a system restore](#restore)**
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1 – Restart the Explorer process
 
@@ -70,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/increase-virtual-memory-1.jpg)
 2. Select the**Advanced** tab and click**Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/increase-virtual-memory-2.jpg)
 3. Click the**Advanced** tab and click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/increase-virtual-memory-3.jpg)
@@ -85,38 +85,33 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 5. Select**C drive** and click the box next to**Custom size** .  
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-5-2.jpg)
 6. Type in**initial size** and**maximum size** depending on the amount of RAM your PC has. Then click**OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Tips: Advisably, the virtual memory should be no less than **1.5 times** and no more than **3 times** the RAM on your computer. You can follow this guide to[**check RAM on your computer**](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-6.jpg)
 
 Test if the issue is solved. If not, go to other fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4 – Run Windows Memory Diagnostic
 
@@ -126,6 +121,14 @@ Test if the issue is solved. If not, go to other fixes below.
 2. Type**mdsched.exe** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/run-memory-diagnostic-1.jpg)
 3. Click**Restart now and check for problems (recommended)** . Make sure to save your work and close all the programs before restarting.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/run-memory-diagnostic-2.jpg)
 4. The diagnostic process may take a few minutes, during which you’ll see a blue screen showing how it progresses.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/run-memory-diagnostic-6.jpg)
@@ -140,14 +143,33 @@ Test if the issue is solved. If not, go to other fixes below.
  But if hardware problems were detected, you may try further troubleshooting steps:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    * Try your RAM stick in a different slot in case the previously used RAM slot is defective.  
    * Reach out to the support of the hardware for help or consider replacing a new RAM if all the RAM slots are not working.
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5 – Disable Taskbar auto-hide
 
@@ -185,10 +207,10 @@ Test if the issue is solved. If not, go to other fixes below.
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -229,5 +251,19 @@ Test if the issue is solved. If not, go to other fixes below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-synthesizing-clarity-a-complete-voice-note-taking-course/"><u>2024 Approved Synthesizing Clarity A Complete Voice Note-Taking Course</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-unlocking-collective-watch-strategies-for-multiple-channels/"><u>2024 Approved Unlocking Collective Watch Strategies for Multiple Channels</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/beneath-the-surface-instagrams-hidden-reality-for-viewers/"><u>Beneath the Surface Instagram’s Hidden Reality for Viewers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-the-turing-test-future-or-fallacy/"><u>Dissecting The Turing Test: Future or Fallacy?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixed-a-step-by-step-guide-when-doom-eternal-refuses-to-open-on-your-pc/"><u>Fixed! A Step-by-Step Guide When DOOM Eternal Refuses to Open on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-revive-battery-life-tips-when-ps4-controller-wont-hold-a-charge/"><u>How to Revive Battery Life: Tips When PS4 Controller Won't Hold a Charge</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-resolve-no-signal-on-your-display-a-complete-guide/"><u>How to Troubleshoot and Resolve 'No Signal' On Your Display: A Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-failed-torrent-download-issues-a-step-by-step-guide/"><u>How to Troubleshoot Failed Torrent Download Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-a79-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo A79 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-top-choice-vr-game-engines-update-march-2023/"><u>In 2024, Top Choice VR Game Engines Update - March 2023</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-common-hurdles-in-steam-game-setup-and-update-processes/"><u>Overcoming Common Hurdles in Steam Game Setup and Update Processes</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-the-volume-icon-in-windows-11-a-step-by-step-guide-with-screenshots/"><u>Restoring the 'Volume' Icon in Windows 11: A Step-by-Step Guide with Screenshots</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Smooth Playthroughs: Overcoming Fallout 4 Lag Challenges"
-date: 2024-09-15T16:39:24.728Z
-updated: 2024-09-20T17:38:18.236Z
+date: 2024-09-25T20:36:17.859Z
+updated: 2024-09-26T19:42:32.480Z
 tags:
   - win11
   - win10
@@ -45,7 +45,21 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-06_11-08-49.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You should see the webpage again. Then you can adjust the edge of the window as you like. It’s a temporary fix, you might meet the issue again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Remove browser extensions
 
@@ -63,6 +77,13 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Add “`--disable-gpu` ” parameter
 
  Chrome creates a completely separate operating system process for each tag or extra extension you use. If you have multiple tabs open and various third-party extensions installed, you may find many processes running at the same time.
@@ -72,25 +93,35 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 1. Right-click on Chrome click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom0.jpg)
 2. On the Shortcuts tab, find Target. Add “`--disable-gpu` ” at the end of the text in the Target box. It should now read: …chrome.exe”`--disable-gpu` .  
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : There’s a space after**exe”** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom01.jpg)
 3. Click**OK** and then run Google Chrome.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Hit the three dots button in the upper right corner, then click**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom3.jpg)
 5. Click**Advanced** at the bottom.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Deselect “**Use hardware acceleration when available** .”![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom4.jpg)
 7. Run Google Chrome to check whether the issue is solved or not.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -102,22 +133,15 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 2. In the Compatibility tab, click Run this program in compatibility mode for. Then choose the system in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click**OK** then run Google Chrome to check.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Update your Google Chrome
 
@@ -133,24 +157,10 @@ You might be frightened when your Google Chrome screen suddenly turns black with
 2. Set Control Panel view by**Category** . Then click **Uninstall a program** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome6.jpg)
 3. Right-click on Google Chrome and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrome7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Use another browser to download the latest version of Google Chrome from the[Google Chrome official website](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI0sLo0YH%5F4QIVksJkCh1jiw8SEAAYASAAEgIDF%5FD%5FBwE&gclsrc=aw.ds) .
 5. Install it manually and then check the issue is solved or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus: Update your graphics card driver
 
@@ -205,5 +215,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-architectural-marvels-best-6-mojave-homes/"><u>[New] Architectural Marvels Best 6 Mojave Homes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/10-free-video-call-app-for-android-and-iphone-100-secure-for-2024/"><u>10 Free Video Call App for Android and iPhone (100% Secure) for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/a-step-by-step-approach-to-lut-application-in-ae/"><u>A Step-by-Step Approach to LUT Application in AE</u></a></li>
+<li><a href="https://extra-information.techidaily.com/all-inclusive-360-panorama-viewer/"><u>All-Inclusive 360 Panorama Viewer</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-non-functional-fn-buttons-on-an-asus-notebook/"><u>Diagnosing and Repairing Non-Functional Fn Buttons on an ASUS Notebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-phantom-cursor-on-windows-11-a-step-by-step-solution-for-users/"><u>Fixing the Phantom Cursor on Windows 11: A Step-by-Step Solution for Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-unresponsive-numeric-keys-on-a-computer-keyboard/"><u>How to Repair Unresponsive Numeric Keys on a Computer Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-your-computers-inability-to-initialize-properly/"><u>How to Resolve Your Computer's Inability to Initialize Properly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oneplus-12r-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For OnePlus 12R</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-the-galaxy-s24-ultra-maintaining-its-throne-as-the-top-android-device-after-half-a-year/"><u>Is the Galaxy S24 Ultra Maintaining Its Throne as the Top Android Device After Half a Year?</u></a></li>
+<li><a href="https://common-error.techidaily.com/ps4-connectivity-hurdles-a-thorough-guide-to-diagnosing-and-fixing-nat-types/"><u>PS4 Connectivity Hurdles? A Thorough Guide to Diagnosing & Fixing NAT Types</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204042973-quick-fixes-for-defective-usb-connections-expert-tips/"><u>Quick Fixes for Defective USB Connections - Expert Tips!</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-typing-experience-a-step-by-step-guide-to-restarting-your-keyboard/"><u>Revive Your Typing Experience: A Step-by-Step Guide to Restarting Your Keyboard</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/reviving-past-joy-on-fb-the-look-back-video-editing-path-for-2024/"><u>Reviving Past Joy on FB The Look Back Video Editing Path for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-ps4-mic-problems-the-best-methods-explored/"><u>Solving PS4 Mic Problems: The Best Methods Explored</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-iphones-locked-screen-orientation-heres-how-to-unlock-it/"><u>Struggling with iPhone's Locked Screen Orientation? Here’s How to Unlock It!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-how-to-for-mac-obs-plus-streamlabs-integration-for-2024/"><u>The Complete How-To for Mac OBS + Streamlabs Integration for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-role-of-msda80dll-in-your-pcs-functionality-keep-or-remove/"><u>The Role of MSDA80.DLL in Your PC's Functionality - Keep or Remove?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-high-performance-hardware-by-toms-technology-review/"><u>The Ultimate Guide to High-Performance Hardware by Tom's Technology Review</u></a></li>
+</ul></div>
 

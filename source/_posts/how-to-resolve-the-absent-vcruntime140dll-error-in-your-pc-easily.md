@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the Absent VCRuntime140.dll Error in Your PC Easily
-date: 2024-09-18T18:10:18.637Z
-updated: 2024-09-20T17:41:14.504Z
+date: 2024-09-20T16:46:48.460Z
+updated: 2024-09-26T18:05:19.198Z
 tags:
   - win11
   - win10
@@ -58,13 +58,34 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a01819233c7d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Change date and time** to make sure that the date and time is correct on your Windows, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181cc9eb3f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Change time zone** to make sure that the time zone is correct, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181f1e2bac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click the**Internet Time** tab at the top, then click**Change Settings** .
 
@@ -73,6 +94,19 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
  5) Make sure to check the box next to**Synchronize with an Internet time server** , and click**Update now** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0182e74a509.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Click**OK** to finish the settings.
 
@@ -87,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
  2) Respectively type**time** ,**date** , and **w32tm/resync**  in the window, and press**Enter** after each command. If the time and date are incorrect after running, you can type the correct time and date in the window and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0266f185a5c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) After the commands complete, restart your computer and try Windows Update again to see if it works.
 
@@ -109,10 +150,10 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017383ddfcc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Double click**Windows Update** (if you are using Windows XP, double click**Automatic Updates** ).
@@ -130,13 +171,6 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
  2) Go to folders:**Windows > SoftwareDistribution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0174add00e1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Delete the folder named**SoftwareDistribution** .  (If you’re prompted for an administrator password or confirmation, type your password or provide confirmation.)
 
@@ -169,10 +203,10 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0177a875597.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Run the downloaded file.
@@ -184,6 +218,13 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
  4) Then it will run and try to fix the problem. After completing, restart your computer and try Windows Update again to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 4: Modify Registry Editor**
 
@@ -211,29 +252,9 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a781900ea1c1.png)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7) Restart your computer and try again to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Bonus Tip: Update device drivers**
 
@@ -280,5 +301,23 @@ thumbnail: https://thmb.techidaily.com/3268231cc2e746a9acbe27cd5a06636ae1bf5dfa4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-translate-speech-to-text-the-right-way-with-google-translate-for-2024/"><u>[New] How to Translate Speech to Text the Right Way with Google Translate for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-ultimate-tutorial-creating-instagram-ready-videos-with-final-cut-pro-x-for-2024/"><u>[New] The Ultimate Tutorial Creating Instagram-Ready Videos with Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unraveling-asmr-for-mental-and-physical-health-for-2024/"><u>[New] Unraveling ASMR for Mental and Physical Health for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-naming-wizards-the-best-ai-tools-for-podcast-titles/"><u>[Updated] Naming Wizards The Best AI Tools for Podcast Titles</u></a></li>
+<li><a href="https://common-error.techidaily.com/banishing-shadows-expert-tips-on-resolving-the-black-screen-dilemma-in-windows-11/"><u>Banishing Shadows: Expert Tips on Resolving the Black Screen Dilemma in Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-amd-radeon-rx-6800-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download AMD Radeon RX 6800 Drivers: Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-assessment-unveiling-the-capabilities-of-jacos-smartpro-digital-tire-inflator/"><u>Expert Assessment: Unveiling the Capabilities of Jaco's SmartPro Digital Tire Inflator</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-realme-11-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Realme 11 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-speaker-noise-interference-in-your-windows-laptop-or-desktop-windows-1/"><u>How to Stop Speaker Noise Interference in Your Windows Laptop or Desktop (Windows 1</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-flash-through-files-on-your-windows-pc/"><u>In 2024, Flash Through Files on Your Windows PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-solution-for-windows-10-restart-problems-during-shutdown-process/"><u>Mastering the Solution for Windows 10 Restart Problems During Shutdown Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-and-easy-guide-to-usb-tethering-with-windows-10/"><u>Quick & Easy Guide to USB Tethering with Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/quickly-restore-bluetooth-on-your-windows-tenth-system-effortless-steps-to-follow/"><u>Quickly Restore Bluetooth on Your Windows Tenth System – Effortless Steps to Follow</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/showdown-analyzing-the-differences-between-ring-and-nest-doorbells/"><u>Showdown: Analyzing the Differences Between Ring & Nest Doorbells</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-when-windows-struggles-to-identify-your-printer-driver/"><u>Step-by-Step Solution for When Windows Struggles to Identify Your Printer Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-solutions-fixing-wacom-tablet-connectivity-problems/"><u>Troubleshooting Solutions: Fixing Wacom Tablet Connectivity Problems</u></a></li>
+</ul></div>
 

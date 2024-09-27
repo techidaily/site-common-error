@@ -1,7 +1,7 @@
 ---
 title: How to Stop Windows 10 From Continuously Restarting on Shutdown Attempts
-date: 2024-09-17T17:37:42.668Z
-updated: 2024-09-20T16:40:59.312Z
+date: 2024-09-22T16:32:42.963Z
+updated: 2024-09-26T21:51:50.824Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ After a day’s work, you click**Shut down** and pack your stuff for leaving. Bu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/619Rf5BkGlL._SL1273_-1019x1024.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  USB Type-C sample  
  Photo from Amazon
 
@@ -54,16 +61,17 @@ The solution for this bug is very simple.
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-3.jpg)
 3. Choose**Troubleshoot** in the left pane. Then click**Power** and click**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/power-1.jpg)
 4. Follow the on-screen instructions to finish the process.
 5. Reboot your computer to apply the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable Fast Startup feature
 
@@ -74,15 +82,16 @@ The solution for this bug is very simple.
 1. Press the **Windows logo key + Pause** and click **Control Panel Home** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/0-1.jpg)
 2. Change **View by Large icons** and click **Power Options** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-11.jpg)
-3. Click **Choose what the power button do** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-11.jpg)
+3. Click **Choose what the power button do** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-9.jpg)
 4. Click **Change settings that are currently unavailable** .  
@@ -90,6 +99,13 @@ The solution for this bug is very simple.
 5. Make sure you uncheck **Turn on fast startup (recommended)** . Then click **Save Changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-7.jpg)
 6. Reboot your computer to apply the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -100,23 +116,9 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the result indicates that there are broken files exists but SFC can’t fix it, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examine and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
@@ -129,6 +131,14 @@ The solution for this bug is very simple.
 2. Type “regedit” and press**Enter** to open**Registry Edition** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/registry.jpg)
 3. Copy and paste the text into the address bar and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  “ **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Memory Management** “.
 4. Double-click**ClearPageFileAtShutdown** , change the value to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut.jpg)
@@ -137,13 +147,21 @@ The solution for this bug is very simple.
 6. Find**WaitToKillServiceTimeout** file in the right pane. Double click it and set the value between**1000 to 20000** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut1.jpg)
 7. Click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Reboot your computer to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus: Update your driver
@@ -177,5 +195,22 @@ The solution for this bug is very simple.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-which-is-the-top-screener-bandicam-or-camtasia/"><u>[New] 2024 Approved Which Is the Top Screener? - Bandicam Or Camtasia</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flawless-playlist-integration-techniques-in-web-development/"><u>[New] In 2024, Flawless Playlist Integration Techniques in Web Development</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-key-techniques-for-a-thorough-review-of-youtube-stats/"><u>[New] Key Techniques for a Thorough Review of YouTube Stats</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-elevate-your-contents-visibility-with-these-gadgets-for-2024/"><u>[Updated] Elevate Your Content's Visibility with These Gadgets for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-smallscreenvid-recorder-critique/"><u>[Updated] In 2024, SmallScreenVid Recorder Critique</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-preeminent-platforms-twitter-like-experiences/"><u>2024 Approved Preeminent Platforms Twitter-Like Experiences</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-a-stubborn-geforce-experience-application-that-refuses-to-start/"><u>Dealing with a Stubborn GeForce Experience Application That Refuses to Start</u></a></li>
+<li><a href="https://common-error.techidaily.com/endgame-achievement-overcoming-pubgs-dxgidll-challenge/"><u>Endgame Achievement - Overcoming PUBG's Dxgi.dll Challenge</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/nostalgia-packed-guide-unveiling-the-timeless-charm-of-super-mario-bros-in-a-vintage-game-and-watch-device/"><u>Nostalgia-Packed Guide: Unveiling the Timeless Charm of Super Mario Bros. In a Vintage Game & Watch Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/protect-your-pc-identifying-the-7-most-suspicious-windows-processes/"><u>Protect Your PC: Identifying the 7 Most Suspicious Windows Processes</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-overcoming-the-0xaddressed-memory-write-error/"><u>Solution: Overcoming the 0xAddressed Memory Write Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fixing-the-internet-explorer-has-stopped-working-issue/"><u>Step-by-Step Guide to Fixing the 'Internet Explorer Has Stopped Working' Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-causes-behind-invalid-directory-names-in-web-hosting/"><u>Troubleshooting: The Causes Behind Invalid Directory Names in Web Hosting</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-how-to-thaw-a-frozen-windows-10-taskbar-efficiently/"><u>Ultimate Guide: How to Thaw a Frozen Windows 10 Taskbar Efficiently</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-from-console-to-camera-3-simple-video-game-recording-methods-for-2024/"><u>Updated From Console to Camera 3 Simple Video Game Recording Methods for 2024</u></a></li>
+</ul></div>
 

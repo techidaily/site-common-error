@@ -1,7 +1,7 @@
 ---
 title: Fixing When Your '@' Key Stops Responding on Computer or Smartphone
-date: 2024-09-17T16:27:12.101Z
-updated: 2024-09-20T17:22:51.669Z
+date: 2024-09-25T23:04:46.386Z
+updated: 2024-09-26T20:24:07.963Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 3: Update or reinstall your drivers**
 
 #### A. Update your driver
@@ -92,13 +99,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or you can click the**Update** button next to the graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-3.jpg)
 4. Restart your computer, and see if the problem is fixed or not.
@@ -123,26 +123,27 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Type “devmgmt.msc” and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Restart your computer, and see if the problem is fixed or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
 
@@ -152,13 +153,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Change processor affinity
 
  According to practice and some users experiences, processor affinity can help users get rid of the crash. You can try this method, but if it works for you, you have to repeat it every time when you launch the game.
@@ -166,10 +160,25 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 1. Run the game, then press the**Windows logo key** +**R** together to open the run box.
 2. Type “taskmgr” and press**Enter** to open the Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/task.jpg)
 3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -190,5 +199,22 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ultimate-vr-clarity-achieved/"><u>[New] 2024 Approved Ultimate VR Clarity Achieved</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-balancing-bitrate-in-obs-broadcasts-for-2024/"><u>[New] Balancing Bitrate in OBS Broadcasts for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nderstanding-t-series-youtube-business-model-for-2024/"><u>[New] Understanding T-Series YouTube Business Model for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-the-power-of-filmora-for-youtube-video-promotions-for-2024/"><u>[Updated] Harnessing the Power of Filmora for YouTube Video Promotions for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/dell-webcam-wont-work-on-windows-heres-how-to-fix-it/"><u>Dell Webcam Won't Work on Windows? Here's How to Fix It!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-when-your-geforce-experience-cant-access-its-configurations-anymore/"><u>Expert Tips for When Your GeForce Experience Can't Access Its Configurations Anymore</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-network-issues-a-guide-to-dealing-with-unavailable-dhcp-servers/"><u>Fixing Network Issues: A Guide to Dealing with Unavailable DHCP Servers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-mastering-video-directorship-with-powerdirector-24/"><u>In 2024, Mastering Video Directorship with PowerDirector '24</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-a15-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy A15 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-mystery-of-muted-steam-titles-fast-and-effective-tips/"><u>Solving the Mystery of Muted Steam Titles - Fast and Effective Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-fixing-error-0xc1900208-during-windows-10-updates/"><u>Step-by-Step Solution for Fixing Error 0xC1900208 During Windows 10 Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-airpods-connectivity-problems-with-windows-1011-latest-fixes/"><u>Troubleshoot and Repair AirPods Connectivity Problems with Windows 10/11 - Latest Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-elevated-cpu-consumption-in-wdf-environments-for-optimal-operation/"><u>Troubleshooting Elevated CPU Consumption in WDF Environments for Optimal Operation</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-list-slow-motion-video-editing-solutions/"><u>Updated The Ultimate List Slow Motion Video Editing Solutions</u></a></li>
+</ul></div>
 

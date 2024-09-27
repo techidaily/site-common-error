@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial to Open Microsoft Store that Won't Start Up
-date: 2024-09-18T17:11:49.660Z
-updated: 2024-09-20T19:26:44.537Z
+date: 2024-09-25T20:36:32.180Z
+updated: 2024-09-26T20:49:24.588Z
 tags:
   - win11
   - win10
@@ -46,6 +46,19 @@ Continuously getting the error **“There is a problem with your games setup. Pl
 
 If that didn’t help, try the next fix below.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Clear Origin game cache
 
  To be able to load faster, Origin stores data called cache files. But over time, these files accumulate out-of-date data and because of this, it’s best to delete them, especially if you’re having problems with your games. Here’s how to do this:
@@ -57,15 +70,36 @@ If that didn’t help, try the next fix below.
 
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Under the**Processes** tab, look for**Origin, OriginClientService, and OriginWebHelperService** . If they’re on the list, make sure to right-click each and then select**End task** .  
 
 ![how to chear cache on Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/make-sure-Origin-is-fully-closed.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
  3) Type or paste**%ProgramData%/Origin** and press Enter.  
   
 ![how to clear Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/Origin-ProgramData.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Delete all the files and folders inside it**except for LocalContent** . Do not delete this folder.  
   
@@ -97,6 +131,13 @@ If that didn’t help, try the next fix below.
 
 If this didn’t give you any luck, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Update your device drivers
 
  A driver is an essential piece of software that lets your system communicate with your hardware. If the device drivers are outdated, it would cause noticeable performance problems. When there are error messages popping up while launching a program, you should consider if you’re using any outdated drivers.
@@ -118,9 +159,23 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-device-drivers.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. Then resume your installation or launch your game from Origin to check if that error message still appears.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run Origin as an administrator
 
@@ -138,16 +193,16 @@ If you want to make Origin always run as administrator, take these steps:
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/always-run-Origin-as-an-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-Origin-as-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Resume your installation and check if it helped you fix the issue. If your problem persists, try the next fix below.
 
@@ -169,23 +224,9 @@ If that didn’t help, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/how-to-check-my-Windows-version.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/my-windows-version.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -204,5 +245,20 @@ If that didn’t help, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-open-world-alternatives-to-grand-theft-adventure-for-2024/"><u>[New] Open World Alternatives to Grand Theft Adventure for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-earning-edge-reached-for-subscribers-above-500/"><u>[Updated] 2024 Approved Earning Edge Reached for Subscribers Above 500</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-the-top-3-alternative-video-portals-for-2024/"><u>[Updated] Discover the Top 3 Alternative Video Portals for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-foundations-of-using-zooms-clustering-feature-for-2024/"><u>[Updated] Foundations of Using Zoom's Clustering Feature for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/comprehensive-netgear-c3700-cabledsl-gateway-assessment/"><u>Comprehensive Netgear C3700 Cable/DSL Gateway Assessment</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-troubleshooting-windows-10-bluetooth-connection-issues-tip-guide/"><u>Effective Strategies: Troubleshooting Windows 10 Bluetooth Connection Issues (Tip Guide )</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-seamlessly-install-battleye-troubleshooting-guide/"><u>How to Seamlessly Install BattlEye - Troubleshooting Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-youtube-money-policy-overhaul-details/"><u>Mastering YouTube Money Policy Overhaul Details</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-hdmi-connectivity-issues-windows-10-wont-recognize-your-tv/"><u>Resolving HDMI Connectivity Issues: Windows 10 Won't Recognize Your TV</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209040509-total-war-rome-remastered-crashes-heres-how-to-get-it-running-smoothly-again/"><u>Total War: Rome Remastered Crashes? Here's How to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-techniques-for-livekernelevent-error-number-1e/"><u>Troubleshooting Techniques for LiveKernelEvent Error Number 1E</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-limited-system-capacity-error-a-comprehensive-guide/"><u>Understanding and Fixing the 'Limited System Capacity' Error: A Comprehensive Guide</u></a></li>
+</ul></div>
 

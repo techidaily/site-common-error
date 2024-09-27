@@ -1,7 +1,7 @@
 ---
 title: "Mac & Windows Keyboard Troubleshoot: Reactivating the Missing Backlight Feature"
-date: 2024-09-16T18:29:05.350Z
-updated: 2024-09-20T19:06:01.247Z
+date: 2024-09-25T23:28:11.436Z
+updated: 2024-09-26T18:36:43.403Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -45,11 +52,40 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Right-click on**speakers** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -71,13 +107,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust **the minimum processor state**
 
  Adjusting**the minimum processor state** , as reported by many users, is another effective way to fix the annoying sound problem in our speaker. To do so:
@@ -89,15 +118,16 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 3. Click **Change advanced power settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
- Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
+ Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
@@ -121,5 +151,18 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-pioneering-publishing-platforms-fb-and-its-video-distribution-insights/"><u>[Updated] 2024 Approved Pioneering Publishing Platforms FB and Its Video Distribution Insights</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-exploring-beyond-manycam-enhanced-alternatives-in-2024/"><u>[Updated] Exploring Beyond ManyCam Enhanced Alternatives, In 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-10-best-online-learning-sites-like-udemy/"><u>[Updated] In 2024, 10 Best Online Learning Sites Like Udemy</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-unlocking-the-potential-of-consoles-with-pc-gaming-tech/"><u>[Updated] Unlocking the Potential of Consoles with PC Gaming Tech</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bio-engineered-healing-spaces-via-arvr/"><u>Bio-Engineered Healing Spaces via AR/VR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/final-cut-pros-essential-toolkit-the-top-10-plugin-list-for-2024/"><u>Final Cut Pro's Essential Toolkit The Top 10 Plugin List for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-a-keyboard-that-wont-respond-on-your-windows-machine-solutions-inside/"><u>How to Resolve a Keyboard That Won't Respond on Your Windows Machine - Solutions Inside</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-iphone-se-2020-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on iPhone SE (2020) or iPad?</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-resolution-to-fix-svchostexes-abnormal-cpu-usage-on-your-windows-11-pc/"><u>Step-by-Step Resolution to Fix svchost.exe’s Abnormal CPU Usage on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-windows-10-unresponsive-behavior-at-first-boot/"><u>Step-by-Step Solutions for Windows 10 Unresponsive Behavior at First Boot</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-resolving-windows-10-brightness-settings-problems/"><u>Step-by-Step: Resolving Windows 10 Brightness Settings Problems</u></a></li>
+</ul></div>
 

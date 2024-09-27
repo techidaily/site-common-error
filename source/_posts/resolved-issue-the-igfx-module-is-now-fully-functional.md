@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: The iGFX Module Is Now Fully Functional"
-date: 2024-09-19T17:59:02.283Z
-updated: 2024-09-20T19:36:37.873Z
+date: 2024-09-20T21:45:21.561Z
+updated: 2024-09-26T17:53:38.541Z
 tags:
   - win11
   - win10
@@ -57,22 +57,37 @@ thumbnail: https://thmb.techidaily.com/188e4b5f7b4d2d2127c0913fec4bf39f7b63f882f
 2. Type**devmgmt.msc** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -86,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/188e4b5f7b4d2d2127c0913fec4bf39f7b63f882f
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
@@ -113,6 +128,13 @@ thumbnail: https://thmb.techidaily.com/188e4b5f7b4d2d2127c0913fec4bf39f7b63f882f
 
 If this method didn’t work for you, check out the last fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Run Keyboard Troubleshooter
 
  If your keyboard isn’t working properly, running a built-in troubleshooter might help find and fix the problem for you. To do so:
@@ -123,22 +145,8 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
@@ -149,15 +157,16 @@ If this method didn’t work for you, check out the last fix.
 2. Select**System** . Scroll down and click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
-![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
-4. Click on the**Run** button next to Keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
+4. Click on the**Run** button next to Keyboard.
 
 ---
 
@@ -178,5 +187,22 @@ If this method didn’t work for you, check out the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fixed-youtube-audio-renderer-error-on-windows-10/"><u>[FIXED] Youtube Audio Renderer Error on Windows 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-field-fusion-top-10-agrarian-adventure-titles/"><u>[New] 2024 Approved Field Fusion Top 10 Agrarian Adventure Titles</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-error-1067-the-process-terminated-unexpectedly-on-windows/"><u>[SOLVED] Error 1067: The Process Terminated Unexpectedly on Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-exploring-windows-11-essential-upgrades/"><u>2024 Approved Exploring Windows 11 Essential Upgrades</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-launching-a-video-channel-dedicated-to-new-and-used-product-reviews/"><u>2024 Approved Launching a Video Channel Dedicated to New and Used Product Reviews</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210428029-beat-the-glitch-successfully-turn-off-your-computer-running-windows-11-now-solved/"><u>Beat the Glitch: Successfully Turn Off Your Computer Running Windows 11 – Now Solved</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-disabling-cortanas-copilot-feature-in-windows-11/"><u>Comprehensive Tutorial on Disabling Cortana's Copilot Feature in Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exciting-virtual-play-top-7-games-for-youngsters-online/"><u>Exciting Virtual Play: Top 7 Games for Youngsters Online</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-pour-la-correction-de-fautes-dans-handbrake-resoudre-les-problemes-dimpossibilite-de-lire-le-titre-du-dvd/"><u>Guide Pour La Correction De Fautes Dans HandBrake: Résoudre Les Problèmes D’impossibilité De Lire Le Titre Du DVD</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-bluetooth-keyboard-that-wont-connect-to-your-computer/"><u>How to Fix a Bluetooth Keyboard That Won't Connect to Your Computer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-peak-of-primes-amazons-hot-tweets-and-shows-23/"><u>In 2024, The Peak of Primes Amazon’s Hot Tweets & Shows, '23</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-audio-output-device-not-installed-error-tips-and-tweaks-for-windows-users/"><u>Overcoming 'Audio Output Device Not Installed' Error: Tips and Tweaks for Windows Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/revitalize-your-iphone-top-3-methods-for-successful-backup-recovery/"><u>Revitalize Your iPhone: Top 3 Methods for Successful Backup Recovery</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-pc-dropouts-in-monster-hunter-world-gameplay/"><u>Troubleshooting PC Dropouts in Monster Hunter World Gameplay</u></a></li>
+</ul></div>
 

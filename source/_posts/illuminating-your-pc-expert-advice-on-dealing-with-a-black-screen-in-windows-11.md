@@ -1,7 +1,7 @@
 ---
 title: "Illuminating Your PC: Expert Advice on Dealing with a Black Screen in Windows 11"
-date: 2024-09-15T19:08:38.281Z
-updated: 2024-09-20T17:51:30.283Z
+date: 2024-09-25T00:32:27.847Z
+updated: 2024-09-26T23:34:38.077Z
 tags:
   - win11
   - win10
@@ -66,6 +66,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
  1) Click the speaker icon ![](https://images.drivereasy.com/wp-content/uploads/2016/01/2020-05-18_15-02-50.jpg) in the notification area of your taskbar. Then click **Open Volume mixer** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
 
  2) Select**System Sounds** .
@@ -75,6 +82,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  3) Go to the **Recording** tab, right-click an empty area inside the devices’ display list, and then tick **Show Disabled Devices** to ensure that your mic device shows up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click to highlight your microphone, then click**Set Default > Default Device** .
 
@@ -96,6 +110,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-117.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Check to see if your mic is working fine. If it isn’t, please move on to the next fix, below.
 
 ---
@@ -108,6 +129,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
@@ -115,6 +143,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  3) Right-click your mic and select**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
@@ -124,13 +159,6 @@ Now check to see your mic is back on track.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Modify privacy settings
 
  There’s a possibility that your privacy settings related to the microphone has been reset after a Windows Update or other system events. If so, your mic may be forbidden to work normally. To check and modify these settings, here’s what you can do:
@@ -138,19 +166,6 @@ Now check to see your mic is back on track.
  1) On your keyboard, press the **Windows logo key** and **I** at the same time to fire up the **Settings** window. Then, select **Privacy** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
 
@@ -161,6 +176,13 @@ Now check to see your mic is back on track.
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
 
@@ -183,5 +205,18 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-leading-the-edge-professional-cameras-that-rotate-full-circle-2023/"><u>[New] Leading the Edge Professional Cameras That Rotate Full Circle - 2023</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-crafted-by-professionals-best-free-mobile-editors-for-android/"><u>[Updated] In 2024, Crafted by Professionals Best Free Mobile Editors for Android</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-x90s-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo X90S to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cloud-economy-unveiling-best-deals/"><u>Cloud Economy Unveiling Best Deals</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-windows-10-system-crashes/"><u>Effective Fixes for When Your Windows 10 System Crashes</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro Max To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-use-dev-drive-for-developers-on-windows-11/"><u>How to Use Dev Drive for Developers on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211608220-resolved-when-screens-wont-accept-pen-or-touch-heres-what-to-do/"><u>Resolved: When Screens Won't Accept Pen or Touch, Here’s What to Do</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-unreachable-desktop-message-for-windows-system-accounts/"><u>Resolving the 'Unreachable Desktop' Message for Windows System Accounts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/syncopated-syntax-showcase-for-2024/"><u>Syncopated Syntax Showcase for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-common-steam-error-code-80-problems/"><u>Troubleshooting the Common Steam Error Code 80 Problems</u></a></li>
+</ul></div>
 

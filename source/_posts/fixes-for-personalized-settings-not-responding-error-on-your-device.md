@@ -1,7 +1,7 @@
 ---
 title: Fixes For 'Personalized Settings Not Responding' Error on Your Device
-date: 2024-09-18T17:51:15.980Z
-updated: 2024-09-20T16:14:19.651Z
+date: 2024-09-22T23:55:38.805Z
+updated: 2024-09-26T21:41:14.029Z
 tags:
   - win11
   - win10
@@ -42,11 +42,25 @@ Then you can check if the application is listed here. If it is, uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9d00544d7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3) Start and re-register Microsoft Installer service
 
 There may be something going wrong with**Microsoft Installer service**and therefore resulting in error 1603\. You can fix the problem by (re)starting and re-registering Microsoft Installer service. To**start**Windows Installer service:**a)** Press**Win + R**and enter “_**services.msc**_“;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca68fd8714.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **b)** Find and double click on**Windows Installer**;
 
@@ -56,20 +70,27 @@ There may be something going wrong with**Microsoft Installer service**and theref
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca7cbbdf36.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**msiexec /unregister**_” and hit**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9370d810.png)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **b)** Press**Win + R** again and enter “ _**msiexec /regserve** **r**_ “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4) Acquire full permissions on the drive for installation
 
@@ -77,16 +98,16 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)** Go to**Security**tab and click on**Edit**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595caf24696ae.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **c)** Single click on **SYSTEM**and ensure that the**Allow**box of every item in**Permissions for SYSTEM** is checked (if it is checkable). Do the same check for**Administrators**.
 
@@ -100,9 +121,23 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb5c235c54.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **f)** On**Permissions**tab, double click on**Administrators**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb67382950.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **g)** Select**This folder, subfolders and files**for**Applies to**field and**tick** **all the available basic permissions**. After that hit**OK**.
 
@@ -111,13 +146,6 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 **h)** Do the same operation above for**SYSTEM**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb8202ef5a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **i)** Click on**OK** all the way out. Now you have acquired full permissions on this drive. Try installing your application and see if the issue is fixed.
 
@@ -136,5 +164,21 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-eye-catchers-of-tomorrow-discovering-6-future-oriented-genres/"><u>[New] In 2024, Eye Catchers of Tomorrow Discovering 6 Future-Oriented Genres</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtube-monetization-changes-500-subscribers-now-eligible/"><u>[Updated] 2024 Approved YouTube Monetization Changes 500 Subscribers Now Eligible</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ultimate-audio-and-video-showcase-excellent-webcams-for-podcasts/"><u>[Updated] Ultimate Audio & Video Showcase Excellent Webcams for Podcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-intro-creation-made-simple-free-templates/"><u>2024 Approved Intro Creation Made Simple - Free Templates</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-windows-sudden-cpu-usage-peaks/"><u>Addressing Windows' Sudden CPU Usage Peaks</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/crafting-futures-mondly-languages-two-years-of-aspirations/"><u>Crafting Futures: Mondly Languages, Two Years of Aspirations</u></a></li>
+<li><a href="https://common-error.techidaily.com/gaining-authorization-from-trustedinstaller-to-make-changes-to-encrypted-files/"><u>Gaining Authorization From TrustedInstaller to Make Changes to Encrypted Files</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-fcpx-audio-editing-how-to-minimize-background-noise-for-crisp-sound/"><u>New In 2024, FCPX Audio Editing How to Minimize Background Noise for Crisp Sound</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-d3dx939dll-not-found-issue-step-by-step-guide/"><u>Resolve the 'd3dx9_39.dll' Not Found Issue: Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-volume-functionality-on-your-windows-latebolz-step-by-step-fixes/"><u>Restore Volume Functionality on Your Windows ˈlaɪtəbóʊlz - Step by Step Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-usb-mouse-issues-on-your-laptop-top-tips-and-tricks/"><u>Solve USB Mouse Issues on Your Laptop - Top Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-for-successful-smartaudio-activation-after-initial-failures-resolved/"><u>Tips for Successful SmartAudio Activation After Initial Failures - Resolved</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-display-problems-on-your-favorite-sites/"><u>Troubleshooting Display Problems on Your Favorite Sites</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-best-ipad-video-editing-apps-expert-recommendations-for-2024/"><u>Updated Best iPad Video Editing Apps Expert Recommendations for 2024</u></a></li>
+</ul></div>
 

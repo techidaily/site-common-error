@@ -1,7 +1,7 @@
 ---
 title: Microsoft Print to PDF Malfunctioning? Here's How to Fix It on Windows 11
-date: 2024-09-19T16:50:35.965Z
-updated: 2024-09-20T18:00:03.999Z
+date: 2024-09-20T21:39:29.931Z
+updated: 2024-09-26T20:15:49.112Z
 tags:
   - win11
   - win10
@@ -31,6 +31,19 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
 3. **[Set the Bluetooth support service to automatic](#c)**
 4. **[Update your Bluetooth driver](#d)**
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Remove all Bluetooth devices
 
  If you’ve connected multiple Bluetooth devices to your PC, chances are that one or more of your devices are preventing your PC from detecting other Bluetooth devices.
@@ -51,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/61f98fc4d9e1af032d9fc6896b875fde870b9cc61
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-12-48.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Click**Add a device** to see if your Bluetooth works properly now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_18-13-19.jpg)
@@ -65,6 +85,13 @@ If your problem persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-35-46-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Select**Bluetooth** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-48-23.jpg)
@@ -72,13 +99,6 @@ If your problem persists, then move on and try the fix below.
 **3)** Wait for this process to be complete. Then, try pairing your Bluetooth devices to your PC again.
 
  If your Bluetooth still won’t discover devices, then read on and try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Set the Bluetooth support service
 
@@ -92,16 +112,16 @@ If your problem persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-56-23.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click**Bluetooth Support Service** . If the service is running, click**Restart** ; if the service isn’t running, click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_12-00-47.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Right-click**Bluetooth Support Service** and select**Properties** .
 
@@ -114,13 +134,6 @@ If your problem persists, then move on and try the fix below.
 **6)** Try connecting your Bluetooth devices to test your problem.
 
 If your issue continues to occur, then try the next solution, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update Bluetooth driver
 
@@ -138,11 +151,25 @@ If your issue continues to occur, then try the next solution, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-09-57.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update**  button next to the Bluetooth driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-07-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Restart your PC, then try reconnecting your Bluetooth devices to test your issue.
 
@@ -164,5 +191,22 @@ If your issue continues to occur, then try the next solution, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-spark-interest-and-boost-views-on-instagram-videos/"><u>[New] How to Spark Interest & Boost Views on Instagram Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-enhancing-viewer-engagement-with-smart-end-screen-techniques/"><u>[New] In 2024, Enhancing Viewer Engagement with Smart End Screen Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-no-expense-high-quality-topping-chromebook-screen-capture-apps/"><u>[New] No Expense, High Quality – Topping Chromebook Screen Capture Apps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-halt-predicted-posts-no-more-suggests-on-insta/"><u>[Updated] 2024 Approved Halt Predicted Posts No More Suggests on Insta</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-learn-quickly-updating-your-discord-avatar-status/"><u>2024 Approved Learn Quickly Updating Your Discord Avatar Status</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-effortlessly-overcome-windows-updates-held-at-zero-percentage/"><u>How To Effortlessly Overcome Windows Updates Held At Zero Percentage?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-capturing-breathtaking-photos-with-iphone-hdr/"><u>In 2024, Capturing Breathtaking Photos with iPhone HDR</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/polishing-pixels-8-pro-photo-frames-for-images-online/"><u>Polishing Pixels 8 Pro Photo Frames for Images Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-the-code-28-issue-on-your-windows-device-manager/"><u>Resolved: How to Fix the 'Code 28' Issue on Your Windows Device Manager</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-of-randomly-typed-letters-in-word-processors/"><u>Solving the Issue of Randomly Typed Letters in Word Processors</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-correcting-failed-to-create-graphics-device-problem-for-improved-performance/"><u>Troubleshooting and Correcting 'Failed to Create Graphics Device' Problem for Improved Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-restoring-functionality-to-your-windows-11-start-menu/"><u>Troubleshooting Tips - Restoring Functionality to Your Windows 11 Start Menu</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-unsuccessful-windows-11-build-1607-feature-upgrade/"><u>Troubleshooting: Unsuccessful Windows 11 Build 1607 Feature Upgrade</u></a></li>
+<li><a href="https://common-error.techidaily.com/uncomplicated-techniques-for-tackling-the-frozen-windows-update-issue/"><u>Uncomplicated Techniques for Tackling the Frozen Windows Update Issue</u></a></li>
+</ul></div>
 

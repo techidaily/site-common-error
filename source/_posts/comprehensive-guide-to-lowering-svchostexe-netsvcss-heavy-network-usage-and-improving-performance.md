@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Lowering svchost.exe NETSVCS's Heavy Network Usage & Improving Performance
-date: 2024-09-14T19:55:12.351Z
-updated: 2024-09-20T16:04:19.204Z
+date: 2024-09-19T19:56:21.208Z
+updated: 2024-09-26T16:23:43.833Z
 tags:
   - win11
   - win10
@@ -58,26 +58,27 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/task-manager.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Click **Details** . Right-click the **svchost.exe**  process using high CPU usage and click **Go to service(s)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) You’ll go to a window with highlighted services that run under the**svchost.exe** process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Right-click one of the processes and click **Stop**  to stop it.
 
@@ -97,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/startup-type-disable.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9) See if the problem is resolved.
 
 ## **3: Empty event viewer log**
@@ -114,26 +108,26 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/clear-log-windows-log-application-event-viewer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Repeat the same procedures to clear the **Security, Setup** and **System** logs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Restart your computer after this.
@@ -146,6 +140,13 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/services-msc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Right-click**Windows Update** and click **Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
@@ -155,10 +156,23 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/softwaredistribution.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **PRO TIP**
@@ -196,5 +210,24 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-boosting-sales-via-high-roi-animated-fb-ad-campaigns/"><u>[New] 2024 Approved Boosting Sales via High-ROI Animated FB Ad Campaigns</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-inverted-footage-whats-behind-instagrams-peculiarity/"><u>[Updated] Inverted Footage What's Behind Instagram's Peculiarity?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-set-up-facebook-cover-videos-for-2024/"><u>[Updated] Set up Facebook Cover Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-wizardry-cure-kernel32-fails/"><u>[Windows Wizardry] Cure Kernel32 Fails</u></a></li>
+<li><a href="https://common-error.techidaily.com/boost-your-gameplay-expert-tips-to-overcome-minecraft-lag-issues/"><u>Boost Your Gameplay: Expert Tips to Overcome Minecraft Lag Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnose-and-solve-the-shadow-play-not-installed-issue-on-geforce-gpus/"><u>Diagnose and Solve the Shadow Play Not Installed Issue on Geforce GPUs</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11-endless-reboot-cycle-expert-solutions/"><u>Fixing Windows 11 Endless Reboot Cycle: Expert Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-flipbooks-to-frames-7-core-strategies-for-crafting-engaging-gifs-for-2024/"><u>From Flipbooks to Frames 7 Core Strategies for Crafting Engaging GIFs for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-photo-color-correction/"><u>In 2024, Mastering the Art of Photo Color Correction</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamers-dilemma-is-vlc-superior-to-mpc/"><u>In 2024, Streamer's Dilemma Is VLC Superior to MPC?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/insider-knowledge-on-fixing-the-failed-diagnostic-services-run-process/"><u>Insider Knowledge on Fixing the Failed Diagnostic Services Run Process</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/level-up-your-gaming-rig-how-to-achieve-peak-performance-in-windows-11-games/"><u>Level Up Your Gaming Rig: How to Achieve Peak Performance in Windows 11 Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-fixes-for-persistent-error-code-0x800f0922-on-your-windows-10-machine/"><u>Master the Fixes for Persistent Error Code 0X800f0922 on Your Windows 10 Machine</u></a></li>
+<li><a href="https://win-lab.techidaily.com/movavis-web-based-tool-for-complimentary-mpeg-encoding-from-ram-files/"><u>Movavi's Web-Based Tool for Complimentary MPEG Encoding From RAM Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/streamlining-pasting-processes-in-windows-10-devices/"><u>Streamlining Pasting Processes in Windows 10 Devices</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Overwatch Voice Communication Problems
-date: 2024-09-17T19:59:21.243Z
-updated: 2024-09-20T18:33:53.712Z
+date: 2024-09-22T17:50:04.204Z
+updated: 2024-09-26T23:15:18.462Z
 tags:
   - win11
   - win10
@@ -47,10 +47,24 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Set default devices
 
@@ -68,11 +82,26 @@ Here’s how to do it:
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable Exclusive Mode
 
@@ -84,26 +113,19 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 4: Check your in-game audio settings
 
@@ -137,5 +159,20 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-top-8-facebook-movie-downloaders/"><u>[Updated] In 2024, Top 8 Facebook Movie Downloaders</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726030226923-5/"><u>「最高の無料音声変換アプリをご紹介！今回は人気5つピック」</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-90-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-recovery-essential-windows-updates-fully-restored/"><u>Complete Recovery: Essential Windows Updates Fully Restored</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015473748-dealing-with-cut-out-audio-in-windows-10-heres-the-solution/"><u>Dealing with Cut-Out Audio in Windows 10? Here's The Solution!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211590610-effective-strategies-to-address-twitchs-error-4/"><u>Effective Strategies to Address Twitch's Error 4#</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transform-into-a-hdr-photography-wizard-via-photoshop/"><u>In 2024, Transform Into a HDR Photography Wizard via Photoshop</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-transform-into-a-live-stream-enthusiast-on-tiktok/"><u>In 2024, Transform Into a Live-Stream Enthusiast on TikTok</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207892756-reveal-hidden-touchpad-with-simple-steps/"><u>Reveal Hidden Touchpad with Simple Steps</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-moto-g34-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Moto G34 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/tidy-up-resolve-explorer-crashes/"><u>Tidy Up: Resolve Explorer Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-and-fix-how-to-overcome-this-device-doesnt-support-receiving-miracast-error/"><u>Update & Fix: How to Overcome 'This Device Doesn't Support Receiving Miracast' Error</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme 12+ 5G | Dr.fone</u></a></li>
+</ul></div>
 

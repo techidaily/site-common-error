@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Role & Ensuring XINPUT1_3.dll's Presence
-date: 2024-09-18T17:46:20.221Z
-updated: 2024-09-20T16:44:32.072Z
+date: 2024-09-20T18:20:43.606Z
+updated: 2024-09-26T17:43:31.907Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ But don’t worry. We’ll help you fix your problem.
 2. [Change the display settings](#F2)
 3. [Update your monitor driver and graphics card driver](#F3)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot the monitor connection
 
  You may see the ‘**Input Not Supported** ‘ error if there’s something wrong with the monitor connection. So you should check the monitor cable to make sure it works properly. Or you can switch to a new monitor cable.
@@ -61,16 +68,32 @@ Here’s what you can do:
 2. Scroll down and find the**Scale and layout** section, then choose the**recommended resolution** for your display. If you’re on Windows 11, it’ll be**Display resolution** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd946559c00e.jpg)
 3. If you see a popup to confirm the change, click Keep changes to confirm.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94693c702d.jpg)
 4. Then click**Advanced display settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd946c1e8119.jpg)
 5. Under the monitor name that is having the Input Not Supported error, click**Display adapter properties for Display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd9472de63ac.jpg)
@@ -78,45 +101,26 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd94769aa3f3.jpg)
 7. Save the changes and restart your computer.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you’re using Windows 8 and Windows 7:
 
 1. Right click on any**empty area** on your desktop, and select**Screen resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92f17a6508.jpg)
 2. If you have multiple displays, select the display that is having the error. Then choose the**recommended resolution** , and click**Apply** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92f74c12c9.jpg)  
  If your current screen resolution is not proper, you’ll see a notification like this:  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92fc52735d.jpg)
 3. On the same pane, click**Advanced** **settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd92fec42db3.jpg)
 4. Click the**Monitor** tab, then choose the**recommended or default refresh rate setting** in the**Screen refresh rate** section.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd945d0dd649.jpg)
 5. Save the changes and restart your computer.
@@ -145,10 +149,10 @@ You should fix the error and boot your computer as normal.
 3. Click the**Update** button next to the flagged monitor and graphics card to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -173,5 +177,19 @@ You should fix the error and boot your computer as normal.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-achieve-xbox-broadcast-excellence-on-facebook/"><u>[New] Achieve Xbox Broadcast Excellence on Facebook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-free-downloader-turn-youtube-audio-into-premium-mp3s/"><u>[New] In 2024, Best Free Downloader Turn YouTube Audio Into Premium MP3s</u></a></li>
+<li><a href="https://solve-help.techidaily.com/best-4k-media-player-apps-top-10-free-options-for-windows-11-and-macos-users/"><u>Best 4K Media Player Apps: Top 10 FREE Options for Windows 11 & macOS Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721460947008-chatgpt-not-functioning-on-your-phone-discover-these-9-fixes-to-restore-it/"><u>ChatGPT Not Functioning on Your Phone? Discover These 9 Fixes to Restore It!</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-fixing-lenovo-mouse-pad-problems-across-windows-versions/"><u>Effective Solutions for Fixing Lenovo Mouse Pad Problems Across Windows Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-recover-and-repair-broken-system-elements-in-windows-11-easily/"><u>How to Recover and Repair Broken System Elements in Windows 11 Easily</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/repaired-enable-your-devices-local-authentication-feature-now/"><u>Repaired: Enable Your Device's Local Authentication Feature Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-sluggish-startup-problems-in-windows-7/"><u>Resolving Sluggish Startup Problems in Windows 7</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-rectify-windows-11-muted-or-unresponsive-volume-issues/"><u>Step-by-Step Solutions to Rectify Windows 11 Muted or Unresponsive Volume Issues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-edit-videos-for-free-top-online-tools-and-software-for-2024/"><u>Updated Edit Videos for Free Top Online Tools and Software for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-doesnt-turn-off-discover-these-expert-solutions/"><u>Windows 11 Doesn't Turn Off? Discover These Expert Solutions</u></a></li>
+</ul></div>
 

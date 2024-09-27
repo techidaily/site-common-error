@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resolving the Unresponsive Touch Screen Problem on Microsoft Surface Pro 4"
-date: 2024-09-15T19:18:37.469Z
-updated: 2024-09-20T17:14:59.943Z
+date: 2024-09-21T19:40:05.846Z
+updated: 2024-09-26T20:57:45.739Z
 tags:
   - win11
   - win10
@@ -67,9 +67,24 @@ Here’s how to do it:
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -80,31 +95,41 @@ To do so:
 1. Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
- If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
+ If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -137,5 +162,21 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-beyond-reality-horizon-virtual-progress-and-upcoming-challenges/"><u>[New] Beyond Reality Horizon Virtual Progress & Upcoming Challenges</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-reverse-a-youtube-playlist-for-2024/"><u>[New] How to Reverse a YouTube Playlist for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-eliminate-unwanted-screen-elements-during-cam-record/"><u>[New] In 2024, Eliminate Unwanted Screen Elements During Cam Record</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-live-webcam-broadcast-the-power-of-vlc-technology-for-2024/"><u>[New] Live Webcam Broadcast The Power of VLC Technology for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-11-keeps-crashing/"><u>[SOLVED] Windows 11 Keeps Crashing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-list-of-12-top-notch-youtube-gaming-intros-freepaid/"><u>[Updated] The Ultimate List of 12 Top-Notch YouTube Gaming Intros (Free/Paid)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-elite-photo-safe-houses-online/"><u>2024 Approved Elite Photo Safe Houses Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-tips-for-dealing-with-a-non-functioning-notebook-touchpad/"><u>Comprehensive Tips for Dealing with a Non-Functioning Notebook Touchpad</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-x-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone X Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-narzo-60-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme Narzo 60 5G Phone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-the-loadlibrary-failed-with-error-t-87-problem-by-adjusting-incorrect-parameters/"><u>Overcome the 'Loadlibrary Failed with Error T 87' Problem by Adjusting Incorrect Parameters</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-user-privilege-issues-fixing-operation-needs-admin-access-in-windows-11-10-and-7/"><u>Resolving User Privilege Issues: Fixing 'Operation Needs Admin Access' In Windows 11, 10 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-windows-network-error-code-0x800704cf-a-comprehensive-guide/"><u>Solving the Windows Network Error Code 0X800704CF – A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-3-step-approach-to-effective-copywriting-on-facebook/"><u>The 3-Step Approach to Effective Copywriting on Facebook</u></a></li>
+</ul></div>
 

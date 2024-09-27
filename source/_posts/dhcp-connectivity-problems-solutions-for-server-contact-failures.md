@@ -1,7 +1,7 @@
 ---
 title: DHCP Connectivity Problems – Solutions for Server Contact Failures
-date: 2024-09-18T17:47:48.838Z
-updated: 2024-09-20T18:47:38.171Z
+date: 2024-09-21T16:57:22.165Z
+updated: 2024-09-26T21:54:42.592Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
 3. **[Turn off USB selective suspend](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Do some basic troubleshooting
 
  You may encounter this problem because of physical issues. It can be that your USB device happens to be faulty or the USB port you’re plugging your devices into are failing.
@@ -56,6 +63,13 @@ To rule out this as a possibility:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
@@ -65,13 +79,6 @@ To rule out this as a possibility:
  4) Restart your computer and check if the**USB keeps disconnecting** issue has been resolved. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Turn off USB selective suspend
 
@@ -83,9 +90,23 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
 
@@ -99,13 +120,6 @@ To make sure you’ve this setting disabled:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Change power management settings for USB Root Hubs
 
  Your PC system may automatically turn off the various devices on your computer in order to save power. And sometimes it can turn off your external hard drive, or USB devices specifically and cause the**USB keeps disconnecting** issue.
@@ -115,22 +129,15 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
@@ -162,5 +169,22 @@ To make sure you’ve this setting disabled:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-skyrocketing-video-performance-on-vimeo/"><u>[New] 2024 Approved Skyrocketing Video Performance on Vimeo</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/xploring-youtube-shorts-a-beginners-guide-to-video-crafting-for-2024/"><u>[New] Exploring YouTube Shorts A Beginner's Guide to Video Crafting for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-10-mouse-recorders-for-2024/"><u>[New] Top 10 Mouse Recorders for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-step-by-step-to-faster-tiktok-videos/"><u>2024 Approved Step-by-Step to Faster TikTok Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-infinix-note-30i-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Infinix Note 30i Pattern Lock Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208229165-how-to-resolve-a-keyboard-that-wont-respond-on-your-windows-machine-solutions-inside/"><u>How to Resolve a Keyboard That Won't Respond on Your Windows Machine - Solutions Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-prevent-your-computer-from-crashing-while-playing-games-windows-11-10-7-81-and-8/"><u>Resolved: How to Prevent Your Computer From Crashing While Playing Games (Windows 11, 10, 7, 8.1 & 8)</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-speaking-gear-solutions-for-non-functional-mics-on-microsofts-latest-os/"><u>Revive Your Speaking Gear: Solutions for Non-Functional Mics on Microsoft's Latest OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-browser-steps-to-get-ie-or-similar-programs-running-smoothly-again/"><u>Reviving Your Browser: Steps to Get IE or Similar Programs Running Smoothly Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-1011-issues-tips-when-usb-ports-fail-to-work/"><u>Solving Windows 10/11 Issues: Tips When USB Ports Fail to Work</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ultimate-guide-to-product-revelation-best-15-unboxing-channels-for-2024/"><u>The Ultimate Guide to Product Revelation Best 15 Unboxing Channels for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-unbeatable-deal-an-insightful-review-of-the-fx360-pro-from-id-cooling-for-just-60plusworth/"><u>The Unbeatable Deal: An Insightful Review of the FX360 Pro From ID-Cooling for Just $60+Worth</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-failed-directx-graphics-driver-installations/"><u>Troubleshooting and Fixing Failed DirectX Graphics Driver Installations</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-responsive-keys-how-to-fix-unresponsive-letters-on-windows-1011-keyboards/"><u>Troubleshooting Non-Responsive Keys: How to Fix Unresponsive Letters on Windows 10/11 Keyboards</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-issues-with-tekken-8-failure-to-start-on-pc/"><u>Troubleshooting Steps: Resolving Issues with Tekken 8 Failure to Start on PC</u></a></li>
+</ul></div>
 

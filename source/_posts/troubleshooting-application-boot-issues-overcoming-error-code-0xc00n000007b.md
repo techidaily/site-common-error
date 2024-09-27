@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Application Boot Issues: Overcoming Error Code 0Xc00n000007b"
-date: 2024-09-13T16:06:14.071Z
-updated: 2024-09-20T17:21:02.223Z
+date: 2024-09-25T20:19:02.981Z
+updated: 2024-09-26T16:33:50.584Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/9eb4aae367e8d7c80e3c075f7bffa3926b7f3e2ef
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/0xc0000098.jpg)
 
  _Error Code**0xc0000098**_  o_n Windows 10, 8, 8.1_
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -84,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/9eb4aae367e8d7c80e3c075f7bffa3926b7f3e2ef
 **Note:** The key to access BIOS can vary from**Esc** ,**Delete** to**F2** ,**F8** ,**F12** , depending on your manufacturer and computer model.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/keyboard-bios-keys.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Once in BIOS, go to the**Boot** sector and set**Removable Devices** or**CD-Rom Drive** as the first boot device.
 
  4) Save the changes and exit.
@@ -99,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/9eb4aae367e8d7c80e3c075f7bffa3926b7f3e2ef
 4) Go to**Troubleshoot** \>**Advanced Options** \>**Command Prompt** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/command-prompt.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) In Command Prompt, type the following command lines and hit Enter after each command. (There’s a space between**bootrec** and**/** .)
 
@@ -117,10 +138,10 @@ bootrec /rebuildbcd
  The 0xc0000098 error should now be fixed as your PC begins to load. If not, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Startup Repair
@@ -132,6 +153,19 @@ bootrec /rebuildbcd
 2) Select**Repair your computer** and go to**Troubleshoot** \>**Advanced Options** \>**Startup Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-repair.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Startup Repair will begin scanning your installation for known issues and will attempt a repair if it finds any.
 
@@ -167,13 +201,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 2) Wait for the scan to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Use a Windows Fortect Tool
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  Windows repair works by replacing system files automatically. It’s like a clean Windows reinstallation in one hour, without losing any programs, settings, or user data. It can fix the 0xc0000098 error code without a computer restart.
@@ -184,18 +211,24 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean install of Windows
 
@@ -253,13 +286,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all essential and peripheral drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get**full support** and a no-questions-asked**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers.jpg)
@@ -286,5 +312,23 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-8-best-screen-recorders-with-no-lag/"><u>[New] In 2024, Top 8 Best Screen Recorders with No Lag</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-learn-the-low-cost-way-of-designing-winning-youtube-ad-campaigns/"><u>[Updated] 2024 Approved Learn the Low-Cost Way of Designing Winning YouTube Ad Campaigns</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-review-of-syma-x8c/"><u>Comprehensive Review of Syma X8C</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/decipher-squid-game-master-korean-essentials/"><u>Decipher Squid Game: Master Korean Essentials</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/fitbit-versa-2-unveiled-comprehensive-review-on-a-wearable-device-that-transforms-your-workout-experience-with-added-smart-features/"><u>Fitbit Versa 2 Unveiled: Comprehensive Review on a Wearable Device That Transforms Your Workout Experience with Added Smart Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-mysterious-process-abruptly-ended-error-code-1067-in-windows/"><u>Fixing the Mysterious 'Process Abruptly Ended' Error Code 1067 in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fix-lenovo-keyboard-issues-for-smooth-typing-experience/"><u>Guide to Fix Lenovo Keyboard Issues for Smooth Typing Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fixing-and-successfully-deploying-the-battleye-cheating-detection-system/"><u>Guide to Fixing and Successfully Deploying the BattlEye Cheating Detection System</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-play-strands-the-nyts-latest-addicting-word-game/"><u>How to Play Strands, the NYT's Latest Addicting Word Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-scroll-wheel-action-on-your-windows-10-laptops-touchpad/"><u>How to Restore Scroll Wheel Action on Your Windows 10 Laptop's Touchpad</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-oppo-reno-10-proplus-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Oppo Reno 10 Pro+ 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/optimal-lateral-laptop-view-achieved/"><u>Optimal Lateral Laptop View Achieved</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203241341-trouble-with-your-wireless-mouse-on-windows-heres-how-to-fix-it-in-w11w10/"><u>Trouble with Your Wireless Mouse on Windows? Here's How to Fix It in W11/W10</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-honor-magic-6-pro-by-fonelab-android-recover-music/"><u>Undelete lost music from Honor Magic 6 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/upgrade-your-wheel-swipe-prowess/"><u>Upgrade Your Wheel Swipe Prowess</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208586031-windows-10-light-dimmer-malfunction-heres-the-solution/"><u>Windows 10 Light Dimmer Malfunction? Here's the Solution!</u></a></li>
+</ul></div>
 

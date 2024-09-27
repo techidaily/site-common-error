@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Isn't Your Windows 10 Screen Saver Working?"
-date: 2024-09-16T17:13:19.563Z
-updated: 2024-09-20T18:02:35.263Z
+date: 2024-09-23T17:17:00.801Z
+updated: 2024-09-26T21:59:34.213Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
  Unplugged the external devices you don’t need out of your PC, such as Logitech, Razer, PlayStation, Xbox etc. See if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ````   **2: Check screen saver settings**
 
 ```` Faulty screen saver settings could render it unusable. To fix it:
@@ -49,9 +56,23 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58492ca22a4c0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click **Change screen saver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58492d59e849d-600x332.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) In this window, you can choose which screen saver you’d like to use, and then customize it and set the time before it appears. Click **Apply** and **OK** to make it work.
 
@@ -81,18 +102,18 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5979a3ff32d61.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to any flagged device to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5979a40b981b3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ````   **Other options**
 
@@ -116,5 +137,26 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-zoom-in-on-content-expert-methods-to-minimize-background/"><u>[New] Zoom In on Content – Expert Methods to Minimize Background</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-accessible-visual-aids-for-youtube-videos/"><u>[Updated] Accessible Visual Aids for YouTube Videos</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-iphone-13-pro-maxipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from iPhone 13 Pro Max/iPad/iPod</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/diving-deep-a-detailed-analysis-of-avi-vs-mp4-video-formats/"><u>Diving Deep: A Detailed Analysis of AVI Vs. MP4 Video Formats</u></a></li>
+<li><a href="https://common-error.techidaily.com/eclipse-of-vision-screen-phenomenon/"><u>Eclipse of Vision: Screen Phenomenon</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-nvidia-drivers-easy-update-guide/"><u>Get the Newest NVIDIA Drivers - Easy Update Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211280401-how-to-fix-hosted-network-cant-be-started-error-in-windows-11-solved/"><u>How to Fix 'Hosted Network Can't Be Started' Error in Windows 11 - Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-minecraft-game-stalling-overcome-error-code-amartz/"><u>How to Repair Minecraft Game Stalling - Overcome Error Code Amartz</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-file-explorer-on-windows-10-top-tips-and-tricks-for-quick-assistance/"><u>Mastering File Explorer on Windows 10: Top Tips & Tricks for Quick Assistance</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-face-off-the-best-face-swap-apps-for-iphone-and-android/"><u>New Face Off The Best Face Swap Apps for iPhone and Android</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-microsoft-outlooks-mysterious-error-your-step-by-step-guide-for-solving-unspecified-error-0x8004005/"><u>Overcoming Microsoft Outlook's Mysterious Error: Your Step-by-Step Guide for Solving Unspecified Error 0X800#4005</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quick-guide-preserve-your-dvds-without-quality-degradation-full-backup-in-just-5-minutes/"><u>Quick Guide: Preserve Your DVDs Without Quality Degradation - Full Backup in Just 5 Minutes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/steam-troubleshooting-overcoming-unreachable-server-hurdles/"><u>Steam Troubleshooting: Overcoming Unreachable Server Hurdles</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-and-tricks-optimizing-your-pc-by-reducing-svchostexes-impact-on-cpu-usage-windows-11/"><u>Tips & Tricks: Optimizing Your PC by Reducing svchost.exe's Impact on CPU Usage (Windows 11)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-error-code-28-on-your-pc-a-step-by-step-tutorial/"><u>Troubleshooting and Fixing 'Error Code 28' On Your PC – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://network-issues.techidaily.com/troubleshooting-win-10-display-resize-success/"><u>Troubleshooting Win 10 Display Resize Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-common-opengl-issues-in-minecraft/"><u>Ultimate Guide: Solving Common OpenGL Issues in Minecraft</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/worlddirect-innovates-introducing-a-revolutionary-new-6tb-portable-ssd/"><u>WorldDirect Innovates: Introducing a Revolutionary New 6TB Portable SSD</u></a></li>
+</ul></div>
 

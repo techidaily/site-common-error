@@ -1,7 +1,7 @@
 ---
 title: Common Fixes for When Your Function Keys Aren't Working Properly
-date: 2024-09-18T16:27:44.192Z
-updated: 2024-09-20T17:41:11.772Z
+date: 2024-09-20T23:11:13.670Z
+updated: 2024-09-26T18:35:04.692Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21ef
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -46,6 +53,13 @@ Here’s how to reinstall the keyboard driver:
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -67,6 +81,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -78,10 +99,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -108,6 +129,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -133,23 +161,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -183,5 +197,20 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fixed-unusual-windows-stop-affects-cpu-usage/"><u>[FIXED] Unusual Windows Stop Affects CPU Usage</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-steps-to-resume-interrupted-stream-on-fb/"><u>[Updated] 2024 Approved Steps to Resume Interrupted Stream on FB</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-windows-10s-restart-loop-expert-tips-for-smooth-operation/"><u>Beat Windows 10'S Restart Loop: Expert Tips for Smooth Operation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/best-8-free-4k-uhd-video-player-software-for-windows-pcandmac/"><u>Best 8 Free 4K UHD Video Player Software for Windows PC&Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211291289-constraint-c-use-a-template-like-see-event-historical-event-date-event-description-this-relates-to-economic-term-as-it-exemplifies/"><u>Constraint C: Use a Template Like See Event [Historical Event Date]: [Event Description]. This Relates to '[Economic Term]' As It Exemplifies</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-ways-to-fix-windows-10-with-sfc-and-dism-tools/"><u>Exploring Ways to Fix Windows 10 with SFC & DISM Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-secure-connection-failed-error-in-mozilla-firefox/"><u>How to Fix 'Secure Connection Failed' Error in Mozilla Firefox</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-0x80070490-windows-update-error-successfully/"><u>How to Fix the 0X80070490 Windows Update Error Successfully</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-fb-video-grabber-win-mac-and-mobile/"><u>In 2024, FB Video Grabber - Win, Mac & Mobile</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-overcoming-launch-failures-of-steam-games-in-windows-10/"><u>Solution Guide: Overcoming Launch Failures of Steam Games in Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-hues-basic-techniques-for-adobe-enthusiasts/"><u>Unleash Hues Basic Techniques for Adobe Enthusiasts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-pc-video-editing-made-easy-a-review-of-vn-editor/"><u>Updated In 2024, PC Video Editing Made Easy A Review of VN Editor</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/utilizing-advanced-bots-from-cookiesolutions/"><u>Utilizing Advanced Bots From CookieSolutions</u></a></li>
+</ul></div>
 

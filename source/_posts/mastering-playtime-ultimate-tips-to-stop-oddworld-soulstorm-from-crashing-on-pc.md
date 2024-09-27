@@ -1,7 +1,7 @@
 ---
 title: "Mastering Playtime: Ultimate Tips to Stop Oddworld: Soulstorm From Crashing on PC"
-date: 2024-09-18T17:09:20.490Z
-updated: 2024-09-20T17:18:38.467Z
+date: 2024-09-23T21:17:00.318Z
+updated: 2024-09-26T21:15:02.029Z
 tags:
   - win11
   - win10
@@ -83,10 +83,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-180.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES..** .  
@@ -119,6 +119,13 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-179.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**SET LAUNCH OPTIONS…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
@@ -128,13 +135,6 @@ To do so:
  5) Type**\-autoconfig** and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-182.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Exit Steam.
 
@@ -152,11 +152,25 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Remove**ANY** launch options currently shown.
 
  5) Type**\-safe** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/safe.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Exit Steam.
 
@@ -174,6 +188,13 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-184.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Launch Steam and re-run the game.
 
 5) Once the installation completes, test if the CSGO crashing issue has been solved:
@@ -183,45 +204,32 @@ To do so:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Change fastprox.dll to fastprox.dllold
 
 1. On your keyboard, press**the Windows logo key** and**E** at the same time, then click**View** \>**Options** \>**Change folder and search options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4b228da5a.jpg)
 2. Click the**View** tab and uncheck**the box** before**Hide extensions for known file types** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4c03820bb.jpg)
 3. On your keyboard, press**the Windows logo key** and**E** at the same time, then copy & paste **C:\\Windows\\SysWOW64\\wbem** into the address bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4db541a75.jpg)
 4. Locate**fastprox.dll** and rename it to **fastprox.dllold** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4e5f2211c.jpg)
 5. Re-launch your game and hope you’re enjoying your game right now.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -243,5 +251,23 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-ultimate-guide-to-youtube-fame-with-spectacular-music-videos/"><u>[New] 2024 Approved The Ultimate Guide to YouTube Fame with Spectacular Music Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-techniques-for-saving-and-recording-ps4-gameplay/"><u>[New] In 2024, Essential Techniques for Saving and Recording PS4 Gameplay</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-quick-captivating-content-learn-with-our-youtube-shorts-guide/"><u>[Updated] Quick, Captivating Content? Learn with Our YouTube Shorts Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-financials-of-boosting-your-youtube-videos/"><u>[Updated] The Financials of Boosting Your YouTube Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bringing-virtuality-closer-a-tale-of-two-cardboards-and-gear-vrs/"><u>Bringing Virtuality Closer A Tale of Two Cardboards & Gear VRs</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-serious-fatal-problems-in-black-ops-4/"><u>How to Correct Serious Fatal Problems in Black Ops 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-steams-inability-to-access-the-network/"><u>How to Fix Steam's Inability to Access the Network</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-unresponsive-scroll-feature-on-your-laptops-touchpad-windows-10/"><u>How to Repair Unresponsive Scroll Feature on Your Laptop's Touchpad (Windows 10)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-vdreams-comparing-paid-and-free-lightroom-counterparts/"><u>In 2024, VDreams Comparing Paid & Free Lightroom Counterparts</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-windows-11-reset-failures-with-our-step-by-step-troubleshooting-tips/"><u>Overcome Windows 11 Reset Failures with Our Step-by-Step Troubleshooting Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/pdf-printing-woes-master-the-art-of-quick-and-effective-solutions/"><u>PDF Printing Woes? Master the Art of Quick and Effective Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-to-enable-and-use-microsofts-on-screen-keyboard-in-various-windows-versions/"><u>Step-by-Step Tutorial to Enable and Use Microsoft's On-Screen Keyboard in Various Windows Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-werfaultexe-errors-on-your-pc-easily-with-these-6-strategies/"><u>Troubleshoot and Fix werFault.exe Errors on Your PC Easily with These 6 Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-failed-contact-with-your-dhcp-server-fixed/"><u>Troubleshooting Failed Contact With Your DHCP Server (Fixed)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-tv-streaming-guide-international-and-regional-channels-for-2024/"><u>Ultimate TV Streaming Guide International & Regional Channels for 2024</u></a></li>
+</ul></div>
 

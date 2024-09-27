@@ -1,7 +1,7 @@
 ---
 title: "Guide: Correctly Addressing the 'A Disk Read Error Occurred' Warning in Windows 11"
-date: 2024-09-15T17:05:23.778Z
-updated: 2024-09-20T19:23:25.041Z
+date: 2024-09-24T19:18:45.598Z
+updated: 2024-09-26T18:34:23.741Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 2: Check your power supply (laptop only)**
 
  Your laptop’s power supply delivers power to your USB ports. If, for some reason, it fails to do this properly, the devices plugged into those USB ports may stop working. Sometimes, this can be fixed quite simply:
@@ -62,9 +69,23 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click the **Power Management**  tab  
 
@@ -79,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
@@ -98,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
  2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594841d4c15c1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -134,5 +148,26 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-path-to-professional-pictures-with-video-enhance-v22/"><u>[New] 2024 Approved The Path to Professional Pictures with Video Enhance V2.2</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-superior-systems-best-of-the-desk-lineup-for-2024/"><u>[New] Superior Systems Best of the Desk Lineup for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-power-players-list-top-trending-gadgets-and-tools-every-profession-should-have/"><u>[Updated] In 2024, Power Players List Top Trending Gadgets & Tools Every Profession Should Have</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-breaking-down-triller-its-distinctive-position-in-the-video-world/"><u>2024 Approved Breaking Down Triller Its Distinctive Position in the Video World</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-your-image-picsart-bg-erasure-technique/"><u>2024 Approved Unveiling Your Image Picsart Bg Erasure Technique</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-overcome-unknown-usb-device-and-port-reset-failed-errors-in-windows-11/"><u>Effective Solutions to Overcome 'Unknown USB Device' & 'Port Reset Failed' Errors in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-for-the-common-windows-update-service-failure-error-code-0x80070652/"><u>Effortless Fixes for the Common 'Windows Update Service Failure' (Error Code 0X80070652)</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-and-solutions-resolving-nier-automata-pc-game-crashes/"><u>Fixes and Solutions: Resolving Nier Automata PC Game Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-an-unresponsive-usb-port-in-hp-computers-guide/"><u>How to Repair an Unresponsive USB Port in HP Computers (Guide)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/improving-performance-on-a-sluggish-iphone-identify-and-fix-these-e-6-problems/"><u>Improving Performance on a Sluggish iPhone: Identify & Fix These E 6 Problems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-from-chaos-to-control-how-to-effectively-save-and-manage-fcp-projects/"><u>New 2024 Approved From Chaos to Control How to Effectively Save and Manage FCP Projects</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-initialization-problems-in-armored-core-vi-game/"><u>Overcoming Initialization Problems in Armored Core VI Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-unknown-usb-device-error-on-windows-11-a-step-by-step-guide/"><u>Resolving 'Unknown USB Device' Error on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-usb-malfunctions-a-comprehensive-guide-to-correcting-descriptor-request-failed-notifications/"><u>Resolving USB Malfunctions: A Comprehensive Guide to Correcting 'Descriptor Request Failed' Notifications</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-13-mini-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 13 mini to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-connect-and-repair-a-nonfunctional-ps4-controller/"><u>Step-by-Step Troubleshooting: Connect and Repair a Nonfunctional PS4 Controller</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211510886-video-not-showing-follow-these-simple-steps-to-solve-the-problem/"><u>Video Not Showing? Follow These Simple Steps to Solve the Problem!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212462334-windows-11-icon-dilemma-solved-bring-back-disappearing-desktop-icons-now/"><u>Windows 11 Icon Dilemma Solved: Bring Back Disappearing Desktop Icons Now</u></a></li>
+</ul></div>
 

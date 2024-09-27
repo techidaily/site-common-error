@@ -1,7 +1,7 @@
 ---
 title: Enabling Digital Pen and Touch Features When They're Missing
-date: 2024-09-18T19:45:03.410Z
-updated: 2024-09-20T16:40:36.194Z
+date: 2024-09-20T00:13:33.097Z
+updated: 2024-09-26T20:53:34.733Z
 tags:
   - win11
   - win10
@@ -52,14 +52,22 @@ thumbnail: https://thmb.techidaily.com/c06aefbb181f576852b2577ec9d3544ebd6635b5e
 1. Right-click the**VALORANT icon** and select**Properties** at the button of the pop-up menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-open-file-location.jpg)
 2. Under the**Compatibility** tab, tick the box**Run this program as an administrator** and then click**Apply** \>**OK**  
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/VALORANT-run-as-ad.jpg)
 3. Now try to open the game again. If this method doesn’t work, navigate to the next below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
@@ -94,16 +102,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-graphics.jpg)
 4. Restart your PC for the new graphics driver to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at <support@drivereasy.com>.
 
 If this doesn’t solve your problem, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Reinstall Valorant
 
@@ -115,23 +123,24 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Appsfeatures-1.jpg)
 3. Click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Uninstall-1.jpg)
 4. Click**Uninstall** again in the pop-up window.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/app-uninstall.jpg)
 5. After the Valorant application is successfully uninstalled. Reinstall it from the[**Valorant download page**](https://playvalorant.com/zh-tw/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this reinstalling process still doesn’t work for you, you may give the last fix a try.
@@ -165,5 +174,19 @@ If this doesn’t solve your problem, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-audio-enhancement-for-online-video-creators/"><u>[New] 2024 Approved Audio Enhancement for Online Video Creators</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-a-comprehensive-tutorial-for-customizing-video-covers-on-social-media/"><u>[New] A Comprehensive Tutorial for Customizing Video Covers on Social Media</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-essential-tips-for-online-photo-cropting/"><u>2024 Approved Essential Tips for Online Photo Cropting</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-lenovo-mouse-pad-working-again-on-any-version-of-windows-comprehensive-fixes/"><u>Get Your Lenovo Mouse Pad Working Again on Any Version of Windows - Comprehensive Fixes!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-refresh-upgrading-nvidia-drivers-with-ease/"><u>Instant Refresh: Upgrading Nvidia Drivers with Ease</u></a></li>
+<li><a href="https://techidaily.com/is-your-nubia-z50s-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nubia Z50S Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-implemented-to-address-deathloops-freezing-issues-on-pc/"><u>Resolved: Fixes Implemented to Address Deathloop's Freezing Issues on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/secure-guide-acquiring-permissions-from-trustedinstaller-for-file-modification-tasks/"><u>Secure Guide: Acquiring Permissions From TrustedInstaller for File Modification Tasks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-guide-to-screen-casting-on-your-phone-for-2024/"><u>The Ultimate Guide to Screen Casting on Your Phone for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-success-quick-solution-for-error-1053-when-service-fails-to-react-timely/"><u>Troubleshooting Success: Quick Solution for Error 1053 When Service Fails to React Timely</u></a></li>
+<li><a href="https://common-error.techidaily.com/what-to-do-when-laptopdesktop-wont-turn-on-essential-fixes/"><u>What to Do When Laptop/Desktop Won't Turn On - Essential Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-strategies-to-overcome-continuous-windows-10-startup-issues/"><u>Winning Strategies to Overcome Continuous Windows 10 Startup Issues</u></a></li>
+</ul></div>
 

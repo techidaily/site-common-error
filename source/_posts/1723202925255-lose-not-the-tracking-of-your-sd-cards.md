@@ -1,7 +1,7 @@
 ---
 title: Lose Not the Tracking of Your SD Cards
-date: 2024-09-19T19:07:16.438Z
-updated: 2024-09-20T18:44:13.858Z
+date: 2024-09-21T16:51:05.274Z
+updated: 2024-09-26T23:01:32.670Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/64de9954aaa9872e4109ed0fb3bd88e929af8b202
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Clean your SD card & reader
 
  Another very common cause of an unrecognized SD card is a very simple one: a dirty SD card or a dusty card reader. Either will cause a poor contact between card and reader.
@@ -81,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/64de9954aaa9872e4109ed0fb3bd88e929af8b202
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a051c4cb26bf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Likewise all manufacturers organize their BIOS settings their own way; there’s no standard way of doing it. So we can’t tell you exactly what setting to change, and how to find that setting. But once you’re in the BIOS, it shouldn’t be too hard to find the ‘on/off’ switch for your card reader. Just look for a section related to devices or storage, and within that section look for something like “SD Reader” or “Card Reader”. Enable that setting if it’s not already enabled, then save and exit the BIOS. (Be sure to save as you exit. Some manufacturers make it very easy to leave the BIOS without saving your changes, and if you do, you won’t have changed anything.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a051c7dcd812.jpg)
@@ -88,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/64de9954aaa9872e4109ed0fb3bd88e929af8b202
  Once your computer has restarted and you’ve logged into Windows, test your card again. If it’s still not recognized, move onto[Method 4](https://pish-posh-baby.sjv.io/g1jg15) .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Test your SD card in another PC
 
@@ -107,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/64de9954aaa9872e4109ed0fb3bd88e929af8b202
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 5: Disable then enable card reader (from other users)
@@ -143,16 +150,16 @@ If you’re not sure how to do that, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3798a978d8d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Double-click the card reader to open the Properties windows. Click**Enable Device** to re-enable the device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3799136c9a1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -171,5 +178,18 @@ If you’re not sure how to do that, refer steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-building-confidence-and-trust-with-candidates/"><u>[New] In 2024, Building Confidence and Trust with Candidates</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-imagemagick-studio-walkthrough-for-2024/"><u>[Updated] ImageMagick Studio Walkthrough for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/digital-photo-restorer-android-edition/"><u>Digital Photo Restorer: Android Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-players-with-sims-aturated-and-her-sister-isabella-was-an-active-child-who-loved-to-play-soccer/"><u>Effective Solutions for Players with Sims Aturated, and Her Sister Isabella Was an Active Child Who Loved to Play Soccer</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-advice-for-mending-images-with-stellar-repair-software-windows-version-unveiled/"><u>Expert Advice for Mending Images with Stellar Repair Software - Windows Version Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-vanished-desktop-icons-on-windows-10-a-complete-guide/"><u>Fixing Vanished Desktop Icons on Windows 10: A Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/ftdi-memory-corruption-issue-how-incorrect-drivers-can-compromise-data-integrity/"><u>FTDI Memory Corruption Issue - How Incorrect Drivers Can Compromise Data Integrity</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-huawei-p60-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Huawei P60 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206903020-hp-laptop-keyboard-woes-heres-how-to-get-your-keys-working-again-in-no-time/"><u>HP Laptop Keyboard Woes? Here's How to Get Your Keys Working Again in No Time!</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-eliminating-the-crossbow-error-in-minecraft/"><u>Step-by-Step Solution: Eliminating the 'Crossbow' Error in Minecraft</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-realme-gt-neo-5-se-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Realme GT Neo 5 SE Phone Hassle-Free</u></a></li>
+</ul></div>
 

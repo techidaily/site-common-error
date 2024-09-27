@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Overcoming ‘This OS Is Not Supported’ Error When Setting Up Software
-date: 2024-09-14T17:39:00.129Z
-updated: 2024-09-20T18:55:17.875Z
+date: 2024-09-23T20:39:40.540Z
+updated: 2024-09-26T22:03:42.349Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-1-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Open Network & Internet settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2-8.jpg)
@@ -65,6 +72,13 @@ When you fail to access another computer of the same network, or when you cannot
 **5)** Uncheck**Client for Microsoft Networks** , and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your device and check if the 0x800704cf goes away. If not, continue with the next fix below.
 
@@ -106,6 +120,13 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-1-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Select the**View** tab, and click**Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-2-8.jpg)
@@ -128,6 +149,13 @@ netsh int ip reset
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Fix 0x800704cf error when accessing the Microsoft Store**
 
 ![Fix 0x800704cf error when accessing the Microsoft Store on Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/08/error-case-2.jpg)
@@ -139,10 +167,10 @@ netsh int ip reset
 3. **[Reset the Microsoft Store](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Sign in with Microsoft account
@@ -153,13 +181,6 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click**Accounts** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-2-7.jpg)
@@ -169,10 +190,10 @@ netsh int ip reset
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Enter your**account** and**password** to sign in.
@@ -185,6 +206,13 @@ netsh int ip reset
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Run the Windows troubleshooter
 
  If the 0x800704cf error keeps appearing when you’re using the Microsoft Store, the Windows built-in troubleshooter is an effective tool that may help you out.
@@ -193,16 +221,16 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Scroll down to click**Network Adapter** . Then, click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Select**All network adapters** , and click**Next** .
 
@@ -245,13 +273,6 @@ netsh int ip reset
 **5)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-5-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Open your Microsoft Store, and the 0x800704cf error won’t be disturbing you anymore.
 
@@ -308,5 +329,18 @@ netsh int ip reset
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-discovering-the-best-in-webcam-videography-tech/"><u>[New] Discovering the Best in WebCam Videography Tech</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-make-a-boomerang-on-snapchat-a-comprehensive-guide/"><u>[New] Make a Boomerang on Snapchat – A Comprehensive Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-simplified-steps-for-saving-gotomeeting-sessions/"><u>[Updated] Simplified Steps for Saving GoToMeeting Sessions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-guide-installing-and-using-local-stable-diffusion-with-graphical-interface-on-windows/"><u>1. Guide: Installing and Using Local Stable Diffusion with Graphical Interface on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-the-miracast-not-supported-by-this-device-hurdle-proven-techniques/"><u>Bypass the 'Miracast Not Supported by This Device' Hurdle : Proven Techniques</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-the-touch-in-depth-review-of-the-lenovo-9-inch-nook-tablet/"><u>Experience the Touch: In-Depth Review of the Lenovo 9-Inch Nook Tablet</u></a></li>
+<li><a href="https://common-error.techidaily.com/forza-horizon-4-players-rejoice-silent-gameplay-issue-now-fixed-with-crystal-clear-sounds/"><u>Forza Horizon 4 Players Rejoice! Silent Gameplay Issue Now Fixed with Crystal Clear Sounds</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-issue-of-corrupted-or-lost-d3dcompiler47dll-on-your-pc/"><u>Resolving the Issue of Corrupted or Lost D3DCOMPILER_47.dll on Your PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/taming-twitch-audio-for-top-notch-streaming-saves/"><u>Taming Twitch Audio for Top-Notch Streaming Saves</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-vanishing-mouse-cursors-under-windows-11-step-by-step-instructions/"><u>The Ultimate Fix for Vanishing Mouse Cursors Under Windows 11 - Step-by-Step Instructions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-secrets-of-efficient-audio-recordings-for-2024/"><u>Unveiling the Secrets of Efficient Audio Recordings for 2024</u></a></li>
+</ul></div>
 

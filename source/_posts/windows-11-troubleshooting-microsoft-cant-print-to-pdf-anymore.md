@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Troubleshooting: Microsoft Can't Print to PDF Anymore?"
-date: 2024-09-18T18:25:27.177Z
-updated: 2024-09-20T17:30:56.761Z
+date: 2024-09-24T20:29:10.717Z
+updated: 2024-09-26T16:29:23.004Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/7dc3242cad7286db6d769fcd34b1b78d40476e1df
 
 If the issue remains, continue to the advanced fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you hit the one that does the trick.
@@ -38,6 +45,13 @@ If the issue remains, continue to the advanced fixes below.
 1. [**Reinstall your Bluetooth driver**](#fix1)
 2. [**Install all Windows updates**](#fix2)
 3. **[Modify the Windows Registry](#fix3)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your Bluetooth driver
 
@@ -99,14 +113,37 @@ To do so, first you need to uninstall the Bluetooth driver:
 
 1. On your keyboard, press the **Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2023/10/windows-logo.png) and the**I** key (**Win+I** ) to open the Windows Settings app.
 2. Click**Windows Update** on the right.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![win 11 update windows 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-1.jpg)
 3. Then click**Check for updates** . Windows will then check if there are any newly released updates. If so, it will automatically download and install the updates for you. It might take some time.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-2.jpg)
 4. You may repeat these steps until it prompts**You’re up to date** when you click**Check for updates** to make sure you have all the updates installed. Restart your computer when it’s done.
 
  Once you’ve installed all the system updates, restart your PC and check if the issue persists.
 
  If this method doesn’t do the trick, simply check out the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Modify the Windows Registry
 
@@ -117,49 +154,29 @@ To do so, first you need to uninstall the Bluetooth driver:
 2. In address bar of the pop-up window, type or paste **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class{e0cbf06c-cd8b-4647-bb8a-263b43f0f974}** and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods.jpg)
 3. At the empty area, right-click and move your cursor to**New** to expand the list. Select**String Value** .  
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods-2.jpg)
 4. Rename the new entry to**PnPCapabilities** . Right click it and select**Modify…**  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods-4.jpg)
 5. In the pop-up window, click the input area under**Value data** :, then type or paste**24** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods-5.jpg)
 6. Now restart your computer and test your AirPods.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -180,5 +197,26 @@ To do so, first you need to uninstall the Bluetooth driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-becoming-an-economic-force-a-guide-to-earning-on-youtube/"><u>[New] In 2024, Becoming an Economic Force A Guide to Earning on YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-top-platforms-for-amplifying-youtube-content-for-2024/"><u>[New] Top Platforms for Amplifying YouTube Content for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-secure-the-best-a-list-of-top-free-mac-screen-recorders-for-2024/"><u>[Updated] Secure the Best A List of Top Free Mac Screen Recorders for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-path-to-perfecting-adobe-capture-screen-recordings/"><u>[Updated] The Ultimate Path to Perfecting Adobe Capture Screen Recordings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavi-100/"><u>安心してMovavi 動画編集ソフトを手に入れる：100%スクープディスカウントでの正規販売体験!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/deciphering-error-code-0xc1900208-in-windows-11-fixes-and-tips-to-get-your-system-updated/"><u>Deciphering Error Code 0xC1900208 in Windows 11: Fixes and Tips to Get Your System Updated</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-651-on-windows-heres-how-to-easily-correct-it/"><u>Error 651 on Windows? Here's How to Easily Correct It!</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-free-system-refreshes-on-windows-11-strategies-to-correct-the-there-was-a-problem-message/"><u>Error-Free System Refreshes on Windows 11: Strategies to Correct the 'There Was a Problem' Message</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-to-break-free-from-endless-reboots-on-your-windows-10-system/"><u>Expert Advice to Break Free From Endless Reboots on Your Windows 10 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-failed-encrypted-connection-alerts-in-safari-chrome-and-firefox-steps-to-follow/"><u>Fixing Failed Encrypted Connection Alerts in Safari, Chrome & Firefox - Steps to Follow</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ess-integration-tailor-made-youtube-shorts-images-made-easy-for-2024/"><u>Seamless Integration Tailor-Made YouTube Shorts Images Made Easy for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-neterrcertweaksignaturealgorithm-mistake-steps-for-a-secure-fix/"><u>Solving NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM Mistake: Steps for a Secure Fix</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-ultimate-guide-to-achieving-flawless-screens-in-adobe-captivity/"><u>The Ultimate Guide to Achieving Flawless Screens in Adobe Captivity</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-power-bank-review-an-examination-of-the-27000mah-capacity-from-chargetech/"><u>Top Rated Power Bank Review: An Examination of the 27000mAh Capacity From ChargeTech</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-non-functional-right-click-on-your-windows-10-mouse/"><u>Troubleshooting Guide: Fixing the Non-Functional Right-Click on Your Windows 10 Mouse</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-repairing-your-amd-hd-audio-connection-issues/"><u>Troubleshooting Guide: Repairing Your AMD HD Audio Connection Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-tips-to-prevent-frequent-reboots-in-your-windows-11-system/"><u>Ultimate Troubleshooting Tips to Prevent Frequent Reboots in Your Windows 11 System</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-samsung-galaxy-s23-tactical-edition-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Samsung Galaxy S23 Tactical Edition? Here is How | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Nonfunctional Laptop Keyboard on Windows 10, 8 & 7: A Step-by-Step Guide"
-date: 2024-09-14T18:31:28.433Z
-updated: 2024-09-20T17:03:42.089Z
+date: 2024-09-23T22:36:25.361Z
+updated: 2024-09-27T00:31:55.840Z
 tags:
   - win11
   - win10
@@ -39,6 +39,14 @@ thumbnail: https://thmb.techidaily.com/6e34d9fb9219c1b14b356c1db6a9498a7ed2cc88e
 1. On your keyboard, press the Windows logo key and type camera. Then click on**Camera privacy settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff3b628678.png)
 2. Make sure to toggle**On** **Allow apps to access your camera** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff5be2b4ad.jpg)
 3. Scroll down to**Choose which apps can access your camera** and toggle**On** ALL the apps you want access to camera.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdff6254a550.jpg)
@@ -60,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/6e34d9fb9219c1b14b356c1db6a9498a7ed2cc88e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdffcedce806.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be0033072f1b.jpg)
@@ -73,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/6e34d9fb9219c1b14b356c1db6a9498a7ed2cc88e
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your camera driver
@@ -88,6 +103,14 @@ To do so:
 1. On your keyboard, press  **the Windows logo key**  and   **R**  at the same time, then type **devmgmt.msc** into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be00c2cd78eb.png)
 2. Double-click on either   **Cameras** or**Imaging devices** to reveal your camera device.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be00fd3e6f44.jpg)
 3. Right-click on**your camera device** and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be01186337dc.jpg)
@@ -100,10 +123,10 @@ To do so:
 8. Check your camera and see if it’s working properly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -125,5 +148,20 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ps3-game-viewers-guide-filming-your-playtime/"><u>[New] In 2024, The PS3 Game Viewer's Guide Filming Your Playtime</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-tune-your-status-on-whatsapp/"><u>[New] Tune Your Status on WhatsApp</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-finest-6-economical-4k-hd-projector-picks/"><u>2024 Approved Finest 6 Economical 4K HD Projector Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-resume-with-chatgpt-tips-and-tricks-for-an-effective-cover-letter/"><u>Boost Your Resume with ChatGPT: Tips and Tricks for an Effective Cover Letter</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-analysis-of-directed-motion-tracking-for-2024/"><u>Comprehensive Analysis of Directed Motion Tracking for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209420268-fix-computer-keeps-going-to-sleep-issue-easily/"><u>Fix Computer Keeps Going to Sleep Issue. Easily!</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-moto-g-5g-2023-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Moto G 5G (2023) Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-mobile-and-professional-camera-capture-for-impressive-igtv-for-2024/"><u>Mastering Mobile and Professional Camera Capture for Impressive IGTV for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-tackling-errors-in-windows-version-1903-deployment/"><u>Step-by-Step Fix: Tackling Errors in Windows Version 1903 Deployment</u></a></li>
+<li><a href="https://driver-error.techidaily.com/successful-strategies-for-fixing-failed-hcmon-driver-errors-during-setup/"><u>Successful Strategies for Fixing Failed Hcmon Driver Errors During Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/successful-strategies-for-overcoming-failed-d3d-device-setup-problems/"><u>Successful Strategies for Overcoming Failed D3D Device Setup Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-functional-keys-on-windows-1011/"><u>Troubleshooting Non-Functional Keys on Windows 10/11</u></a></li>
+</ul></div>
 

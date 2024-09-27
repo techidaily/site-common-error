@@ -1,7 +1,7 @@
 ---
 title: Effortless Troubleshooting Steps for Broken USB Ports
-date: 2024-09-15T17:20:09.315Z
-updated: 2024-09-20T17:17:53.677Z
+date: 2024-09-19T16:04:07.285Z
+updated: 2024-09-26T23:46:48.474Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 
  You may not have to try them all, just work your way down the list until you find the one that does the trick for you.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restore the D3DX9\_39.dll file automatically
 
  You are likely to get this error message when the D3DX9\_39.dll file is missing or corrupted. The easiest way to fix this is using the Windows repair tool **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -68,6 +75,19 @@ The D3dx9\_39.dll file is an essential component of Microsoft DirectX.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_18-17-26-1024x526.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Your download will start automatically once the page is open. Wait for the process to be complete
 
 **3)** Open the downloaded file to install the latest DirectX.
@@ -75,6 +95,13 @@ The D3dx9\_39.dll file is an essential component of Microsoft DirectX.
 **4)** Restart your PC and the program you’re having trouble with.
 
 If your problem continues to occur, read on and try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Run Virus Scan
 
@@ -84,13 +111,6 @@ If your problem continues to occur, read on and try the fix below.
 
  Then restart your computer and try to launch the application again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Reinstall the problematic program
 
  Another quick fix to this issue is reinstalling the problematic program. This should fix your problem if it’s caused by faulty or corrupted program files and folders. Follow the instructions below to see how to do it:
@@ -99,33 +119,33 @@ If your problem continues to occur, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-40-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Type**control** , then press the**Enter key** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_11-58-24.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Under**View by** , select**Category** , then click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_11-59-29.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Right-click the program you’re having trouble with, then click**Uninstall/Change** .
 
@@ -168,6 +188,13 @@ If your problem continues to occur, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_14-17-56.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -184,13 +211,6 @@ If your problem continues to occur, read on and try the fix below.
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_18-16-24.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -219,5 +239,19 @@ If your problem continues to occur, read on and try the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-essential-virtual-road-racers-guide/"><u>[Updated] 2024 Approved Essential Virtual Road Racers Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/clear-directions-to-repair-the-sudden-unexpected-error-in-windows-error-code-0xc00ebc9/"><u>Clear Directions to Repair the Sudden Unexpected Error in Windows (Error Code 0XC00ebc9)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deciphering-tech-mysteries-insightful-articles-from-toms-hardware-blog/"><u>Deciphering Tech Mysteries: Insightful Articles From Tom’s Hardware Blog</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-15-pro-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone 15 Pro?</u></a></li>
+<li><a href="https://games-able.techidaily.com/resetting-xbox-controller-updates-on-series-xs/"><u>Resetting Xbox Controller Updates on Series X/S</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-usb-devices-not-working-on-latest-windows-operating-systems/"><u>Resolving Issues with USB Devices Not Working on Latest Windows Operating Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resolving-issues-with-youtube-playback-fixing-pauses-and-freezes/"><u>Resolving Issues with YouTube Playback - Fixing Pauses and Freezes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-wwe-2k-battlegrounds-directx-11-version-100-compatibility-issue/"><u>Resolving the WWE 2K Battlegrounds DirectX 11 Version 10.0 Compatibility Issue</u></a></li>
+<li><a href="https://techtrends.techidaily.com/riproduzione-dvd-protetta-facilitata-da-programmi-di-copia-liberi-soluzioni-complete-del-2020/"><u>Riproduzione DVD Protetta Facilitata Da Programmi Di Copia Liberi: Soluzioni Complete Del 2020</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-iphone-se-2020-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your iPhone SE (2020) Is Unlocked</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-error-0x800f081f-in-microsoft-net-framework-35-installation-process/"><u>Troubleshooting Guide for Error 0X800F081F in Microsoft .NET Framework 3.5 Installation Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-shutdown-problems-in-windows-11-a-comprehensive-guide/"><u>Troubleshooting Shutdown Problems in Windows 11 – A Comprehensive Guide</u></a></li>
+</ul></div>
 

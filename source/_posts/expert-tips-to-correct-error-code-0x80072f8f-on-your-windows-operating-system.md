@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Correct Error Code 0X80072F8F on Your Windows Operating System
-date: 2024-09-16T16:29:32.713Z
-updated: 2024-09-20T17:31:25.385Z
+date: 2024-09-19T17:32:17.491Z
+updated: 2024-09-26T21:23:02.145Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. **[Turn off fast startup](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -64,19 +71,27 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Change boot order in BIOS
 
@@ -98,10 +113,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
@@ -115,10 +130,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Follow the on-screen instructions to fix any lurking problems.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
@@ -142,5 +157,23 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-no-tripod-path-to-flawless-images/"><u>[New] In 2024, The No-Tripod Path to Flawless Images</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-wallet-friendly-high-definition-spherical-video-capture/"><u>[New] Wallet-Friendly High-Definition Spherical Video Capture</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-tactical-transformations-in-small-business-videography/"><u>[Updated] 2024 Approved Tactical Transformations in Small Business Videography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-asmrists-praised-by-insomniacs/"><u>[Updated] Expert ASMRists Praised by Insomniacs</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-guide-to-samsung-photography-suite-2023/"><u>Comprehensive Guide to Samsung Photography Suite, 2023</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-how-to-ensure-successful-steam-updates-downloading-process/"><u>Easy Fixes: How to Ensure Successful Steam Updates Downloading Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reactivate-personalized-configuration-options-that-wont-respond/"><u>How to Reactivate Personalized Configuration Options That Won’t Respond</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-12-exceptional-game-starting-tutorials-from-youtube-pros-freepremium/"><u>In 2024, 12 Exceptional Game-Starting Tutorials From YouTube Pros (Free/Premium)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-troubles-beat-error-code-5-with-these-expert-fixes/"><u>Minecraft Troubles? Beat Error Code 5 with These Expert Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-enumeration-error-and-access-denied-problem-on-your-windows-10-pc/"><u>Overcoming the Enumeration Error and Access Denied Problem on Your Windows 10 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209845733-resolving-the-troublesome-0x80240017-windows-update-issue-proven-solutions/"><u>Resolving the Troublesome 0X80240017 Windows Update Issue: Proven Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-the-windows-11-will-not-shut-down-issue-proven-methods-inside/"><u>Solve the 'Windows 11 Will Not Shut Down' Issue - Proven Methods Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-lenovo-mousepad-issues-on-windows-1087-fixes-and-solutions/"><u>Troubleshooting Lenovo Mousepad Issues on Windows 10/8/7: Fixes and Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/wmi-overload-fix-win1011-performance-boost/"><u>WMI Overload Fix: Win10/11 Performance Boost</u></a></li>
+</ul></div>
 

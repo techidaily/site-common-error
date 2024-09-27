@@ -1,7 +1,7 @@
 ---
 title: "Conquer Your Windows Woes: Unsticking Updates Stalled at Completion Mark"
-date: 2024-09-16T18:48:13.911Z
-updated: 2024-09-20T18:56:29.175Z
+date: 2024-09-20T22:06:00.817Z
+updated: 2024-09-26T17:58:14.179Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
 5. **[Download updates from Microsoft Update Catalog manually](#f5)**
 6. **[Pro tip: Want us to fix the problem for you?](#p)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Remove any USB peripherals and wait for the update process to finish
 
  If you seldom check for Windows updates, it may take a long time for Windows to complete the update process. Maybe your PC is not “stuck” at Windows update, and Windows is just configuring and installing update packages.
@@ -57,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
  If you still cannot access the desktop, you can try starting your PC in safe mode with the network. When you sign into your Windows system in safe mode with the network, try the next fix below to run the Windows Update troubleshooter.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Run Windows Update troubleshooter
@@ -75,21 +82,15 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap466-1.png)
 3. Click **Apply this fix** to continue.  
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap467-1.png)
 4. Follow the on-screen instructions to troubleshoot this issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### If you’re using Windows 11
 
@@ -110,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to invoke the Run dialog. Type **cmd** and press **Ctrl** , **Shift** and **Enter** at the same time to **run Command Prompt as administrator** . You’ll be prompted for permission. Click **Yes** to open the Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap468-1.png)
 2. In Command Prompt, type the command lines below and press Enter on your keyboard after typing each:  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  net stop bits  
  net stop wuauserv  
@@ -153,20 +147,13 @@ thumbnail: https://thmb.techidaily.com/640d7e8ae71734e741d90b60c7027d369bb73ea6d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap471-1.png)
 2. Type the command line **systeminfo** and press **Enter** to view your system type.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
@@ -181,6 +168,13 @@ Now, you can follow the steps below to download Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473-1.png)
 5. In the list of search results, select the correct update for your operating system and click **Download** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Note: If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap474-1.png)
@@ -188,7 +182,21 @@ Now, you can follow the steps below to download Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap475-1.png)
 7. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart your PC to see if this issue persists. If not, congratulations! You’ve resolved this annoying issue! But if this issue reappears, you can try the last fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Pro tip: Want us to fix the problem for you?
 
@@ -214,5 +222,23 @@ Now, you can follow the steps below to download Windows updates manually:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-instant-upload-solutions-top-5-free-online-converter-services/"><u>[New] 2024 Approved Instant Upload Solutions Top 5 Free Online Converter Services</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-loop-and-relish-youtube-videos-double-the-delight-on-tv/"><u>[Updated] Loop & Relish YouTube Videos, Double the Delight on Tv</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-professional-recording-methods-for-your-social-video-sessions/"><u>2024 Approved Professional Recording Methods for Your Social Video Sessions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-stellarworkspace-unified-elite-full-hd-screens/"><u>2024 Approved StellarWorkspace Unified, Elite Full HD Screens</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-twitchs-error-nigma-code-4000-with-these-simple-repair-techniques/"><u>Beat Twitch's Error Nigma Code 4000 with These Simple Repair Techniques</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/boosting-website-engagement-with-the-power-of-cookiebot-technology/"><u>Boosting Website Engagement with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creating-original-ai-artwork-with-microsoft-copilot-a-step-by-step-guide/"><u>Creating Original AI Artwork with Microsoft Copilot: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-answer-on-resolving-stalled-windows-pre-installation-process/"><u>Definitive Answer on Resolving Stalled Windows Pre-Installation Process</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-rockalldlldll-not-found-or-missing-errors/"><u>How to Fix Rockalldll.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-seamlessly-set-up-usb-tethering-in-windows-11/"><u>How to Seamlessly Set Up USB Tethering in Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-action-recorder-with-in-face-view/"><u>In 2024, Prime Action Recorder with In-Face View</u></a></li>
+<li><a href="https://common-error.techidaily.com/mending-non-existence-of-cldll-in-systems/"><u>Mending Non-Existence of ClDLL in Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/mitigating-complications-due-to-missing-xinput13dll-file/"><u>Mitigating Complications Due to Missing XINPUT1_3.dll File</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-windows-werfaultexe-applications-mishaps-with-these-proven-fixes/"><u>Overcome Windows werFault.exe Applications Mishaps with These Proven Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-world-of-warcraft-wow-performance-lags/"><u>Ultimate Guide: Resolving World of Warcraft (WoW) Performance Lags</u></a></li>
+<li><a href="https://extra-information.techidaily.com/xbox-one-optimizing-your-zoom-experience/"><u>Xbox One Optimizing Your Zoom Experience</u></a></li>
+</ul></div>
 

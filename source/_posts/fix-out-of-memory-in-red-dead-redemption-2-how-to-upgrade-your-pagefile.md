@@ -1,7 +1,7 @@
 ---
 title: "Fix 'Out of Memory' In Red Dead Redemption 2: How to Upgrade Your Pagefile"
-date: 2024-09-17T20:06:11.026Z
-updated: 2024-09-20T19:07:48.218Z
+date: 2024-09-22T21:38:30.747Z
+updated: 2024-09-26T20:38:22.100Z
 tags:
   - win11
   - win10
@@ -53,9 +53,24 @@ To do this:
   
 ![run as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-administrator-1.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select the**Compatibility** tab and click**Change settings for all users** .  
   
 ![run as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-administrator-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Under the**Settings** section, click**Run this program as an administrator** . Then click**Apply** .  
   
@@ -64,6 +79,19 @@ To do this:
 After applying the changes, try relaunching Warframe.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Temporarily disable antivirus software
 
@@ -78,13 +106,6 @@ After applying the changes, try relaunching Warframe.
 [Norton](https://support.norton.com/sp/en/uk/home/current/solutions/v3672136)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Optimize your internet connection
 
@@ -104,6 +125,13 @@ After applying the changes, try relaunching Warframe.
 
 ![ethernet; internet connection; Warframe udpate failed](https://images.drivereasy.com/wp-content/uploads/2020/09/ethernet.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ethernet
 
 #### **If you’re using a wireless connection:**
@@ -117,13 +145,6 @@ ethernet
  1) On the**Search** box, type**cmd** and click**Command Prompt** .  
   
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/09/open-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Type the commands below**one by one** and**before** you type the next one, remember to press**Enter** on your keyboard.  
   
@@ -139,13 +160,6 @@ ethernet
  You can update your network card driver by following these[steps](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair/ Update Microsoft Visual C++ Redistributable
 
@@ -163,26 +177,26 @@ Both the repairing and updating might work. So just choose one of them.
 ![open control panel ](https://images.drivereasy.com/wp-content/uploads/2020/09/open-control-panel-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Programs and Features**
 
 ![repair download packages; Warframe update failed](https://images.drivereasy.com/wp-content/uploads/2020/09/program-and-features.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Under the**Uninstall or change a program** section, find the**Microsoft Visual C++** packages.
 
 ![repair Microsoft Visual C++; update failed; Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/click-Microsoft-Visual-C.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Right-click on it and click**Change** .
 
@@ -197,6 +211,13 @@ Both the repairing and updating might work. So just choose one of them.
  7) Click**Close** when the repairing is finished.
 
 ![repair Microsoft Visual C++; update failed; Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C-3-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### **Update Microsoft Visual** **C++**
 
@@ -237,6 +258,13 @@ Both the repairing and updating might work. So just choose one of them.
  2) Under the**Download Cache** section, click**Verify** .
 
 ![verify Warframe download cache](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-Warframe-download-cache-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In the**Verify Game Data?** window, click**OK** .
 
@@ -283,5 +311,22 @@ To use a VPN service, you need to download a VPN application.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-from-closed-to-open-mastering-srt-files-in-macos/"><u>[New] From Closed to Open Mastering SRT Files in macOS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-quick-focus-effortless-viewport-changes-on-iphone/"><u>[Updated] 2024 Approved Quick Focus Effortless Viewport Changes on iPhone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-social-media-shifts-yearly-data-visualization-guide/"><u>[Updated] Social Media Shifts Yearly Data Visualization Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-no-battery-detected-fast-and-simple-steps-to-get-you-back-online/"><u>Fixing 'No Battery Detected': Fast & Simple Steps to Get You Back Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-of-your-laptops-touchpad-in-widows-os/"><u>How to Restore Functionality of Your Laptop's Touchpad in Widows OS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-hide-and-seek-with-fb-episodes/"><u>In 2024, Hide-and-Seek with FB Episodes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone XR?</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-ghosts-in-the-machine-eradicate-minecrafts-error-5-now/"><u>No Ghosts in the Machine! Eradicate Minecraft's Error #5 Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-operational-obligations-avoiding-sudden-freezes-on-your-pc/"><u>Overcoming Operational Obligations: Avoiding Sudden Freezes on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-store-cache-corruption-a-comprehensive-solution-approach/"><u>Overcoming Windows Store Cache Corruption: A Comprehensive Solution Approach</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-error-code-8007000e-on-windows-updates-fast-and-effective-solutions/"><u>Resolve Error Code 8007000E on Windows Updates: Fast and Effective Solutions!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-persistent-double-click-glitch-on-your-computer-mouse/"><u>Resolving Persistent Double-Click Glitch on Your Computer Mouse</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamping-your-graphics-engine-update-windows-10-11-hdmi-driver/"><u>Revamping Your Graphics Engine: Update Windows 10, 11 HDMI Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-touch-screen-woes-on-windows-11-with-these-5-easy-techniques/"><u>Solve Your Touch Screen Woes on Windows 11 with These 5 Easy Techniques</u></a></li>
+</ul></div>
 

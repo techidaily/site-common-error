@@ -1,7 +1,7 @@
 ---
 title: Addressing the Overuse of Processor Resources Due to Windows Audio Graphs
-date: 2024-09-18T17:37:40.943Z
-updated: 2024-09-20T17:28:15.724Z
+date: 2024-09-24T16:12:22.887Z
+updated: 2024-09-27T00:29:23.013Z
 tags:
   - win11
   - win10
@@ -55,6 +55,14 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
 4. Right-click System Event Notification Service again, this time select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
@@ -71,12 +79,27 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**cmd** , then press**Shift + Ctrl + Enter** keys together.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **netsh winsock reset**
 
  Restart your computer to see if the error has gone. If you still see the error, don’t worry, move onto the next methods.  
  If resetting Winsock worked temporarily, you can move to Fix 5.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your video card driver
 
@@ -92,10 +115,10 @@ Follow these steps to reset your Winsock Catalog:
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.  
@@ -104,13 +127,6 @@ Follow these steps to reset your Winsock Catalog:
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Uninstall the KB2952664 update
 
@@ -122,10 +138,10 @@ Follow these steps to reset your Winsock Catalog:
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
@@ -134,10 +150,10 @@ Follow these steps to reset your Winsock Catalog:
 5. Find and right-click the update with KB2952664, then Uninstall.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Restart your computer to see if the error has gone.
@@ -180,5 +196,23 @@ Restart your computer to see if the error has gone.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-time-lapse-tiktoks-capturing-anime-elements-and-styles/"><u>[New] 2024 Approved Time-Lapse TikToks Capturing Anime Elements and Styles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-best-of-editing-filmoras-captivating-features/"><u>[New] The Best of Editing Filmora's Captivating Features</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-a-step-by-step-guide-to-mastering-magix-video-pro-x/"><u>[Updated] In 2024, A Step-by-Step Guide to Mastering Magix Video Pro X</u></a></li>
+<li><a href="https://common-error.techidaily.com/code-28-malfunction-in-windows-explorer-explained-solutions-and-tips/"><u>Code 28 Malfunction in Windows Explorer Explained: Solutions and Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-failed-to-update-warframe-issue-a-comprehensive-guide/"><u>Fixing the 'Failed to Update Warframe' Issue – A Comprehensive Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-androids-technique-for-retroactive-viewing/"><u>In 2024, Android's Technique for Retroactive Viewing</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-when-your-pc-mouse-gets-stuck-a-complete-solution/"><u>Quick Fixes for When Your PC Mouse Gets Stuck – A Complete Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tips-to-fix-steam-cannot-write-to-disc-error-swiftly/"><u>Step-by-Step Tips to Fix Steam Cannot Write to Disc Error Swiftly</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tips-to-restore-keyboard-functionality-on-login/"><u>Step-by-Step Tips to Restore Keyboard Functionality on Login</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-8-solutions-overcome-the-persistent-windows-10-update-error-0x800f0922/"><u>Top 8 Solutions: Overcome the Persistent Windows 10 Update Error 0X800F0922</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-tips-for-when-your-facebook-messenger-app-continuously-shuts-down/"><u>Troubleshooting Tips for When Your Facebook Messenger App Continuously Shuts Down</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/ultimate-guide-setting-up-an-ideal-windows-11-vm-on-your-pc-insights-from-zdnet/"><u>Ultimate Guide: Setting Up an Ideal Windows 11 VM on Your PC - Insights From ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/usb-device-not-recognized-keeps-popping-up-solved/"><u>USB Device Not Recognized Keeps Popping Up [SOLVED]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Honor 100 Pro | Dr.fone</u></a></li>
+</ul></div>
 

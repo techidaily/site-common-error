@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tutorial to Overcome the Sims 4 Non-Opening Challenge
-date: 2024-09-16T19:35:15.984Z
-updated: 2024-09-20T18:56:07.577Z
+date: 2024-09-19T21:57:03.798Z
+updated: 2024-09-27T00:20:41.255Z
 tags:
   - win11
   - win10
@@ -59,6 +59,13 @@ There are 3 types of NAT in your PS4:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548932a66e2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select**View Connection Status** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a54896526c3a.jpg)
@@ -66,6 +73,13 @@ There are 3 types of NAT in your PS4:
  3) You will see the information about the network your PS4 are connecting, including the**IP address** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5489d31cef4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **How to manually configure PS4 network settings?**
 
@@ -81,13 +95,6 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548b35211b0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Note down the**IP address** , the**default gateway** , the**subnet** **mask** and the**DNS server** .
 
  5) Go to PS4**Settings** \>**Network** \>**Set Up Internet Connection** .
@@ -95,10 +102,10 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548b80f137d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Select**Use WiFi** if you are connecting to WiFi, or select**Use a LAN Cable** if you are connecting to the Ethernet.
@@ -106,15 +113,22 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548ba2959d7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Select**Custom** , then**enter the network information** you just noted down.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548bcb007ed.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) Select**Do Not Use** as for**Proxy Server** .
 
@@ -123,6 +137,13 @@ ipconfig/all
  9) Wait for it to update. When you see**Internet settings updated** , select**Test Internet Connection** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548c550a4cb.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  10) You’ll see your PS4 Internet connection and know the**NAT Type** .
 
@@ -146,6 +167,13 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Go to**Advanced** \>**Forwarding** , and you will see**UPnP** . (Or you can find the UPnP section in other tab according to the different routers.)
 
  5)**Turn UPnP on** .
@@ -161,10 +189,10 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5488dd7df5a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 3: Make your PS4 the DMZ server**
@@ -192,13 +220,6 @@ ipconfig/all
  6) Change the**IP address** to match with the IP address in your PS4\. (If you don’t know your PS4 IP address, click[**here**](#Step1) to know how to check.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548e65a013a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) If you are using routers that has the**NAT Filtering** option, such as NETGEAR router, you can also click to**open NAT filtering** . (You can skip to the next step if you don’t have this option.)
 
@@ -260,5 +281,24 @@ ipconfig/all
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-free-tool-for-tiktok-to-mp4-conversion/"><u>[New] 2024 Approved Free Tool for TikTok to MP4 Conversion</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-to-fix-facebook-suggested-videos-not-showing-up/"><u>[New] How to Fix Facebook Suggested Videos Not Showing Up?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-foremost-video-starters-the-leading-16-youtube-openers/"><u>[Updated] In 2024, Foremost Video Starters The Leading 16 YouTube Openers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/adopting-powerpoints-advanced-speech-to-text-functionality-for-dynamic-slide-shows-for-2024/"><u>Adopting PowerPoint’s Advanced Speech-to-Text Functionality for Dynamic Slide Shows for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-guide-discovering-every-image-on-your-windows-11-computer/"><u>Complete Guide: Discovering Every Image on Your Windows 11 Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/directory-corruption-solved-effective-strategies-for-file-repair/"><u>Directory Corruption Solved: Effective Strategies for File Repair</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-lenovo-mouse-pad-problems-on-windows-1187-effective-solutions-and-workarounds/"><u>Fix Your Lenovo Mouse Pad Problems on Windows 11/8/7 - Effective Solutions and Workarounds</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-overwatch-2-device-rendering-issue/"><u>How to Address Overwatch 2 Device Rendering Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-unresponsive-file-explorer-effective-fixes-for-windows-10-users-solved/"><u>Overcoming Unresponsive File Explorer: Effective Fixes for Windows 10 Users [Solved]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/passo-a-passo-de-conversao-de-webm-para-aviwmvmov-utilize-o-programa-eficiente-da-movavi/"><u>Passo a Passo De Conversão De WebM Para AVI/WMV/MOV - Utilize O Programa Eficiente Da Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-device-unprepared-message-a-step-by-step-guide/"><u>Resolving the 'Device Unprepared' Message: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-windows-11-0x80t70541-update-issue-successfully/"><u>Resolving the Windows 11 0X80t70541 Update Issue Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-scrolling-woes-tips-and-techniques-for-a-smooth-touchpad-experience/"><u>Resolving Windows 11 Scrolling Woes: Tips and Techniques for a Smooth Touchpad Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-audio-in-fortnite-quick-guide-to-fixed-in-game-mic-issues/"><u>Restore Audio in Fortnite - Quick Guide to Fixed In-Game Mic Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-your-laptops-touchpad-from-activating-tips-for-windows-10-users/"><u>Stop Your Laptop's Touchpad From Activating: Tips for Windows 10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-the-beginning-of-windows-11-where-and-how-to-find-the-start-button/"><u>Unlocking the Beginning of Windows 11: Where and How to Find the Start Button</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-clever-design-a-detailed-overview-and-evaluation-of-the-bookbook-v2-by-twelve-south-for-macbook/"><u>Unveiling the Clever Design: A Detailed Overview & Evaluation of the BookBook V2 by Twelve South for MacBook</u></a></li>
+</ul></div>
 

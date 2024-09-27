@@ -1,7 +1,7 @@
 ---
 title: Cannot Apply Feature Updates for Windows 10 Build 1607? Let Us Help You Resolve That
-date: 2024-09-13T19:10:01.490Z
-updated: 2024-09-20T16:47:42.254Z
+date: 2024-09-24T23:05:57.120Z
+updated: 2024-09-26T20:21:40.756Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ You may fail to install the 1607 update because the**Windows Update components**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** In Command Prompt, type the following lines of command and press**Enter**on your keyboard after typing each:
 
 * _**net stop bits**_
@@ -60,19 +67,33 @@ You may fail to install the 1607 update because the**Windows Update components**
 * _**net start cryptsvc**_
 **5)**Run Windows Update and check to see if your computer can install the 1607 update.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Run the DISM utility
 
 Your system may fail to install the 1607 update because something corrupts your Windows image, which is necessary for the important system features like Windows Update. You can try running the**DISM**(Deployment Image Servicing and Management) utility to repair your Windows image. To run DISM:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png) **2)** In Command Prompt, type “_**DISM.exe /Online /Cleanup-image /Restorehealth**_” and press**Enter**on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0150723fc23.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Wait for the utility to complete repairing your Windows image. Then restart your computer and check to see if this fixes your update problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Temporarily disable your antivirus software
@@ -95,5 +116,20 @@ Sometimes your system can’t install new updates due to the interference from y
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-pendulum-assembly-set-for-2024/"><u>[Updated] Pendulum Assembly Set for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/2024s-leading-nas-units-reviewed-choose-the-perfect-data-management-solution/"><u>2024'S Leading NAS Units Reviewed - Choose the Perfect Data Management Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-free-storage-after-resolving-the-cyclic-redundancy-check-glitches/"><u>Error-Free Storage After Resolving the Cyclic Redundancy Check Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-ps4-freezing-step-by-step/"><u>How to FIX PS4 Freezing | Step by Step</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-m6-pro-4g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Poco M6 Pro 4G Phone without Google Account?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-sync-your-views-iphones-looping-feature/"><u>In 2024, Sync Your Views IPhone's Looping Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/laptop-battery-wont-charge-master-quick-repairs-to-power-up-again/"><u>Laptop Battery Won't Charge? Master Quick Repairs to Power Up Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-function-to-broken-keys-on-microsofts-latest-operating-systems-win-10-win-11/"><u>Restore Function to Broken Keys on Microsoft's Latest Operating Systems (Win 10 / Win 11)</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-connecting-your-microsoft-wireless-display-adapter-with-windows-aturate-as-well-as-to-improve-the-efficiency-of-the-model-itself-during-t47/"><u>Step-by-Step Guide: Connecting Your Microsoft Wireless Display Adapter with Windows Aturate, as Well as to Improve the Efficiency of the Model Itself During Training and Inference</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-excessive-svchostexe-cpu-load-in-windows-11/"><u>Step-by-Step Solutions for Excessive Svchost.exe CPU Load in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-a23-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy A23 5G Phone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-windows-10-bluetooth-connectivity-problems-fast/"><u>Troubleshoot and Fix Windows 10 Bluetooth Connectivity Problems Fast</u></a></li>
+</ul></div>
 

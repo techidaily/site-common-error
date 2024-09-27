@@ -1,7 +1,7 @@
 ---
 title: Trouble with Your Origin Game Setup? Here's How You Can Fix It
-date: 2024-09-19T19:47:01.105Z
-updated: 2024-09-20T17:09:38.032Z
+date: 2024-09-22T17:58:32.836Z
+updated: 2024-09-26T17:55:08.070Z
 tags:
   - win11
   - win10
@@ -57,6 +57,13 @@ If that didn’t help, try the next fix below.
 
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Under the**Processes** tab, look for**Origin, OriginClientService, and OriginWebHelperService** . If they’re on the list, make sure to right-click each and then select**End task** .  
 
 ![how to chear cache on Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/make-sure-Origin-is-fully-closed.jpg)
@@ -66,6 +73,13 @@ If that didn’t help, try the next fix below.
  3) Type or paste**%ProgramData%/Origin** and press Enter.  
   
 ![how to clear Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/Origin-ProgramData.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Delete all the files and folders inside it**except for LocalContent** . Do not delete this folder.  
   
@@ -85,13 +99,34 @@ If that didn’t help, try the next fix below.
   
 ![delete the Origin folder](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8) In the address bar, click on**AppData** .  
   
 ![delete Origin game cache](https://images.drivereasy.com/wp-content/uploads/2021/05/click-on-AppData.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9) Open the**Local** folder and delete the**Origin** folder in here.  
   
 ![delete Origin folder inside LocalData](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder-inside-LocalData.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 10) Restart your PC and log back into Origin.
 
@@ -112,6 +147,13 @@ Here’s how to update drivers with Driver Easy:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
@@ -138,31 +180,24 @@ If you want to make Origin always run as administrator, take these steps:
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/always-run-Origin-as-an-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-Origin-as-administrator.jpg)
 
  Resume your installation and check if it helped you fix the issue. If your problem persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Install the latest visual C++ redistributable pack
 
  Microsoft Visual C++ Redistributable is a standard distributable package of shared code that comes as part of your Windows and enables apps to run on your PC. If it’s missing or your current one is out-of-date, some apps that rely on the redistributable will fail to start or run and it will result in a total mess. Therefore, we would suggest you install the latest Visual C++ from[Microsoft](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) , both the x64 and x86 versions (you’ll find them in the**Visual Studio 2015, 2017 and 2019** section. )
 
 If that didn’t help, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Download Media Feature Pack for Windows 10 N
 
@@ -177,16 +212,10 @@ If that didn’t help, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/how-to-check-my-Windows-version.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
@@ -210,5 +239,16 @@ If that didn’t help, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-mac-dvd-authorization-handbook/"><u>[New] The Ultimate Mac DVD Authorization Handbook</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlocking-classic-facebook-narratives-laptop-and-mobile-strategies/"><u>[Updated] In 2024, Unlocking Classic Facebook Narratives Laptop & Mobile Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cutting-through-the-noise-persuasive-proposals-and-chatgpt/"><u>Cutting Through The Noise: Persuasive Proposals & ChatGPT</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-ultimate-video-editors-top-8-linux-picks/"><u>In 2024, Ultimate Video Editors Top 8 Linux Picks</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-connection-difficulties-with-bungies-destiny-2-gaming-platform/"><u>Overcoming Connection Difficulties with Bungie's Destiny 2 Gaming Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-inability-to-exit-windows-11-on-your-desktop-computer-proven-tips-and-tricks/"><u>Resolving Inability to Exit Windows 11 on Your Desktop Computer - Proven Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-msvcp140dll-absence-correctly/"><u>Solving MSVCP140.dll Absence Correctly</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-troubleshooting-steps-for-linking-airpods-with-windows-11-in-the-modern-era/"><u>The Ultimate Fix: Troubleshooting Steps for Linking AirPods with Windows 11 in the Modern Era</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-ultimate-guide-to-online-and-offline-video-to-audio-conversion-tools/"><u>Updated Ultimate Guide to Online and Offline Video-to-Audio Conversion Tools</u></a></li>
+</ul></div>
 

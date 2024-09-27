@@ -1,7 +1,7 @@
 ---
 title: "Fix Itself: Solutions to Restore Your Computer's Touchpad Functionality"
-date: 2024-09-17T16:14:27.910Z
-updated: 2024-09-20T18:29:59.189Z
+date: 2024-09-19T18:25:53.811Z
+updated: 2024-09-26T17:11:57.572Z
 tags:
   - win11
   - win10
@@ -71,30 +71,39 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
- If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
+ If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
@@ -111,16 +120,16 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -152,5 +161,16 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-pricepoint-nimbus-economical-mass-storage-haven-for-2024/"><u>[New] PricePoint Nimbus - Economical Mass Storage Haven for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/averting-valorant-crashes-with-reboot-procedure/"><u>Averting Valorant Crashes with Reboot Procedure</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/email-service-face-off-outlookcom-versus-gmail-which-wins-the-battle/"><u>Email Service Face-Off: Outlook.com versus Gmail – Which Wins the Battle?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-address-the-main-difficulties-of-using-an-iphone-12-insightful-fixes-for-a-better-experience/"><u>How to Address the Main Difficulties of Using an iPhone 12: Insightful Fixes for a Better Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-directx-12-graphics-device-not-set-up-problem-easily/"><u>How to Overcome 'DirectX 12 Graphics Device Not Set Up' Problem Easily</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-elite-selection-of-must-see-vr-films/"><u>In 2024, Elite Selection of Must-See VR Films</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-podcast-scheduling/"><u>In 2024, Mastering the Art of Podcast Scheduling</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-halo-4-ue4-fatal-error-and-stability-problems-of-2024/"><u>Overcoming Halo 4 UE4 Fatal Error and Stability Problems of 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-windows-11-update-error-code-0x80240034-step-by-step-guide/"><u>Resolving the Windows 11 Update Error Code 0X80240034 - Step-by-Step Guide</u></a></li>
+</ul></div>
 

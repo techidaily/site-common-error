@@ -1,7 +1,7 @@
 ---
 title: Can't Get Your Document to Print as PDF? Effortless Solutions Await!
-date: 2024-09-15T18:16:14.761Z
-updated: 2024-09-20T18:55:56.559Z
+date: 2024-09-20T18:54:20.639Z
+updated: 2024-09-26T22:54:28.749Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
    1. If you**can’t** print your PDF file in your browser either, probably your PDF files are corrupted, follow to**[repair or recreate your PDF file](#PDF)** .  
    2. If you **can**  print your PDF file in your browser, you need to [**troubleshoot problems with your Acrobat Reader** .](#reader)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Troubleshoot problems with your printer](#printer)**
@@ -53,9 +60,24 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 2. Type**control** and click**OK** .”  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0354b845be.png)
 3. Click**Devices and Printers** in**Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0355fe9f37.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Make sure there is a green ✔ mark with your printer, which means it’s set to default.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0361852b11.jpg)  
  If it’s not set to default, right-click on your printer and click**Set as default printer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0363012f57.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 2\. Make sure your printer driver is up-to-date
 
@@ -74,6 +96,14 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 2. Click **Scan Now** . It will quickly detect all driver’s problems with your computer. Your printer driver is no exception.  
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update**  next to your flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/printer-driver-9015.png)
 4. Restart your computer and try to print your PDF file in Adobe to see if successful.
 
@@ -104,13 +134,20 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
 2. Double-click the new PDF file on your hard drive and then try to print it to see if successful.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Scan your computer to detect issues
 
@@ -148,13 +185,6 @@ thumbnail: https://thmb.techidaily.com/20c69587162d153f03eefa64dab5fb5356740a9d4
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-cmd.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -210,20 +240,13 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 4. Find your Acrobat Reader, then Uninstall.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f040401a2b4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Open your PDF file using the new Acrobat Reader. Then try to print it to see if successful.
 
@@ -246,5 +269,22 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-quintet-of-premium-picture-and-sound-recording-tools-for-2024/"><u>[New] Quintet of Premium Picture & Sound Recording Tools for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-simplewin10-screen-grab-utility/"><u>[Updated] SimpleWin10 Screen Grab Utility</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-smart-explorers-choice-premium-vr-gear-ranked/"><u>2024 Approved The Smart Explorer's Choice Premium VR Gear Ranked</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-dealing-with-network-cable-unplugged-errors-in-windows-10-and-hemenet-a-technical-troubleshooting-resource/"><u>Comprehensive Solutions for Dealing with 'Network Cable Unplugged' Errors in Windows 10 & Hemenet: A Technical Troubleshooting Resource</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-recommendations-leading-mac-screencasters-in-2eby-50/"><u>Expert Recommendations: Leading Mac Screencasters in 2Eby = $50</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-a38-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo A38 to iPad | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-14-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-redmi-k70e-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi Redmi K70E FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-xiaomi-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Xiaomi Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimized-system-configuration-overcomes-previous-resource-limitations-in-services/"><u>Optimized System Configuration Overcomes Previous Resource Limitations in Services</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-windows-10-casting-hurdles-solutions-to-device-unavailable-for-cast/"><u>Overcome Windows 10 Casting Hurdles: Solutions to 'Device Unavailable for Cast'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-half-life-alyx-frame-drops-and-glitches-on-personal-computers/"><u>Solving Half Life: Alyx Frame Drops and Glitches on Personal Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-of-unclear-text-in-windows-11-tips-and-tricks-for-a-sharper-display/"><u>Solving the Issue of Unclear Text in Windows 11 – Tips & Tricks for a Sharper Display</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-unexpected-autostart-issues-on-your-windows-11-machine/"><u>Solving Unexpected Autostart Issues on Your Windows 11 Machine</u></a></li>
+<li><a href="https://common-error.techidaily.com/touchpad-not-working-fixed/"><u>Touchpad Not Working [FIXED]</u></a></li>
+</ul></div>
 

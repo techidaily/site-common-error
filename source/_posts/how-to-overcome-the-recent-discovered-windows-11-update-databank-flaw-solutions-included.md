@@ -1,7 +1,7 @@
 ---
 title: How to Overcome the Recent Discovered Window's 11 Update Databank Flaw - Solutions Included!
-date: 2024-09-17T17:47:48.682Z
-updated: 2024-09-20T19:41:12.989Z
+date: 2024-09-24T17:59:43.368Z
+updated: 2024-09-26T23:07:56.785Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Restart your Windows update service**
 
  You may see this error if there is something wrong with your Windows Update service. Try restarting the Windows Update service and maybe this issue will get resolved. Here’s how to do it:
@@ -50,8 +57,30 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path **C:\\Windows\\SoftwareDistribution\\DataStore** and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap282.png)
 4. Delete all the files and folders in the folder **DataStore**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap283.png)
 5. Copy the path **C:\\Windows\\SoftwareDistribution\\Download** and paste it in the address bar, then press **Enter**  on your keyboard to open the **Download**  folder.  
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap284.png)
 6. Delete all the files and folders in the folder   **Download**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap285.png)
@@ -71,6 +100,14 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
          * When you run the command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption.  
          ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap29.jpg)  
           It may take several minutes for this command operation to be completed.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    2. Dism /Online /Cleanup-Image /CheckHealth  
          * When you run the command line**Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image exists corruptions or not. This command line also doesn’t repair the corrupted files.  
          ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap28.jpg)  
@@ -91,16 +128,17 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
 1. On your keyboard, press **the Windows Logo Key**  and **R**  at the same time to open the Run dialog. Type **cmd** and then press **Ctrl** ,**Shift** , and **Enter** on your keyboard   at the same time to**run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes**  to run the **Command Prompt** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/1-2.png)
 2. On your keyboard, type the command lines below and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * sfc /scannow  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/10-1.png)  
     It may take several minutes for this command operation to be completed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Close the Command Prompt when this command operation completed.
 
@@ -118,6 +156,14 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
    1. On your keyboard, press **the Windows Logo key**  and **R**  at the same time to open the Run dialog. Type **cmd**  and press **Enter**  to open the Command Prompt.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/1-2.png)  
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap31-2.png)  
     “**X64-based PC** ” indicates that your Windows OS is**64-bit** ; “**X86-based PC** ” means that your Windows OS is**32-bit** .
 4. Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)** .
@@ -129,10 +175,10 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
 7. In the pop-up window, click the link to start downloading the updates.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap27.png)
@@ -149,36 +195,22 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap303.png)
 3. Double-click the downloaded file to open the media creation tool. Click **Yes**  when you’re prompted for permission.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap295.png)
 4. Click **Accept**  when you see the window below.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap305.png)
 5. Select**Upgrade this PC now** and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap304.png)
 6. Follow the on-screen instruction to perform an in-place upgrade.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After upgrading your Windows system, see if you can perform a Windows update. In most cases, you won’t get this annoying issue after upgrading your Windows system.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Pro tip: Want us to fix the problem for you?
 
@@ -206,5 +238,24 @@ thumbnail: https://thmb.techidaily.com/d09e418474d756f5a8ffe485c9482504fd4de6868
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-classic-questline-versus-the-dynamic-strategy/"><u>[New] 2024 Approved The Classic Questline versus the Dynamic Strategy</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-precision-photography-leading-tripods-for-smartphones/"><u>[New] Precision Photography Leading Tripods for Smartphones</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-capture-time-bending-reels-with-slow-motion-hacks-on-ig/"><u>2024 Approved Capture Time-Bending Reels with Slow Motion Hacks on IG</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/evaluating-iphone-8-series-advantages-and-disadvantages-unveiled/"><u>Evaluating iPhone 8 Series: Advantages and Disadvantages Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-fixing-user-profile-service-failed-during-windows-login/"><u>Expert Advice on Fixing 'User Profile Service Failed' During Windows Login</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-amplify-your-storytelling-music-for-instagram-stories-and-videos/"><u>In 2024, Amplify Your Storytelling Music for Instagram Stories & Videos</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/meeting-live-google-meet-to-youtube-broadcast-guide/"><u>Meeting Live Google Meet to YouTube Broadcast Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/nature-backdrop-sketches-essential-downloads-for-videographers-for-2024/"><u>Nature Backdrop Sketches Essential Downloads for Videographers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-faulty-renderer-startup-process-advanced-corrections/"><u>Overcome: Faulty Renderer Startup Process - Advanced Corrections</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-print-screen-failures-for-smooth-capture-features-in-windows/"><u>Overcoming Print Screen Failures for Smooth Capture Features in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-persistent-delay-on-windows-10-keyboards/"><u>Resolved: Fixing Persistent Delay on Windows 10 Keyboards</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sd-card-not-showing-up-discover-easy-fixes-to-restore-access/"><u>SD Card Not Showing Up? Discover Easy Fixes to Restore Access</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-valorants-continuous-launch-loop-tips-and-tricks-to-save-your-game-time/"><u>The Ultimate Fix for Valorant's Continuous Launch Loop - Tips & Tricks to Save Your Game Time</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-audio-issues-restoring-microphone-functionality-in-laptops/"><u>Troubleshooting Audio Issues: Restoring Microphone Functionality in Laptops</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-disconnected-amd-premium-sound-devices/"><u>Troubleshooting Guide for Disconnected AMD Premium Sound Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-your-icue-system-cant-detect-devices/"><u>Troubleshooting Tips for When Your ICUE System Can’t Detect Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-descriptions-revamped-by-template-professionals/"><u>YouTube Descriptions Revamped by Template Professionals</u></a></li>
+</ul></div>
 

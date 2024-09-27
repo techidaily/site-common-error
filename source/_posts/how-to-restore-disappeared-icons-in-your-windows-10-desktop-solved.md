@@ -1,7 +1,7 @@
 ---
 title: How to Restore Disappeared Icons in Your Windows 10 Desktop (Solved)
-date: 2024-09-19T16:58:45.399Z
-updated: 2024-09-20T19:15:09.074Z
+date: 2024-09-23T17:06:27.921Z
+updated: 2024-09-26T19:11:54.312Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -50,10 +57,31 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -65,13 +93,6 @@ You can also try these steps to rebuild the icon cache:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -80,6 +101,19 @@ start explorer.exe
 3. Check if it helps restore your desktop icons. If not, try Tip 4, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 4: Perform a system restore
 
@@ -92,31 +126,19 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -125,6 +147,14 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 1. Click the **Start** button > the **Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
@@ -147,13 +177,6 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 Hopefully, this can help you out.
@@ -175,5 +198,23 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/hurning-up-channels-top-gear-list-for-2024/"><u>[New] Churning Up Channels Top Gear List for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-honoring-artistry-essential-stop-motion-movies-top-15/"><u>[New] In 2024, Honoring Artistry Essential Stop-Motion Movies (Top 15)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-comprehensively-understanding-youtubes-aspect-ratio-ecosystem-for-2024/"><u>[Updated] Comprehensively Understanding YouTube's Aspect Ratio Ecosystem for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastery-over-instagrams-integration-with-music-emoji-features/"><u>[Updated] In 2024, Mastery Over Instagram's Integration with Music Emoji Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-failed-installs-of-windows-11-build-1607-features/"><u>Diagnosing Failed Installs of Windows 11, Build 1607 Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/disable-antivirus-software-temporarily/"><u>Disable Antivirus Software Temporarily</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-screenwriting-circle/"><u>Elite Screenwriting Circle</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/erase-your-chatgpt-footprints/"><u>Erase Your ChatGPT Footprints</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-pitch-black-to-bright-ideas-repairing-full-screen-darkness-in-google-chrome/"><u>From Pitch Black to Bright Ideas: Repairing Full-Screen Darkness in Google Chrome</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-downloads-of-hp-officejet-5740-printer-drivers-get-started-today/"><u>Hassle-Free Downloads of HP OfficeJet 5740 Printer Drivers - Get Started Today</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/internal-structures-like-baffles-and-weirs-can-enhance-sedimentation-by-reducing-turbulence-and-controlling-outflow-rates-for-maximum-contact-time-within-se151/"><u>Internal Structures Like Baffles and Weirs Can Enhance Sedimentation by Reducing Turbulence and Controlling Outflow Rates for Maximum Contact Time Within Settling Zones.</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-a-broken-right-click-a-windows-11-users-manual/"><u>Quick Fixes for a Broken Right Click: A Windows 11 User's Manual</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-missing-bluetooth-on-your-windows-10-device-expert-tips-and-tricks/"><u>Quick Fixes for Missing Bluetooth on Your Windows 10 Device: Expert Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-functionality-of-lenovos-biometric-scanner/"><u>Step-by-Step Guide: Restoring Functionality of Lenovo's Biometric Scanner</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-precision-in-recording-cutting-down-ambient-noises-using-advanced-filters/"><u>Updated 2024 Approved Precision in Recording Cutting Down Ambient Noises Using Advanced Filters</u></a></li>
+</ul></div>
 

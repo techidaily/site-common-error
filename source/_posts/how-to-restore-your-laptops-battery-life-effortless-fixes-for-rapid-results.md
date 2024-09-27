@@ -1,7 +1,7 @@
 ---
 title: "How To Restore Your Laptop’s Battery Life: Effortless Fixes for Rapid Results"
-date: 2024-09-19T16:34:06.163Z
-updated: 2024-09-20T18:08:12.221Z
+date: 2024-09-22T21:12:18.396Z
+updated: 2024-09-26T21:54:33.954Z
 tags:
   - win11
   - win10
@@ -77,6 +77,13 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -95,13 +102,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -109,10 +109,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -123,13 +123,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -143,13 +136,34 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -183,5 +197,18 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-free-screen-recorder-for-android-for-2024/"><u>[Updated] Free Screen Recorder for Android for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-navigating-video-earnings-dailymotion-vs-youtube-showdown/"><u>2024 Approved Navigating Video Earnings Dailymotion vs YouTube Showdown</u></a></li>
+<li><a href="https://discover-help.techidaily.com/create-and-burn-professional-quality-dvds-with-winx-dvd-author-best-free-tool-for-windows-users/"><u>Create & Burn Professional-Quality DVDs with WinX DVD Author - Best Free Tool for Windows Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-contrast-how-does-ipad-pro-measure-up-to-macbook-pro/"><u>Exploring the Contrast: How Does iPad Pro Measure Up to MacBook Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208310459-keyboard-typos-heres-how-to-type-without-the-slip-ups/"><u>Keyboard Typos? Here's How to Type Without the Slip-Ups!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oppo-find-x7-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Oppo Find X7 Screen | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-world-of-warcraft-stutters-a-comprehensive-guide/"><u>Resolving World of Warcraft Stutters: A Comprehensive Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/simple-solutions-to-capture-gotomeetings-effectively-for-2024/"><u>Simple Solutions to Capture GoToMeetings Effectively for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206851052-trouble-printer-proofing-your-pdfs-swift-solutions-to-the-rescue/"><u>Trouble Printer-Proofing Your PDFs? Swift Solutions to the Rescue</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-speaker-distortions-in-windows-operating-systems-w11w7/"><u>Troubleshooting and Solving Speaker Distortions in Windows Operating Systems [W11/W7]</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/video-output-restored-post-error/"><u>Video Output Restored Post-Error</u></a></li>
+</ul></div>
 

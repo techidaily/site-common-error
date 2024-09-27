@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Fixes for Dealing with Inoperative USB Gadgets and Troublesome Port Reset Errors on Windows 10
-date: 2024-09-19T19:30:30.341Z
-updated: 2024-09-20T16:54:35.833Z
+date: 2024-09-23T16:16:44.087Z
+updated: 2024-09-26T18:11:10.647Z
 tags:
   - win11
   - win10
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Solution 3: Disable driver signature enforcement**
 
 Follow the steps below:
@@ -71,10 +64,10 @@ Follow the steps below:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Solution 4: Update the USB driver**
@@ -96,10 +89,10 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e2b99785c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) On your keyboard, press the **Del** key (It could be**Delete** on some keyboards).
@@ -144,16 +137,16 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8db9a4f349.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Go to the **Services** tab. Check the box next to**Hide all Microsoft services** then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8dc3401983.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click the **OK** button.
 
@@ -161,15 +154,22 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8dca75f671.png)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the issue resolves after the computer starts, you can try disabling the third-party services one by one to determine which service is causing the issue.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Solution 6: Enable Legacy USB Support in BIOS**
@@ -181,6 +181,19 @@ Follow the steps below:
  2) In BIOS, use the specific key to navigate to**Advanced** (You can see the meaning of the key command at the bottom of the screen.).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8d3383654c.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Find Legacy USB Support or a similar USB option. If it is**Disabled** , enable it. Exit after saving the changes.
 
@@ -205,5 +218,21 @@ Follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-unleashing-creativity-with-tiktok-video-tricks/"><u>[New] 2024 Approved Unleashing Creativity with TikTok Video Tricks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-nailing-the-art-of-powerpoint-to-video-conversion/"><u>[New] In 2024, Nailing the Art of PowerPoint to Video Conversion</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-youtube-video-extraction-a-step-by-step-guide/"><u>[New] Mastering YouTube Video Extraction A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-your-creativity-with-photoshops-radial-blur-and-shadow-tools/"><u>[New] Unlock Your Creativity with Photoshop's Radial Blur & Shadow Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-take-your-online-presence-to-new-heights-with-youtube-edits-in-sony-vegas/"><u>[Updated] In 2024, Take Your Online Presence to New Heights with YouTube Edits in Sony Vegas</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solution-for-dealing-with-failed-attempts-at-accessing-a-remote-server/"><u>Comprehensive Solution for Dealing With Failed Attempts at Accessing a Remote Server</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-strategies-to-overcome-recurring-freezing-errors-on-windows-or-mac-systems/"><u>Comprehensive Strategies to Overcome Recurring Freezing Errors on Windows or Mac Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/elite-workstations-for-peak-productivity/"><u>Elite Workstations for Peak Productivity</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-data-retrieval-tool-restore-lost-data-from-nokia-c02-by-fonelab-android-recover-data/"><u>Nokia Data Retrieval tool – restore lost data from Nokia C02</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guidelines-resolving-not-plugged-in-error-for-realtek-audio-device/"><u>Solution Guidelines - Resolving 'Not Plugged In' Error for Realtek Audio Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-the-non-working-print-screen-button-on-pcs-with-windows-10-or-11/"><u>Step-by-Step Solutions for the Non-Working Print Screen Button on PCs with Windows 10 or 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-making-bluetooth-appear-in-your-computers-device-manager/"><u>Troubleshooting Tips for Making Bluetooth Appear in Your Computer's Device Manager</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcome-the-hurdle-of-error-0x800f0831-using-windows-update-features/"><u>Troubleshooting Tips: Overcome the Hurdle of Error 0X800f0831 Using Windows Update Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-windows-11-keyboard-lag-effective-fixes-revealed/"><u>Winning Against Window's 11 Keyboard Lag - Effective Fixes Revealed</u></a></li>
+</ul></div>
 

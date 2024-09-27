@@ -1,7 +1,7 @@
 ---
 title: How To Prevent Your Mouse From Constantly Disconnecting on Any Device
-date: 2024-09-19T18:46:22.327Z
-updated: 2024-09-20T16:54:52.387Z
+date: 2024-09-21T22:24:08.606Z
+updated: 2024-09-26T22:00:35.568Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ To rule out this as a possibility:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your USB drivers
 
  This problem may occur if you are using the wrong or outdated USB drivers. So you should update your USB driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -60,6 +67,13 @@ To rule out this as a possibility:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click Update to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and check if the**USB keeps disconnecting** issue has been resolved. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
@@ -76,27 +90,27 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
@@ -114,13 +128,6 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
@@ -134,10 +141,10 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
@@ -162,5 +169,18 @@ To make sure you’ve this setting disabled:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-boredoms-ender-the-ultimate-list-of-jovial-youtube-content-for-2024/"><u>[Updated] Boredom's Ender The Ultimate List of Jovial YouTube Content for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-picking-between-filmora-and-democracy-creator-for-edits/"><u>2024 Approved Picking Between Filmora and Democracy Creator for Edits</u></a></li>
+<li><a href="https://common-error.techidaily.com/arctis-5-mic-not-working-heres-the-ultimate-fix/"><u>Arctis 5 Mic Not Working? Here's The Ultimate Fix!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/celebrating-top-10-moba-play-android-edition/"><u>Celebrating Top 10 MOBA Play Android Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-sudden-computer-shutdown-issues-a-comprehhemic-approach-to-a-solved-problem/"><u>Fixing Sudden Computer Shutdown Issues: A Comprehhemic Approach to a Solved Problem</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-zero-to-hero-a-step-by-step-approach-to-youtube-backlinks-for-2024/"><u>From Zero to Hero A Step-by-Step Approach to YouTube Backlinks for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcome-windows-11-bug-error-0xc1900208-solution-unveiled/"><u>Guide to Overcome Windows 11 Bug - Error 0Xc1900208 Solution Unveiled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-from-sideways-to-symmetry-the-instagram-chronicles-of-flipping-photos/"><u>In 2024, From Sideways to Symmetry The Instagram Chronicles of Flipping Photos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-step-by-step-for-turning-your-vids-into-beats-on-insta-for-2024/"><u>The Step-by-Step for Turning Your Vids Into Beats on Insta for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-guide-resolving-the-dark-display-issue-on-your-dell-computer/"><u>Ultimate Troubleshooting Guide: Resolving the Dark Display Issue on Your Dell Computer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/virtual-realms-evolutions-tale-for-2024/"><u>Virtual Realms Evolution's Tale for 2024</u></a></li>
+</ul></div>
 

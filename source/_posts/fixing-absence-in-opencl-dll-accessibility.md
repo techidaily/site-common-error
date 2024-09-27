@@ -1,7 +1,7 @@
 ---
 title: Fixing Absence in OpenCL DLL Accessibility
-date: 2024-09-17T19:22:52.152Z
-updated: 2024-09-20T17:39:51.056Z
+date: 2024-09-20T19:16:50.337Z
+updated: 2024-09-26T16:37:45.929Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -57,6 +64,19 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
@@ -64,6 +84,13 @@ Follow these:
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -80,6 +107,13 @@ Follow these:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -120,12 +154,22 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-expert-analysis-top-9-digital-recording-tools-assessed/"><u>[New] In 2024, Expert Analysis Top 9 Digital Recording Tools Assessed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quick-fixes-to-design-delight-canvas-top-10-tips/"><u>[New] Quick Fixes to Design Delight Canva's Top 10 Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-snapseed-101-basic-editing-techniques-unveiled/"><u>[New] Snapseed 101 Basic Editing Techniques Unveiled</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-unforeseen-tiktok-reset-are-posts-retrievable-for-2024/"><u>[New] Unforeseen TikTok Reset – Are Posts Retrievable for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-compiling-ultimate-list-of-virtual-controls/"><u>2024 Approved Compiling Ultimate List of Virtual Controls</u></a></li>
+<li><a href="https://article-files.techidaily.com/a-year-in-review-how-vivacut-is-shaping-the-future-of-video-editing-for-2024/"><u>A Year In Review How VivaCut Is Shaping the Future of Video Editing for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/compatibility-hunt-for-windows-hello-camera/"><u>Compatibility Hunt for Windows Hello Camera</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211406665-fixing-the-crimson-display-issue-overcoming-the-notorious-red-screen-glitch/"><u>Fixing The Crimson Display Issue - Overcoming the Notorious Red Screen Glitch</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11-update-errors-version-1607-what-you-need-to-know/"><u>Fixing Windows 11 Update Errors (Version 1607) – What You Need to Know</u></a></li>
+<li><a href="https://common-error.techidaily.com/follicular-carcinoma-while-less-common-than-papillary-still-accounts-for-a-significant-percentage-of-all-thyroid-cancers/"><u>Follicular Carcinoma, While Less Common than Papillary, Still Accounts for a Significant Percentage of All Thyroid Cancers.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-the-big-four-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Navigating the Big Four of Social Networking: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://review-topics.techidaily.com/new-iphone-8-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 8 Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
+<li><a href="https://common-error.techidaily.com/search-for-light-control-tool-in-windows/"><u>Search for Light Control Tool in Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-rated-no-cost-dvd-maker-software-for-windows-11-8-and-7-effortlessly-convert-video-clips-into-discs/"><u>Top Rated No-Cost DVD Maker Software for Windows 11, 8 & 7: Effortlessly Convert Video Clips Into Discs</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-a-broken-key-on-your-keyboard-a-step-by-step-guide/"><u>Troubleshooting a Broken '@' Key on Your Keyboard - A Step-by-Step Guide</u></a></li>
+</ul></div>
 

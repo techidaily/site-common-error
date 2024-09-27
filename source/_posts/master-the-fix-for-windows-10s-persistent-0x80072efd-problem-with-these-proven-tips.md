@@ -1,7 +1,7 @@
 ---
 title: Master the Fix for Windows 10'S Persistent 0X80072EFD Problem with These Proven Tips
-date: 2024-09-15T18:16:10.461Z
-updated: 2024-09-20T18:42:27.198Z
+date: 2024-09-19T23:05:17.565Z
+updated: 2024-09-26T22:45:19.296Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap38-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap32-3.jpg)
@@ -54,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable your proxy
 
@@ -64,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 **2)** Type “inetcpl.cpl” in the box and click the**OK** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap43.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Go to “Connections” tab and click**LAN Settings** .
 
@@ -77,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Run the Windows Update Troubleshooter
 
  The error code may be related to Windows Update error. The Windows Update Troubleshooter is an inbuilt tool that helps to fix Windows update errors. The steps below help you fix this issue.
@@ -94,16 +108,16 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap37-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Under**Troubleshoot** tab click**Windows Update** and then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap39-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** After finishing the troubleshooting process, restart your computer and check the error is fixed or not.
 
@@ -119,22 +133,15 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap37-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click**Check for updates** first, then click**Install Now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap83.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Follow the instructions and then check whether the error is fixed.
@@ -142,10 +149,10 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Clear Windows Store Cache
@@ -198,6 +205,14 @@ Now check to see if your Windows Store is working normally.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -225,5 +240,23 @@ Now check to see if your Windows Store is working normally.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-actual-fix-for-exporting-srt-from-premiere-not-working/"><u>[New] In 2024, The Actual Fix for Exporting SRT From Premiere Not Working</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-streamlining-access-to-fb-live-via-roku/"><u>[Updated] Streamlining Access to FB Live via Roku</u></a></li>
+<li><a href="https://win-blog.techidaily.com/back-4-blood-latency-solutions-step-by-step-guide-for-smoother-gaming/"><u>Back 4 Blood Latency Solutions: Step-by-Step Guide for Smoother Gaming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/conversao-online-gratuita-de-mp4-para-flv-com-movavi-ferramenta-simples/"><u>Conversão Online Gratuita De MP4 Para FLV Com Movavi - Ferramenta Simples</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-tips-for-repairing-unresponsive-fn-buttons-on-dell-computers/"><u>Essential Tips for Repairing Unresponsive FN Buttons on Dell Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-revive-audio-output-on-an-acer-laptop-with-no-sound-issues/"><u>How to Revive Audio Output on an Acer Laptop with No Sound Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-poco-m6-pro-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Poco M6 Pro 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-restoring-functionality-to-windows-keyboards-with-sticking-keys/"><u>Mastering the Art of Restoring Functionality to Windows Keyboards with Sticking Keys.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/oceans-bounty-best-cameras-for-anglers-for-2024/"><u>Ocean's Bounty - Best Cameras for Anglers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-delayed-key-reactions-on-your-windows-1n-11-pc/"><u>Solving Delayed Key Reactions on Your Windows 1N 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204732927-tips-for-successful-smartaudio-activation-after-initial-failures-resolved/"><u>Tips for Successful SmartAudio Activation After Initial Failures - Resolved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-solutions-how-to-overcome-windows-11s-error-0x800f0922-during-updates/"><u>Top Solutions: How to Overcome Windows 11'S Error 0X800F0922 During Updates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-resolve-modern-gaming-sound-glitches-easily/"><u>Troubleshoot and Resolve Modern Gaming Sound Glitches Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-recovering-from-file-system-corruption-issues/"><u>Troubleshooting and Recovering From File System Corruption Issues</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-streamlining-your-audio-setup-efficiently-manage-m4a-files-on-android/"><u>Updated 2024 Approved Streamlining Your Audio Setup Efficiently Manage M4A Files on Android</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Infinix GT 10 Pro | Dr.fone</u></a></li>
+</ul></div>
 

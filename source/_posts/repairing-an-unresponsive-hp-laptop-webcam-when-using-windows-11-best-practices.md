@@ -1,7 +1,7 @@
 ---
 title: Repairing an Unresponsive HP Laptop Webcam When Using Windows 11 - Best Practices
-date: 2024-09-14T17:29:39.483Z
-updated: 2024-09-20T16:25:11.626Z
+date: 2024-09-23T19:10:22.807Z
+updated: 2024-09-26T17:29:47.611Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 4. Plug the power cable and the battery back into your laptop.
 5. Power on your computer. Then check to see if this fixes your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Disable Filter Keys
 
 **Filter Keys** is a feature that makes your keyboard ignore brief or repeated keystrokes. It sometimes leads to the issue of the laptop keyboard not working. You can try**disabling Filter Keys** to sort this issue out.
@@ -58,16 +65,10 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 5. Try your keyboard and see if disabling Filter Keys can restore your keyboard.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Windows 11
@@ -77,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 3. Toggle**Off** Filter keys.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Filter-keys-Off.jpg)
 4. Now try using your keyboard and see if disabling Filter Keys can restore your keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Update your keyboard driver
 
@@ -94,16 +102,10 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -111,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
  If your keyboard still refuses to work properly, please move on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Troubleshoot the hardware issues
@@ -140,5 +142,21 @@ thumbnail: https://thmb.techidaily.com/74732f3286f05f088e049d5a5051d94a307e70b48
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-from-selfies-to-subscribers-jake-pauls-online-odyssey/"><u>[New] 2024 Approved From Selfies to Subscribers Jake Paul’s Online Odyssey</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-beat-cutting-editing-music-videos-on-ios/"><u>[New] Beat Cutting Editing Music Videos on iOS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-list-8-online-locations-for-free-3d-text-psdfiles/"><u>[New] The Ultimate List 8 Online Locations for Free 3D Text PSDFiles</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-revealing-featured-comment-spots/"><u>[Updated] Revealing Featured Comment Spots</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unearthing-timeless-treasures-a-classic-lit-exploration/"><u>[Updated] Unearthing Timeless Treasures A Classic Lit Exploration</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-ue4s-halo-4-2024-fatal-crash-a-step-by-step-fix-manual/"><u>Bypassing UE4's Halo 4 2024 Fatal Crash - A Step-by-Step Fix Manual</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-obstacles-during-a-windows-software-installation/"><u>Expert Advice: Overcoming Obstacles During a Windows Software Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/icue-fixes-at-hand-tackling-the-device-not-detected-problem-easily/"><u>ICUE Fixes at Hand: Tackling the 'Device Not Detected' Problem Easily</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-storytelling-mastery-crafting-a-dynamic-marketing-plan-for-2024/"><u>Instagram Storytelling Mastery Crafting a Dynamic Marketing Plan for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-your-battleye-setup-woes-effective-solutions-for-smooth-functionality/"><u>Overcome Your BattlEye Setup Woes – Effective Solutions for Smooth Functionality</u></a></li>
+<li><a href="https://techidaily.com/remove-motorola-lock-screen-without-password-motorola-moto-g04-by-drfone-android-unlock-android-unlock/"><u>Remove Motorola Lock Screen without Password(Motorola Moto G04)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/strategic-message-management-expert-tips-for-discord-pinning/"><u>Strategic Message Management Expert Tips for Discord Pinning</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-the-power-of-file-explorer-on-windows-10-a-beginners-guide/"><u>Unlocking the Power of File Explorer on Windows 10: A Beginner's Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-printer-problems-a-detailed-guide-to-resolve-xerox-update-error-0x800f020b-in-windows/"><u>Winning Against Printer Problems: A Detailed Guide to Resolve Xerox Update Error 0X800f020b in Windows</u></a></li>
+</ul></div>
 

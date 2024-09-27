@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution to Rectify the Puzzling White Display Issue in Notebook PCs
-date: 2024-09-19T18:02:28.869Z
-updated: 2024-09-20T18:01:14.430Z
+date: 2024-09-19T22:53:09.901Z
+updated: 2024-09-26T18:55:42.497Z
 tags:
   - win11
   - win10
@@ -57,6 +57,13 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
@@ -75,11 +82,25 @@ Follow these:
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -96,6 +117,13 @@ Follow these:
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers. Your keyboard driver is no exception.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
@@ -120,12 +148,23 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://printer-issues.techidaily.com/solved-printer-communication-not-available-issue/"><u>[Solved] Printer Communication Not Available Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-11-brightness-control-not-working/"><u>[Solved] Windows 11 Brightness Control Not Working</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-outdoor-video-equipment-guide/"><u>[Updated] Outdoor Video Equipment Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/crafting-success-tips-from-ginger-islet/"><u>Crafting Success Tips From Ginger Islet</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-high-disk-usage-caused-by-microsoft-telemetry-on-windows-10-systems/"><u>How to Fix High Disk Usage Caused by Microsoft Telemetry on Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-lenovo-mouse-mat-compatibility-with-windows-10-8-and-7-systems/"><u>How to Repair Your Lenovo Mouse Mat Compatibility with Windows 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-fix-problems-with-configuring-your-windows-updates/"><u>How to Successfully Fix Problems with Configuring Your Windows Updates</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-iphone-11-pro-max-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 11 Pro Max Without a Home Button</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-how-to-use-telegram-web-step-by-step-guide/"><u>In 2024, How To Use Telegram Web Step-By-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-spacebar-z-r-ren/"><u>Resolving Windows ˈSPACEBAR Ɪz ʏɑːrŋ Ɜːrɡən</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-windows-11-hosted-mode-connectivity-failure/"><u>Solving the Problem: Windows 11 Hosted Mode Connectivity Failure</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-drive-fixes-for-windows-10-acer-users/"><u>Speedy Drive Fixes for Windows 10 Acer Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-reducing-microsoft-telemetry-impact-on-storage-in-windows-cuhceroesystem/"><u>Step-by-Step Guide: Reducing Microsoft Telemetry Impact on Storage in Windows Cuhceroesystem</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-nokia-g310-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Nokia G310 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realmes-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realmes Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://windows11.techidaily.com/wintools-strategy-the-ultimate-performance-boost/"><u>WinTools Strategy: The Ultimate Performance Boost</u></a></li>
+</ul></div>
 

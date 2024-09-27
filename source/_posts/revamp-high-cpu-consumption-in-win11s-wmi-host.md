@@ -1,7 +1,7 @@
 ---
 title: Revamp High CPU Consumption in Win11's WMI Host
-date: 2024-09-18T19:08:05.733Z
-updated: 2024-09-20T18:22:33.971Z
+date: 2024-09-23T00:26:12.814Z
+updated: 2024-09-26T21:40:33.200Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/0ee1c1c5a9be407cbf065c21cefa3d097b024c8bd
   * [Fix 5: Run System Maintenance Troubleshooter](#h-fix-5-run-system-maintenance-troubleshooter)  
   * [Fix 6: Perform a clean boot](#h-fix-6-perform-a-clean-boot)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What’s Shell Infrastructure Host?
 
 **Shell Infrastructure Host** , also known as**sihost.exe** , handles the basic graphics UI elements like taskbar transparency, start menu layout, and even your fancy background image. Normally, it’s a quiet teammate, barely using any CPU resources. But like any good teammate, sometimes it stumbles. When that happens, sihost.exe can suddenly start hogging more CPU power than usual, leaving your computer feeling sluggish and unresponsive.
@@ -59,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/0ee1c1c5a9be407cbf065c21cefa3d097b024c8bd
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/update-and-security.jpg)
 3. Click**Check for updates** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/updates-1.jpg)
 4. Update your OS as required, and restart your computer to see if the issue has been resolved.
 
@@ -78,10 +78,25 @@ If Updating your Windows is not helping, move on to the second fix.
 1. Click**Start** , and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-setting.jpg)
 2. Select**Personalization** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/personalization.jpg)
 3. In the **Background** field, select **Picture** or **Solid color.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/background1.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/background-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this step still can’t improve the CPU usage, move on to the next method below.
 
@@ -95,36 +110,18 @@ If Updating your Windows is not helping, move on to the second fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-setting.jpg)
 2. Select**Apps.**  
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/settings-app.jpg)
 3. Select**Default apps** , then click**Photos** (which is the default photo viewer app in Windows).  
-![](https://images.drivereasy.com/wp-content/uploads/2022/08/default-apps.jpg)
-4. Switch to another app.  
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/default-apps.jpg)
+4. Switch to another app.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/choose-an-app.jpg)
 
@@ -142,6 +139,14 @@ Here’s how to use Fortect to repair your system files:
 2. Launch Fortect and it will run a free scan of your PC. After the scan is complete, you will be presented with a report displaying the identified issues.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Click **Start Repair** to automatically fix all the issues (You’ll need to pay for the full version. It comes with a 60-day money-back guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact**<support@fortect.com>** for a full refund.
@@ -157,18 +162,26 @@ Here’s how to use Fortect to repair your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/run-troubleshooting.jpg)
 3. Click **Advanced** in the pop-up box.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced.jpg)
 4. Click**Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/as-admin.jpg)
 5. Click**Next** . Then the system maintenance tool will do the troubleshooting for you and inform you when it’s completed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/next.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the issue disappears, congrats! If not, there is one more fix you can try.
 
@@ -184,15 +197,16 @@ Here’s how to use Fortect to repair your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot1-1.jpg)
 4. On the **Startup**  tab of System Configuration, click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot2.jpg)
 5. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot3-1.jpg)
 6. Go back to the **System Configuration** window and click **OK** to save the changes you just made.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot4.jpg)
@@ -242,5 +256,22 @@ Here’s how to use Fortect to repair your system files:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-top-15-instagram-videophoto-downloaders-online-and-add-on-and-app-solutions-for-2024/"><u>[New] Top 15 Instagram Video/Photo Downloaders – Online & Add-On & App Solutions for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-video-anonymization-strategies/"><u>[Updated] 2024 Approved Video Anonymization Strategies</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-complete-preview-control-essentials-for-mac-users/"><u>2024 Approved Complete Preview Control Essentials for Mac Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-realme-gt-neo-5-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Realme GT Neo 5 Fingerprint Lock</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x802n200d-on-windows-update-a-detailed-solution-guide-to-restore-functionality/"><u>Error 0X802n200d on Windows Update: A Detailed Solution Guide to Restore Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-comprehensive-guide-to-address-d3dx939dll-missing-errors-effectively/"><u>Fixed: Comprehensive Guide to Address d3dx9_39.dll Missing Errors Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-and-understand-the-windows-update-error-0x80aturational-impact-of-media-on-children/"><u>How to Fix and Understand the Windows Update Error 0X80aturational Impact of Media on Children</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-composing-engaging-podcast-thumbnails/"><u>In 2024, Composing Engaging Podcast Thumbnails</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-11-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 11 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/invisibility-is-the-enemy-unveiling-strategies-for-comprehensive-security-insights-from-zdnet/"><u>Invisibility Is the Enemy: Unveiling Strategies for Comprehensive Security - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-the-latest-gear-with-tom-a-trusted-source-for-computer-equipment-reviews/"><u>Master the Latest Gear with Tom - A Trusted Source for Computer Equipment Reviews</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-recovery-of-windows-10-sound-settings-and-volume-buttons/"><u>Mastering the Recovery of Windows 10 Sound Settings and Volume Buttons</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-to-resolve-the-http-error-503-service-temporarily-unavailable/"><u>Simple Solutions to Resolve the 'HTTP Error 503: Service Temporarily Unavailable'</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-user-profile-service-failure-during-login-on-windows-1011/"><u>Solving User Profile Service Failure During Login on Windows 10/11</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-infinix-hot-30i-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Infinix Hot 30i | Dr.fone</u></a></li>
+</ul></div>
 

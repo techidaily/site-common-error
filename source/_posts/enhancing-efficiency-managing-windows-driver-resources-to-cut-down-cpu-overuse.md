@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Efficiency: Managing Windows Driver Resources to Cut Down CPU Overuse"
-date: 2024-09-16T18:33:31.304Z
-updated: 2024-09-20T18:42:10.431Z
+date: 2024-09-24T22:53:28.278Z
+updated: 2024-09-26T18:15:31.499Z
 tags:
   - win11
   - win10
@@ -34,6 +34,19 @@ After a day’s work, you click**Shut down** and pack your stuff for leaving. Bu
 ### Fix 1: Disconnect your USB-C device before shut down
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/619Rf5BkGlL._SL1273_-1019x1024.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  USB Type-C sample  
  Photo from Amazon
@@ -68,27 +81,28 @@ The solution for this bug is very simple.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/0-1.jpg)
 2. Change **View by Large icons** and click **Power Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-11.jpg)
 3. Click **Choose what the power button do** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-9.jpg)
 4. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-8.jpg)
 5. Make sure you uncheck **Turn on fast startup (recommended)** . Then click **Save Changes** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-7.jpg)
 6. Reboot your computer to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
@@ -99,6 +113,14 @@ The solution for this bug is very simple.
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
@@ -114,16 +136,24 @@ The solution for this bug is very simple.
 2. Type “regedit” and press**Enter** to open**Registry Edition** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/registry.jpg)
 3. Copy and paste the text into the address bar and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  “ **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Memory Management** “.
 4. Double-click**ClearPageFileAtShutdown** , change the value to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut.jpg)
 5. Copy and paste the text into the address bar and press Enter.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  “ **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control** “.
@@ -132,20 +162,13 @@ The solution for this bug is very simple.
 7. Click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Reboot your computer to apply the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus: Update your driver
 
@@ -178,5 +201,21 @@ The solution for this bug is very simple.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/a-hackers-guide-to-scoring-cool-images-at-pexels-for-2024/"><u>A Hacker's Guide to Scoring Cool Images at Pexels for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-realme-narzo-n55-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Realme Narzo N55</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diagnosing-and-repairing-a-defective-proximity-sensor-in-iphones/"><u>Diagnosing and Repairing a Defective Proximity Sensor in iPhones</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-use-of-wmi-in-windows-11-for-better-performance/"><u>Efficient Use of WMI in Windows 11 for Better Performance</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722173912885-experience-conversational-ai-anywhere-chatgpt-unveiled-for-android-users/"><u>Experience Conversational AI Anywhere: ChatGPT Unveiled for Android Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-ps4-connectivity-errors-nat-type-solved/"><u>Expert Tips for Overcoming PS4 Connectivity Errors - NAT Type Solved</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-motorola-razr-40-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-your-dells-webcamera-up-and-running-in-windows/"><u>How to Get Your Dell's WebCamera Up and Running in Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-maximizing-indoor-luminance-naturally/"><u>In 2024, Maximizing Indoor Luminance Naturally</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-resolve-reboot-and-choose-os-error-on-windows/"><u>Quick Solutions: Resolve 'Reboot and Choose OS' Error on Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-art-of-going-viral-with-instagram-stories-for-2024/"><u>The Art of Going Viral with Instagram Stories for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-server-execution-failure-in-windows-media-player/"><u>Troubleshooting Guide: Fixing the 'Server Execution Failure' In Windows Media Player</u></a></li>
+</ul></div>
 

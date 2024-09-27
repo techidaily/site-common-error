@@ -1,7 +1,7 @@
 ---
 title: "Quick Solution: How to Resolve 'ERR_NAME_NOT_RESOLVED' Problem on Chrome"
-date: 2024-09-16T19:46:22.246Z
-updated: 2024-09-20T17:50:28.450Z
+date: 2024-09-24T21:18:21.628Z
+updated: 2024-09-26T21:57:51.156Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a128fa0c7dc8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7) Tick on **Obtain an IP address automatically** and **Obtain DNS server address automatically**. Then click **OK**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12900623628.png)
@@ -80,9 +87,23 @@ The DNS server not responding error could be probably caused by an **incorrect D
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a12905d90a85.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Restart your computer and try to access the website you want to go to again and see if it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Clear your DNS cache and reset your IP
 
@@ -91,6 +112,13 @@ There may be problems with your DNS server if its cache is getting full. To see 
 1) Type **cmd** in the search box from the Start menu. Then right-click on **Command Prompt** to select **Run as administrator**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1298fb8c2d7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** Click **Yes** when prompted by the User Account Control.
 
@@ -111,10 +139,10 @@ Then restart your computer and try to access the website you want to visit again
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 3: Update your network adapter driver
@@ -130,6 +158,13 @@ You can update your drivers automatically with either the **FREE** or the **Pro*
 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)  
 **Note**: You can do it for free if you like, but it’s partly manual.  
@@ -137,13 +172,6 @@ You can update your drivers automatically with either the **FREE** or the **Pro*
 After updating your network adapter driver, please restart your computer. Try to access the website you want to go to again and see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 4: Restart your modem and router
 
@@ -184,5 +212,26 @@ Hopefully, this article has helped you fixed the problem. Feel free to comment b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-capturing-gaming-moments-look-beyond-xboxs-game-bar/"><u>[New] 2024 Approved Capturing Gaming Moments Look Beyond Xbox's Game Bar</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-a-playlist-on-youtube-a-complete-guide/"><u>[New] In 2024, How to Create a Playlist on Youtube - a Complete Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-infographic-dji-mavic-air-vs-dji-spark-a-gamer-changer-again/"><u>[Updated] In 2024, [Infographic] DJI Mavic Air Vs. DJI Spark - A Gamer Changer Again?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-premium-video-capture-without-extras-for-2024/"><u>[Updated] Premium Video Capture Without Extras for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-elevating-your-professional-image-with-high-quality-ppt-recordings/"><u>2024 Approved Elevating Your Professional Image with High-Quality PPT Recordings</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-shooting-spectacle-top-9-strategies-for-panoramic-videos/"><u>2024 Approved Shooting Spectacle Top 9 Strategies for Panoramic Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/constraint-a-the-footnotes-must-be-numbered-sequentially-starting-with-1/"><u>Constraint A: The Footnotes Must Be Numbered Sequentially Starting with [^1]</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-asus-webcam-black-screen-windows-10-issue/"><u>Fix ASUS Webcam Black Screen Windows 10 Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/kb4056892-windows-10-update-wont-install-solved/"><u>KB4056892 Windows 10 Update Won’t Install [SOLVED]</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-a34-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy A34 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-fixing-a-non-responsive-screensaver-on-windows-10-tutorial/"><u>Master the Art of Fixing a Non-Responsive Screensaver on Windows 10 [Tutorial]</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-through-installation-issues-how-to-tackle-error-code-0x800f081f-with-net-framework-35/"><u>Navigating Through Installation Issues: How to Tackle Error Code 0X800F081F with .NET Framework 3.5</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-windows-hurdles-correctly-addressing-the-abrupt-end-of-process-error-code-1067/"><u>Overcome Windows Hurdles: Correctly Addressing the Abrupt End of Process, Error Code 1067</u></a></li>
+<li><a href="https://facebook.techidaily.com/perfecting-facebook-profile-altering-significant-personal-date/"><u>Perfecting Facebook Profile: Altering Significant Personal Date</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-to-frustrating-response-rates-correcting-your-windows-11-keyboards-sluggishness/"><u>Say Goodbye to Frustrating Response Rates: Correcting Your Windows 11 Keyboard's Sluggishness</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-overcome-critical-failure-during-program-installation-error-1603/"><u>Step-by-Step Solution to Overcome Critical Failure During Program Installation (Error 1603)</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-art-of-condensation-editing-youtube-video-durations-for-2024/"><u>The Art of Condensation Editing YouTube Video Durations for 2024</u></a></li>
+<li><a href="https://win-superb.techidaily.com/transforma-imagenes-jpg-a-formato-png-sin-costo-alguno-mediante-servicios-online-eficientes/"><u>Transforma Imágenes JPG a Formato PNG Sin Costo Alguno Mediante Servicios Online Eficientes</u></a></li>
+<li><a href="https://common-error.techidaily.com/unblock-party-chat-on-your-device-understanding-network-configuration-fixes/"><u>Unblock Party Chat on Your Device – Understanding Network Configuration Fixes</u></a></li>
+</ul></div>
 

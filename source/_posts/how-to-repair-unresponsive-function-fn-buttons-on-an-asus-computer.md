@@ -1,7 +1,7 @@
 ---
 title: How to Repair Unresponsive Function (Fn) Buttons on an Asus Computer
-date: 2024-09-13T19:16:10.551Z
-updated: 2024-09-20T18:42:07.848Z
+date: 2024-09-19T20:00:11.862Z
+updated: 2024-09-26T23:08:36.142Z
 tags:
   - win11
   - win10
@@ -49,10 +49,16 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
  If you’re sure it’s caused by hardware damage, it’s time for a total replacement, rather than having them repaired, given their relatively low prices.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Replug your USB cable or USB reciever
@@ -65,22 +71,29 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a4d8f0a4ba40.png)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Wait for 1-3 minutes.
 
 3) Plug your USB cable or USB receiver into the USB port correctly.
 
 4) Try to use your mouse to see if works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Restart your laptop
 
  Sometimes a simple restart can help you fix a lot of computer woes, including your mouse not working issue. So if after you reconnect your mouse to the laptop, it still keeps not working, restart your laptop, please. After getting into Windows, try your mouse to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your mouse driver
 
@@ -113,10 +126,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/Update-all-drivers-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -142,5 +155,19 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-steps-to-activate-auto-hdr-feature-in-windows-11/"><u>[New] Steps to Activate Auto-HDR Feature in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-microsoft-compatibility-telemetry-high-disk-usage-on-windows-10/"><u>[Solved] Microsoft Compatibility Telemetry High Disk Usage on Windows 10</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-10-iconic-movie-moments-to-inspire-your-edits/"><u>[Updated] 10 Iconic Movie Moments to Inspire Your Edits</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-engagement-mastery-how-to-craft-instagrams-best-puzzles/"><u>[Updated] Engagement Mastery How to Craft Instagram's Best Puzzles</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/a-peek-into-the-best-mac-applications-for-sniping-perfectly/"><u>A Peek Into the Best Mac Applications for Sniping Perfectly</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-campaigns-boosting-conversions-effortlessly/"><u>Cookiebot-Enabled Campaigns: Boosting Conversions Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-airpods-connectivity-problems-with-windows-1011-updated-guide/"><u>Fixing AirPods Connectivity Problems with Windows 10/11 - Updated Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-9a-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 9A by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-olympic-snowscape-highlights-cross-style-22/"><u>In 2024, Olympic Snowscape Highlights - Cross Style '22</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-captioning-in-fcpx-a-beginners-guide-to-adding-subtitles-for-2024/"><u>New Captioning in FCPX A Beginners Guide to Adding Subtitles for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-steps-how-to-quickly-freshen-up-or-restart-your-windows-11-system/"><u>Simple Steps: How to Quickly Freshen Up or Restart Your Windows 11 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210105106-unstuck-your-touchscreen-on-windows-10-try-these-5-troubleshooting-tactics/"><u>Unstuck Your Touchscreen on Windows 10? Try These 5 Troubleshooting Tactics</u></a></li>
+</ul></div>
 

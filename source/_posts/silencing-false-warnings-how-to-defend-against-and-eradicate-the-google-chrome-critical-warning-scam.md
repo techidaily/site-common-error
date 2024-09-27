@@ -1,7 +1,7 @@
 ---
 title: "Silencing False Warnings: How to Defend Against and Eradicate the Google Chrome Critical Warning Scam"
-date: 2024-09-15T20:02:08.753Z
-updated: 2024-09-20T17:48:01.143Z
+date: 2024-09-22T22:34:14.948Z
+updated: 2024-09-27T00:01:53.119Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ the picture was taken by: Article\_86
 
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Some users may encounter the scam page for a couple of months. Trying different ways to get rid of it but doesn’t help. Then you may try these fixes. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -55,12 +62,26 @@ the picture was taken by: Article\_86
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run a virus scan
 
  Do a clean virus scan is important after you met the scam. In case your computer gets infected by it, it’s no harm to do so. You can use the antivirus software on your computer or run Windows Defender. Just make sure the software has updated to the latest version.  
  If you would like to try another antivirus software, here we recommend[CCleaner](https://tools.techidaily.com/drivereasy/download/) . It’s a powerful but easy to use software that protects your computer from viruses and criminal ads. CCleaner can easily remove temporary files, program caches, cookies, logs, etc.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall suspicious add-ons
 
@@ -73,27 +94,7 @@ the picture was taken by: Article\_86
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Relaunch Chrome to take effect.
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -109,16 +110,29 @@ the picture was taken by: Article\_86
 4. Click **Clear data** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reset Google Chrome to default settings
 
@@ -132,22 +146,8 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -184,5 +184,20 @@ Spam emails may carry the form of download links or a file attachment.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-high-fidelity-mobile-sound-selector/"><u>[Updated] In 2024, High Fidelity Mobile Sound Selector</u></a></li>
+<li><a href="https://article-posts.techidaily.com/abletons-soften-sound-strategies/"><u>Ableton's Soften Sound Strategies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-y36i-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo Y36i</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-hid-keyboard-driver-downloads-and-updates-get-them-now/"><u>Effortless HID Keyboard Driver Downloads & Updates – Get Them Now!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-11-proplus-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme 11 Pro+</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-the-power-of-cookiebot-in-web-personalization/"><u>Experience the Power of Cookiebot in Web Personalization</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-modifying-windows-settings-under-corporate-governance/"><u>Expert Guide: Modifying Windows Settings Under Corporate Governance</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210270675-fixing-kodi-malfunctions-effective-tips-and-tricks-unveiled/"><u>Fixing Kodi Malfunctions: Effective Tips & Tricks Unveiled!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-vivo-y100t-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Vivo Y100t by Name | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-pro-drone-guide-unveiling-the-top-5-picks-for-you/"><u>In 2024, Pro Drone Guide Unveiling the Top 5 Picks for You</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpts-standard-add-ons/"><u>Navigating ChatGPT's Standard Add-Ons</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-clearing-and-solving-errcachemiss-errors-in-chrome/"><u>Step-by-Step Guide: Clearing and Solving ERR_CACHE_MISS Errors in Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-repair-tips-correcting-windows-1110-error-code-0x80ebase-f/"><u>Step-by-Step Repair Tips: Correcting Windows 11/10 Error Code 0X80ebase F</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Call of Duty WW2 Error 4220 for Smoother Gaming
-date: 2024-09-15T16:45:50.796Z
-updated: 2024-09-20T17:32:27.144Z
+date: 2024-09-25T21:11:30.218Z
+updated: 2024-09-26T22:10:04.276Z
 tags:
   - win11
   - win10
@@ -34,6 +34,19 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 2. [**Temporarily disable your antivirus**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your device drivers**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Method 1: Run your Steam client in compatibility mode
 
  Your Steam client may not be working well because of compatibility issues. And you should change the compatibility mode setting for your Steam client.
@@ -44,11 +57,38 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6c97719d17.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Compatibility** tab, check**Run this program in compatibility** **mode** , and then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6ca563d08d.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Double click**Steam** (or**Steam.exe** ) to run the Steam client. If this method works for you, you won’t see this error again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Method 2: Temporarily disable your antivirus
 
@@ -57,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
  If this resolves your problem, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
 
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Method 3: Update your device drivers
 
@@ -78,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 **2)** Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6ea20dde47.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Click the **Update**  button next to each of your devices to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
@@ -108,5 +134,24 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ace-your-videos-essential-editors-for-youtube-for-2024/"><u>[New] Ace Your Videos Essential Editors for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-10-visionary-beauty-experts-leading-online-trends/"><u>[New] In 2024, 10 Visionary Beauty Experts Leading Online Trends</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-elevate-your-video-content-with-desktopmobile-timestamps/"><u>[Updated] 2024 Approved Elevate Your Video Content with Desktop/Mobile Timestamps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-evolved-methods-for-effective-game-file-logging/"><u>[Updated] In 2024, Evolved Methods for Effective Game File Logging</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-transforming-tweets-into-audio-based-archives/"><u>2024 Approved Transforming Tweets Into Audio-Based Archives</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubers-spotlighting-niche-gaming-subcultures/"><u>2024 Approved Youtubers Spotlighting Niche Gaming Subcultures</u></a></li>
+<li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-14-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-pdf-printing-issues-quick-and-effective-remedies-await-you/"><u>Banish PDF Printing Issues: Quick and Effective Remedies Await You</u></a></li>
+<li><a href="https://common-error.techidaily.com/disregarded-sd-card-dont-despair-solutions-await/"><u>Disregarded SD Card, Don't Despair! Solutions Await</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-for-crc-cyclic-redundancy-check-problems-in-your-data/"><u>Effective Remedies for CRC (Cyclic Redundancy Check) Problems in Your Data</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-s18-pro-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Vivo S18 Pro.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-90-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor 90</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-when-your-desktop-mouse-stops-working/"><u>Quick Fixes for When Your Desktop Mouse Stops Working</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-extended-semaphore-error-timeout-limit-exceeded-issue-error-code-0x80070079/"><u>Resolved: Extended Semaphore Error - Timeout Limit Exceeded Issue (Error Code 0X80070079)</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-to-pubg-structures-failure-now-fixed/"><u>Solution to PUBG Structures Failure - Now Fixed</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fixes-for-kodis-glitches-say-goodbye-to-playback-issues/"><u>The Ultimate Fixes for Kodi's Glitches: Say Goodbye to Playback Issues!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-successful-steps-to-get-internet-explorer-up-and-running-again/"><u>Troubleshooting: Successful Steps to Get Internet Explorer Up and Running Again</u></a></li>
+</ul></div>
 

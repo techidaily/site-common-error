@@ -1,7 +1,7 @@
 ---
 title: Breaking Free From Frozen Windows Updates on Older Operating Systems – Expert Advice for Users Seeking Assistance Edition! (Helpful Tips and Guides.)
-date: 2024-09-15T18:14:55.591Z
-updated: 2024-09-20T19:05:07.621Z
+date: 2024-09-21T18:07:59.560Z
+updated: 2024-09-26T23:43:03.264Z
 tags:
   - win11
   - win10
@@ -49,6 +49,14 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press **the Windows logo key**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
 
@@ -75,10 +83,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -94,14 +102,22 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
@@ -130,5 +146,19 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-from-still-life-to-motion-picture-a-complete-guide-on-pixiz-videos/"><u>[New] 2024 Approved From Still Life to Motion Picture A Complete Guide on Pixiz Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-pros-guide-from-playback-to-perfected-overwatch-recordings/"><u>[Updated] In 2024, The Pro's Guide From Playback to Perfected Overwatch Recordings</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-quick-and-easy-image-trimming-techniques-for-websites-for-2024/"><u>[Updated] Quick & Easy Image Trimming Techniques for Websites for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/enhance-every-shot-with-smart-camera-accessories-for-2024/"><u>Enhance Every Shot with Smart Camera Accessories for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-getting-your-wireless-mouse-working-smoothly-again-on-windows-11-or-10/"><u>Expert Tips for Getting Your Wireless Mouse Working Smoothly Again on Windows 11 or 10</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-huawei-nova-y91-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Huawei Nova Y91 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-video-conferencing-with-ease-on-your-win10-pc/"><u>Navigating Video Conferencing with Ease on Your Win10 PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/next-level-gaming-rig-craft-your-mini-pc-with-a-high-speed-egpu-pcie-link-surpassing-traditional-thunderbolt-4-speeds/"><u>Next-Level Gaming Rig: Craft Your Mini PC with a High-Speed eGPU PCIe Link Surpassing Traditional Thunderbolt 4 Speeds</u></a></li>
+<li><a href="https://common-error.techidaily.com/offscreen-window-woes-discover-effective-ways-to-restore-them/"><u>Offscreen Window Woes? Discover Effective Ways to Restore Them</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-how-to-stop-halo-4-ue4-from-crashing-permanently-year-2024-strategies/"><u>The Ultimate Fix: How to Stop Halo 4 UE4 From Crashing Permanently - Year 2024 Strategies</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-guide-top-8-xbox-console-emulators-on-pcandroid-reviewed-objectively/"><u>The Ultimate Guide: Top 8 Xbox Console Emulators on PC/Android, Reviewed Objectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-logitech-g930-steps-for-addressing-volume-interruptions/"><u>Troubleshooting Logitech G930: Steps for Addressing Volume Interruptions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhanced WDK Usage Minimizes High CPU Consumption Issues
-date: 2024-09-16T16:11:06.335Z
-updated: 2024-09-20T16:15:41.558Z
+date: 2024-09-20T23:07:37.507Z
+updated: 2024-09-26T16:45:08.032Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -67,6 +74,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -78,10 +92,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -108,6 +122,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -121,6 +142,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -129,13 +157,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -143,13 +164,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -183,5 +197,23 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-unlocking-earnings-potential-dm-and-yo-showdown/"><u>[New] 2024 Approved Unlocking Earnings Potential Dm & Yo Showdown</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-peering-into-facebooks-2023-video-landscape-a-focus-on-short-clips/"><u>[New] In 2024, Peering Into Facebook's 2023 Video Landscape A Focus on Short Clips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ideo-voyages-venturing-into-the-vlog-profit-world/"><u>[New] Video Voyages Venturing Into the Vlog Profit World</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-guide-to-altering-your-facebook-background-image/"><u>[Updated] 2024 Approved Guide to Altering Your Facebook Background Image</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tactics-for-excelling-in-twitters-real-time-responses/"><u>[Updated] In 2024, Tactics for Excelling in Twitter's Real-Time Responses</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-essential-tips-for-attending-tiktok-live-events/"><u>2024 Approved Essential Tips for Attending TikTok Live Events</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211935910-fix-lidadll-gone-restore-now/"><u>Fix Lida.dll Gone, Restore Now</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-assessing-max-360-and-hero-11-the-ultimate-gopro-video-experience/"><u>In 2024, Assessing Max 360 & Hero 11 The Ultimate GoPro Video Experience</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-microsoft-store-malfunctions-expert-tips-and-fixes/"><u>Overcome Microsoft Store Malfunctions - Expert Tips and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/restored-brilliance-solutions-for-when-your-corsairs-lights-go-out/"><u>Restored Brilliance: Solutions for When Your Corsair's Lights Go Out</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-overcoming-sign-in-errors-caused-by-user-profile-service-issues-in-windows-11/"><u>Step-by-Step Solution for Overcoming Sign-In Errors Caused by User Profile Service Issues in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-malfunctioning-keyboard-arrows-top-solutions/"><u>Troubleshoot Malfunctioning Keyboard Arrows - Top Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-audio-issues-solving-cracking-sound-from-speakers-on-pcs-with-windows-os/"><u>Troubleshooting Audio Issues: Solving Cracking Sound From Speakers on PCs with Windows OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-oleauto32dll-not-detected-errors-top-tips-and-fixes/"><u>Troubleshooting OleAuto32.dll Not Detected Errors – Top Tips and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-to-windows-7-how-to-repair-a-broken-mousepad-functionality-on-laptops/"><u>Windows 11 to Windows 7: How to Repair a Broken Mousepad Functionality on Laptops</u></a></li>
+</ul></div>
 

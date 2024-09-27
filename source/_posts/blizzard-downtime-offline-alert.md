@@ -1,7 +1,7 @@
 ---
 title: "Blizzard Downtime: Offline Alert"
-date: 2024-09-13T16:58:45.718Z
-updated: 2024-09-20T17:20:42.788Z
+date: 2024-09-22T22:34:19.937Z
+updated: 2024-09-26T18:36:50.745Z
 tags:
   - win11
   - win10
@@ -59,21 +59,14 @@ thumbnail: https://thmb.techidaily.com/a0ea0929e49147a7aa2982696f1085c4ea3dc3044
 2. Scroll down to the end and select**Advanced display settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced-display-settings.jpg)
 3. Select**Display adapter properties for Display 1** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced-dis-settings.jpg)
 4. On the Adapter tab, click**List All Modes** .  
@@ -94,6 +87,14 @@ If the problem persists, move on to the next fix.
 2. On the**Game Mode** tab, move the slider to turn off**Game Mode** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/game-mode-off.jpg)
 3. On your screen or the folder where you put your game, right click the game icon and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-right-click.jpg)
 
  **If the problem persists, you can also disable fullscreen optimizations:**
@@ -149,6 +150,14 @@ If it doesn’t do the trick, simply move on to the next fix.
 1. On your desktop, right click in an empty space and select**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/right-click-nvidia.png)
 2. In the left pane, select**Manage 3D Settings** and choose the**Global Settings** tab. Then scroll down to find**Vertical sync** and click the small arrow on its right. Select**On** in the drop-down list and click**Apply** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings.png)
 
  Setting Vertical sync to**Adaptive** might also be efficient, according to some players.
@@ -160,14 +169,15 @@ If it doesn’t do the trick, simply move on to the next fix.
 2. At the top right corner of the menu, click the settings icon. Then select the**Graphics** tab and navigate to**Wait for Vertical Refresh** . Click the small arrow on its right to open the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
 3. Click**Always on** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-verticle-refresh-on.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-verticle-refresh-on.jpg)
 
  NVIDIA and AMD settings will default to application settings. It means that they will respect in-game settings. If you select Always On for NVIDIA/AMD in-game, then VSYNC will remain On when appropriate.
 
@@ -181,6 +191,13 @@ If it doesn’t do the trick, simply move on to the next fix.
 
 No luck with that? Keep reading.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6:**Apply optimized Valorant Settings**
 
  No player is playing on a perfect computer. So we do have some suggestions on in-game settings to boost your PC’s display performance. They are personal experiences from enthusiastic players. You could try and see if it fix your problem:
@@ -189,20 +206,14 @@ No luck with that? Keep reading.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-general-settings.jpg)
 2. Go to**GRAPHICS QUALITY** , and set as follows:  
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-graphics-quality-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Launch your game again and check for any changes.
 
@@ -215,8 +226,24 @@ If it doesn’t help, move on to the last fix.
 1. On your desktop, right click in an empty space and select**Display settings** in the menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/desktop-right-click-display.jpg)
 2. In the left column, click**Display** . Then scroll down to select**Advanced display settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/adv-display-settings.jpg)
 3. Scroll down to the**Refresh Rate** section and you will know the refresh rate of your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-rate.jpg)
 
 **Now you can set the maximum frame rate.**
@@ -234,13 +261,6 @@ For AMD users:
 1. At the bottom left of the screen, click the search box and type**amd** . Then click**AMD Radeon Software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/AMD-software.jpg)
 2. At the top right corner of the menu, click the settings icon. Then select the**Graphics** tab and navigate to**Radeon Chill** . Enable it and move the Max FPS slider to your PC’s frame rate.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics-1.jpg)
 
@@ -261,5 +281,18 @@ For AMD users:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-fresh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content/"><u>[Updated] Fresh Footage, Frequent Flows Do's & Don'ts for Streamlining Video Content</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-giving-a-fresh-twist-to-pre-filtered-memories-using-instagram-tools-for-2024/"><u>[Updated] Giving a Fresh Twist to Pre-Filtered Memories Using Instagram Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-greening-the-grid-paving-the-way-for-sustainable-metropolises/"><u>[Updated] In 2024, Greening the Grid Paving the Way for Sustainable Metropolises</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-keyboard-wont-connect-here-are-the-steps-to-get-it-working-with-your-pc-again/"><u>Bluetooth Keyboard Won't Connect? Here Are the Steps to Get It Working with Your PC Again!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104280835-expert-tips-restoring-your-qualcomm-atheros-bluetooth-connection-on-windows-vehicles-with-the-following-titles/"><u>Expert Tips: Restoring Your Qualcomm Atheros Bluetooth Connection on Windows Vehicles with the Following Titles:</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-annoying-screen-tremble-on-your-windows-11-pc/"><u>Fixing the Annoying Screen Tremble on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-broken-speaker-controls-in-windows-10-step-by-step-fixes/"><u>How to Repair Broken Speaker Controls in Windows 10 - Step by Step Fixes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oneplus-open-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your OnePlus Open</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m14-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M14 5G Phone without Google Account?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-comprehensive-guide-to-attractive-and-engaging-instagram-puzzle-feeds/"><u>In 2024, The Comprehensive Guide to Attractive and Engaging Instagram Puzzle Feeds</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-excessive-cpu-consumption-by-iastordatasvc-on-your-windows-10-machine-fixed/"><u>Troubleshooting Excessive CPU Consumption by IAStorDataSvc on Your Windows 10 Machine [Fixed]</u></a></li>
+</ul></div>
 

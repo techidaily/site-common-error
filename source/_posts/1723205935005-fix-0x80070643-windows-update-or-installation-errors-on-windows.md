@@ -1,7 +1,7 @@
 ---
 title: Fix “0X80070643” Windows Update or Installation Errors on Windows
-date: 2024-09-17T17:18:05.546Z
-updated: 2024-09-20T17:56:41.168Z
+date: 2024-09-24T22:28:24.055Z
+updated: 2024-09-26T21:01:41.799Z
 tags:
   - win11
   - win10
@@ -53,8 +53,24 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
 4. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then Type **control** and press **Enter** to open the Control Panel.  
 ![step 4](https://images.drivereasy.com/wp-content/uploads/2018/09/step-4.jpg)
 5. In the search box in the upper-right corner, type **installed update** . Click **View installed updates** under **Programs and Features**  to view installed updates on your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![View installed updates](https://images.drivereasy.com/wp-content/uploads/2018/09/View-installed-updates.jpg)
 6. Delete **Hotfix for Microsoft Windows (KB2534111)** and **Hotfix for Microsoft Windows (KB2639308)** .   **If you don’t find these two hot fixes, please skip this step.**  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![step 6](https://images.drivereasy.com/wp-content/uploads/2018/09/step-6.jpg)
 7. Restart your PC.
 8. Open IE and go through the welcome screen. Then close all the tabs to close IE.
@@ -79,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
 
  The troubleshooter will try to fix the issue for you. You can restart your computer and try performing the Windows update again. If it still doesn’t work, please try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Restart the Windows Update service
 
  You may see this error code if there is something wrong with the Windows Update service. You can try restarting the Windows Update service to resolve this problem. Here’s how to do it:
@@ -95,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
 2. Right-click **Windows Update**  and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.  
 ![Fix 3 step 2](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-3-step-2.jpg)
 3. On your keyboard, press **the Windows Logo Key** and **E** at the same time to open **File Explorer** . Copy the path below and paste it in the address bar, then press **Enter** on your keyboard to go to the **DataStore**  folder.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **C:\\Windows\\SoftwareDistribution\\DataStore**  
 
@@ -117,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
 ![Fix 3 step 7](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-3-step-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Go and check Windows Update again to see whether you can perform the Windows update or not. If it still doesn’t work, please try the next fix.
@@ -149,6 +151,13 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
 
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Run System File Checker
 
 **System File Checker** can scan for corruptions in Windows system files and restore corrupted files. When you fail to install Windows updates, it may be caused by some corruption error. In this case, running System File Checker may help you resolve this issue.
@@ -163,6 +172,13 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
 
  Run Windows Update again to check whether this fix works or not. If you still fail to install updates for your Windows system, please try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Download updates from Microsoft Update Catalog manually
 
  If all the fixes above don’t work for you, you can try downloading the updates you failed to install from **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)**  and install them manually.
@@ -172,6 +188,13 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
 1. On your keyboard, press **the Windows Logo key** and **R** at the same time to open the Run dialog. Type **cmd** and press **Enter** to open the Command Prompt.
 2. Type the command line **systeminfo** and press **Enter** to view your system type.  
 ![view system type](https://images.drivereasy.com/wp-content/uploads/2018/09/view-system-type.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
 
@@ -184,23 +207,17 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
 ![Fix 6 step 4](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-6-step-4.jpg)
 5. In the list of search results, select right update for your operating system and click **Download** .  
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.
 6. In the pop-up window, click the link to start downloading the updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-6-step-6.jpg)
 7. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## This issue persists?
 
@@ -211,10 +228,10 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Free-Tech-Support.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  All you need to do is **[buy a 1-year subscription to Driver Easy (just $29.95) and you get free technical support as part of your purchase](https://www.drivereasy.com/buy.php?comeid=de-buy-indirect)**  . Then you can contact our computer technicians directly, explain your problem, and they’ll investigate to see if they can resolve it remotely.
@@ -236,5 +253,22 @@ thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-miniscreen-tape-snapshot-assessment-and-substitutes/"><u>[New] In 2024, MiniScreen Tape Snapshot Assessment & Substitutes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-quintessential-quotient-subscriber-rankings/"><u>[New] The Quintessential Quotient Subscriber Rankings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-best-techniques-for-capturing-youtube-live-video/"><u>2024 Approved Best Techniques for Capturing YouTube Live Video</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-enhancing-user-experience-creating-high-roi-animated-ads-for-fb/"><u>2024 Approved Enhancing User Experience Creating High-ROI Animated Ads for FB</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/aiff-file-transformation-at-no-cost-discover-movavis-services/"><u>Aiff File Transformation at No Cost - Discover Movavi's Services</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-guide-restoring-functionality-of-non-working-webcam-on-a-lenovo-laptop/"><u>DIY Guide: Restoring Functionality of Non-Working Webcam on a Lenovo Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-d3dcompiler47dll-error-comprehensive-guide/"><u>How to Fix D3DCOMPILER_47.dll Error - Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-common-youtube-short-hurdles/"><u>Navigating Common YouTube Short Hurdles</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-nonfunctional-at-sign-keyboard-problems/"><u>Step-by-Step Solution for Nonfunctional 'At Sign' Keyboard Problems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-12-pro-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/total-war-enthusiasts-rejoice-uncrash-your-rome-remastered-experience-here/"><u>Total War Enthusiasts Rejoice: Uncrash Your Rome Remastered Experience Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubled-by-cs-go-keep-freezing-or-crashing-heres-how-to-fix-it-quickly/"><u>Troubled by CS: GO Keep Freezing or Crashing? Here's How to Fix It Quickly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-resolving-playstation-tvs-issues-with-paramountplus-streaming/"><u>Troubleshooting Guide: Resolving PlayStation TV's Issues with Paramount+ Streaming</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/unveiling-toms-device-diagnostics-and-performance-analysis/"><u>Unveiling Tom's Device Diagnostics & Performance Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/zap-freezes-quickly-enjoy-flawless-games/"><u>Zap Freezes Quickly - Enjoy Flawless Games</u></a></li>
+</ul></div>
 

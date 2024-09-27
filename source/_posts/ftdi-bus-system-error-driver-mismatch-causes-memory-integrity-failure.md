@@ -1,7 +1,7 @@
 ---
 title: "FTDI Bus System Error: Driver Mismatch Causes Memory Integrity Failure"
-date: 2024-09-14T19:42:25.651Z
-updated: 2024-09-20T18:10:34.112Z
+date: 2024-09-25T18:49:06.321Z
+updated: 2024-09-27T00:08:04.661Z
 tags:
   - win11
   - win10
@@ -45,13 +45,35 @@ thumbnail: https://thmb.techidaily.com/af63d40e10f4812d796851153ffe13a5133162342
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-49.png)
 2. Type this command:**`pnputil.exe -d oem<NUMBER>.inf`** and hit**Enter** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The <NUMBER> here should be filled with the number you see on your computer. For instance, I’m seeing**51** , so my command should be**`pnputil.exe -d oem51.inf`** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-50.png)
 3. This is how the command looks like on my computer. Hit**Enter** when the command is typed in.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-51.png)
 4. When you see**Driver package deleted successfully** , restart your computer for the ftdibus.sys driver to be install automatically by Windows again.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-52.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Go go the Core Isolation window again to see if the fdtibus.sys driver is still regarded as an incompatible driver that stops Memory Integrity from turning on. If so, please move on.
 
@@ -75,13 +97,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-53.png)
 3. Click to download the driver that works for your OS.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-54.png)
 4. When the driver download is done, unzip or extract the driver file folder, and right-click the**ftdibus.inf** file and select**Install** to run the driver installation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-55.png)
@@ -90,10 +105,10 @@ To do so:
  Kindly note that you should know the **hardware device model** and your **computer system** (Windows 11, Windows 10, or Windows 7, and 32 bit or 64 bit) when selecting which download page to do to and which device driver to download.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Update your ftdibus.sys driver automatically (Recommended)
@@ -106,14 +121,15 @@ To do so:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
-**Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
 
@@ -140,5 +156,20 @@ Then check if your Memory Integrity can be turned on again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-becoming-a-director-top-film-tips-and-tricks-on-youtube/"><u>[New] 2024 Approved Becoming a Director Top Film Tips & Tricks on YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-professional-gamers-toolkit-advanced-recording-tactics-for-2024/"><u>[New] Professional Gamers' Toolkit Advanced Recording Tactics for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-invisible-observers-the-ultimate-list-of-apps/"><u>[Updated] In 2024, Invisible Observers The Ultimate List of Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-replay-xiaomi-11s-best-moments-with-crystal-clarity/"><u>[Updated] Replay Xiaomi 11'S Best Moments with Crystal Clarity</u></a></li>
+<li><a href="https://driver-error.techidaily.com/engineered-escape-plan-for-error-e52/"><u>Engineered Escape Plan for Error E52</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202427841-expert-tips-to-optimize-and-fast-track-your-windows-the-boot-sequence-for-a-smoother-start-every-time/"><u>Expert Tips to Optimize and Fast-Track Your Windows the Boot Sequence for a Smoother Start Every Time.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-storm-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Storm 5G using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-apples-content-downloading-with-ease/"><u>In 2024, Navigating Apple's Content Downloading with Ease</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/masterclass-guide-to-excellent-pcmac-recorders-for-2024/"><u>Masterclass Guide to Excellent PC/Mac Recorders for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-c210-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C210 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-common-errors-when-installingupdating-on-steam-platform/"><u>Troubleshooting Common Errors When Installing/Updating on Steam Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/unblocking-the-path-expert-tips-for-fixing-steams-failed-downloads/"><u>Unblocking the Path: Expert Tips for Fixing Steam's Failed Downloads</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-cannot-locate-a-suitable-printer-driver-solved/"><u>Windows Cannot Locate a Suitable Printer Driver [SOLVED]</u></a></li>
+</ul></div>
 

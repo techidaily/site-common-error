@@ -1,7 +1,7 @@
 ---
 title: How to Fix the 'Your PC Is Out of Memory' Error in Windows 1 Groovy
-date: 2024-09-14T16:36:38.827Z
-updated: 2024-09-20T19:20:23.994Z
+date: 2024-09-19T17:52:41.424Z
+updated: 2024-09-26T23:42:29.594Z
 tags:
   - win11
   - win10
@@ -43,7 +43,21 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 2: Check your desktop icon settings
 
@@ -65,13 +79,6 @@ You can also try these steps to rebuild the icon cache:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -91,15 +98,16 @@ If your desktop icons still don’t show up, you can perform a system restore to
 3. Select **Choose a different restore point**, and click **Next**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
-5. Click **Next** \> **Finish**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
+5. Click **Next** \> **Finish**.
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
@@ -113,24 +121,17 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Bonus tip
 
@@ -146,8 +147,23 @@ OR
 2. Run Driver Easy and click **Scan Now**. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -170,5 +186,26 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-ensuring-legitimacy-of-your-youtube-sign-in-for-2024/"><u>[New] Ensuring Legitimacy of Your YouTube Sign-In for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-step-by-step-record-and-save-facebook-chats-effectively/"><u>[New] In 2024, Step-By-Step Record and Save Facebook Chats Effectively</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ncorporating-custom-visuals-in-youtube-videos-easily-for-2024/"><u>[New] Incorporating Custom Visuals in YouTube Videos Easily for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-cultivating-cash-by-critiquing-consumer-commodities-online-for-2024/"><u>[Updated] Cultivating Cash by Critiquing Consumer Commodities Online for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-insider-guide-to-creating-and-editing-videos-on-windows-11/"><u>2024 Approved The Complete Insider Guide to Creating & Editing Videos on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-recording-in-windows-a-beginners-guide-for-2024/"><u>Advanced Recording in Windows A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-steam-failed-to-initialize-fixes-and-tips-for-successful-installation/"><u>Dealing with 'Steam Failed to Initialize': Fixes and Tips for Successful Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-enabling-bluetooth-connectivity-in-windows-7/"><u>Guide: Enabling Bluetooth Connectivity in Windows 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-update-error-code-0x80240017-complete-fix-guide/"><u>How to Resolve Windows Update Error Code 0X80240017 - Complete Fix Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-u23-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on U23 Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/rapid-techniques-mix-up-and-shuffle-youtube-listings-for-2024/"><u>Rapid Techniques Mix Up and Shuffle YouTube Listings for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-issues-with-right-click-mouse-functionality/"><u>Resolving Windows 10 Issues with Right Click Mouse Functionality</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/revamped-features-the-future-of-windows-11-widget-interface-looks-bright/"><u>Revamped Features: The Future of Windows 11 Widget Interface Looks Bright</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/step-by-step-creating-tiktok-dances-on-a-mac-for-2024/"><u>Step-by-Step Creating TikTok Dances on a Mac for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-resolving-continuous-mouse-disconnect-issues-efficiently/"><u>The Ultimate Guide: Resolving Continuous Mouse Disconnect Issues Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixes-for-entry-point-errors-not-found-in-windows-systems/"><u>Troubleshooting & Fixes for Entry Point Errors Not Found in Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-dell-wireless-keyboards-that-arent-responding/"><u>Troubleshooting Guide for Dell Wireless Keyboards That Aren't Responding</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-windows-10-screen-brightness-issues/"><u>Troubleshooting Guide: Fixing Windows 10 Screen Brightness Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-is-my-computer-starting-automatically-on-windows-perturbation-and-resolution/"><u>Why Is My Computer Starting Automatically on Windows Perturbation and Resolution</u></a></li>
+</ul></div>
 

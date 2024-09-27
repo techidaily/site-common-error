@@ -1,7 +1,7 @@
 ---
 title: "Winning the Race Against Time: Boosting Your Windows 10 PC's Shutdown Speed"
-date: 2024-09-15T16:12:31.089Z
-updated: 2024-09-20T19:18:01.959Z
+date: 2024-09-19T17:32:28.747Z
+updated: 2024-09-26T20:51:29.480Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ After a day’s work, you click**Shut down** and pack your stuff for leaving. Bu
 3. [**Disable Fast Startup feature**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Registry fix**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Disconnect your USB-C device before shut down
 
@@ -71,26 +78,34 @@ The solution for this bug is very simple.
 3. Click **Choose what the power button do** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-9.jpg)
 4. Click **Change settings that are currently unavailable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-8.jpg)
 5. Make sure you uncheck **Turn on fast startup (recommended)** . Then click **Save Changes** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-7.jpg)
 6. Reboot your computer to apply the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -100,26 +115,20 @@ The solution for this bug is very simple.
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the result indicates that there are broken files exists but SFC can’t fix it, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examine and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Registry fix
 
@@ -129,6 +138,14 @@ The solution for this bug is very simple.
 2. Type “regedit” and press**Enter** to open**Registry Edition** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/registry.jpg)
 3. Copy and paste the text into the address bar and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  “ **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Session Manager\\Memory Management** “.
 4. Double-click**ClearPageFileAtShutdown** , change the value to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/shut.jpg)
@@ -154,10 +171,10 @@ The solution for this bug is very simple.
 4. Reboot your Windows 10 computer and check the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hopefully, the above methods can help you to fix your problem. If you have any suggestions or questions, feel free to leave your comments below.
@@ -177,5 +194,21 @@ The solution for this bug is very simple.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-path-to-flawless-streams-a-guide-to-recording-on-steam/"><u>[Updated] In 2024, The Path to Flawless Streams A Guide to Recording on Steam</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-the-perfect-harmony-fusing-lyrics-and-images-with-lyric-video-maker/"><u>Crafting the Perfect Harmony Fusing Lyrics & Images with Lyric Video Maker</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/data-tracking-with-cookiebot-technology/"><u>Data Tracking with Cookiebot Technology</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-canon-ip110-printer-drivers-compatible-with-windows-11-10-8-and-7/"><u>Download Canon IP110 Printer Drivers: Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-persistent-windows-10-update-problems/"><u>Expert Solutions for Persistent Windows 10 Update Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-usb-device-not-recognized-errors-from-disrupting-your-workflow/"><u>How to Stop 'USB Device Not Recognized' Errors From Disrupting Your Workflow</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-non-charging-issues-when-plugged-in-under-windows/"><u>How to Troubleshoot Non-Charging Issues When Plugged In Under Windows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-comparative-review-dji-phantom-3-vs-competitors/"><u>In 2024, Comparative Review DJI Phantom 3 vs Competitors</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-connection-fixing-cast-to-device-failures-on-windows-10-computers/"><u>Mastering the Connection: Fixing 'Cast to Device' Failures on Windows 10 Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-great-reconnect-fixing-the-laptop-headset-gap/"><u>The Great Reconnect: Fixing the Laptop-Headset Gap</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-pathway-to-a-powerful-instagram-influence/"><u>The Pathway to a Powerful Instagram Influence</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/understanding-wav-and-mp3-files-a-comprehensive-guide-to-sound-fidelity-and-usage-preferences/"><u>Understanding WAV and MP3 Files: A Comprehensive Guide to Sound Fidelity and Usage Preferences</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unexplained-geforce-gtx-absence/"><u>Unexplained GeForce GTX Absence</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-and-solve-incompatibility-playing-fortnite-smoothly-on-windows-pcs/"><u>Update and Solve Incompatibility: Playing Fortnite Smoothly on Windows PCs</u></a></li>
+</ul></div>
 

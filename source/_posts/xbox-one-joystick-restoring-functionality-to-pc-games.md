@@ -1,7 +1,7 @@
 ---
 title: "Xbox One Joystick: Restoring Functionality to PC Games"
-date: 2024-09-15T17:22:21.828Z
-updated: 2024-09-20T19:40:34.956Z
+date: 2024-09-24T16:38:00.731Z
+updated: 2024-09-26T20:47:37.992Z
 tags:
   - win11
   - win10
@@ -66,26 +66,34 @@ Follow these steps to update the driver via Device Manager:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-3.png)
 3. Click **Let me pick from a list of device drivers on my computer** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-4.png)
 4. Select **Microsoft Xbox One Controller** then click**Next** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-5.png)
 5. Select**Microsoft Xbox One Controller** and click**Next** to run the driver installation.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this still doesn’t work for you, please move on.
 
@@ -101,16 +109,10 @@ If this still doesn’t work for you, please move on.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
@@ -119,10 +121,10 @@ If this still doesn’t work for you, please move on.
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hope you can solve the Xbox One controller not working issue with the methods above. If you have any questions, please feel free to comment below. We’d love to hear your ideas and suggestions.
@@ -142,5 +144,20 @@ If this still doesn’t work for you, please move on.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-places-to-find-background-music-for-videos/"><u>[New] In 2024, Places to Find Background Music for Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-prime-video-sets-for-live-broadcasts-2023/"><u>[New] Prime Video Sets for Live Broadcasts 2023</u></a></li>
+<li><a href="https://common-error.techidaily.com/decode-your-issues-comprehensive-strategies-against-windows-error-code-31/"><u>Decode Your Issues: Comprehensive Strategies Against Windows Error Code 31</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-strategies-to-correctly-solve-windows-11s-common-error-code-0x80072efd/"><u>Definitive Strategies to Correctly Solve Windows 11'S Common Error Code 0X80072EFD</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-repairing-usb-not-recognized-error-instantly/"><u>Expert Advice on Repairing 'USB Not Recognized' Error Instantly</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-reset-and-recover-the-missing-security-code-from-facebook/"><u>How To Reset & Recover the Missing Security Code From Facebook</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-xiaomi-redmi-note-12-proplus-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Xiaomi Redmi Note 12 Pro+ 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/miracast-troubles-beat-the-unsupported-receiving-device-error-this-year/"><u>Miracast Troubles? Beat the 'Unsupported Receiving Device' Error This Year!</u></a></li>
+<li><a href="https://common-error.techidaily.com/nba-2k21-green-mishap-explained-and-resolved-what-you-need-to-know/"><u>NBA 2K21 Green Mishap Explained and Resolved - What You Need to Know!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-connectivity-problems-wireless-mouse-malfunction-in-windows-operating-systems/"><u>Resolving Connectivity Problems - Wireless Mouse Malfunction in Windows Operating Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-on-upgrading-your-hp-deskjet-2700-printer-with-the-latest-driver-download/"><u>Step-by-Step Tutorial on Upgrading Your HP Deskjet 2700 Printer with the Latest Driver Download</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unlocking-google-meet-a-comprehensive-no-cost-host-and-participant-manual/"><u>Unlocking Google Meet A Comprehensive No-Cost Host & Participant Manual</u></a></li>
+</ul></div>
 

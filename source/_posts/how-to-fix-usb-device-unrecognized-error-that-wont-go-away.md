@@ -1,7 +1,7 @@
 ---
 title: How to Fix 'USB Device Unrecognized Error' That Won't Go Away
-date: 2024-09-18T19:41:57.366Z
-updated: 2024-09-20T16:04:57.175Z
+date: 2024-09-21T00:16:22.920Z
+updated: 2024-09-26T16:50:07.507Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/c4aba1f1071f6153eef4e836db7e5ca4bdc93515f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Run the built-in Hardware and Devices troubleshooter
 
  The**built-in Hardware and Devices troubleshooter** can help you fix problems with devices connected to your computer. Run it to try to solve your USB device not recognized problem.
@@ -78,27 +85,14 @@ See how to do it:
 3. Double-click**Universal Serial Bus controllers** . Proceed to click**View** , then select**Show hidden devices** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99cadab69f6.jpg)
 4. **Right-click** on your first USB controller driver under the Universal Serial Bus controllers section to select**Uninstall device** .  
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99cb4721f1b.jpg)
 5. **Repeat** the step 4 for all your**other USB controllers drivers** .
@@ -142,16 +136,31 @@ Restart your computer to see if the error disappears.
 7. Click**Enabled** , then select**Disabled** from the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d845a8cb9.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** If you’re on a laptop, there might be two Enable options to change,**On battery** and**Plugged in** .  
  Be sure to**set both to Disabled** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da409c8a5.jpg)
 8. Click**Apply** \>**OK** to save your settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da698818c.jpg)
 
 Check if the error disappears.
@@ -161,10 +170,10 @@ Check if the error disappears.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 6: Adjust your system settings
@@ -189,10 +198,17 @@ See how to do it:
 5. Click **Advanced** , then tick on **Don’t tell me about USB errors** . Click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e4addd848.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Repeat Steps 4 & 5 for all your other USB controller drivers.
@@ -219,5 +235,23 @@ See how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-guide-to-streamline-yt-playlist-integration-in-htmlcss/"><u>[New] Guide to Streamline YT Playlist Integration in HTML/CSS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-next-gen-gameplay-logging-alternatives-to-fbx/"><u>[New] In 2024, Next-Gen Gameplay Logging Alternatives to FBX</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-intel-rst-service-is-not-running-on-windows-11/"><u>[Solved] Intel RST Service Is Not Running on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/banishing-awakenings-sleep-mode-mastery-in-win11/"><u>Banishing Awakenings: Sleep Mode Mastery in Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-fix-missing-binkw32dll-on-your-pc/"><u>Comprehensive Solutions to Fix Missing binkw32.dll on Your PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/convertir-archivos-avi-a-gifs-online-sin-coste-guia-rapida-y-eficaz/"><u>Convertir Archivos Avi a Gifs Online Sin Coste - Guía Rápida Y Eficaz</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-for-restoring-your-dells-broken-usb-interface/"><u>Effective Remedies for Restoring Your Dell's Broken USB Interface</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-repairing-internet-explorer-has-stopped-working-issues/"><u>Effective Solutions for Repairing 'Internet Explorer Has Stopped Working' Issues</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-does-t-series-generate-revenue/"><u>How Does T-Series Generate Revenue?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-iphone-12-pro-max-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On iPhone 12 Pro Max - 4 Easy Ways</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-interactive-boundaries-the-vision-of-mixed-reality/"><u>In 2024, Exploring Interactive Boundaries The Vision of Mixed Reality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-disc-drive-malfunctions-strategies-for-opening-stubborn-units/"><u>Overcoming Disc Drive Malfunctions: Strategies for Opening Stubborn Units</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-a-defective-laptop-mic-effective-troubleshooting-techniques/"><u>Overcoming the Challenge of a Defective Laptop Mic: Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-razer-mamba-driver-installation-made-easy-and-fast/"><u>Step-by-Step Razer Mamba Driver Installation Made Easy and Fast</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-your-graphics-driver-to-activate-seamless-screen-mirroring-via-miracast/"><u>Update Your Graphics Driver to Activate Seamless Screen Mirroring via Miracast</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-know-about-the-upcoming-google-pixel-fold-version-2-estimated-price-points-release-forecast-and-speculative-tech-facts/"><u>What to Know About the Upcoming Google Pixel Fold Version 2: Estimated Price Points, Release Forecast and Speculative Tech Facts</u></a></li>
+</ul></div>
 
