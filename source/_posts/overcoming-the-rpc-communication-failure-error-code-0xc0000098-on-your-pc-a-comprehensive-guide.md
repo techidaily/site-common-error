@@ -1,7 +1,7 @@
 ---
 title: Overcoming the RPC Communication Failure (Error Code 0Xc0000098) on Your PC – A Comprehensive Guide
-date: 2024-09-24T22:16:18.338Z
-updated: 2024-09-26T23:58:30.987Z
+date: 2024-09-30T18:39:25.602Z
+updated: 2024-10-01T17:22:56.819Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/c2d68683c182adeb644872ae9b6efd92813d48ae8
 Now try to install Windows Updates now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
@@ -59,24 +59,18 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Clear Exceptions box if there were any content in it.
 
  Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Exit Internet Explorer and run Command Prompt.
 
@@ -122,21 +116,7 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now try to install Windows Updates now.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4\. Configure Updates Client
 
@@ -149,6 +129,13 @@ If the fixes above didn’t serve you, try this one.
  Click **Yes**  when prompted by User Account Control.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
@@ -168,6 +155,13 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
 
  And name the new key**A** **U** .
@@ -181,16 +175,10 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
@@ -214,16 +202,15 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-sharing-videos-on-tweet-no-retweets-just-phones/"><u>2024 Approved Sharing Videos on Tweet No Retweets, Just Phones</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-the-edge-of-gaming-technology-samsung-ue590-monitor/"><u>2024 Approved The Edge of Gaming Technology Samsung UE590 Monitor</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-insignia-bluetooth-adapter-drivers-on-windows/"><u>Download & Install Latest Insignia Bluetooth Adapter Drivers on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/five-effective-techniques-to-repair-windows-10-touchscreen-issues/"><u>Five Effective Techniques to Repair Windows 10 Touchscreen Issues</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-topics-to-cover-in-your-vlogs-for-2024/"><u>Fresh Topics to Cover in Your Vlogs for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-brightness-control-on-your-windows-11-system/"><u>How To Restore Brightness Control on Your Windows 11 System</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/purewave-assessment-durable-deep-water-audio/"><u>PureWave Assessment: Durable Deep Water Audio</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-guide-overcoming-unable-to-confirm-match-by-vac-issues/"><u>Solution Guide: Overcoming 'Unable To Confirm Match by VAC' Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-modulenotfounderror-a-comprehensive-guide/"><u>Solving the 'ModuleNotFoundError': A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-strategies-for-fixing-world-of-warcraft-delays/"><u>Step-by-Step Strategies for Fixing World of Warcraft Delays</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/virtual-vetting-best-animal-games-for-android/"><u>Virtual Vetting Best Animal Games for Android</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-inauthentic-affection-impacts-your-feeds-credibility/"><u>[Updated] 2024 Approved How Inauthentic Affection Impacts Your Feed's Credibility</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-capture-chat-tunes-on-social-platforms-for-2024/"><u>[Updated] Capture Chat Tunes on Social Platforms for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-secrets-to-perfect-green-screen-in-kinemaster/"><u>2024 Approved Unveiling the Secrets to Perfect Green Screen in Kinemaster</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-update-mishaps-easy-fixes-for-the-common-windows-11-problem-error-0x8020390541/"><u>Banish Update Mishaps: Easy Fixes for the Common Windows 11 Problem - Error 0X80^20390541</u></a></li>
+<li><a href="https://facebook.techidaily.com/boosting-brands-with-a-precise-facebook-recommendation-system/"><u>Boosting Brands with a Precise Facebook Recommendation System</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-problem-of-windows-10-not-acknowledging-hdmi-connected-tvs/"><u>How to Fix the Problem of Windows 10 Not Acknowledging HDMI Connected TVs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oppo-f23-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Oppo F23 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-hosted-network-startup-tips-for-windows-10-users-issue-resolved/"><u>Mastering Hosted Network Startup: Tips for Windows 10 Users (Issue Resolved)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-sonic-exploration-a-deep-dive-into-sound-forges-functionality/"><u>New In 2024, Sonic Exploration A Deep Dive Into Sound Forges Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-overcoming-the-windows-11-update-issue-with-error-code-0xc1900208-fixed/"><u>Step-by-Step Tutorial: Overcoming the Windows 11 Update Issue with Error Code 0xC1900208 [FIXED]</u></a></li>
 </ul></div>
 

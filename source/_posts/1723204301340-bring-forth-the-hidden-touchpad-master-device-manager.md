@@ -1,7 +1,7 @@
 ---
 title: Bring Forth the Hidden Touchpad, Master Device Manager
-date: 2024-09-15T19:30:14.670Z
-updated: 2024-09-20T19:35:40.948Z
+date: 2024-09-25T23:48:08.355Z
+updated: 2024-10-02T02:39:13.310Z
 tags:
   - win11
   - win10
@@ -43,6 +43,14 @@ thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd
 3. Go on to click**Action** and select**Scan for hardware changes** from the pop-up menu  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Action-scan-for-hardware-changes.jpg)
 4. Restart your PC for the trick to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. After rebooting your computer, press**Windows + I** keys to open Windows Settings and select**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Settings-devices.jpg)
 6. Check if**Touchpad** is in the Devices list now. If it does, click the toggle to**On** .  
@@ -51,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Add the touchpad driver back manually
 
  If you know the manufacturer of your touchpad (Synaptics and Elan are two of the most popular ones), you can also try to add the touchpad device back manually in Device Manager to see if it works for you. To do so:
@@ -58,24 +73,40 @@ thumbnail: https://thmb.techidaily.com/441d853e672f2da2cc47c9b5003852c7b54a8c4bd
 1. On your keyboard, press **the Windows logo key** and **X** at the same time. Then select **Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap595.png)
 2. In Device Manager, select the first line (your computer name), then click **Action** on the menu bar and select **Add legacy hardware** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-61.png)
 3. Click **Next**  to move on.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-62.png)
 4. Select **Install the hardware that I manually select from a list (Advanced)**  and click **Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-63.png)
 5. Select **Show All Devices** , and click **Next** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/Show-All-Devices.png)
 6. As mentioned, two of the most popular touchpad manufacturers are**Elan** and**Synaptics** , so you can select one of them on the**Manufacturer** list on the left side, and then see if you can find the touchpad device on the right side. Sometimes, you may also need to check if your touchpad is listed under the**Microsoft** umbrella. You can also try your laptop manufacturer’s name, like Acer, Asus, HP Dell, etc., to see if your touchpad is listed under them.  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/legacy-device-driver.png)
 
- If you still can’t find your touchpad in this way, please move on to the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you still can’t find your touchpad in this way, please move on to the next fix, below.
 
 ## Fix 3: Update the touchpad driver
 
@@ -93,6 +124,13 @@ OR
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2 – Automatically update touchpad drivers
 
  If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -109,6 +147,13 @@ OR
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/03/synpatics-hid-touchpad.png)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The **[Pro version of Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** <atsupport@drivereasy.com>
 
@@ -140,10 +185,10 @@ Assigned BIOS hotkey
 3. Once done, press the key next to**Save** and**Exit** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer to see if the issue is fixed.
@@ -151,13 +196,6 @@ Assigned BIOS hotkey
  If this method doesn’t work, then try the last one below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Repair corrupt files
 
@@ -170,19 +208,6 @@ Assigned BIOS hotkey
 2. Open Fortect and it will run a FREE scan of your PC. You’ll see a complete overview of your system and issues once the scan is finished.
 3. Click**Start Repair** if Fortect detects any missing or broken system files or other issues  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with a 60-day money-back guarantee. If you encounter any issues while using Fortect, please contact[Fortect support](https://www.fortect.com/company/contacts/) **.**
 
@@ -220,5 +245,20 @@ Hot Accessories
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-5-alternative-editors-beyond-youtubes-limits/"><u>[New] Top 5 Alternative Editors Beyond Youtube's Limits</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-fix-minecraft-launching-issues-in-windows/"><u>[SOLVED] How to Fix Minecraft Launching Issues in Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-be-amongst-the-few-essential-metaverse-technology/"><u>[Updated] Be Amongst the Few Essential Metaverse Technology</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-connectivity-in-multiplayer-solving-minecraft-lan-problems/"><u>How to Restore Connectivity in Multiplayer: Solving Minecraft LAN Problems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-oppo-f25-pro-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Oppo F25 Pro 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quantifying-videography-storage-needs-128gb/"><u>In 2024, Quantifying Videography Storage Needs, 128GB</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-through-windows-updater-problem-0xca00a009/"><u>Navigating Through Windows Updater Problem 0xCA00A009</u></a></li>
+<li><a href="https://common-error.techidaily.com/seamless-usb-tethering-setup-on-windows-10-made-simple/"><u>Seamless USB Tethering Setup on Windows 10 Made Simple</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-ethernet-network-malfunctions-on-windows-117-a-step-by-step-guide/"><u>Solving Ethernet Network Malfunctions on Windows 11/7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-unresponsive-fn-keys-in-a-moment/"><u>Solving the Problem of Unresponsive Fn Keys in a Moment</u></a></li>
+<li><a href="https://common-error.techidaily.com/unable-to-print-pdf-files-easy-effective-troubleshooting-steps-inside/"><u>Unable to Print PDF Files? Easy, Effective Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-the-hidden-feature-enabling-gpeditmsc-on-windows-home/"><u>Unlocking the Hidden Feature: Enabling GPEDIT.MSC on Windows Home</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199748711-unresolved-tackle-the-unexpected-store-exception-error-on-your-windows-10-machine-today/"><u>Unresolved? Tackle the Unexpected Store Exception Error on Your Windows 10 Machine Today!</u></a></li>
+</ul></div>
 

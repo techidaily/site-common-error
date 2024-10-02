@@ -1,7 +1,7 @@
 ---
 title: Solved! How to Troubleshoot Your Non-Functional SteelSeries Arctis Er Audio Device
-date: 2024-09-23T18:08:56.969Z
-updated: 2024-09-26T23:02:29.617Z
+date: 2024-09-27T16:10:12.102Z
+updated: 2024-10-02T04:22:54.393Z
 tags:
   - win11
   - win10
@@ -42,22 +42,15 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
@@ -79,14 +72,22 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
@@ -106,27 +107,28 @@ To do so:
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -161,18 +163,14 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-capturing-creativity-premium-screen-recorder-software-on-pc-and-mac/"><u>[Updated] In 2024, Capturing Creativity - Premium Screen Recorder Software on PC & Mac</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-is-revenue-derived-from-evaluating-products/"><u>[Updated] In 2024, Is Revenue Derived From Evaluating Products?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-infinix-zero-5g-2023-turbo-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Infinix Zero 5G 2023 Turbo Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-to-address-and-fix-error-0x80070079-semaphore-timed-out/"><u>Effective Solutions to Address and Fix Error 0X80070079: Semaphore Timed Out</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207770097-effortless-methods-to-revive-charging-on-your-laptop-battery/"><u>Effortless Methods to Revive Charging on Your Laptop Battery</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-0x8024002e-explained-a-comprehensive-guide-to-successfully-update-windows-without-issues/"><u>Error 0X8024002E Explained: A Comprehensive Guide to Successfully Update Windows Without Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correct-the-youtube-audio-processor-failure-on-your-windows-10-device/"><u>How to Correct the Youtube Audio Processor Failure on Your Windows 10 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-error-when-your-app-wont-launch-resolving-application-failed-to-initialize-properly-error-code-0xc000007b/"><u>How to Fix the Error When Your App Won't Launch: Resolving 'Application Failed to Initialize Properly (Error Code 0xC000007B)'</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-f15-5g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy F15 5G FRP</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-directx-initialization-troubleshooting-tips-for-a-smooth-launch/"><u>Mastering DirectX Initialization: Troubleshooting Tips for a Smooth Launch</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-lava-yuva-3-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Lava Yuva 3 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-maximizing-impact-strategies-for-going-viral-on-instagram/"><u>[Updated] 2024 Approved Maximizing Impact Strategies for Going Viral on Instagram</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-find-hidden-fb-watch-video-tile/"><u>[Updated] Find Hidden FB Watch Video Tile</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unveiling-the-secrets-of-effective-screencasts-for-2024/"><u>[Updated] Unveiling the Secrets of Effective Screencasts for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-luminance-hd-evaluation-the-ultimate-decision/"><u>2024 Approved Luminance-HD Evaluation The Ultimate Decision?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ace-the-power-play-top-pickup-of-best-rechargeable-battery-chargers-in-202eight/"><u>Ace the Power Play: Top Pickup of Best Rechargeable Battery Chargers in 202Eight</u></a></li>
+<li><a href="https://common-error.techidaily.com/high-cpu-drain-by-wudfhostexe-fixed-optimization-tips-for-windows-(span)10(span)/"><u>High CPU Drain by wudfhost.exe Fixed - Optimization Tips for Windows <Span>10</Span></u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-systemprofile-desktop-access-denied-on-windows-10/"><u>Resolving SystemProfile Desktop Access Denied on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211339659-windows-11-wi-fi-disappearance-solved-make-them-appear-again/"><u>Windows 11 Wi-Fi Disappearance Solved - Make Them Appear Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/wwe-2k-battlegrounds-dx11-fixing-feature-level-100-compatibility-problems-step-by-step/"><u>WWE 2K Battlegrounds DX11: Fixing Feature Level 10.0 Compatibility Problems Step by Step</u></a></li>
 </ul></div>
 

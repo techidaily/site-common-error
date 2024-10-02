@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Microphone Not Working on Windows 11"
-date: 2024-09-15T17:41:43.576Z
-updated: 2024-09-20T16:14:49.410Z
+date: 2024-09-26T03:34:34.828Z
+updated: 2024-10-02T02:05:14.738Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 
  If fix 1 can’t help, then try to uninstall and reinstall the AOC USB monitor driver to fix the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Uninstall AOC USB monitor driver
 
 1. Press**Windows logo key + R** to open the Run box.
@@ -66,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall-1.jpg)
 5. Follow the on-screen instructions to uninstall it.
 6. Reboot your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Download AOC USB monitor driver
 
@@ -85,21 +99,16 @@ OR
 2. Search for the monitor on the webpage.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbf95967fd.jpg)
 3. Click **Support** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfce1bef4.jpg)
-4. Scroll down and click **Driver** in the **Drivers and Software** section.  
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfce1bef4.jpg)
+4. Scroll down and click **Driver** in the **Drivers and Software** section.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfda9b0ca.png)
 5. Click the downloaded file and follow the on-screen instructions to finish the process.
@@ -116,16 +125,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdbfffb0e24.jpg)
 3. Click the Update button next to your **AOC monitor** to automatically download and install the correct version of this driver (you can do this with the **FREE** version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5bbdc1306ec3e.jpg)
 4. Reboot your computer and check the issue is solved or not.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -144,5 +154,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/-compreehensive-guide-to-youtube-thumbnail-creation-mac-for-2024/"><u>[New] A Compreehensive Guide to YouTube Thumbnail Creation (Mac) for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-the-art-of-secretive-insta-story-consumption/"><u>[Updated] 2024 Approved Mastering the Art of Secretive Insta Story Consumption</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-navigating-screen-capture-in-google-video-conferencing-for-2024/"><u>[Updated] Navigating Screen Capture in Google Video Conferencing for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-ultimate-gif-making-software-showdown/"><u>2024 Approved The Ultimate GIF Making Software Showdown</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/detailed-walkthrough-to-correctly-diagnose-and-resolve-error-code-31-on-windows/"><u>Detailed Walkthrough to Correctly Diagnose and Resolve Error Code 31 on Windows</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-top-7-essential-tiktok-apps-for-rapid-asset-expansion/"><u>In 2024, Top 7 Essential TikTok Apps for Rapid Asset Expansion</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-depth-look-at-iphones-top-watermarking-software-choices/"><u>In-Depth Look at iPhone's Top Watermarking Software Choices</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-best-emoji-removers-to-remove-emojis-from-pictures-onlinepcmobile/"><u>New 2024 Approved Best Emoji Removers to Remove Emojis From Pictures Online/PC/Mobile</u></a></li>
+<li><a href="https://common-error.techidaily.com/rdr2-crashes-with-memory-error-increase-page-file-for-smoother-playback/"><u>RDR2 Crashes with 'Memory Error': Increase Page File for Smoother Playback</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-the-driver-power-state-failure-error-a-comprehensive-guide/"><u>Resolving the Driver Power State Failure Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212217711-the-ultimate-fix-for-your-broken-sound-control-in-windows-10-now-resolved/"><u>The Ultimate Fix for Your Broken Sound Control in Windows 10 - Now Resolved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-night-light-feature-issues-in-windows-11/"><u>Troubleshooting Guide: Fixing 'Night Light' Feature Issues in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-fix-your-pc-turning-off-during-games-on-windows-11107818/"><u>Troubleshooting: How to Fix Your PC Turning Off During Games on Windows 11/10/7/8.1/8</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting the Non-Functioning 'At Sign': Tips and Tricks"
-date: 2024-09-13T16:01:56.681Z
-updated: 2024-09-20T18:24:06.992Z
+date: 2024-09-28T21:04:47.853Z
+updated: 2024-10-02T00:36:49.578Z
 tags:
   - win11
   - win10
@@ -69,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/678fddf7ae4566a62c5d9f963bb3c78467acea0fb
 
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 4: Remove the battery and the power cable
 
  This method has worked for many Lenovo laptop users who were experiencing the keyboard not working problem like you. So it’s worth a try.
@@ -76,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/678fddf7ae4566a62c5d9f963bb3c78467acea0fb
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5: Perform a system restore
@@ -93,36 +100,43 @@ If you have no idea how to do a system restore, refer steps below:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
+<span id="1531879">
 					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) View by **Small icons** and click **System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**System protection** in left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874af17efd1d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Click **System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f0301145.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click**Next** .
 
@@ -131,13 +145,6 @@ If you have no idea how to do a system restore, refer steps below:
  6) Choose a restore point according to the Date and Time (before the problem occurs) and click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f7c3c1c1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Click**Finish** .
 
@@ -167,5 +174,23 @@ If you have no idea how to do a system restore, refer steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-effortless-video-streaming-on-your-facebook-page/"><u>[New] 2024 Approved Effortless Video Streaming on Your Facebook Page</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-money-multiplier-how-to-maximize-youtube-profits-with-mobile-viewers/"><u>[New] 2024 Approved Money Multiplier How to Maximize YouTube Profits with Mobile Viewers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unleash-flawless-footage-overcome-instagram-video-hurdles/"><u>[New] In 2024, Unleash Flawless Footage Overcome Instagram Video Hurdles</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-destiny-2-stuck-on-initializing/"><u>[Solved] Destiny 2 Stuck on Initializing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-a-comprehensive-guide-to-the-best-makeup-tutorials-on-youtube-for-2024/"><u>[Updated] A Comprehensive Guide to the Best Makeup Tutorials on YouTube for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-12-screen-capture-tools-unlimited-recording-for-2024/"><u>[Updated] Ultimate 12 Screen Capture Tools (Unlimited Recording) for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixed-rtwlanesys-blue-screen-error/"><u>Fixed: rtwlane.sys Blue Screen Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-an-uncharged-acer-computer-step-by-step-guide-and-advice/"><u>How to Fix an Uncharged Acer Computer: Step-by-Step Guide & Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-troubling-windows-11-update-issue-code-0x80240034-explained/"><u>How to Fix the Troubling Windows 11 Update Issue: Code 0X80240034 Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-endless-restart-loop/"><u>How to Fix Windows 11 Endless Restart Loop</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-keys-sticking-on-windows-solved/"><u>Keyboard Keys Sticking on Windows [Solved]</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/minimizing-energy-spike-during-intense-gaming-on-windows/"><u>Minimizing Energy Spike During Intense Gaming on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/semaphore-timeout-problem-solved-resolving-prolonged-process-interruption-error-0x80n070079/"><u>Semaphore Timeout Problem Solved - Resolving Prolonged Process Interruption (Error 0X80n070079)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/step-by-step-guide-to-applying-luts-for-vivid-imagery-in-obs-videos/"><u>Step-by-Step Guide to Applying LUTs for Vivid Imagery in OBS Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208857831-struggling-with-a-non-printable-pdf-master-swift-solutions/"><u>Struggling with a Non-Printable PDF? Master Swift Solutions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-pathway-to-proficient-zoom-communication-maximizing-meeting-engagement-for-2024/"><u>The Pathway to Proficient ZOOM Communication Maximizing Meeting Engagement for 2024</u></a></li>
+</ul></div>
 

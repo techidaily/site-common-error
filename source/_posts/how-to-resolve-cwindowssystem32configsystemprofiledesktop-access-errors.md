@@ -1,7 +1,7 @@
 ---
 title: "How to Resolve C:\\Windows\\system32\\config\\systemprofile\\Desktop Access Errors"
-date: 2024-09-17T18:26:31.959Z
-updated: 2024-09-20T19:26:28.018Z
+date: 2024-09-25T18:52:37.006Z
+updated: 2024-10-02T03:22:38.055Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ### Tip 3: Rebuild icon cache
@@ -65,13 +72,6 @@ You can also try these steps to rebuild the icon cache:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -80,6 +80,13 @@ start explorer.exe
 3. Check if it helps restore your desktop icons. If not, try Tip 4, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 4: Perform a system restore
 
@@ -91,23 +98,22 @@ If your desktop icons still don’t show up, you can perform a system restore to
 3. Select **Choose a different restore point**, and click **Next**.  
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
@@ -123,7 +129,21 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -141,10 +161,16 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
@@ -171,5 +197,21 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-advanced-tips-for-blending-modes-in-vfx/"><u>[Updated] Advanced Tips for Blending Modes in VFX</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-troubleshooting-techniques-for-fixing-wows-latency-problems/"><u>Comprehensive Troubleshooting Techniques for Fixing WoW's Latency Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/constructing-a-daily-sanctuary-through-ai-guided-reflection/"><u>Constructing a Daily Sanctuary Through AI-Guided Reflection</u></a></li>
+<li><a href="https://common-error.techidaily.com/cxfreeze-disasters-demystified-simple-steps-to-resolve-them-easily/"><u>Cx_Freeze Disasters Demystified: Simple Steps to Resolve Them Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-significance-of-microsofts-monthly-update-day/"><u>Decoding the Significance of Microsoft's Monthly Update Day</u></a></li>
+<li><a href="https://common-error.techidaily.com/geforce-experience-fixes-solving-problems-in-getting-setup-parameters/"><u>GeForce Experience Fixes - Solving Problems in Getting Setup Parameters</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-xperia-5-v-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Sony Xperia 5 V Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-controlled-group-policies-and-settings-in-a-windows-network/"><u>Mastering Controlled Group Policies & Settings in a Windows Network</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-verdict-how-big-performance-meets-small-design-in-iphone-12-mini/"><u>The Ultimate Verdict: How Big Performance Meets Small Design in iPhone 12 Mini</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-honor-magic-5-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Honor Magic 5 Android SIM Unlock APK</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-portable-bluetooth-mice-of-2024-boost-your-work-efficiency/"><u>Top-Rated Portable Bluetooth Mice of 2024: Boost Your Work Efficiency</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-windows-11s-bluetooth-connection-issues/"><u>Troubleshooting Guide: Solving Windows 11'S Bluetooth Connection Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-limited-capacity-issues-during-command-execution/"><u>Troubleshooting Limited Capacity Issues During Command Execution</u></a></li>
+</ul></div>
 

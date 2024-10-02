@@ -1,7 +1,7 @@
 ---
 title: Backspace Not Responding? Here’s How You Can Solve This Problem!
-date: 2024-09-19T20:09:48.308Z
-updated: 2024-09-26T18:48:52.582Z
+date: 2024-09-30T20:38:59.357Z
+updated: 2024-10-01T20:29:50.401Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Set microphone as default device
 
  Chances are your mic has not been set as the default device, so the sound won’t be played through it. To set your mic as default, you should perform the following procedure:
@@ -77,10 +84,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click to highlight your microphone, then click**Set Default > Default Device** .
@@ -88,13 +95,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 **Note:** Your mic device may not be listed as “Microphone” and the icon thereof may not even resemble a microphone. You should be able to recognize it yourself.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also right-click the mic item and check if it is disabled. If it is, select **Enable** to get your mic working.
 
@@ -106,27 +106,20 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Click**OK** to save all the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-117.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check to see if your mic is working fine. If it isn’t, please move on to the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Re-enable microphone in Device Manager
 
@@ -136,6 +129,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
@@ -144,16 +144,16 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now check to see your mic is back on track.
 
@@ -167,18 +167,18 @@ Now check to see your mic is back on track.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
 
  Below you’ll see another toggle for **Allow apps to access your microphone** . Also turn it**on** if it’s been set to Off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
@@ -207,19 +207,22 @@ If this fix doesn’t work, please proceed to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-boosting-visuals-mastering-youtubes-video-enhancement-tools/"><u>[Updated] Boosting Visuals Mastering YouTube's Video Enhancement Tools</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-elite-8-cameras-revolutionizing-online-broadcasts/"><u>[Updated] Elite 8 Cameras Revolutionizing Online Broadcasts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-premier-audio-recording-tools-11-edition-for-2024/"><u>[Updated] Premier Audio Recording Tools - #11 Edition for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-a-new-era-in-iptv-recording-technology-exploration/"><u>2024 Approved A New Era in IPTV Recording Technology Exploration</u></a></li>
-<li><a href="https://common-error.techidaily.com/five-effective-methods-to-repair-your-touchscreen-on-a-windows-10-device/"><u>Five Effective Methods to Repair Your Touchscreen on a Windows 10 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-lower-wudfhostexes-impact-on-your-pcs-performance-in-windows-11/"><u>How to Lower WUDFHost.exe's Impact on Your PC's Performance in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-huawei-nova-y91-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Huawei Nova Y91 Without Password?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/icy-illusions-reveling-at-beijings-olympic-event-2022/"><u>Icy Illusions Reveling at Beijing's Olympic Event, 2022</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-behind-the-scenes-to-the-best-free-meme-designs/"><u>In 2024, Behind-The-Scenes to the Best FREE Meme Designs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/professionelle-bildschirmaufzeichnungssoftware-fur-windows-11-8-und-7-komplette-bzw-partielle-pc-aufnahmen/"><u>Professionelle Bildschirmaufzeichnungssoftware Für Windows 11, 8 Und 7: Komplette Bzw. Partielle PC-Aufnahmen</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-problem-of-error-code-39-a-step-by-step-guide-to-repairing-your-cddvd-drive/"><u>Solving the Problem of Error Code 39: A Step-by-Step Guide to Repairing Your CD/DVD Drive</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-tackle-the-persistent-0x80072efd-problem-in-windows-11/"><u>Step-by-Step Solutions to Tackle the Persistent 0X80072EFD Problem in Windows 11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/top-rated-apple-watch-ultra-straps-the-perfect-fit/"><u>Top-Rated Apple Watch Ultra Straps : The Perfect Fit!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-reactivating-the-volume-control-on-windows-10-systems/"><u>Troubleshooting Guide: Reactivating the Volume Control on Windows 10 Systems</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-snap-camera-in-ms-teams/"><u>[New] 2024 Approved Mastering Snap Camera in MS Teams</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortlessly-transfer-your-dvds-the-ultimate-winx-dvd-ripper-tool-for-mac-users/"><u>Effortlessly Transfer Your DVDs: The Ultimate WinX DVD Ripper Tool for Mac Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-frustrating-0x80072efd-issue-on-your-windows-10-pc/"><u>Fixing the Frustrating 0X80072EFD Issue on Your Windows 10 PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-vivo-x100-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Vivo X100 using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-expert-hacks-to-stop-street-fighter-6-from-crashing-on-pcs/"><u>Mastering Stability: Expert Hacks to Stop Street Fighter 6 From Crashing on PCs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/net-laugh-builder-for-2024/"><u>Net Laugh Builder for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-hurdles-wows-successful-adoption-of-3d-acceleration/"><u>Overcoming Hurdles: WoW's Successful Adoption of 3D Acceleration</u></a></li>
+<li><a href="https://common-error.techidaily.com/steam-application-addressing-dll-absence/"><u>Steam Application: Addressing Dll Absence</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-solutions-for-overcoming-0x800f0922-error-in-windows-11-updates/"><u>Top Solutions for Overcoming 0X800f0922 Error in Windows 11 Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-a-non-functional-logitech-k810-keyboard-connection/"><u>Troubleshooting a Non-Functional Logitech K810 Keyboard Connection</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-fix-unable-to-connect-to-dhcp-server-issues/"><u>Troubleshooting Guide: How to Fix 'Unable to Connect to DHCP Server' Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211755720-troubleshooting-undetected-external-monitors-in-windows-7-solved/"><u>Troubleshooting Undetected External Monitors in Windows 7 - Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-the-potential-of-file-explorer-on-windows-10-expert-advice-awaits/"><u>Unlocking the Potential of File Explorer on Windows 10: Expert Advice Awaits</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-dynamics-an-in-depth-look-at-luminances-hdr-for-2024/"><u>Unveiling the Dynamics An In-Depth Look at Luminance's HDR for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-m34-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy M34 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

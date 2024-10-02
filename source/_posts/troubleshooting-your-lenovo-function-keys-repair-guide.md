@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Your Lenovo Function Keys: Repair Guide"
-date: 2024-09-14T19:43:49.052Z
-updated: 2024-09-20T18:29:32.130Z
+date: 2024-09-28T02:07:36.676Z
+updated: 2024-10-01T20:19:14.815Z
 tags:
   - win11
   - win10
@@ -37,17 +37,53 @@ Both fixes below work in Windows 10, 8 and 7.
 1. [**Enable touchpad in settings**](#F1)
 2. [**Update your touchpad driver**](#F2)
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Enable touchpad in settings
 
  You laptop-mouse-pad-not-responding issue sometimes happens only because you’ve disabled it unknowingly. To turn it back on:
 
 1. On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Hopefully this turns your touchpad back on and it works propely again. If the problem persists, try**Fix 2** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your touchpad driver
 
@@ -93,12 +129,20 @@ Both fixes below work in Windows 10, 8 and 7.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-20-freepaid-luts-for-dji-mini-2air-2smavic-2/"><u>[Updated] 20 Free/Paid LUTS for DJI Mini 2/Air 2S/Mavic 2</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-optimal-cost-free-image-refinement-toolkit/"><u>[Updated] 2024 Approved Optimal, Cost-Free Image Refinement Toolkit</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/effective-guide-to-cast-apple-iphone-se-2022-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>Effective Guide to Cast Apple iPhone SE (2022) to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/evet-farkli-turkce-best-free-upgrade-software-2024te-microsoft-windows-7-icin/"><u>Evet, Farkli! Türkçe | Best Free Upgrade Software 2024'Te Microsoft Windows 7 Için</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/galaxy-power-shift-is-the-new-s23-ultra-better-than-its-predecessor-the-s21/"><u>Galaxy Power Shift: Is The New S23 Ultra Better Than Its Predecessor, the S21?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-slow-downloading-experience-in-league-of-legends-quickly-and-effortlessly/"><u>How to Fix a Slow Downloading Experience in League of Legends Quickly and Effortlessly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-xiaomi-14-pro-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Xiaomi 14 Pro</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/intense-performance-at-steep-costs-an-in-depth-look-at-alienware-aurora-r7/"><u>Intense Performance at Steep Costs: An In-Depth Look at Alienware Aurora R7</u></a></li>
+<li><a href="https://common-error.techidaily.com/local-security-protocol-restored-lsa-protection-reactivated/"><u>Local Security Protocol Restored: LSA Protection Reactivated</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-metaai-integration-on-instagram-the-ultimate-guide/"><u>Mastering MetaAI Integration on Instagram: The Ultimate Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ack-in-reverse-the-ultimate-youtube-playlist-technique/"><u>Playback in Reverse The Ultimate YouTube Playlist Technique</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-when-your-browser-stops-responding/"><u>Solving the Issue: When Your Browser Stops Responding</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-solving-restoration-problems-in-windows-10/"><u>Troubleshooting Tips for Solving Restoration Problems in Windows 10</u></a></li>
+</ul></div>
 

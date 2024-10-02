@@ -1,7 +1,7 @@
 ---
 title: "Fixes & Solutions: How to Troubleshoot a Non-Functioning Microphone on Your Laptop"
-date: 2024-09-19T23:40:38.159Z
-updated: 2024-09-26T18:42:14.195Z
+date: 2024-09-29T03:03:38.790Z
+updated: 2024-10-01T20:17:32.665Z
 tags:
   - win11
   - win10
@@ -57,17 +57,17 @@ To make sure the volume is audible:
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -82,22 +82,15 @@ To do so:
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
@@ -106,10 +99,10 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
@@ -125,6 +118,13 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -162,21 +162,22 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-comprehensible-guide-to-selecting-popular-youtube-openings/"><u>[New] The Comprehensible Guide to Selecting Popular YouTube Openings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-next-level-graphic-cards-for-4k-titles/"><u>[Updated] Next-Level Graphic Cards for 4K Titles</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-ultimate-guide-to-the-best-ps3-gaming-on-pc/"><u>2024 Approved The Ultimate Guide to the Best PS3 Gaming on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-on-overcoming-delayed-key-reactions-on-your-board/"><u>Expert Tips on Overcoming Delayed Key Reactions on Your Board</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-release-a-stuck-update-on-legacy-operating-systems-like-win7-new-edition-of-comprehensive-guide-for-users-seeking-assistance-in-the-year-of-our-lord-76/"><u>How to Release a Stuck Update on Legacy Operating Systems Like Win7? - New Edition of Comprehensive Guide for Users Seeking Assistance in the Year of Our Lord Two Thousand and Twenty-Four! (Step by Step Guide & Expert Advice)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-show-a-non-hiding-taskbar-in-windows-11-resolution/"><u>How to Show a Non-Hiding Taskbar in Windows 11 (Resolution)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-14-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi 14 Pro to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/immediate-fix-how-to-resolve-no-battery-detected-issues-swiftly/"><u>Immediate Fix: How to Resolve 'No Battery Detected' Issues Swiftly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/netflix-back-in-action-for-xbox-one-no-more-playback-errors/"><u>Netflix Back in Action for Xbox One - No More Playback Errors!</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-graphics-troubles-civ-5-pc/"><u>Overcoming Graphics Troubles, Civ 5-PC</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/professional-video-tweaks-with-these-top-8-free-editing-apps/"><u>Professional Video Tweaks with These Top 8 Free Editing Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-troubleshooting-steps-for-resolving-no-battery-signal-problems/"><u>Quick Troubleshooting Steps for Resolving No Battery Signal Problems</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/seamless-integration-of-dvd-playback-on-your-system-for-2024/"><u>Seamless Integration of DVD Playback on Your System for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-eliminating-audio-issues-in-black-ops-cold-war-for-pc-players/"><u>Solved! Eliminating Audio Issues in Black Ops: Cold War for PC Players</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-resolve-the-unexpected-closure-of-processes-in-windows-error-1067/"><u>Step-by-Step Guide to Resolve the Unexpected Closure of Processes in Windows (Error 1067)</u></a></li>
-<li><a href="https://common-error.techidaily.com/urgent-fixes-for-not-detected-directx-compiler-file-error/"><u>Urgent Fixes for 'Not Detected' DirectX Compiler File Error</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-essential-steps-for-iphone-screen-shotting/"><u>[New] Essential Steps for iPhone Screen Shotting</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-vrecorder-your-quick-route-to-high-quality-sound-system/"><u>[New] VRecorder Your Quick Route to High-Quality Sound System</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-editing-guide-for-creating-compelling-360-degree-videos-using-premiere-pro/"><u>[Updated] Advanced Editing Guide for Creating Compelling 360-Degree Videos Using Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-audience-reach-through-collaborative-youtube-videos-for-2024/"><u>[Updated] Elevate Audience Reach Through Collaborative YouTube Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressed-wdf-concerns-strategies-for-reducing-high-resource-demands-on-windows-operating-systems/"><u>Addressed WDF Concerns - Strategies for Reducing High Resource Demands on Windows Operating Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/effortlessly-streamline-your-minecraft-adventures-the-top-3-techniques-for-recording-on-macos/"><u>Effortlessly Streamline Your Minecraft Adventures: The Top 3 Techniques for Recording on macOS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-startup-glitches-in-hogwarts-legacy-with-these-8-methods/"><u>Eliminating Startup Glitches in Hogwarts Legacy with These 8 Methods</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-wpd-file-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .wpd file document electronically</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-intermittent-screen-flickering-issues-in-windows-11/"><u>How to Fix Intermittent Screen Flickering Issues in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-perpetual-white-screen-on-windows-10-devices/"><u>How to Fix the Perpetual White Screen on Windows 10 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-recover-and-repair-broken-system-elements-in-windows-11-easily/"><u>How to Recover and Repair Broken System Elements in Windows 11 Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-memory-trouble/"><u>Navigating Through Windows' Memory Trouble</u></a></li>
+<li><a href="https://common-error.techidaily.com/repaired-enable-your-devices-local-authentication-feature-now/"><u>Repaired: Enable Your Device's Local Authentication Feature Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204951669-solve-your-laptops-stuck-keys-problem-across-various-windows-platforms/"><u>Solve Your Laptop's Stuck Keys Problem Across Various Windows Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-system-cannot-find-the-file-specified-solved/"><u>The System Cannot Find the File Specified [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-enable-and-repair-shockwave-flash-support-on-chrome/"><u>The Ultimate Guide to Enable and Repair Shockwave Flash Support on Chrome</u></a></li>
 </ul></div>
 

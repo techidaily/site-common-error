@@ -1,7 +1,7 @@
 ---
 title: Solving Non-Functional Pad Gestures - Make Your Scroll Buttons Work Perfectly Again
-date: 2024-09-19T16:08:06.813Z
-updated: 2024-09-26T20:01:57.002Z
+date: 2024-09-24T19:15:39.816Z
+updated: 2024-10-01T22:48:10.234Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ The good news is, you can fix it easily!
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your sound driver
 
  Your volume control not working issue is most likely caused by the outdated/corrupted sound driver, which might very well develop further issues like sound crackling/stuttering or no sound at all if unattended. So we should always make sure to**have the latest sound driver installed on our system** for the good health of our PC.
@@ -51,22 +58,8 @@ The good news is, you can fix it easily!
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
@@ -80,33 +73,40 @@ To do so:
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Locate and double-click on**Windows Audio** .  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. **Restart** your PC and check if your volume control icon works as it should.
@@ -123,10 +123,10 @@ To run SFC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click **Yes**   when prompted to confirm.
@@ -145,6 +145,14 @@ Here’s how:
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
@@ -172,22 +180,21 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-get-watermark-free-stock-photos/"><u>[New] How to Get Watermark-Free Stock Photos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-beyondbaselinecameras-whats-upnext-in-2024/"><u>[Updated] BeyondBaselineCameras What's UpNext, In 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-echoenthusiast-auditory-review-exploration/"><u>[Updated] EchoEnthusiast Auditory Review Exploration</u></a></li>
-<li><a href="https://article-files.techidaily.com/best-free-after-effects-title-templates/"><u>Best Free After Effects Title Templates</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-the-solved-camera-hurdle-detailed-fixes-for-error-code-0xa00f4292-on-your-pc/"><u>Bypass the [Solved] Camera Hurdle: Detailed Fixes for Error Code 0Xa00f4292 on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-enable-and-detect-bluetooth-devices-on-windows-10-easily/"><u>How to Enable and Detect Bluetooth Devices on Windows 10 Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-your-lenovo-mouse-pad-when-it-stops-working-on-any-windows-platform/"><u>How to Fix Your Lenovo Mouse Pad when It Stops Working on Any Windows Platform</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-fix-a-laptop-trackpad-that-wont-work-anymore/"><u>How To Restore Functionality: Fix A Laptop Trackpad That Won't Work Anymore</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-apple-iphone-14-is-off-drfone-by-drfone-virtual-ios/"><u>In 2024, Can Life360 Track You When Your Apple iPhone 14 is off? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/netflix-streaming-made-better-no-more-pauses-or-lag-fix-your-device-today/"><u>Netflix Streaming Made Better: No More Pauses or Lag – Fix Your Device Today!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-with-non-working-usb-slots-in-dell-computers-expert-advice/"><u>Resolving Issues with Non-Working USB Slots in Dell Computers - Expert Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/restoring-the-power-of-the-start-menu-repairing-windows-key-glitches-in-windows-11/"><u>Restoring the Power of the Start Menu: Repairing Windows Key Glitches in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-the-dilemma-killing-livekernelevent-error-144/"><u>Solve the Dilemma: Killing 'LiveKernelEvent Error #144'</u></a></li>
-<li><a href="https://win-latest.techidaily.com/step-by-step-tutorial-for-accessing-nfhs-training-footage-on-both-mac-and-windows/"><u>Step-by-Step Tutorial for Accessing NFHS Training Footage on Both Mac and Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-infinix-note-30-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Infinix Note 30 Pro for Streaming | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/troubleshooting-and-repairing-videoaudio-malfunctions-in-powerpoint-slides-discover-the-most-effective-fixes-for-a-seamless-presentation/"><u>Troubleshooting & Repairing Video/Audio Malfunctions in PowerPoint Slides – Discover The Most Effective Fixes for a Seamless Presentation</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitter-to-tween-creating-free-animated-videos/"><u>[Updated] 2024 Approved Twitter to Tween Creating FREE Animated Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-gain-cost-free-visuals-from-selective-4-youtube-feeds/"><u>[Updated] In 2024, Gain Cost-Free Visuals From Selective 4 YouTube Feeds</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pros-and-tips-building-realistic-3d-text-in-photos/"><u>[Updated] Pros and Tips Building Realistic 3D Text in PHOTOS</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-hot-30-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-solutions-for-the-wwe-n-battlegrounds-feature-level-100-error-on-dx11-platform/"><u>Efficient Solutions for the WWE N' Battlegrounds Feature Level 10.0 Error on DX11 Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-valorant-screen-distortion-for-a-seamless-gaming-experience/"><u>Fix VALORANT Screen Distortion for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-play-netflix-shows-and-movies-using-your-nintendo-switch/"><u>How To Play Netflix Shows & Movies Using Your Nintendo Switch</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-new-worlds-easy-anti-cheat-error-and-start-playing-smoothly/"><u>How to Resolve the New World's 'Easy Anti-Cheat Error' And Start Playing Smoothly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-spark-20-pro-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Spark 20 Pro To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-motorola-razr-40-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Razr 40 Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/latest-tricks-for-resolving-2024-miracast-reception-error-on-your-device/"><u>Latest Tricks for Resolving 2024 Miracast Reception Error on Your Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-setup-a-comprehensive-guide-to-activate-bluetooth-on-your-pc-windows-1110/"><u>Master the Setup: A Comprehensive Guide to Activate Bluetooth on Your PC (Windows 11/10)</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fixes-for-call-of-duty-ww-ii-error-code-4220-a-step-by-step-tutorial/"><u>Mastering the Fixes for Call of Duty WW II Error Code 4220 – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-youtubes-sound-glitches-in-windows-10-expert-solutions-revealed/"><u>Overcome YouTube's Sound Glitches in Windows 10: Expert Solutions Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-for-addressing-the-msvcrt10dll-cannot-be-found-error/"><u>Step-by-Step Solution for Addressing the 'msvcrt10.dll Cannot Be Found' Error</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-art-of-customizing-instructions-in-chatgpt-functionality-and-applications-unveiled/"><u>The Art of Customizing Instructions in ChatGPT: Functionality and Applications Unveiled</u></a></li>
 </ul></div>
 

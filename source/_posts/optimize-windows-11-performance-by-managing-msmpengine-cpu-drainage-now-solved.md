@@ -1,7 +1,7 @@
 ---
 title: Optimize Windows 11 Performance by Managing MsMpEngine CPU Drainage - Now Solved
-date: 2024-09-20T22:36:27.637Z
-updated: 2024-09-26T20:00:11.647Z
+date: 2024-09-27T03:53:35.278Z
+updated: 2024-10-01T16:43:43.015Z
 tags:
   - win11
   - win10
@@ -34,9 +34,23 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 2. **[Disable Real-Time Protection and reschedule your Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Use the Local Group Policy Editor to turn off Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Prevent Windows Defender from scanning its own folder**
 
 1) On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **Virus & threat protection** into the box and click**Virus & threat protection** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48478e47ae3.jpg)
 
@@ -56,20 +70,13 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4849bf2c80f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) See if MsMpEng.exe is still hogging your CPU usage. If the problem persists, move on to**Fix 2** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 2: Disable Real-Time Protection and r** **eschedule your Windows Defender**
@@ -82,67 +89,41 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48247e04d53.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down to the bottom, double-click on**Windows Defender** , then right-click on**Windows Defender Scheduled Scan** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48254c26e3f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) In the**General** tab, un-check**the box** before**Run with highest privileges** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4845e5ee219.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click the**Conditions** tab, make sure**the boxes** in this window are**unchecked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48462bea585.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click the**Triggers** tab >**New…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482828900da.png)
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Schedule your own**Windows Defender** scan. Carefully choose the frequency, scan time and date at your own convenience and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4828bca7be2.jpg)
 
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Use the Local Group Policy Editor to turn off Windows Defender**
 
@@ -156,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482ad2bedf6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Locate and double-click on**Windows Defender Antivirus** (aka. **Windows Defender** , same as below). Then double-click on **Turn off Windows Defender Antivirus** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48417e7d299.jpg)
@@ -164,14 +152,14 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4841ef0331d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Restart your computer and see if your computer runs normally now.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Want us to fix the problem for you?
 
@@ -196,22 +184,17 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-unraveling-the-sideway-video-phenomenon-on-ig/"><u>[New] 2024 Approved Unraveling the Sideway Video Phenomenon on IG</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-premier-general-knowledge-trivia-hubs/"><u>[New] Premier General Knowledge Trivia Hubs</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-pros-playbook-revolutionizing-your-instagram-feed/"><u>[Updated] 2024 Approved The Pro's Playbook Revolutionizing Your Instagram Feed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-efficient-routines-for-video-game-screening-for-2024/"><u>[Updated] Efficient Routines for Video Game Screening for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212519436-fix-this-platform-is-not-supported-while-installing-intel-serial-io-driver/"><u>Fix “This Platform Is Not Supported.” While Installing Intel Serial IO Driver</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203517984-get-your-huion-stylus-up-and-running-again-top-5-fixes/"><u>Get Your Huion Stylus Up and Running Again - Top 5 Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-restoring-functionality-of-windows-10-synaptics-touchpad-scrolling-problems/"><u>Guide to Restoring Functionality of Windows 10 Synaptics Touchpad Scrolling Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-miracast-not-possible-on-this-device-top-tips-and-tricks/"><u>How to Resolve 'Miracast Not Possible on This Device' – Top Tips and Tricks</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-lava-blaze-curve-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-se-2020-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone SE (2020)</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-reno-11f-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Reno 11F 5G</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-media-player-loading-errors-a-step-by-step-solution-guide/"><u>Overcoming Windows Media Player Loading Errors: A Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-aoc-monitor-on-windows-11-comprehensive-guide-to-usb-fixes-and-tweaks/"><u>Reviving Your AOC Monitor on Windows 11: Comprehensive Guide to USB Fixes and Tweaks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-perfect-clean-expert-advice-on-sanitizing-your-electronic-remotes/"><u>The Perfect Clean: Expert Advice on Sanitizing Your Electronic Remotes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-your-pc-wont-power-down-from-windows-11/"><u>Troubleshooting Tips for When Your PC Won't Power Down From Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-to-repair-your-windows-11-with-sfc-and-dism-commands/"><u>Ultimate Guide to Repair Your Windows 11 with SFC and DISM Commands</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-examining-librevid-recorder-for-live-streaming-for-2024/"><u>[New] Examining LibreVid Recorder for Live Streaming for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-correct-yt-monetization-checklist-maximize-your-earnings/"><u>[New] In 2024, Correct YT Monetization Checklist – Maximize Your Earnings</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/achieve-smoother-gameplay-in-splitgate-strategies-for-fixing-low-fps-and-reducing-delays/"><u>Achieve Smoother Gameplay in Splitgate: Strategies for Fixing Low FPS & Reducing Delays</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-logitech-keyboard-unrecognition-in-windows-11-a-step-by-step-guide/"><u>Fixing Logitech Keyboard Unrecognition in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-updated-windows-1n-support-rtx-2060-super-gpu-drivers-download/"><u>Get Updated Windows 1N Support: RTX 2060 Super GPU Drivers Download</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mystery-of-continuous-pauses-in-photo-booths/"><u>Mystery of Continuous Pauses in Photo Booths</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-steam-dll-failure/"><u>Overcoming Steam DLL Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-how-to-repair-your-non-functioning-huion-drawing-tablet/"><u>Quick Solutions: How to Repair Your Non-Functioning Huion Drawing Tablet</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-windows-code-28-device-driver-issue-a-step-by-step-guide/"><u>Resolving the Windows Code 28 Device Driver Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-1011-how-to-restore-print-screen-functionality/"><u>Troubleshooting Windows 10/11: How to Restore Print Screen Functionality</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/your-ultimate-manual-for-downloading-youtube-playlists-for-2024/"><u>Your Ultimate Manual for Downloading YouTube Playlists for 2024</u></a></li>
 </ul></div>
 

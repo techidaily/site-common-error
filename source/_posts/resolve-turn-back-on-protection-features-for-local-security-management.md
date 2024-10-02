@@ -1,7 +1,7 @@
 ---
 title: "Resolve: Turn Back On Protection Features for Local Security Management"
-date: 2024-09-23T17:23:48.794Z
-updated: 2024-09-26T23:08:41.310Z
+date: 2024-09-26T00:07:12.400Z
+updated: 2024-10-01T20:15:55.751Z
 tags:
   - win11
   - win10
@@ -47,10 +47,10 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Switch the network connection
@@ -60,10 +60,10 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
  (or**the computer network icon** ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d23f72604.png) ). T hen click **Airplane mode** whether it’s On or Off to switch the network connection.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d2934707d.jpg)
@@ -80,10 +80,10 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 3. Click**File** \>**Run new task** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8edaee0c.jpg)
@@ -100,13 +100,35 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 1. On your keyboard, press the **Windows logo key**  and type**cmd** . Then right click on**Command Prompt** and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click**Yes** when prompted to confirm.
 2. In the command prompt window, type**sfc /scannow** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient. 🙂
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Restart your computer and see if your desktop loads properly. If the **Personalized Settings (Not Responding)** issue still persists, continue with**Fix 5** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Delete a file in regedit
 
@@ -115,13 +137,6 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 1. On your keyboard, press the **Windows logo key**  and type**regedit** , then right-click on**regedit** and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b3d238270.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click**Yes** when prompted to confirm.
 2. Locate and double-click on **HKEY\_LOCAL\_MACHINE** \> **SOFTWARE** \> **Microsoft** \> **Active Setup** \> **Installed Components** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b61a4971d.jpg)
@@ -129,30 +144,10 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b74a134c9.jpg)  
  If this fix doesn’t help with the situation, you might want to import the file to restore the backup. Check out **[this link](https://tools.techidaily.com/drivereasy/download/)**  for further information.
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Right-click on**the last file** and click**Delete** .
 5. Restart your computer and see if your desktop comes back.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
 
@@ -179,22 +174,19 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-masterful-phone-apps-altering-speech-patterns/"><u>2024 Approved Masterful Phone Apps Altering Speech Patterns</u></a></li>
-<li><a href="https://article-helps.techidaily.com/aniworld-complete-app-audit-2024-edition/"><u>AniWorld Complete App Audit - 2024 Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/decoding-and-solving-the-windows-10-teal-screen-mystery-for-good/"><u>Decoding and Solving the Windows 10 Teal Screen Mystery for Good</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fixes-for-when-your-computer-wont-recognize-your-usb-drive/"><u>Effortless Fixes for When Your Computer Won't Recognize Your USB Drive</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-samsung-galaxy-tab-a-2020-the-critical-element-it-lacks/"><u>Expert Analysis: Samsung Galaxy Tab A 2020 - The Critical Element It Lacks</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-15-pro-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 15 Pro?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Infinix Zero 30 5G</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/overcoming-paper-jam-phobia/"><u>Overcoming Paper Jam Phobia</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/permanent-file-saver-macs-deletion-undoing-software/"><u>Permanent File Saver: Mac's Deletion Undoing Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-stop-your-mouse-from-wandering-solo/"><u>Quick Solutions: Stop Your Mouse From Wandering Solo</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-to-logildadll-missing-error/"><u>Solution to LogiLDA.dll Missing Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-final-countdown-over-fortnite-launched/"><u>The Final Countdown Over - Fortnite Launched</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-red-dead-redemption-ii-memory-full-error-with-easy-pagefile-increase-tips/"><u>Troubleshoot Red Dead Redemption II 'Memory Full' Error with Easy Pagefile Increase Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-pubg-network-delays-and-errors-for-improved-online-play-experience/"><u>Troubleshooting PUBG Network Delays and Errors for Improved Online Play Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-fix-incorrectly-pressed-keys-while-typing/"><u>Troubleshooting: How to Fix Incorrectly Pressed Keys While Typing</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/two-effective-ways-how-can-i-share-youtube-videos-on-facebook-in-2024/"><u>Two Effective Ways! How Can I Share YouTube Videos on Facebook, In 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-crafting-engaging-life-journeys-in-video-formats/"><u>[New] Crafting Engaging Life Journeys in Video Formats</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-elevate-video-production-mastering-obs-on-android/"><u>2024 Approved Elevate Video Production Mastering OBS on Android</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/effective-lut-implementation-in-adobe-premiere/"><u>Effective LUT Implementation in Adobe Premiere</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-search-experience-with-perplex-the-best-the-top-choice-in-ai-powered-google-tools-youre-missing-out-on/"><u>Elevate Your Search Experience with Perplex the Best: The Top Choice in AI-Powered Google Tools You're Missing Out On</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-lenovo-mouse-pad-problems-on-windows-1187-effective-solutions-and-workarounds/"><u>Fix Your Lenovo Mouse Pad Problems on Windows 11/8/7 - Effective Solutions and Workarounds</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-travel-through-time-on-instagram-the-reverse-video-guide/"><u>In 2024, Travel Through Time on Instagram The Reverse Video Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-device-unprepared-message-a-step-by-step-guide/"><u>Resolving the 'Device Unprepared' Message: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-windows-11-0x80t70541-update-issue-successfully/"><u>Resolving the Windows 11 0X80t70541 Update Issue Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-scrolling-woes-tips-and-techniques-for-a-smooth-touchpad-experience/"><u>Resolving Windows 11 Scrolling Woes: Tips and Techniques for a Smooth Touchpad Experience</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/seamless-social-circulation-sharing-your-journey-through-video-on-facebook-for-2024/"><u>Seamless Social Circulation Sharing Your Journey Through Video on Facebook for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/telecharger-facilement-vos-playlists-et-videos-4k-avec-le-numero-un-des-applications-gratuites-sur-google/"><u>Télécharger Facilement Vos Playlists Et Vidéos 4K Avec Le Numéro Un Des Applications Gratuites Sur Google</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-the-beginning-of-windows-11-where-and-how-to-find-the-start-button/"><u>Unlocking the Beginning of Windows 11: Where and How to Find the Start Button</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-y02t-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo Y02T Device</u></a></li>
 </ul></div>
 

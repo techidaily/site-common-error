@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue of Unshutting a Windows 10 Operating System on Your PC
-date: 2024-09-18T19:45:25.272Z
-updated: 2024-09-20T17:30:44.450Z
+date: 2024-09-30T23:43:49.513Z
+updated: 2024-10-01T17:00:52.429Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ### Tip 2: Check your desktop icon settings
@@ -52,6 +59,14 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Click **Themes** \> **Desktop icon settings**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
@@ -74,10 +89,10 @@ start explorer.exe
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 4: Perform a system restore
@@ -97,10 +112,10 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
@@ -112,23 +127,16 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 2. Click **Update & security** \> **Recovery**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -146,6 +154,13 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -168,5 +183,22 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-audible-anomaly-the-truth-behind-the-vocal-change-application-check-out-alternatives/"><u>[Updated] Audible Anomaly The Truth Behind the Vocal Change Application - Check Out Alternatives</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-honing-skills-for-hiring-best-filmmakers-for-2024/"><u>[Updated] Honing Skills for Hiring Best Filmmakers for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-archive-slideshow-in-high-quality-video/"><u>[Updated] In 2024, Archive Slideshow in High-Quality Video</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-laptop-editing-avoiding-inshot-dependence/"><u>[Updated] Laptop Editing Avoiding Inshot Dependence</u></a></li>
+<li><a href="https://common-error.techidaily.com/failed-attempt-at-installing-the-latest-windows-10-feature-update-version-1-solutions-inside/"><u>Failed Attempt at Installing the Latest Windows 10 Feature Update (Version 1) - Solutions Inside</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-soil-spinners-finding-the-next-stardew-title/"><u>In 2024, Soil Spinners Finding the Next Stardew Title</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-steams-storage-troubles-on-your-computer/"><u>Navigating Steam's Storage Troubles on Your Computer</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-cream-of-the-crop-top-android-apps-on-google-play/"><u>New In 2024, The Cream of the Crop Top Android Apps on Google Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-lag-troubles-with-these-fixes-for-dying-light-gameplay/"><u>Resolve Your Lag Troubles with These Fixes for Dying Light Gameplay</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/sharpen-up-discover-the-best-online-photo-fixers/"><u>Sharpen Up! Discover the Best Online Photo Fixers</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-unrecognized-headphones-on-your-laptop/"><u>Step-by-Step Solution: Unrecognized Headphones on Your Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-you-encounter-internet-explorer-has-crashed/"><u>Troubleshooting Steps When You Encounter 'Internet Explorer Has Crashed'</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-right-click-issue-fixes-for-mouse-functionality-on-windows-10/"><u>Troubleshooting the Right-Click Issue: Fixes for Mouse Functionality on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-for-the-persistent-error-code-0x80073712-on-windows-10-systems/"><u>Ultimate Troubleshooting for the Persistent Error Code 0X80073712 on Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209029556-why-is-my-touchpad-not-scrolling-properly-in-windows-11-solutions-inside/"><u>Why Is My Touchpad Not Scrolling Properly in Windows 11? Solutions Inside</u></a></li>
+</ul></div>
 

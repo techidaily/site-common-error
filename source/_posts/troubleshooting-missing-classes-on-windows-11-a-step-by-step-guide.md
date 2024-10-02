@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Missing Classes on Windows 11: A Step-by-Step Guide"
-date: 2024-09-23T00:19:29.358Z
-updated: 2024-09-26T23:15:21.815Z
+date: 2024-09-27T23:32:25.414Z
+updated: 2024-10-02T04:39:49.760Z
 tags:
   - win11
   - win10
@@ -45,17 +45,47 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 2: Check your desktop icon settings
 
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
 
@@ -64,19 +94,6 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
@@ -96,28 +113,21 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -127,24 +137,23 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Bonus tip
 
@@ -162,13 +171,6 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -193,24 +195,20 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-easy-plot-development-basics/"><u>[New] 2024 Approved Easy Plot Development Basics</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-become-an-fcp-virtuoso-with-this-guide/"><u>[New] In 2024, Become an FCP Virtuoso with This Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-the-complete-guide-to-precision-crafting-in-minecraft-worlds/"><u>[New] In 2024, The Complete Guide to Precision Crafting in Minecraft Worlds</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-spotlight-on-starlets-snippet/"><u>[New] Spotlight on Starlet's Snippet</u></a></li>
-<li><a href="https://common-error.techidaily.com/banish-the-shadows-expert-tips-to-restore-your-game-after-monster-hunter-worlds-startup-screens-are-swallowed-by-darkness/"><u>Banish the Shadows: Expert Tips to Restore Your Game After Monster Hunter: World's Startup Screens Are Swallowed by Darkness</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/chuckle-champs-twitters-humor-heap-for-2024/"><u>Chuckle-Champs Twitter’s Humor Heap for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210596431-dells-usb-port-problem-discover-proven-strategies-to-get-it-working-again/"><u>Dell's USB Port Problem? Discover Proven Strategies to Get It Working Again!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-compatible-hp-printer-software-and-drivers/"><u>Free Download: Compatible HP Printer Software and Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-nier-automata-crashes-in-pc-game-detailed-guide/"><u>How to Fix Nier: Automata Crashes in PC Game – Detailed Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-the-process-abruptly-ended-error-code-1067-on-your-pc/"><u>How To Overcome 'The Process Abruptly Ended' Error Code 1067 on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-not-charging-problem-for-connected-gadgets-on-your-windows-computer-versions-7-10/"><u>How to Resolve Not Charging Problem for Connected Gadgets on Your Windows Computer (Versions 7, 10)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-streamlining-text-workflow-in-after-effects/"><u>In 2024, Streamlining Text Workflow in After Effects</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-cache-miss-errors-errcachemiss-in-google-chrome-easily/"><u>Overcoming Cache Miss Errors (ERR_CACHE_MISS) in Google Chrome Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-issues-with-broken-function-keys-on-your-asus-portable-computer/"><u>Overcoming Issues with Broken Function Keys on Your ASUS Portable Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-error-messages-in-kodi-a-comprehensive-guide-to-smooth-streaming/"><u>Resolving Error Messages in Kodi - A Comprehensive Guide to Smooth Streaming</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-problem-of-a-nonfunctional-hp-laptop-camera-in-windows-11-tips-and-solutions/"><u>Solving the Problem of a Nonfunctional HP Laptop Camera in Windows 11 – Tips and Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-solution-for-your-ftd2xxdll-not-found-issues/"><u>The Ultimate Solution for Your ftd2XX.dll Not Found Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-face-id-issues-discover-14-effective-solutions-when-it-fails-on-iphone/"><u>Troubleshooting Face ID Issues: Discover 14 Effective Solutions When It Fails on iPhone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-diablo-ii-resurrected-unable-to-start/"><u>Troubleshooting Steps for Diablo II Resurrected Unable to Start</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-from-content-creator-to-earnings-expert-on-youtube/"><u>[Updated] In 2024, From Content Creator to Earnings Expert on YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965741478-easy-installation-of-usb-camera-drivers-get-them-now/"><u>Easy Installation of USB Camera Drivers - Get Them Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-visual-clarity-install-updated-intel-hd-graphics-3000-for-windows-10-now/"><u>Enhance Visual Clarity: Install Updated Intel HD Graphics 3000 for Windows 10 Now.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/estrategias-simplificadas-para-reducir-videos-descubra-como-usar-movavi/"><u>Estrategias Simplificadas Para Reducir Vídeos: Descubra Cómo Usar Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellent-applications-for-image-to-video-conversion-for-2024/"><u>Excellent Applications for Image to Video Conversion for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-windows-10-version-1903-upgrade-problems-successfully/"><u>Fixing the Windows 10 Version 1903 Upgrade Problems Successfully</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-moto-g24-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Motorola Moto G24 Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-nokia-g42-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Nokia G42 5G Phones</u></a></li>
+<li><a href="https://extra-information.techidaily.com/iphone-photography-breakthroughs-with-lifelike-motion/"><u>IPhone Photography Breakthroughs with Lifelike Motion</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-the-common-windows-update-error-code-0x80070652/"><u>Quick Solutions: Resolving the Common Windows Update Error Code 0X80070652</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-for-electric-spike-in-connector-junction/"><u>Solution Found for Electric Spike in Connector Junction</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-common-issues-fixing-non-downloading-torrents-made-easy/"><u>Solving Common Issues: Fixing Non-Downloading Torrents Made Easy</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-non-functional-usb-ports-on-windows-11/"><u>Troubleshooting and Fixing Non-Functional USB Ports on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-failing-windows-updates-now-fixed/"><u>Winning the Battle Against Failing Windows Updates - Now Fixed!</u></a></li>
 </ul></div>
 

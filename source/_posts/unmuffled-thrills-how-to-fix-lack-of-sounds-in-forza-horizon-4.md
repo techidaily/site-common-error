@@ -1,7 +1,7 @@
 ---
 title: "Unmuffled Thrills: How to Fix Lack of Sounds in Forza Horizon 4"
-date: 2024-09-19T17:54:26.891Z
-updated: 2024-09-20T18:38:18.924Z
+date: 2024-09-24T21:17:26.044Z
+updated: 2024-10-01T20:36:47.145Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ When you launch the game you can hear the intro music but right after that, all 
 4. [Reinstall your audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Update your Windows system](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Change Sound Settings
 
  To solve the issue, you can try changing the sound settings. Uncheck “Disable all sound effect” has been proven effective by many users.
@@ -40,8 +47,29 @@ When you launch the game you can hear the intro music but right after that, all 
 2. Click**Sounds** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the**Playback** tab, choose the device you’re using and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 4. In the**Enhancements** tab, uncheck “**Disable all sound effects** “.![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Apply > OK** .
 6. Reboot your computer and check then your game sound.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Run the Windows audio troubleshooter
 
@@ -81,16 +109,10 @@ There are two ways you can update your audio drivers.
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version).  
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
@@ -104,23 +126,24 @@ There are two ways you can update your audio drivers.
 1. Press the**Windows logo key + R** together to open the Run box.
 2. Type “devmgmt.msc” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager-1.jpg)
 3. Click**Sound, video and game controllers** , right-click on the**Realtek(R) Audio** and click**Uninstall device** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3.1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Use Method 3 to install the driver.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Reboot your computer to check whether the problem is resolved.
 
@@ -130,13 +153,6 @@ There are two ways you can update your audio drivers.
 
 1. Press the**Windows logo key + I** together. Click**Update & Security** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/4.1.jpg)
 2. In the Windows Update tab, click**Check for updates** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Install the updates.
 4. Reboot your computer and check the problem is solved or not.
@@ -158,5 +174,18 @@ There are two ways you can update your audio drivers.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/solved-windows-11-stuck-or-not-updating/"><u>[Solved] Windows 11 Stuck or Not Updating</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-analyzing-toolwiz-a-photographers-digital-arsenal/"><u>[Updated] In 2024, Analyzing Toolwiz A Photographer’s Digital Arsenal</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/apprendimento-dei-numeri-italiani-la-via-da-1-a-mille/"><u>Apprendimento Dei Numeri Italiani: La Via Da 1 a Mille</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210753236-directx-hardware-renderer-initialization-issues-solutions-uncovered/"><u>DirectX Hardware Renderer Initialization Issues - Solutions Uncovered</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-windows-amoled-screen-issues-a-guide-with-5-proven-methods/"><u>Solve Your Windows Amoled Screen Issues: A Guide with 5 Proven Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-bad-image-glitches-in-modern-windows-os/"><u>Step-by-Step Guide: Correcting 'Bad Image' Glitches in Modern Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-eliminating-directx-error-messages-in-fifa-20/"><u>Step-by-Step Solutions for Eliminating DirectX Error Messages in FIFA 20</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-guilty-gear-strive-from-crashing-on-your-pc-essential-fixes-revealed/"><u>Stop Guilty Gear Strive From Crashing on Your PC - Essential Fixes Revealed!</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-resolving-windows-1011-sound-failures-dealing-with-missing-audio-devices/"><u>The Ultimate Guide to Resolving Windows 10/11 Sound Failures: Dealing with Missing Audio Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-optimize-your-file-explorer-in-windows-10-today/"><u>Troubleshoot and Optimize Your File Explorer in Windows 10 Today</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-guide-to-top-rated-kodi-addons-get-all-you-ever-wanted/"><u>Ultimate Guide to Top-Rated Kodi Addons: Get All You Ever Wanted</u></a></li>
+</ul></div>
 

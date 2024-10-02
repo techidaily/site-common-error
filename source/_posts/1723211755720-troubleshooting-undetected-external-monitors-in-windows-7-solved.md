@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Undetected External Monitors in Windows 7 - Solved
-date: 2024-09-20T22:21:45.791Z
-updated: 2024-09-27T00:18:19.145Z
+date: 2024-09-24T16:38:55.825Z
+updated: 2024-10-01T22:19:43.011Z
 tags:
   - win11
   - win10
@@ -43,26 +43,26 @@ thumbnail: https://thmb.techidaily.com/7ec641d0887205acbcfc6836f03618d0eee863811
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a812a6c131.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Display** when choose to View by**Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a817eeda01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Adjust resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a81ad7638e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) In the**Multiple displays** section, select**Extend these displays** . Then click**Apply** \>**OK** .
@@ -88,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/7ec641d0887205acbcfc6836f03618d0eee863811
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a863c479f5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Roll Back Driver** under the**Driver pane** .
@@ -107,19 +107,6 @@ thumbnail: https://thmb.techidaily.com/7ec641d0887205acbcfc6836f03618d0eee863811
  Once it’s done, restart your computer to see if your second monitor is displaying.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Update your video driver to the latest version
 
@@ -138,15 +125,28 @@ thumbnail: https://thmb.techidaily.com/7ec641d0887205acbcfc6836f03618d0eee863811
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5add9a418221e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5add9bc0d1470.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** You can do it for free if you like, but it’s partly manual.
 
@@ -184,16 +184,17 @@ Restart your computer to see if your second monitor is displaying.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-ranking-macs-best-rated-sniping-programs-for-2024/"><u>[Updated] Ranking Mac's Best-Rated Sniping Programs for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-ultimate-guide-to-the-best-10-video-saving-devices/"><u>[Updated] Ultimate Guide to the Best 10 Video Saving Devices</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-avoid-payment-secure-your-free-fcp-copy/"><u>2024 Approved Avoid Payment Secure Your Free FCP Copy</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-infinix-hot-40i-device-sim-by-drfone-android/"><u>Easily Unlock Your Infinix Hot 40i Device SIM</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/getting-your-microsoft-sculpt-keyboard-up-to-date-with-a-hassle-free-driver-update-process/"><u>Getting Your Microsoft Sculpt Keyboard Up-to-Date with a Hassle-Free Driver Update Process</u></a></li>
-<li><a href="https://common-error.techidaily.com/identify-and-resolve-the-issue-of-absent-media-controller-on-your-system/"><u>Identify and Resolve the Issue of Absent Media Controller on Your System</u></a></li>
-<li><a href="https://common-error.techidaily.com/illuminating-gameplay-tips-and-fixes-for-blackout-beginnings-in-monster-hunter-world/"><u>Illuminating Gameplay: Tips and Fixes for Blackout Beginnings in Monster Hunter: World</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719151110559-revolutionize-content-sharing-facebook-storages-adaptable-across-services/"><u>Revolutionize Content Sharing: Facebook Storages Adaptable Across Services</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-cutting-out-issues-with-your-logitech-g930-speakers/"><u>Step-by-Step Solution for 'Cutting Out' Issues with Your Logitech G930 Speakers</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-windows-11-stalling-during-updates/"><u>Step-by-Step Solution for Windows 11 Stalling During Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-walkthrough-correcting-windows-update-error-0x8024002e-for-a-smooth-experience/"><u>Step-by-Step Walkthrough: Correcting Windows Update Error 0X8024002e for a Smooth Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210298538-solved-windows-11-wont-sleep-issue/"><u>[Solved] Windows 11 Won’t Sleep Issue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elevated-approach-to-embedding-srt-into-mp4-media/"><u>[Updated] Elevated Approach to Embedding SRT Into MP4 Media</u></a></li>
+<li><a href="https://common-error.techidaily.com/dragon-ball-fighterz-network-initialization-issue-fixed-successfully/"><u>Dragon Ball FighterZ Network Initialization - Issue Fixed Successfully</u></a></li>
+<li><a href="https://win-web3.techidaily.com/effortless-video-conversion-and-downloading-save-your-favorite-videos-in-mp4-avi-or-wmv-from-ku6/"><u>Effortless Video Conversion and Downloading: Save Your Favorite Videos in MP4, AVI, or WMV From Ku6</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/karaoke-usa-sing-and-celebrate-for-less-than-a-hundred-dollars-unlimited-entertainment-awaits/"><u>Karaoke USA: Sing and Celebrate for Less than a Hundred Dollars - Unlimited Entertainment Awaits</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977327775-latest-drivers-for-intel-wi-fi-ac-95cu-adapter-downloaded-easy-heres-how/"><u>Latest Drivers for Intel Wi-Fi AC 95Cu Adapter Downloaded Easy – Here's How!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/luminarx-the-freepaid-lightroom-rival-list/"><u>LuminarX The Free/Paid Lightroom Rival List</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-bluetooth-connectivity-seamless-setup-on-windows-11-and-10-unveiled/"><u>Mastering Bluetooth Connectivity: Seamless Setup on Windows 11 & 10 Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-disappearing-windows-issue-quick-tricks-and-solutions/"><u>Resolve Disappearing Windows Issue: Quick Tricks & Solutions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-essential-guide-to-creating-snaps-on-snapchat-for-2024/"><u>The Essential Guide to Creating Snaps on Snapchat for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-resolving-failed-attempts-to-generate-directx-output-devices/"><u>Troubleshooting and Resolving Failed Attempts to Generate DirectX Output Devices</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/zusammenspiel-von-wortern-grusse-im-deutschen-neben-hallo/"><u>Zusammenspiel Von Wörtern: Grüße Im Deutschen Neben Hallo</u></a></li>
 </ul></div>
 

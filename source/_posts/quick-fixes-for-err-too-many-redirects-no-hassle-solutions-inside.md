@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for ERR TOO MANY REDIRECTS - No Hassle Solutions Inside
-date: 2024-09-19T16:16:55.693Z
-updated: 2024-09-26T20:26:38.396Z
+date: 2024-09-25T00:59:18.061Z
+updated: 2024-10-01T19:23:41.096Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select**System Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-4.png)
@@ -76,31 +83,24 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click to highlight your microphone, then click**Set Default > Default Device** .
 
 **Note:** Your mic device may not be listed as “Microphone” and the icon thereof may not even resemble a microphone. You should be able to recognize it yourself.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also right-click the mic item and check if it is disabled. If it is, select **Enable** to get your mic working.
 
  5) Again, click to highlight your mic. This time, click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
 
@@ -115,10 +115,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Re-enable microphone in Device Manager
@@ -129,13 +129,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
@@ -144,20 +137,27 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now check to see your mic is back on track.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Modify privacy settings
 
@@ -173,16 +173,16 @@ Now check to see your mic is back on track.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
 
@@ -207,21 +207,20 @@ If this fix doesn’t work, please proceed to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/approved-extract-your-favorites-best-playlist-tools-reviewed-and-rated/"><u>2024 Approved Extract Your Favorites Best Playlist Tools Reviewed and Rated</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sony-bdp-s6500-review-updated/"><u>2024 Approved Sony BDP-S6500 Review - Updated</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-xmlssa-conversion-manual-for-professional-srt-production/"><u>2024 Approved XML/SSA Conversion Manual for Professional SRT Production</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/discovering-clarity-q500s-4k-adventure-for-2024/"><u>Discovering Clarity Q500's 4K Adventure for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-xbox-elite-controller-padlock-problems-unlock-the-secrets-to-reviving-your-pen-in-depth-guide/"><u>DIY Xbox Elite Controller Padlock Problems: Unlock the Secrets to Reviving Your Pen (In-Depth Guide)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/geforce-experience-setup-glitch-solved-retrieve-your-custom-configurations-now/"><u>GeForce Experience Setup Glitch Solved - Retrieve Your Custom Configurations Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-fix-not-present-device-alert-on-pcs-running-windows-1187-error-code-t24/"><u>Guide to Fix 'Not Present' Device Alert on PCs Running Windows 11/8/7 (Error Code: T24)</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-copy-contacts-from-apple-iphone-15-pro-to-sim-drfone-by-drfone-transfer-from-ios/"><u>How to Copy Contacts from Apple iPhone 15 Pro to SIM? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-functioning-lenovo-keyboard-step-by-step-guide/"><u>How to Fix a Non-Functioning Lenovo Keyboard – Step by Step Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/identifying-leading-drone-motors-for-superior-stability-for-2024/"><u>Identifying Leading Drone Motors for Superior Stability for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/insights-into-crafting-responses-to-youtube-comments-for-2024/"><u>Insights Into Crafting Responses to YouTube Comments for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/restoring-wireless-connectivity-overcoming-off-status-alerts-on-devices/"><u>Restoring Wireless Connectivity: Overcoming Off Status Alerts on Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-overcoming-the-crimson-display-malfunction/"><u>Step-by-Step Guide: Overcoming The Crimson Display Malfunction</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-to-correcting-the-recurring-windows-update-issue-error-0x80240017/"><u>Ultimate Guide to Correcting the Recurring Windows Update Issue (Error 0X80240017)</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-troubleshooting-your-lenovo-laptops-malfunctioning-webcam/"><u>Ultimate Guide: Troubleshooting Your Lenovo Laptop's Malfunctioning Webcam</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-eclipse-etiquette-secrets-to-stunning-night-photos/"><u>2024 Approved Eclipse Etiquette Secrets to Stunning Night Photos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-roadmap-to-free-cut-out-imagery/"><u>2024 Approved The Roadmap to Free Cut-Out Imagery</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-tales-leveraging-chatgpt-for-epic-narratives/"><u>Crafting Tales: Leveraging ChatGPT for Epic Narratives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/data-safe-and-sound-top-pricing-of-clouds/"><u>Data Safe & Sound Top Pricing of Clouds</u></a></li>
+<li><a href="https://common-error.techidaily.com/dxgidll-woes-now-a-thing-of-past-in-pubg/"><u>Dxgi.dll Woes: Now a Thing of Past in PUBG</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-from-toms-gadget-guide-navigating-the-newest-pc-technologies/"><u>Expert Insights From Tom's Gadget Guide: Navigating the Newest PC Technologies</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-application-startup-problems-a-guide-for-built-in-admin-accounts/"><u>Fixing Application Startup Problems: A Guide for Built-In Admin Accounts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-edge-40-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Edge 40 Prowith/without a PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/masterful-methods-for-identifying-and-retrieving-email-addresses/"><u>Masterful Methods for Identifying and Retrieving Email Addresses</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-missing-opencl-dynamic-library-errors/"><u>Resolving Missing OpenCL Dynamic Library Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-non-appearance-of-wi-fi-settings-on-windows-11-devices/"><u>Resolving the Non-Appearance of Wi-Fi Settings on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-integrity-of-windows-os-file-system/"><u>Step-by-Step Guide: Restoring Integrity of Windows OS File System</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-common-issues-with-your-oculus-device/"><u>Troubleshooting Guide: Resolving Common Issues with Your Oculus Device</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-find-x6-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo Find X6 | Dr.fone</u></a></li>
 </ul></div>
 

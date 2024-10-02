@@ -1,7 +1,7 @@
 ---
 title: "Fortnite Optimized on Unsupported GPUs: Winning Fixes and Tweaks"
-date: 2024-09-19T17:15:46.579Z
-updated: 2024-09-20T17:53:47.504Z
+date: 2024-09-28T01:50:51.211Z
+updated: 2024-10-02T02:51:07.615Z
 tags:
   - win11
   - win10
@@ -57,10 +57,26 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 3. Click**Keep changes** if you see the popup verification dialog.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1914a52c434.png)
 4. Then click**Advanced** **display** **settings** on the same screen.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b6cc8591.jpg)
 5. Click**Display** **adapter** **properties** **for** **Display** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3bbd9a183.jpg)
 6. Click the**Monitor** tab in the popup pane, and change**Screen refresh rate** to the one shown in your error message (in my case it’s**60Hz** ).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d226ff59.jpg)
 7. Click**Apply** and**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d5847bb6.jpg)
@@ -76,15 +92,38 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 3. Click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e7b561b5.jpg)
 4. Click**Keep changes** if you see the verification message.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e9f1f793.jpg)
 5. On the same screen, click**Advanced** **settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ebdae214.jpg)
 6. Click the**Monitor** tab, and choose the specific refresh rate shown in your error message (in my case I choose**60Hz** ).  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ef0922d4.jpg)
 7. Click**Apply** and**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3f2a18d38.jpg)
 
 Restart your computer in normal mode and see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update graphics card driver
 
@@ -110,6 +149,13 @@ Restart your computer in normal mode and see if it works.
 
  This should fix your problem. Still no luck? Okay, there’s one more thing to try.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Boot your computer in low-resolution mode
 
  This method has been said to be working for many people who have the same error. You can try using the low resolution mode in your computer, in order to match the resolution for your monitor.
@@ -125,46 +171,39 @@ Restart your computer in normal mode and see if it works.
 3. Click**Advanced** options, then the system will bring up the Windows RE (Recovery environment.) screen.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a15247e3c3cd.jpg)
 4. Click**Troubleshoot** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a151ab96e345.jpg)
 5. Click**Advanced** **options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a180901572a5.jpg)
 6. Click**Startup** **Settings** to continue.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18093b2b099.jpg)
 7. Click**Restart** . The computer restarts and another screen opens showing a list of different startup options.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18096b5adce.jpg)
 8. Press the**number** **key** (normally the**number 3 key** ) next to the option:**Enable low-resolution video** (**mode** ).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf40923919f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then your computer will boot into the low-resolution mode and it should fix your error.
 
@@ -197,5 +236,19 @@ Restart your computer in normal mode and see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-synchronized-device-tutorial-for-efficient-movie-logging-for-2024/"><u>[New] Synchronized Device Tutorial for Efficient Movie Logging for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-enduring-connection-techniques-for-tiktok-profiles/"><u>[Updated] 2024 Approved Enduring Connection Techniques for TikTok Profiles</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-expert-techniques-for-flawless-adobe-audio/"><u>[Updated] 2024 Approved Expert Techniques for Flawless Adobe Audio</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-screensnapper-review-latest-tech/"><u>[Updated] 2024 Approved ScreenSnapper Review - Latest Tech</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-image-enhancement-10-pro-tips-for-using-pixlr-effectively/"><u>2024 Approved Master Image Enhancement 10 Pro Tips for Using Pixlr Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-walkthrough-repairing-the-0x80070490-error-during-system-updates-on-windows/"><u>Comprehensive Walkthrough: Repairing the 0X80070490 Error During System Updates on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-fix-ethernet-problems-on-your-windows-11-or-windows-7-computer/"><u>How to Diagnose & Fix Ethernet Problems on Your Windows 11 or Windows 7 Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-infinix-note-30-vip-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Infinix Note 30 VIP.</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-complete-guide-to-vr-ready-space-setup/"><u>In 2024, The Complete Guide to VR-Ready Space Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-touch-control-on-your-laptop-or-desktop-essential-repair-tips-for-windows-11-enthusiasts/"><u>Mastering Touch Control on Your Laptop or Desktop - Essential Repair Tips for Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-excessive-noise-in-playstation-4-consoles-tips-and-tricks/"><u>Resolving Excessive Noise in PlayStation 4 Consoles - Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-elusive-video-connection-fix-the-no-video-input-detected-issue-today/"><u>Troubleshooting the Elusive Video Connection: Fix the 'No Video Input Detected' Issue Today</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unraveling The Mystery Behind Google Chrome Critical Error - Solutions at Hand
-date: 2024-09-24T18:50:43.757Z
-updated: 2024-09-26T18:29:43.500Z
+date: 2024-09-25T23:53:47.450Z
+updated: 2024-10-01T16:10:05.271Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ the picture was taken by: Article\_86
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run a virus scan
 
  Do a clean virus scan is important after you met the scam. In case your computer gets infected by it, it’s no harm to do so. You can use the antivirus software on your computer or run Windows Defender. Just make sure the software has updated to the latest version.  
@@ -73,21 +80,7 @@ the picture was taken by: Article\_86
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Relaunch Chrome to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -102,23 +95,22 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Reset Google Chrome to default settings
@@ -132,16 +124,31 @@ the picture was taken by: Article\_86
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## TIPS: Avoid Google Chrome Critical Error
@@ -179,22 +186,16 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-locate-and-watch-vintage-facebook-moments/"><u>[New] 2024 Approved Locate and Watch Vintage Facebook Moments</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/udget-friendly-sponsorship-blueprint-for-youtube-enthusiasts/"><u>[New] Budget-Friendly Sponsorship Blueprint for YouTube Enthusiasts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-accelerate-your-contents-view-count-1kplus-in-time-for-2024/"><u>[Updated] Accelerate Your Content's View Count 1K+ in Time for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-social-media-strategy-optimizing-your-facebook-story/"><u>[Updated] Social Media Strategy Optimizing Your Facebook Story</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-steam-api-file-gap-error/"><u>Addressing Steam API File Gap Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/effectively-managing-svchostexes-heavy-internet-usage-a-comprehensive-guide-for-netsvcs-issues/"><u>Effectively Managing svchost.exe's Heavy Internet Usage: A Comprehensive Guide for NETSVCS Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-minecraft-lan-not-responding-easy-steps-for-players/"><u>Fixing 'Minecraft LAN Not Responding' - Easy Steps for Players</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-iphone-8-plus-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your iPhone 8 Plus for Free</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-vivo-s17e-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo S17e Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-master-installation-process-of-wm6/"><u>In 2024, Master Installation Process of WM6</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo S18? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-steps-to-unstick-the-preparing-to-install-stage-in-windows-setup/"><u>Resolved: Steps to Unstick the 'Preparing to Install' Stage in Windows Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-drive-is-locked-errors-in-windows-10/"><u>Resolving 'Drive Is Locked' Errors in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-issue-bluetooth-missing-from-windows-device-manager/"><u>Resolving the Issue: Bluetooth Missing From Windows Device Manager</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-the-win32-exception-0xc0000005-on-your-pc/"><u>Step-by-Step Guide: Resolving the Win32 Exception (0xC0000005) on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-doesnt-your-pc-upgrade-solving-windows-1903-installation-errors/"><u>Why Doesn't Your PC Upgrade?: Solving Windows 1903 Installation Errors</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-essential-guide-to-best-free-4k-uhd-playback-tools-pcandmac/"><u>[New] In 2024, Essential Guide to Best Free 4K UHD Playback Tools (PC&Mac)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-audio-setup-unveiling-our-picks-for-6-excellent-mics/"><u>2024 Approved Professional Audio Setup Unveiling Our Picks for 6 Excellent Mics</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/canon-eos-t7-review-a-significant-step-forward/"><u>Canon EOS T7 Review - A Significant Step Forward</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeating-the-dilemma-effective-methods-for-dealing-with-sticky-keyboard-issues-on-windows/"><u>Defeating the Dilemma: Effective Methods for Dealing with Sticky Keyboard Issues on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-huion-graphics-tablet-issues-in-minutes-top-5-methods/"><u>Fix Huion Graphics Tablet Issues in Minutes - Top 5 Methods!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-user-profile-service-failed-error-on-your-windows-pc/"><u>Fixing the 'User Profile Service Failed' Error on Your Windows PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-reviving-the-malfunctioned-audio-service-in-windows-7/"><u>Guide to Reviving the Malfunctioned Audio Service in Windows 7</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-s23-fe-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy S23 FE Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-xs-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on Apple iPhone XS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/realms-of-reality-understanding-the-metaverse-through-6-instances-for-2024/"><u>Realms of Reality Understanding the Metaverse Through 6 Instances for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/reason-behind-my-curated-list-of-fb-ads/"><u>Reason Behind My Curated List of Fb Ads</u></a></li>
 </ul></div>
 

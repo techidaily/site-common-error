@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Repair Unresponsive Microphones on Windows 10"
-date: 2024-09-13T18:29:56.912Z
-updated: 2024-09-20T18:23:14.508Z
+date: 2024-10-01T02:44:46.682Z
+updated: 2024-10-01T19:49:18.736Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -67,15 +74,36 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -100,19 +128,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -139,22 +154,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
@@ -189,5 +197,18 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-elevate-your-podcasts-reach-with-advanced-seo-strategies-for-2024/"><u>[Updated] Elevate Your Podcast's Reach with Advanced SEO Strategies for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-optimizing-screen-recording-on-iphoneipad/"><u>[Updated] In 2024, Optimizing Screen Recording on iPhone/iPad</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-professional-images-using-photoshops-powerful-luts/"><u>2024 Approved Crafting Professional Images Using Photoshop's Powerful LUTs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-essential-6-microphone-selections-for-high-quality-livestreams/"><u>2024 Approved Essential 6 Microphone Selections for High-Quality Livestreams</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207916874-decrease-wmi-cpu-load-on-win11-quick-guide/"><u>Decrease WMI CPU Load on Win11 - Quick Guide!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-guide-dealing-with-incomplete-or-damaged-service-registry-in-windows-11/"><u>Fix Guide: Dealing with Incomplete or Damaged Service Registry in Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-your-device-descriptor-request-failed-successful-usb-fixes-unveiled/"><u>Fix Your 'Device Descriptor Request Failed' - Successful USB Fixes Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208042311-how-to-restore-mic-functionality-on-your-steelseries-arctis-5-headset-easy-fix-tips-for-gamers/"><u>How to Restore Mic Functionality on Your SteelSeries Arctis 5 Headset - Easy Fix Tips for Gamers.</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-find-x7-ultra-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Find X7 Ultra To Phone | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-trouble-free-boots-and-starts-fixing-windows-11s-freezing-problems/"><u>Mastering Trouble-Free Boots and Starts: Fixing Windows 11'S Freezing Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-msmpengexes-excessive-use-of-resources-on-windows-11-systems/"><u>Troubleshooting and Solving MsMpEng.exe's Excessive Use of Resources on Windows 11 Systems</u></a></li>
+</ul></div>
 

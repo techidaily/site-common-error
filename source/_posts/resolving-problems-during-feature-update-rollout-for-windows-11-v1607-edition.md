@@ -1,7 +1,7 @@
 ---
 title: Resolving Problems During Feature Update Rollout for Windows 11, v1607 Edition
-date: 2024-09-19T22:16:50.175Z
-updated: 2024-09-26T18:27:02.436Z
+date: 2024-09-30T20:22:43.189Z
+updated: 2024-10-02T00:40:25.379Z
 tags:
   - win11
   - win10
@@ -38,18 +38,18 @@ Microsoft has released an update installation tool named**Windows 10 Update Assi
 
 **4)** Follow the instructions to download and install the latest update.**5)** When the process finishes, your operating system will be updated to the latest version, and the update failed issue will be fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Reset the Windows Update components
 
 You may fail to install the 1607 update because the**Windows Update components**on your computer are corrupted. These components include the services and temporary files required by or related to Windows Update. You can try resetting these components and see if this can fix your problem. To reset the Windows Update components:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** In Command Prompt, type the following lines of command and press**Enter**on your keyboard after typing each:
 
@@ -67,33 +67,39 @@ You may fail to install the 1607 update because the**Windows Update components**
 * _**net start cryptsvc**_
 **5)**Run Windows Update and check to see if your computer can install the 1607 update.
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Run the DISM utility
 
 Your system may fail to install the 1607 update because something corrupts your Windows image, which is necessary for the important system features like Windows Update. You can try running the**DISM**(Deployment Image Servicing and Management) utility to repair your Windows image. To run DISM:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right click**Command Prompt**and select**Run as administrator**.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png) **2)** In Command Prompt, type “_**DISM.exe /Online /Cleanup-image /Restorehealth**_” and press**Enter**on your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0150723fc23.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Wait for the utility to complete repairing your Windows image. Then restart your computer and check to see if this fixes your update problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Temporarily disable your antivirus software
@@ -118,24 +124,17 @@ Sometimes your system can’t install new updates due to the interference from y
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-reddits-supreme-judges-the-most-upvoted-posts-ever/"><u>[New] Reddit's Supreme Judges The Most Upvoted Posts Ever</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-complying-with-aspect-ratios-in-tweets-for-2024/"><u>[Updated] Complying with Aspect Ratios in Tweets for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-full-capability-assessment-of-sony-fdr-x1000-videography-for-2024/"><u>[Updated] Full Capability Assessment of Sony FDR-X1000 Videography for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/ace-the-game-rapid-fix-tips-to-elevate-page-file-size-for-uninterrupted-rdr2-fun/"><u>Ace the Game: Rapid Fix Tips to Elevate Page File Size for Uninterrupted RDR2 Fun</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/audio-options-dilemma-podcasts-against-youtube-for-2024/"><u>Audio Options Dilemma Podcasts Against YouTube for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-hashtag-monitoring-solutions-on-twitter-a-list-of-4-must-try-tools/"><u>Essential Hashtag Monitoring Solutions on Twitter: A List of 4 Must-Try Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exclusive-sites-for-secure-and-quick-download-of-youtube-ringtones/"><u>Exclusive Sites for Secure & Quick Download of YouTube Ringtones</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-brightness-functionality-on-your-windows-10-display/"><u>How to Restore Brightness Functionality on Your Windows 10 Display</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-successfully-update-and-repair-intel-hd-graphics-card-drivers-in-windows/"><u>How to Successfully Update and Repair Intel HD Graphics Card Drivers in Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Honor 90 Lite? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-guide-to-youtube-fame-with-spectacular-music-videos/"><u>In 2024, The Ultimate Guide to YouTube Fame with Spectacular Music Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209807541-keyboard-problems-at-boot-up-heres-your-solution/"><u>Keyboard Problems at Boot-Up? Here's Your Solution!</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-masters-list-eliminating-window-based-background-sounds-from-your-recordings/"><u>New Masters List Eliminating Window-Based Background Sounds From Your Recordings</u></a></li>
-<li><a href="https://common-error.techidaily.com/nvidia-share-not-responding-solved/"><u>NVIDIA Share Not Responding [SOLVED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-hdcp-restrictions-for-better-display-performance-a-complete-guide/"><u>Overcoming HDCP Restrictions for Better Display Performance: A Complete Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-overcoming-issues-with-creating-directx-graphics-device-d3d/"><u>Resolved: Overcoming Issues with Creating DirectX Graphics Device (D3D)</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-tips-for-dealing-with-twitch-error-4000/"><u>Step-by-Step Troubleshooting Tips for Dealing with Twitch Error 4000</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-your-pc-cant-close-windows-11-properly/"><u>Troubleshooting Tips for When Your PC Can't Close Windows 11 Properly</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-updates-not-installing-heres-your-comprehensive-solution-guide/"><u>Windows 10 Updates Not Installing? Here's Your Comprehensive Solution Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-craft-engaging-youtube-stays-strategies-to-shine-without-thousand-supporters/"><u>[New] Craft Engaging YouTube Stays Strategies to Shine without Thousand Supporters</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-flipping-the-script-turning-online-games-into-channel-gold/"><u>[New] In 2024, Flipping the Script Turning Online Games Into Channel Gold</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streaming-into-the-future-a-review-for-2024/"><u>[New] Streaming Into the Future A Review for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-neglects-critical-security-fixes-on-vulnerable-chipsets-sinkclose-bug-remains-in-legacy-ryzen-cpus/"><u>AMD Neglects Critical Security Fixes on Vulnerable Chipsets; 'Sinkclose' Bug Remains in Legacy Ryzen CPUs</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203659471-effortless-guide-to-overcome-too-many-redirects-error-swiftly/"><u>Effortless Guide to Overcome Too Many Redirects Error Swiftly</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-resolving-google-chromes-serious-malfunction-and-security-threat/"><u>Guide to Resolving Google Chrome's Serious Malfunction and Security Threat</u></a></li>
+<li><a href="https://driver-download.techidaily.com/improve-gaming-experience-with-the-newest-nvidia-rtx-2080-driver-updates-windows-1011/"><u>Improve Gaming Experience with the Newest NVIDIA RTX 2080 Driver Updates (Windows 10/11)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-instructions-removing-videos-from-youtubes-watchlater/"><u>In 2024, Instructions Removing Videos From YouTube's Watchlater</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-current-outage-of-your-computers-windows-security-feature-smartscreen/"><u>Resolving Current Outage of Your Computer's Windows Security Feature: SmartScreen</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-graphics-glitches-troubleshoot-failed-to-create-d3d9-device/"><u>Solve Your Graphics Glitches: Troubleshoot Failed to Create D3D9 Device</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-motorola-edge-2023-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Motorola Edge 2023 to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

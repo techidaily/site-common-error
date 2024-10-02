@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] api-ms-win-crt-runtime-l1-1-0.dll Is Missing"
-date: 2024-09-19T17:23:07.504Z
-updated: 2024-09-20T16:09:22.445Z
+date: 2024-09-25T20:38:07.245Z
+updated: 2024-10-02T03:50:18.263Z
 tags:
   - win11
   - win10
@@ -49,6 +49,14 @@ If you haven’t tried this method before, give it a go.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog. Then type**ncpa.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-ncpa.cpl_.jpg)
 2. Check if your Wi-Fi adapter is disabled or greyed out. If it is, right-click on it and select**Enable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-enable-wifi.jpg)
 
  Once done, restart your computer and check if your Wi-Fi network shows up again.
@@ -77,13 +85,6 @@ If you haven’t tried this method before, give it a go.
 
  Now check to see if your problem has been resolved. If not, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Run the Network Adapter troubleshooter
 
  If updating the Wi-Fi adapter driver doesn’t help, try running the Network Adapter troubleshooter. This troubleshooter can help diagnose and fix problems with your wireless and other network adapters. To run the troubleshooter:
@@ -98,20 +99,13 @@ If you haven’t tried this method before, give it a go.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-network-adapter-run.jpg)
 5. Follow the steps in the troubleshooter and see if that fixes the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If your issue persists, check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Turn on WLAN AutoConfig service
@@ -121,20 +115,29 @@ If your issue persists, check out the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** together to invoke the Run dialog. Then type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-services.jpg)
 2. Find**WLAN AutoConfig** in the list of services, right-click on it and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/wlan-autoconfig-properties.jpg)
 3. Make sure**Startup type** is set to**Automatic** and**Service status** is**Running** . Then click**OK** to save changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/wlan-autoconfig-startup-type.jpg)
 
 Restart your PC and see if your Wi-Fi shows up.
 
 If you still face the same issue, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Run network commands
 
@@ -143,8 +146,30 @@ If you still face the same issue, try the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run dialog. Then type**cmd** and press**Ctrl** ,**Shift,** and**Enter** simultaneously to run**Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-cmd.jpg)
 2. If you are prompted for permission by User Account Control, click**Yes** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/cmd-uac-yes.jpg)
 3. At the command prompt, type**netsh winsock reset** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/winsock-reset.jpg)
 4. Type**netsh int ip reset** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-reset.jpg)
@@ -154,6 +179,13 @@ If you still face the same issue, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-renew.jpg)
 7. Type**ipconfig /flushdns** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-flushdns.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you’ve run all those commands, restart your computer and try to connect to the Wi-Fi network.
 
@@ -167,23 +199,18 @@ If this method doesn’t help, try the last fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-start-settings.jpg)
 2. Select**Network & internet** , then click**Advanced network settings** .  
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-advanced-network-settings.jpg)
 3. Under More settings, click**Network reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-network-reset.jpg)
 4. Click**Reset now** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-reset-now.jpg)
 5. Click**Yes** to confirm again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/network-reset-yes.jpg)
@@ -210,5 +237,17 @@ Wait for your computer to restart, and see if that fixes the problem.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-premium-mac-tool-seamless-screen-plus-voice-logging/"><u>[New] 2024 Approved Premium Mac Tool Seamless Screen + Voice Logging</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-infinite-rotation-video-anchors/"><u>[New] In 2024, Infinite Rotation Video Anchors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-kickstart-your-telegram-promotion-journey-tips-for-newbies/"><u>[New] Kickstart Your Telegram Promotion Journey Tips for Newbies</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-a-strategic-guide-to-unlocking-worlds-secrets-via-vr-for-2024/"><u>[Updated] A Strategic Guide to Unlocking World's Secrets via VR for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-naming-success-strategies-for-engaging-titles/"><u>[Updated] In 2024, Naming Success Strategies for Engaging Titles</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-microsoft-print-to-pdf-not-responding-in-windows-10-and-windows-11-environments/"><u>Effective Solutions for Microsoft Print to PDF Not Responding in Windows 10 and Windows 11 Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restoring-proper-audio-functionality-in-youtube-applications-affected-by-sound-renderer-glitches-on-windows-10-devices/"><u>Guide to Restoring Proper Audio Functionality in YouTube Applications Affected by Sound Renderer Glitches on Windows 10 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205309142-how-to-correctly-align-a-laptop-display-no-more-inverted-screens/"><u>How to Correctly Align a Laptop Display: No More Inverted Screens!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transformez-vos-images-webp-en-tiff-facilement-et-gratuitement-sur-internet-solution-de-conversion-movavi/"><u>Transformez Vos Images WebP en TIFF Facilement Et Gratuitement Sur Internet - Solution De Conversion Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-techniques-for-usb-flash-drive-recognition-issues/"><u>Troubleshooting Techniques for USB Flash Drive Recognition Issues</u></a></li>
+</ul></div>
 

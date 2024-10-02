@@ -1,0 +1,195 @@
+---
+title: "Solving the Puzzle: How to Fix a Sluggish Loading League of Legends Game"
+date: 2024-09-30T04:16:43.703Z
+updated: 2024-10-02T01:26:06.560Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: "This Article Describes Solving the Puzzle: How to Fix a Sluggish Loading League of Legends Game"
+excerpt: "This Article Describes Solving the Puzzle: How to Fix a Sluggish Loading League of Legends Game"
+thumbnail: https://thmb.techidaily.com/02e725c673b3c10c639720505ea896a1091c0eab71839b6a6c2629d037059245.jpg
+---
+
+## Accelerate Your League of Legends Installations: No More Sluggish Downloads
+
+League of Legends is a world popular game, but the slow download speed can easily drive you crazy. Don’t worry, you’re not alone. Fortunately, there are some ways to improve the slow downloads.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/nordvpn-icon.png) **NordVPN**
+
+**Stop ISP Throttling with One Click**
+
+[**Get NordVPN**](https://r.brandreward.com?key=3882aba4cadd4473e0195097fdf20855&url=https://www.nordvpn.com&id=drivereasyen103640abanner)
+
+ Before you try the following fixes, you need to make sure this slow speed issue only happened on League of Legends, which means it’s nothing to do with your internet speed. Otherwise, you may need to check your internet connection first.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Try these fixes
+
+ You don’t have to try them all; just work your way down the list until you find the one that works for you.
+
+**[1. Launch as administrator](https://tools.techidaily.com/drivereasy/download/)**
+
+**[2.](https://tools.techidaily.com/drivereasy/download/)** [**Turn off Windows Firewall**](https://tools.techidaily.com/drivereasy/download/)
+
+**[3. Manually install .NET framework 3.5](https://tools.techidaily.com/drivereasy/download/)**
+
+**[Bonus: Update your drivers](https://tools.techidaily.com/drivereasy/download/)**
+
+---
+
+### Method 1: Launch as administrator
+
+ The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, League of Legends can make full use of its features, running its function properly. So run it as an administrator to see if this fixes the slow download issue.
+
+1. Press**Ctrl + Shift + Esc** key together on your keyboard to open the**Task Manager** .
+2. Find League of Legends program. Right-click on it and click**Open file location** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/file.jpg)
+3. In the file, find the**LOL Launcher.exe** .
+4. Right-click on it and click**Run as administrator** .
+
+Downloading again to see if it works.
+
+---
+
+### Method 2: Turn off Windows Firewall
+
+ Windows Firewall supposes to protect your computer from malware, but sometimes it may cause trouble. It may block some features of League of Legends which result in low speed downloading. So you can try to turn off Windows Firewall to solve the “League of Legends download slow” issue.
+
+1. Click the Start button, type**windows firewall** in the search box and press the**Enter** key to open**Windows Defender Firewall** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
+2. Click**Turn Windows Defender Firewall on or off** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
+3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Re-download to check.
+
+**Note** : If it doesn’t work, you must**turn on** Windows Firewall to protect your computer.  
+ Then move to the next fix.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Method 3: Manually install .NET framework 3.5
+
+ .NET Framework is a software that runs on Microsoft Windows. It is one of the key software which League of Legends relies on. If nothing wrong with the game, the issue might be related to Microsoft .NET Framework.
+
+ So you can[download](https://www.microsoft.com/en-sg/download/details.aspx?id=21) and install the framework to solve the issue.
+
+---
+
+### Bonus: Update your drivers
+
+ Missing or outdated drivers can cause many issues. Updating If you want to have better gaming experience and prevent potential problems, you’re recommended to keep your drivers update to date.
+
+ There are two ways you can update your driver: manually and automatically.
+
+**[Option 1 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
+
+OR
+
+**[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/fixed-league-of-legends-download-slow-issue/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+#### **Option 1 –** **Download and install the driver manually**
+
+ You can download graphics drivers from the manufacturer official website. Search for the model you have and find the correct driver that suits your specific operating system. Then download the driver manually.
+
+#### **Option 2 – Automatically update drivers**
+
+ If you don’t have time or patience to manually update your network drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the **FREE** or the **Pro** version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a **30-day money back guarantee** ):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
+3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
+ Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+---
+
+---
+
+ So there it is – 3 ways to fix **League of Legends download slow issue** . We hope one of these fixes can help. If you have any questions, feel free to add a comment below and let us know.
+
+* [League of Legends](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-strategies-to-enhance-your-youtube-video-positioning/"><u>[New] In 2024, Strategies to Enhance Your YouTube Video Positioning</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-your-content-pc-video-editing-for-effective-youtube-presentations-for-2024/"><u>[Updated] Elevate Your Content PC Video Editing for Effective YouTube Presentations for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-and-fixing-the-update-failed-message-in-warframe-a-comprehensive-guide/"><u>Decoding and Fixing the 'Update Failed' Message in Warframe – A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-new-world-conquered-the-easy-anti-cheat-challenge-now-launching-smoothly/"><u>How New World Conquered the Easy Anti-Cheat Challenge, Now Launching Smoothly</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-set-up-wake-on-lan-functionality-on-your-laptop-with-windows-10-or-11/"><u>How to Set Up Wake-on-LAN Functionality on Your Laptop with Windows 10 or 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-msmpengexe-high-cpu-usage-on-windows-10-complete-guide/"><u>How to Stop MsMpEng.exe High CPU Usage on Windows 10: Complete Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-tecno-phantom-v-flip-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Tecno Phantom V Flip to Protect Your Individual Information</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-motorola-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Motorola</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/melodious-feed-infusing-ig-stories-with-music-for-2024/"><u>Melodious Feed Infusing IG Stories With Music for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-excessive-cpu-load-caused-by-windows-sound-driver-a-step-by-step-guide/"><u>Resolve Excessive CPU Load Caused by Windows Sound Driver - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-how-to-fix-microsoft-store-not-responding/"><u>Solving the Issue: How to Fix 'Microsoft Store Not Responding'</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-the-sims-4-wont-open-dilemma/"><u>Step-by-Step Fixes for the Sims ^[4] Won't Open Dilemma</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-on-latest-gadgets/"><u>Tom's Tech Review: Expert Insights on Latest Gadgets</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-microsofts-error-80240020-on-your-pc-for-successful-windows-11-setup/"><u>Troubleshooting Microsoft's Error 80240020 on Your PC for Successful Windows 11 Setup</u></a></li>
+</ul></div>
+

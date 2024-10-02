@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Why Your Bluetooth Keyboard Won't Pair with Computer"
-date: 2024-09-22T23:43:09.338Z
-updated: 2024-09-26T16:31:30.970Z
+date: 2024-09-26T04:05:57.548Z
+updated: 2024-10-01T23:42:28.392Z
 tags:
   - win11
   - win10
@@ -97,19 +97,6 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
@@ -121,40 +108,48 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
-
- Launch the application that crashed with Error 0x887A0006 to see if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
   <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Launch the application that crashed with Error 0x887A0006 to see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Modify the Registry with Notepad
@@ -164,6 +159,13 @@ If this issue persists, don’t worry. Try the next fix, below.
 1. On your keyboard, press**the Windows logo key** and type**notepad** , then click**Open** to open Notepad.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Open-Notepad.png)
 2. **Copy and paste** the following text into Notepad:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **If you are using a 64-bit system** , copy and paste this:  
  _Windows Registry Editor Version 5.00_  
@@ -179,6 +181,14 @@ If this issue persists, don’t worry. Try the next fix, below.
 4. Save the file as_fix.reg_ to the desktop. Please make sure you select the Save type as “**All Files** ” and the encoding as “**ANSI** “. Then close Notepad.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/save-as-fix-reg.png)
 5. **Double-click** the .reg file you saved. Click**Yes** when the UAC prompts. Then a prompt from Registry Editor will pop up. Click**Yes** to continue.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor.png)
 6. Click**OK** when Windows tells you the keys and values have been successfully added to the registry.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor-2.png)
@@ -189,15 +199,16 @@ If this issue persists, don’t worry. Try the next fix, below.
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the Run dialog. Type**regedit** and press**Enter** to open**Registry Editor** . You’ll be prompted for permission, click**Yes** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 2. Go to **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\GraphicsDrivers** and locate a key called**TdrDelay** . Right-click on it and select**Delete** to delete it.  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit-tdrdelay.png)
-3. Restart your PC to save the change.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit-tdrdelay.png)
+3. Restart your PC to save the change.
 
 If this fix doesn’t work for you, try the next fix, below.
 
@@ -208,13 +219,6 @@ If this fix doesn’t work for you, try the next fix, below.
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
@@ -229,6 +233,14 @@ If this fix doesn’t work for you, try the next fix, below.
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 ### Fix 7: Adjust your Windows system for the best performance
@@ -239,22 +251,8 @@ If this fix doesn’t work for you, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-system-properties.png)
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
 
@@ -283,17 +281,18 @@ If this fix doesn’t work for you, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-favorites-compiled-top-6-fb-lite-downloads/"><u>[Updated] In 2024, Favorites Compiled #Top 6 FB Lite Downloads</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-xs-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone XS Max</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/android-voicegpt-tutorial-engage-with-ai/"><u>Android VoiceGPT Tutorial: Engage with AI</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-strategies-to-correct-opengl-glitches-in-your-minecraft-gameplay/"><u>Expert Strategies to Correct OpenGL Glitches in Your Minecraft Gameplay</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-casting-issues-to-devices-from-your-windows-11-pc/"><u>How to Fix Casting Issues to Devices From Your Windows 11 PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-nubia-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Nubia Phone When You Forget the Password</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-choice-8-best-converters-from-sub-to-srt/"><u>In 2024, Expert Choice 8 Best Converters From Sub to Srt</u></a></li>
-<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-convenient-sx620-a-powerful-photography-ally/"><u>The Convenient SX620: A Powerful Photography Ally</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-why-isnt-my-hosted-network-activating/"><u>Troubleshooting Windows 11: Why Isn't My Hosted Network Activating?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unveiling-the-mystery-writing-hooks-for-vlogger-scripts-for-2024/"><u>Unveiling the Mystery Writing Hooks for Vlogger Scripts for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-guide-tackling-intense-cpu-drains-attributed-to-wudfhostexe/"><u>Windows 10 Guide: Tackling Intense CPU Drains Attributed to WUDFHost.exe</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-discover-how-to-get-sounds-from-twitter-vids/"><u>[New] 2024 Approved Discover How to Get Sounds From Twitter Vids</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-best-nintendo-switch-fighter-ranks-max-156/"><u>[Updated] Best Nintendo Switch Fighter Ranks (Max 156)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-repeat-revelry-televised-looping-of-online-media-content/"><u>[Updated] Repeat Revelry Televised Looping of Online Media Content</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boost-your-game-presence-with-free-voice-alteration-tips-for-free-fire/"><u>2024 Approved Boost Your Game Presence with Free Voice Alteration Tips for Free Fire</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-the-green-boot-failure-screen-in-windows-10-and-11/"><u>How to Correct the Green Boot Failure Screen in Windows 10 & 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/purely-native-drive-duality-creation-guide/"><u>Purely Native Drive Duality Creation Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-innovative-uses-of-chatgpt-as-a-coding-companion/"><u>Top 6 Innovative Uses of ChatGPT as a Coding Companion</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-your-logitech-webcam-audio-heres-how-to-fix-it/"><u>Trouble With Your Logitech Webcam Audio? Here's How to Fix It</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixes-for-when-you-cant-reach-your-favorite-steam-games/"><u>Troubleshooting Guide: Fixes for When You Can't Reach Your Favorite Steam Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-guide-enable-support-for-your-graphics-card-in-fortnite-on-windows/"><u>Update Guide: Enable Support for Your Graphics Card in Fortnite on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/valorant-tech-guide-ultimate-solutions-for-resolving-screen-rippling/"><u>Valorant Tech Guide: Ultimate Solutions for Resolving Screen Rippling</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-to-do-when-you-encounter-a-missing-winhttpdll-file/"><u>What To Do When You Encounter a Missing 'Winhttp.dll' File</u></a></li>
 </ul></div>
 

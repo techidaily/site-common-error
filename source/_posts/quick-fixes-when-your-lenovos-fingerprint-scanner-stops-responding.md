@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes When Your Lenovo's Fingerprint Scanner Stops Responding
-date: 2024-09-23T19:25:37.231Z
-updated: 2024-09-26T22:13:59.461Z
+date: 2024-09-29T19:58:06.101Z
+updated: 2024-10-01T16:14:21.608Z
 tags:
   - win11
   - win10
@@ -38,10 +38,10 @@ Both fixes below work in Windows 10, 8 and 7.
 2. [**Update your touchpad driver**](#F2)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Enable touchpad in settings
@@ -53,37 +53,24 @@ Both fixes below work in Windows 10, 8 and 7.
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Hopefully this turns your touchpad back on and it works propely again. If the problem persists, try**Fix 2** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your touchpad driver
 
@@ -105,6 +92,13 @@ Both fixes below work in Windows 10, 8 and 7.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](http://wp.easeware.net/wp-content/uploads/2018/04/img_5ac1a01192ca4.png)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3df9ad3f86c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Check and see if your Lenovo touchpad is back to life again. ?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -131,22 +125,22 @@ Both fixes below work in Windows 10, 8 and 7.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/solved-error-code-0x80073cf9-in-windows-11-store/"><u>[Solved] Error Code 0X80073cf9 in Windows 11 Store</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-exploring-new-dimensions-q500-typhoon-adventure/"><u>[Updated] Exploring New Dimensions Q500 Typhoon Adventure</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-tweet-treasure-trove-the-most-popular-tweeps-for-2024/"><u>[Updated] Tweet Treasure Trove The Most Popular Tweeps for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/destiny-2-not-working-fix-connection-errors-to-the-game-servers-here/"><u>Destiny 2 Not Working? Fix Connection Errors to the Game Servers Here!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/game-gurus-unite-winning-against-computer-lag-with-these-tricks/"><u>Game Gurus Unite: Winning Against Computer Lag with These Tricks!</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-windows-11-bluetooth-back-fast-and-effective-fixes/"><u>Get Your Windows 11 Bluetooth Back: Fast and Effective Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-enable-miracast-on-unsupported-graphics-drivers-a-comprehensive-fix/"><u>How to Enable Miracast on Unsupported Graphics Drivers - A Comprehensive Fix</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-top-must-know-elements-about-youtube-tv-subscription/"><u>In 2024, Top Must-Know Elements About YouTube TV Subscription</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-visualverve-tips-for-resizing-images-in-instagram/"><u>In 2024, VisualVerve Tips for Resizing Images in Instagram</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-replacing-missing-xinput13dll-files/"><u>Mastering The Art: Replacing Missing XINPUT1_3.dll Files</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/navigating-to-your-keys-easily-check-out-our-roundup-of-2024s-finest-finders/"><u>Navigating to Your Keys Easily? Check Out Our Roundup of 2024'S Finest Finders</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-itel-a60s-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Itel A60s</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-dns-error-instantly-using-our-4-step-guide/"><u>Resolve 'DNS Error' Instantly Using Our 4 Step Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/solving-the-issue-unsuccessful-attempts-at-launching-the-witcher-3-wild-hunt/"><u>Solving the Issue: Unsuccessful Attempts at Launching The Witcher 3: Wild Hunt</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-common-issues-how-to-prevent-age-of-empires-4-from-collapsing-mid-game/"><u>Troubleshooting Common Issues: How to Prevent Age of Empires 4 From Collapsing Mid-Game</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-windows-updateinstallation-error-0x80070643/"><u>Troubleshooting Guide: Resolving Windows Update/Installation Error 0X80070643</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-symbol-a-guide-to-solving-non-functional-special-characters/"><u>Troubleshooting the '@' Symbol: A Guide to Solving Non-Functional Special Characters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-kinemasters-features-expert-tips-and-best-online-rivals/"><u>[New] Navigating KineMaster's Features Expert Tips & Best Online Rivals</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-5-best-ps1-emulators-for-pc/"><u>[New] Top 5 Best Ps1 Emulators for PC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-creative-components-free-youtube-visual-resources/"><u>[Updated] 2024 Approved Creative Components FREE YouTube Visual Resources</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-capture-to-share-a-quick-guide-to-instagram-video-uploads-on-desktop-for-2024/"><u>[Updated] From Capture to Share A Quick Guide to Instagram Video Uploads on Desktop for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-first-flight-experience-the-best-beginner-drones/"><u>2024 Approved First Flight Experience The Best Beginner Drones</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-vs-claude-ai-is-claude-ai-the-better-chatbot/"><u>ChatGPT Vs. Claude AI: Is Claude AI the Better Chatbot?</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-rapid-display-changes-in-windows-11-step-by-step-guide/"><u>Fixing Rapid Display Changes in Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-shockwave-flash-compatibility-with-google-chrome/"><u>Fixing the Issue: Shockwave Flash Compatibility with Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-your-printscreen-back-working-in-windows-1110-solution-found/"><u>How to Get Your PrintScreen Back Working in Windows 11/10 (Solution Found)</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-power-issues-why-your-plugged-in-laptop-isnt-charging-and-how-to-solve-it/"><u>Resolving Windows 11 Power Issues: Why Your Plugged-In Laptop Isn't Charging & How to Solve It</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-overcome-gtfo-program-crashes/"><u>Step-by-Step Guide to Overcome GTFO Program Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-rapid-eyes-advanced-tricks-to-stop-flickering-cursor/"><u>Tackling Rapid Eyes: Advanced Tricks to Stop Flickering Cursor</u></a></li>
+<li><a href="https://common-error.techidaily.com/taming-microsofts-compatibility-telemetry-to-reduce-hard-drive-usage-on-windows-11-systems/"><u>Taming Microsoft's Compatibility Telemetry to Reduce Hard Drive Usage on Windows 11 Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-intermittent-issues-with-your-wireless-mouse-in-windows-1110/"><u>Troubleshooting Guide: Fixing Intermittent Issues with Your Wireless Mouse in Windows 11/10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-unresponsive-buttons-in-windows-operating-systems-win-10-11/"><u>Troubleshooting Unresponsive Buttons in Windows Operating Systems (Win 10, 11)</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-blaze-2-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Blaze 2 5G</u></a></li>
 </ul></div>
 

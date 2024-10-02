@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Potential of File Explorer on Windows 10: Expert Advice Awaits"
-date: 2024-09-20T18:34:22.757Z
-updated: 2024-09-27T00:04:08.268Z
+date: 2024-10-01T02:51:58.960Z
+updated: 2024-10-01T18:22:55.374Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
  Keep your proxy settings clean can prevent your system from navigating to many different and unresourceful servers. Go with the steps below to clean your proxy settings.
@@ -81,13 +74,6 @@ Find and click to open Command Prompt from Start menu.
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3\. Change DNS Servers
 
  If there were any issue of your ISP(Internet service provider), it could also lead to Error 0x8024402c. Change DNS Servers into public one can solve it.
@@ -99,10 +85,10 @@ Now try to install Windows Updates now.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Now Internet Connection window is open.
@@ -113,6 +99,19 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Locate Use the following DNS server addresses.
 
  Set**Preferred DNS server** to be**8.8.8.8**
@@ -122,6 +121,13 @@ Double-click on your active Network Adapter.
  **Note:** That’s Google’s public DNS server addresses.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -141,13 +147,6 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
  Then click **OK** .
@@ -163,10 +162,10 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
@@ -180,6 +179,19 @@ If the fixes above didn’t serve you, try this one.
  Name the new value **UseWUServer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -202,16 +214,17 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-photo-cinematic-conversions-sonic-enhancements/"><u>[Updated] 2024 Approved Photo Cinematic Conversions Sonic Enhancements</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twittersphere-treasures-primes-top-watchers-and-likes/"><u>[Updated] Twittersphere Treasures Prime’s Top Watchers & Likes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-youtubes-potential-essential-tips-and-techniques-for-optimal-titles/"><u>[Updated] Unlock YouTube's Potential Essential Tips & Techniques for Optimal Titles</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/classroom-aid-selecting-effective-recorders/"><u>Classroom Aid Selecting Effective Recorders</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/download-free-mp3-resampler-software-improve-audio-quality-now/"><u>Download Free Mp3 Resampler Software - Improve Audio Quality Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-battleye-anti-cheat-integration-problems-a-step-by-nstep-guide/"><u>Effective Fixes for BattlEye Anti-Cheat Integration Problems: A Step-by-nStep Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-getting-your-print-screen-feature-to-work-again-in-windows-1111-systems/"><u>Expert Guide: Getting Your Print Screen Feature to Work Again in Windows 11/11 Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/guaranteed-fix-for-windows-update-error-code-0x80070002-simple-solutions/"><u>Guaranteed Fix for Windows Update Error: Code 0X80070002 | Simple Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-missing-dependency-errors-in-windows-10-software-development/"><u>Troubleshooting Missing Dependency Errors in Windows 10 Software Development</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-non-functional-print-to-pdf-feature-in-windows-11/"><u>Troubleshooting the Non-Functional Print to PDF Feature in Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleash-the-power-of-ai-in-your-crypto-project-with-our-picks-the-best-8-chatgpt-integrations/"><u>Unleash the Power of AI in Your Crypto Project with Our Picks: The Best 8 ChatGPT Integrations</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-vision-realized-creating-and-launching-an-engaging-youtube-chanel/"><u>[New] 2024 Approved A Vision Realized Creating and Launching an Engaging YouTube Chanel</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-perfect-blend-of-style-and-functionality-in-free-macdrawers/"><u>[New] In 2024, The Perfect Blend of Style & Functionality in Free MacDrawers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-mastering-screen-capture-with-1-5-of-the-best-pc-snipers/"><u>[Updated] In 2024, Mastering Screen Capture with #1-#5 of the Best Pc Snipers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cpu-cooling-essentials-the-ultimate-guide-to-choosing-top-ranked-thermal-pastes/"><u>CPU Cooling Essentials : The Ultimate Guide to Choosing Top-Ranked Thermal Pastes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fast-fixes-to-skyrocket-your-podcast-live-for-2024/"><u>Fast Fixes to Skyrocket Your Podcast Live for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-issue-unable-to-execute-file-in-the-temporary-directory-setup-aborted-error-5-access-is-denied/"><u>Fix Issue: “Unable to Execute File in the Temporary Directory. Setup Aborted. Error 5: Access Is Denied.”</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-power-to-a-non-charging-playstation-4-remote/"><u>How to Restore Power to a Non-Charging PlayStation 4 Remote</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-quick-and-easy-snapchat-image-manipulation-techniques/"><u>In 2024, Quick and Easy Snapchat Image Manipulation Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-the-fix-for-error-0x800f0831-a-step-by-step-guide-using-windows-updates/"><u>Navigating the Fix for Error 0X800f0831 – A Step-by-Step Guide Using Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-unplayable-dvds-in-microsoft-windows/"><u>Solving the Problem of Unplayable DVDs in Microsoft Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-replacing-missing-keys-on-your-notebook/"><u>Step-by-Step Guide: Replacing Missing Keys on Your Notebook</u></a></li>
 </ul></div>
 

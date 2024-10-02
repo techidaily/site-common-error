@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Microsoft Print to PDF Not Working in Windows 10/11"
-date: 2024-09-13T19:40:28.657Z
-updated: 2024-09-20T18:07:19.602Z
+date: 2024-09-28T23:27:00.506Z
+updated: 2024-10-01T23:59:37.184Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
 
 1. Type **media**  in the search box from Start. Then click **Windows Media Player**  on the top.  
@@ -58,21 +65,45 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
 3. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Close the Windows Media Player window.
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
@@ -87,15 +118,16 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0e8904a209.jpg)
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
- Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
-4. Reboot your Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
+4. Reboot your Windows 10.
 
 5. Try the Cast to Device feature again to see if it succeeds.
 
@@ -118,5 +150,21 @@ thumbnail: https://thmb.techidaily.com/ab4dfc265d3ec072f529482c24c8089138367c7bb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-mac-os-sierra-video-editing-apps/"><u>2024 Approved Top 5 Mac OS Sierra Video Editing Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-watch-accuracy-woes-correcting-incorrect-pedometer-readings/"><u>Apple Watch Accuracy Woes? Correcting Incorrect Pedometer Readings</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disabling-microsofts-live-tiles-on-your-windows-11-start-menu-a-step-by-step-guide/"><u>Disabling Microsoft's Live Tiles on Your Windows 11 Start Menu: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-when-your-windows-11-mouse-cant-right-click/"><u>Easy Fixes for When Your Windows 11 Mouse Can't Right-Click</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-windows-1110-endless-reboot-loop-solutions-unveiled/"><u>Fixes for Windows 11/10 Endless Reboot Loop: Solutions Unveiled</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v30-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V30 Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/luminous-techniques-for-engaging-vlogs-for-2024/"><u>Luminous Techniques for Engaging Vlogs for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-art-of-fixing-touchscreens-in-windows-10-with-these-proven-techniques-5/"><u>Master the Art of Fixing Touchscreens in Windows 10 with These Proven Techniques [5]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-free-video-template-resources-for-2024/"><u>Top Free Video Template Resources for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-ultimate-guide-to-resolving-issues-with-your-corsair-hs50-microphone/"><u>Troubleshooting and Fixing: The Ultimate Guide to Resolving Issues with Your Corsair HS50 Microphone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-what-to-do-if-your-torrent-download-fails/"><u>Troubleshooting Steps: What to Do If Your Torrent Download Fails?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Honor Play 8T? | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fix Your PC: How to Troubleshoot a Non-Charging Laptop with Windows 11"
-date: 2024-09-24T17:01:42.512Z
-updated: 2024-09-26T20:13:16.237Z
+date: 2024-09-30T20:12:19.807Z
+updated: 2024-10-01T23:10:13.671Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/9e3c28da8c3857f4b56c87999aa1c535996130081
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -50,22 +43,16 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -116,10 +103,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -129,10 +116,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -144,16 +131,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -166,6 +153,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -205,21 +199,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-how-to-use-google-trends-to-come-up-with-video-ideas/"><u>[New] In 2024, How to Use Google Trends to Come up with Video Ideas?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-redmi-note-12-proplus-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi Redmi Note 12 Pro+ 5G PC | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/achieve-flawless-live-videos-with-strategic-obs-utilization/"><u>Achieve Flawless Live Videos with Strategic OBS Utilization</u></a></li>
-<li><a href="https://win-forum.techidaily.com/bypassing-restrictions-install-windows-11-without-supported-cpu-compatibility/"><u>Bypassing Restrictions: Install Windows 11 Without Supported CPU Compatibility</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/diving-deep-into-the-creative-labs-2013-sound-blaster-zxr-honing-in-on-a-standout-flagship-model/"><u>Diving Deep Into the Creative Labs 2013 Sound Blaster ZXR: Honing in on a Standout Flagship Model</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-poco-x5-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Poco X5 Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-pubg-crashes-and-launch-issues-updated-for-2e4/"><u>How to Fix PUBG Crashes and Launch Issues (Updated for 2E4)</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-4k-clarity-unleashed-an-intense-study-on-the-31mu97-b-monitor/"><u>In 2024, 4K Clarity Unleashed - An Intense Study on the 31MU97-B Monitor</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-guide-updating-your-windows-7-webcam-software/"><u>Quick Guide: Updating Your Windows 7 Webcam Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issues-with-battleye-service-initialization-error-a-comprehensive-fix/"><u>Resolved Issues with BattlEye Service Initialization Error - A Comprehensive Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-vanished-bluetooth-symbol-in-windows-11/"><u>Resolving the Vanished Bluetooth Symbol in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-fixing-your-lenovos-malfunctioning-function-key-issue/"><u>Step-by-Step Solution for Fixing Your Lenovo's Malfunctioning 'Function' Key Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-dealing-with-sudden-blackouts-in-windows-interface/"><u>Step-by-Step Solutions for Dealing with Sudden Blackouts in Windows Interface</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/techniques-to-resolve-non-standard-codings/"><u>Techniques to Resolve Non-Standard Codings</u></a></li>
-<li><a href="https://common-error.techidaily.com/unwanted-restart-alert-how-to-prevent-your-pc-from-starting-up-solo-windows-11/"><u>Unwanted Restart Alert: How to Prevent Your PC From Starting Up Solo (Windows 11)</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-are-my-desktop-icons-gone-solving-the-windows-10-dilemma/"><u>Why Are My Desktop Icons Gone? Solving the Windows 10 Dilemma</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-pixelstreamer-pro-enhanced-os-recorder/"><u>[New] 2024 Approved PixelStreamer Pro Enhanced OS Recorder</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-harness-the-power-of-editing-for-fashion-hauls/"><u>[Updated] In 2024, Harness the Power of Editing for Fashion Hauls</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-youtube-shorts-earning-strategies-crucial-elements-possible-returns-for-2024/"><u>[Updated] Youtube Shorts Earning Strategies Crucial Elements, Possible Returns for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-sleep-cycles-for-win11-users/"><u>Efficient Sleep Cycles for Win11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-tutorial-perform-a-fresh-start-on-windows-10/"><u>Effortless Tutorial: Perform a Fresh Start on Windows 10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/elevating-listeners-interest-writing-podcast-summaries-for-2024/"><u>Elevating Listeners' Interest Writing Podcast Summaries for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207765003-error-free-windows-updates-overcome-error-8007000e-effortlessly/"><u>Error-Free Windows Updates: Overcome Error 8007000E Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-distorted-sound-while-watching-youtube-videos-on-a-windows-10-machine-error-solutions-explored/"><u>How to Fix Distorted Sound While Watching YouTube Videos on a Windows 10 Machine: Error Solutions Explored</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-becoming-a-live-broadcast-pro-the-essential-guide-to-wirecast-and-fb/"><u>In 2024, Becoming a Live Broadcast Pro The Essential Guide to Wirecast and FB</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-11-pro-max-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-video-quality-on-youtube-top-formats-revealed/"><u>In 2024, Streamlining Video Quality on YouTube – Top Formats Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-installation-hurdles-a-comprehensive-guide-to-handling-error-1-grotesquely/"><u>Overcome Installation Hurdles: A Comprehensive Guide to Handling Error 1 Grotesquely</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-unfreezing-a-frozen-desktop-experience/"><u>Step-by-Step Solutions for Unfreezing a Frozen Desktop Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/streamlining-compute-power-resolving-excessive-cpu-consumption-by-wdf-fixes/"><u>Streamlining Compute Power: Resolving Excessive CPU Consumption by WDF Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-insight-into-toms-digital-tools-and-components/"><u>The Ultimate Insight Into Tom's Digital Tools & Components</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-file-explorer-fix-it-swiftly-on-windows-10/"><u>Trouble with File Explorer? Fix It Swiftly on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-non-responsive-brightness-buttons-in-windows-10/"><u>Ultimate Fixes for Non-Responsive Brightness Buttons in Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-your-options-is-revo-uninstaller-indispensable-for-clean-software-removals/"><u>Understanding Your Options: Is Revo Uninstaller Indispensable for Clean Software Removals?</u></a></li>
+<li><a href="https://techidaily.com/vpn-for-ipad-how-to-setup-vpn-on-ipad-quickly-and-easily/"><u>VPN for iPad | How to Setup VPN on iPad | Quickly & Easily</u></a></li>
 </ul></div>
 

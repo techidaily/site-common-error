@@ -1,7 +1,7 @@
 ---
 title: "PUBG Construction Glitches Resolved: A Guide to Uninterrupted Gameplay"
-date: 2024-09-23T23:15:56.415Z
-updated: 2024-09-26T21:19:52.523Z
+date: 2024-09-27T16:37:55.738Z
+updated: 2024-10-01T17:31:35.304Z
 tags:
   - win11
   - win10
@@ -59,16 +59,16 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (You can upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  right now with a discount, or activate the 7-day free trial version. With the trial version, you will have access to_all features_ of the Pro version such as high-speed download and one-click install. You won’t be charged before your 7-day trial ends and you can easily cancel any time during the trial period.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/graphic-chipset-1.jpg)
 4. Restart your computer and check if your game now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -80,23 +80,24 @@ OR
 2. Type**temp** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa66889b860.png)
 3. **Select** all files in the Temp folder and**delete** them.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa66cf0cc78.jpg)
-4. Relaunch your game and check if your problem is resolved. If not, try Method 4, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa66cf0cc78.jpg)
+4. Relaunch your game and check if your problem is resolved. If not, try Method 4, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4: Run a memory check
@@ -107,26 +108,19 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa67ec5aba2.png)
 2. If you want to run the check immediately, click**Restart now and check for problems (recommended)** . If you want to check later, click**Check for Problems the next time I start my computer** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa67cd8214e.jpg)
 3. When Windows restarts, this screen will appear showing the progress of the check and the number of passes it’ll run on your memory card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa89992510a.jpg)  
  If you don’t see any errors, your memory card probably isn’t causing your problem, and you can move on to Method 5, below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Method 5: Adjust the size of your virtual memory
 
@@ -141,12 +135,35 @@ OR
 3. From the**Advanced** tab, click**Change…**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6e0a6f204.jpg)
 4. De-select**Automatically manage paging file size for all drives** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa6e4d0df27.jpg)
 5. **Select** your system drive ( the hard drive or partition where you installed your system — usually**C:** ), and select**Custom size** , enter the**Initial size** and**Maximum size** for your virtual memory. Click**Set** , then**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * **Initial size** — This value varies, depending on your computer. If you’re not sure what value to use, enter the**Recommended** size.  
    * **Maximum size** — Don’t set this value too high. It should be about**1.5 times** the size of your physical RAM. For example, a computer with 4 GB (4096 MB) of RAM should have no more than about 6,144 MB virtual memory (4,096 MB x 1.5).  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa72695eb05.jpg)
 6. Restart your game and check if your problem is resolved. If not, try Method 6, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -160,21 +177,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa7493ccb0a.jpg)
 3. It should begin running a system scan and will take some time. When it finishes, restart your computer and check if it has fixed your problem. If not, try the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 7: Check for viruses and malware
 
@@ -205,24 +208,14 @@ Enjoy your game!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-scriptwriters-playbook/"><u>[New] A Scriptwriter's Playbook</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-key-to-gain-likes-in-tiktok-unpack-sessions/"><u>[Updated] The Key to Gain Likes in TikTok Unpack Sessions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comprehensive-guide-for-digital-video-photo-effects-application-for-2024/"><u>Comprehensive Guide for Digital Video Photo Effects Application for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/corsair-keyboard-dilemma-solved-now-sparklingly-lit/"><u>Corsair Keyboard Dilemma Solved – Now Sparklingly Lit!</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-ways-to-restore-your-dvdcd-rom-hardware-device-on-windows-11-understanding-and-fixing-configuration-error-code-19/"><u>Effective Ways to Restore Your DVD/CD-ROM Hardware Device on Windows 11: Understanding and Fixing Configuration Error (Code 19)</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-audio-experience-with-windows-11-settings/"><u>Elevate Your Audio Experience with Windows 11 Settings</u></a></li>
-<li><a href="https://common-error.techidaily.com/exploring-winre-sfc-and-dism-tools-for-effective-windows-11-system-restoration/"><u>Exploring WinRE, SFC & DISM Tools for Effective Windows 11 System Restoration</u></a></li>
-<li><a href="https://fox-info.techidaily.com/fast-track-fun-turning-animated-art-into-sticky-messages-quickly/"><u>Fast Track Fun Turning Animated Art Into Sticky Messages Quickly</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-non-functional-mic-issues-in-windows-10/"><u>Fixes for Non-Functional Mic Issues in Windows 10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-remove-background-in-figma-a-comprehensive-guide-for-2024/"><u>How To Remove Background In Figma A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-update-software-for-your-logitech-m510-mouse/"><u>How to Successfully Update Software for Your Logitech M510 Mouse</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/phonetic-mastery-demystifying-tough-lexical-items/"><u>Phonetic Mastery: Demystifying Tough Lexical Items</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-1011-non-responsive-acer-laptop-keys/"><u>Resolving: Windows 10/11, Non-Responsive Acer Laptop Keys</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/stability-strategies-for-players-overcoming-crashes-in-age-of-empires-iv-pc-edition/"><u>Stability Strategies for Players: Overcoming Crashes in Age of Empires IV PC Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208158927-steam-update-woes-heres-how-you-can-ensure-successful-downloads/"><u>Steam Update Woes? Here's How You Can Ensure Successful Downloads!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-missing-trackpad-cursor-problem-on-windows-11/"><u>Troubleshooting the Missing TrackPad Cursor Problem on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstick-valorant-from-its-constant-loading-screens-a-step-by-step-guide/"><u>Unstick Valorant From Its Constant Loading Screens - A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-strategies-for-handling-pc-reset-errors-on-windows-10-systems/"><u>Winning Strategies for Handling PC Reset Errors on Windows 10 Systems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-transform-your-old-vhs-with-new-online-techniques/"><u>[New] 2024 Approved Transform Your Old VHS with New Online Techniques</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-camon-20-pro-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Camon 20 Pro 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-conversations-a-guide-to-chatting-efficiently-with-mozilla-thunderbird/"><u>Mastering Conversations: A Guide to Chatting Efficiently with Mozilla Thunderbird</u></a></li>
+<li><a href="https://extra-information.techidaily.com/scheduling-zoom-on-android-a-step-by-step-approach/"><u>Scheduling Zoom on Android A Step-by-Step Approach</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-when-your-usb-to-hdmi-converter-wont-connect/"><u>Solving the Issue: When Your USB To HDMI Converter Won't Connect</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-overcoming-windows-update-error-0x800701f/"><u>Step-by-Step Guide: Overcoming Windows Update Error 0X80070#1F</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-tricks-to-thaw-your-stuck-windows-11-taskbar-quickly/"><u>Top Tricks to Thaw Your Stuck Windows 11 Taskbar Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/usb-error-no-more-eliminate-device-not-detected-pop-ups-forever/"><u>USB Error No More: Eliminate 'Device Not Detected' Pop-Ups Forever</u></a></li>
 </ul></div>
 

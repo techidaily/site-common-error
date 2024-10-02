@@ -1,7 +1,7 @@
 ---
 title: How to Repair the Broken Left Shift Keys on Your PC or Laptop
-date: 2024-09-15T16:06:45.325Z
-updated: 2024-09-20T17:55:22.649Z
+date: 2024-09-25T00:19:09.559Z
+updated: 2024-10-01T21:42:39.797Z
 tags:
   - win11
   - win10
@@ -57,6 +57,13 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
@@ -64,6 +71,13 @@ Follow these:
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -79,7 +93,27 @@ Follow these:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -120,12 +154,26 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-fbs-viral-anthems-list-crafting-your-number-one-song-for-2024/"><u>[New] FB's Viral Anthems List Crafting Your Number One Song for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-roi-with-effective-animated-social-media-campaigns-for-2024/"><u>[Updated] Mastering ROI with Effective Animated Social Media Campaigns for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-saving-movies-effortlessly-pc-mac-and-iosandroid/"><u>2024 Approved Saving Movies Effortlessly PC, Mac & iOS/Android</u></a></li>
+<li><a href="https://fox-making.techidaily.com/custom-subscriptions-per-client-personalized-software-licenses/"><u>Custom Subscriptions Per Client: Personalized Software Licenses</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-to-follow-guides-for-using-microsoft-file-explorer-in-windows-10/"><u>Easy-to-Follow Guides for Using Microsoft File Explorer in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-guide-for-resolving-error-0x80070002-during-windows-updates/"><u>Effortless Guide for Resolving 'Error 0X80070002' During Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-troubleshooting-steps-for-a-stuck-amd-ccc-panel-launch-issue/"><u>Effortless Troubleshooting Steps for a Stuck AMD CCC Panel Launch Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-hosted-network-could-not-be-started-error-on-windows-11/"><u>How to Fix 'Hosted Network Could Not Be Started' Error on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208712953-how-to-fix-an-unsuccessful-torrent-file-download-expert-tips/"><u>How to Fix an Unsuccessful Torrent File Download - Expert Tips</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-breathing-new-life-into-anime-with-impactful-tiktoks/"><u>In 2024, Breathing New Life Into Anime with Impactful TikToks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-digital-delights-the-finest-15-comedic-channels-on-youtube/"><u>In 2024, Digital Delights The Finest 15 Comedic Channels on YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-elite-entrance-selections-in-panzoids/"><u>In 2024, Elite Entrance Selections in Panzoids</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-whos-the-best-tivos-dvr-vs-comcasts-x1-platform/"><u>New 2024 Approved Whos the Best TiVos DVR vs Comcasts X1 Platform</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/resolving-the-issue-fixing-windows-1011-camera-error-code-0xa00f4244/"><u>Resolving the Issue: Fixing Windows 10/11 Camera Error Code 0xA00F4244</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-hp-laptop-webcam-malfunctions-on-windows-10/"><u>Solving the Issue: HP Laptop Webcam Malfunctions on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-complete-mastering-error-code-0xa00f4292-in-windows-cameras/"><u>Troubleshooting Complete: Mastering Error Code 0xA00F4292 in Windows Cameras</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-elevated-cpu-usage-from-wudfhostexe-under-windows-1-groovy-11/"><u>Troubleshooting Elevated CPU Usage From WUDFHost.exe Under Windows 1 Groovy 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexpected-shutdowns-on-windows-11/"><u>Unexpected Shutdowns on Windows 11</u></a></li>
+</ul></div>
 

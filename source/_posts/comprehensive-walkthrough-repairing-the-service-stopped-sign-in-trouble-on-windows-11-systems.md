@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Walkthrough: Repairing the 'Service Stopped' Sign-In Trouble on Windows 11 Systems"
-date: 2024-09-19T16:16:58.796Z
-updated: 2024-09-20T16:19:33.549Z
+date: 2024-09-30T17:10:52.649Z
+updated: 2024-10-01T21:29:12.229Z
 tags:
   - win11
   - win10
@@ -37,6 +37,19 @@ thumbnail: https://thmb.techidaily.com/11bd493dd0576b5128c521759756af9ef04692489
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Repair corrupted system files
 
  Windows system file corruption often leads to this issue. **If you’d like to repair all the corrupted system files ASAP** , try using **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a powerful tool that specializes in Windows repair.
@@ -58,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/11bd493dd0576b5128c521759756af9ef04692489
  If there’s any issue, then click the START REPAIR button on the lower-right corner, and with just one click, Fortect will start repairing the Windows OS on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)  
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Wait until your Windows system installed all the updates**
 
@@ -86,16 +106,16 @@ thumbnail: https://thmb.techidaily.com/11bd493dd0576b5128c521759756af9ef04692489
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-check-for-updates.jpg)
 3. Wait until Windows downloads and installs all the updates.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart Windows to see if your PC will get stuck on the screen of “Preparing to configure Windows” again. It’s recommended that you**plug in your PC** and give your Windows system a whole night to configure all the updates. Normally, a whole night is enough for your Windows system to handle all these updates.
 
  If your PC still gets stuck when you wake up, you should **follow the instruction above to perform a hard reboot and then try the next fix** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Performing a clean boot**
 
@@ -106,10 +126,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 2. Select the **Services**  tab, check   **Hide all Microsoft services**  and then click **Disable all**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-4.jpg)
@@ -118,17 +138,24 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-4.jpg)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-5.jpg)
 6. Click **Restart**  to restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-4.jpg)
 7. Perform a Windows update again after restarting Windows.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    1. On your keyboard, press**the Windows logo key** and type**windows update** . In the list of search results, select**Check for updates** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/check-for-updates.jpg)  
@@ -150,29 +177,38 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 2. Ensure **the Protection status** of the local disk drive that has your Windows system installed on is**On** . Then click**System Restore…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap13-1.jpg)  
  If**the Protection status** of the local drive that has your Windows system installed on is**Off** , it indicates that you have**disabled** the system restore feature on this drive.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select**Choose a different restore point**  and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap14-4.jpg)
 4. Check the box next to **Show more restore points** . Select the restore point that is created just**before you run into this issue** and then click**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap16-4.jpg)
 5. Click**Finish** to confirm your restore point.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap17-3.jpg)
 6. Click**Yes** to start restoring your Windows system.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap18-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After restoring your Windows system, this annoying issue should be resolved.
 
@@ -218,5 +254,21 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-secrets-to-stellar-youtube-livestreaming-top-cameras/"><u>[New] 2024 Approved Secrets to Stellar YouTube Livestreaming - Top Cameras</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discover-the-most-reliable-royalty-free-audio-libraries/"><u>[New] In 2024, Discover the Most Reliable Royalty-Free Audio Libraries</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-capture-your-overwatch-saga-effortlessly-for-2024/"><u>[Updated] Capture Your Overwatch Saga Effortlessly for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlock-creative-potential-access-free-sfx-in-2024/"><u>[Updated] Unlock Creative Potential, Access Free SFX, In 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-xs-max-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone XS Max Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-error-0x80070426-on-windows-10/"><u>Fix Error 0X80070426 on Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovation-in-your-hands-the-sonic-experience-of-xperia-xz/"><u>In 2024, Innovation in Your Hands The Sonic Experience of Xperia XZ</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-boot-delays-solutions-for-persistent-windows-11-freezes/"><u>Overcoming Boot Delays: Solutions for Persistent Windows 11 Freezes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-bluetooth-not-found-error-on-windows-10-with-simple-fixes/"><u>Resolve the 'Bluetooth Not Found' Error on Windows 10 with Simple Fixes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-unregistered-class-issues-in-windows-11-a-comprehensive-guide/"><u>Resolving Unregistered Class Issues in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-conundrum-explained-navigating-through-the-intricacies-of-ai-goal-harmonization/"><u>The Conundrum Explained: Navigating Through the Intricacies of AI Goal Harmonization</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-tips-to-eliminate-warzone-on-pc-freezing-problems/"><u>Top Tips to Eliminate Warzone on PC Freezing Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-accidental-letter-inputs-on-computer-keys/"><u>Troubleshooting Accidental Letter Inputs on Computer Keys</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Authentication Hurdles: User Profile Service Fails Sign-In in Modern Windows OS"
-date: 2024-09-23T16:34:49.615Z
-updated: 2024-09-26T23:17:08.121Z
+date: 2024-09-30T17:42:31.286Z
+updated: 2024-10-01T19:22:03.436Z
 tags:
   - win11
   - win10
@@ -51,38 +51,39 @@ thumbnail: https://thmb.techidaily.com/d0b73eb28e24a2f2ed6215d7e2c211efc75eaeb77
 2. Type**services.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf596c06c.jpg)
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
-4. Right-click System Event Notification Service again, this time select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
+4. Right-click System Event Notification Service again, this time select**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Reset your Winsock Catalog
 
@@ -94,6 +95,14 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**cmd** , then press**Shift + Ctrl + Enter** keys together.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **netsh winsock reset**
 
  Restart your computer to see if the error has gone. If you still see the error, don’t worry, move onto the next methods.  
@@ -114,26 +123,19 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c1c42f3f2.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Uninstall the KB2952664 update
 
@@ -152,6 +154,13 @@ Restart your computer to see if the error has gone.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Remove klhkum.dll
 
  If you have to reset Winsock tens of times a day, you need to try this method. What you should do is checking whether you have “klhkum.dll” or not.
@@ -165,13 +174,6 @@ Restart your computer to see if the error has gone.
 3. Right-click on it and choose**Disable** . You can also open its file location and delete it permanently.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
 
@@ -197,17 +199,21 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-zooming-ahead-best-practices-for-screenshares/"><u>[New] 2024 Approved Zooming Ahead Best Practices for Screenshares</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-best-soundshapers-for-content-makers-on-youtube-for-2024/"><u>[Updated] Best Soundshapers for Content Makers on YouTube for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/apples-pursuit-of-healthy-digital-habits-why-vision-pro-doesnt-align/"><u>Apple's Pursuit of Healthy Digital Habits: Why Vision Pro Doesn't Align</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-overcoming-windows-update-error-code-0x8007001f/"><u>Fixing the Issue: Overcoming Windows Update Error Code 0X8007001f</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-poco-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Poco ?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-facebook-live-vs-youtube-live-vs-twitter-periscope/"><u>In 2024, Facebook Live Vs YouTube Live Vs Twitter Periscope</u></a></li>
-<li><a href="https://common-error.techidaily.com/integrating-feedback-loops-between-monitoring-operational-adjustments-and-downstream-performance-is-crucial-for-maintaining-high-treatment-standards-in-resp80/"><u>Integrating Feedback Loops Between Monitoring, Operational Adjustments, and Downstream Performance Is Crucial for Maintaining High Treatment Standards in Response to Varying Influent Conditions.</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-cinematic-tones-beyond-basic-adjustments-for-2024/"><u>Mastering Cinematic Tones Beyond Basic Adjustments for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectify-laptop-monitor-horizontal-line-distortion-quickly/"><u>Rectify Laptop Monitor Horizontal Line Distortion Quickly</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207929985-resolve-bluetooth-missing-on-your-windows-11-pc-with-these-simple-fixes/"><u>Resolve 'Bluetooth Missing' On Your Windows 11 PC with These Simple Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-svchostexe-high-cpu-consumption-issue-in-windows-11/"><u>Resolving the svchost.exe High CPU Consumption Issue in Windows 11</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/ultimate-tutorial-on-downloading-youtube-audiovisual-media-for-offline-enjoyment-on-an-ipod/"><u>Ultimate Tutorial on Downloading YouTube Audio/Visual Media for Offline Enjoyment on an iPod</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-masterclass-in-brief-lapses-top-5/"><u>[New] 2024 Approved Masterclass in Brief Lapses #Top 5</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-elegant-toolset-top-5-for-syncing-imagery-with-music/"><u>[New] In 2024, Elegant Toolset Top 5 for Syncing Imagery with Music</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-integrate-free-audio-in-your-videos-effortlessly/"><u>[New] In 2024, Integrate FREE Audio in Your Videos Effortlessly</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tweet-to-gif-magic-videos-to-animations-at-no-charge/"><u>2024 Approved Tweet-to-GIF Magic Videos to Animations at No Charge</u></a></li>
+<li><a href="https://common-error.techidaily.com/display-enables-pen-and-finger-input-after-recent-fixes-no-more-keyboard-limitations/"><u>Display Enables Pen & Finger Input After Recent Fixes – No More Keyboard Limitations!</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-for-improved-keyboard-reaction-times/"><u>Effortless Fixes for Improved Keyboard Reaction Times</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/elevate-your-gameplay-with-in-depth-screen-shotting-and-video-documentation-techniques/"><u>Elevate Your Gameplay with In-Depth Screen Shotting and Video Documentation Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-start-menu-in-windows-11/"><u>How To Fix a Non-Responsive Start Menu in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-stuck-torrent-download-issue/"><u>How To Fix A Stuck Torrent Download Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-speed-boost-techniques-to-resolve-slow-league-of-legends-downloads-swiftly/"><u>Master the Speed Boost Techniques to Resolve Slow League of Legends Downloads Swiftly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-obs-studio-a-comprehensive-breakdown-for-content-creators-and-streamers/"><u>Mastering OBS Studio: A Comprehensive Breakdown for Content Creators and Streamers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-sports-viewership-in-the-digital-age/"><u>Mastering Sports Viewership in the Digital Age</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-hot-40i-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Hot 40i to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/reappear-your-vanished-system-trays-volume-icon-on-windows-10-a-visual-guide/"><u>Reappear Your Vanished System Tray's Volume Icon on Windows 10: A Visual Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/safeguarding-your-business-page-unfollowing-undesired-users/"><u>Safeguarding Your Business Page: Unfollowing Undesired Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-educational-apathy-head-on-practical-tips-for-students/"><u>Tackling Educational Apathy Head-On: Practical Tips for Students</u></a></li>
 </ul></div>
 

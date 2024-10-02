@@ -1,7 +1,7 @@
 ---
 title: Fix Keyboard Not Typing Issue on Windows 10, 7 & 8
-date: 2024-09-18T17:56:27.428Z
-updated: 2024-09-20T19:20:03.492Z
+date: 2024-09-24T21:11:45.704Z
+updated: 2024-10-01T21:33:16.705Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
 ---
@@ -74,13 +81,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, test your keyboard and hopefully it can catch up unfailingly this time. If yes, then congrats and enjoy typing! But if it’s still no joy, please move on to**Fix 4** , below.
@@ -88,10 +88,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run DISM
@@ -101,8 +101,23 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press the **Windows logo key**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
@@ -130,5 +145,18 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-best-hashtags-for-youtube-to-get-your-views-to-6-figures/"><u>[New] Best Hashtags for YouTube To Get Your Views to 6 Figures</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/asus-x441ba-review/"><u>Asus X441BA Review</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/can-you-play-ps4-games-on-the-ps5/"><u>Can You Play PS4 Games on the PS5?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-system-integration-with-asus-drivers/"><u>Effortless System Integration with ASUS Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-fixing-sync-problems-with-your-ps4-gaming-device/"><u>Expert Tips on Fixing Sync Problems with Your PS4 Gaming Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-sfc-and-dism-tools-effective-solutions-for-fixing-windows-11-issues/"><u>Exploring SFC & DISM Tools: Effective Solutions for Fixing Windows 11 Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-incompatibility-resolving-your-devices-driver-issue-with-windows-update/"><u>Fixing Incompatibility: Resolving Your Device's Driver Issue with Windows Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-mouse-cursor-vanishing-issue-in-windows-11-a-step-by-step-guide/"><u>How to Fix the Mouse Cursor Vanishing Issue in Windows 11 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-12-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 12 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-speed-optimization-proven-methods-to-enhance-gameplay/"><u>Minecraft Speed Optimization: Proven Methods to Enhance Gameplay</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-oppo-a79-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Oppo A79 5G with and without jailbreak | Dr.fone</u></a></li>
+</ul></div>
 

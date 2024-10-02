@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Repairing Your Lenovo's Fingerprint Scanner Issues"
-date: 2024-09-22T18:11:01.308Z
-updated: 2024-09-26T21:37:21.925Z
+date: 2024-09-28T22:36:51.799Z
+updated: 2024-10-02T02:09:30.375Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
 
  The Cast to Device feature requires the**network sharing** feature turned on your computer. See how to check if you turn on the network sharing feature on your computer:
@@ -54,21 +47,14 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 5. Try the Cast to Device feature again to see if it succeeds.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -78,17 +64,39 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 3. Click **OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
@@ -96,15 +104,28 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 8. Close the Windows Media Player window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
 
@@ -118,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0e8904a209.jpg)
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
@@ -151,22 +165,24 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-comprehensive-guide-to-xbox-screen-recording-success/"><u>[New] 2024 Approved Comprehensive Guide to Xbox Screen Recording Success</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-diving-into-av1-codec-mechanics/"><u>[New] 2024 Approved Diving Into AV1 Codec Mechanics</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-premium-enhancements-guide-to-superior-terria/"><u>[New] 2024 Approved Premium Enhancements Guide to Superior Terria</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fiscal-footprint-of-mr-beast-for-2024/"><u>[Updated] Fiscal Footprint of Mr. Beast for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-compreous-guide-to-recording-and-securing-periscope-videos-for-2024/"><u>A Compreous Guide to Recording & Securing Periscope Videos for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-stuck-welcome-screen-on-your-windows-10-pc/"><u>Bypassing the Stuck Welcome Screen on Your Windows 10 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/desktop-puzzle-solved-effortless-techniques-for-retrieving-misplaced-off-screen-windows/"><u>Desktop Puzzle Solved: Effortless Techniques for Retrieving Misplaced Off-Screen Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-addressing-and-correcting-update-unsuccessful-in-warframe/"><u>Expert Guide: Addressing and Correcting 'Update Unsuccessful in Warframe'</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-your-astro-a40-microphone-issues-effective-solutions-and-tips/"><u>Fixing Your Astro A40 Microphone Issues: Effective Solutions and Tips</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-hosted-network-cant-be-started-error-in-windows-11-solved/"><u>How to Fix 'Hosted Network Can't Be Started' Error in Windows 11 - Solved!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/introducing-samsungs-new-web-browser-available-now-for-windows-users/"><u>Introducing Samsung's New Web Browser: Available Now for Windows Users!</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-web-development-fixes-for-failed-renderer-initialization-as-of-2021/"><u>Mastering the Art of Web Development: Fixes for Failed Renderer Initialization as of 2021</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-out-of-memory-in-red-dead-redemption-2-by-expanding-your-pagefile/"><u>Resolve 'Out of Memory' In Red Dead Redemption 2 by Expanding Your Pagefile</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-ultimate-selection-leading-video-file-size-conversion-apps-mb-to-kb/"><u>The Ultimate Selection: Leading Video File Size Conversion Apps (MB to KB)</u></a></li>
-<li><a href="https://common-error.techidaily.com/wmi-host-overhaul-for-smoother-windows-11-performance/"><u>WMI Host Overhaul for Smoother Windows 11 Performance</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-exploring-mycams-video-recording-quality-and-efficiency/"><u>[New] In 2024, Exploring MyCam's Video Recording Quality and Efficiency</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-next-gen-key-smartwatch-opens-your-mac/"><u>[New] Next-Gen Key Smartwatch Opens Your Mac</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-troubleshooting-excessive-obs-bitrate-for-2024/"><u>[New] Troubleshooting Excessive OBS Bitrate for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-harness-your-footage-potential-with-vimeo-record/"><u>[Updated] 2024 Approved Harness Your Footage Potential with Vimeo Record</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-creating-impressive-3d-beginnings-on-youtube/"><u>2024 Approved Creating Impressive 3D Beginnings on YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagrams-hidden-pathway-extract-more-filters-for-free-effortlessly/"><u>2024 Approved Instagram’s Hidden Pathway Extract More Filters for Free Effortlessly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-canvas-hidden-tips-and-tricks/"><u>2024 Approved The Ultimate Guide Canva's Hidden Tips & Tricks</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-c67-4g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme C67 4G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/configurations-ok-but-resource-is-unresponsive/"><u>Configurations OK, But Resource Is Unresponsive</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-why-is-my-keyboards-backlight-not-functioning-on-mac-or-windows/"><u>Fixing the Issue: Why Is My Keyboard's Backlight Not Functioning on Mac or Windows?</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-why-your-igfx-em-module-wont-start/"><u>Fixing the Issue: Why Your iGFX EM Module Won't Start</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-and-optimize-svchostexes-high-resource-consumption-in-windows-10/"><u>How to Fix and Optimize svchost.exe's High Resource Consumption in Windows 10</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7, Apples New iPhone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-get-minecraft-running-again-on-your-windows-machine/"><u>Resolving Issues: Get Minecraft Running Again on Your Windows Machine</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-code-28-issue-within-windows-device-manager/"><u>Resolving the 'Code 28' Issue Within Windows Device Manager</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10s-delayed-shutdown-challenge/"><u>Resolving Windows 10'S Delayed Shutdown Challenge</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-troubleshooting-steps-for-samurai-warriors-5-continuous-pc-freezes-and-crashes/"><u>Solved! Troubleshooting Steps for Samurai Warriors 5 Continuous PC Freezes & Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204241687-step-by-step-fixes-for-windows-error-651-no-hassle/"><u>Step-by-Step Fixes for Windows Error 651 - No Hassle</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-blog-post-should-not-exceed-500-words-and-must-be-written-at-an-eighth-grade-reading-level-ensuring-it-is-easily-understandable-by-your-readers-who-migh113/"><u>The Blog Post Should Not Exceed 500 Words and Must Be Written at an Eighth-Grade Reading Level, Ensuring It Is Easily Understandable by Your Readers Who Might Range in Age but Are Likely Parents or Guardians of Children Under Five Years Old.</u></a></li>
 </ul></div>
 

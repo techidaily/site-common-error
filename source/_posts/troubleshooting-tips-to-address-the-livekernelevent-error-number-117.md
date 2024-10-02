@@ -1,0 +1,153 @@
+---
+title: Troubleshooting Tips to Address the LiveKernelEvent Error Number 117
+date: 2024-09-29T03:40:00.137Z
+updated: 2024-10-02T02:29:51.161Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - CommonErrors
+description: This Article Describes Troubleshooting Tips to Address the LiveKernelEvent Error Number 117
+excerpt: This Article Describes Troubleshooting Tips to Address the LiveKernelEvent Error Number 117
+thumbnail: https://thmb.techidaily.com/e7857315bad256fdc5741086fa363d0007b6f6fca6b50e61093052da5a00ac70.jpg
+---
+
+## Troubleshooting Tips for Overcoming Steam Bootstrapper Errors – Now Resolved
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6bea2ec3c6.png)
+
+ Many Steam users are having an issue with their Steam client. They get an error “**Steam Client Bootstrapper has stopped working** ” when they’re trying to log in. They can’t use the client or play their games on the platform because of this error. This is a very annoying issue.
+
+ But don’t worry. The following are a few methods that have helped many Steam users get rid of the error.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+## Try these fixes
+
+ You don’t have to try them all; just work your way down the list until you find the one that works for you.
+
+1. [**Run your Steam client in compatibility mode**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Temporarily disable your antivirus**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Update your device drivers**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+##  Method 1: Run your Steam client in compatibility mode
+
+ Your Steam client may not be working well because of compatibility issues. And you should change the compatibility mode setting for your Steam client.
+
+**1)** Open**File Explorer** (press the**Windows logo key** and**E** on your keyboard at the same time), then go to where you’ve installed your Steam (the default location is _C:\\Program Files (x86)\\Steam\\_ ).
+
+**2)** Right click**Steam** (or**Steam.exe** ) and then click**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6c97719d17.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**3)** Click the**Compatibility** tab, check**Run this program in compatibility** **mode** , and then click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6ca563d08d.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**4)**  Double click**Steam** (or**Steam.exe** ) to run the Steam client. If this method works for you, you won’t see this error again.
+
+##  Method 2: Temporarily disable your antivirus
+
+ Your Steam error is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
+
+ If this resolves your problem, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
+
+ Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+##  Method 3: Update your device drivers
+
+ You may get this error because you’re using a wrong driver or it’s out of date. You should update your driver and see if this fixes your error. If you don’t have the time, patience or skills to update your driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
+
+**Driver Easy**  will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading , and you don’t need to worry about making a mistake when installing.
+
+ You can download and install your drivers by using either Free or **Pro**  version of Driver Easy. But with the Pro version it takes only **2**  clicks (and you get **full support** and a **30-day money back guarantee** ):
+
+**1)** [**Download**](https://tools.techidaily.com/drivereasy/download/) and install **Driver Easy** .
+
+**2)** Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6ea20dde47.png)
+
+**3)**  Click the **Update**  button next to each of your devices to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6edacb29c1.jpg)
+
+**4)** Restart your computer and run your Steam client. Then check to see if this method helps you get rid of your error.
+
+* [Steam](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-using-obs-in-android/"><u>[New] 2024 Approved The Ultimate Guide to Using OBS in Android</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-from-novice-to-pro-navigating-streamlabs-obs-for-2024/"><u>[New] From Novice to Pro Navigating Streamlabs OBS for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-strategies-for-fbx-filming-in-video-games/"><u>[Updated] 2024 Approved Expert Strategies for FBX Filming in Video Games</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-charting-a-path-to-profit-calculating-video-view-requirements/"><u>[Updated] In 2024, Charting a Path to Profit Calculating Video View Requirements</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-tutorial-for-youtube-studio-editor-use-for-2024/"><u>[Updated] The Essential Tutorial for YouTube Studio Editor Use for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-blockade-successful-strategies-for-windows-11-not-updating/"><u>Bypassing the Blockade: Successful Strategies for Windows 11 Not Updating</u></a></li>
+<li><a href="https://common-error.techidaily.com/coding-halted-action-restricted/"><u>Coding Halted: Action Restricted</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-persistent-usb-unrecognition-issues-a-comprehensive-guide/"><u>Fixing Persistent USB Unrecognition Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-nvidia-quadro-rtx-4000-driver-software-for-optimal-performance/"><u>Get the Most Recent NVIDIA Quadro RTX 4000 Driver Software for Optimal Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/handwriting-recognition-restored-addressing-the-problem-of-missing-display-interaction-tools/"><u>Handwriting Recognition Restored: Addressing the Problem of Missing Display Interaction Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-obs-recording-blackout-issues-effectively/"><u>How to Resolve OBS Recording Blackout Issues Effectively</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comparing-future-cloud-bill-predictions/"><u>In 2024, Comparing Future Cloud Bill Predictions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reimagine-your-gaming-horizons-discover-these-top-9-emulators/"><u>Reimagine Your Gaming Horizons: Discover These Top 9 Emulators</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-a-deadbolt-usb-mouse-connection-with-these-simple-laptop-fixes/"><u>Troubleshoot a Deadbolt USB Mouse Connection with These Simple Laptop Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-non-functioning-keys-on-your-hp-laptop-now/"><u>Troubleshoot Non-Functioning Keys on Your HP Laptop Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-your-pcs-constant-freeze-up-problems/"><u>Ultimate Guide: Resolving Your PC's Constant Freeze-Up Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/win10-cpu-load-management-techniques/"><u>Win10 CPU Load Management Techniques</u></a></li>
+</ul></div>
+

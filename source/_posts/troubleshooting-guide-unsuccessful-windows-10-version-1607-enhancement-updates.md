@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Unsuccessful Windows 10 Version 1607 Enhancement Updates"
-date: 2024-09-20T00:02:56.257Z
-updated: 2024-09-26T18:43:28.929Z
+date: 2024-09-26T02:57:35.154Z
+updated: 2024-10-01T17:11:40.583Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/0656fd665c6180b1a80265c93dba7068c3a0cbd85
 
  Note: the screenshots below com from Windows 10, and fixes apply to Windows 11, 8 and 7.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Windows Update Troubleshooter
 
  Windows Update Troubleshooter is a helpful tool built in Windows system, and you can use it to scan and fix the Windows Update error 0x80240017.
@@ -44,6 +51,14 @@ Here’s what you can do:
 1. Type**Troubleshoot** in the search box on your desktop, and click**Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04da616dafa.jpg)
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
@@ -75,6 +90,13 @@ If the Windows Update error persists, move on to the second method.
 
  If your issue still persists, don’t worry, There is something else to try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Repair corrupted system files
 
  Missing or corrupted system files can also trigger the Windows Update error 0x80240017\. To detect and fix them, you may need to perform an in-depth PC scan.
@@ -90,21 +112,7 @@ If the Windows Update error persists, move on to the second method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -115,10 +123,10 @@ If the Windows Update error persists, move on to the second method.
 2. Type the following command and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 sfc /scannow  
@@ -126,19 +134,19 @@ sfc /scannow
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update available drivers
@@ -160,19 +168,6 @@ sfc /scannow
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Open Windows Update to download and install updates and it should working now.
 
@@ -196,20 +191,20 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-zombie-mayhem-showdown-selecting-the-finest-games/"><u>[New] In 2024, Zombie Mayhem Showdown Selecting the Finest Games</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-preserve-the-blue-band-promise-with-these-ideas/"><u>[New] Preserve the Blue Band Promise with These Ideas</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-essential-steps-in-choosing-exceptional-video-makers/"><u>[Updated] In 2024, Essential Steps in Choosing Exceptional Video Makers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-innovate-your-live-broadcast-on-mac-with-1-5-software/"><u>[Updated] In 2024, Innovate Your Live Broadcast on Mac with #1-5 Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-affordable-excellence-a-selection-of-best-free-srt-tools/"><u>2024 Approved Affordable Excellence A Selection of Best FREE SRT Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/dota-2-solve-error-2024-with-quick-api-adjustment-tips/"><u>Dota 2: Solve Error 2024 with Quick 'API Adjustment' Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/eclipse-effect-screen-issue/"><u>Eclipse Effect: Screen Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/execution-path-blocked/"><u>Execution Path Blocked</u></a></li>
-<li><a href="https://common-error.techidaily.com/fallout-4-performance-optimized-how-to-overcome-lag-issues-tips-players/"><u>Fallout 4 Performance Optimized: How to Overcome Lag Issues (Tips Players)</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-frozen-google-chrome-do-you-need-to-restart/"><u>Fixing a Frozen Google Chrome: Do You Need to Restart?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-100-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Honor 100 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://techtrends.techidaily.com/samsung-smart-tv-app-guide-for-the-ultimate-media-experience/"><u>Samsung Smart TV App Guide for the Ultimate Media Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-high-gpu-consumption-by-the-desktop-window-manager-on-windows-10-and-11/"><u>Top 5 Solutions for Reducing High GPU Consumption by the Desktop Window Manager on Windows 10 and 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixes-for-non-responsive-dell-bluetooth-keyboard/"><u>Troubleshooting Guide: Fixes for Non-Responsive Dell Bluetooth Keyboard</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-extract-subtitles-for-free-top-10-tools-reviewed/"><u>[New] In 2024, Extract Subtitles for Free Top 10 Tools Reviewed</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/asterclass-in-glamour-beauty-tutorials-for-all/"><u>[New] Masterclass in Glamour Beauty Tutorials for All</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-easeus-screen-recorder-review/"><u>[Updated] 2024 Approved EaseUS Screen Recorder Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-rebranding-identity-on-google-meet-laptops-and-phones-for-2024/"><u>[Updated] Rebranding Identity on Google Meet - Laptops & Phones for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-20-guidelines-livestream-webinars-at-no-extra-charge/"><u>2024 Approved 20 Guidelines Livestream Webinars at No Extra Charge</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-the-incessant-boot-loop-solving-windows-11-and-10-startup-problems/"><u>End the Incessant Boot Loop - Solving Windows 11 and 10 Startup Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-sfc-and-dism-essential-tools-for-fixing-windows-10-issues/"><u>Exploring SFC & DISM: Essential Tools for Fixing Windows 10 Issues</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/hangul-simplified-a-beginners-journey-into-korean-scripts/"><u>Hangul Simplified: A Beginner's Journey Into Korean Scripts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/illuminating-the-high-definition-journey-to-4k/"><u>Illuminating the High Definition Journey to 4K</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-realme-c33-2023-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Realme C33 2023</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-lava-blaze-curve-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Lava Blaze Curve 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-wireless-audio-troubleshooting-and-fix-guide-for-airpods-on-windows-pcs/"><u>Mastering Wireless Audio: Troubleshooting and Fix Guide for AirPods on Windows PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-authentication-hurdles-user-profile-service-fails-sign-in-in-modern-windows-os/"><u>Overcoming Authentication Hurdles: User Profile Service Fails Sign-In in Modern Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-the-persistent-0x80070490-error-encountered-in-windows-update-process/"><u>The Ultimate Fix for the Persistent 0X80070490 Error Encountered in Windows Update Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-functional-usb-ports-on-pc-with-windows-10-or-11/"><u>Troubleshooting Non-Functional USB Ports on PC with Windows 10 or 11</u></a></li>
 </ul></div>
 

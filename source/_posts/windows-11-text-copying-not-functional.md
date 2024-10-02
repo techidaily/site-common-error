@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Text Copying Not Functional"
-date: 2024-09-19T20:04:57.823Z
-updated: 2024-09-26T23:37:49.509Z
+date: 2024-09-30T04:00:51.034Z
+updated: 2024-10-01T17:38:21.086Z
 tags:
   - win11
   - win10
@@ -35,34 +35,13 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 5. **[Turn on Location services](#Fix5)**
 6. **[Check for Windows updates](#Fix6)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Sign out of your account and sign back in
 
  Sometimes, the Night Light not working issue could be caused by a temporary glitch. If that’s the case, you can try to fix the problem by signing out of your account and then signing back in.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/windows-sign-out.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check if the Night Light starts working again. If your issue persists, go ahead and try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your display driver
 
@@ -88,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 If your issue remains, check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Reset Night Light settings manually
 
  If the Night Light option on your PC is grayed out, you can try resetting this feature by editing the Windows registry. Here’s how to do it:
@@ -95,13 +81,6 @@ If your issue remains, check out the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** dialog. Then type**regedit** and click**OK** to open**Registry Editor** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/windows-r-regedit.jpg)
 2. Click**Yes** if prompted by User Account Control.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/registry-editor-uac.jpg)
 3. In Registry Editor, paste the following path into the address bar and press**Enter** .  
@@ -118,6 +97,19 @@ If your issue remains, check out the next fix.
 
  If the Night Light still doesn’t work properly, continue with the next fix.
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Check date and time settings
 
  Windows allows you to set a schedule to turn on and turn off the Night Light feature. If the date and time settings on your PC are set incorrectly, you might be unable to use this feature properly. To check your PC’s date and time settings:
@@ -129,14 +121,21 @@ If your issue remains, check out the next fix.
  Note: the options for**Set time automatically** and**Set time zone automatically** must be set to**Off** to make this change.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Change the date and time according to your need, then click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/change-date-time.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the date and time are correct and you still encounter the Night Light not working issue, you may need to check Location services.
 
@@ -147,6 +146,14 @@ If your issue remains, check out the next fix.
 1. On your keyboard, press the**Windows logo key** and**I** together to open**Windows Settings** . Then click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/settings-privacy.jpg)
 2. In the left panel, select**Location** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/settings-location.jpg)
 3. Make sure the**Location for this device** is**On** . If not, you can click the**Change** button to turn it on. Also, make sure that**Allow apps to access your location** is set to**On** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/location-on.jpg)
@@ -154,10 +161,10 @@ If your issue remains, check out the next fix.
  Now try to use the Night Light feature again and see if it works properly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Check for Windows updates
@@ -168,14 +175,14 @@ If your issue remains, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/check-for-updates.jpg)
 2. In the new window, click**Check for updates** . Windows will automatically download and install all pending updates if available.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you’ve installed all updates, restart your PC and check if your issue has been resolved.
 
@@ -202,22 +209,21 @@ If your issue remains, check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-cloud-savings-guide-comparing-costs-and-top-deals-for-2024/"><u>[Updated] Cloud Savings Guide Comparing Costs & Top Deals for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oppo-reno-9a-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-apple-iphone-se-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>Change Location on Yik Yak For your Apple iPhone SE to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-solution-for-fixing-the-0x80072efd-problem-on-windows-11-systems/"><u>Complete Solution for Fixing the '0X80072EFD' Problem on Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-removing-restrictions-and-dealing-with-403-headers-effectively/"><u>Expert Tips: Removing Restrictions and Dealing with 403 Headers Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-eternal-waiting-on-skyrims-start-up-screen-tutorial/"><u>How to Resolve Eternal Waiting on Skyrim's Start-Up Screen Tutorial</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-solve-continuous-crash-issues-in-cities-skylines-2-on-windowspc/"><u>How to Solve Continuous Crash Issues in Cities: Skylines 2 on Windows/PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-unavailable-desktop-error-in-systemprofile-folder-on-windows/"><u>Overcoming the Unavailable Desktop Error in SystemProfile Folder on Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/removing-liquid-from-inside-smartphone-speakers-a-step-by-step-guide/"><u>Removing Liquid From Inside Smartphone Speakers: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/snapchats-ai-vs-microsofts-bing-chat-top-8-distinct-features-compared/"><u>Snapchat's AI Vs. Microsoft's Bing Chat: Top 8 Distinct Features Compared</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-unresponsive-usb-slots-on-an-hp-laptop-computer/"><u>Step-by-Step Solutions for Unresponsive USB Slots on an HP Laptop Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-tips-for-common-oculus-tech-issues/"><u>Step-by-Step Troubleshooting Tips for Common Oculus Tech Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/stop-waiting-start-typing-smoothly-solve-keyboard-lag-in-windows-10/"><u>Stop Waiting, Start Typing Smoothly - Solve Keyboard Lag in Windows 10!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-lenovo-mouse-pad-solutions-for-windows-10-8-and-7/"><u>Troubleshooting Your Lenovo Mouse Pad: Solutions for Windows 10, 8, and 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-portable-15/"><u>Unbeatable Deal: Portable 15.</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-breaking-boundaries-running-windows-and-mac-video-editing-software-on-chromebook/"><u>Updated Breaking Boundaries Running Windows and Mac Video Editing Software on Chromebook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-see-what-you-just-watched-on-facebook/"><u>[Updated] In 2024, How to See What You Just Watched on Facebook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-creating-captivating-insta-vids-3-description-strategies/"><u>2024 Approved Creating Captivating Insta Vids 3 Description Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-customer-stories-for-brand-growth/"><u>2024 Approved Harnessing Customer Stories for Brand Growth</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-in-depth-look-at-camstudios-capturing-capabilities/"><u>2024 Approved In-Depth Look at CamStudio's Capturing Capabilities</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fix-for-windows-10-microsoft-store-wont-start/"><u>Comprehensive Fix for Windows 10: Microsoft Store Won't Start?</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-fixing-graphic-issues-in-modern-windows-environments-win1110/"><u>Effective Solutions for Fixing Graphic Issues in Modern Windows Environments (Win11/10)</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-for-dealing-with-hamachi-connection-stop-errors/"><u>Effortless Solutions for Dealing with Hamachi Connection Stop Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-webp-conversion-by-chrome-on-your-computer/"><u>Eliminate WebP Conversion by Chrome on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-connection-errors-between-bluetooth-keyboards-and-computers/"><u>Expert Tips for Fixing Connection Errors Between Bluetooth Keyboards and Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-track-your-matches-avoid-infinite-loading-in-valorant-with-these-fixes/"><u>Fast Track Your Matches: Avoid Infinite Loading in Valorant with These Fixes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-v30-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme V30 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-premiere-elements-not-for-you-try-these-10-exceptional-alternatives-instead-for-2024/"><u>New Premiere Elements Not for You? Try These 10 Exceptional Alternatives Instead for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-essential-marketing-lexicon-20-pivotal-words-and-phrases/"><u>The Essential Marketing Lexicon 20 Pivotal Words & Phrases</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-fix-reactivating-lighting-features-on-your-corsair-keyboard/"><u>The Fix: Reactivating Lighting Features on Your Corsair Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-hack-successful-pairing-of-airpods-with-windows-1011-2024-how-to/"><u>The Ultimate Hack: Successful Pairing of AirPods with Windows 10/11 - 2024 How-To</u></a></li>
 </ul></div>
 

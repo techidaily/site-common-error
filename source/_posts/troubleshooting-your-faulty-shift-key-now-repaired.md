@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Your Faulty Shift Key - Now Repaired
-date: 2024-09-23T22:45:51.664Z
-updated: 2024-09-26T20:04:06.899Z
+date: 2024-09-29T21:55:45.582Z
+updated: 2024-10-01T18:46:40.413Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -69,22 +62,15 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -97,10 +83,16 @@ Follow these:
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
@@ -125,11 +117,31 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
 
@@ -150,20 +162,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-lead-the-way-in-igtv-videos-with-best-ever-edits-for-2024/"><u>[New] Lead the Way in IGTV Videos with Best-Ever Edits for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-following-scrutiny-unorthodox-ideas/"><u>2024 Approved Following Scrutiny Unorthodox Ideas</u></a></li>
-<li><a href="https://fox-access.techidaily.com/dynamic-text-designs-ready-to-go-in-after-effects/"><u>Dynamic Text Designs Ready to Go in After Effects</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fixes-for-persistent-wake-up-issues-with-your-computer-system/"><u>Effortless Fixes for Persistent Wake-Up Issues with Your Computer System</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-failed-to-decode-audio-problems-on-youtube-using-windows-10/"><u>Fixing 'Failed to Decode' Audio Problems on YouTube Using Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-to-your-windows-10-speaker-controls-a-step-by-step-guide/"><u>How to Restore Functionality to Your Windows 10 Speaker Controls - A Step-by-Step Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-iphone-13-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your iPhone 13?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-g54-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola G54 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-14-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone 14</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205788671-invisible-sd-be-seen-fixes-abound/"><u>Invisible SD, Be Seen! Fixes Abound!</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212304821-showcase-your-touchpad-regain-control/"><u>Showcase Your Touchpad, Regain Control</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-updating-and-downloading-drivers-on-the-microsoft-surface-book-2/"><u>Step-by-Step Tutorial: Updating and Downloading Drivers on the Microsoft Surface Book 2</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-the-astro-a40-microphone-issue/"><u>Troubleshooting Tips: Fixing the Astro A40 Microphone Issue</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-extending-your-windows-10-laptop-and-mobile-battery-life-with-smart-tips/"><u>Ultimate Guide: Extending Your Windows 10 Laptop and Mobile Battery Life with Smart Tips</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unraveled-and-resolved-error-number-45/"><u>Unraveled and Resolved Error Number 45</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-first-time-nft-maker-an-effortless-guidebook/"><u>[New] First-Time NFT Maker An Effortless Guidebook</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-elevating-visual-experience-youtubes-quality-boosting-guide-for-2024/"><u>[Updated] Elevating Visual Experience YouTube's Quality Boosting Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pushing-limits-with-vr-which-console-and-controller-fits-best/"><u>[Updated] Pushing Limits with VR Which Console and Controller Fits Best?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlimited-picture-pools-the-best-10-resources/"><u>2024 Approved Unlimited Picture Pools The Best 10 Resources</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-nubia-z50s-pro-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Nubia Z50S Pro PC | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-disk-read-errors-a-comprehensive-guide-to-overcoming-cddvd-player-error-39-issues/"><u>Beat Disk Read Errors: A Comprehensive Guide to Overcoming CD/DVD Player Error 39 Issues</u></a></li>
+<li><a href="https://win-dash.techidaily.com/delayed-recovery-from-infections/"><u>Delayed Recovery From Infections</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-issues-with-unresponsive-dhcp-servers-solutions-and-tips/"><u>Fixing Issues with Unresponsive DHCP Servers - Solutions and Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-missing-msvcp140dll-accurately/"><u>Fixing Missing MSVCP140.dll Accurately</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/foundations-of-video-editing-in-the-gaming-world/"><u>Foundations of Video Editing in the Gaming World</u></a></li>
+<li><a href="https://common-error.techidaily.com/immediate-remedy-for-timeout-error-fixing-the-service-did-not-respond-issue/"><u>Immediate Remedy for Timeout Error - Fixing the Service Did Not Respond Issue</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/investigating-the-reasons-behind-unprompted-start-ups-in-windows-11-systems/"><u>Investigating the Reasons Behind Unprompted Start-Ups in Windows 11 Systems</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-unseen-viewers-route-navigating-instagram-stories-with-anonymous-viewing-for-2024/"><u>The Unseen Viewer's Route Navigating Instagram Stories with Anonymous Viewing for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-and-bluetooth-woes-heres-how-to-make-your-peripherals-visible-again/"><u>Windows 10 and Bluetooth Woes? Here's How to Make Your Peripherals Visible Again</u></a></li>
 </ul></div>
 

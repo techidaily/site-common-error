@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unknown USB Device (Port Reset Failed) Issue for Windows 10
-date: 2024-09-20T16:56:15.688Z
-updated: 2024-09-26T19:40:23.624Z
+date: 2024-09-28T02:32:16.752Z
+updated: 2024-10-01T21:25:09.469Z
 tags:
   - win11
   - win10
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
 ``
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
 ``
@@ -81,11 +88,31 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -96,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -119,10 +139,10 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
@@ -130,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -148,19 +161,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 4) Open the app again to see if it goes fine.
 
 ``
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
@@ -186,6 +186,13 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -203,13 +210,6 @@ thumbnail: https://thmb.techidaily.com/f858bf5f9e0327b42a985f450fae85190a7aad26f
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -238,17 +238,14 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-cutting-edge-fb-video-toolkit-mp4-edition-available/"><u>[New] In 2024, Cutting-Edge FB Video Toolkit MP4 Edition Available</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-tips-for-preserving-your-roblox-playthrough-mac-for-2024/"><u>[Updated] Expert Tips for Preserving Your Roblox Playthrough (Mac) for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-leading-photo-framers-of-2024-reviewed/"><u>[Updated] The Leading Photo Framers of 2024 Reviewed</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-combat-excessive-cpu-load-caused-by-wudfhostexe-on-your-windows-11-pc/"><u>How to Combat Excessive CPU Load Caused by WUDFHost.exe on Your Windows 11 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-update-error-0x80240017-once-and-for-all/"><u>How to Fix Windows Update Error 0X80240017 Once and For All</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-lava-yuva-3-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Lava Yuva 3 Location | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-challenges-with-overwatch-voip-how-to-fix-the-stubborn-push-to-talk-glitch/"><u>Overcoming Challenges with Overwatch VoIP: How to Fix the Stubborn Push-to-Talk Glitch</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-excessive-graphics-card-use-by-dwm-on-windows-11-5-proven-strategies/"><u>Resolve Excessive Graphics Card Use by DWM on Windows 11 – 5 Proven Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-unknown-issuer-error-in-mozilla-firefox-quick-solutions/"><u>Resolving the Unknown Issuer Error in Mozilla Firefox - Quick Solutions!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-1011-and-airpods-connectivity-problems-expert-advice/"><u>Troubleshooting Windows 10/11 and AirPods Connectivity Problems - Expert Advice</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-steady-snaps-premier-tripods-for-mobile-cameras/"><u>[New] In 2024, Steady Snaps Premier Tripods for Mobile Cameras</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-microsoft-compatibility-telemetry-high-disk-usage-on-windows-11/"><u>[Solved] Microsoft Compatibility Telemetry High Disk Usage on Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-iptv-sharing-on-varied-systems/"><u>[Updated] IPTV Sharing on Varied Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/ensuring-smooth-gameplay-how-to-address-steam-download-problems-efficiently/"><u>Ensuring Smooth Gameplay: How to Address Steam Download Problems Efficiently</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-itel-s23-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Itel S23.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-xiaomi-redmi-note-13-proplus-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Xiaomi Redmi Note 13 Pro+ 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-windows-11-update-obstacle-with-code-0x800f0922-fixes/"><u>Overcome Windows 11 Update Obstacle with Code 0X800F0922 Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-window-speaker-distortion-issues-on-windows-11-and-7-systems/"><u>Solving Window Speaker Distortion Issues on Windows 11 and 7 Systems</u></a></li>
 </ul></div>
 

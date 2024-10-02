@@ -1,7 +1,7 @@
 ---
 title: Fast Fixes for Apex Legends' Cheating Issues - No More Errors
-date: 2024-09-26T00:31:15.618Z
-updated: 2024-09-26T19:43:47.041Z
+date: 2024-10-01T00:04:47.484Z
+updated: 2024-10-01T20:47:22.764Z
 tags:
   - win11
   - win10
@@ -49,24 +49,10 @@ No game can be immune to bugs and glitches, and this is particularly true with**
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
 5. Launch Apex Legends and check to see if the error has been fixed. If yes, then great! If the issue persists, please try**Fix 2** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Repair Apex Legends in Origin
 
@@ -81,18 +67,18 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-5.png)
 4. Once done, run Apex Legends and see if the Easy Anti-Cheat error has been resolved. If it’s no joy, please continue with**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Run Apex Legends and Origin as Administrator
 
  Apex Legends requires administrator privileges in order to access protected system resources. If the game or the game client doesn’t have the required permissions, you may receive Easy Anti-Cheat error. So you should make sure to run Apex Legends and Origin as administrator to see if it fixes the issue.
 
  After that, launch Apex Legends game and see if the Easy Anti-Cheat error still occurs. If it doesn’t, then great! If the issue persists, please try**Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify connectivity to Easy Anti-Cheat
 
@@ -105,13 +91,6 @@ Here are the steps to repair Apex Legends in Origin:
 
 **If you’re not presented with the message** , then something is blocking your Internet connection. You can move on to**Fix 5** to check if your firewall is the culprit, if not, you should contact your Internet Service Provider to locate the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Add Easy Anti-Cheat and Apex Legends to your firewall exceptions list
 
  A firewall is a network security system that filters incoming and outgoing network traffic by permitting/blocking specific traffic based on a set of security rules. You should allow Easy Anti-Cheat and Apex Legends through the firewall to make sure that the connection isn’t lost.
@@ -121,8 +100,24 @@ Here are the steps to repair Apex Legends in Origin:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then type**control firewall.cpl** into the box and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run.png)
 2. In the window that pops up, click**Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-13.png)
 3. Browse through the list of Allowed apps and features to see if Easy Anti-Cheat and Apex Legends are included. If not, click**Change settings** , click**Allow another app…** , then follow the on-screen instructions to add the apps.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Snap5.png)
 4. Once completed, click**OK** .
 5. Check to see if the error still occurs. If it doesn’t, then congrats! If it’s still happening, please move on to**Fix 6** , below.
@@ -130,10 +125,10 @@ Here are the steps to repair Apex Legends in Origin:
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. While the role of an anti-virus program is hardly questionable, it’s known to conflict with other programs, rendering games unplayble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Install the latest patch
@@ -144,8 +139,30 @@ Here are the steps to repair Apex Legends in Origin:
 2. Navigate to**My Game Library** , then **right-click** on **Apex Legends** and select **Update Game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.png)
 3. Wait until you see the following message. Then click **Close** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-2.png)
 4. Open Apex Legends and hopefully the error is resolved. If not, please try**Fix 7** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends and Origin
 
@@ -158,13 +175,6 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6-3.png)
 3. Download and reinstall Apex Legends.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Launch the game to see if you can play without error.
 
 **Here’s how to reinstall Origin:**
@@ -176,13 +186,6 @@ Here are the steps to repair Apex Legends in Origin:
 3. Double-click **Origin** to uninstall it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-6.png)
 4. Restart your Windows system when it is completed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. **[Download](https://www.dm.origin.com/download)**  the latest version of Origin and then double-click the file you downloaded to reinstall it.
 6. Launch Apex Legends to see if you can play without error.
@@ -208,17 +211,15 @@ Here are the steps to repair Apex Legends in Origin:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/alert-paste-problematic-windows-11-feature/"><u>[ALERT] Paste Problematic Windows 11 Feature</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-journey-through-creative-commons-a-users-guide/"><u>[New] In 2024, The Journey Through Creative Commons A User's Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-resolve-windows-update-error-0x8024002e-once-and-for-all/"><u>Comprehensive Guide: Resolve Windows Update Error 0X8024002E Once and For All!</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/enhance-your-presentations-with-aiseesofts-screencast-tools-for-2024/"><u>Enhance Your Presentations with Aiseesoft's Screencast Tools for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-and-tips-troubleshooting-a-non-functional-mic-on-windows-10/"><u>Fixes & Tips: Troubleshooting a Non-Functional Mic on Windows 10</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/honor-x9b-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Honor X9b ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigate-and-organize-files-flawlessly-in-windows-10/"><u>Navigate and Organize Files Flawlessly in Windows 지정기 10</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pc-build-without-a-hitch-console-based-simulator-arrives/"><u>PC Build Without a Hitch: Console-Based Simulator Arrives</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-8-must-play-mobile-apps-ultimate-gaming-list/"><u>Top 8 Must-Play Mobile Apps: Ultimate Gaming List</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlocking-the-power-of-gadgets-with-expert-advice-from-toms-hardware/"><u>Unlocking the Power of Gadgets with Expert Advice From Tom's Hardware</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-revolutionize-your-videos-best-software-for-enhancing-resolution/"><u>Updated 2024 Approved Revolutionize Your Videos Best Software for Enhancing Resolution</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-a-complete-walkthrough-on-editing-your-videos-covers-on-fb-for-2024/"><u>[New] A Complete Walkthrough on Editing Your Videos' Covers on FB for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-professional-steps-for-high-quality-powerpoint-replays-for-2024/"><u>[New] Professional Steps for High-Quality PowerPoint Replays for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-unlocking-the-secrets-of-effective-podcast-names-plus-50plus-inspirations/"><u>[Updated] In 2024, Unlocking the Secrets of Effective Podcast Names, Plus 50+ Inspirations</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-red-screen-error-expert-solutions-and-tips/"><u>Fixing the Red Screen Error: Expert Solutions & Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-drivers-download-netgear-ac1200-usb-wireless/"><u>Free Drivers Download: Netgear AC1200 USB Wireless</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-recover-control-when-your-computer-mouse-is-frozen/"><u>How To Recover Control When Your Computer Mouse Is Frozen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-glow-enhanced-video-a-right-move-for-hdr-crafting/"><u>In 2024, Glow-Enhanced Video A Right Move for HDR Crafting?</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-windows-update-failure-with-error-0x8007001f/"><u>Troubleshooting Tips for Windows Update Failure with Error 0X8007001F</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209448395-unlock-the-power-to-revive-your-windows-10-taskbar-expert-tips-and-tricks/"><u>Unlock the Power to Revive Your Windows 10 Taskbar - Expert Tips & Tricks!</u></a></li>
 </ul></div>
 

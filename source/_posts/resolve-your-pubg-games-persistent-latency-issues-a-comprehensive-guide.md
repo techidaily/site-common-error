@@ -1,7 +1,7 @@
 ---
 title: "Resolve Your PUBG Game's Persistent Latency Issues: A Comprehensive Guide"
-date: 2024-09-19T19:05:29.812Z
-updated: 2024-09-20T17:40:53.551Z
+date: 2024-09-25T18:43:10.586Z
+updated: 2024-10-02T04:26:01.177Z
 tags:
   - win11
   - win10
@@ -57,56 +57,56 @@ The IP settings and DNS settings could also have an effect on the connection bet
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Go on to click**Advanced settings**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd893e389f.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Click**IP settings**and set it to be**Automatic**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd9129d434.png)
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Now it’s back to Advanced settings. This time click**DNS settings**and set it to be**Automatic**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd976db238.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now try to connect your Xbox one to Xbox Live.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Check the services related to Xbox Live
 
 1) On your keyboard, press the **Windows logo key** +**R**key together to invoke the Run box. 2) Enter**services.msc**in the box and click**OK**.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599f8eede7987.png)3) Scroll down on the open Services window. Find and right click on**Xbox Live Networking Service**. Then select**Properties**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf18958ed.jpg)
@@ -116,19 +116,33 @@ Now try to connect your Xbox one to Xbox Live.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdeb828a6c.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Now it’s back on Services window, right-click on**Xbox Live Networking Service**again. This time select**Start**.**Note:**If the Start option grayed out, select**Restart**instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fdf2f4ab34.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Go on to do the same settings for**Xbox Live Auth Manager**and**Xbox Live Game Save**via the same steps above. They’re ussually listed closed to Xbox Live Networking Service.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fe022a60ab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Update your network adapter driver and Xbox One controller driver
 
@@ -157,5 +171,20 @@ After updating the drivers, please restart your computer to make the new drivers
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-techniques-in-archiving-web-based-music-tracks/"><u>[Updated] Techniques in Archiving Web-Based Music Tracks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-mastering-facebook-cover-videos-essential-insights/"><u>2024 Approved Mastering Facebook Cover Videos Essential Insights</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-picsarts-full-spectrum-exploration/"><u>2024 Approved PicsArt's Full Spectrum Exploration</u></a></li>
+<li><a href="https://blog-min.techidaily.com/belkins-powerboost-pro-dual-function-charger-an-in-depth-analysis-of-the-enhanced-magsafe-feature-for-idle-charging/"><u>Belkin's PowerBoost Pro Dual Function Charger - An In-Depth Analysis of the Enhanced MagSafe Feature for Idle Charging</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-how-to-on-downloading-and-setting-up-your-dell-wd19-printer-drivers/"><u>Complete How-To on Downloading and Setting Up Your Dell WD19 Printer Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-techniques-to-fix-corrupt-windows-os-files-in-the-latest-versions-10-and-11/"><u>Efficient Techniques to Fix Corrupt Windows OS Files in the Latest Versions (10 and 11)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/explore-the-finest-top-8-android-mp3-downloader-apps/"><u>Explore the Finest Top 8 Android MP3 Downloader Apps</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harnessing-the-power-of-cookiebot-for-enhanced-seo/"><u>Harnessing the Power of Cookiebot for Enhanced SEO</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-lgs-27uhd68-enhances-gaming-experience/"><u>How LG's 27UHD68 Enhances Gaming Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-fixes-for-enabling-wi-fi-connectivity-issues-solved/"><u>Simple Fixes for Enabling Wi-Fi Connectivity Issues [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-for-geforce-settings-retrieval-failures-in-gfe/"><u>Solution Guide for GeForce Settings Retrieval Failures in GFE</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-fix-windows-update-service-stuck-or-disabled/"><u>Troubleshooting Guide: How to Fix Windows Update Service Stuck or Disabled</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-missing-device-drivers-on-windows-n-installation-solutions-unveiled/"><u>Troubleshooting Missing Device Drivers on Windows N Installation: Solutions Unveiled</u></a></li>
+</ul></div>
 

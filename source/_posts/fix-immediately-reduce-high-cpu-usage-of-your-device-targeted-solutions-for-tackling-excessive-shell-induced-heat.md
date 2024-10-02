@@ -1,7 +1,7 @@
 ---
 title: "[Fix] Immediately Reduce High CPU Usage of Your Device – Targeted Solutions for Tackling Excessive Shell-Induced Heat."
-date: 2024-09-20T20:50:56.823Z
-updated: 2024-09-26T23:57:34.250Z
+date: 2024-09-28T21:44:33.274Z
+updated: 2024-10-01T16:29:14.289Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 
 **Shell Infrastructure Host** , also known as**sihost.exe** , handles the basic graphics UI elements like taskbar transparency, start menu layout, and even your fancy background image. Normally, it’s a quiet teammate, barely using any CPU resources. But like any good teammate, sometimes it stumbles. When that happens, sihost.exe can suddenly start hogging more CPU power than usual, leaving your computer feeling sluggish and unresponsive.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix Shell Infrastructure Host high CPU usage?
 
  Given below are the best solutions for Shell Infrastructure Host high CPU usage problem. You might not need to try them all. Just work your way down the list until you find the one that works for you.
@@ -58,20 +65,20 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 2. Select**Update & Security** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/update-and-security.jpg)
 3. Click**Check for updates** .  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/updates-1.jpg)
@@ -91,13 +98,6 @@ If Updating your Windows is not helping, move on to the second fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/background1.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/background-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this step still can’t improve the CPU usage, move on to the next method below.
 
 ### Fix 3: Use a different photo viewer app
@@ -112,18 +112,18 @@ If Updating your Windows is not helping, move on to the second fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/settings-app.jpg)
 3. Select**Default apps** , then click**Photos** (which is the default photo viewer app in Windows).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/default-apps.jpg)
 4. Switch to another app.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/choose-an-app.jpg)
 
  Then check if that resolves the issue. If nothing changes, you might need to repair corrupt system files.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupt system files
 
@@ -137,16 +137,17 @@ Here’s how to use Fortect to repair your system files:
 2. Launch Fortect and it will run a free scan of your PC. After the scan is complete, you will be presented with a report displaying the identified issues.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Click **Start Repair** to automatically fix all the issues (You’ll need to pay for the full version. It comes with a 60-day money-back guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact**<support@fortect.com>** for a full refund.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Run System Maintenance Troubleshooter
 
@@ -156,18 +157,19 @@ Here’s how to use Fortect to repair your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-runn.jpg)
 2. **Type** **the following** into the command line and press**Enter** :  
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `%systemroot%\system32\msdt.exe -id MaintenanceDiagnostic`  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/run-troubleshooting.jpg)
 3. Click **Advanced** in the pop-up box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced.jpg)
 4. Click**Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/as-admin.jpg)
 5. Click**Next** . Then the system maintenance tool will do the troubleshooting for you and inform you when it’s completed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/next.jpg)
@@ -181,6 +183,14 @@ Here’s how to use Fortect to repair your system files:
 1. Right-click**Start** button and select**Run** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-runn.jpg)
 2. Type**msconfig** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/msconfig.jpg)
 3. On the **Services**  tab of System Configuration, select **Hide all Microsoft services** , and then select **Disable all** . Click **Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot1-1.jpg)
@@ -190,17 +200,17 @@ Here’s how to use Fortect to repair your system files:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot3-1.jpg)
 6. Go back to the **System Configuration** window and click **OK** to save the changes you just made.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot4.jpg)
 7. Click **Restart** to restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot5.jpg)
 8. Check to see if the problem goes away.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Your computer may temporarily lose some functionality while in a clean boot environment, but that functionality will return when you[reset the computer to start normally](#reset) .
 
@@ -223,13 +233,6 @@ Here’s how to use Fortect to repair your system files:
 4. Select the **Services**  tab, clear the check box beside **Hide all Microsoft services** , select **Enable all** , then select **Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot7.jpg)
 5. Select the **Startup**  tab, then select **Open Task Manager** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. In Task Manager, Enable all of the startup programs you had Disabled before, and then select **OK** .
 7. When you’re prompted to restart the computer, select **Restart** .
@@ -254,18 +257,19 @@ Here’s how to use Fortect to repair your system files:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-bygone-brilliance-art-beyond-intellectual-property/"><u>[New] Bygone Brilliance Art Beyond Intellectual Property</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-directx-errors-that-cant-be-fixed-insightful-strategies-for-success/"><u>Dealing With DirectX Errors That Can’t Be Fixed - Insightful Strategies for Success</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-10-when-it-keeps-restarting-instead-of-shutting-down/"><u>How to Fix Windows 10 When It Keeps Restarting Instead of Shutting Down</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209842352-how-to-troubleshoot-and-repair-ps4-controller-power-problems-solutions-found/"><u>How to Troubleshoot and Repair PS4 Controller Power Problems - Solutions Found!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-blueprint-for-a-thriving-portfolio-in-graphics/"><u>In 2024, Blueprint for a Thriving Portfolio in Graphics</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-quickly-speed-up-or-decelerate-videos-for-peak-engagement/"><u>In 2024, Quickly Speed Up or Decelerate Videos for Peak Engagement</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/master-android-flip-digital-content-sequence/"><u>Master Android Flip Digital Content Sequence</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-definitive-solution-correcting-corrupted-gaming-software-data-on-your-desktop-computer/"><u>The Definitive Solution: Correcting Corrupted Gaming Software Data on Your Desktop Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-image-malfunctions-in-microsofts-latest-operating-systems/"><u>Troubleshooting Image Malfunctions in Microsoft's Latest Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-overcoming-the-xerox-update-error-0x800f020b-on-pcs/"><u>Troubleshooting Tips for Overcoming the Xerox Update Error: 0X800F020B on PCs</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweettide-surge-video-waves-gain-momentum/"><u>TweetTide Surge Video Waves Gain Momentum</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/wevideo-easily-create-videos-online/"><u>WeVideo Easily Create Videos Online</u></a></li>
-<li><a href="https://common-error.techidaily.com/what-is-msdia80dll-and-why-should-or-shouldnt-you-retain-this-system-file/"><u>What Is msdia80.dll and Why Should (or Shouldn't) You Retain This System File?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-building-visual-story-arcs/"><u>[New] Building Visual Story Arcs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-screen-recorder-showdown-testing-recmeister-for-2024/"><u>[New] The Ultimate Screen Recorder Showdown Testing Recmeister for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-discover-the-leading-free-online-photo-editing-platforms-for-2024/"><u>[Updated] Discover the Leading Free Online Photo Editing Platforms for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-photo-editing-advanced-3d-lut-techniques-in-ps/"><u>[Updated] Mastering Photo Editing Advanced 3D LUT Techniques in PS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-instructions-for-prolonged-iphone-shots/"><u>[Updated] The Ultimate Instructions for Prolonged iPhone Shots</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-windows-update-error-code-0x80070002-step-by-step-guide/"><u>Fix Windows Update Error Code 0X80070002 - Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-oppo-find-x6-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Oppo Find X6 Face Lock?</u></a></li>
+<li><a href="https://common-error.techidaily.com/masterclass-eliminating-driver-power-disruptions-in-windows-systems/"><u>Masterclass: Eliminating Driver Power Disruptions in Windows Systems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-poco-c50-frp-by-drfone-android/"><u>The Updated Method to Bypass Poco C50 FRP</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-hdcp-compatible-displays-for-high-definition-streams/"><u>Troubleshooting Non-HDCP Compatible Displays for High Definition Streams</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-repairing-critical-process-died-error-0xc0000005/"><u>Troubleshooting Tips for Repairing Critical Process Died Error (0XC0000005)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-microsoft-wireless-display-adapter-for-windows-11-a-step-by-step-guide/"><u>Troubleshooting Your Microsoft Wireless Display Adapter for Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-correcting-errors-when-your-warframe-update-doesnt-work/"><u>Ultimate Guide: Correcting Errors When Your Warframe Update Doesn’t Work</u></a></li>
 </ul></div>
 

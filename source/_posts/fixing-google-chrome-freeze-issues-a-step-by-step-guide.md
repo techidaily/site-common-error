@@ -1,7 +1,7 @@
 ---
 title: "Fixing Google Chrome Freeze Issues: A Step-by-Step Guide"
-date: 2024-09-19T20:36:16.986Z
-updated: 2024-09-26T20:37:27.685Z
+date: 2024-09-26T20:44:37.399Z
+updated: 2024-10-01T21:44:30.418Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ the picture was taken by: Article\_86
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Get an ad-block extension
 
  Because this scam is a fraud page, technically it won’t do severe harm to your computer. The working mechanism of this scam is like an ad. Screening fraudulent users to defraud money. So an ad-block extension can help.
@@ -73,30 +80,9 @@ the picture was taken by: Article\_86
 2. Type “**chrome://extensions** ” in the Chrome address bar and press **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/chorm1.jpg)
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Relaunch Chrome to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
 
@@ -106,19 +92,34 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **History** \> **History** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reset Google Chrome to default settings
 
@@ -133,14 +134,21 @@ the picture was taken by: Article\_86
 5. Click **Reset settings** to reset Google Chrome.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -179,17 +187,16 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-streamline-screen-capabilities-building-in-frame-video-experiences-on-sierra/"><u>[Updated] 2024 Approved Streamline Screen Capabilities Building In-Frame Video Experiences on Sierra</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-secrets-to-designing-impactful-igtv-thumbnails/"><u>[Updated] In 2024, Secrets to Designing Impactful IGTV Thumbnails</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-ultimate-test-nikon-d7500-vs-competitors/"><u>[Updated] In 2024, The Ultimate Test Nikon D7500 vs Competitors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726028396040-windows-1011/"><u>動画キャプチャ上手になる!Windows 10/11向けのベストツールをご紹介します。</u></a></li>
-<li><a href="https://solve-news.techidaily.com/cookiebot-enabled-enhancing-your-website-with-smart-analytics-and-personalization/"><u>Cookiebot-Enabled: Enhancing Your Website with Smart Analytics and Personalization</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/decoding-hardware-secrets-with-toms-technology-tutorials/"><u>Decoding Hardware Secrets with Tom's Technology Tutorials</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-7-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-fix-login-errors-caused-by-a-faulty-user-profile-service-on-windows/"><u>How to Correctly Fix Login Errors Caused by a Faulty User Profile Service on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-night-light-functionality-on-your-pc-running-windows-10-or-11/"><u>How to Restore Night Light Functionality on Your PC Running Windows 10 or 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-high-cpu-use-diagnosing-and-solving-wudfhost-issues-in-windows-11/"><u>Tackling High CPU Use: Diagnosing and Solving WUDFHost Issues in Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-review-how-the-fintie-protector-elevates-your-macbook-pro-13-experience-with-durability-at-a-steal/"><u>Top Review: How the Fintie Protector Elevates Your MacBook Pro 13 Experience with Durability at a Steal!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-unresponsive-function-keys-a-comprehensive-guide/"><u>Troubleshooting Unresponsive Function Keys: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlocking-the-secrets-to-effective-instagram-scheduling/"><u>[New] 2024 Approved Unlocking the Secrets to Effective Instagram Scheduling</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-spectacular-ultra-hd-screens-for-playing-games/"><u>[Updated] 2024 Approved Spectacular Ultra HD Screens for Playing Games</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlock-creativity-adding-borders-in-video-stories/"><u>[Updated] In 2024, Unlock Creativity Adding Borders in Video Stories</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-6-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 6</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-techniques-to-revive-corrupted-files-within-your-windows-11-os/"><u>Expert Techniques to Revive Corrupted Files Within Your Windows 11 OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-realme-c67-4g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Realme C67 4G PC | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/issues-encountered-with-windows-10-version-1903-upgrade/"><u>Issues Encountered with Windows 10 Version 1903 Upgrade</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-identifying-reasons-behind-your-windows-10-pcs-unplanned-startup-activities/"><u>Solved! Identifying Reasons Behind Your Windows 10 PC's Unplanned Startup Activities</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-solve-failed-steam-download-issues/"><u>Troubleshooting Guide: How to Solve Failed Steam Download Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-spacebar-issues-for-a-smooth-typing-experience-on-windows-11/"><u>Troubleshooting Spacebar Issues for a Smooth Typing Experience on Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-from-download-to-upload-the-art-of-online-video-editing/"><u>Updated From Download to Upload The Art of Online Video Editing</u></a></li>
 </ul></div>
 

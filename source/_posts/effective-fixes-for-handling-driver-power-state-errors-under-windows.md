@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Handling Driver Power State Errors Under Windows
-date: 2024-09-23T20:14:03.783Z
-updated: 2024-09-26T19:03:40.433Z
+date: 2024-09-28T03:05:14.242Z
+updated: 2024-10-01T16:36:46.700Z
 tags:
   - win11
   - win10
@@ -55,43 +55,64 @@ Here’s how you can do it:
 2. Type**regedit** , then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca32dcfd4.png)
 3. Click**Yes** when prompted by User Account Control.  
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca123ce81.jpg)
 4. Go to**HKEY\_LOCAL\_MACHINE** \>**SYSTEM** \>**CurrentControlSet** \>**Services** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90ca74d28b3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Right-click**Dhcp** under the Services section to select**Export** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Give a name for the backup file, say Dhcp backup. Then select a backup address and click**Save** . You can restore the file from this backup if any error occurs during the process below.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cae624a92.jpg)
 6. **Double-click** DependOnService on the right pane of Dhcp. Select all the words**except “Afd”** , then**delete** them.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cc0dde1d6.jpg)
 7. Right-click**Eaphost** under the Services section to select**Export** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Give a name for the backup file, say Eaphost backup.Then select a backup address and click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cc80aaff0.jpg)
 8. **Double-click** DependOnService on the right pane of Eaphost. Select all the words and **delete** them.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b90cd67d4334.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Close the Registry Editor window and reboot your Windows computer. Check if the error disappears. If you still see the error, don’t give up hope. Simply move onto next solution.
@@ -115,19 +136,6 @@ You can update your network driver either manually or automatically.
  You can click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the Pro version which comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b891580f3aca.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You’re done. Feel free to comment below if you have any question.
 
 * [error](https://tools.techidaily.com/drivereasy/download/)
@@ -148,22 +156,18 @@ You’re done. Feel free to comment below if you have any question.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-secrets-of-success-in-capturing-breathtaking-gopro-time-lapse/"><u>[New] 2024 Approved Secrets of Success in Capturing Breathtaking GoPro Time-Lapse</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-resolving-iphone-shot-unfocus-issues-quickly-for-2024/"><u>[Updated] Resolving iPhone Shot Unfocus Issues Quickly for 2024</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/breakfast-vegetable-omelette-bell-peppers-spinach-mushrooms-with-a-slice-of-whole-grain-toast-herbal-tea/"><u>Breakfast: Vegetable Omelette (Bell Peppers, Spinach, Mushrooms) with a Slice of Whole-Grain Toast; Herbal Tea.</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discover-the-samsung-galaxy-fit2-your-perfect-on-the-go-wellness-gadget/"><u>Discover the Samsung Galaxy Fit2: Your Perfect On-the-Go Wellness Gadget</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-implemented-overcome-the-this-page-cant-be-shown-barrier/"><u>Fix Implemented! Overcome the 'This Page Can't Be Shown' Barrier</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-recover-when-your-google-chrome-freezes-problem-solved/"><u>How To Recover When Your Google Chrome Freezes – Problem Solved!</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207103656-how-to-repair-a-malfunctioning-steam-client-launcher-expert-solutions-inside/"><u>How to Repair a Malfunctioning Steam Client Launcher - Expert Solutions Inside!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-realme-c51-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Realme C51 Device SIM</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/narrative-excellence-through-ai-chatgpts-six-pathways/"><u>Narrative Excellence Through AI, ChatGPT's Six Pathways</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-demystifying-omegle-an-insight-into-free-chat-networks-and-their-protective-features/"><u>New 2024 Approved Demystifying Omegle An Insight Into Free Chat Networks and Their Protective Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-system-cannot-allocate-enough-memory-error/"><u>Resolved: Fixing 'System Cannot Allocate Enough Memory' Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-clicks-a-guide-to-repairing-a-nonfunctional-logitech-mouse-scroll-wheel/"><u>Reviving Your Clicks: A Guide to Repairing a Nonfunctional Logitech Mouse Scroll Wheel</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-solutions-to-repair-non-functioning-usb-connectors/"><u>Simple Solutions to Repair Non-Functioning USB Connectors</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-for-missing-d3dcompiler-dll-files-error-code-43/"><u>Solution Guide for Missing D3DCompiler DLL Files (Error Code 43)</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-overcoming-minecrafts-opengl-glitches/"><u>Step-by-Step Solutions for Overcoming Minecraft's OpenGL Glitches</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-non-responsive-mousepad-in-windows-operating-systems-solutions-for-windows-1187/"><u>Troubleshooting Non-Responsive Mousepad in Windows Operating Systems - Solutions for Windows 11/8/7</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-how-to-generate-speech-from-text-the-top-text-to-speech-converters-for-2024/"><u>Updated How To Generate Speech From Text | The Top Text-to-Speech Converters for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-perfect-pixels-a-guide-to-the-11-best-edits-for-color-balance-for-2024/"><u>[New] Perfect Pixels A Guide to the 11 Best Edits for Color Balance for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-microsoft-print-to-pdf-not-working-in-windows-1011/"><u>[Solved] Microsoft Print to PDF Not Working in Windows 10/11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bring-out-the-vibes-using-radial-blurs-in-your-projects/"><u>[Updated] Bring Out the Vibes Using Radial Blurs in Your Projects</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ram-movavi/"><u>移動中不會花錢的RAM轉檔線上服務 – Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-system-event-notification-service-connection-failure-on-windows-machines/"><u>Fixing 'System Event Notification Service Connection Failure' On Windows Machines</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207040844-get-your-steelseries-arctis-5-mic-back-on-track-troubleshooting-solutions-for-better-sound-quality/"><u>Get Your SteelSeries Arctis 5 Mic Back on Track: Troubleshooting Solutions for Better Sound Quality.</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-usb-c-port-not-working-on-windows-quickly/"><u>How to Fix USB C Port Not Working on Windows Quickly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-infinix-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Infinix Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-nokia-105-classic-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Nokia 105 Classic For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-windows-10-touchscreen-top-5-easy-methods/"><u>Revive Your Windows 10 Touchscreen: Top 5 Easy Methods</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/secure-system-recovery-in-windows-8-graphics-driver-removal-techniques/"><u>Secure System Recovery in Windows 8: Graphics Driver Removal Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-sphere-dangers-the-psychological-impact-analysis/"><u>Social Sphere Dangers: The Psychological Impact Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-windows-11-touchscreen-issues-a-step-by-step-guide/"><u>Troubleshoot and Resolve Windows 11 Touchscreen Issues: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

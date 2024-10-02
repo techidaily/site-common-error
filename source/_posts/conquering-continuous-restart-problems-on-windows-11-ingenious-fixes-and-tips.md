@@ -1,7 +1,7 @@
 ---
 title: "Conquering Continuous Restart Problems on Windows 11: Ingenious Fixes and Tips"
-date: 2024-09-25T22:18:01.653Z
-updated: 2024-09-26T16:10:02.722Z
+date: 2024-09-27T22:57:37.819Z
+updated: 2024-10-01T20:34:00.788Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -58,16 +51,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -76,20 +69,43 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -104,13 +120,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -127,13 +136,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -160,18 +162,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-anime-soundtracks-setting-the-mood-for-viral-shorts/"><u>[Updated] Anime Soundtracks Setting the Mood for Viral Shorts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1715860541164-2024-approved-inbuilt-screen-capture-huaweis-mate-series-and-p-lineup-phones/"><u>2024 Approved Inbuilt Screen Capture Huawei's Mate Series & P Lineup Phones.</u></a></li>
-<li><a href="https://common-error.techidaily.com/breezy-fixes-to-jumpstart-windows-updates-stalled-at-the-start-line/"><u>Breezy Fixes to Jumpstart Windows Updates Stalled at the Start Line</u></a></li>
-<li><a href="https://common-error.techidaily.com/crackle-free-audio-experience-repairing-speaker-issues-for-windows-107-users/"><u>Crackle-Free Audio Experience: Repairing Speaker Issues for Windows 10/7 Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-tecno-spark-10-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Tecno Spark 10 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://driver-install.techidaily.com/integrate-blockchain-technology-into-your-computer-via-amd-drivers/"><u>Integrate Blockchain Technology Into Your Computer via AMD Drivers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/is-there-a-business-model-for-shopping-blog-reviews/"><u>Is There a Business Model for Shopping Blog Reviews?</u></a></li>
-<li><a href="https://common-error.techidaily.com/preventing-ftddi-memory-integrity-failures-by-ensuring-driver-compatibility/"><u>Preventing FTDDI Memory Integrity Failures by Ensuring Driver Compatibility</u></a></li>
-<li><a href="https://common-error.techidaily.com/smooth-playback-success-how-to-eliminate-kodis-constant-buffering/"><u>Smooth Playback Success: How to Eliminate Kodi's Constant Buffering</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-snapshot-eliminate-the-has-stopped-working-warning-for-32bit-print-drivers/"><u>Solution Snapshot: Eliminate the 'Has Stopped Working' Warning for 32Bit Print Drivers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-to-fixing-your-steam-game-files-after-corruption/"><u>Step-by-Step Guide to Fixing Your Steam Game Files After Corruption</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-troubleshooting-checklist-for-windows-updates-error-0x8007001f/"><u>The Ultimate Troubleshooting Checklist for Windows Updates Error 0X8007001f</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-stop-code-0x0000001d-no-spin-lock-available-fixes/"><u>Troubleshooting Stop Code 0X0000001D: No Spin Lock Available Fixes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-comprehensive-iptv-platform-agnosticism/"><u>[New] 2024 Approved Comprehensive IPTV Platform Agnosticism</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-5-leading-resources-to-masterfully-add-text-flair-online/"><u>[New] 5 Leading Resources to Masterfully Add Text Flair Online</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tand-out-on-youtube-avoid-common-logo-design-fails/"><u>[New] Stand Out on YouTube Avoid Common Logo Design Fails</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-1110-stuck-on-restarting/"><u>[SOLVED] Windows 11/10 Stuck On Restarting</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-tecno-camon-20-pro-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Tecno Camon 20 Pro 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/accessible-archives-downloading-everyday-facebook-feed/"><u>Accessible Archives Downloading Everyday Facebook Feed</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-installation-failed-error-code-800020-step-by-step-guide/"><u>How to Fix Windows 11 Installation Failed Error Code 80#0020 - Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-huawei-nova-y91-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Huawei Nova Y91 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-screen-mirroring-problems-making-your-windows-t-10-cast-perfectly/"><u>Troubleshooting Screen Mirroring Problems: Making Your Windows T 10 Cast Perfectly</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-rpc-connection-failures-in-windows-systems/"><u>Troubleshooting Tips for Fixing RPC Connection Failures in Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/wirtschaftsblickpunkte-mit-dem-handelsblatt-entdecken-sie-unseren-podcast-die-geschaftswelt-horen/"><u>Wirtschaftsblickpunkte Mit Dem Handelsblatt - Entdecken Sie Unseren Podcast 'Die Geschäftswelt Hören'“</u></a></li>
 </ul></div>
 

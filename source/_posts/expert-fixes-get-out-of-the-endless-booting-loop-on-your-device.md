@@ -1,7 +1,7 @@
 ---
 title: "Expert Fixes: Get Out of the Endless Booting Loop on Your Device"
-date: 2024-09-17T18:39:27.102Z
-updated: 2024-09-20T19:24:32.248Z
+date: 2024-09-25T19:01:19.565Z
+updated: 2024-10-01T16:30:33.525Z
 tags:
   - win11
   - win10
@@ -70,7 +70,21 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Disable the screen saver
 
@@ -84,8 +98,24 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 2. Type**lock screen settings** in the search bar and select**Lock screen settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1372f5918cd.jpg)
 3. Click**Screen saver settings** at the bottom of the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
 
@@ -125,10 +155,10 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 5. Click the**OK** button.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Exit the Registry Editor.
@@ -140,22 +170,15 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
@@ -183,5 +206,23 @@ thumbnail: https://thmb.techidaily.com/5ba7b3f6e60e87bd15e4d0d59cd473305f169947a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/1726226647964-bmpjpeg-movavi/"><u>無限制網路 BMP到JPEG轉換 - 使用Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-diagnosing-and-repairing-frozen-movements-in-your-laptop-mouse/"><u>Comprehensive Guide to Diagnosing & Repairing Frozen Movements in Your Laptop Mouse</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/dive-into-the-asus-rog-rapture-gt-be98-pro-wi-fi-router-the-ultimate-review-on-performance-and-scalability/"><u>Dive Into the Asus ROG Rapture GT-BE98 Pro Wi-Fi Router - The Ultimate Review on Performance and Scalability</u></a></li>
+<li><a href="https://video-capture.techidaily.com/expert-picks-5-superior-video-call-recording-tools-for-2024/"><u>Expert Picks 5 Superior Video Call Recording Tools for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/gameplay-might-force-a-shutdown/"><u>Gameplay Might Force a Shutdown</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-tips-for-incorporating-music-selections-on-vimeo-videos/"><u>In 2024, Tips for Incorporating Music Selections on Vimeo Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/install-latest-software-hp-all-in-one-printer-deskjet-3755-for-pcs-on-windows-11-8-and-7/"><u>Install Latest Software: HP All-in-One Printer (DeskJet 3755) for PCs on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-dead-laptop-battery-fast-and-effortlessly/"><u>Revive Your Dead Laptop Battery Fast & Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-overcome-image-troubles-in-windows-11-and-windows-10-environments/"><u>Step-by-Step Solutions to Overcome Image Troubles in Windows 11 and Windows 10 Environments</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/supreme-top-4k-tvs-for-gamers-for-2024/"><u>Supreme Top 4K TVs for Gamers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-non-functional-wacom-pen-in-windows-11-and-10/"><u>Troubleshooting Guide: Fixing a Non-Functional Wacom Pen in Windows 11 & 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-bluetooth-connection-issues-in-windows-11/"><u>Ultimate Guide: Resolving Bluetooth Connection Issues in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/unmute-netflix-effortless-fixes-to-bring-back-sound/"><u>Unmute Netflix: Effortless Fixes to Bring Back Sound</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-cartoonify-your-footage-the-ultimate-video-to-cartoon-tutorial-for-2024/"><u>Updated Cartoonify Your Footage The Ultimate Video-to-Cartoon Tutorial for 2024</u></a></li>
+</ul></div>
 

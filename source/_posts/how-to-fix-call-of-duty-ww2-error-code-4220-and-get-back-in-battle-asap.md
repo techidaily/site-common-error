@@ -1,7 +1,7 @@
 ---
 title: How to Fix Call of Duty WW2 Error Code 4220 & Get Back in Battle ASAP
-date: 2024-09-22T22:35:20.008Z
-updated: 2024-09-26T22:32:41.750Z
+date: 2024-09-26T16:58:33.971Z
+updated: 2024-10-02T01:23:24.650Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ Receive ERROR notice when playing CoD: WWII? Call of Duty World War 2 is one of 
 * [System requirements for PC players](https://tools.techidaily.com/drivereasy/download/)
 * [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart the device
 
  This fix sounds cliche but worth trying. Reboot your device could make things different. We suggest everyone try this first before any technical and complex fix.
@@ -45,10 +52,10 @@ Receive ERROR notice when playing CoD: WWII? Call of Duty World War 2 is one of 
 If the issue is still there, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Log on Zombie first
@@ -87,13 +94,6 @@ Use a wired connection if you’re a PC player.
 2. Go to **Settings** and select **Network** .
 3. In the right-hand column, select **Test network connection** , and allow the test to run.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Reinstall the game
 
  Uninstall the game and reinstall it could simply rewrite data files. The error code may be fixed by this fix.
@@ -104,13 +104,6 @@ Use a wired connection if you’re a PC player.
 3. Delete Call of Duty: World War II (right-click this game in the list and select **Uninstall** ).
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## System requirements for PC players
 
@@ -151,10 +144,10 @@ Use a wired connection if you’re a PC player.
 | **Memory**           | 16 GB RAM                         |
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Update your driver
@@ -175,6 +168,14 @@ Use a wired connection if you’re a PC player.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
@@ -201,20 +202,14 @@ Use a wired connection if you’re a PC player.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-canva-skills-purging-images-of-their-surroundings/"><u>[New] Canva Skills Purging Images of Their Surroundings</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-corsairs-icue-gaming-platform-ready-to-run-on-windows-1110-systems/"><u>Download Corsair's iCUE Gaming Platform – Ready to Run on Windows 11/10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206324193-fix-your-laptops-charging-issue-instantly-simple-steps/"><u>Fix Your Laptop's Charging Issue Instantly - Simple Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-vanished-steam-game-files-and-recovering-access-rights/"><u>Fixing Vanished Steam Game Files and Recovering Access Rights</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-11-sound-settings-solutions-for-nonfunctional-volume-control/"><u>Fixing Windows 11 Sound Settings: Solutions for Nonfunctional Volume Control</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/hear-got-music-top-sites-to-download-ringtones/"><u>Hear GoT Music - Top Sites to Download Ringtones</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-motorola-g24-power-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Motorola G24 Power</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/instant-integration-syncing-iphone-media-with-computer-for-2024/"><u>Instant Integration Syncing iPhone Media with Computer for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/lsa-security-guardrails-back-online-boosting-device-protection-levels/"><u>LSA Security Guardrails Back Online, Boosting Device Protection Levels</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ring-youtube-views-secrets-for-a-million-followers/"><u>Mastering Youtube Views Secrets for a Million Followers</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-chromecast-local-content-how-to-stream-videos-from-your-computer-or-mobile-device/"><u>New 2024 Approved Chromecast Local Content How to Stream Videos From Your Computer or Mobile Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/reducing-cpu-strain-from-windows-audio-drivers-and-hardware-acceleration-issues/"><u>Reducing CPU Strain From Windows Audio Drivers and Hardware Acceleration Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issue-troubleshooting-app-launch-failures-with-administrative-user/"><u>Resolved Issue: Troubleshooting App Launch Failures With Administrative User</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-entry-point-missing-on-your-windows-system/"><u>Resolved: How to Fix 'Entry Point' Missing on Your Windows System</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-evaluation-of-the-dell-inspiron-n3671-a-review-for-budget-friendly-performance/"><u>Comprehensive Evaluation of the Dell Inspiron N3671: A Review for Budget-Friendly Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-how-to-fix-common-opengl-problems-in-minecraft/"><u>Expert Tips on How to Fix Common OpenGL Problems in Minecraft</u></a></li>
+<li><a href="https://common-error.techidaily.com/igfxem-malfunction-solutions-expert-tips-for-restoring-module-operation/"><u>IgfxEM Malfunction Solutions: Expert Tips for Restoring Module Operation</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-want-to-use-wondershare-video-editor-for-an-affordable-price-read-on-to-avail-of-the-filmora-coupon-code-2022-and-enjoy-extra-savings/"><u>New Want to Use Wondershare Video Editor for an Affordable Price? Read on to Avail of the Filmora Coupon Code 2022 and Enjoy Extra Savings</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-skyrims-infinite-loading-glitch-for-smooth-gaming-experience/"><u>Overcome Skyrim's Infinite Loading Glitch for Smooth Gaming Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oneplus-11-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock OnePlus 11 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-non-responsive-volume-control-in-windows-11/"><u>Troubleshoot and Resolve Non-Responsive Volume Control in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028933262-iphoneandroid/"><u>ビデオ音声の活用：iPhone・Android両方で、お気に入りの動画をキャッチフレーズと共に着信音に変更するステップ</u></a></li>
 </ul></div>
 

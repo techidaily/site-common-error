@@ -1,7 +1,7 @@
 ---
 title: How to Play Fortnite on Older GPUs Under Windows - Solutions Explored
-date: 2024-09-23T17:29:30.844Z
-updated: 2024-09-27T00:03:42.443Z
+date: 2024-09-28T18:20:19.914Z
+updated: 2024-10-02T00:28:17.462Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -63,16 +56,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
@@ -91,6 +78,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Change boot order in BIOS
 
 **Changing boot order in BIOS** turns out to be another effective solution to your computer-won’t-shut-down problem. Here’s how we do it:
@@ -101,15 +95,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -119,10 +114,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
@@ -133,15 +128,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -165,22 +161,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-unlock-joyful-hours-essential-list-of-best-offline-ios-titles/"><u>[New] 2024 Approved Unlock Joyful Hours - Essential List of Best Offline iOS Titles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premiere-cinematic-glimpses-series/"><u>[New] Premiere Cinematic Glimpses Series</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-definitive-list-high-quality-costless-lut-options-explored/"><u>[Updated] The Definitive List High-Quality, Costless LUT Options Explored</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-xr-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone XR Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-driverpowerstatefailure-issue/"><u>How to Fix DRIVER_POWER_STATE_FAILURE Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-excessive-cpu-usage-from-iastordatasvc-service-on-windows-10-32-bit-resolved/"><u>How to Fix Excessive CPU Usage From IAStorDataSvc Service on Windows 10 (32 Bit) [Resolved]</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-sony-xperia-10-v-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Sony Xperia 10 V</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-load-errors-in-football-manager-202n-tips-and-tricks/"><u>Resolving Load Errors in Football Manager 202N - Tips & Tricks!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/software-digitaria-termos-do-contrato-de-licenca-para-o-usuario-final-do-windows-and-dvd/"><u>Software Digitaria: Termos Do Contrato De Licença Para O Usuário Final Do Windows & DVD</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-malfunctioning-keyboard-backlights-on-pcmac-systems/"><u>Step-by-Step Solution for Malfunctioning Keyboard Backlights on PC/Mac Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208083482-stuck-with-a-non-printable-pdf-heres-how-to-solve-it-fast/"><u>Stuck with a Non-Printable PDF? Here's How to Solve It Fast!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-podcast-picks-for-gpodc-users/"><u>Top Podcast Picks for GPodC Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-tell-if-netflix-isnt-working-and-solutions/"><u>Troubleshooting Guide: How to Tell If Netflix Isn't Working and Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-disconnected-printer-resolving-error-code-30-successfully/"><u>Troubleshooting Your Disconnected Printer: Resolving Error Code -30 Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/winkernel-power-failure-error-41-fixed/"><u>WinKernel Power Failure: Error #41 Fixed</u></a></li>
-<li><a href="https://common-error.techidaily.com/wwe-2k-battlegrounds-correcting-the-direct-x-version-10-error-for-optimal-performance/"><u>WWE 2K Battlegrounds: Correcting the Direct X Version 10 Error for Optimal Performance</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-choosing-the-right-lights-and-cameras-for-youtube-videos/"><u>[New] In 2024, Choosing the Right Lights & Cameras for YouTube Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-telegram-edge-advanced-tactics-for-effective-promotion/"><u>[New] The Telegram Edge Advanced Tactics for Effective Promotion</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-turn-up-the-volume-enabling-sound-on-tweeted-videos-for-2024/"><u>[Updated] Turn Up the Volume Enabling Sound on Tweeted Videos for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-5-best-360-degree-action-cameras-you-should-use/"><u>2024 Approved 5 Best 360-Degree Action Cameras You Should Use</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-streamlining-your-ad-engagement-configuring-and-measuring-instream-ads-on-facebook/"><u>2024 Approved Streamlining Your Ad Engagement Configuring & Measuring Instream Ads on Facebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210308121-device-driver-compatibility-in-wow-problem-solved-optimize-your-system-now/"><u>Device Driver Compatibility in WoW: Problem Solved - Optimize Your System Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnose-and-cure-white-monitor-issue-in-laptops-easily/"><u>Diagnose & Cure White Monitor Issue in Laptops Easily</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-next-level-of-portable-productivity-with-the-newly-launched-samsung-galaxy-chromebook-n-a-thorough-review/"><u>Evaluating the Next Level of Portable Productivity with the Newly Launched Samsung Galaxy Chromebook N – A Thorough Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205935005-fix-0x80070643-windows-update-or-installation-errors-on-windows/"><u>Fix “0X80070643” Windows Update or Installation Errors on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/google-chrome-fixed-how-to-troubleshoot-non-responsiveness-problems/"><u>Google Chrome Fixed: How to Troubleshoot Non-Responsiveness Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-windows-10-from-continuously-restarting-on-shutdown-attempts/"><u>How to Stop Windows 10 From Continuously Restarting on Shutdown Attempts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-lava-blaze-2-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Lava Blaze 2</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-ps4s-ce-34878-0-error-for-a-smooth-gaming-experience-tips-and-fixes/"><u>Troubleshooting PS4's CE-34878-0 Error for a Smooth Gaming Experience: Tips and Fixes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolved! How to Fix LoL Game Downloading Too Slowly
-date: 2024-09-20T17:10:32.952Z
-updated: 2024-09-26T17:58:40.633Z
+date: 2024-09-29T21:50:28.287Z
+updated: 2024-10-02T01:55:16.609Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/dfc76f0ba5d27ec9fc744372720f89b9cd207751d
 
  The following screenshots are from Windows 10\. But you can also follow the steps if you’re having the problem on Windows 7.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check the setting of System Event Notification Service on your computer
 
  You may have the problem due to the incorrect setting of System Event Notification Service.  
@@ -58,19 +51,27 @@ thumbnail: https://thmb.techidaily.com/dfc76f0ba5d27ec9fc744372720f89b9cd207751d
 2. Type**services.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf596c06c.jpg)
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
-4. Right-click System Event Notification Service again, this time select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
+4. Right-click System Event Notification Service again, this time select**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
@@ -86,19 +87,20 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**cmd** , then press**Shift + Ctrl + Enter** keys together.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **netsh winsock reset**
 
  Restart your computer to see if the error has gone. If you still see the error, don’t worry, move onto the next methods.  
  If resetting Winsock worked temporarily, you can move to Fix 5.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your video card driver
 
@@ -116,15 +118,22 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Uninstall the KB2952664 update
 
@@ -136,32 +145,20 @@ Follow these steps to reset your Winsock Catalog:
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
-5. Find and right-click the update with KB2952664, then Uninstall.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
+5. Find and right-click the update with KB2952664, then Uninstall.
 
 Restart your computer to see if the error has gone.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Remove klhkum.dll
 
@@ -201,18 +198,15 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-unlock-your-devices-sound-identity-with-a-customized-whatsapp-ringtone/"><u>[Updated] Unlock Your Device's Sound Identity with a Customized WhatsApp Ringtone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-filmmakers-guide-to-using-standardized-color-luts/"><u>2024 Approved The Filmmaker's Guide to Using Standardized Color Luts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/a-detailed-review-top-10-screen-recorders-for-mac-for-2024/"><u>A Detailed Review Top 10 Screen Recorders for Mac for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-methods-to-stop-your-laptop-from-falling-asleep-unexpectedly/"><u>Effortless Methods to Stop Your Laptop From Falling Asleep Unexpectedly</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-14-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Xiaomi 14 Pattern Lock Screen</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-amplify-your-storytelling-integrating-captions-in-a-triple-threat-on-ig/"><u>In 2024, Amplify Your Storytelling - Integrating Captions in a Triple Threat on IG</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-fusing-melodies-to-visuals-in-virtual-space/"><u>In 2024, Fusing Melodies to Visuals in Virtual Space</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-realme-gt-5-240w-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Realme GT 5 (240W) Is Unlocked</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-ultimate-guide-to-screen-capture-in-macos/"><u>In 2024, The Ultimate Guide to Screen Capture in macOS</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/jokejuxtaposer-quickly-craft-memes-for-all-occasions/"><u>JokeJuxtaposer Quickly Craft Memes for All Occasions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-the-missing-vcruntime140dll-problem-easily/"><u>Troubleshooting and Solving the 'Missing VCRuntime140.dll' Problem Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-offline-steam-services-solutions-at-hand/"><u>Troubleshooting Offline Steam Services – Solutions at Hand!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-resolving-user-profile-service-failure-during-login-on-windows-11/"><u>Troubleshooting Steps for Resolving 'User Profile Service' Failure During Login on Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-discover-the-top-8-cost-free-videography-suites-for-digital-filmmakers/"><u>[New] 2024 Approved Discover the Top 8 Cost-Free Videography Suites for Digital Filmmakers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-chuckletunes-directory-select-funny-ringtone-sources/"><u>[New] ChuckleTunes Directory Select Funny Ringtone Sources</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-optimize-video-flows-5-steps-for-expert-cutting-and-lengthening-of-vimeo-content/"><u>[New] In 2024, Optimize Video Flows 5 Steps for Expert Cutting & Lengthening of Vimeo Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-twitch-triumph-or-hitbox-heritage/"><u>[New] Twitch Triumph or Hitbox Heritage?</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-techniques-for-nonfunctioning-multi-touch-swipe-options/"><u>DIY Repair Techniques for Nonfunctioning Multi-Touch Swipe Options</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Ways to Change Spotify Location On Your Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixes-for-unresponsive-google-chrome-issues/"><u>Resolved: Fixes for Unresponsive Google Chrome Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-loadlibrary-failure-error-understanding-and-fixing-code-1114/"><u>Solving the LoadLibrary Failure Error - Understanding and Fixing Code 1114</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-videodxgkrnl-crashes-in-windows-environments/"><u>Troubleshooting Tips for Fixing 'Video_Dxgkrnl' Crashes in Windows Environments</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-to-advanced-c270-hd-webcam-driver-for-w11-interface/"><u>Upgrade to Advanced C270 HD Webcam Driver for W11 Interface</u></a></li>
 </ul></div>
 

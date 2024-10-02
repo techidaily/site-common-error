@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Restarting Audio Services That Aren't Working on Windows 11"
-date: 2024-09-17T18:55:03.012Z
-updated: 2024-09-20T17:56:55.847Z
+date: 2024-09-25T23:21:04.858Z
+updated: 2024-10-01T21:30:48.109Z
 tags:
   - win11
   - win10
@@ -51,9 +51,23 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -62,6 +76,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
@@ -69,19 +91,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
@@ -95,13 +118,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -118,13 +134,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -149,5 +158,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-hacking-youtube-success-peak-audience-engagement-timing/"><u>[New] 2024 Approved Hacking YouTube Success Peak Audience Engagement Timing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-leading-ipad-voice-recorders-1-2-3/"><u>[New] 2024 Approved Leading iPad Voice Recorders #1, #2, #3</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unlock-your-profile-the-quick-fix-hacks-for-2024/"><u>[New] Unlock Your Profile The Quick Fix Hacks for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-keyboard-randomly-stops-working/"><u>[SOLVED] Keyboard Randomly Stops Working</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-iphone-and-icloud-sync-a-step-by-step-photo-arrangement-guide/"><u>[Updated] The iPhone & iCloud Sync A Step-by-Step Photo Arrangement Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-secrets-to-finding-excellent-economic-pictures-online/"><u>2024 Approved Secrets to Finding Excellent, Economic Pictures Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/become-a-movavi-ally-exploring-our-partnership-benefits/"><u>Become a Movavi Ally: Exploring Our Partnership Benefits</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-unresponsive-touchpad-issue-tips-for-smooth-scrolling-in-windows-prise-the-new-world-of-business-collaboration-software-a-comprehensive-guide/"><u>Fixing the Unresponsive Touchpad Issue: Tips for Smooth Scrolling in Windows Prise | The New World of Business Collaboration Software - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-optimize-dwm-for-lower-gpu-consumption-in-windows-11-a-five-step-guide/"><u>How to Optimize DWM for Lower GPU Consumption in Windows 11: A Five-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-nvidia-installation-hurdles-completely/"><u>Resolving NVIDIA Installation Hurdles Completely</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-typing-dilemma-reactive-tips-for-broken-letter-keys-in-win-1011/"><u>Solve Your Typing Dilemma: Reactive Tips for Broken Letter Keys in Win 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201160873-tackling-high-cpu-drain-by-svchostexe-on-windows-11-solved/"><u>Tackling High CPU Drain by svchost.exe on Windows 11: Solved</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-digital-era-unveiled-a-detailed-comparison-between-tiktok-and-snap/"><u>The Digital Era Unveiled A Detailed Comparison Between TikTok and Snap</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-mic-steelseries-arctis-5-audio-fixes-and-solutions/"><u>Troubleshooting the Mic: SteelSeries Arctis 5 Audio Fixes and Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/why-isnt-my-apple-watch-recording-steps-a-comprehensive-fix/"><u>Why Isn’t My Apple Watch Recording Steps? A Comprehensive Fix</u></a></li>
+</ul></div>
 

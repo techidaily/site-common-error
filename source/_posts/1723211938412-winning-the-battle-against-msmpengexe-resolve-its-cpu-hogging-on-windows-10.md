@@ -1,7 +1,7 @@
 ---
 title: "Winning the Battle Against MsMpEng.exe: Resolve Its CPU Hogging on Windows 10!"
-date: 2024-09-20T17:25:18.919Z
-updated: 2024-09-26T17:07:33.427Z
+date: 2024-09-26T21:58:36.566Z
+updated: 2024-10-01T20:30:20.018Z
 tags:
   - win11
   - win10
@@ -97,13 +97,6 @@ net start cryptsvc
 
  Check to see if this resolved your Windows Update problem. Hopefully it did. But if not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Run the DISM tool
 
  This issue is probably caused by the corrupted Windows update files. In this case, running   **the Deployment Image Servicing and Management (DISM) tool** may resolve this issue. Just follow the step-by-step instructions to run the DISM tool:
@@ -138,13 +131,6 @@ Dism /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Try performing a Windows update to see if this fixes works. If this issue persists, try running the System File Checker.
 
 ### Fix 4: Run System File Checker
@@ -160,13 +146,6 @@ sfc /scannow
 It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) When this command operation is completed, close **Command Prompt** .
 
@@ -195,19 +174,39 @@ It may take some time for the command operation to be completed.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Update Windows from the Windows 10 ISO file
 
@@ -227,6 +226,13 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Select   **Create installation media (USB flash drive, DVD, or ISO file) for another PC**  and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-14.png)
@@ -234,13 +240,6 @@ _You can do it for free if you like, but it’s partly manual._
  6) Select the language and architecture of your Windows 10 ISO file and click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-15.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:**  If the installed memory of your PC is less than**4GB** , it’s recommended that you select the 32-bit architecture.
 
@@ -252,16 +251,16 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-17.png)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9) Click **Finish** to close the media creation tool.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-18.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 2: Start updating
 
@@ -273,15 +272,22 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) When you see the following window, select**Not right now** then click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-19.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to update your Windows 10 OS. During the installation, your computer will restart several times.
@@ -308,18 +314,17 @@ _You can do it for free if you like, but it’s partly manual._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-pro-video-essentials-selecting-superior-camera-lenses/"><u>[New] 2024 Approved Pro Video Essentials Selecting Superior Camera Lenses</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-critics-choice-best-5-web-recording-applications/"><u>[New] Critics' Choice Best 5 Web Recording Applications</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-elevate-your-online-sound-experience-with-these-5-steps-for-2024/"><u>[New] Elevate Your Online Sound Experience with These 5 Steps for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-essential-guide-top-10-steps-for-instructors-on-youtube-channels-for-2024/"><u>[New] Essential Guide Top 10 Steps for Instructors on YouTube Channels for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-producing-hysterical-youtube-video-reactions-3-key-techniques/"><u>[Updated] The Ultimate Guide to Producing Hysterical YouTube Video Reactions (3 Key Techniques)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ditch-installation-struggles-preparations-before-vbox-on-pc/"><u>Ditch Installation Struggles: Preparations Before VBox on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/errtoomanyredirects-fixed-fast-solutions/"><u>ERR_TOO_MANY_REDIRECTS Fixed: Fast Solutions!</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-1000-troubleshooting-for-windows-operating-systems-win7win8win10/"><u>Error 1000 Troubleshooting for Windows Operating Systems (Win7/Win8/Win10)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-fix-a-stuck-cddvd-player-with-error-message-39-expert-advice/"><u>How to Diagnose and Fix a Stuck CD/DVD Player with Error Message 39 – Expert Advice</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-with-imei-code-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s with IMEI Code?</u></a></li>
-<li><a href="https://common-error.techidaily.com/laptop-touchpad-malfunctioning-here-are-fixes-for-windows-users/"><u>Laptop Touchpad Malfunctioning? Here Are Fixes for Windows Users!</u></a></li>
-<li><a href="https://common-error.techidaily.com/taming-the-beast-reducing-microsoft-malicious-software-removal-tools-cpu-usage-in-windows-10-issue-resolved/"><u>Taming the Beast: Reducing Microsoft Malicious Software Removal Tool's CPU Usage in Windows 10 [ISSUE RESOLVED]</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716069012509-updated-2024-approved-top-sandbox-adventures-not-to-skip/"><u>[Updated] 2024 Approved Top Sandbox Adventures Not To Skip!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-vs-gopro-hero-session-and-polaroid-cube-top-pick-for-filmmakers-for-2024/"><u>[Updated] Vs. GoPro Hero Session & Polaroid Cube Top Pick for Filmmakers for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-affordable-pc-obs-tuning-guide/"><u>2024 Approved Affordable PC OBS Tuning Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restoring-right-click-capability-for-your-mouse-in-windows-11/"><u>Guide to Restoring Right-Click Capability for Your Mouse in Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-20-leading-no-cost-digital-editing-platforms/"><u>In 2024, 20 Leading No-Cost Digital Editing Platforms</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-compiling-top-ios-recording-utilities/"><u>In 2024, Compiling Top iOS Recording Utilities</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209328906-logitech-g930-cutting-out-heres-how-to-restore-full-functionality/"><u>Logitech G930 Cutting Out? Here's How to Restore Full Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/oculus-repair-manual-top-techniques-to-correct-hardware-problems-as-of-2024/"><u>Oculus Repair Manual - Top Techniques to Correct Hardware Problems as of 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-restart-secure-access-through-system-level-permissions-lockdown/"><u>Resolved: Restart Secure Access Through System-Level Permissions Lockdown</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-21-reproductores-de-pantalla-libres-y-sin-acunar-para-la-captura-perfecta-movavi/"><u>Top 21 Reproductores De Pantalla Libres Y Sin Acuñar Para La Captura Perfecta - Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201414472-troubleshoot-your-stuck-keyboard-arrows-effective-solutions/"><u>Troubleshoot Your Stuck Keyboard Arrows – Effective Solutions!</u></a></li>
 </ul></div>
 

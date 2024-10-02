@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Why Aren't My Function Keys Working?"
-date: 2024-09-14T18:15:47.024Z
-updated: 2024-09-20T17:51:15.646Z
+date: 2024-09-29T01:24:59.232Z
+updated: 2024-10-02T04:30:32.274Z
 tags:
   - win11
   - win10
@@ -44,8 +44,24 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 3. Click**Ease of Access** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
 
 #### On Windows 11
@@ -65,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
  Look on your keyboard for a key that says **NumLock** and make sure to enable the key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2eecb19e08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the**NumLock** key is disabled, the number keys on the right side of your keyboard will not work.
 
  If the NumLock key is enabled and the number keys still don’t work, you can try pressing the NumLock key for about**5 seconds** , which did the trick for some users.
@@ -72,16 +95,10 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 ---
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
@@ -106,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Use a different user profile
 
  Keyboard numbers not working might be a symptom of user profile corruption. To check for it, you can try logging in to Windows with a different user account.
@@ -115,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
  When you’ve logged in to Windows with the new account, open Word or Notepad to test your keyboard numbers.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check hardware issues
 
@@ -146,5 +163,22 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-unlock-words-full-potential-with-easy-speech-to-text-features-for-2024/"><u>[New] Unlock Word's Full Potential with Easy Speech-to-Text Features for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unleashing-your-musical-voice-a-compree-play-by-play-guide-for-youtube-playlist-crafting-for-2024/"><u>[Updated] Unleashing Your Musical Voice A Compree Play-by-Play Guide for YouTube Playlist Crafting for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-motorola-moto-g73-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeat-windows-1s10-update-error-code-0x800f0922-with-these-8-expert-fixes/"><u>Defeat Windows 1ˈs10 Update Error Code 0X800F0922 with These 8 Expert Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-overcoming-the-problem-of-steam-store-failing-to-load/"><u>Expert Tips: Overcoming the Problem of Steam Store Failing to Load</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-issues-when-steam-installs-or-updates-games/"><u>How to Fix Issues When Steam Installs or Updates Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-regain-access-to-lost-steam-game-files-complete-solution/"><u>How to Regain Access to Lost Steam Game Files - Complete Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-issues-when-icloud-cant-detect-devices/"><u>How to Repair Issues When iCloud Can't Detect Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-communication-in-fortnite-simple-solutions-inside/"><u>How to Restore Voice Communication in Fortnite - Simple Solutions Inside</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-7-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 with a Mask On</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-5-ways-to-record-audio-on-windows-11/"><u>In 2024, 5 Ways to Record Audio on Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-arduino-uno-drivers-problems-in-microsofts-operating-system/"><u>Resolving Arduino Uno Drivers Problems in Microsoft's Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-authentication-problems-user-profile-service-on-windows-10-and-11/"><u>Solving Authentication Problems: User Profile Service on Windows 10 & 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-definitive-guide-to-fixing-startechs-device-drivers-on-windows-systems/"><u>The Definitive Guide to Fixing StarTech's Device Drivers on Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-a70-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on A70 without backup.</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Non-Responsive Fn Key Issues on Your PC
-date: 2024-09-23T19:17:15.862Z
-updated: 2024-09-26T18:47:46.374Z
+date: 2024-09-27T18:26:33.698Z
+updated: 2024-10-01T16:09:05.318Z
 tags:
   - win11
   - win10
@@ -43,6 +43,19 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -67,29 +80,22 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -115,13 +121,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -131,9 +130,23 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -143,27 +156,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -199,18 +205,21 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-5-ways-to-download-facebook-story-on-desktop-and-mobile/"><u>[New] In 2024, 5 Ways to Download Facebook Story on Desktop and Mobile</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-youtube-interaction-with-emojis/"><u>Boosting YouTube Interaction with Emojis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/clarity-on-the-conversation-frontier-dispelling-9-artificial-intelligence-chatbot-misbeliefs/"><u>Clarity on the Conversation Frontier: Dispelling 9 Artificial Intelligence Chatbot Misbeliefs</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fixes-to-resolve-monitor-projecting-error-on-windows-computers/"><u>Effortless Fixes To Resolve Monitor Projecting Error On Windows Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-and-solutions-how-to-resolve-nier-automata-pc-game-crash-issues/"><u>Fixes and Solutions: How to Resolve Nier: Automata PC Game Crash Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-why-your-number-keys-on-the-keyboard-arent-responding/"><u>Fixing the Issue: Why Your Number Keys on the Keyboard Aren't Responding</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 15 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/leap-into-virtual-gatherings-xbox-zoom-mastery-for-2024/"><u>Leap Into Virtual Gatherings Xbox Zoom Mastery for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/movavimp33gpp/"><u>Movaviで簡単な手順での無料MP3への3GPPファイル変換ガイド</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209689115-resolution-guide-toshiba-laptop-key-malfunction-fixed/"><u>Resolution Guide: Toshiba Laptop Key Malfunction Fixed</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-skype-mic-is-not-working/"><u>Solved: Skype Mic Is Not Working</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-hitch-free-guide-to-restoring-your-mac-webcam-functionality/"><u>The Hitch-Free Guide to Restoring Your Mac Webcam Functionality</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/your-ultimate-guide-to-polarr-image-editing-software/"><u>Your Ultimate Guide to Polarr Image Editing Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-conceal-dont-reveal-how-to-blur-faces-online/"><u>[New] 2024 Approved Conceal, Don't Reveal How to Blur Faces Online</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-unraveling-online-video-discussions/"><u>[New] 2024 Approved Unraveling Online Video Discussions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-discover-unlimited-stories-free-extensions-and-mobile-marvels/"><u>[New] In 2024, Discover Unlimited Stories – FREE Extensions & Mobile Marvels</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-ultimate-instagram-story-tips-and-tricks/"><u>2024 Approved Ultimate Instagram Story Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/5-reasons-youre-feeling-apathetic-about-school-and-how-to-overcome-them/"><u>5 Reasons You're Feeling Apathetic About School and How to Overcome Them</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-the-blackscreen-blues-in-windows-11/"><u>Diagnosing and Repairing the Blackscreen Blues in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-for-embedding-programming-snippets-in-microsoft-word/"><u>Effective Techniques for Embedding Programming Snippets in Microsoft Word</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-spark-go-2023withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Spark Go (2023)with/without a PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-15-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 15 Pro Max without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/microsoft-wireless-display-not-working-on-windows-11-heres-how-you-can-solve-it/"><u>Microsoft Wireless Display Not Working on Windows 11? Here’s How You Can Solve It</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-personalization-features-not-working-errors/"><u>Resolving 'Personalization Features Not Working' Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/shadowy-sheen-unsolved-anomaly/"><u>Shadowy Sheen: Unsolved Anomaly</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-issue-non-functioning-toshiba-keyboard-buttons/"><u>Solved Issue: Non-Functioning Toshiba Keyboard Buttons</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphones-silent-alarm-issue-step-by-step-guide/"><u>Solving iPhone's Silent Alarm Issue - Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-display-driver-stopped-responding-errors-on-your-pc/"><u>Troubleshooting Guide: Resolving 'Display Driver Stopped Responding' Errors on Your PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-samsung-galaxy-s23-fe-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Samsung Galaxy S23 FE to Gmail | Dr.fone</u></a></li>
 </ul></div>
 

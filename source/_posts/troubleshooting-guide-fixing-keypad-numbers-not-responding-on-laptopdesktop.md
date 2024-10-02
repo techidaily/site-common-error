@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Keypad Numbers Not Responding on Laptop/Desktop"
-date: 2024-09-20T21:52:55.765Z
-updated: 2024-09-26T18:53:19.431Z
+date: 2024-09-30T22:56:15.067Z
+updated: 2024-10-01T16:03:01.350Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ You may not have to try them all; just work your way down the list until you fin
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Reinstall your game**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Press Tab when parachuting
 
 To fix your game graphics issue, you can make your game load the building texture before landing. To do so, when your parachute is pulled out, press the**Tab**key on your keyboard to bring up the inventory screen. Your game may freeze for a while, as it’s loading the texture. After that, check to see if this fixes your texture issues. Hopefully it does. But if not, there are still three fixes for you to try…
@@ -48,34 +41,48 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fda9155da2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Downloads**, then click the**STEAM LIBRARY FOLDERS**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdb536f27d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click**ADD LIBRARY FOLDER**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdcc73a052.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Choose a folder on your SSD where you want to save your PUBG files. (If you want to create a new one, click **NEW FOLDER**.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdd923b057.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Click**CLOSE**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fdde86db67.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Click**OK**.
@@ -94,16 +101,16 @@ If you’re using an solid-state drive (SSD), you should try moving your games f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe45ed95b1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **10)** Select the new folder you’ve created, then click**MOVE FOLDER**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5fe4dad26a2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Steam will move your PUBG files to that new folder. You can then check to see if this fixes your building texture issues.
 
@@ -114,10 +121,10 @@ Your game may not be able to load the building texture properly if you’re not 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ed68ebd56d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Click the **Update**  button next to_your graphics adapter_ to download the latest and correct driver for it, then you can manually install it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
@@ -127,13 +134,6 @@ Your game may not be able to load the building texture properly if you’re not 
  You can do it for free if you like, but it’s partly manual.
 
  If you have any issues with Driver Easy, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  for advice. You should attach the URL of this article so they can help you better.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Reinstall your game
 
@@ -156,21 +156,20 @@ Your PUBG files may have been corrupted so you are having the texture loading is
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-warmth-in-visuals-ideal-winter-backgrounds-for-youtube/"><u>[New] Warmth in Visuals Ideal Winter Backgrounds for YouTube</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-ultimate-gif-preservation-toolkit-for-twitters-2024/"><u>[Updated] The Ultimate GIF Preservation Toolkit for Twitter's 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/avoid-note-loss-forever-how-to-reclaim-deleted-content-from-your-iphone/"><u>Avoid Note Loss Forever: How to Reclaim Deleted Content From Your iPhone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/best-webcam-tripods-flex-neck-and-stands/"><u>Best Webcam Tripods, Flex-Neck and Stands</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-fixing-error-code-0x80070426-in-windows-10/"><u>Comprehensive Guide to Fixing Error Code 0X80070426 in Windows 10</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/expert-insights-optimal-techniques-for-pc-display-recordings/"><u>Expert Insights Optimal Techniques for PC Display Recordings</u></a></li>
-<li><a href="https://common-error.techidaily.com/getting-a-usb-mouse-to-work-again-on-your-laptop-top-5-fixes-you-cant-miss/"><u>Getting a USB Mouse to Work Again on Your Laptop: Top 5 Fixes You Can't Miss</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-the-common-minecraft-error-code-5-issue/"><u>How to Resolve the Common Minecraft 'Error Code 5' Issue</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-revolutionize-your-play-with-top-tips-for-ps4-gameplay-recording/"><u>In 2024, Revolutionize Your Play with Top Tips for PS4 Gameplay Recording</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-windows-update-insights-the-latest-wins/"><u>In 2024, Windows Update Insights The Latest Wins</u></a></li>
-<li><a href="https://fox-http.techidaily.com/mastering-image-enhancement-for-breathtaking-results/"><u>Mastering Image Enhancement for Breathtaking Results</u></a></li>
-<li><a href="https://common-error.techidaily.com/netflix-buffering-fixed-tips-for-continuous-streaming-on-desktop-computers/"><u>Netflix Buffering Fixed - Tips for Continuous Streaming on Desktop Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-display-problems-reactivating-night-light-on-recent-windows-versions/"><u>Solve Your Display Problems: Reactivating Night Light on Recent Windows Versions</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-fixing-hp-laptops-malfunctioning-usb-connection/"><u>Solved: Fixing HP Laptop's Malfunctioning USB Connection</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-nokia-xr21-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Nokia XR21.</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-isnt-my-torrent-downloading-find-out-what-you-can-do-to-resolve-it/"><u>Why Isn't My Torrent Downloading? Find Out What You Can Do to Resolve It</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-contrast-of-virtual-realms-meta-vs-omni-universe/"><u>[Updated] The Contrast of Virtual Realms Meta Vs. Omni Universe</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-discover-ultimate-asmr-microphones-for-clear-sounds/"><u>2024 Approved Discover Ultimate ASMR Microphones for Clear Sounds</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/best-practices-for-producing-eye-catching-slow-motion-videos-on-instagram/"><u>Best Practices for Producing Eye-Catching Slow-Motion Videos on Instagram</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-handling-driver-power-state-errors-under-windows/"><u>Effective Fixes for Handling Driver Power State Errors Under Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-repair-damaged-windows-1011-system-files/"><u>Effective Solutions to Repair Damaged Windows 10/11 System Files</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-to-address-and-resolve-a-500-internal-server-issue/"><u>Effective Strategies to Address and Resolve a 500 Internal Server Issue</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-wacom-driver-installation-for-beginners/"><u>Effortless Wacom Driver Installation for Beginners</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-diagnosing-and-fixing-the-fatal-program-error-code-0xc0000098-in-windows/"><u>Expert Tips on Diagnosing and Fixing the Fatal Program Error Code 0Xc0000098 in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-recover-from-corrupted-system-files-in-windows-1011-without-data-loss/"><u>How to Recover From Corrupted System Files in Windows 10/11 Without Data Loss</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-google-pixel-fold-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Google Pixel Fold</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-12-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi 12 5G?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-the-samsung-galaxy-a20-a-smart-pick-for-thrifty-tech-enthusiasts-detailed-review-inside/"><u>Is the Samsung Galaxy A20 a Smart Pick for Thrifty Tech Enthusiasts? Detailed Review Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-your-mic-problems-on-windows-11-a-comprehensive-fix/"><u>Solving Your Mic Problems on Windows 11 - A Comprehensive Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-the-hp-touchpad-malfunction-on-your-laptop/"><u>Step-by-Step Guide: Resolving the HP Touchpad Malfunction on Your Laptop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-eliminating-noise-and-reducing-grain-in-videos-using-adobe-after-effects/"><u>Ultimate Guide: Eliminating Noise & Reducing Grain in Videos Using Adobe After Effects</u></a></li>
 </ul></div>
 

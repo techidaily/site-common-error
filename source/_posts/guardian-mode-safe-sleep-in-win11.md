@@ -1,7 +1,7 @@
 ---
 title: "Guardian Mode: Safe Sleep in Win11"
-date: 2024-09-24T16:50:58.136Z
-updated: 2024-09-26T18:34:31.927Z
+date: 2024-09-30T04:12:55.462Z
+updated: 2024-10-01T18:44:50.404Z
 tags:
   - win11
   - win10
@@ -43,14 +43,14 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Tip 2: Check your desktop icon settings
 
@@ -62,26 +62,13 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
@@ -100,6 +87,13 @@ start explorer.exe
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -109,22 +103,8 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
@@ -139,10 +119,25 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 1. Click the **Start** button > the **Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -162,10 +157,10 @@ OR
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -191,21 +186,20 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-craft-captivating-narratives-the-best-of-the-best-10-igtv-strategies-for-brands-for-2024/"><u>[New] Craft Captivating Narratives The Best of the Best 10 IGTV Strategies for Brands for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-premier-selection-of-moving-typefaces/"><u>[New] Premier Selection of Moving Typefaces</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-quintessential-guide-to-selecting-video-apps-for-reels-for-2024/"><u>[New] The Quintessential Guide to Selecting Video Apps for Reels for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/dive-deep-into-data-stellar-recoverys-embrace/"><u>Dive Deep Into Data: Stellar Recovery's Embrace</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-your-pc-when-it-refuses-to-power-off-on-windows-11-step-by-step-guide/"><u>How to Fix Your PC When It Refuses to Power Off on Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-14-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 14 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-top-snapchat-content-strategies-to-stand-out/"><u>In 2024, Top Snapchat Content Strategies to Stand Out</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/infuse-audiovisual-experience-in-ppt/"><u>Infuse Audiovisual Experience in PPT</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-refresh-and-reset-for-optimal-windows-11-performance/"><u>Mastering the Art of Refresh and Reset for Optimal Windows 11 Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-service-registry-missing-errors-in-windows-10/"><u>Resolving 'Service Registry Missing' Errors in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-your-windows-11s-elusive-trackpad-arrow-issue/"><u>Resolving Your Windows 11'S Elusive Trackpad Arrow Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/silent-no-more-how-to-restore-speaker-function-on-an-acer-laptop/"><u>Silent No More: How to Restore Speaker Function on an Acer Laptop</u></a></li>
-<li><a href="https://common-error.techidaily.com/simplified-repair-methods-for-fixing-boot-selection-issues-in-windows-systems/"><u>Simplified Repair Methods for Fixing Boot Selection Issues in Windows Systems</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/skip-windows-emulators-top-linux-gaming-stores-offering-officially-compatible-titles/"><u>Skip Windows Emulators: Top Linux Gaming Stores Offering Officially Compatible Titles</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-ethernet-not-detected-problems-in-windows-10-and-7/"><u>Troubleshooting Guide: Solving 'Ethernet Not Detected' Problems in Windows 10 & 7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-magic-behind-internet-ready-television-sets/"><u>Unveiling the Magic Behind Internet-Ready Television Sets</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-photo-your-desktop-windows-edition-for-2024/"><u>[New] Photo Your Desktop Windows Edition for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-pro-video-setup-utilizing-your-logitech-webcam-for-2024/"><u>[New] Pro Video Setup Utilizing Your Logitech Webcam for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-disguising-reality-learn-free-green-screen-techniques-via-vfx-leaders-on-4-video-platforms/"><u>[Updated] The Art of Disguising Reality Learn Free Green Screen Techniques via VFX Leaders on 4 Video Platforms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unveiling-stardew-valleys-most-innovative-game-updates-for-2024/"><u>[Updated] Unveiling Stardew Valley's Most Innovative Game Updates for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/crafting-full-sphere-videos-on-iphone-ideal-for-facebook/"><u>Crafting Full-Sphere Videos on iPhone, Ideal for Facebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-your-surface-pro-4-stylus-not-working-dilemma/"><u>Effective Fixes for Your Surface Pro 4 Stylus Not Working Dilemma</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/elevating-speech-understanding-via-google-translate-for-2024/"><u>Elevating Speech Understanding via Google Translate for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-resolving-problems-with-malfunctioning-laptop-usb-input-devices/"><u>Expert Advice: Resolving Problems with Malfunctioning Laptop USB Input Devices</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-a25-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210596795-how-to-fix-and-restore-bluetooth-functionality-on-your-windows-10-laptopdesktop-efficiently/"><u>How to Fix and Restore Bluetooth Functionality on Your Windows 10 Laptop/Desktop Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-eliminate-persistent-buffering-on-your-kodi-device/"><u>Solution Found: Eliminate Persistent Buffering on Your Kodi Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-dxgkrnl-fatal-errors-in-windows/"><u>Ultimate Guide: Resolving DXGKRNL Fatal Errors in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722977530750-ultimate-walkthrough-to-download-and-activate-your-sandisk-ssd-drives-correctly/"><u>Ultimate Walkthrough to Download and Activate Your Sandisk SSD Drives Correctly</u></a></li>
+<li><a href="https://common-error.techidaily.com/unfreeze-your-web-surfing-solving-non-responsive-google-chrome-troubles/"><u>Unfreeze Your Web Surfing: Solving Non-Responsive Google Chrome Troubles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/your-ultimate-guide-to-outstanding-streamers/"><u>Your Ultimate Guide to Outstanding Streamers</u></a></li>
 </ul></div>
 

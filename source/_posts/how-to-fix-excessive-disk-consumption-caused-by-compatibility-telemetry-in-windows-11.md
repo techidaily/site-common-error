@@ -1,7 +1,7 @@
 ---
 title: How to Fix Excessive Disk Consumption Caused by Compatibility Telemetry in Windows 11
-date: 2024-09-18T16:54:49.811Z
-updated: 2024-09-20T16:38:09.110Z
+date: 2024-09-30T02:32:40.339Z
+updated: 2024-10-01T17:32:26.937Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -43,7 +50,27 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 2: Check your desktop icon settings
 
@@ -54,6 +81,13 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 3. Select the icons you want to show on desktop, then click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -86,28 +120,15 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
@@ -121,13 +142,6 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -144,15 +158,15 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -175,5 +189,23 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-comprehensive-list-of-premium-ways-to-access-cricket-live/"><u>[New] 2024 Approved Comprehensive List of Premium Ways to Access Cricket Live</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-chortle-chamber-free-funny-template-vaults/"><u>[New] Chortle Chamber Free Funny Template Vaults</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-strategies-for-effortless-insertion-of-videos-into-youtube-compilations/"><u>[New] Strategies for Effortless Insertion of Videos Into YouTube Compilations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-time-travelers-treasure-a-look-at-goofy-movie-for-2024/"><u>[Updated] Time Traveler’s Treasure A Look at 'Goofy Movie' For 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-pros-choice-a-list-of-17-superior-video-to-text-converters/"><u>2024 Approved The Pro's Choice A List of 17 Superior Video-to-Text Converters</u></a></li>
+<li><a href="https://games-able.techidaily.com/adraise-the-curtain-on-amd-rdna-35-when-to-expect/"><u>ADRaise the Curtain on AMD RDNA 3.5 - When to Expect?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-oppo-find-n3-flip-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/connect-your-microsoft-wireless-display-adapter-to-windows-11-without-a-hitch/"><u>Connect Your Microsoft Wireless Display Adapter to Windows 11 Without a Hitch!</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquering-glitches-in-battle-royale-games-troubleshooting-techniques-for-continuous-play/"><u>Conquering Glitches in Battle Royale Games: Troubleshooting Techniques for Continuous Play</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/disabling-emergency-and-amber-notifications-on-your-iphone-a-step-by-step-guide/"><u>Disabling Emergency & Amber Notifications on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-resolving-windows-11-login-problems-caused-by-user-service-failures/"><u>Guide: Resolving Windows 11 Login Problems Caused by User Service Failures</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-steps-for-a-non-functional-igfxem-module/"><u>Resolved: Troubleshooting Steps for a Non-Functional igfxEM Module</u></a></li>
+<li><a href="https://common-error.techidaily.com/twitch-troubleshooting-unraveling-the-secrets-of-fixing-error-4000/"><u>Twitch Troubleshooting: Unraveling the Secrets of Fixing Error 4000</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209834531-unraveling-the-mystery-behind-net-framework-35s-error-code-0x800f081f-fixes-inside/"><u>Unraveling the Mystery Behind .NET Framework 3.5'S Error Code 0X800F081F - Fixes Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/win10-playback-problems-eliminating-no-playable-content-found-messages-efficiently/"><u>Win10 Playback Problems: Eliminating 'No Playable Content Found' Messages Efficiently!</u></a></li>
+</ul></div>
 

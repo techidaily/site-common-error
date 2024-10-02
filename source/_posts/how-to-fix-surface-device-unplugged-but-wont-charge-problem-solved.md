@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Surface Device Unplugged but Won't Charge Problem: Solved"
-date: 2024-09-13T17:58:09.038Z
-updated: 2024-09-20T17:36:50.861Z
+date: 2024-09-30T19:21:22.615Z
+updated: 2024-10-01T19:50:29.417Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdbac0739e5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. After finishing the uninstallation, restart your PC then Windows will reinstall the device automatically.
 
 ## **Method 3 : Update the USB Driver**
@@ -77,6 +84,13 @@ Follow these steps:
  2\. Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d2f95d64f.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3\. Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
@@ -96,13 +110,6 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde31f1a636.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4\. Select**Choose what the power buttons do** in the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde37b21df1.jpg)
@@ -112,10 +119,10 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde3ce2afe1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6\. Under**Shutdown settings** , uncheck the box next to**Turn on fast startup (recommended)** . Then click on the**Save changes** button.
@@ -141,10 +148,10 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb69c7e9e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4\. Click on**Change advanced power settings** .
@@ -156,10 +163,10 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb95133af.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6\. Locate**USB settings** and expand it.
@@ -169,10 +176,10 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdec39ba7fd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8\. Click the**Apply** button and restart your computer.
@@ -192,5 +199,22 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-affordable-gopro-purchase-guide-tips-and-tricks/"><u>[New] Affordable GoPro Purchase Guide Tips & Tricks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-complete-blueprint-to-tally-your-youtube-growth-and-income/"><u>[New] The Complete Blueprint to Tally Your YouTube Growth and Income</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-troubleshooting-apple-tv-for-facebook-content/"><u>2024 Approved Troubleshooting Apple TV for Facebook Content</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-vivo-s18e-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Vivo S18e</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209916624-fix-your-laptops-failing-charge-simple-solutions-for-a-full-battery/"><u>Fix Your Laptop's Failing Charge: Simple Solutions for a Full Battery</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-google-chrome-prompting-immediate-restart/"><u>How to Fix: Unresponsive Google Chrome Prompting Immediate Restart</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-y100-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo Y100 5G Phone</u></a></li>
+<li><a href="https://common-error.techidaily.com/improved-compliance-additional-tactile-feedback-on-display/"><u>Improved Compliance: Additional Tactile Feedback on Display</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-taking-solo-shots-from-videos-in-windows-10-photos-interface/"><u>In 2024, Taking Solo Shots From Videos in Windows 10 Photos Interface</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-science-behind-optimal-instagram-timings/"><u>In 2024, The Science Behind Optimal Instagram Timings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/in-the-wild-with-chatgpt-7-inspiring-examples-of-its-real-world-implementation/"><u>In the Wild with ChatGPT: 7 Inspiring Examples of Its Real-World Implementation</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-error-code-31-woes-proven-techniques-to-restore-your-windows-stability/"><u>No More Error Code 31 Woes: Proven Techniques to Restore Your Windows Stability</u></a></li>
+<li><a href="https://common-error.techidaily.com/taming-the-unpredictable-fixing-your-laptops-sudden-off-switches/"><u>Taming the Unpredictable: Fixing Your Laptop's Sudden Off Switches</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstick-your-stagnant-windows-update-proven-techniques-for-instant-success-no-more-waiting/"><u>Unstick Your Stagnant Windows Update: Proven Techniques for Instant Success (No More Waiting)</u></a></li>
+<li><a href="https://common-error.techidaily.com/unsticking-unresponsive-chrome-expert-tips-on-quick-refresh-techniques/"><u>Unsticking Unresponsive Chrome: Expert Tips on Quick Refresh Techniques</u></a></li>
+</ul></div>
 

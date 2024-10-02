@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows Update Hurdles: A Detailed Solution for Error Code 0X8024002E"
-date: 2024-09-24T19:43:44.540Z
-updated: 2024-09-26T20:40:16.745Z
+date: 2024-09-29T03:21:36.451Z
+updated: 2024-10-01T20:33:31.494Z
 tags:
   - win11
   - win10
@@ -66,10 +66,10 @@ net start cryptsvc
  If it is, then you’ve solved your problem. But if not, you may need to…
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Modify your Windows setting in the registry
@@ -87,44 +87,46 @@ net start cryptsvc
 5. Select_a place to save your backup copy_ , then click**Save** to save the backup.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-918.png)
 6. Wait for the export process to be complete.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Go to _HKEY\_LOCAL\_MACHINE\\Software\\Policies\\Microsoft\\Windows\\WindowsUpdate_ .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-919.png)
 8. Double click**DisableWindowsUpdateAccess** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
 9. Change the**value data** to**0** , then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Perform a clean boot
 
@@ -139,10 +141,17 @@ To do so:
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
@@ -161,13 +170,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 16. Click**OK** and then click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
@@ -195,15 +197,21 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-chiefs-best-sky-vault-for-firms/"><u>[Updated] 2024 Approved Chiefs’ Best Sky Vault for Firms</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-realme-12-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Realme 12 5G? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-silence-a-noisy-ps4-system-for-quiet-gaming-sessions/"><u>How to Silence a Noisy PS4 System for Quiet Gaming Sessions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/oncogenes-activation-and-tumor-suppressors-inactivation/"><u>Oncogenes Activation and Tumor Suppressors Inactivation</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/protecting-data-with-style-embedding-watermarks-on-excel-worksheets-2013/"><u>Protecting Data with Style: Embedding Watermarks on Excel Worksheets (2013)</u></a></li>
-<li><a href="https://common-error.techidaily.com/revealing-the-hidden-making-bluetooth-appear-on-device-manager-guide/"><u>Revealing the Hidden: Making Bluetooth Appear on Device Manager [Guide]</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-starting-difficulties-with-the-latest-resident-evil-game/"><u>Solved: Starting Difficulties with the Latest Resident Evil Game</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-keyword-compendium-for-gamers-youtube-vids/"><u>The Ultimate Keyword Compendium for Gamers' YouTube Vids</u></a></li>
-<li><a href="https://common-error.techidaily.com/uncovered-missing-core-library-loader-dll/"><u>Uncovered Missing Core Library Loader Dll</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-how-to-download-twitter-videos-to-your-android-phone/"><u>[New] 2024 Approved How to Download Twitter Videos to Your Android Phone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-streamlining-instagram-story-captioning-techniques-for-2024/"><u>[New] Streamlining Instagram Story Captioning Techniques for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-api-ms-win-crt-runtime-l1-1-0dll-is-missing/"><u>[SOLVED] api-ms-win-crt-runtime-l1-1-0.dll Is Missing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-top-tier-tips-for-naming-your-podcast-right-plus-inspiring-title-ideas-countdown/"><u>[Updated] 2024 Approved Top-Tier Tips for Naming Your Podcast Right + Inspiring Title Ideas Countdown</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-complete-picture-a-close-look-at-the-google-podcasts-app-for-2024/"><u>[Updated] Complete Picture A Close Look at the Google Podcasts App for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-filmmaking-foundations-understanding-screenplays/"><u>[Updated] Filmmaking Foundations Understanding Screenplays</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-power-of-words-in-podcast-summaries/"><u>[Updated] The Power of Words in Podcast Summaries</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-power-of-networking-building-strong-relationships-with-stakeholders/"><u>2024 Approved The Power of Networking Building Strong Relationships with Stakeholders</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-woes-no-more-fix-unpairing-issues-in-windows-11-with-these-proven-techniques/"><u>Bluetooth Woes No More: Fix Unpairing Issues in Windows 11 with These Proven Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/gaming-gridlock-frequent-freezes-on-os/"><u>Gaming Gridlock: Frequent Freezes on OS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-your-route-to-windows-starting-spot/"><u>Quick Guide: Your Route to Windows Starting Spot</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-remedies-effective-ways-to-stop-logitech-g930-mic-from-going-offline/"><u>Quick Remedies: Effective Ways to Stop Logitech G930 Mic From Going Offline</u></a></li>
+<li><a href="https://common-error.techidaily.com/realtek-network-controller-not-found-fixed/"><u>Realtek Network Controller Not Found [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-guide-fixing-a-malfunctioning-or-missing-shift-key-on-your-computer/"><u>Step-by-Step Solution Guide: Fixing a Malfunctioning or Missing Shift Key on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexpected-startup-understanding-the-reasons-behind-your-pcs-auto-boot-in-windows-10/"><u>Unexpected Startup: Understanding the Reasons Behind Your PC's Auto-Boot in Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solution Steps to Restore Dell Laptop Keyboard Functionality
-date: 2024-09-16T18:01:09.016Z
-updated: 2024-09-20T17:32:52.446Z
+date: 2024-09-25T17:53:05.776Z
+updated: 2024-10-01T17:08:49.132Z
 tags:
   - win11
   - win10
@@ -53,6 +53,19 @@ See how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7664a26b24c.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ### Method 2: Adjust your keyboard settings
@@ -78,6 +91,13 @@ If your computer is running Windows 11:
 3. Toggle **Off**  Sticky keys, Filter keys, and Toggle keys.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If your computer is running Windows 7:
 
 1. On the taskbar of your desktop, click the **Start button** , then select**Control Panel** .  
@@ -85,6 +105,14 @@ If your computer is running Windows 7:
 2. Click **Ease of Access** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766794641a7.jpg)
 3. Click **Change how your keyboard works** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766866a67e4.jpg)
 4. Make sure the three items **Turn on Sticky Keys** , **Turn on Toggle Keys** , and **Turn on Filter Keys**  are unchecked.
 
@@ -104,8 +132,29 @@ See how to do it:
 2. Type**devmgmt.msc** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. Double-click**Keyboards** , then right-click on your keyboard driver software to select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7669dd744ff.jpg)
 4. Once you do, restart your computer. Windows should then reinstall the driver for your keyboard automatically.
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try to type some words using your keyboard to see if it works. If you type successfully, great! If you still aren’t able to type on your keyboard, don’t feel frustrated, move on to the next method.
 
@@ -136,33 +185,20 @@ See how to do it:
 **Note:** You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766e1dcd420.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Try this fix if you’re using a USB keyboard
 
  If unfortunately, all the fixes above fail to help you and you’re using a USB keyboard, You can try to connect the keyboard with**another USB port** to check if it works as an old, shabby USB port could cause your Keyboard not to work.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 6: Try this fix if you’re using a wireless keyboard
 
@@ -199,5 +235,24 @@ Try to type some words using your keyboard to see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/solved-your-computer-appears-to-be-correctly-configured-but-the-device-or-resource-is-not-responding/"><u>[SOLVED] Your Computer Appears to Be Correctly Configured, but the Device or Resource Is Not Responding</u></a></li>
+<li><a href="https://common-error.techidaily.com/breaking-free-from-frozen-updates-on-outdated-windows-version-expert-advice-solutions-and-step-by-step-guide-for-better-user-experience-in-the-year-of-our-l102/"><u>Breaking Free From Frozen Updates on Outdated Windows Version – Expert Advice, Solutions & Step-by-Step Guide for Better User Experience in the Year of Our Lord Two Thousand And Twenty Four (Guide, Helpful Tips and Troubleshooting Steps)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/cutting-down-expenses-how-investing-in-a-smart-lock-can-save-you-from-high-priced-locksmith-calls/"><u>Cutting Down Expenses: How Investing in a Smart Lock Can Save You From High-Priced Locksmith Calls</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-undetectable-bluetooth-devices-in-windows-11-setup/"><u>Effective Solutions for Undetectable Bluetooth Devices in Windows 11 Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-unsticking-a-frozen-google-chrome-browser/"><u>Expert Tips for Unsticking a Frozen Google Chrome Browser</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-red-dead-redemption-2-memory-crash-increase-pagefile-guide/"><u>Fix Red Dead Redemption 2 Memory Crash - Increase Pagefile Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-x7b-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor X7b Phone Screen?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-destiny-2-servers-not-available-issues/"><u>How to Fix Destiny 2 Servers Not Available Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How To Teleport Your GPS Location On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-ultimate-guide-to-posting-panoramas-a-step-by-step-approach/"><u>In 2024, The Ultimate Guide to Posting Panoramas A Step-By Step Approach</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-5-high-quality-online-meeting-capture-devices/"><u>In 2024, Top 5 High-Quality Online Meeting Capture Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-6s-5-ways-to-get-into-a-locked-iphone-6s-drfone-by-drfone-ios/"><u>Locked Out of iPhone 6s? 5 Ways to get into a Locked iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/microsofts-decision-to-discontinue-currency-features-in-excel/"><u>Microsoft's Decision to Discontinue Currency Features in Excel</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/propel-your-instagram-content-techniques-for-higher-interaction/"><u>Propel Your Instagram Content Techniques for Higher Interaction</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stay-ahead-with-information-on-google-pixel-tablet-launch-date-specs-reviews-and-more/"><u>Stay Ahead with Information on Google Pixel Tablet - Launch Date, Specs, Reviews, and More</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-update-windows-11-despite-error-0xc1900208-guide/"><u>Successfully Update Windows 11 Despite Error 0Xc1900208 [GUIDE]</u></a></li>
+<li><a href="https://common-error.techidaily.com/twitch-error-4000-explained-effective-solutions-and-fixes/"><u>Twitch Error 4000 Explained: Effective Solutions and Fixes</u></a></li>
+</ul></div>
 

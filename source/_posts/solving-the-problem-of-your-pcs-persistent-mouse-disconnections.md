@@ -1,7 +1,7 @@
 ---
 title: Solving the Problem of Your PC's Persistent Mouse Disconnections
-date: 2024-09-24T21:02:22.656Z
-updated: 2024-09-27T00:06:26.539Z
+date: 2024-09-25T20:55:02.192Z
+updated: 2024-10-01T23:32:16.075Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 2: Update the graphics card driver
 
  The computer keeps going to sleep issue can be caused by the faulty or outdated graphics card driver, especially if you have a high-end graphics card installed. To fix the problem, you can try to update the graphics card driver.
@@ -67,31 +74,17 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13724b1f8d6.jpg)
 3. Click the**Update** button next to a flagged graphics card driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Disable the screen saver
@@ -111,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **For Windows 7:**
 
 1. Open**Control Panel** .
@@ -119,25 +119,26 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 3. Click the**Change screen saver** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
 5. Check to see if your computer keeps going to sleep.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 4: Change the System unattended sleep timeout to a longer time
 
@@ -151,13 +152,6 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137510499e6.png)  
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
 2. Navigate to the following directory:  
@@ -179,6 +173,14 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376fc0269a.jpg)
@@ -206,21 +208,24 @@ thumbnail: https://thmb.techidaily.com/40d4b8ee7a20cbf9725c025acb55ef566e92109bc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-acclaimed-tools-the-finest-ps1-emulators-for-pc-gaming/"><u>[New] 2024 Approved Acclaimed Tools The Finest PS1 Emulators for PC Gaming</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-masterclass-in-webinar-name-designer/"><u>[New] 2024 Approved Masterclass in Webinar Name Designer</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-master-the-art-of-console-game-recording-with-computer-assistance-for-2024/"><u>[New] Master the Art of Console Game Recording with Computer Assistance for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-honor-100-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Honor 100 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fixes-for-when-your-computers-wired-internet-isnt-working-win-107-edition/"><u>Easy Fixes for When Your Computer's Wired Internet Isn't Working (Win 10/7 Edition)</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-headset-no-sound-on-win10-system/"><u>How To Fix Headset No Sound on WIN10 System</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/prime-methods-for-quiet-videography-for-2024/"><u>Prime Methods for Quiet Videography for 2024</u></a></li>
-<li><a href="https://techidaily.com/remove-xperia-10-v-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Xperia 10 V unlock screen</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixes-and-steps-for-restoring-missing-files-in-steam/"><u>Resolved: Fixes and Steps for Restoring Missing Files in Steam</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-with-disabled-wireless-functionality-a-comprehensive-guide/"><u>Resolving Issues with Disabled Wireless Functionality - A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210484516-revitalize-your-laptops-charging-issues-with-these-straightforward-tips/"><u>Revitalize Your Laptop's Charging Issues with These Straightforward Tips!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-correcting-windows-stop-error-0xc00000e9/"><u>Step-by-Step Solutions for Correcting Windows Stop Error 0xC00000E9</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-for-when-your-steam-store-fails-to-launch/"><u>Step-by-Step Troubleshooting for When Your Steam Store Fails to Launch</u></a></li>
-<li><a href="https://common-error.techidaily.com/system-recourse-and-resource-conflicts/"><u>System Recourse and Resource Conflicts</u></a></li>
-<li><a href="https://facebook.techidaily.com/why-your-privacy-matters-more-than-ever-with-facebooks-update/"><u>Why Your Privacy Matters More Than Ever with Facebook's Update</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-twitch-writers-picks-5-ultimate-cams-for-gameplay-broadcasting/"><u>[New] In 2024, Twitch' Writers’ Picks 5 Ultimate Cams for Gameplay Broadcasting</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-fix-valorant-screen-tearing/"><u>[SOLVED] How to Fix Valorant Screen Tearing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-youtube-followers-surge-top-tips-for-channel-expansion-for-2024/"><u>[Updated] YouTube Followers Surge Top Tips for Channel Expansion for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-loves-anthem-top-10-songs-that-define-proposal-moments/"><u>2024 Approved Love's Anthem Top 10 Songs That Define Proposal Moments</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conquer-czech-language-the-internet-advantage/"><u>Conquer Czech Language: The Internet Advantage</u></a></li>
+<li><a href="https://common-error.techidaily.com/deciphering-and-resolving-error-0x80070091-for-successful-system-restores-in-windows-11-expert-tips/"><u>Deciphering and Resolving Error 0X80070091 for Successful System Restores in Windows 11 - Expert Tips!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-step-by-step-guide-to-downloading-the-epson-xp-430-drivers-for-your-windows-computer/"><u>Easy Step-by-Step Guide to Downloading the Epson XP-430 Drivers for Your Windows Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-to-repair-damaged-windows-file-systems-in-versions-10-and-11/"><u>Effective Techniques to Repair Damaged Windows File Systems in Versions 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-windows-11-dvdcd-rom-error-windows-cannot-start-this-hardware-device-because-its-configuration-information-in-the-registry-is-incomplete-or-damaged-code43/"><u>Fix Windows 11 DVD/CD-ROM Error: Windows Cannot Start This Hardware Device because Its Configuration Information (in the Registry) Is Incomplete or Damaged. (Code 19)</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-disappearing-touchpad-cursors-on-your-windows-11-pc/"><u>Fixes for Disappearing Touchpad Cursors on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-windows-failed-to-connect-to-sensvc-issues/"><u>How to Overcome 'Windows Failed to Connect to SENSVc' Issues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-rofl-roundup-10-best-apps-for-meme-creation/"><u>In 2024, ROFL Roundup 10 Best Apps for Meme Creation</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/masterclass-in-cutting-edge-video-editing-vivacuts-2024-insight/"><u>Masterclass in Cutting Edge Video Editing - VivaCut's 2024 Insight</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015298258-pubg-voice-communication-problems-heres-how-to-get-it-running-smoothly/"><u>PUBG Voice Communication Problems? Here's How to Get It Running Smoothly!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-fixed-brightness-problems-on-windows-11-devices/"><u>Resolving Fixed Brightness Problems on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-puzzle-step-by-step-guide-to-resolve-error-code-31-on-your-pc/"><u>Solving the Puzzle: Step-by-Step Guide to Resolve Error Code 31 on Your PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-activating-dns-over-https-on-your-windows-11-pc/"><u>Step-by-Step Guide: Activating DNS over HTTPS on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-system-malfunctions-a-deep-dive-into-fixing-error-0xc00000e9/"><u>Winning the Battle Against System Malfunctions: A Deep Dive Into Fixing Error 0Xc00000e9</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/worlds-top-techies-and-their-ai-predictions/"><u>World's Top Techies and Their AI Predictions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Lenovo Keyboard Malfunction? Here's How You Can Resolve It
-date: 2024-09-17T16:20:11.916Z
-updated: 2024-09-20T17:37:40.349Z
+date: 2024-10-01T03:16:21.662Z
+updated: 2024-10-01T23:34:37.330Z
 tags:
   - win11
   - win10
@@ -65,22 +65,29 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 
  4) Restart your laptop, and check to see if your keyboard works.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Press the problem keys diagonally
 
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Remove the battery and the power cable
 
  This method has worked for many Lenovo laptop users who were experiencing the keyboard not working problem like you. So it’s worth a try.
 
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Perform a system restore
 
@@ -92,48 +99,42 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) View by **Small icons** and click **System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**System protection** in left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874af17efd1d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Click **System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f0301145.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f3039070.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Choose a restore point according to the Date and Time (before the problem occurs) and click **Next** .
 
@@ -167,5 +168,16 @@ If you have no idea how to do a system restore, refer steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-vintage-video-delight-reviewing-goofys-tape-masterpiece/"><u>[Updated] 2024 Approved Vintage Video Delight Reviewing Goofy's Tape Masterpiece</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-cultivating-cash-by-critiquing-consumer-commodities-online-for-2024/"><u>[Updated] Cultivating Cash by Critiquing Consumer Commodities Online for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-characters-and-settings/"><u>2024 Approved Crafting Characters and Settings</u></a></li>
+<li><a href="https://common-error.techidaily.com/blaring-success-story-pcplusheadphones-connection-restored/"><u>Blaring Success Story: PC+Headphones Connection Restored</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-strategies-to-restore-functionality-of-mic-on-playstation-4-console/"><u>Expert Strategies to Restore Functionality of Mic on PlayStation 4 Console</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-sims-4-opening-errors-quick-and-effective-solutions/"><u>Fixes for Sims 4 Opening Errors - Quick and Effective Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-oppo-a59-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Oppo A59 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-infinix-note-30-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Infinix Note 30 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-overcoming-user-profile-service-breakdown-in-windows-11-login-process/"><u>Step-by-Step Tutorial: Overcoming 'User Profile Service' Breakdown in Windows 11 Login Process</u></a></li>
+</ul></div>
 

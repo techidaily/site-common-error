@@ -1,7 +1,7 @@
 ---
 title: "Resolving the 0X80072EFD Issue: A Comprehensive Guide for Windows 11 Users"
-date: 2024-09-19T19:25:37.218Z
-updated: 2024-09-20T18:06:19.351Z
+date: 2024-09-24T17:38:36.611Z
+updated: 2024-10-01T22:08:13.053Z
 tags:
   - win11
   - win10
@@ -78,6 +78,14 @@ net start cryptsvc
 4. On the Registry Editor, click**File** , then select**Export** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-917.png)
 5. Select_a place to save your backup copy_ , then click**Save** to save the backup.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-918.png)
 6. Wait for the export process to be complete.
 7. Go to _HKEY\_LOCAL\_MACHINE\\Software\\Policies\\Microsoft\\Windows\\WindowsUpdate_ .  
@@ -85,7 +93,22 @@ net start cryptsvc
 8. Double click**DisableWindowsUpdateAccess** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
 9. Change the**value data** to**0** , then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
 
@@ -98,6 +121,20 @@ To do so:
 1. Press the**Windows log key** and**R** on your keyboard to invoke the Run dialog.
 2. Type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST** ) and click**Disable all** . After that, click**OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
@@ -111,11 +148,41 @@ To do so:
 11. Click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 12. Check to see if the update error occurs. If it doesn’t, repeat step**9 to 11**  until you find out the service that causes the issue. If none of these services is the culprit, try the steps below.  
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there’s any service that brings up the 0x8024002e error, you should do some research on the Internet to see what program is this service related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 13. Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 16. Click**OK** and then click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 17. Check to see if the error occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
@@ -140,12 +207,21 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-everyday-online-chronicles-a-handy-tip-for-digging-up-fbs-vids/"><u>[New] In 2024, Everyday Online Chronicles A Handy Tip for Digging Up FB's Vids</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unlock-hidden-potential-snapchat-zooming-tips/"><u>[New] Unlock Hidden Potential Snapchat Zooming Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-finding-sound-in-silence-3-cost-free-methods-to-music-enrich-your-videos/"><u>[Updated] Finding Sound in Silence 3 Cost-Free Methods to Music-Enrich Your Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-dissecting-the-capabilities-of-magixs-photo-manager/"><u>[Updated] In 2024, Dissecting the Capabilities of MAGIX's Photo Manager</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-5-audio-enhanced-image-capture-creators/"><u>[Updated] Top 5 Audio-Enhanced Image Capture Creators</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excellence-in-voice-modification-tools-featuring-magic-for-2024/"><u>Excellence in Voice Modification Tools, Featuring Magic for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-windows-bluetooth-mouse-problems-quickly-and-easily-a-comprehensive-guide/"><u>Fix Windows Bluetooth Mouse Problems Quickly and Easily – A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-adjust-monitor-settings-for-correct-signal-timing/"><u>How to Adjust Monitor Settings for Correct Signal Timing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-success-starts-here-discovering-top-tracking-and-analysis-apps/"><u>Instagram Success Starts Here Discovering Top Tracking and Analysis Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photography-editing-tips-for-creating-stunning-photos-for-2024/"><u>Photography Editing Tips for Creating Stunning Photos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/scroll-jumps-elevate-your-windows-experience/"><u>Scroll Jumps: Elevate Your Windows Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-arrow-key-issues-with-these-proven-fixes-for-malfunctioning-buttons/"><u>Solve Your Arrow-Key Issues with These Proven Fixes for Malfunctioning Buttons</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-lenovos-non-responsive-fn-key-with-these-simple-steps/"><u>Troubleshoot Your Lenovo's Non-Responsive FN Key with These Simple Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-correcting-error-code-mnkraekt-rror-ked-fv/"><u>Understanding and Correcting Error Code ˈmɪnɪkrækt Ɛrror Kəʊd Fɪv/</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Non-Functional USB Ports on PC with Windows 10 or 11
-date: 2024-09-19T16:03:55.250Z
-updated: 2024-09-26T23:37:15.151Z
+date: 2024-09-27T22:44:30.360Z
+updated: 2024-10-02T03:22:29.167Z
 tags:
   - win11
   - win10
@@ -49,10 +49,16 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 4) Plug the power supply back in
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 3: Check your power management settings**
@@ -73,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click the **Power Management**  tab  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
@@ -88,22 +87,16 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342dd22bb58.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
 
@@ -119,21 +112,28 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594841d4c15c1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 5: Check your USB ports**
 
@@ -156,22 +156,19 @@ thumbnail: https://thmb.techidaily.com/4d915015b14faa5b1fd5a4cf5496ee0a4d386e84b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-how-to-record-google-meet-for-free/"><u>[New] In 2024, How to Record Google Meet for Free?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-premium-selection-top-8-tripods-for-clear-4k-videos/"><u>[New] In 2024, Premium Selection Top 8 Tripods for Clear 4K Videos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-leading-android-timepieces-a-comprehensive-review-for-tech-enthusiasts/"><u>2024'S Leading Android Timepieces: A Comprehensive Review for Tech Enthusiasts</u></a></li>
-<li><a href="https://app-tips.techidaily.com/career-advancement-in-tech-with-top-strategies-used-by-the-worlds-biggest-aerospace-enterprises-zdnet/"><u>Career Advancement in Tech with Top Strategies Used by the World's Biggest Aerospace Enterprises | ZDNET</u></a></li>
-<li><a href="https://common-error.techidaily.com/dormant-device-defiant-system-win1110-saga/"><u>Dormant Device, Defiant System - Win11/10 Saga</u></a></li>
-<li><a href="https://video-capture.techidaily.com/essential-recording-skills-for-every-lenovo-user-for-2024/"><u>Essential Recording Skills for Every Lenovo User for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expertly-curated-8-best-4k-blu-ray-players-guide/"><u>Expertly Curated 8 Best 4K Blu-Ray Players Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-and-guide-resolving-file-explorer-freezing-issues-on-windows-11/"><u>Fix & Guide: Resolving File Explorer Freezing Issues on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-pcs-silent-problem-no-audio-device-installed-error-on-windows-11-explained/"><u>Fix Your PC's Silent Problem: No Audio Device Installed Error on Windows 11 Explained</u></a></li>
-<li><a href="https://common-error.techidaily.com/hardware-monitor-driver-failure-fix-completed-successfully/"><u>Hardware Monitor Driver Failure Fix Completed Successfully</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-functionality-restored-say-goodbye-to-non-typing-letters/"><u>Keyboard Functionality Restored: Say Goodbye to Non-Typing Letters</u></a></li>
-<li><a href="https://extra-information.techidaily.com/peak-workshop-masterpiece-insight/"><u>Peak Workshop Masterpiece Insight</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-non-responsive-laptop-mousepad-problems-across-multiple-windows-versions/"><u>Resolve Non-Responsive Laptop Mousepad Problems Across Multiple Windows Versions</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-your-systems-diagnostics-policy-service-problem-today/"><u>Resolving Your System's Diagnostics Policy Service Problem Today</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-insufficient-resources-for-task-completion-on-your-computer/"><u>Troubleshooting Insufficient Resources for Task Completion on Your Computer</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlock-business-potential-top-10-streamlined-channel-setup-ideas-on-youtube-for-2024/"><u>Unlock Business Potential Top 10 Streamlined Channel Setup Ideas on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-unleashing-creativity-in-youtube-banner-and-thumbnail-design/"><u>[New] 2024 Approved Unleashing Creativity in YouTube Banner & Thumbnail Design</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-address-tweets-stuck-while-watching-online/"><u>[New] In 2024, Address Tweets Stuck While Watching Online</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ultimate-edit-suite-for-mobile-app-devices/"><u>[New] In 2024, Ultimate Edit Suite for Mobile App Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-gentle-sound-declines-with-logic-pro/"><u>[Updated] Crafting Gentle Sound Declines with Logic Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/5-effective-techniques-to-unfreeze-a-stubborn-windows-10-taskbar/"><u>5 Effective Techniques to Unfreeze a Stubborn Windows 10 Taskbar!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-ensure-smooth-performance-the-necessity-of-a-d3d11-compatible-graphics-card-for-running-our-engine/"><u>How to Ensure Smooth Performance: The Necessity of a D3D11-Compatible Graphics Card for Running Our Engine</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-achieving-fame-on-instagram-the-top-9-habits-of-stars-and-influencers/"><u>In 2024, Achieving Fame on Instagram The Top 9 Habits of Stars and Influencers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oppo-f25-pro-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Oppo F25 Pro 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/magic-in-motion-wired-solution-to-wireless-error/"><u>Magic in Motion: Wired Solution to Wireless Error</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ating-best-options-expert-picks-from-top-9-free-logomakers-for-2024/"><u>Navigating Best Options Expert Picks From Top 9 Free Logomakers for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pc-volume-hitch-here-are-top-fixes-for-unresponsive-sound-systems/"><u>PC Volume Hitch? Here Are Top Fixes for Unresponsive Sound Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-hang-ups-what-to-do-if-windows-11-is-unresponsive/"><u>Resolving Hang-Ups: What to Do If Windows 11 Is Unresponsive?</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-application-was-unable-to-start-correctly-0xc000007b-fixed/"><u>The Application Was Unable to Start Correctly (0Xc000007b) [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-night-light-issues-on-windows-11-machines/"><u>Troubleshooting Night Light Issues on Windows 11 Machines</u></a></li>
 </ul></div>
 

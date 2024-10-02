@@ -1,7 +1,7 @@
 ---
 title: How to Repair Your Corsair HS50 when the Microphone Won't Work
-date: 2024-09-23T23:03:15.785Z
-updated: 2024-09-26T20:42:59.035Z
+date: 2024-09-26T20:50:19.880Z
+updated: 2024-10-01T21:42:09.509Z
 tags:
   - win11
   - win10
@@ -73,15 +73,22 @@ thumbnail: https://thmb.techidaily.com/7618ed5212ad2fa17c4d0cff006f1dcb4d7c52766
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-636.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the next window, click**Change plan settings** next to your preferred plan.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-637.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Expand**Put the computer to sleep:** and select**Never** . Then click**Save changes** .
@@ -89,16 +96,10 @@ thumbnail: https://thmb.techidaily.com/7618ed5212ad2fa17c4d0cff006f1dcb4d7c52766
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-639.png)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that you’ve disabled Sleep Mode, restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
@@ -115,16 +116,16 @@ thumbnail: https://thmb.techidaily.com/7618ed5212ad2fa17c4d0cff006f1dcb4d7c52766
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-When-plugged-in-put-my-device-to-sleep-after-Never-When-plugged-in-turn-off-my-screen-after-Never-1200x771.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Tick the “Support TabletPC” option
 
@@ -139,6 +140,13 @@ thumbnail: https://thmb.techidaily.com/7618ed5212ad2fa17c4d0cff006f1dcb4d7c52766
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your tablet driver
 
@@ -189,10 +197,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-653-1024x311.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to download the user manual, select the icon next to**Instruction:** according to your operating system.
@@ -202,10 +210,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The folder name can be different based on your tablet model.
@@ -213,13 +221,6 @@ OR
  4) Double-click the extracted folder you get and then double-click the**.exe file** in that folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-660.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Follow the on-screen wizard to install the driver.
 
@@ -251,13 +252,6 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
 
 4) Restart Photoshop and test whether your pen works properly or not.
@@ -283,21 +277,15 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-crafting-captivating-real-time-tweets-for-maximum-impact/"><u>[Updated] 2024 Approved Crafting Captivating Real-Time Tweets for Maximum Impact</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-maximize-your-meeting-recordings-skype-on-any-operating-system-for-2024/"><u>[Updated] Maximize Your Meeting Recordings Skype on Any Operating System for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-through-srt-freeze-in-adobe-premiere-projects/"><u>[Updated] Navigating Through SRT Freeze in Adobe Premiere Projects</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-download-youtube-music-to-your-android-phone-top-6-free-apps/"><u>2024 Approved Download YouTube Music to Your Android Phone Top 6 Free Apps</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-superior-class-of-8-best-4k-high-definition-players/"><u>2024 Approved Superior Class of 8 Best 4K High Definition Players</u></a></li>
-<li><a href="https://common-error.techidaily.com/conquer-destiny-2s-not-available-issues-with-these-proven-solutions/"><u>Conquer Destiny 2'S Not Available Issues with These Proven Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/gopro-hero5-session-vs-hero-session-for-2024/"><u>GoPro Hero5 Session Vs Hero Session for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-tips-for-youtube-content-creation-excellence/"><u>In 2024, Ultimate Tips for YouTube Content Creation Excellence</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimize-your-pcs-power-advanced-techniques-for-flawless-gaming-on-windows-11/"><u>Optimize Your PC's Power: Advanced Techniques for Flawless Gaming on Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-not-working-on-huawei-nova-y91-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Huawei Nova Y91? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-10-keyboard-response-issues-expert-tips-and-tricks/"><u>Resolving Windows 10 Keyboard Response Issues: Expert Tips & Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-for-fixing-a-pc-that-gets-stuck-during-startup/"><u>Solutions for Fixing a PC That Gets Stuck During Startup</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-making-your-unrecognized-usb-drive-work-again/"><u>Step-by-Step Guide: Making Your Unrecognized USB Drive Work Again!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-effortless-clean-install-of-windows-10/"><u>Step-by-Step Tutorial: Effortless Clean Install of Windows 10</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-perfect-pixel-a-guide-to-captivating-pc-gaming-moments-for-2024/"><u>The Perfect Pixel A Guide to Captivating PC Gaming Moments for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-bluetooth-issues-in-windows-7/"><u>Troubleshooting and Solving Bluetooth Issues in Windows 7</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-gameplay-transformations-roguelikes-vs-roguiles/"><u>[New] In 2024, Gameplay Transformations Roguelikes Vs. Roguiles</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-screenmasters-unite/"><u>[New] In 2024, ScreenMasters Unite</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-everything-about-facebook-live-split-screen-you-should-know-for-2024/"><u>[Updated] Everything About Facebook Live Split Screen You Should Know for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exploring-benq-bl2711u-ultra-hd-monitor-deep-dive-for-2024/"><u>[Updated] Exploring BenQ BL2711U Ultra-HD Monitor Deep Dive for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/movmovmp4wmv/"><u>優れたMOVコンバータソフトで簡単なMOVファイルのMP4・WMV変換・逆転手法</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-solutions-and-steps-to-correctly-resolve-the-windows-update-error-0x80244022/"><u>Efficient Solutions and Steps to Correctly Resolve the 'Windows Update Error: 0X80244022'</u></a></li>
+<li><a href="https://common-error.techidaily.com/group-policy-client-service-error-at-login-solutions-and-troubleshooting-guide/"><u>Group Policy Client Service Error at Login - Solutions and Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-install-net-framework-annoyance-of-error-0x800f081f/"><u>How to Successfully Install .NET Framework Annoyance of Error 0X800F081F?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-repairing-no-spin-lock-available-bsod-issue/"><u>Understanding & Repairing 'No Spin Lock Available' BSOD Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstuck-with-ease-remedying-windows-10-touchpad-scrolling-hiccups-in-minutes/"><u>Unstuck with Ease: Remedying Windows 10 Touchpad Scrolling Hiccups in Minutes!</u></a></li>
 </ul></div>
 

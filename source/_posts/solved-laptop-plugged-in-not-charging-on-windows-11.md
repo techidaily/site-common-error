@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Laptop Plugged in, Not Charging on Windows 11"
-date: 2024-09-13T16:30:33.652Z
-updated: 2024-09-20T16:01:53.512Z
+date: 2024-09-26T19:42:03.085Z
+updated: 2024-10-01T16:28:31.036Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ### Tip 3: Rebuild icon cache
@@ -73,6 +80,13 @@ start explorer.exe
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -83,18 +97,27 @@ If your desktop icons still don’t show up, you can perform a system restore to
 3. Select **Choose a different restore point**, and click **Next**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -104,23 +127,22 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bonus tip
@@ -139,10 +161,10 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
@@ -169,5 +191,22 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-balancing-main-footage-with-b-roll-to-avoid-overkill/"><u>[New] Balancing Main Footage with B-Roll to Avoid Overkill</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unraveling-the-mystery-what-hides-in-snapchat-emoji-meanings-for-2024/"><u>[Updated] Unraveling the Mystery What Hides in Snapchat Emoji Meanings for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-capture-webcam-snapshots-via-vlc-media-player/"><u>2024 Approved Capture Webcam Snapshots via VLC Media Player</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-step-by-step-how-to-master-these-7-expert-graders/"><u>2024 Approved Step-by-Step How to Master These 7 Expert Graders</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-guide-activating-bluetooth-connectivity-in-windows-11-and-10/"><u>Easy Guide: Activating Bluetooth Connectivity in Windows 11 and 10</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-byb-e430-led-light-fixture-assessment-the-ultimate-swing-arm-illumination/"><u>Expert BYB E430 LED Light Fixture Assessment: The Ultimate Swing Arm Illumination</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ready-for-the-apple-vision-pro-pre-orders-opening-january-19-hit-stores-february-2-latest-gadgets-update/"><u>Get Ready for the Apple Vision Pro – Pre-Orders Opening January 19, Hit Stores February 2 | Latest Gadgets Update</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratuit-online-qt-files-naar-flv-omzetten-met-movavi-efficient-en-gemakkelijk/"><u>Gratuit Online: QT-Files Naar FLV Omzetten Met Movavi - Efficiënt en Gemakkelijk</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-of-your-logitech-mouses-scroll-wheel/"><u>How to Restore Functionality of Your Logitech Mouse's Scroll Wheel</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-bluetooth-pairing-with-a-simple-guide-for-windows-7-users/"><u>Mastering Bluetooth Pairing with a Simple Guide for Windows 7 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/run-a-system-file-checker-scan-to-verify-and-repair-corrupted-files/"><u>Run a System File Checker Scan to Verify and Repair Corrupted Files.</u></a></li>
+<li><a href="https://common-error.techidaily.com/skype-audio-problem-heres-how-you-can-get-your-mic-working-again/"><u>Skype Audio Problem? Here's How You Can Get Your Mic Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205191382-svchostexe-cpu-hogs-in-windows-10-discover-efficient-solutions-for-immediate-relief/"><u>Svchost.exe CPU Hogs in Windows 10? Discover Efficient Solutions for Immediate Relief</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-unresponsive-shift-key-a-comprehensive-guide/"><u>Troubleshoot & Fix Unresponsive Shift Key: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-your-devices-drivers-a-simple-solution-for-wow-incompatibility-issues/"><u>Update Your Device's Drivers: A Simple Solution for WoW Incompatibility Issues</u></a></li>
+</ul></div>
 

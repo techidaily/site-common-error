@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Website Security: A Step-by-Step Solution to the NET::ERR_CERT_WEAK_SIGNATURE_ALGORITHM Problem"
-date: 2024-09-16T17:24:07.520Z
-updated: 2024-09-20T19:21:38.848Z
+date: 2024-09-30T19:41:45.056Z
+updated: 2024-10-01T19:31:16.711Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for hardware issues
 
 1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
@@ -46,10 +53,32 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
@@ -68,27 +97,14 @@ You can update your drivers automatically with either the [**Free**](https://too
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
@@ -114,5 +130,23 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-boost-your-game-presence-with-free-voice-alteration-tips-for-free-fire/"><u>[New] Boost Your Game Presence with Free Voice Alteration Tips for Free Fire</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-explore-best-locations-for-vr-viewing-for-2024/"><u>[New] Explore Best Locations for VR Viewing for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-av1-vs-vp9-a-detailed-comparison/"><u>[Updated] AV1 Vs. VP9 A Detailed Comparison</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ideal-5-safe-platforms-for-remote-work-in-startups/"><u>[Updated] Ideal 5 Safe Platforms for Remote Work in Startups</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-tailored-dimensions-for-captivating-videos/"><u>[Updated] Tailored Dimensions for Captivating Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-boredom-away-15-chuckle-inducing-youtubers/"><u>Browsing Boredom Away 15 Chuckle-Inducing YouTubers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-nord-ce-3-5g-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Nord CE 3 5G.</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-errors-that-prevent-your-machine-from-booting-up/"><u>Diagnosing and Fixing Errors That Prevent Your Machine From Booting Up</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-the-windows-driver-foundation-combatting-high-processor-use/"><u>Diagnosing and Fixing the Window's Driver Foundation: Combatting High Processor Use</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-overcome-your-windows-setup-challenges-avoid-installation-failures/"><u>Easy Steps to Overcome Your Windows Setup Challenges: Avoid Installation Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-discontinued-shockwave-flash-problem-on-google-chrome/"><u>How to Fix the Discontinued Shockwave Flash Problem on Google Chrome</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-screen-snip-pro-the-essential-guide-to-win-os/"><u>In 2024, Screen Snip Pro The Essential Guide to Win OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/oka-upplosningen-pa-ditt-bildmaterial-med-sista-metoderna-satt-6-och-se-skandalen-utbrekas/"><u>Öka Upplösningen På Ditt Bildmaterial Med Sista Metoderna! Sätt 6 Och Se Skandalen Utbrekas!</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-10-update-freeze-expert-solutions-to-restart-your-system-effortlessly/"><u>Overcoming Windows 10 Update Freeze: Expert Solutions to Restart Your System Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/restarting-your-night-shift-feature-on-the-latest-windows-operating-system/"><u>Restarting Your Night Shift Feature on the Latest Windows Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-error-message-print-driver-host-stopped-fixed-for-32-bit-software/"><u>Solution: Error Message 'Print Driver Host Stopped' Fixed for 32-Bit Software</u></a></li>
+</ul></div>
 

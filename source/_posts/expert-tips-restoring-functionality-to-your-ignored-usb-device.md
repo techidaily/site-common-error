@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Restoring Functionality to Your Ignored USB Device"
-date: 2024-09-18T18:31:26.259Z
-updated: 2024-09-20T18:34:30.267Z
+date: 2024-09-24T16:21:53.187Z
+updated: 2024-10-01T17:13:27.657Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/b958a593c95d29eeb474585a5be149c96a0df966a
 4. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. [**Repair system files**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for physical issues
 
 Depending on which mouse isn’t working:
@@ -42,6 +49,19 @@ Depending on which mouse isn’t working:
 * If it’s the external mouse, then try a different port, a different functioning mouse, and replace/recharge the battery (if it has one) to see if this fixes the problem. If not, move on to**Fix 2** .
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Try the function keys
 
@@ -82,22 +102,15 @@ Depending on which mouse isn’t working:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b569e2129fd3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer and see if the **mouse frozen on laptop** issue is resolved. If yes, then congrats! But if the issue remains, you should try**Fix 5** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
@@ -124,10 +137,10 @@ Here’s how to use Fortect to repair system files on your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you run into any problems while using Fortect, or if it doesn’t work for you, don’t hesitate to contact[](https://tools.techidaily.com/drivereasy/download/) [Fortect support team](https://www.fortect.com/support/) .
@@ -145,13 +158,6 @@ Here’s how to use Fortect to repair system files on your PC:
  1) On your keyboard, press the **Windows logo key** and type **cmd** . Then right click on **Command Prompt** and click **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click **Yes** when prompted to confirm.
 
@@ -182,5 +188,24 @@ Here’s how to use Fortect to repair system files on your PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-craft-images-with-orbital-soft-edge-psx-tech/"><u>[New] In 2024, Craft Images with Orbital Soft Edge PSX Tech</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-innovative-tips-to-create-effective-free-video-advertisements-on-youtube/"><u>[Updated] Innovative Tips to Create Effective Free Video Advertisements on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-peeking-at-pro-screen-recording-tools-for-2024/"><u>[Updated] Peeking at Pro Screen Recording Tools for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-rethink-your-classic-movies-best-swaps-7-for-2024/"><u>[Updated] Rethink Your Classic Movies - Best Swaps #7 for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unplugged-thrills-10-best-screen-free-gaming-on-android-devices/"><u>2024 Approved Unplugged Thrills 10 Best Screen-Free Gaming on Android Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-hdcp-restrictions-on-unencrypted-display-devices-a-comprehvew/"><u>Bypassing HDCP Restrictions on Unencrypted Display Devices - A Comprehvew</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-address-the-hamachi-service-stoppage-error/"><u>Comprehensive Solutions to Address The Hamachi Service Stoppage Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-correcting-the-wwe-2k-battlegrounds-for-optimal-performance-on-dx11-with-a-feature-level-of-100/"><u>Expert Advice: Correcting the WWE 2K Battlegrounds for Optimal Performance on DX11 with a Feature Level of 10.0</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-ways-to-fix-windows-10-a-guide-to-using-sfc-and-dism/"><u>Exploring Ways to Fix Windows 10: A Guide to Using SFC & DISM</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-on-correcting-the-livekernelevent-144-glitch-quickly/"><u>Guide on Correcting the LiveKernelEvent 144 Glitch Quickly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/illuminating-imagery-pro-level-tips-for-spectacular-photos/"><u>Illuminating Imagery Pro-Level Tips for Spectacular Photos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/insightful-strategies-for-discovering-sharers-of-your-facebook-updates/"><u>Insightful Strategies for Discovering Sharers of Your Facebook Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-challenges-with-starting-a-hosted-network-on-windows-10-solved/"><u>Overcoming Challenges with Starting a Hosted Network on Windows 10 (Solved)</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-troubleshooting-airpods-on-windows-1011-2024-update/"><u>The Ultimate Guide to Troubleshooting AirPods on Windows 10/11 - 2024 Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211533200-turbocharged-tech-discover-the-secret-to-superior-swiftness-instantly/"><u>Turbocharged Tech: Discover the Secret to Superior Swiftness Instantly</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ultimate-undertaking-decoding-digital-picture-resolutions-for-2024/"><u>Ultimate Undertaking Decoding Digital Picture Resolutions for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-future-selecting-superior-ai-prompts-craftors/"><u>Unveiling the Future: Selecting Superior AI Prompts Craftors</u></a></li>
+</ul></div>
 

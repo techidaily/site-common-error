@@ -1,7 +1,7 @@
 ---
 title: Reviving a Dead Lenovo Keyboard – Expert Tips & Tricks
-date: 2024-09-26T00:23:31.559Z
-updated: 2024-09-26T19:14:31.033Z
+date: 2024-09-24T16:27:44.775Z
+updated: 2024-10-01T20:07:13.644Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
 
  After restarting, check to see if the keyword works again. If it’s still not working, try[Method 2](#method4) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Update the driver
 
  Your Lenovo keyboard not working problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, try to update the keyboard driver for your Lenovo laptop.
@@ -53,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c3bbe03c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Update**   button next to the flagged keyboard device name to automatically download the correct version of those driver, then you can manually it install it (you can do this with the FREE version).
 
@@ -77,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4: Remove the battery and the power cable
@@ -88,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
  This method has worked for many Lenovo laptop users who were experiencing the keyboard not working problem like you. So it’s worth a try.
 
 **Firstly** , shut down the computer.**Secondly** , unplug the power cable and remove the battery for a moment (just remove one that you have).**Thirdly** , press and hold the power button for about 60 seconds. After that, put the battery back in and plug the power cable again. Restart your computer and see if the keyboard is working.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Perform a system restore
 
@@ -99,22 +106,15 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) View by **Small icons** and click **System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**System protection** in left pane.
@@ -137,16 +137,22 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784fcae60ab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  8) Click**Yes** to confirm the restore.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784ffa10af0.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 9) Reboot your PC for the changes to take effect.
 
@@ -170,18 +176,20 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-framefusion-instagram-photo-fusion-across-oses/"><u>[New] 2024 Approved FrameFusion Instagram Photo Fusion Across OSes</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-beat-your-content-up-a-notch-music-addition-in-youtube-videos/"><u>[Updated] 2024 Approved Beat Your Content Up a Notch Music Addition in YouTube Videos</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-reno-8t-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Reno 8T 5G</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehvew-guide-fixing-windows-media-player-servers-that-cant-start-on-your-machine/"><u>Comprehvew Guide: Fixing Windows Media Player Servers That Can't Start on Your Machine</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dissecting-the-reason-behind-instagrams-video-shuffle/"><u>Dissecting the Reason Behind Instagram’s Video Shuffle</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-regaining-access-after-losing-connection-with-a-blizzard-game-server/"><u>Guide to Regaining Access After Losing Connection with a Blizzard Game Server</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/how-to-effortlessly-integrate-the-midia-plugin-into-your-kodi-setup-personalized-media-experience/"><u>How to Effortlessly Integrate the Midia Plugin Into Your Kodi Setup - Personalized Media Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-more-disconnects-expert-tips-for-connecting-your-xbox-one-to-xbox-live-solved/"><u>No More Disconnects: Expert Tips for Connecting Your Xbox One to Xbox Live (Solved)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/real-time-tracking-for-insta-unfollower-score/"><u>Real-Time Tracking for Insta Unfollower Score</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-initialization-failed-error-on-age-of-empires-3/"><u>Step-by-Step Solution to 'Initialization Failed' Error on Age of Empires 3</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-disk-read-error-messages-on-windows-11-systems/"><u>Troubleshooting and Fixing 'Disk Read Error' Messages on Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-broken-keys-on-hp-notebooks-efficiently/"><u>Troubleshooting and Repairing Broken Keys on HP Notebooks Efficiently</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-xiaomi-redmi-a2plus-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Xiaomi Redmi A2+ IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-personalized-pick-our-top-12-favorite-pc-clicker-games/"><u>[New] In 2024, Personalized Pick Our Top 12 Favorite PC Clicker Games</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-perfect-picture-spotlights-how-to-zoom-in-and-out-on-insta-stories/"><u>[New] Perfect Picture Spotlights How to Zoom in & Out on Insta Stories</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-nvidia-method-to-perfect-gaming-replays/"><u>[Updated] 2024 Approved The NVIDIA Method to Perfect Gaming Replays</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-abcs-of-facebook-cover-video-production-for-2024/"><u>[Updated] The ABCs of Facebook Cover Video Production for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/endless-blinking-cursor-learn-how-to-make-it-disappear-now/"><u>Endless Blinking Cursor? Learn How to Make It Disappear Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-windows-11-using-sfc-and-dism-commands-a-step-by-step-guide/"><u>How to Repair Your Windows 11 Using SFC & DISM Commands – A Step-by-Step Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/reliable-techniques-for-retrieving-lost-photographs-from-an-iphone/"><u>Reliable Techniques for Retrieving Lost Photographs From an iPhone</u></a></li>
+<li><a href="https://common-error.techidaily.com/remote-procedure-call-issues-heres-how-you-can-resolve-them/"><u>Remote Procedure Call Issues? Here's How You Can Resolve Them</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/repaired-troubleshooting-sound-problems-with-firefox-browser/"><u>Repaired: Troubleshooting Sound Problems with Firefox Browser</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-d3derrnotavailable-error-a-comprehensive-guide/"><u>Resolving 'D3DERR_NOT_AVAILABLE' Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-lenovo-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Lenovo Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-camera-on-windows-overcome-error-0xa00f4292-here/"><u>Trouble with Camera on Windows? Overcome Error 0xA00F4292 Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-stuck-file-explorer-problems-in-windows-11-step-by-step-fixes/"><u>Troubleshooting Stuck File Explorer Problems in Windows 11 – Step-by-Step Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-your-airpods-connection-issues-on-windows-1011/"><u>Ultimate Guide: Solving Your AirPods Connection Issues on Windows 10/11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ate-youtube-branding-guide-top-names-for-successful-video-blogging-keep-it-to-or-under-156-characters-for-2024/"><u>Ultimate YouTube Branding Guide Top Names for Successful Video Blogging (Keep It to or Under 156 Characters) for 2024</u></a></li>
 </ul></div>
 

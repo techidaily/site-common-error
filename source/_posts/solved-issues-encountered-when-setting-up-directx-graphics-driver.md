@@ -1,7 +1,7 @@
 ---
 title: "Solved: Issues Encountered When Setting Up DirectX Graphics Driver"
-date: 2024-09-20T17:23:14.727Z
-updated: 2024-09-26T19:19:26.530Z
+date: 2024-09-29T17:15:30.934Z
+updated: 2024-10-02T02:31:39.863Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 3. Click**Devices and Printers** in**Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0355fe9f37.jpg)
 
 <!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
   <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
@@ -63,21 +70,7 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 
 4. Make sure there is a green ✔ mark with your printer, which means it’s set to default.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0361852b11.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If it’s not set to default, right-click on your printer and click**Set as default printer** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0363012f57.png)
 
@@ -117,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03f2e27b7d.png)
 3. Click**Advanced** , then tick on **Print As Image** .  Go on to click**OK** \>**Print** to see if your PDF file can be printed.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f046ecc9c75.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2\. Recreate a new PDF file
 
 1. Choose a way to recreate a new PDF file:  
@@ -126,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 **c)** Using the**Save as…** feature in Acrobat Reader: Click **File** \> **Save as…**  , save your PDF file directly to your hard drive.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03fccde7ab.png)
 2. Double-click the new PDF file on your hard drive and then try to print it to see if successful.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -167,10 +174,10 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
@@ -182,13 +189,6 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![Windows 11 - System File Checker](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-sfc-scannow.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -234,20 +234,26 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 4. Find your Acrobat Reader, then Uninstall.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f040401a2b4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Open your PDF file using the new Acrobat Reader. Then try to print it to see if successful.
 
@@ -272,18 +278,22 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-step-by-step-shortcut-for-easy-mac-screen-recording-for-2024/"><u>[New] Step-by-Step Shortcut for Easy Mac Screen Recording for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transforming-audio-content-structuring-your-rss-feed/"><u>[Updated] Transforming Audio Content Structuring Your RSS Feed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-premium-free-lut-options-a-guide-to-quality-tools/"><u>2024 Approved Exploring Premium-Free LUT Options A Guide to Quality Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/corsair-keyboard-darkness-issue-a-step-by-step-illumination-restoration-method/"><u>Corsair Keyboard Darkness Issue? A Step-by-Step Illumination Restoration Method</u></a></li>
-<li><a href="https://common-error.techidaily.com/frozen-function-computer-wont-leave-win1110-snooze/"><u>Frozen Function: Computer Won't Leave Win11/10 Snooze</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-mention-all-group-members-in-a-facebook-post/"><u>How to Mention All Group Members in a Facebook Post</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-the-cannot-install-updates-message-error-0x8007001f-explained/"><u>How To Overcome The 'Cannot Install Updates' Message - Error 0X8007001F Explained!</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/identify-the-best-8-services-to-enhance-youtube-engagement-for-2024/"><u>Identify the Best 8 Services to Enhance YouTube Engagement for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-6-plus-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 6 Plus</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-realme-gt-5-240w-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme GT 5 (240W) FRP Bypass</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-windows-10-for-reliable-clipboard-use/"><u>Optimizing Windows 10 for Reliable Clipboard Use</u></a></li>
-<li><a href="https://common-error.techidaily.com/streamline-fixing-missing-dll-on-pc-games/"><u>Streamline Fixing Missing DLL on PC Games</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-solutions-how-to-fix-a-freezing-windows-11-system/"><u>Top Solutions: How to Fix a Freezing Windows 11 System</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-how-to-keep-your-feed-pure-stop-suggested-posts/"><u>[Updated] In 2024, How to Keep Your Feed Pure Stop Suggested Posts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beyond-the-headsets-the-essence-of-virtual-reality/"><u>2024 Approved Beyond the Headsets The Essence of Virtual Reality</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-exploring-best-4k-video-converter-apps-for-mp3-output/"><u>2024 Approved Exploring Best 4K Video Converter Apps for MP3 Output</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-list-7-mac-focused-vids/"><u>2024 Approved Ultimate List 7 Mac-Focused Vids</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-strategies-for-fixing-your-lenovo-fn-key-without-delay/"><u>Efficient Strategies for Fixing Your Lenovo Fn Key Without Delay</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-buffering-woes-in-kodi-once-and-for-all-effective-fixes-revealed/"><u>End Buffering Woes in Kodi Once and For All: Effective Fixes Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-the-annoyance-how-to-stop-a-frequently-disconnected-mouse/"><u>End the Annoyance: How to Stop a Frequently Disconnected Mouse</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhancing-onlyoffice-with-chatgpt-for-seamless-collaboration/"><u>Enhancing ONLYOFFICE with ChatGPT for Seamless Collaboration</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-techniques-for-effective-data-backup-and-safety-measures/"><u>Essential Techniques for Effective Data Backup and Safety Measures</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-the-dysfunctional-start-menu-in-windows-11-fixed/"><u>Expert Tips for Repairing the Dysfunctional Start Menu in Windows 11 [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-printer-driver-not-found-on-your-windows-computer-solution/"><u>How to Fix 'Printer Driver Not Found' On Your Windows Computer - SOLUTION</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-sony-xperia-1-v-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Sony Xperia 1 V using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-nord-n30-se-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from OnePlus Nord N30 SE to New Android? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-beginner-friendly-steps-to-record-your-mac-display/"><u>In 2024, Beginner-Friendly Steps to Record Your Mac Display</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-unknown-usb-device-issues-in-windows-n-with-these-easy-steps/"><u>Resolve 'Unknown USB Device' Issues in Windows N with These Easy Steps!</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-puzzle-of-unplanned-restarts-how-your-windows-10-keeps-waking-up/"><u>The Puzzle of Unplanned Restarts: How Your Windows 10 Keeps Waking Up</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-missing-peripheral-driver-issues-for-optimal-performance/"><u>Troubleshooting Missing Peripheral Driver Issues for Optimal Performance</u></a></li>
 </ul></div>
 

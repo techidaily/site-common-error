@@ -1,7 +1,7 @@
 ---
 title: "Resolving Windows 11 Power Issues: Why Your Plugged-In Laptop Isn't Charging & How to Solve It"
-date: 2024-09-24T21:03:53.411Z
-updated: 2024-09-26T23:11:01.215Z
+date: 2024-09-27T17:24:39.777Z
+updated: 2024-10-01T19:18:00.451Z
 tags:
   - win11
   - win10
@@ -50,13 +50,6 @@ If you haven’t tried this method before, give it a go.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-ncpa.cpl_.jpg)
 2. Check if your Wi-Fi adapter is disabled or greyed out. If it is, right-click on it and select**Enable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-enable-wifi.jpg)
 
  Once done, restart your computer and check if your Wi-Fi network shows up again.
@@ -96,39 +89,33 @@ If you haven’t tried this method before, give it a go.
 3. Click**Other troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-other-troubleshooter.jpg)
 4. Scroll down the page, locate**Network Adapter** and click**Run** .  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-network-adapter-run.jpg)
 5. Follow the steps in the troubleshooter and see if that fixes the problem.
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If your issue persists, check out the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Turn on WLAN AutoConfig service
 
@@ -137,6 +124,14 @@ If your issue persists, check out the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** together to invoke the Run dialog. Then type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-services.jpg)
 2. Find**WLAN AutoConfig** in the list of services, right-click on it and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/wlan-autoconfig-properties.jpg)
 3. Make sure**Startup type** is set to**Automatic** and**Service status** is**Running** . Then click**OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/wlan-autoconfig-startup-type.jpg)
@@ -153,13 +148,6 @@ If you still face the same issue, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-cmd.jpg)
 2. If you are prompted for permission by User Account Control, click**Yes** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/cmd-uac-yes.jpg)
 3. At the command prompt, type**netsh winsock reset** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/winsock-reset.jpg)
@@ -172,21 +160,22 @@ If you still face the same issue, try the next fix.
 7. Type**ipconfig /flushdns** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-flushdns.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve run all those commands, restart your computer and try to connect to the Wi-Fi network.
 
 If this method doesn’t help, try the last fix below.
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Reset your network
@@ -196,27 +185,34 @@ If this method doesn’t help, try the last fix below.
 1. On your taskbar, select the**Start** button and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-start-settings.jpg)
 2. Select**Network & internet** , then click**Advanced network settings** .  
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-advanced-network-settings.jpg)
 3. Under More settings, click**Network reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-network-reset.jpg)
 4. Click**Reset now** .  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-reset-now.jpg)
 5. Click**Yes** to confirm again.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/network-reset-yes.jpg)
 
@@ -244,17 +240,14 @@ Wait for your computer to restart, and see if that fixes the problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-tidy-up-your-pictures-top-10-online-unblur-tools/"><u>2024 Approved Tidy Up Your Pictures Top 10 Online Unblur Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-cast-errors-and-enable-smooth-streaming-from-pc-to-tv-on-windows-11/"><u>Bypass Cast Errors and Enable Smooth Streaming From PC to TV on Windows 11</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oppo-find-n3-flip-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Oppo Find N3 Flip? Try These Fixes</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-boost-or-dial-down-youtube-audio-with-devices/"><u>In 2024, Boost or Dial Down YouTube Audio with Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-missing-bluetooth-feature-problems-in-windows-10-with-easy-fixes/"><u>Overcome Missing Bluetooth Feature Problems in Windows 10 with Easy Fixes!</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-launch-darkness-errors-in-monster-hunter-world-gameplay/"><u>Overcoming Launch Darkness Errors in Monster Hunter World Gameplay</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/preventing-repeated-car-battery-death-insights-into-6-common-issues/"><u>Preventing Repeated Car Battery Death: Insights Into 6 Common Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-resolving-winsvr-server-role-failed-smb-signing-requirements-error-x0x800706b7/"><u>Quick Solutions for Resolving WinSvr Server Role Failed: SMB Signing Requirements Error - X0x800706B7</u></a></li>
-<li><a href="https://common-error.techidaily.com/steam-connection-problems-solved-restored-game-server-access/"><u>Steam Connection Problems Solved – Restored Game Server Access</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-essential-guide-to-8-best-free-and-paid-videomosaic-tools-on-android/"><u>The Essential Guide to #8 Best Free & Paid Videomosaic Tools on Android</u></a></li>
-<li><a href="https://some-skills.techidaily.com/true-color-harmony-software-for-2024/"><u>True Color Harmony Software for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-y78-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo Y78 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-resolve-frozen-youtube-videos-on-androidios/"><u>[New] 2024 Approved Resolve Frozen YouTube Videos on Android/iOS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-kinemaster-techniques-for-memelore/"><u>2024 Approved Quick KineMaster Techniques for Memelore</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-ethernet-functionality-in-windows-11-and-7-systems/"><u>Expert Tips for Restoring Ethernet Functionality in Windows 11 and 7 Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g14-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Motorola Moto G14 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boost-your-photo-workflow-in-windows-11/"><u>In 2024, Boost Your Photo Workflow in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-issues-with-initializing-a-hosted-network-in-windows-10/"><u>Overcoming Issues with Initializing a Hosted Network in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/preventing-unwanted-win11-restarts/"><u>Preventing Unwanted Win11 Restarts</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-dilemma-of-steam-updates-failing-to-download/"><u>Solving the Dilemma of Steam Updates Failing to Download</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-7-microphone-fixes-overcoming-common-audio-troubleshooting-hurdles/"><u>Windows 7 Microphone Fixes: Overcoming Common Audio Troubleshooting Hurdles</u></a></li>
 </ul></div>
 

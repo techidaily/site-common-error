@@ -1,7 +1,7 @@
 ---
 title: Shockwave Flash Has Crashed in Google Chrome [FIXED]
-date: 2024-09-24T00:26:52.971Z
-updated: 2024-09-26T22:06:34.374Z
+date: 2024-09-29T03:11:37.115Z
+updated: 2024-10-02T04:27:26.691Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/f26f632ded9a775a2cb222368880c548c2427581f
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Update or re-install Google Chrome**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable Chrome add-ons
 
  Add-ons are extensions to Google Chrome that allow you to do more things in your browser, or which improve your user experience. For example, the AdBlock add-on  blocks ads. Extensions are sometimes added manually and sometimes added by other programs on your computer (hopefully with your permission).
@@ -45,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/f26f632ded9a775a2cb222368880c548c2427581f
 2. In the top right, click on **the three vertical dots** button > **More tools** \> **Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432bba1ea5a.jpg)
 3. Toggle off all the extensions on your Chrome.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
 4. Re-launch Chrome, play the same content and see if it works smoothly.  
@@ -68,6 +68,20 @@ thumbnail: https://thmb.techidaily.com/f26f632ded9a775a2cb222368880c548c2427581f
 1. In Chrome, in the top right corner, click on  the **three vertical dots**  button >   **Settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581a513db47.jpg)
 2. Scroll down to the bottom and click **Advanced** .  
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
 3. Scroll down to the bottom and in **System**  and **DISABLE** the toggle next to **Use hardware acceleration when available** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
@@ -76,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/f26f632ded9a775a2cb222368880c548c2427581f
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -96,17 +110,17 @@ This problem may occur if you are using the wrong graphics driver or it’s out 
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then keep track of your Chrome to see if everything runs smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update or re-install Google Chrome
 
@@ -120,13 +134,6 @@ To do so:
 2. In the top right, click on **the three vertical dots** button > **help** \> **About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * If yes, follow the on-screen instruction to finish the update.
 * If no, delete Chrome and re-install it on Windows store or other trustworthy third-party website. (**NOTE** : This will erase your Chrome browser settings and data).
@@ -155,24 +162,18 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-best-free-vector-art-and-graphics-websites/"><u>[New] Best Free Vector Art and Graphics Websites</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-beginners-essential-guide-to-youtube-video-editing-magic-for-2024/"><u>[Updated] Beginner’s Essential Guide to YouTube Video Editing Magic for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevating-your-videos-visual-impact-youtubthumbnail-design-on-macos/"><u>2024 Approved Elevating Your Video's Visual Impact YoutubThumbnail Design on macOS</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-motorola-moto-g04-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Motorola Moto G04 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/a-step-by-step-fix-for-apex-legends-simple-cheater-detection-problems/"><u>A Step-by-Step Fix for Apex Legends’ Simple Cheater Detection Problems</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/accent-enhancement-through-challenging-twisters-100/"><u>Accent Enhancement Through Challenging Twisters (100)</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-the-emerald-error-in-nba-2k21-effective-fixes-explored/"><u>Beat the Emerald Error in NBA 2K21: Effective Fixes Explored</u></a></li>
-<li><a href="https://common-error.techidaily.com/event-id-1000-explained-for-windows-users-7810-finding-solutions-easily/"><u>Event ID 1000 Explained for Windows Users (7/8/10): Finding Solutions Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-lenovo-mouse-pad-issues-on-windows-10-8-and-7-comprehensive-guide/"><u>How to Fix Lenovo Mouse Pad Issues on Windows 10, 8 & 7 - Comprehensive Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-14-pro-maxipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 14 Pro Max/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-best-practices-for-screen-recording-phones/"><u>In 2024, Best Practices for Screen Recording Phones</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-usb-disconnection-problems-for-a-reliable-pc-experience/"><u>Overcoming USB Disconnection Problems for a Reliable PC Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-guide-optimizing-wmv-to-wav-file-transformation-processes/"><u>Quick Guide: Optimizing WMV-to-WAV File Transformation Processes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-non-functional-night-light-on-windows-operating-systems/"><u>Troubleshooting Guide for Non-Functional Night Light on Windows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-bring-back-your-disappearing-taskbar-icons-on-windows-11-with-these-4-tips/"><u>Troubleshooting Guide: Bring Back Your Disappearing Taskbar Icons on Windows 11 With These 4 Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-4-effective-solutions-for-a-failing-dns-server/"><u>Troubleshooting: 4 Effective Solutions for a Failing DNS Server</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-future-googles-new-pixel-buds-pro-2-with-insider-info-on-cost-release-window-and-specs/"><u>Unveiling the Future: Google's New Pixel Buds Pro 2 with Insider Info on Cost, Release Window, and Specs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-x-crashing-heres-the-ultimate-fix/"><u>Updated Final Cut Pro X Crashing? Heres the Ultimate Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/updating-your-graphic-card-for-seamless-fortnite-gaming-in-windows/"><u>Updating Your Graphic Card for Seamless Fortnite Gaming in Windows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ain-currency-with-500-youtube-followers/"><u>[New] Gain Currency with 500 YouTube Followers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unveiling-the-most-effective-methods-for-your-hp-laptop-recordings/"><u>[Updated] 2024 Approved Unveiling the Most Effective Methods for Your HP Laptop Recordings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-easily-stream-facebook-live-chats-with-roku-for-2024/"><u>[Updated] Easily Stream Facebook Live Chats with Roku for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-pip-views-on-chrome-across-devices/"><u>[Updated] Mastering PIP Views on Chrome Across Devices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-expeditious-steps-for-reclaiming-deleted-reddit-content/"><u>2024 Approved Expeditious Steps for Reclaiming Deleted Reddit Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-reducing-microsoft-compatibility-telemetrys-impact-on-hard-drive-capacity-in-windows-10-devices/"><u>Guide to Reducing Microsoft Compatibility Telemetry's Impact on Hard Drive Capacity in Windows 10 Devices</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hd-audio-bus-mastered-no-more-glitches/"><u>HD Audio Bus Mastered - No More Glitches</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-computer-shuts-down-unexpectedly-solutions-explored/"><u>How to Fix: Computer Shuts Down Unexpectedly - Solutions Explored</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oneplus-12r-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your OnePlus 12R Screen | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-11-best-free-mp4-video-cutters/"><u>New Top 11 Best Free MP4 Video Cutters</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208484589-reviving-keyboard-vertical-arrow-buttons-expert-solutions-for-you/"><u>Reviving Keyboard Vertical Arrow Buttons: Expert Solutions for You!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-your-stuck-shift-key-tips-and-solutions/"><u>Troubleshooting and Repairing Your Stuck Shift Key - Tips & Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-laptop-mousepad-issues-in-windows-operating-systems-windows-1187/"><u>Troubleshooting Laptop Mousepad Issues in Windows Operating Systems (Windows 11/8/7)</u></a></li>
 </ul></div>
 

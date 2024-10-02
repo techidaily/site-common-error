@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Wi-Fi Mouse Malfunction: Troubleshooting Steps for Windows 11 & 10"
-date: 2024-09-23T00:08:42.425Z
-updated: 2024-09-27T00:06:30.025Z
+date: 2024-09-24T18:54:33.520Z
+updated: 2024-10-01T19:41:54.233Z
 tags:
   - win11
   - win10
@@ -58,49 +58,28 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Expand the**Universal Serial Bus controllers** branch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click the **Power Management**  tab  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342d99c355a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Un-check the **Allow the computer to turn off this device to save power**  checkbox, and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/05/img_57342dd22bb58.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
@@ -120,14 +99,35 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594841d4c15c1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5948dbf290aa4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 5: Check your USB ports**
 
@@ -150,22 +150,20 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-peeling-back-the-layers-of-visual-past-a-guide-to-fb-image-searching-reversed/"><u>[Updated] 2024 Approved Peeling Back the Layers of Visual Past A Guide to FB Image Searching (Reversed)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-streamlined-steps-for-preserving-vimeo-recordings/"><u>[Updated] 2024 Approved Streamlined Steps for Preserving Vimeo Recordings</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-tier-5-speedy-screen-recorders/"><u>[Updated] In 2024, Tier 5 Speedy Screen Recorders</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-edge-and-dailymotions-charms-an-in-depth-look/"><u>2024 Approved YouTube's Edge & Dailymotion's Charms An In-Depth Look</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-find-x6-pro-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Find X6 Pro</u></a></li>
-<li><a href="https://facebook.techidaily.com/controversial-titans-in-technology/"><u>Controversial Titans in Technology</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-when-you-encounter-a-missing-binkw32dll-error/"><u>Effective Solutions for When You Encounter a Missing binkw32.dll Error</u></a></li>
-<li><a href="https://video-capture.techidaily.com/efficient-techniques-for-bulk-transforming-awb-audio-to-mp3-format/"><u>Efficient Techniques for Bulk Transforming AWB Audio to MP3 Format</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723014009966-fix-your-minecraft-top-5-solutions-for-the-black-screen-problem/"><u>Fix Your Minecraft: Top 5 Solutions for the Black Screen Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-elevated-cpu-utilization-by-iastordatasvc-on-your-32-bit-windows-11-machine-step-by-step-solution/"><u>How to Fix Elevated CPU Utilization by IAstorDataSvc on Your 32-Bit Windows 11 Machine - Step by Step Solution</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unable-to-use-desktop-in-systemprofile-on-windows-pcs/"><u>How to Fix Unable to Use Desktop in SystemProfile on Windows PCs</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy S24? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-error-fixation-successfully-solving-error-0x8024002e-on-windows-systems/"><u>Mastering Error Fixation: Successfully Solving Error 0X8024002E on Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-delay-just-playtime-in-epic-battle-royale/"><u>No Delay, Just Playtime in Epic Battle Royale</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-cannot-start-this-hardware-device-in-windows-11-with-registry-issues-error-19/"><u>Troubleshooting 'Windows Cannot Start This Hardware Device' In Windows 11 with Registry Issues - Error 19</u></a></li>
-<li><a href="https://common-error.techidaily.com/wind-down-your-windows-11-without-disturbances/"><u>Wind Down Your Windows 11 Without Disturbances</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-against-windows-10-pc-reset-errors-a-step-by-step-fix-guide/"><u>Winning Against Windows 10 PC Reset Errors: A Step-by-Step Fix [Guide]</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-20-most-reliable-hashtag-tracker-tools-fbtwitterinsta/"><u>[New] 20 Most Reliable Hashtag Tracker Tools (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-ultimate-guide-to-zooming-in-win11-for-2024/"><u>[New] The Ultimate Guide to Zooming in Win11 for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/op-investment-tips-from-youtube-experts-for-2024/"><u>[New] Top Investment Tips From YouTube Experts for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-hearthstone-lag-effective-quick-fix-tips-and-tricks/"><u>Beat Hearthstone Lag: Effective Quick-Fix Tips & Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conquering-the-mighty-lynel-in-the-legend-of-zelda-breath-of-the-wild/"><u>Conquering the Mighty Lynel in The Legend of Zelda: Breath of the Wild</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-brother-dcp-l2540dw-printer-software-on-windows-pc/"><u>Download and Install Brother DCP-L2540DW Printer Software on Windows PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-v30-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-quiet-down-a-noisy-ps4-gaming-console/"><u>How to Quiet Down a Noisy PS4 Gaming Console</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorolafrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your MotorolaFRP Lock</u></a></li>
+<li><a href="https://common-error.techidaily.com/keep-it-concise-and-descriptive-aim-for-a-title-length-of-50-60-characters-make-sure-the-title-accurately-represents-the-content-without-being-too-long-or-c35/"><u>Keep It Concise and Descriptive: Aim for a Title Length of 50-60 Characters. Make Sure the Title Accurately Represents the Content without Being Too Long or Complex, as Google Will Truncate Titles Beyond This Limit.</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-re-establishing-link-between-computer-and-external-devices-in-windows-os/"><u>Quick Fixes: Re-Establishing Link Between Computer and External Devices in Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-disconnected-external-drives-on-a-windows-operating-system/"><u>Troubleshooting Disconnected External Drives on a Windows Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcoming-common-windows-update-configuration-errors/"><u>Troubleshooting Tips: Overcoming Common Windows Update Configuration Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-fixing-unresponsive-alphabetic-characters-in-windows-11s-keyboard-layout/"><u>Ultimate Guide: Fixing Unresponsive Alphabetic Characters in Windows 11'S Keyboard Layout</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-imovie-for-newbies-a-comprehensive-tutorial-on-adding-audio/"><u>Updated 2024 Approved IMovie for Newbies A Comprehensive Tutorial on Adding Audio</u></a></li>
 </ul></div>
 

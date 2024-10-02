@@ -1,7 +1,7 @@
 ---
 title: "Solved: AMD High Definition Audio Driver Unplugged Issue"
-date: 2024-09-24T21:08:26.536Z
-updated: 2024-09-26T21:43:05.303Z
+date: 2024-10-01T04:33:09.283Z
+updated: 2024-10-02T04:16:18.011Z
 tags:
   - win11
   - win10
@@ -61,21 +61,28 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
@@ -88,25 +95,25 @@ Follow these:
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -130,13 +137,6 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Restart your computer and try to press the Shift key to see if it works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -156,21 +156,20 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-splurging-less-with-low-cost-vr-technology-china/"><u>[New] 2024 Approved Splurging Less with Low-Cost VR Technology (China)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-ultimate-technique-for-capturing-hulu-playbacks/"><u>[New] 2024 Approved The Ultimate Technique for Capturing Hulu Playbacks</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-myface-illusion-sketch-your-whimsical-profile-icon/"><u>[Updated] In 2024, MyFace Illusion Sketch Your Whimsical Profile Icon</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-zero-price-windows-desktop-snapping-tutorials/"><u>[Updated] In 2024, Zero Price Windows Desktop Snapping Tutorials</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-crafting-compelling-instagram-stories-a-guide-to-scaled-visuals/"><u>2024 Approved Crafting Compelling Instagram Stories A Guide to Scaled Visuals</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-solutions-to-correct-the-windows-11-update-failure-error-0x80070541/"><u>Easy Solutions to Correct the Windows 11 Update Failure (Error 0X80070541)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-the-world-of-montage-image-magic-for-2024/"><u>Exploring the World of Montage Image Magic for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fast-fix-successfully-completing-your-windows-installation/"><u>Fast Fix: Successfully Completing Your Windows Installation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-niche-to-notorious-the-journey-of-crafting-memetic-content-gifs/"><u>From Niche to Notorious The Journey of Crafting Memetic Content (GIFs)</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-repair-overcoming-opengl-hurdles-in-minecraft-gaming/"><u>Mastering the Art of Repair: Overcoming OpenGL Hurdles in Minecraft Gaming</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-persistent-issues-in-call-of-duty-black-ops-iv/"><u>Overcoming Persistent Issues in Call of Duty: Black Ops IV</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-fixing-errors-encountered-when-refreshing-your-pc-on-windows-10/"><u>Step-by-Step Guide: Fixing Errors Encountered When Refreshing Your PC on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-your-aoc-display-failures-in-windows-11-setup/"><u>Step-by-Step Solutions for Your AOC Display Failures in Windows 11 Setup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/visual-victory-displays-preserved-after-fix/"><u>Visual Victory: Displays Preserved After Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/zero-in-on-solving-error-code-0x887a0006-your-quick-start-guide-to-recovery/"><u>Zero In On Solving Error Code 0X887A0006 - Your Quick-Start Guide to Recovery</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-channel-upgrade-the-beginners-roadmap-to-video-mastery/"><u>[New] In 2024, Channel Upgrade The Beginner's Roadmap to Video Mastery</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-set-the-mood-music-for-whatsapp-status/"><u>[New] Set the Mood Music for WhatsApp Status</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-brief-vignettes-facebooks-fast-lane/"><u>[Updated] 2024 Approved Brief Vignettes Facebook’s Fast Lane</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-video-spin-a-comprehensive-2023-users-guide-to-youtube-angles/"><u>[Updated] Mastering Video Spin A Comprehensive 2023 User's Guide to YouTube Angles</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/break-free-from-limitations-transitioning-from-32-bit-win10-to-64-bit-prowess/"><u>Break Free From Limitations: Transitioning From 32-Bit Win10, To 64-Bit Prowess</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solution-for-your-steelseries-x70-pen-clicker-problems-a-complete-fixing-manual/"><u>Comprehensive Solution for Your SteelSeries X70 Pen Clicker Problems: A Complete Fixing Manual</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/counterfeit-ai-tool-in-browser-endangers-instagram-and-whatsapp-passwords/"><u>Counterfeit AI Tool in Browser Endangers Instagram and WhatsApp Passwords</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-bluetooth-woes-on-windows-11-top-strategies/"><u>Fix Your Bluetooth Woes on Windows 11 - Top Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-connection-problems-with-your-networks-dhcp-server/"><u>Overcoming Connection Problems with Your Network's DHCP Server</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-starting-a-hosted-wi-fi-connection-issues-in-windows-11-fixed/"><u>Resolved: Starting a Hosted Wi-Fi Connection Issues in Windows 11 - Fixed!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-activatedeactivate-windows-11s-touchscreen-input/"><u>Steps to Activate/Deactivate Windows 11'S Touchscreen Input</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-for-troubleshooting-and-repairing-error-occurred-during-setup-messages-when-reinstalling-windows-10/"><u>Tips for Troubleshooting and Repairing 'Error Occurred During Setup' Messages When Reinstalling Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-excessive-processor-use-in-windows-11-tackling-the-iastordatasvc-32-bit-overload-problem/"><u>Troubleshooting Excessive Processor Use in Windows 11: Tackling the IAStorDataSvc (32 Bit) Overload Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-why-your-windows-cant-connect-to-sensvc-services/"><u>Troubleshooting Guide: Why Your Windows Can't Connect to SENSVc Services</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267173928-ultimate-iphone-data-retrieval-solution-for-mac-bring-back-your-valuable-pictures-movies-and-contacts-easily/"><u>Ultimate iPhone Data Retrieval Solution for Mac - Bring Back Your Valuable Pictures, Movies, and Contacts Easily!</u></a></li>
 </ul></div>
 

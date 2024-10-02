@@ -1,7 +1,7 @@
 ---
 title: "Diagnose and Fix: When Your Keyboard's Shift Key Fails to Work"
-date: 2024-09-13T17:11:12.641Z
-updated: 2024-09-20T19:33:18.381Z
+date: 2024-09-24T17:35:47.472Z
+updated: 2024-10-01T16:42:25.205Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Solution 1: Unplug the keyboard and the mouse then plug it back**
 
  To fix the issue, you can try to unplug and replug the keyboard and the mouse, then Windows will reinstall the driver automatically, and the keyboard and mouse will reconnect.
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
  First, shut down your computer. Then disconnect the power cable (If you are using a laptop computer, you can also remove the battery.). Then hold the power button down for about 10 seconds. After that, restart your computer and see if the issue resolves. This method has worked for other users who run into this problem like you.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Solution 3: Disable driver signature enforcement**
 
@@ -77,13 +91,6 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e209798c0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Expand the category “Universal Serial Bus controllers” and locate the device USB 3.0 eXtensible Host Controller (The name could be different in your case. Just locate a USB device). If you can’t find the USB device under this category, expand the category of Other devices. You may find the device with a yellow mark there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e2b99785c.jpg)
@@ -95,10 +102,10 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e3212f01c.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Click the **OK** button to confirm the uninstall.
@@ -117,6 +124,13 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7ea0bb4aa.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -124,6 +138,13 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7eb6058aa.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Solution 5: Disable the Third Party services**
 
@@ -142,10 +163,10 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8dc3401983.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the **OK** button.
@@ -153,13 +174,6 @@ Follow the steps below:
  5) When you are prompted to restart your computer to apply the changes, click**Restart** . Then your computer will restart.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8dca75f671.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the issue resolves after the computer starts, you can try disabling the third-party services one by one to determine which service is causing the issue.
 
@@ -178,13 +192,6 @@ Follow the steps below:
  3) Find Legacy USB Support or a similar USB option. If it is**Disabled** , enable it. Exit after saving the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8d4218d51d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note if you don’t find  Legacy USB Support in BIOS, it is possible that the BIOS does not provide this option and this solution does not work for you. If you are still not sure how to do this, contact the PC manufacturer for further assistance.
 
@@ -205,5 +212,22 @@ Follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-exploring-the-lost-stories-of-facebook-tech-savvy-approach/"><u>[Updated] 2024 Approved Exploring the Lost Stories of Facebook Tech-Savvy Approach</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-securing-the-best-presentation-of-subtitles-through-srt-uploads/"><u>2024 Approved Securing the Best Presentation of Subtitles Through SRT Uploads</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-reno-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862713060-dell-g16-gaming-laptop-now-just-949-powerhouse-performance-on-sale/"><u>Dell G16 Gaming Laptop: Now Just $949 - Powerhouse Performance on Sale!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/efficient-wdf-techniques-for-decreased-cpu-usage-on-windows/"><u>Efficient WDF Techniques for Decreased CPU Usage on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-unresponsive-solutions-to-overcome-the-endless-load-of-valorant/"><u>Fixing the Unresponsive: Solutions to Overcome the Endless Load of Valorant</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fullscreen-glitch-fixed-on-win11-monitor/"><u>Fullscreen Glitch Fixed on Win11 Monitor</u></a></li>
+<li><a href="https://common-error.techidaily.com/immediate-fixes-for-your-laptop-when-the-battery-refuses-to-charge/"><u>Immediate Fixes for Your Laptop When the Battery Refuses to Charge</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-from-creators-to-viewers-a-roadmap-for-uploading-vids-on-facebook/"><u>In 2024, From Creators to Viewers A Roadmap for Uploading Vids on Facebook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/no-cost-media-transfer-effortless-mxf-file-change-to-wmv-format-with-movavi-software/"><u>No Cost Media Transfer: Effortless MXF File Change to WMV Format with Movavi Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-vcruntime1-dll-missing-on-windows-11-comprehensive-troubleshooting-guide-solved/"><u>Resolving VCRUNTIME1^ DLL Missing on Windows 11 - Comprehensive Troubleshooting Guide [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-steps-to-overcome-the-windows-update-hanging-on-0/"><u>Simple Steps to Overcome the Windows Update Hanging on 0%</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-fix-the-non-functioning-aoc-monitor-compatible-with-windows-10/"><u>Troubleshooting Guide: How to Fix the Non-Functioning AOC Monitor Compatible with Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-persistent-mouse-disconnection-problems-at-home/"><u>Understanding and Fixing Persistent Mouse Disconnection Problems at Home</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zexmt-bluetooth-adapter-secure-your-free-driver-download-for-optimal-performance-on-windows-os/"><u>Zexmt Bluetooth Adapter - Secure Your Free Driver Download for Optimal Performance on Windows OS</u></a></li>
+</ul></div>
 

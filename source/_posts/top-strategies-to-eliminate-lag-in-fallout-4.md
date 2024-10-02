@@ -1,7 +1,7 @@
 ---
 title: Top Strategies to Eliminate Lag in Fallout 4
-date: 2024-09-20T23:19:02.661Z
-updated: 2024-09-26T21:47:03.057Z
+date: 2024-09-25T00:54:08.966Z
+updated: 2024-10-01T19:29:15.770Z
 tags:
   - win11
   - win10
@@ -59,23 +59,16 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 2. Scroll down to the end and select**Advanced display settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced-display-settings.jpg)
 3. Select**Display adapter properties for Display 1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced-dis-settings.jpg)
 4. On the Adapter tab, click**List All Modes** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/display-adapter.jpg)
 5. A list of different resolutions will show on the screen. Select one according to your hardware specifications.  
@@ -94,6 +87,14 @@ If the problem persists, move on to the next fix.
 2. On the**Game Mode** tab, move the slider to turn off**Game Mode** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/game-mode-off.jpg)
 3. On your screen or the folder where you put your game, right click the game icon and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-right-click.jpg)
 
  **If the problem persists, you can also disable fullscreen optimizations:**
@@ -112,7 +113,22 @@ if it is not helping, simply move on to the next fix.
 1. On your keyboard, press**Win** +**R** (the Windows logo key and the R key) to open the Run box. Then type**powercfg.cpl** in the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/runcommand-power.jpg)
 2. In the Power Options menu, click the**Show additional plans** arrow and select**High performance** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/power-high-perform.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Restart your PC and check if anything changes.
 
@@ -140,13 +156,6 @@ If nothing changes, you might need to check your graphic drivers.
 
 If it doesn’t do the trick, simply move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5:**Turn on VSync**
 
  As mentioned before, screen tearing happens in the moments when the game’s frame rate is too high for your monitor to keep up. To fix that, VSync, or vertical sync, could be helpful. It is designed to synchronize the frame rate of a game with your monitor’s refresh rate.
@@ -157,13 +166,6 @@ If it doesn’t do the trick, simply move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/right-click-nvidia.png)
 2. In the left pane, select**Manage 3D Settings** and choose the**Global Settings** tab. Then scroll down to find**Vertical sync** and click the small arrow on its right. Select**On** in the drop-down list and click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Setting Vertical sync to**Adaptive** might also be efficient, according to some players.
 
@@ -176,17 +178,17 @@ If it doesn’t do the trick, simply move on to the next fix.
 3. Click**Always on** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-verticle-refresh-on.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  NVIDIA and AMD settings will default to application settings. It means that they will respect in-game settings. If you select Always On for NVIDIA/AMD in-game, then VSYNC will remain On when appropriate.
 
  To enable VSync in Valorant, go to**Settings** \>**VIDEO** \>**GRAPHICS QUALITY** , and set VSync to**ON** :  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-vsync-on.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When VSync is on, you should turn off**Limit FPS Always** in Valorant, or the two settings might conflict with each other.
 
@@ -195,13 +197,6 @@ If it doesn’t do the trick, simply move on to the next fix.
 
 No luck with that? Keep reading.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6:**Apply optimized Valorant Settings**
 
  No player is playing on a perfect computer. So we do have some suggestions on in-game settings to boost your PC’s display performance. They are personal experiences from enthusiastic players. You could try and see if it fix your problem:
@@ -209,18 +204,19 @@ No luck with that? Keep reading.
 1. In Valorant, go to**Settings** \>**VIDEO** \>**GENERAL** , and set as follows:  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-general-settings.jpg)
 2. Go to**GRAPHICS QUALITY** , and set as follows:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-graphics-quality-settings.jpg)
 
 Launch your game again and check for any changes.
 
 If it doesn’t help, move on to the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7:**Cap Valorant’s frame rate manually**
 
@@ -230,15 +226,16 @@ If it doesn’t help, move on to the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/desktop-right-click-display.jpg)
 2. In the left column, click**Display** . Then scroll down to select**Advanced display settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/adv-display-settings.jpg)
 3. Scroll down to the**Refresh Rate** section and you will know the refresh rate of your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-rate.jpg)
 
 **Now you can set the maximum frame rate.**
@@ -256,6 +253,14 @@ For AMD users:
 1. At the bottom left of the screen, click the search box and type**amd** . Then click**AMD Radeon Software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/AMD-software.jpg)
 2. At the top right corner of the menu, click the settings icon. Then select the**Graphics** tab and navigate to**Radeon Chill** . Enable it and move the Max FPS slider to your PC’s frame rate.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics-1.jpg)
 
  That’s pretty much all we have to fix Valorant screen tearing. If you have any better suggestions, don’t hesitate to share them in the comments below.
@@ -277,18 +282,21 @@ For AMD users:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-inside-the-world-of-funimate-gamers/"><u>[New] Inside the World of Funimate Gamers</u></a></li>
-<li><a href="https://common-error.techidaily.com/best-practices-to-correct-werfaultexe-errors-for-a-smooth-windows-experience/"><u>Best Practices to Correct WerFault.exe Errors for a Smooth Windows Experience</u></a></li>
-<li><a href="https://fox-links.techidaily.com/exclusive-places-for-next-gen-vr-content-for-2024/"><u>Exclusive Places for Next-Gen VR Content for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-107-speaker-issues-complete-guide/"><u>Fixing Windows 10/7 Speaker Issues: Complete Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-images-in-canva-without-clutter/"><u>In 2024, Streamline Your Images in Canva Without Clutter</u></a></li>
-<li><a href="https://common-error.techidaily.com/logitechs-lifeline-solved-pairing-problems/"><u>Logitech's Lifeline: Solved Pairing Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/roblox-load-screen-issues-try-these-proven-fixes-for-a-smooth-gaming-experience/"><u>Roblox Load Screen Issues? Try These Proven Fixes for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-common-issues-and-fixes-when-steam-game-installation-fails/"><u>Solved: Common Issues and Fixes When Steam Game Installation Fails</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/sound-symphony-music-within-whatsapp-statuses/"><u>Sound Symphony Music Within WhatsApp Statuses</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fix-overcoming-windows-camera-failure-code-0xa00f4292/"><u>Step-by-Step Fix: Overcoming Window's Camera Failure Code 0xA00F4292</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-timed-recording-apps-compare-windowsmac-solutions-endorsed-by-movavi/"><u>The Ultimate List of Timed Recording Apps: Compare Windows/Mac Solutions Endorsed by Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-10s-resource-hungry-antivirus-agent-msmpengine/"><u>Troubleshooting Windows 10’S Resource-Hungry Antivirus Agent (MsMpEngine)</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-guide-how-to-restore-lost-iphone-images-with-top-photo-recovery-tools/"><u>Ultimate Guide: How to Restore Lost iPhone Images with Top Photo Recovery Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-your-go-to-places-for-no-fee-gamers-music-online/"><u>[New] 2024 Approved Your Go-To Places for No-Fee Gamers' Music Online</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-intro-creation-made-simple-free-templates/"><u>[New] Intro Creation Made Simple - Free Templates</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-twist-and-turn-tales-transforming-visual-content-on-instagram-platforms-for-2024/"><u>[New] Twist and Turn Tales Transforming Visual Content on Instagram Platforms for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-amplify-your-video-reach-with-these-key-seo-insights-1-11/"><u>[Updated] 2024 Approved Amplify Your Video Reach with These Key SEO Insights (1-11)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mobile-and-desktop-tips-for-gotomeeting-captures/"><u>[Updated] In 2024, Mobile & Desktop Tips for GoToMeeting Captures</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-server-connectivity-issues-in-destiny-2-expert-advice/"><u>Bypassing Server Connectivity Issues in Destiny 2 - Expert Advice</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/crafting-content-that-captivates-easy-to-try-videos/"><u>Crafting Content That Captivates Easy-to-Try Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-update-error-code-0x802e-a-comprehensive-guide/"><u>Fixing Windows Update Error Code 0X802e: A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-mini-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 mini without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-lava-agni-2-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Lava Agni 2 5G on Windows??</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-poco-f5-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Poco F5 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-on-windows-stuttering-and-freezing-correct-graphic-card-driver-errors-here/"><u>Minecraft on Windows Stuttering and Freezing? Correct Graphic Card Driver Errors Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/shockwave-flash-restored-now-works-seamlessly-with-google-chrome-update/"><u>Shockwave Flash Restored: Now Works Seamlessly with Google Chrome [Update]</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-s-pen-problems-a-comprehensive-fixing-manual-for-samsungs-digital-pens/"><u>Solve Your S Pen Problems: A Comprehensive Fixing Manual for Samsung's Digital Pens</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-lenovos-unresponsive-mouse-pad-on-windows-operating-systems-win-1187/"><u>Troubleshooting Lenovo's Unresponsive Mouse Pad on Windows Operating Systems (Win 11/8/7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-connection-issues-with-airpods-on-microsofts-latest-operating-systems-windows-10-and-11/"><u>Ultimate Guide: Resolving Connection Issues with AirPods on Microsoft's Latest Operating Systems (Windows 10 & 11)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Your Non-Functioning HP Laptop Keys – Get Back to Work Now
-date: 2024-09-21T21:21:39.650Z
-updated: 2024-09-26T18:41:00.442Z
+date: 2024-09-30T03:40:01.715Z
+updated: 2024-10-02T02:27:39.992Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/b11f60af4f1190ff0fe1470217a3e88ba5ec7f084
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -54,10 +61,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -77,13 +84,6 @@ Here’s how to reinstall the keyboard driver:
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -109,11 +109,25 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -124,23 +138,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -159,10 +159,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
@@ -199,20 +199,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-fists-fighting-fames-flame/"><u>[Updated] 2024 Approved Fists Fighting Fame's Flame</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-cerebral-sanctuaries-exploring-elite-room-escapes/"><u>[Updated] In 2024, Cerebral Sanctuaries Exploring Elite Room Escapes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-is-your-social-media-strategy-up-to-date-with-facebook-changes-for-2024/"><u>[Updated] Is Your Social Media Strategy Up-to-Date with Facebook Changes for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/aprendizaje-diario-nombres-y-significados-de-los-dias-de-la-semana-en-espanol/"><u>Aprendizaje Diario: Nombres Y Significados De Los Días De La Semana en Español</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-dell-webcam-issues-on-a-windows-pc-solutions-and-troubleshooting-tips/"><u>Fixing Dell Webcam Issues on a Windows PC - Solutions and Troubleshooting Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-unresponsive-touchpad-scroll-issues-in-windows-11/"><u>Fixing Unresponsive Touchpad Scroll Issues in Windows 11</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-bite-sized-tips-for-aspiring-video-editors/"><u>In 2024, Bite-Sized Tips for Aspiring Video Editors</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209951640-league-of-legends-update-dilemma-speed-up-your-game-install-process-now/"><u>League of Legends Update Dilemma? Speed Up Your Game Install Process Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-stuck-spacebar-problem-on-your-newly-installed-windows-11-pc/"><u>Solving the Stuck Spacebar Problem on Your Newly Installed Windows 11 PC</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/stream-success-linking-twitch-feeds-to-fb-networks-for-2024/"><u>Stream Success Linking Twitch Feeds to FB Networks for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-connecting-your-airpods-to-pcs-windows-edition/"><u>Troubleshooting Steps for Connecting Your AirPods to PCs - Windows Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-you-encounter-internet-explorer-not-responding/"><u>Troubleshooting Steps When You Encounter 'Internet Explorer Not Responding'</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-critical-issues-in-black-ops-4/"><u>Ultimate Guide: Resolving Critical Issues in Black Ops 4</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/windowsmac-photo-magic-text-overlay-secrets-revealed/"><u>Windows/Mac Photo Magic Text Overlay Secrets Revealed</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-techniques-and-tools-for-fast-quality-image-reductions/"><u>[New] 2024 Approved Techniques and Tools for Fast, Quality Image Reductions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-pewdiepie-revenue-analysis-overview/"><u>[New] PewDiePie Revenue Analysis Overview</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quality-assured-the-best-10-online-converters-for-jpg-to-gif/"><u>[New] Quality Assured The Best 10 Online Converters for JPG to GIF</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enhancing-fb-video-content-with-streamlined-captioning-tactics-for-2024/"><u>[Updated] Enhancing FB Video Content with Streamlined Captioning Tactics for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-htc-by-drfone-android/"><u>Delete Gmail Account With/Without Password On HTC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-for-troubleshooting-missing-dciman3-dll-errors/"><u>Effective Strategies for Troubleshooting Missing Dciman3# Dll Errors</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-lava-blaze-2-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Lava Blaze 2 5G FRP</u></a></li>
+<li><a href="https://common-error.techidaily.com/microsoft-compatibility-telemetry-eating-up-too-much-disk-space-on-windows-10-solutions-and-fixes-available-now/"><u>Microsoft Compatibility Telemetry Eating Up Too Much Disk Space on Windows 10 – Solutions and Fixes Available Now</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overwatch-fixed-gpu-incompatibility-problems/"><u>Overwatch: Fixed GPU Incompatibility Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-hp-laptop-webcam-a-step-by-step-guide-for-windows-10-users/"><u>Revive Your HP Laptop Webcam: A Step-by-Step Guide for Windows 10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/sfc-and-dism-windows-11-repair-options/"><u>SFC and DISM: Windows 11 Repair Options</u></a></li>
+<li><a href="https://common-error.techidaily.com/sudden-repeated-restarts-windows-11-pcs/"><u>Sudden Repeated Restarts Windows 11 PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-svchostexe-overuse-lowering-cpu-usage-on-windows-10-systems-step-by-step-fix/"><u>Tackling svchost.exe Overuse: Lowering CPU Usage on Windows 10 Systems [Step-by-Step Fix]</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-missing-binkw32dll-errors-on-your-pc/"><u>Troubleshooting Missing binkw32.dll Errors on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-a-non-functional-backspace-button/"><u>Troubleshooting Tips for a Non-Functional Backspace Button</u></a></li>
 </ul></div>
 

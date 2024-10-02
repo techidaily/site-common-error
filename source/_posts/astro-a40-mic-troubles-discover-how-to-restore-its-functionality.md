@@ -1,7 +1,7 @@
 ---
 title: Astro A40 Mic Troubles? Discover How to Restore Its Functionality
-date: 2024-09-22T22:51:02.497Z
-updated: 2024-09-26T23:40:12.197Z
+date: 2024-09-28T19:51:40.196Z
+updated: 2024-10-01T20:48:42.206Z
 tags:
   - win11
   - win10
@@ -68,13 +68,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select**System Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-4.png)
@@ -82,6 +75,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  3) Go to the **Recording** tab, right-click an empty area inside the devices’ display list, and then tick **Show Disabled Devices** to ensure that your mic device shows up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click to highlight your microphone, then click**Set Default > Default Device** .
 
@@ -95,38 +95,24 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Click**OK** to save all the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-117.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Check to see if your mic is working fine. If it isn’t, please move on to the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Re-enable microphone in Device Manager
 
@@ -135,6 +121,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then, type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
 
@@ -148,16 +141,22 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now check to see your mic is back on track.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Modify privacy settings
 
@@ -167,22 +166,35 @@ Now check to see your mic is back on track.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
 
  Below you’ll see another toggle for **Allow apps to access your microphone** . Also turn it**on** if it’s been set to Off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
 
@@ -207,16 +219,18 @@ If this fix doesn’t work, please proceed to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-the-art-of-iphone-image-rotation-effortless-methods/"><u>2024 Approved Master the Art of iPhone Image Rotation - Effortless Methods</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-address-the-0x80072efd-error-in-windows-11-systems/"><u>How to Correctly Address the 0X80072EFD Error in Windows 11 Systems</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/how-to-create-engaging-screencasts-a-practical-guide-for-2024/"><u>How to Create Engaging Screencasts A Practical Guide for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-safeguard-your-browser-tackling-the-deceptive-google-chrome-critical-error-scam/"><u>How to Safeguard Your Browser: Tackling the Deceptive 'Google Chrome Critical Error' Scam</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-explore-fb-moments-privately/"><u>In 2024, Explore FB Moments Privately</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/new-update-all-in-one-hp-deskjet-3755-printer-drivers-for-win-11windows-10-8-and-7-free-download/"><u>New Update! All-in-One HP DeskJet 3755 Printer Drivers for Win 11/Windows 10, 8, and 7 - Free Download</u></a></li>
-<li><a href="https://common-error.techidaily.com/program-cant-start-running/"><u>Program Can't Start Running</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-tricks-for-achieving-high-quality-slow-motion-videos-on-android-for-2024/"><u>Top Tricks for Achieving High-Quality Slow Motion Videos on Android for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206019282-troubled-by-cs-go-keep-freezing-or-crashing-heres-how-to-fix-it-quickly/"><u>Troubled by CS: GO Keep Freezing or Crashing? Here's How to Fix It Quickly!</u></a></li>
-<li><a href="https://common-error.techidaily.com/wacom-pen-not-responding-solutions-for-windows-10-and-windows-11-users/"><u>Wacom Pen Not Responding? Solutions for Windows 10 & Windows 11 Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-reel-mastery-made-simple-with-these-free-apps-to-manage-instagram-videos/"><u>[New] 2024 Approved Reel Mastery Made Simple with These Free Apps to Manage Instagram Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-advice-seamless-srt-file-sharing-across-all-social-networks/"><u>[New] Expert Advice Seamless SRT File Sharing Across All Social Networks</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-seamless-social-sharing-upload-a-twt/"><u>[Updated] In 2024, Seamless Social Sharing Upload a Twt</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-fixes-for-launching-minecraft-successfully-on-a-window-os/"><u>Common Fixes for Launching Minecraft Successfully on a Window OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-sims-4-game-wont-start-correctly/"><u>Effective Fixes for When Your Sims 4 Game Won't Start Correctly</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-for-resolving-the-persistent-restart-problem-in-windows-10/"><u>Effortless Fixes for Resolving the Persistent Restart Problem in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-win11s-troublesome-0x80072efd-error-a-step-by-step-guide/"><u>Fixing Win11's Troublesome 0X80072EFD Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-infinix-smart-8-plus-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Infinix Smart 8 Plus Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-motorola-moto-g84-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Motorola Moto G84 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-errors-encountered-while-installing-or-updating-on-steam/"><u>Step-by-Step Fixes for Errors Encountered While Installing or Updating on Steam</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210743255-troubleshooting-destiny-2-get-your-game-up-and-running-again/"><u>Troubleshooting Destiny 2: Get Your Game Up and Running Again</u></a></li>
 </ul></div>
 

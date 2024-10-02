@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques to Repair Damaged Windows File Systems in Versions 10 & 11
-date: 2024-09-20T18:27:02.710Z
-updated: 2024-09-26T21:17:06.316Z
+date: 2024-09-25T17:34:48.726Z
+updated: 2024-10-01T19:06:02.635Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
 
  The Cast to Device feature requires the**network sharing** feature turned on your computer. See how to check if you turn on the network sharing feature on your computer:
@@ -54,16 +47,10 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
@@ -71,50 +58,59 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
 
 1. Type **media**  in the search box from Start. Then click **Windows Media Player**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click **OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 6. Click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Close the Windows Media Player window.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Try the Cast to Device feature again to see if it succeeds.
 
@@ -134,6 +130,14 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
@@ -157,22 +161,20 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-dynamic-and-simple-building-a-subscriber-button-for-youtube-using-filmora/"><u>[New] 2024 Approved Dynamic and Simple Building a Subscriber Button for YouTube Using Filmora</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-a-deep-dive-into-youtube-mastery-using-sony-vegas-software-for-2024/"><u>[New] A Deep Dive Into YouTube Mastery Using Sony Vegas Software for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-asus-mg28uq-elevating-your-visual-experience-to-new-heights-for-2024/"><u>[Updated] ASUS MG28UQ Elevating Your Visual Experience to New Heights for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-efficient-strategies-to-log-facetime-discussions-for-2024/"><u>[Updated] Efficient Strategies to Log FaceTime Discussions for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-infuse-sound-and-style-into-your-windows-10-photos-app/"><u>[Updated] How to Infuse Sound and Style Into Your Windows 10 Photos App</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-elevate-your-digital-diaries-with-complimentary-upgrades/"><u>[Updated] In 2024, Elevate Your Digital Diaries with Complimentary Upgrades</u></a></li>
-<li><a href="https://solve-news.techidaily.com/winx-mediatrans-iphoneipadipodpcwindows-1eb/"><u>『公式』WinX MediaTrans - iPhone、iPad、iPodのデータ移行・管理最適化ソフト！PC間でスムーズな転送を実現し、Windows (1Eb)互換。</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726028723469-tiktok/"><u>効果的な手順：TikTok動画の自動ダウンロードと保存方法</u></a></li>
-<li><a href="https://common-error.techidaily.com/exploring-msda80dll-file-why-preserve-it-for-optimal-performance/"><u>Exploring MSDA80.DLL File: Why Preserve It for Optimal Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-common-issues-with-torrents-that-wont-download-a-step-by-step-guide/"><u>Fixing Common Issues with Torrents that Won't Download - A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11s-hosted-network-startup-problem-solved/"><u>How to Fix Windows 11'S Hosted Network Startup Problem – Solved!</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-minecraft-performance-issues-caused-by-windows-graphics-driver-errors-fixed/"><u>Overcoming Minecraft Performance Issues Caused by Windows Graphics Driver Errors - Fixed</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issue-with-microsoft-store-launch-failure/"><u>Resolved: Issue with Microsoft Store Launch Failure</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-trackpad-ultimate-guide-for-fixing-inoperative-touchpad-scrolling-today/"><u>Revive Your Trackpad: Ultimate Guide for Fixing Inoperative Touchpad Scrolling Today</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-solve-error-0x800f0831-easily-via-windows-update-tool/"><u>Step-by-Step Guide: Solve Error 0X800f0831 Easily via Windows Update Tool</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-efficient-overheat-prevention-an-in-depth-look-at-thermaltakes-massive-tm-notebook-chiller-with-extra-features-and-high-pricing/"><u>The Ultimate Guide to Efficient Overheat Prevention: An In-Depth Look at Thermaltake's Massive TM Notebook Chiller with Extra Features and High Pricing</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-error-0x80071ac3-solutions-for-handling-a-dirty-volume-issue/"><u>Troubleshooting Error 0X80071AC3: Solutions for Handling a 'Dirty Volume' Issue</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-adding-videos-to-written-work-a-budget-friendly-way/"><u>[New] 2024 Approved Adding Videos to Written Work A Budget-Friendly Way</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-9-secure-virtual-meeting-solutions-for-startups/"><u>[New] 2024 Approved Top 9 Secure Virtual Meeting Solutions for Startups</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-virtual-worlds-compreenas-top-8-metaverse-headgear/"><u>[New] Mastering Virtual Worlds Compreenas Top 8 Metaverse Headgear</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-optimizing-virtual-engagements-with-these-top-10-essential-apps/"><u>[New] Optimizing Virtual Engagements with These Top 10 Essential Apps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-discover-free-methods-to-enhance-alter-and-amplify-your-vocal-expression-for-2024/"><u>[Updated] Discover FREE Methods To Enhance, Alter & Amplify Your Vocal Expression for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fading-audio-tips-for-better-mixes-in-ableton/"><u>[Updated] Fading Audio Tips for Better Mixes in Ableton</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-pro-level-snap-tech-free-from-any-delaying-hiccups/"><u>2024 Approved Pro-Level Snap Tech Free From Any Delaying Hiccups</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-razr-40-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-non-starting-windows-10-optical-drive-error-message-with-incomplete-configuration-data-code-pressure/"><u>How to Repair a Non-Starting Windows 10 Optical Drive - Error Message with Incomplete Configuration Data (Code Pressure)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-your-missing-mouse-icon-on-a-windows-11-pc-expert-tips/"><u>How to Restore Your Missing Mouse Icon on a Windows 11 PC - Expert Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-steps-to-successfully-complete-a-windows-10-update-hanging/"><u>Resolved! Steps to Successfully Complete a Windows 10 Update Hanging</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-huion-pen-5-rapid-fixes-for-a-smooth-drawing-experience/"><u>Reviving Your Huion Pen: 5 Rapid Fixes for a Smooth Drawing Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-a-budget-friendly-rtx-4060-gaming-machine-with-msis-bravo-deals-below-1k/"><u>Score a Budget-Friendly RTX 4060 Gaming Machine with MSI's Bravo - Deals Below $1K!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-fixing-off-screen-window-issues-on-your-computer-display/"><u>Solved: Fixing Off-Screen Window Issues on Your Computer Display</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-audio-dropouts-on-the-logitech-g930-microphone-setup/"><u>Step-by-Step Solution for Audio Dropouts on the Logitech G930 Microphone Setup</u></a></li>
 </ul></div>
 

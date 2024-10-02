@@ -1,7 +1,7 @@
 ---
 title: From Hushed Roads to Rumbling Engines – Correcting the Audio Problems of Forza Horizon 4
-date: 2024-09-19T16:48:39.746Z
-updated: 2024-09-26T18:09:43.925Z
+date: 2024-09-28T00:26:47.872Z
+updated: 2024-10-02T03:42:21.529Z
 tags:
   - win11
   - win10
@@ -40,21 +40,7 @@ When you launch the game you can hear the intro music but right after that, all 
 2. Click**Sounds** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the**Playback** tab, choose the device you’re using and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. In the**Enhancements** tab, uncheck “**Disable all sound effects** “.![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Apply > OK** .
 6. Reboot your computer and check then your game sound.
@@ -70,6 +56,13 @@ When you launch the game you can hear the intro music but right after that, all 
 4. Follow the on-screen instructions.
 5. Reboot your computer and check whether the problem is solved or not.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Update your audio driver
 
  The outdated or missing drivers may be the reason for the “Forza Horizon 4 no sound” problem. You can update your audio driver to solve the problem.
@@ -84,6 +77,13 @@ There are two ways you can update your audio drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-515.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **Option 2 – Automatically update your audio drivers**
 
  If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with Driver Easy.
@@ -97,20 +97,13 @@ There are two ways you can update your audio drivers.
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version).  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -124,14 +117,34 @@ There are two ways you can update your audio drivers.
 4. Click**Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3.1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Use Method 3 to install the driver.
 6. Reboot your computer to check whether the problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Update your Windows system
 
@@ -140,13 +153,6 @@ There are two ways you can update your audio drivers.
 1. Press the**Windows logo key + I** together. Click**Update & Security** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/4.1.jpg)
 2. In the Windows Update tab, click**Check for updates** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-3.jpg)
 3. Install the updates.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Reboot your computer and check the problem is solved or not.
 
@@ -169,20 +175,17 @@ There are two ways you can update your audio drivers.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-pro-gopro-filming-and-live-sharing-best-practices-for-facebookperiscope-for-2024/"><u>[New] Pro Gopro Filming and Live Sharing Best Practices for Facebook/Periscope for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-hp-deskjet-d1360-printer-drivers-wont-install-in-windows-7-8-8110/"><u>[Resolved] HP Deskjet D1360 Printer Drivers Won’t Install in Windows 7, 8, 8.1,10</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-a-visual-editor-writes-guide-to-leveraging-luts-in-adobe-premiere-pro-for-2024/"><u>[Updated] A Visual Editor' Writes Guide to Leveraging LUTs in Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-error-8007000e-effortless-solutions-for-windows-users/"><u>Bypassing Error 8007000E: Effortless Solutions for Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/deciphering-the-importance-of-xinput13dll-in-systems/"><u>Deciphering the Importance of XINPUT1_3.dll in Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/decoding-the-fix-effective-ways-to-address-tarkov-error-code-103003/"><u>Decoding the Fix: Effective Ways to Address 'Tarkov Error Code 103003'</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-solutions-fixing-not-found-problems-with-your-realtek-network-card/"><u>Expert Solutions: Fixing 'Not Found' Problems with Your Realtek Network Card</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-resource-protection-failed-tips-and-tricks-to-restore-system-stability/"><u>Fixing 'Windows Resource Protection Failed' - Tips and Tricks to Restore System Stability</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-idea-to-audio-my-journey-of-scripting-a-podcast-with-the-help-of-chatgpt/"><u>From Idea to Audio: My Journey of Scripting a Podcast with the Help of ChatGPT</u></a></li>
-<li><a href="https://windows11.techidaily.com/masterful-methods-to-overcome-security-errors-in-windows-11/"><u>Masterful Methods to Overcome Security Errors in Windows 11</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-what-is-the-best-mp4-cutters-for-youtubers-on-mac/"><u>New In 2024, What Is the Best MP4 Cutters for YouTubers on Mac?</u></a></li>
-<li><a href="https://win-docs.techidaily.com/quick-fix-activate-the-hidden-feature-in-windows-11-to-speed-up-shutting-down-slow-apps-techsavvy/"><u>Quick Fix: Activate the Hidden Feature in Windows 11 to Speed Up Shutting Down Slow Apps | TechSavvy</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204126689-quick-fixes-for-unresponsive-keyboard-on-your-hp-laptop-solved/"><u>Quick Fixes for Unresponsive Keyboard on Your HP Laptop - Solved</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-gadget-analysis/"><u>Tom's Tech Review: Comprehensive Gadget Analysis</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-fixing-the-system-event-notification-connection-issue-in-windows/"><u>Troubleshooting Guide for Fixing the System Event Notification Connection Issue in Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ecipher-youtubes-mysteries-with-advanced-insights-from-social-blade-for-2024/"><u>[New] Decipher YouTube's Mysteries with Advanced Insights From Social Blade for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cutting-the-cord-on-costs-select-best-free-yt-title-makers/"><u>[New] In 2024, Cutting the Cord on Costs - Select Best-Free YT Title Makers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-breaking-into-the-world-of-youtube-stellar-intros-in-imovie/"><u>[Updated] 2024 Approved Breaking Into the World of YouTube Stellar Intros in iMovie</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-the-top-10-capture-cards-for-youtube-you-should-know/"><u>[Updated] 2024 Approved The Top 10 Capture Cards for YouTube You Should Know</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-foundation-for-success-equipping-new-channels/"><u>[Updated] The Foundation for Success Equipping New Channels</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-ultimate-guide-to-windows-10-savvy-techniques/"><u>2024 Approved Ultimate Guide to Windows 10 Savvy Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-errcachemiss-error-in-chrome-masterful-methods-to-restore-your-browsing-experience/"><u>Beat the ERR_CACHE_MISS Error in Chrome: Masterful Methods to Restore Your Browsing Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unresponsive-updown-and-leftright-buttons-on-your-keyboard-today/"><u>Fixing Unresponsive Up/Down and Left/Right Buttons on Your Keyboard Today</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gopro-spectrum-an-intensive-feature-by-feature-comparison/"><u>GoPro Spectrum An Intensive Feature-By-Feature Comparison</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-device-is-not-ready-error/"><u>How to Fix “The Device Is Not Ready” Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-audio-hurdles-restoring-microphone-functionality-in-windows-10/"><u>Overcoming Audio Hurdles: Restoring Microphone Functionality in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-windows-updates-issues-solved/"><u>Troubleshooting Persistent Windows Updates Issues - Solved!</u></a></li>
 </ul></div>
 

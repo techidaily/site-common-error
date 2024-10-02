@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving PC Connection Issues with Your Bluetooth Keyboard"
-date: 2024-09-22T20:12:49.571Z
-updated: 2024-09-26T20:37:33.299Z
+date: 2024-10-01T00:19:20.076Z
+updated: 2024-10-02T01:20:41.405Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/773b13fe6e17412a9b5b64d4e711163f73a0c0700
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 1: Boot your PC without Peripherals
 
  External peripherals can sometimes conflict with your system and trigger errors of all sorts. So before we dive into anything deeper, let’s start with the easiest solution: restarting your PC without peripherals.
@@ -42,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/773b13fe6e17412a9b5b64d4e711163f73a0c0700
 **2)**  Disconnect all **peripherals**  (your printer, scanner, webcam, mouse, etc.).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/usb-g6d352e3ca_640.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Try turning on your computer again.
 
@@ -94,23 +94,9 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Wait for 5 minutes, and then reinstall your CMOS battery.
 
 5) Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 4: Restore your System to the Previous State
 
@@ -129,25 +115,38 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-12-28.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Choose a different restore point** , and click**Next** to select a restore point before the issue occurs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-13-05.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Follow the on-screen instructions to finish the restore.
 
  If you don’t have a restore point in System Restore, move on and try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 5: Repair Corrupted System Files
@@ -184,20 +183,27 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-28-48.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Type **SFC /Scannow** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-29-41.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Type **DISM /Online /Cleanup-Image /RestoreHealth** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_17-08-53.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 6: Perform a Fresh Install
 
@@ -220,22 +226,20 @@ The CMOS battery looks like this
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-analyzing-the-roi-of-sns-hdr-pro-vs-other-hdr-tools/"><u>[New] Analyzing the ROI of SNS HDR Pro Vs. Other HDR Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-decoding-youtubes-procedure-after-a-video-is-uploaded/"><u>[New] In 2024, Decoding YouTube's Procedure After a Video Is Uploaded</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-live-radio-at-your-fingertips-an-easy-recording-guide/"><u>[New] Live Radio at Your Fingertips An Easy Recording Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/pubg-mastered-the-art-with-solved-dxgidll-issue/"><u>[PUBG] Mastered the Art with Solved Dxgi.dll Issue</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-future-of-animation-unveiled-selection-of-state-of-the-art-modelling-apps/"><u>[Updated] Future of Animation Unveiled Selection of State-of-the-Art Modelling Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-expert-insights-on-saving-smartphone-moments/"><u>[Updated] In 2024, Expert Insights on Saving Smartphone Moments</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-unlimited-chuckles-craftsmanship-no-monetary-requirement/"><u>2024 Approved Unlimited Chuckles Craftsmanship No Monetary Requirement</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-poco-x5-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Poco X5 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-a78-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo A78 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-motorola-edge-40-neo-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Motorola Edge 40 Neo to Mac? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-0x80070490-troubles-a-complete-guide-for-windows-updates/"><u>Resolving 0X80070490 Troubles: A Complete Guide for Windows Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-easy-hack-detection-issue-on-apex-legends/"><u>Resolving the 'Easy' Hack Detection Issue on Apex Legends</u></a></li>
-<li><a href="https://common-error.techidaily.com/shadowed-display-tech-conundrum/"><u>Shadowed Display: Tech Conundrum</u></a></li>
-<li><a href="https://common-error.techidaily.com/steam-game-data-gone-heres-your-step-by-step-fix/"><u>Steam Game Data Gone? Here’s Your Step-by-Step Fix!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-speaker-distortion-on-windows-10-and-7/"><u>Troubleshooting Guide: Fixing Speaker Distortion on Windows 10 and 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-svchostexe-netsvcs-how-to-address-excessive-network-activity/"><u>Understanding svchost.exe (Netsvcs): How to Address Excessive Network Activity</u></a></li>
-<li><a href="https://common-error.techidaily.com/western-digital-my-passport-ultra-detection-fix-a-step-by-step-guide-for-windows-users/"><u>Western Digital My Passport Ultra Detection Fix - A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/est-youtube-ad-creators-for-2024/"><u>[New] Best YouTube Ad Creators for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-capture-the-world-from-your-mobile-height/"><u>[New] In 2024, Capture the World From Your Mobile Height</u></a></li>
+<li><a href="https://common-error.techidaily.com/6-effective-remedies-to-fix-werfaultexe-error-and-boost-system-stability/"><u>6 Effective Remedies to Fix werFault.exe Error and Boost System Stability</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-y78plus-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo Y78+</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-fixes-for-advapi32dll-not-detected-or-lost-mistakes/"><u>Comprehensive Fixes for Advapi32.dll Not Detected or Lost Mistakes</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-the-curse-of-spontaneous-compute-offs-step-by-step-fixes/"><u>Conquer the Curse of Spontaneous Compute Offs - Step by Step Fixes</u></a></li>
+<li><a href="https://article-files.techidaily.com/cost-free-treasure-hunts-finding-gorgeous-tiktok-backdrops/"><u>Cost-Free Treasure Hunts Finding Gorgeous TikTok Backdrops</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortlessly-repair-your-hp-laptops-stuck-or-broken-keys-today/"><u>Effortlessly Repair Your HP Laptop's Stuck or Broken Keys Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-explained-fixing-long-wait-times-for-semaphore-signals-0x80070079/"><u>Error Code Explained: Fixing Long Wait Times for Semaphore Signals (0X80070079)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nokia-g310-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nokia G310 Phones with/without a PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/live-broadcast-showdown-obs-or-streamlabs-which-is-superior/"><u>Live Broadcast Showdown OBS or Streamlabs – Which Is Superior?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/securing-your-iphone-the-top-6-antivirus-applications-reviewed/"><u>Securing Your iPhone: The Top 6 Antivirus Applications Reviewed</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-overcome-black-screen-problems-in-windows-11/"><u>Step-by-Step Solutions to Overcome Black Screen Problems in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-guide-to-the-frustrating-0x80070490-windows-update-bug/"><u>The Ultimate Fix Guide to the Frustrating 0X80070490 Windows Update Bug</u></a></li>
 </ul></div>
 

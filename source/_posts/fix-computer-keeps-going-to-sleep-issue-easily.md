@@ -1,7 +1,7 @@
 ---
 title: Fix Computer Keeps Going to Sleep Issue. Easily
-date: 2024-09-16T16:01:21.935Z
-updated: 2024-09-20T18:03:18.302Z
+date: 2024-09-30T01:17:10.457Z
+updated: 2024-10-01T18:50:33.527Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 2: Update the graphics card driver
 
  The computer keeps going to sleep issue can be caused by the faulty or outdated graphics card driver, especially if you have a high-end graphics card installed. To fix the problem, you can try to update the graphics card driver.
@@ -70,7 +77,21 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Disable the screen saver
 
@@ -95,8 +116,24 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 2. **View by Category** , and click**Appearance and Personalization** (In some cases, this could be**Appearance** .).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373fd30172.jpg)
 3. Click the**Change screen saver** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
 5. Check to see if your computer keeps going to sleep.
 
@@ -115,13 +152,6 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137510499e6.png)  
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
 2. Navigate to the following directory:  
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
@@ -133,10 +163,10 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 5. Click the**OK** button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Exit the Registry Editor.
@@ -147,13 +177,6 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 2. **View by Large icons** , and click**Power Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
@@ -183,5 +206,23 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-accelerate-your-classic-gaming-top-choices-of-android-emulators-for-ps2/"><u>[New] Accelerate Your Classic Gaming - Top Choices of Android Emulators for PS2</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-from-screen-to-speakers-secrets-to-successful-video-sharing/"><u>[Updated] 2024 Approved From Screen To Speakers Secrets to Successful Video Sharing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-mastering-the-art-of-unfollow-a-compilation-of-essential-tools/"><u>[Updated] In 2024, Mastering the Art of Unfollow A Compilation of Essential Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unlock-professional-graphics-custom-templates-on-the-house/"><u>[Updated] In 2024, Unlock Professional Graphics - Custom Templates on the House</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-authenticity-checks-on-instagram/"><u>2024 Approved Mastering Authenticity Checks on Instagram</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-versatile-tips-for-avoiding-vr-motion-sickness/"><u>2024 Approved Versatile Tips for Avoiding VR Motion Sickness</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-strategies-to-overcome-driver-power-interruption-on-pcs-running-windows/"><u>Comprehensive Strategies to Overcome Driver Power Interruption on PCs Running Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-methods-to-address-and-fix-hamachi-service-stopped-alerts/"><u>Efficient Methods to Address and Fix 'Hamachi Service Stopped' Alerts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ssing-success-with-freefire-hashtag-tips-for-2024/"><u>Harnessing Success with FreeFire Hashtag Tips for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-iphone-7-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass iPhone 7 Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-critical-failures-and-fatal-mistakes-in-call-of-duty-black-ops-4/"><u>How to Resolve Critical Failures & Fatal Mistakes in Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-10-bluetooth-not-connecting-expert-tips-and-fixes/"><u>How to Resolve Windows 10 Bluetooth Not Connecting: Expert Tips & Fixes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo FRP Bypass Instantly</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-resolving-constant-reboots-on-windows-11-a-step-by-step-guide/"><u>Quick Fixes for Resolving Constant Reboots on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-resource-limitations-that-prevent-completion-of-services/"><u>Resolving Resource Limitations That Prevent Completion of Services</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-binkw32dll-not-found-issue-a-step-by-step-guide/"><u>Resolving the binkw32.dll Not Found Issue: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

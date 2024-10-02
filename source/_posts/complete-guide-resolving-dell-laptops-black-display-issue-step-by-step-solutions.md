@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Resolving Dell Laptop's Black Display Issue - Step-by-Step Solutions"
-date: 2024-09-23T18:26:34.465Z
-updated: 2024-09-27T00:07:53.552Z
+date: 2024-09-30T20:54:11.710Z
+updated: 2024-10-01T20:36:42.795Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/c6048430c1339bc95d70af5b42f06e3231c3552b0
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -55,10 +48,10 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -66,13 +59,6 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -88,22 +74,29 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -130,10 +123,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -144,6 +143,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -199,22 +205,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-obs-techniques-for-clear-skype-screen-recording/"><u>[Updated] 2024 Approved OBS Techniques for Clear Skype Screen Recording</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-high-stakes-gopro-matchup-hero5b-and-hero5-session-edition/"><u>[Updated] High-Stakes GoPro Matchup Hero5B & Hero5 Session Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guidance-managing-and-repairing-overload-at-port-terminal/"><u>Expert Guidance: Managing and Repairing Overload at Port Terminal</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-successfully-installing-windows-patches-when-facing-error-0x80070002/"><u>Expert Tips for Successfully Installing Windows Patches When Facing Error 0X80070002</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-common-problems-when-your-wacom-tablet-stops-responding/"><u>Fix Common Problems When Your Wacom Tablet Stops Responding</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-implement-chatgpt-widget-for-android-devices-a-step-by-step-guide/"><u>How To Implement ChatGPT Widget For Android Devices - A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-persistent-cursor-blink-a-detailed-tutorial/"><u>How To Resolve Persistent Cursor Blink - A Detailed Tutorial.</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-y200-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo Y200 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-building-a-solid-base-for-higher-instagram-video-view-counts/"><u>In 2024, Building a Solid Base for Higher Instagram Video View Counts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-secrets-of-selecting-a-powerful-podcast-name/"><u>In 2024, Unlocking the Secrets of Selecting a Powerful Podcast Name</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-gadgets-with-tom-a-hardware-specialist/"><u>Navigating the World of Gadgets with Tom - A Hardware Specialist</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-youtube-sound-issues-fixing-the-audio-renderer-bug-in-windows-10/"><u>Resolving YouTube Sound Issues: Fixing the Audio Renderer Bug in Windows 10</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/streaming-to-start-reversing-order-on-your-youtube-watch-list-for-2024/"><u>Streaming to Start Reversing Order on Your YouTube Watch List for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-fixing-a-non-responsive-modern-setup-host-device/"><u>The Ultimate Guide to Fixing a Non-Responsive Modern Setup Host Device</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tomtoms-next-gen-adventure-cameras-the-bandit-review/"><u>TomTom’s Next-Gen Adventure Cameras The Bandit Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-the-stuck-on-boot-screen-issue/"><u>Troubleshooting Guide: Overcoming the 'Stuck on Boot Screen' Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-the-monitor-unrecognized-input-issue-a-comprehensive-guide/"><u>Understanding the 'Monitor Unrecognized Input' Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-enhancing-reels-perfecting-sound-in-instagram-videos/"><u>[New] 2024 Approved Enhancing Reels Perfecting Sound in Instagram Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-decoding-vr-a-virtual-cinematic-journey-for-2024/"><u>[New] Decoding VR A Virtual Cinematic Journey for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-time-lapse-video-techniques-for-ipad-users/"><u>[New] Time-Lapse Video Techniques for iPad Users</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/craftsmits-and-cinematography-precision-in-aspect-ratios-for-2024/"><u>Craftsmits and Cinematography Precision in Aspect Ratios for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-how-to-fix-an-inverted-display-on-your-portable-computer/"><u>Expert Advice on How to Fix an Inverted Display on Your Portable Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206628429-fix-your-laptops-non-charging-issue-a-fast-simple-solution/"><u>Fix Your Laptop's Non-Charging Issue: A Fast, Simple Solution!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-address-and-repair-entrypointnotfound-bugs-within-windows-systems/"><u>How to Correctly Address and Repair 'EntryPointNotFound' Bugs Within Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-locate-the-start-menu-in-windows-11-a-step-by-step-guide/"><u>How to Locate the Start Menu in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-12-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 12 without Passcode or Face ID</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-apple-iphone-11-fix-now-drfone-by-drfone-virtual-ios/"><u>In 2024, 3uTools Virtual Location Not Working On Apple iPhone 11? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-valorants-perpetual-launch-loop-essential-tips-and-tricks/"><u>Overcome Valorant's Perpetual Launch Loop - Essential Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/safeguard-your-pc-with-local-security-authority-restart-protection-feature/"><u>Safeguard Your PC with Local Security Authority – Restart Protection Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-driverpowerstatefailure-problem-step-by-step-guide/"><u>Solving the DRIVER_POWER_STATE_FAILURE Problem: Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-ultimate-guide-to-quieter-youtube-videos/"><u>The Ultimate Guide to Quieter YouTube Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-inadequate-system-resources-complete-guide-to-repair-services/"><u>Troubleshooting Inadequate System Resources - Complete Guide to Repair Services</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-hardware-guided-by-toms-expertise/"><u>Unveiling the Latest in Hardware - Guided by Tom's Expertise</u></a></li>
 </ul></div>
 

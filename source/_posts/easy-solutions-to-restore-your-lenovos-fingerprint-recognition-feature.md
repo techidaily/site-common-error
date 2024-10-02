@@ -1,7 +1,7 @@
 ---
 title: Easy Solutions to Restore Your Lenovo's Fingerprint Recognition Feature
-date: 2024-09-19T20:23:02.950Z
-updated: 2024-09-26T20:11:27.790Z
+date: 2024-09-30T17:30:12.545Z
+updated: 2024-10-02T01:38:04.129Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
    1. If you**can’t** print your PDF file in your browser either, probably your PDF files are corrupted, follow to**[repair or recreate your PDF file](#PDF)** .  
    2. If you **can**  print your PDF file in your browser, you need to [**troubleshoot problems with your Acrobat Reader** .](#reader)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Troubleshoot problems with your printer](#printer)**
@@ -44,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot problems with your printer
@@ -62,21 +69,22 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 3. Click**Devices and Printers** in**Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0355fe9f37.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Make sure there is a green ✔ mark with your printer, which means it’s set to default.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0361852b11.jpg)  
  If it’s not set to default, right-click on your printer and click**Set as default printer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0363012f57.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### 2\. Make sure your printer driver is up-to-date
 
@@ -96,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update**  next to your flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/printer-driver-9015.png)
 4. Restart your computer and try to print your PDF file in Adobe to see if successful.
 
@@ -112,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Repair or recreate your PDF file
@@ -130,10 +131,10 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 3. Click**Advanced** , then tick on **Print As Image** .  Go on to click**OK** \>**Print** to see if your PDF file can be printed.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f046ecc9c75.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2\. Recreate a new PDF file
@@ -195,6 +196,13 @@ sfc /scannow
 
 ![Windows 11 - System File Checker](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-sfc-scannow.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) You may receive something like the following messages after the verification.
 
 * no errors
@@ -229,13 +237,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Restart your PC after repairing the corrupt files and test your printer.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Troubleshoot problems with your Acrobat Reader
 
  If something corrupt happens to your Acrobat Reader or if the software is of an old version, you can’t use it to print your PDF file, either. Troubleshoot the problem with your Acrobat Reader:
@@ -244,13 +245,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 2. Open your PDF file in Acrobat Reader and try to print it to see if successful. If a simple restart cannot solve your problem, reinstall your Acrobat Reader with the latest version with the following steps.
 3. Type features in the search box from Start. Then click Apps & features.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03ff1ce57c.png)
 4. Find your Acrobat Reader, then Uninstall.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f040401a2b4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
 6. Open your PDF file using the new Acrobat Reader. Then try to print it to see if successful.
@@ -276,21 +270,22 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-list-of-iphone-selfie-perks-8/"><u>[New] The Ultimate List of IPhone Selfie Perks #8</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-quickflips-how-tweets-jumpstart-video-fame/"><u>[Updated] QuickFlips How Tweets Jumpstart Video Fame</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-free-high-quality-subtitle-tools/"><u>[Updated] The Ultimate Guide to FREE, High-Quality Subtitle Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-unleashing-the-power-of-time-lapse-photography-using-gopro/"><u>2024 Approved Unleashing the Power of Time-Lapse Photography Using GoPro</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-troubleshooting-for-windows-update-error-understanding-and-solving-0x800f0831/"><u>Effortless Troubleshooting for Windows Update Error: Understanding and Solving 0X800F0831</u></a></li>
-<li><a href="https://fox-that.techidaily.com/getting-your-idevices-keyboard-back-to-work-six-crucial-solutions-for-iphone-and-ipad-users/"><u>Getting Your iDevice's Keyboard Back to Work: Six Crucial Solutions for iPhone and iPad Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-fixing-the-cache-miss-problem-errcachemiss-error-on-chrome/"><u>Guide to Fixing the 'Cache Miss' Problem – ERR_CACHE_MISS Error on Chrome</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-fixing-lost-or-disappearing-bluetooth-devices-on-windows-10-easily/"><u>Guide: Fixing Lost or Disappearing Bluetooth Devices on Windows 10 Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-10-configuration-failure-error-and-get-your-system-running-again/"><u>How to Fix 'Windows 10 Configuration Failure' Error and Get Your System Running Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-your-pc-cant-close-windows-10-os-successfully-fixed/"><u>How to Resolve Your PC Can't Close Windows 10 OS Successfully – FIXED</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-trustee-rights-requesting-access-from-trustedinstaller-to-modify-files/"><u>Navigating Trustee Rights: Requesting Access From TrustedInstaller to Modify Files</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solving-crashes-and-instabilities-in-intel-processors-new-solution-targets-excessive-voltages-update-due-august-midpoint/"><u>Solving Crashes and Instabilities in Intel Processors - New Solution Targets Excessive Voltages, Update Due August Midpoint</u></a></li>
-<li><a href="https://driver-download.techidaily.com/thrustmaster-t150-download-fast-and-simple-driver-installation/"><u>Thrustmaster T150 Download - Fast and Simple Driver Installation</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-honor-magic-5-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Honor Magic 5 Pro Phone</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-quick-and-effective-ways-to-fix-lagging-in-pubg/"><u>Ultimate Guide: Quick and Effective Ways to Fix Lagging in PUBG!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-size-your-videos-youtubes-best-practices-unveiled/"><u>[Updated] How to Size Your Videos YouTube's Best Practices Unveiled</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-navigating-through-free2xs-camera-capturing-features/"><u>[Updated] In 2024, Navigating Through Free2X's Camera Capturing Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-windows-10-stalls-top-tips-for-quick-recovery/"><u>Dealing with Windows 10 Stalls - Top Tips for Quick Recovery</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-to-fix-google-hangouts-microphone-not-working/"><u>Easy to Fix Google Hangouts Microphone Not Working</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-successfully-addressing-windows-loadlibrary-failure-with-error-1114/"><u>Expert Tips for Successfully Addressing Windows 'LoadLibrary' Failure with Error 1114</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fixing-and-regaining-your-steam-files-that-went-missing/"><u>Guide to Fixing and Regaining Your Steam Files That Went MISSING</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oneplus-12r-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For OnePlus 12R</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oneplus-11r-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For OnePlus 11R Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-audio-settings-restoring-volume-in-windows-11-made-easy/"><u>Mastering Audio Settings: Restoring Volume in Windows 11 Made Easy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-langchain-llm-a-comprehensive-course-for-beginners/"><u>Mastering LangChain LLM: A Comprehensive Course for Beginners</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/izing-channels-with-tubebuddy-expertise/"><u>Optimizing Channels with TubeBuddy Expertise</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-vanishing-cursor-issue-in-windows-11-a-step-by-step-guide/"><u>Solving the Vanishing Cursor Issue in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-correcting-insufficient-resource-alerts-in-systems/"><u>Troubleshooting and Correcting Insufficient Resource Alerts in Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-ethernet-connection-problems-in-windows-10-and-7/"><u>Troubleshooting Steps: Resolving Ethernet Connection Problems in Windows 10 and 7</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-reduce-file-size-not-quality-5-best-free-video-compression-apps-for-ios-for-2024/"><u>Updated Reduce File Size, Not Quality 5 Best Free Video Compression Apps for iOS for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Nokia 130 Music? | Dr.fone</u></a></li>
 </ul></div>
 

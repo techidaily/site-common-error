@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Resolving the Serious Google Chrome Bug Alert
-date: 2024-09-16T19:26:34.761Z
-updated: 2024-09-20T19:11:04.326Z
+date: 2024-09-26T03:21:21.036Z
+updated: 2024-10-01T21:22:56.244Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ the picture was taken by: Article\_86
 
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Some users may encounter the scam page for a couple of months. Trying different ways to get rid of it but doesn’t help. Then you may try these fixes. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -55,19 +62,19 @@ the picture was taken by: Article\_86
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run a virus scan
 
  Do a clean virus scan is important after you met the scam. In case your computer gets infected by it, it’s no harm to do so. You can use the antivirus software on your computer or run Windows Defender. Just make sure the software has updated to the latest version.  
  If you would like to try another antivirus software, here we recommend[CCleaner](https://tools.techidaily.com/drivereasy/download/) . It’s a powerful but easy to use software that protects your computer from viruses and criminal ads. CCleaner can easily remove temporary files, program caches, cookies, logs, etc.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall suspicious add-ons
 
@@ -81,14 +88,14 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 4. Relaunch Chrome to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Clear Google Chrome cache
 
@@ -101,22 +108,8 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -128,19 +121,27 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -177,5 +178,22 @@ Spam emails may carry the form of download links or a file attachment.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-prime-alternatives-the-best-online-learning-platforms-without-udemy/"><u>[New] 2024 Approved Prime Alternatives The Best Online Learning Platforms without Udemy</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-elevate-your-facebook-streams-to-hd-levels-for-2024/"><u>[New] Elevate Your Facebook Streams to HD Levels for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-pixel-prodigies-top-10-gaming-ladies-on-yt/"><u>[Updated] Pixel Prodigies Top 10 Gaming Ladies on YT</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-jestmastery-create-share-and-sign-up-with-ease/"><u>2024 Approved JestMastery Create, Share & Sign Up with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-broken-dell-webcams-in-windows-environments/"><u>Comprehensive Solutions for Broken Dell Webcams in Windows Environments</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-bug-6634-expert-tips-to-fix-call-of-duty-warzone-issues/"><u>Conquering Bug 6634: Expert Tips to Fix Call of Duty: Warzone Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-the-annoyance-of-constant-restarts-in-windows-10-with-these-steps/"><u>End the Annoyance of Constant Restarts in Windows 10 with These Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-corrupted-or-malfunctioning-image-files-in-windows-10-and-windows-11/"><u>Fix Corrupted or Malfunctioning Image Files in Windows 10 and Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-implemented-for-sudden-power-surge-through-device-hub/"><u>Fix Implemented for Sudden Power Surge Through Device Hub</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-sluggish-response-of-your-windows-10-keyboard-a-step-by-step-guide/"><u>Fixing the Sluggish Response of Your Windows 10 Keyboard: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212250313-how-to-fix-a-computer-that-wont-start-solutions-worked/"><u>How to Fix a Computer That Won't Start - Solutions Worked!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smoothing-over-flickering-win7-views/"><u>Smoothing Over Flickering Win7 Views</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-the-troublesome-0x80072f8f-issue-on-windows-operating-systems/"><u>Step-by-Step Fixes for the Troublesome 0X80072F8F Issue on Windows Operating Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/step-by-step-recording-games-on-xbox-one/"><u>Step-by-Step Recording Games on Xbox One</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essentials-of-crafting-impactful-spotify-ads-for-2024/"><u>The Essentials of Crafting Impactful Spotify Ads for 2024</u></a></li>
+</ul></div>
 

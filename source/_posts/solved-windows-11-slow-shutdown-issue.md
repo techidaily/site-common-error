@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Windows 11 Slow Shutdown Issue"
-date: 2024-09-17T16:23:12.554Z
-updated: 2024-09-20T19:16:26.969Z
+date: 2024-09-25T02:49:22.184Z
+updated: 2024-10-01T19:03:37.294Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -46,6 +53,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -66,17 +80,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -91,10 +106,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Restart** .
@@ -105,13 +120,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -121,6 +129,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -142,5 +158,26 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-livestream-luminaries-clash/"><u>[Updated] 2024 Approved Livestream Luminaries Clash</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-streaming-showdown-is-streamlabs-or-obs-your-best-choice-for-2024/"><u>[Updated] Streaming Showdown Is Streamlabs or OBS Your Best Choice for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apex-craftsman-studio-evaluation/"><u>Apex Craftsman Studio Evaluation</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-woes-no-more-a-step-by-step-fix-for-pairing-problems-on-windows-11-insider-tips/"><u>Bluetooth Woes No More: A Step-by-Step Fix for Pairing Problems on Windows 11 - Insider Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-genius-widecam-f100-examining-image-quality-and-audio-performance/"><u>Comprehensive Review of the Genius WideCam F100: Examining Image Quality & Audio Performance</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/discovering-accessing-desired-discord-servers-quickly/"><u>Discovering Accessing Desired Discord Servers Quickly</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-seamless-connectivity-with-new-insignia-bluetooth-adapter-driver-software-for-windows-computers/"><u>Ensure Seamless Connectivity with New Insignia Bluetooth Adapter Driver Software for Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-fix-windows-update-failure-error-0x80240017-effectively/"><u>Expert Tips to Fix Windows Update Failure (Error 0X80240017) Effectively</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-poco-m6-pro-4g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Poco M6 Pro 4G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 13 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-twitch-stability-in-depth-fixes-for-overcoming-error-4000/"><u>Mastering Twitch Stability: In-Depth Fixes for Overcoming Error 4000</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-restoring-sounds-in-forza-horizon-4-the-ultimate-guide-to-fixing-audio-issues/"><u>Solved: Restoring Sounds in Forza Horizon 4 – The Ultimate Guide to Fixing Audio Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-repairing-a-windows-boot-failure/"><u>Step-by-Step Solution for Repairing a Windows Boot Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-windows-system-file-missing-error-0xc00000e9/"><u>Step-by-Step Solutions for Windows System File Missing (Error 0xC00000E9)</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-end-of-an-era-unreal-engine-and-d3d/"><u>The End of an Era: Unreal Engine and D3D</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-rise-of-prompt-engineering-in-ai-unveiling-a-new-career-landscape/"><u>The Rise of Prompt Engineering in AI: Unveiling a New Career Landscape</u></a></li>
+<li><a href="https://common-error.techidaily.com/touchpad-troubles-reveal-and-repair-guide-awaits/"><u>Touchpad Troubles? Reveal & Repair Guide Awaits!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-host-for-32-bit-print-driver-error-message/"><u>Troubleshooting Guide: Fixing the 'Host for 32-Bit Print Driver' Error Message</u></a></li>
+</ul></div>
 

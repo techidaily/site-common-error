@@ -1,7 +1,7 @@
 ---
 title: "Shadowy Sheen: Unsolved Anomaly"
-date: 2024-09-22T17:14:55.228Z
-updated: 2024-09-26T16:44:32.461Z
+date: 2024-09-25T16:02:07.787Z
+updated: 2024-10-02T02:12:09.667Z
 tags:
   - win11
   - win10
@@ -65,13 +65,6 @@ net start cryptsvc
 
  If it is, then you’ve solved your problem. But if not, you may need to…
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Modify your Windows setting in the registry
 
  This issue can also be fixes by adjusting a Windows Update setting in the registry. Here is how:
@@ -83,40 +76,50 @@ net start cryptsvc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-905.png)
 3. If prompted, click**Yes** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. On the Registry Editor, click**File** , then select**Export** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-917.png)
 5. Select_a place to save your backup copy_ , then click**Save** to save the backup.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-918.png)
 6. Wait for the export process to be complete.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Go to _HKEY\_LOCAL\_MACHINE\\Software\\Policies\\Microsoft\\Windows\\WindowsUpdate_ .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-919.png)
 8. Double click**DisableWindowsUpdateAccess** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
 9. Change the**value data** to**0** , then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
 
  Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Perform a clean boot
@@ -131,14 +134,21 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
-6. Click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6. Click**OK** .
 
 7. Click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
@@ -148,10 +158,10 @@ To do so:
 10. Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox** ) and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 11. Click**Restart** .  
@@ -163,10 +173,10 @@ To do so:
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
@@ -196,20 +206,17 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-grasping-av1-starters-guidebook/"><u>[New] 2024 Approved Grasping AV1 Starter's Guidebook</u></a></li>
-<li><a href="https://facebook.techidaily.com/demystifying-how-photodna-identifies-counterfeits/"><u>Demystifying How PhotoDNA Identifies Counterfeits</u></a></li>
-<li><a href="https://common-error.techidaily.com/experience-seamless-updates-your-ultimate-solution-for-fixing-error-0x80070002-on-windows/"><u>Experience Seamless Updates: Your Ultimate Solution for Fixing Error 0X80070002 on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-easy-anti-hack-errors-in-apex-legends-guides/"><u>How to Overcome Easy Anti-Hack Errors in Apex Legends [GUIDES]</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-guide-for-windows-protection-layer-cant-connect-at-the-moment/"><u>Solution Guide for 'Windows Protection Layer Can't Connect at the Moment'</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-cannot-connect-to-server-in-apexs-lost-ark-expert-tips-and-fixes/"><u>Solving 'Cannot Connect to Server' In APEX's 'Lost Ark': Expert Tips and Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-fixing-error-code-0x800f0831-via-windows-automatic-updates/"><u>Step-by-Step Guide: Fixing Error Code 0X800f0831 via Windows Automatic Updates</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/tailored-approaches-to-pc-screen-recordings-using-dell-for-2024/"><u>Tailored Approaches to PC Screen Recordings Using Dell for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-business-of-prompt-creation-how-real-is-it-as-a-job-insights-from-ebxamining-9-aspects/"><u>The Business of Prompt Creation: How Real Is It as a Job? Insights From Ebxamining 9 Aspects</u></a></li>
-<li><a href="https://common-error.techidaily.com/tips-for-reducing-high-cpu-load-caused-by-svchostexe-on-your-windows-10-machine/"><u>Tips for Reducing High CPU Load Caused by svchost.exe on Your Windows 10 Machine</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-apex-legends-basic-anti-hacking-glitch-easily/"><u>Troubleshoot and Fix Apex Legends Basic Anti-Hacking Glitch Easily</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshoot-display-issues-updating-and-reinstalling-gpu-drivers-across-windows-versions/"><u>Troubleshoot Display Issues: Updating and Reinstalling GPU Drivers Across Windows Versions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-optimizing-slow-boots-in-windows-7-systems/"><u>Troubleshooting and Optimizing Slow Boots in Windows 7 Systems</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-to-converting-hevc-format-videos-with-ease/"><u>Ultimate Guide to Converting HEVC Format Videos with Ease</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-xbox-chronicles-unveiled-mastering-4-techniques-to-record-playthroughs-for-2024/"><u>[New] Xbox Chronicles Unveiled Mastering 4 Techniques to Record Playthroughs for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-error-1053-the-service-did-not-respond-to-the-start-or-control-request-in-a-timely-fashion/"><u>Fixed: Error 1053: The Service Did Not Respond to the Start or Control Request in a Timely Fashion</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-common-windows-update-failures-and-ensure-smooth-installation/"><u>How To Overcome Common Windows Update Failures And Ensure Smooth Installation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-mastering-discord-message-pinning-essentials/"><u>In 2024, Mastering Discord Message Pinning Essentials</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/multiple-cam-studio-top-notch-live-streaming-and-fake-webcam-solutions/"><u>Multiple Cam Studio: Top-Notch Live Streaming and Fake Webcam Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/oddworld-soulstorm-freezes-and-errors-fixed-expert-tips-for-a-smooth-gaming-experience/"><u>Oddworld: Soulstorm Freezes and Errors Fixed: Expert Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/rectify-the-unable-to-establish-directx-9-device-message-in-windows/"><u>Rectify the 'Unable to Establish DirectX 9 Device' Message in Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-resolving-this-action-requires-admin-approval-messages-on-windows-1078/"><u>Understanding and Resolving 'This Action Requires Admin Approval' Messages on Windows 10/7/8</u></a></li>
 </ul></div>
 

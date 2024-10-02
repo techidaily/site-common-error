@@ -1,7 +1,7 @@
 ---
 title: How to Fix SteelSeries Arctis 5 Microphone Issues - A Step-by-Step Guide
-date: 2024-09-13T19:06:57.248Z
-updated: 2024-09-20T19:08:39.928Z
+date: 2024-09-26T20:31:10.623Z
+updated: 2024-10-02T02:18:52.337Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
 3. [**Adjust your audio settings**](#F3)
 4. [**Install the latest SteelSeries Engine software**](#F4)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
  If your **SteelSeries Arctis 5 microphone is not working** , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -45,6 +52,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
@@ -52,6 +66,13 @@ Here’s how to do it:
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -71,6 +92,13 @@ Here’s how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -83,29 +111,22 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest SteelSeries Engine software
 
@@ -136,5 +157,20 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-securely-extract-and-convert-youtube-audios-as-mp3/"><u>[New] 2024 Approved How To Securely Extract and Convert YouTube Audios as MP3</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-best-obs-settings-for-low-end-pc/"><u>[New] In 2024, Best OBS Settings for Low-End PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-complete-inshot-editors-handbook-to-smoothness/"><u>[New] The Complete Inshot Editor's Handbook to Smoothness</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-visionsonic-vsdc-review-ideal-substitutes-for-2024/"><u>[Updated] VisionSonic VSDC Review - Ideal Substitutes for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-pro-tips-to-enhance-your-use-of-instagrams-query-symbol/"><u>2024 Approved Pro Tips to Enhance Your Use of Instagram's Query Symbol</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-error-there-is-a-problem-with-your-games-setup-origin-games/"><u>Fix Error There Is a Problem with Your Game's Setup | Origin Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-repair-a-pc-that-fails-to-start-correctly-now-resolved/"><u>How to Successfully Repair a PC That Fails to Start Correctly - Now Resolved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcame-issue-windows-cant-communicate-with-the-system-event-service-now/"><u>Overcame Issue: Windows Can't Communicate with the System Event Service Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gaming-saves-the-day-resolving-minecraft-unresponsiveness/"><u>PC Gaming Saves the Day: Resolving Minecraft Unresponsiveness</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pro-camera-selection-guide-top-10-films-tools-ranked-for-2024/"><u>Pro Camera Selection Guide - Top 10 Films Tools Ranked for 2024</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-honor-90-lite-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Honor 90 Lite on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-error-code-224403-now-your-videos-will-play-smoothly/"><u>Solving 'Error Code 224403': Now Your Videos Will Play Smoothly</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Poco F5 5G? | Dr.fone</u></a></li>
+</ul></div>
 

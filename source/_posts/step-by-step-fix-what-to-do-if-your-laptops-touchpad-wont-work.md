@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Fix: What to Do If Your Laptop's Touchpad Won't Work"
-date: 2024-09-21T17:26:27.240Z
-updated: 2024-09-26T21:15:56.847Z
+date: 2024-09-29T21:08:04.885Z
+updated: 2024-10-02T04:01:56.335Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -41,22 +48,15 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
@@ -68,10 +68,10 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -88,16 +88,23 @@ Here’s how to do it:
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -109,13 +116,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 3. Click on **your microphone device again** and click**Properties** .  
@@ -126,6 +126,13 @@ To do so:
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -160,18 +167,18 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-prime-16-video-openers-to-surge-your-traffic/"><u>[Updated] 2024 Approved Prime 16 Video Openers to Surge Your Traffic</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-streamlining-media-playback-with-vlc-mac/"><u>2024 Approved Streamlining Media Playback with VLC (Mac)</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/convert-your-pdfs-instantly-for-free-supports-word-powerpoint-flash-and-images/"><u>Convert Your PDFs Instantly for Free - Supports Word, PowerPoint, Flash, and Images!</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-fixes-for-restoring-access-to-vanished-steam-file-permissions/"><u>Essential Fixes for Restoring Access to Vanished Steam File Permissions</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-non-operational-copy-and-paste-in-windows-os/"><u>Fixing Non-Operational Copy and Paste in Windows OS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-moto-g14-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Moto G14?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-how-to-fade-audio-in-lumafusion/"><u>In 2024, How To Fade Audio In Lumafusion</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Online? Here are 6 Easy Ways</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-power-surge-on-hub-port/"><u>Solved: Power Surge on Hub Port</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-remedies-to-restore-missing-wpcpdll-on-your-computer/"><u>Step-by-Step Remedies to Restore Missing WPCP.DLL on Your Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-the-non-functional-right-click-on-mouse-under-windows-10/"><u>Troubleshooting: Fixing the Non-Functional Right Click on Mouse Under Windows 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-how-to-fix-windows-10-search-issues-quickly/"><u>Troubleshooting: How to Fix Windows 10 Search Issues Quickly</u></a></li>
-<li><a href="https://common-error.techidaily.com/untangling-the-complicated-web-of-windows-10s-0x80240034-a-step-by-step-guide-to-seamless-updates/"><u>Untangling the Complicated Web of Windows 10'S 0X80240034: A Step-by-Step Guide to Seamless Updates</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-master-the-art-of-permanently-disconnect-from-tiktok/"><u>[New] In 2024, Master the Art of Permanently Disconnect From TikTok</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-durecorder-uncovered-features-and-analysis/"><u>[Updated] DuRecorder Uncovered Features and Analysis</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlocking-potential-in-instagram-engagement-with-advanced-data-tools-for-2024/"><u>[Updated] Unlocking Potential in Instagram Engagement with Advanced Data Tools for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-reimagining-user-engagement-top-10-video-editors-outside-vimeo/"><u>2024 Approved Reimagining User Engagement Top 10 Video Editors Outside Vimeo</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-the-ultimate-guide-to-professional-quality-audio-without-a-microphone/"><u>2024 Approved The Ultimate Guide to Professional-Quality Audio without a Microphone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-dayz-gaming-experience-quick-fixes-for-fps-drops-guaranteed/"><u>Enhance DayZ Gaming Experience - Quick Fixes for FPS Drops Guaranteed!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-6-plus-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-5-simple-ways-to-save-your-youtube-content/"><u>In 2024, 5 Simple Ways to Save Your YouTube Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/multiracial-americans/"><u>Multiracial Americans:</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-galaxy-f34-5g-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Galaxy F34 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-error-code-0x800f0831-utilize-windows-updates/"><u>Quick Fixes for Error Code 0X800f0831: Utilize Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-ps4-noise-issues-understanding-causes-and-solutions/"><u>Resolving PS4 Noise Issues: Understanding Causes and Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-resolving-errcachemiss-errors-on-chrome-browsers/"><u>Troubleshooting and Resolving ERR_CACHE_MISS Errors on Chrome Browsers</u></a></li>
 </ul></div>
 

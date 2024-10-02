@@ -1,7 +1,7 @@
 ---
 title: Understanding & Solving Steam's Troublesome E80 Error Code
-date: 2024-09-25T21:04:51.969Z
-updated: 2024-09-26T17:49:23.572Z
+date: 2024-09-25T23:41:11.723Z
+updated: 2024-10-01T18:51:39.842Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 3. **[Scan for malware on your computer](#c)**
 4. **[Perform a clean boot](#d)**
 5. **[Run the Command Prompt](#e)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -69,10 +76,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-105.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -94,6 +101,13 @@ OR
 **3)**  Restart your computer.
 
  If your problem still exists after you update your computer, read on and try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Scan for malware on your computer
 
@@ -126,13 +140,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-118.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Type**msconfig** . Then, on your keyboard, press the**Enter, Shift** and**Ctrl** keys at the same time to run System configuration as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-116.png)
@@ -149,6 +156,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-109.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-112.png)
@@ -156,13 +170,6 @@ OR
 **7)** Click the**Startup tab.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-121.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **8)** Uncheck the box next to the program that you want to prevent it from auto-launching, and then click**OK** .
 
@@ -196,6 +203,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-90.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-91.png)
@@ -208,13 +222,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-94.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **8)** Right-click the program you want to prevent it from auto-launching and select **Disable** .
 
  Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety.
@@ -222,10 +229,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-724.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **9)** Restart your computer and check if this has resolved your problem.
@@ -240,6 +247,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-87.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type**msconfig** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-132.png)
@@ -248,29 +262,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-148.png)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click the**Services tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-150.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Click**Enable all,** then click**OK** .
 
@@ -279,13 +273,6 @@ OR
 **6)** Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-146.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your computer will start normally after you finish this step. If the clean reboot didn’t fix your problem, try the fix below.
 
@@ -296,6 +283,13 @@ OR
 **1)**  On your keyboard, press the **Windows logo** key and **R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-160.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)**  Type **cmd,** then press the **Ctrl, Shift**  and **Enter** keys at the same time to run the Command Prompt as administrator.
 
@@ -339,20 +333,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-spectacle-of-speed-simulators-top-5/"><u>[New] 2024 Approved Spectacle of Speed Simulators (Top 5)</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-recapturing-moments-top-notch-free-cam-screens-and-alternatives/"><u>[New] In 2024, Recapturing Moments Top-Notch Free Cam Screens & Alternatives</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-top-11-screen-recorders-for-mac/"><u>[Updated] Top 11 Screen Recorders for Mac</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-the-block-mastering-minecraft-error-code-5-solutions/"><u>Beat the Block! Mastering Minecraft Error Code 5 Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-v27e-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo V27e via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/directx-troubleshooting-successfully-addressing-unrecoverable-error-scenarios/"><u>DirectX Troubleshooting: Successfully Addressing Unrecoverable Error Scenarios</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fixes-for-the-persistent-restart-problem-in-windows-11/"><u>Effortless Fixes for the Persistent Restart Problem in Windows 11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/essential-iphone-recording-apps-for-2024/"><u>Essential iPhone Recording Apps for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-restoring-your-lenovo-mouse-pad-functionality-across-all-windows-versions/"><u>Guide to Restoring Your Lenovo Mouse Pad Functionality Across All Windows Versions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-gamers-guide-to-flawless-game-recordings/"><u>In 2024, Gamers' Guide to Flawless Game Recordings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsungs-next-innovation-the-galaxy-z-flip-7-anticipated-cost-launch-timeline-and-latest-gossip/"><u>Samsung's Next Innovation: The Galaxy Z Flip 7 - Anticipated Cost, Launch Timeline & Latest Gossip</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-reviving-the-scroll-wheel-in-a-malfunctioning-logitech-mouse/"><u>Step-by-Step Guide: Reviving the Scroll Wheel in a Malfunctioning Logitech Mouse</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-resolution-overcoming-hub-port-electrical-fluctuations/"><u>Step-by-Step Resolution: Overcoming Hub Port Electrical Fluctuations</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-cxfreeze-catastrophic-failures-with-ease/"><u>Troubleshooting Guide: Solving Cx_Freeze Catastrophic Failures with Ease</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/vllo-feedback-compilation-for-2024/"><u>VLLO Feedback Compilation for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-your-content-incorporating-exact-timestamps-in-videos/"><u>[Updated] 2024 Approved Elevate Your Content Incorporating Exact Timestamps in Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-boosting-facebook-video-performance/"><u>[Updated] Boosting Facebook Video Performance</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-creating-a-fortified-mc-homebase-for-2024/"><u>[Updated] Creating a Fortified MC Homebase for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-harnessing-hdr-in-post-top-4-youtube-guides-with-complimentary-green-screen-effects/"><u>[Updated] Harnessing HDR in Post Top 4 YouTube Guides with Complimentary Green Screen Effects</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-laughable-phone-melodies-essential-sites-listed/"><u>2024 Approved Laughable Phone Melodies Essential Sites Listed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-photoshop-alternatives-on-android/"><u>2024 Approved Mastering Photoshop Alternatives on Android</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721959713861-chatgpt-desktop-on-hold-discover-this-top-quality-open-source-chat-app-as-your-go-to-solution/"><u>ChatGPT Desktop on Hold? Discover This Top-Quality Open Source Chat App as Your Go-To Solution!</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/convertir-videos-ogg-a-formato-wmv-sin-costo-utilizando-la-herramienta-en-linea-de-movavi/"><u>Convertir Videos OGG a Formato WMV Sin Costo Utilizando La Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-the-problem-insights-into-teredos-eligibility-issues/"><u>Decoding the Problem: Insights Into Teredo's Eligibility Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-problem-of-invisible-desktop-icons-on-your-windows-10-pc/"><u>Fixing the Problem of Invisible Desktop Icons on Your Windows 10 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/laptop-touchpad-malfunctions-in-windows-systems-heres-how-you-can-fix-them/"><u>Laptop Touchpad Malfunctions in Windows Systems? Here's How You Can Fix Them!</u></a></li>
+<li><a href="https://common-error.techidaily.com/preventing-power-offs-during-gameplay-a-guide-for-all-windows-os-users/"><u>Preventing Power-Offs During Gameplay: A Guide for All Windows OS Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/reorienting-laptop-displays-resolve-the-screen-flip-issue-today/"><u>Reorienting Laptop Displays - Resolve the Screen Flip Issue Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-hidden-wi-fi-settings-in-windows-11/"><u>Resolved: How to Fix Hidden Wi-Fi Settings in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-quickly-why-wont-my-laptop-charge/"><u>Troubleshoot Quickly: Why Won't My Laptop Charge?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016036993-unlock-seamless-game-sound-integration-with-this-solved-discord-method/"><u>Unlock Seamless Game Sound Integration with This Solved Discord Method</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-freezes-randomly-solved/"><u>Windows 10 Freezes Randomly [Solved]</u></a></li>
 </ul></div>
 

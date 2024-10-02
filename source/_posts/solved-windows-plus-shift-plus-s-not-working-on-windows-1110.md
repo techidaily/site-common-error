@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Windows + Shift + S Not Working on Windows 11/10"
-date: 2024-09-17T18:09:56.149Z
-updated: 2024-09-20T18:20:17.830Z
+date: 2024-09-26T22:36:20.483Z
+updated: 2024-10-01T23:17:04.257Z
 tags:
   - win11
   - win10
@@ -43,6 +43,14 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
@@ -50,6 +58,13 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -72,10 +87,16 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
@@ -85,18 +106,27 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
@@ -121,5 +151,19 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-cross-platform-comparison-iphone-vs-android-youtube-viewing/"><u>[New] Cross-Platform Comparison IPhone vs Android YouTube Viewing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-essential-guide-to-creating-amazing-ig-films/"><u>[New] In 2024, The Essential Guide to Creating Amazing IG Films</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-to-refined-your-guide-to-youtube-video-edits-for-2024/"><u>[Updated] From Raw to Refined Your Guide to YouTube Video Edits for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-monetizing-your-content-deciphering-the-minimum-views-needed/"><u>[Updated] In 2024, Monetizing Your Content Deciphering the Minimum Views Needed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-spotifys-ad-potential-a-complete-guide/"><u>[Updated] Unlocking Spotify's Ad Potential A Complete Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beat-hopping-boundaries-linking-service-playlists-together-for-2024/"><u>Beat Hopping Boundaries Linking Service Playlists Together for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722898954645-explore-these-exceptional-substitutes-for-chatgpt-top-picks/"><u>Explore These Exceptional Substitutes for ChatGPT: Top Picks!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-apply-recent-windows-1asterns-10-version-1803-features-fixed/"><u>How to Successfully Apply Recent Windows 1Asterns 10 Version 1803 Features [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-steam-service-disruptions-a-guide-to-restoring-access/"><u>Overcoming Steam Service Disruptions: A Guide to Restoring Access</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-persistent-0x80240017-issue-with-windows-updates-a-step-by-step-guide/"><u>Resolving the Persistent 0X80240017 Issue with Windows Updates - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-correcting-logon-failures-in-group-policy-clients-solved/"><u>Troubleshooting Steps for Correcting Logon Failures in Group Policy Clients [SOLVED]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-solving-the-mystery-of-the-stop-0x0000003d-blue-screen-error/"><u>Ultimate Guide: Solving the Mystery of the STOP 0X0000003D Blue Screen Error</u></a></li>
+</ul></div>
 

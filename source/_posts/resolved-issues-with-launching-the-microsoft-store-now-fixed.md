@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Issues with Launching the Microsoft Store Now Fixed"
-date: 2024-09-22T21:24:51.191Z
-updated: 2024-09-26T16:16:28.035Z
+date: 2024-09-30T00:24:23.367Z
+updated: 2024-10-01T19:49:14.115Z
 tags:
   - win11
   - win10
@@ -31,6 +31,19 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -41,6 +54,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
@@ -49,16 +69,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -75,16 +95,16 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -95,21 +115,16 @@ To do so:
 1. Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
- If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
+ If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
@@ -117,23 +132,9 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -168,16 +169,16 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-in-depth-look-top-6-screen-recording-software-reviewed/"><u>[New] 2024 Approved In-Depth Look Top 6 Screen Recording Software Reviewed</u></a></li>
-<li><a href="https://driver-install.techidaily.com/easy-wacom-bamboo-driver-updater/"><u>Easy Wacom Bamboo Driver Updater</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-the-depths-of-time-lapse-photography-with-gopro-for-2024/"><u>Exploring the Depths of Time-Lapse Photography with GoPro for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-speaker-distortion-issues-on-windows-11-and-7-a-comprehensive-guide/"><u>Fixing Speaker Distortion Issues on Windows 11 & 7 – A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/video-lessons-to-visual-gigs-youtube-videos-converted-seamlessly/"><u>From Video Lessons to Visual Gigs YouTube Videos Converted Seamlessly</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-update-unavailable-issue-step-by-step-fix-guide/"><u>Resolving 'Windows Update Unavailable' Issue: Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-for-noisy-audio-in-windows-operating-systems-10-and-7/"><u>Solution for Noisy Audio in Windows Operating Systems (10 and 7)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-restoring-integrity-of-windows-11-system-components/"><u>Troubleshooting Tips: Restoring Integrity of Windows 11 System Components</u></a></li>
-<li><a href="https://common-error.techidaily.com/upgrade-your-screen-update-required-incompatible-display-timeout-settings/"><u>Upgrade Your Screen: Update Required - Incompatible Display Timeout Settings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-streamlining-cross-platform-communication-via-skype-chat-rooms/"><u>[Updated] Streamlining Cross-Platform Communication via Skype Chat Rooms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-to-reestablish-connection-with-your-stadia-headset/"><u>Effective Solutions to Reestablish Connection with Your Stadia Headset</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/essential-guidelines-for-implementing-music-emojis-in-instagram/"><u>Essential Guidelines for Implementing Music Emojis in Instagram</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-top-10-music-videos-on-facebook/"><u>In 2024, Top 10 Music Videos on Facebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-system-improvements-with-seamless-windows-updates/"><u>Mastering System Improvements with Seamless Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209518388-pubg-structures-failing-to-load-heres-the-fix/"><u>PUBG Structures Failing to Load? Here's the Fix!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-and-easy-steps-restore-lost-iphone-video-footage-without-hesitation-comprehensive-tutorial/"><u>Quick & Easy Steps: Restore Lost iPhone Video Footage Without Hesitation - Comprehensive Tutorial</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-money-tally-for-video-marketers-for-2024/"><u>Quick Money Tally for Video Marketers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205957233-razer-keyboards-not-glowing-heres-how-to-restore-their-brightness/"><u>Razer Keyboards Not Glowing? Here's How to Restore Their Brightness</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-user-profile-service-failures-during-login-on-windows-10-and-11/"><u>Resolving User Profile Service Failures During Login on Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-solve-the-persistent-8007000e-error-during-windows-updates-easily/"><u>Troubleshoot and Solve the Persistent 8007000E Error During Windows Updates Easily</u></a></li>
 </ul></div>
 

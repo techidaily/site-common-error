@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving Minecraft's OpenGL Error Messages and Glitches
-date: 2024-09-18T18:32:41.383Z
-updated: 2024-09-20T19:01:04.653Z
+date: 2024-09-25T23:20:31.017Z
+updated: 2024-10-01T17:02:09.055Z
 tags:
   - win11
   - win10
@@ -52,11 +52,25 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run the SFC scan
 
 **System File Checker** (**SFC** ) is a handy feature in Windows that helps scan your system files and repair missing or corrupted system files(including those related to **error 0x80073712** ). To **run the SFC scan** :
 
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
@@ -71,11 +85,25 @@ If you got a **0x80073712** error code in the midst of a Windows update, don’t
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Run **the DISM tool**
 
 **DISM**  (**Deployment Image & Servicing Management** ) is another tool that helps us fix Windows-corruption-caused errors (**0x80073712** in this case). To run **DISM** :
 
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
@@ -93,13 +121,6 @@ Wait for a while for the whole process to finishes.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Delete Windows Update Cache
 
  Deleting Windows Update Cache is another useful method to help us fix the **0x80073712** error code. Here’s how:
@@ -108,55 +129,55 @@ Wait for a while for the whole process to finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b220b691f96a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Scroll down to the bottom, right-click on **Windows Update**  . Then click**Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a89c68a29.jpg)
 
  3) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**   and **R**   at the same time, then copy & paste **C:\\Windows\\SoftwareDistribution\\Download** into the box and press**Enter** .
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a92deb7fc.png)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a92deb7fc.png)
 
  4) Press**Ctrl** and**A** at the same time, then right-click to pop up a menu and click**Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45a98e3f0f6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) When asked to provide administrator permission, check**the box** before**Do this for all current items** and click**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ab04cd2f7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Back to the**Services** window, right-click on**Windows Update** and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b45ac06c5a8a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Restart your computer and try the Windows update again to see if the error code disappears.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Use **Media Creation Tool** to have a clean installation of Windows 10
 
@@ -189,5 +210,21 @@ Wait for a while for the whole process to finishes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-streamline-strategies-softwares-versus-hardware-harmony/"><u>[New] Streamline Strategies Softwares Versus Hardware Harmony?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-jokegenius-get-the-best-meme-app/"><u>[Updated] 2024 Approved JokeGenius - Get the Best Meme App</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-pioneering-image-editing-with-toolwiz-a-compre-written-review/"><u>[Updated] 2024 Approved Pioneering Image Editing with Toolwiz – A Compre Written Review</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-synthesizing-worlds-latest-trends-in-virtual-tech/"><u>[Updated] In 2024, Synthesizing Worlds Latest Trends in Virtual Tech</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-vrs-negative-aspects/"><u>2024 Approved Navigating VR's Negative Aspects</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unleashing-creativity-crafting-compelling-fb-video-campaigns/"><u>2024 Approved Unleashing Creativity Crafting Compelling FB Video Campaigns</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-msi-b350-toms-tomahawk-motherboard-drivers-compatible-with-windows-10-and-7/"><u>Download MSI B350 TOM'S TOMAHAWK Motherboard Drivers - Compatible with Windows 10 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-broken-shift-key-step-by-step-solution/"><u>Fixing the Broken Shift Key: Step-by-Step Solution</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimize-frame-rates-for-maximum-gameplay-immersion/"><u>In 2024, Optimize Frame Rates for Maximum Gameplay Immersion</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-fix-a-computer-that-cant-power-off-in-windows-10/"><u>Solved: How to Fix a Computer That Can't Power Off in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-laptop-doesnt-charge-despite-being-connected-windows-10/"><u>Solving the Problem: Laptop Doesn’t Charge Despite Being Connected (Windows 10)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tactics-for-resolving-critical-system-interruption-error-0xc00000e9-on-your-pc/"><u>Troubleshooting Tactics for Resolving Critical System Interruption (Error 0xC00000E9) on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-typing-troubles-heres-how-you-can-eliminate-sticky-keys-and-improve-response-time/"><u>Windows 11 Typing Troubles? Here's How You Can Eliminate Sticky Keys and Improve Response Time!</u></a></li>
+</ul></div>
 

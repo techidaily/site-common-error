@@ -1,7 +1,7 @@
 ---
 title: Mastering the Fixes for Call of Duty WW II Error Code 4220 – A Step-by-Step Tutorial
-date: 2024-09-22T17:38:32.958Z
-updated: 2024-09-26T16:06:45.039Z
+date: 2024-10-01T02:53:19.480Z
+updated: 2024-10-02T00:42:20.649Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/dc7ffd70cb73963a6e0b0477afa34122ac2690b6d
 5. **[Disable the auto tuning feature](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Why does the error 651 occur?**
@@ -83,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/dc7ffd70cb73963a6e0b0477afa34122ac2690b6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30a00cda6fc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the network device to download the correct driver (you can do that with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the problem drivers (you can do that with[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you will be prompted to upgrade when you click_**Update All**_ ).
@@ -97,22 +90,15 @@ thumbnail: https://thmb.techidaily.com/dc7ffd70cb73963a6e0b0477afa34122ac2690b6d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_58e615dea0c7e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’ve tried Driver Easy, but the problem persists, please feel free to contact our support team at**<support@drivereasy.com>** for further assistance regarding this issue. Our support team would be happy to help you resolve this issue. Please attach the URL of this article so we could assist you better.
 
  4) After updating the driver, restart your computer, then try to connect again.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 3: Troubleshoot settings in Network and Sharing Center**
 
@@ -126,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/dc7ffd70cb73963a6e0b0477afa34122ac2690b6d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3096248a096.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3094b17d852.png)
@@ -133,19 +126,6 @@ thumbnail: https://thmb.techidaily.com/dc7ffd70cb73963a6e0b0477afa34122ac2690b6d
  3) Right click your network connection, then click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a31fa9aa7bb5.png)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Uncheck the box next to**Internet Protocol Version 6 (TCP/IPv6)** . Then c  lick**OK** to save the settings.
 
@@ -181,6 +161,13 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a31fb3ac0375.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Try connecting to the network again to see if it works.
 
  If it’s the first time to connect to this network, you may need to create a dial up connection for it. Follow these steps:
@@ -190,16 +177,10 @@ If the problem still persists, you can try the next solution below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a30962dc7683.png)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Set up a new connection or network** .
@@ -222,13 +203,6 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309c351a71b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 4: Reset TCP/IP on your Windows**
 
  TCP/IP is the short term for**Transmission Control Protocol/Internet Protocol** , and used as a communication protocol in the private network. They are responsible for different parts when processing the Internet connection. TCP defines how the programs can create the communication channels through a network, while IP is responsible for the address of each packet and make sure it is sent to the correct destination.
@@ -239,6 +213,13 @@ If the problem still persists, you can try the next solution below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e42f5624fb.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Copy the command below and paste it in your Command Prompt, then press**Enter** on your keyboard:
 
 netsh int ip reset reset.log
@@ -246,6 +227,13 @@ netsh int ip reset reset.log
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309c9ae8874.png)
 
  3) After the command completed, restart your PC and try to connect again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 5: Disable the auto tuning feature**
 
@@ -255,18 +243,18 @@ netsh int ip reset reset.log
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e42f5624fb.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Copy the command below and paste it in your Command Prompt, then press**Enter** on your keyboard:
 
 Netsh interface tcp set global autotuning=disabled
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a309cf60ba01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) After the command completed, try your Internet connection again to see if it works.
 
@@ -289,19 +277,22 @@ Netsh interface tcp set global autotuning=disabled
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-how-to-edit-uploaded-published-youtube-videos/"><u>[New] 2024 Approved How to Edit Uploaded/ Published YouTube Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-comprehensive-list-the-most-acclaimed-10-vimeo-video-harvesters/"><u>[New] Comprehensive List The Most Acclaimed 10 Vimeo Video Harvesters</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-windows-11-cpu-spikes-stopped-by-interrupts/"><u>[RESOLVED] Windows 11 CPU Spikes Stopped by Interrupts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-steps-to-instagram-verification-and-fan-growth-in-under-150-characters/"><u>[Updated] 2024 Approved Steps to Instagram Verification & Fan Growth in Under 150 Characters</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-how-to-elevate-your-tiktok-footage-with-enhanced-heads-a-guide-3-steps/"><u>2024 Approved How To Elevate Your TikTok Footage with Enhanced Heads A Guide (3 Steps)</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-effortlessly-managed-tp-link-deco-p9-network-system/"><u>Comprehensive Review of the Effortlessly Managed TP-LInk Deco P9 Network System</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-disconnect-error-during-discord-setup-in-windows-os/"><u>Fixing Disconnect Error During Discord Setup in Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/from-inactive-to-active-logitech-restoration/"><u>From Inactive to Active: Logitech Restoration</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-tecno-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Tecno Phone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-google-pixel-8-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Google Pixel 8 Pro</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-stuttering-issues-with-fallout-3-on-your-windows-11-machine/"><u>How to Resolve Stuttering Issues with Fallout 3 on Your Windows 11 Machine</u></a></li>
-<li><a href="https://common-error.techidaily.com/smooth-sailing-again-overcoming-google-chromes-not-responding-hurdle/"><u>Smooth Sailing Again! Overcoming Google Chrome's 'Not Responding' Hurdle</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-compatibility-making-your-wacom-pen-functional-again-on-windows-11-and-10/"><u>Solving Compatibility: Making Your Wacom Pen Functional Again on Windows 11 & 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-the-role-of-svchostexe-in-windows-netsvcs-explained-and-solutions-for-excessive-network-usage/"><u>Understanding the Role of svchost.exe in Windows: Netsvcs Explained & Solutions for Excessive Network Usage</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-amazons-favorite-originals-twitter-top-picks/"><u>[New] 2024 Approved Amazon's Favorite Originals - Twitter Top Picks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-expert-tips-top-6-apps-that-make-storing-linkedin-videos-simple/"><u>[New] 2024 Approved Expert Tips Top 6 Apps That Make Storing LinkedIn Videos Simple</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-streamlining-screen-recording/"><u>[New] 2024 Approved Streamlining Screen Recording</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-windows-11-hdmi-and-tv-pairing-challenges/"><u>Expert Tips for Overcoming Windows 11 HDMI and TV Pairing Challenges</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-your-pc-is-out-of-memory-error-in-windows-1-groovy/"><u>How to Fix the 'Your PC Is Out of Memory' Error in Windows 1 Groovy</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-compatibility-problems-between-your-usb-composite-devices-and-usb-30/"><u>How to Resolve Compatibility Problems Between Your USB Composite Devices and USB 3.0</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-your-laptops-battery-life-effortless-fixes-for-rapid-results/"><u>How To Restore Your Laptop’s Battery Life: Effortless Fixes for Rapid Results</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-life-lessons-visualized-storytelling-on-your-channel/"><u>In 2024, Life Lessons Visualized Storytelling on Your Channel</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ipad-music-transfer-tutorial-step-by-step-guide-on-moving-songs-from-your-tablet-to-pc/"><u>IPad Music Transfer Tutorial: Step-by-Step Guide on Moving Songs From Your Tablet to PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/launching-a-vlog-top-kit-and-applications/"><u>Launching a Vlog Top Kit & Applications</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-ultimate-guide-about-choosing-free-voice-recorder-for-2024/"><u>New Ultimate Guide About Choosing Free Voice Recorder for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-persistent-delays-on-the-windows-11-keyboard/"><u>Resolved: Fixing Persistent Delays on the Windows 11 Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-and-fix-windows-11-overheats/"><u>Stop and Fix: Windows 11 Overheats</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-accessing-the-start-button-on-windows-10-devices/"><u>The Ultimate Guide to Accessing the Start Button on Windows 10 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-the-windows-11-bluetooth-not-detected-problem-fast-solutions/"><u>Troubleshoot the Windows 11 Bluetooth Not Detected Problem - Fast Solutions!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlocking-maximum-potential-with-ibuypowers-value-packed-high-end-custom-gaming-systems/"><u>Unlocking Maximum Potential with IBuypower's Value-Packed, High-End Custom Gaming Systems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-narzo-60x-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme Narzo 60x 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

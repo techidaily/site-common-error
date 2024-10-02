@@ -1,7 +1,7 @@
 ---
 title: How to Fix USB C Port Not Working on Windows Quickly
-date: 2024-09-19T16:45:28.097Z
-updated: 2024-09-20T16:31:39.113Z
+date: 2024-09-25T01:54:01.134Z
+updated: 2024-10-01T23:20:14.344Z
 tags:
   - win11
   - win10
@@ -64,13 +64,48 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 3. Select**High Performance** or**Ultimate** (if this option is available).  
 ![high performance](https://images.drivereasy.com/wp-content/uploads/2021/09/high-performance.jpg)
 4. Click**Change plan settings** .  
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![change usb settings](https://images.drivereasy.com/wp-content/uploads/2021/09/change-plan-settings-usb.jpg)
 5. Click**Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![change advanced power settings](https://images.drivereasy.com/wp-content/uploads/2021/09/change-advanced.jpg)
 6. Double click **USB settings** , then double click **USB selective suspend setting** .  
 ![usb suspend disabled](https://images.drivereasy.com/wp-content/uploads/2021/09/disabled.jpg)  
 **Note:** If you’re using a laptop, click **On battery** , then click **Disabled** from the drop-down menu.
 7. Click**Apply** \>**OK** .
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3\. Turn on notification for USB problems
 
@@ -79,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/USB.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you can receive error messages when you’re having trouble connecting your devices with the USB C port.
@@ -102,10 +137,10 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/check-for-updates-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check for updates and it will download and install available updates for you.
@@ -130,5 +165,16 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-your-go-to-for-epic-virtual-escapades-for-2024/"><u>[New] Your Go-To for Epic Virtual Escapades for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-techniques-for-zoom-enhanced-videoleap-capture/"><u>[Updated] Expert Techniques for Zoom-Enhanced Videoleap Capture</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-precision-videoplayers-for-high-definition-on-android/"><u>[Updated] Precision Videoplayers for High Definition on Android</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-strategies-for-repairing-windows-rpc-server-connection-problems-quickly/"><u>Comprehensive Strategies for Repairing Windows RPC Server Connection Problems Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-windows-camera-malfunction-error-0xa00f4292-easily/"><u>How to Overcome the Windows Camera Malfunction (Error 0Xa00f4292) Easily</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-3-strategies-for-tiktok-livestreaming-from-desktop/"><u>In 2024, 3 Strategies for TikTok Livestreaming From Desktop</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-spontaneous-computer-outages-a-comprehensive-guide/"><u>Resolving Spontaneous Computer Outages - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-the-puzzle-of-twitch-error-code-4000/"><u>Ultimate Guide: Solving the Puzzle of Twitch Error Code 4000</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Realme C33 2023 | Dr.fone</u></a></li>
+</ul></div>
 

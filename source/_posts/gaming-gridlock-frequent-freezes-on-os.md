@@ -1,7 +1,7 @@
 ---
 title: "Gaming Gridlock: Frequent Freezes on OS"
-date: 2024-09-16T18:49:06.033Z
-updated: 2024-09-20T16:27:29.521Z
+date: 2024-09-25T21:13:10.729Z
+updated: 2024-10-02T04:23:32.865Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ Local Security Authority Protection is off
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Install Windows Update patch KB5007651
 
  The Local Security Authority Protection being off bug was actually a bug that shipped with Windows 11’s March 2023 mandatory security update, patch KB5007651\. Windows then released the updated version of this patch that fixed this problem. So if you still haven’t already, please update your Windows now for the latest patch KB5007651 to install.
@@ -48,7 +55,22 @@ To do so:
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Then see if the Local Security Authority Protection is still off.
 
@@ -77,6 +99,13 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-28.png) [](https://cdn.windowsreport.com/wp-content/uploads/2023/03/regedit%5F1OHPX7onS7.png)
 6. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then see if the Local Security Authority protection can be turned on now. If the problem still remains, please move on.
 
 ---
@@ -92,26 +121,19 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-32.png)
 4. Click**Enable** , then select**Enabled with UEFI Lock** from the drop-down menu. Then click**Apply** and**OK** to save and exit.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-34.png)
 5. Restart your computer for the change to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then see if your Local Security Authority protection can be toggled back on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -124,14 +146,14 @@ Then see if the Local Security Authority Protection is still off.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -156,5 +178,24 @@ Then see if the Local Security Authority Protection is still off.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-rev-up-your-video-earning-game-with-vimeo-strategies/"><u>[New] 2024 Approved Rev Up Your Video Earning Game with Vimeo Strategies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-all-about-farming-on-ginger-isle-for-2024/"><u>[Updated] All About Farming on Ginger Isle for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-mastering-tiktok-streams-top-4-methods-on-pc/"><u>[Updated] Mastering TikTok Streams Top 4 Methods on PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-broadcast-battle-which-platform-wins/"><u>2024 Approved Broadcast Battle Which Platform Wins?</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-14-proipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 14 Pro/iPad? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-for-handling-windows-11s-0xc1900208-installation-hurdle/"><u>Effective Strategies for Handling Windows 11'S 0xC1900208 Installation Hurdle</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcoming-the-windows-11-cant-be-installed-issue-with-error-code-80240020-solved/"><u>Guide to Overcoming the 'Windows 11 Can't Be Installed' Issue with Error Code 80240020 [Solved]</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-infinix-hot-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206395864-how-to-get-your-windows-11-touchpad-working-perfectly-again/"><u>How To Get Your Windows 11 Touchpad Working Perfectly Again.</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-turn-off-overlay-effects-in-nvidia-graphics/"><u>How to Turn Off Overlay Effects in NVIDIA Graphics</u></a></li>
+<li><a href="https://common-error.techidaily.com/lenovo-fingerprint-recognition-problems-heres-how-you-can-repair-it-easily/"><u>Lenovo Fingerprint Recognition Problems? Here's How You Can Repair It Easily!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-electronics-reliable-reviews-and-tips-by-toms-hardware-experts/"><u>Mastering Electronics: Reliable Reviews and Tips by Tom’s Hardware Experts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/smoothing-out-aerial-footage-pulsation-for-2024/"><u>Smoothing Out Aerial Footage Pulsation for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-the-container-objects-not-listed-error-in-windows-11/"><u>Step-by-Step Fixes for the 'Container Objects Not Listed' Error in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-lenovo-mouse-pad-issues-on-windows-11-8-and-7-effective-solutions/"><u>Troubleshooting Lenovo Mouse Pad Issues on Windows 11, 8 & 7: Effective Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/unveiling-remedies-how-to-revive-your-windows-when-faced-with-a-perplexing-black-barrier/"><u>Unveiling Remedies: How to Revive Your Windows When Faced With a Perplexing Black Barrier</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-guide-addressing-the-laptop-not-charging-while-connected-dilemma/"><u>Windows 11 Guide: Addressing the 'Laptop Not Charging While Connected' Dilemma</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: Exploring the Fixes for NBA 2K21's Infamous Color Bug"
-date: 2024-09-16T19:09:23.044Z
-updated: 2024-09-20T18:21:16.278Z
+date: 2024-09-29T03:38:06.529Z
+updated: 2024-10-02T01:09:22.686Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
@@ -55,6 +62,13 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -70,15 +84,22 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -96,13 +117,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. Type **the following command** and press **Enter** :  
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
@@ -130,5 +144,18 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-express-individuality-with-youtube-backgrounds-for-2024/"><u>[Updated] Express Individuality with YouTube Backgrounds for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-capturing-the-beat-top-cameras-for-future-music-videography-4k/"><u>2024 Approved Capturing the Beat Top Cameras for Future Music Videography (4K)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/debunking-myths-the-real-facts-on-vlc-media-player-security/"><u>Debunking Myths: The Real Facts on VLC Media Player Security</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204171759-fix-the-too-many-redirects-error-instantly-simple-solutions/"><u>Fix the 'Too Many Redirects' Error Instantly - Simple Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-gain-access-adjusting-file-permissions-via-trustedinstaller/"><u>How to Gain Access: Adjusting File Permissions via TrustedInstaller</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-depth-theta-s-evaluation-overview-for-2024/"><u>In-Depth Theta S Evaluation Overview for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-incorrect-side-by-side-configuration-on-windows-10-comprehensive-guide-and-fixes/"><u>Solve 'Incorrect Side-by-Side Configuration' On Windows 10 - Comprehensive Guide and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-deadlock-irreparable-error/"><u>System Deadlock: Irreparable Error</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-blueprint-for-successful-driver-modifications-in-windows-8os/"><u>The Blueprint for Successful Driver Modifications in Windows 8OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-repairing-windows-defender-security-center-malfunctions-wrp-trouble/"><u>Understanding and Repairing Windows Defender Security Center Malfunctions: WRP Trouble</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Keyboard Malfunction: How to Restore the Functionality of Number Keys"
-date: 2024-09-23T19:59:22.731Z
-updated: 2024-09-26T19:58:13.977Z
+date: 2024-09-27T03:15:30.566Z
+updated: 2024-10-01T23:55:57.925Z
 tags:
   - win11
   - win10
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
  If the sticking problem happens only under certain circumstances, for instance, you only notice it when typing in certain programs or web pages, your keyboard may not be at fault. The problem could be software bugs or poor network connection. Rule out this possibility first before you move on.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1: Check keyboard connection
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 * If you’re using a wireless keyboard, make sure that the batteries in your keyboard are working, or try to use new batteries.
 * Also, make sure that the keyboard receiver is well-connected as well.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Check for possible viruses
 
  Among all the possible reasons why your keyboard is sticking, virus infection or malware is one of the biggest possibilities. Try to update your anti-virus programs and run a full scan with them.
@@ -69,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
  If you find any viruses or malware, remove them completely from your computer. If you don’t have a third-party anti-virus program, we recommend **[Malwarebytes](https://tools.techidaily.com/drivereasy/download/)**  – a power tool that can protect your device from threats like worms, trojans, rootkits, spyware, bots, and more.
 
 **IMPORTANT** : You should never disable Windows Defender, the built-in anti-virus program in Windows, especially in Windows 10 OS where it has become stronger and more comprehensive.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Install the correct keyboard driver
 
@@ -85,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-50.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged keyboard to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -96,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/56330953ffdc4465c49b828b7088926c62fd587a1
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-45.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Clean the keyboard
@@ -129,21 +129,17 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-essential-insight-into-the-best-6-harnesses-for-gopro-headsets-for-2024/"><u>[New] Essential Insight Into The Best 6 Harnesses for GoPro Headsets for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-securing-skype-audio-with-obs-recording-techniques-for-2024/"><u>[New] Securing Skype Audio with OBS Recording Techniques for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-stealthy-watcher-fb-story-viewer/"><u>[Updated] In 2024, Stealthy Watcher FB Story Viewer</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-transforming-ordinary-to-extraordinary-on-tiktok/"><u>2024 Approved Transforming Ordinary to Extraordinary on TikTok</u></a></li>
-<li><a href="https://common-error.techidaily.com/access-denied-on-your-computer-install-the-necessary-printer-drivers-first/"><u>Access Denied on Your Computer? Install the Necessary Printer Drivers First</u></a></li>
-<li><a href="https://common-error.techidaily.com/boosting-your-gameplay-speeding-up-league-of-legends-installations-and-patches/"><u>Boosting Your Gameplay: Speeding Up League of Legends Installations and Patches</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-techniques-for-spotify-ad-success/"><u>Cutting-Edge Techniques for Spotify Ad Success</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-nvidia-quadro-rtx-4000-graphics-card-driver-latest-version/"><u>Download & Install NVIDIA Quadro RTX 4000 Graphics Card Driver Latest Version</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-steps-for-mending-missing-audio-dll-files/"><u>Easy Steps for Mending Missing Audio DLL Files</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-couldnt-load-plugin-errors-on-chrome-in-windows-11/"><u>How to Resolve 'Couldn't Load Plugin' Errors on Chrome in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-address-unregistered-class-errors-in-windows-11-systems/"><u>How To Successfully Address Unregistered Class Errors in Windows 11 Systems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-vivo-y100-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Vivo Y100 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-best-tools-for-road-tripping-films/"><u>In 2024, The Best Tools for Road Tripping Films</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oneplus-nord-3-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your OnePlus Nord 3 5G Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-miracast-issues-with-graphics-driver-now-compatible/"><u>Resolved Miracast Issues with Graphics Driver - Now Compatible</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-get-your-dell-usb-connections-working-perfectly-again/"><u>Step-by-Step Guide to Get Your Dell USB Connections Working Perfectly Again</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-easy-ways-to-record-webcam-chat-for-2024/"><u>[New] Easy Ways to Record Webcam Chat for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-art-of-duality-mastering-image-turnover-on-social-media-giants/"><u>[New] In 2024, The Art of Duality Mastering Image Turnover on Social Media Giants</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unveiling-the-secrets-to-viral-tiktok-with-these-best-captions-for-2024/"><u>[New] Unveiling the Secrets to Viral TikTok with These Best Captions for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-broken-usb-ports-in-windows-11-system/"><u>Diagnosing and Repairing Broken USB Ports in Windows 11 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-guide-troubleshooting-bluetooth-connectivity-on-windows-systems/"><u>Fix Guide: Troubleshooting Bluetooth Connectivity on Windows Systems</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/free-online-conversion-swf-file-to-3gp-movavi-solution/"><u>Free Online Conversion: SWF File to 3GP - Movavi Solution</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-intercept-text-messages-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Intercept Text Messages on Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211262113-how-to-resolve-error-code-0x80073712-in-windows-10-expert-solutions-revealed/"><u>How to Resolve 'Error Code 0X80073712' In Windows 10 – Expert Solutions Revealed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-a-journey-through-time-best-history-youtubes-for-scholars-and-enthusiasts/"><u>In 2024, A Journey Through Time Best History YouTubes for Scholars & Enthusiasts</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-correcting-the-error-resetting-your-computer-in-windows-11/"><u>Troubleshooting and Correcting the 'Error Resetting Your Computer' In Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solutions-for-when-your-lenovo-keyboard-wont-work-anymore/"><u>Troubleshooting Guide: Solutions for When Your Lenovo Keyboard Won't Work Anymore</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-fifa-2epc-crashing-issues-a-comprehensive-tutorial/"><u>Ultimate Fix for FIFA 2ePC Crashing Issues: A Comprehensive Tutorial</u></a></li>
 </ul></div>
 

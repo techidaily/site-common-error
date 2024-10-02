@@ -1,7 +1,7 @@
 ---
 title: "Resolving Issues with Your Lenovo Fingerprint Reader: Easy Fixes Inside"
-date: 2024-09-20T23:06:07.379Z
-updated: 2024-09-26T16:48:44.157Z
+date: 2024-09-25T00:09:25.856Z
+updated: 2024-10-01T18:26:36.274Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
 4. **[Re-enroll your fingerprints](#F4)**
 5. **[Restore system files](#ADD)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check the fingerprint scanner
 
  Before addressing the fingerprint reader not working problem, you might want to check the fingerprint scanner for possible hardware issues.
@@ -44,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/549ca928829525c9c386345bc34f0e1c4ffcbb461
 2. **Check if there’re any scratches on the sensor.** If it’s been badly scratched, then send it to a trustworthy computer repair shop or the computer vendor for repair. If the sensor is in good condition but the fingerprint reader doesn’t work, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your fingerprint reader driver
 
@@ -69,13 +69,6 @@ This problem may occur if you are using the wrong  fingerprint reader  driver or
 ![](https://www.drivereasy.com/wp-content/uploads/2018/11/Synaptics-WBDI-Fingerprint-Reader.png)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  Restart your computer and see if the fingerprint reader works properly this time. If it works, then great. But if it doesn’t, move on to**Fix 3** , below.
@@ -83,10 +76,10 @@ This problem may occur if you are using the wrong  fingerprint reader  driver or
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Uninstall Lenovo Finerprint Manager and use the default fingerprint driver
@@ -99,45 +92,60 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/addorremoveprograms.jpg)
 2. Locate and click on**Lenovo Fingerprint Manager** (or,**Lenovo Finerprint Manager Pro** ) and click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/12.jpg)
 3. Click**Uninstall** to confirm, then follow the on-screen instructions to finish the uninstall process.![](https://images.drivereasy.com/wp-content/uploads/2018/11/12-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. On your keyboard, press**the Windows logo key** and type **devmgmt.msc** , then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4fe23bb7de.png)
 5. Double-click on**Biometric devices** and then right-click on**your Lenovo fingerprint device** and click**Uninstall device** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4ff6e683a2.png)
-6. Click **Uninstall**   to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4ff6e683a2.png)
+6. Click **Uninstall**   to confirm.
 
 7. Restart your computer, then test to see if the fingerprint reader not working problem has been solved.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Re-enroll your fingerprints
 
 1. On your keyboard, press**the Windows logo key** and type**sign-in** , then click on**Sign-in options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be40f4aee3bb.jpg)
 2. Scroll down to**Windows Hello** , and click**Set up** under the**Fingerprint** section.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be5039662fee.jpg)
 3. Follow the on-screen instructions to set up the fingerprint login.
 4. Don’t forget to test if the fingerprint reader works normally this time.
@@ -176,18 +184,18 @@ Check your computer to see if the issue is fixed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Yes** when prompted to confirm.
 
  3) In the command prompt window, type**sfc /scannow** and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
@@ -218,18 +226,24 @@ Check your computer to see if the issue is fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-surveying-youtube-interactions/"><u>[New] 2024 Approved Surveying YouTube Interactions</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-vimeo-video-on-instagram-feed-for-2024/"><u>[New] Mastering Vimeo Video on Instagram Feed for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-seamlessly-integrate-your-switch-pro-into-steam-gaming/"><u>[New] Seamlessly Integrate Your Switch Pro Into Steam Gaming</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-self-supported-youtube-earnings-strategies/"><u>[New] The Ultimate Guide to Self-Supported YouTube Earnings Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/chronic-inflammation/"><u>Chronic Inflammation</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-art-of-audio-editing-a-comprehensive-fcp-tutorial-for-2024/"><u>New The Art of Audio Editing A Comprehensive FCP Tutorial for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204147932-overcome-windows-installation-hurdles-simple-steps-to-success/"><u>Overcome Windows Installation Hurdles – Simple Steps to Success</u></a></li>
-<li><a href="https://common-error.techidaily.com/reducing-cpu-and-disk-overload-ntoskrnlexe-fixes/"><u>Reducing CPU & Disk Overload: Ntoskrnl.exe Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-microsoft-print-to-pdf-not-working-problem-in-windows-11/"><u>Resolving the 'Microsoft Print to PDF Not Working' Problem in Windows 11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/streamlined-performance-in-a-classy-design-our-review-of-aukeys-usb-hub-with-usb-30-speeds/"><u>Streamlined Performance in a Classy Design: Our Review of Aukey's USB Hub with USB 3.0 Speeds</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-d3dcompiler47dll-file-failures-effectively/"><u>Troubleshooting and Repairing D3DCOMPILER_47.dll File Failures Effectively</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723014025877-troubleshooting-your-call-of-duty-black-ops-4-fail-to-start-we-have-the-answers/"><u>Troubleshooting Your Call of Duty Black Ops 4 Fail to Start - We Have the Answers!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/windows-compatible-sapphire-driver-downloads-improve-your-gaming-experience-today/"><u>Windows-Compatible Sapphire Driver Downloads: Improve Your Gaming Experience Today</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-top-20-online-instagram-video-converters-to-mp4-format/"><u>[Updated] 2024 Approved Top 20 Online Instagram Video Converters to MP4 Format</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-diving-deep-into-lyric-video-designs-powered-by-lyric-video-maker-for-2024/"><u>[Updated] Diving Deep Into Lyric Video Designs, Powered by Lyric Video Maker for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-improve-aesthetics-techniques-for-instagram-video-borders-for-2024/"><u>[Updated] Improve Aesthetics Techniques for Instagram Video Borders for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-lensflexmax-7-superior-image-enlargement-tool/"><u>[Updated] LensFlexMax 7 Superior Image Enlargement Tool</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-live-radio-transmissions-recorded-with-ease-an-experts-guide/"><u>[Updated] Live Radio Transmissions Recorded with Ease An Expert's Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-space-optimization-mastery-premium-storage-reviews/"><u>[Updated] Space Optimization Mastery Premium Storage Reviews</u></a></li>
+<li><a href="https://fox-that.techidaily.com/11-crucial-fixes-to-restore-your-iphones-call-ringing-functionality/"><u>11 Crucial Fixes to Restore Your iPhone’s Call-Ringing Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/best-practices-for-preventing-writing-mistakes-in-protected-or-non-writable-memory-regions/"><u>Best Practices for Preventing Writing Mistakes in Protected or Non-Writable Memory Regions</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-guide-how-to-fix-pubg-mobile-building-glitches-effectively/"><u>Complete Guide: How To Fix PUBG Mobile Building Glitches Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-restart-internet-explorer-after-freezing/"><u>Comprehensive Solutions to Restart Internet Explorer After Freezing</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-ways-to-restore-your-laptops-microphone-functionality/"><u>Effective Ways to Restore Your Laptop's Microphone Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/laptop-mousepad-not-working-in-windows-1187-solved/"><u>Laptop Mousepad Not Working in Windows 11/8/7 [SOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/logitech-mouse-woes-repairing-a-stuck-or-broken-scroll-wheel/"><u>Logitech Mouse Woes: Repairing a Stuck or Broken Scroll Wheel</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-for-event-id-1000-across-different-generations-of-windows-os/"><u>Mastering the Fix for Event ID 1000 Across Different Generations of Windows OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-xiaomi-redmi-note-12r-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Xiaomi Redmi Note 12R to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-could-not-install-windows-cuhild-with-error-code-80240020/"><u>Resolving the 'Could Not Install Windows Cuhild' With Error Code 80240020</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-reviving-your-unrecognized-usb-flash-drive/"><u>Simple Solutions: Reviving Your Unrecognized USB Flash Drive</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-artisans-approach-to-gathering-stock-visuals-for-use/"><u>The Artisan's Approach to Gathering Stock Visuals for Use</u></a></li>
+<li><a href="https://fox-links.techidaily.com/under-100-investments-in-action-cameras-top-selections-for-2024/"><u>Under $100 Investments in Action Cameras – Top Selections for 2024</u></a></li>
 </ul></div>
 

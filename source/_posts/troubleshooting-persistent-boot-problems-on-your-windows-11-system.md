@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Persistent Boot Problems on Your Windows 11 System
-date: 2024-09-23T21:50:43.638Z
-updated: 2024-09-27T00:47:28.712Z
+date: 2024-09-25T19:12:14.593Z
+updated: 2024-10-01T21:10:15.262Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/cyber-security-1923446_1920-1024x655.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Update the drivers on your computer
 
  The problem “computer repeatedly turns and off” can be caused by faulty drivers. To fix the problem, you can try to update the drivers on your computer.  
@@ -65,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
 
  You can do it for free if you like, but it partly manual.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Remove any peripherals from your computer
 
  If the problem was caused around the time you connected peripherals to your computer, it’s probably a hardware conflict issue. You can remove the peripherals easily. If you have connected multiple peripherals to your computer, just remove the peripherals one by one.  
@@ -72,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9a
  Once removing a peripheral, check to see if the problem is resolved, then you can figure out which peripheral is causing the problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-2786081_1920-1024x626.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Reset CMOS to the default settings
 
@@ -102,25 +109,11 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-815.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you enter the BIOS menu, refer to these steps to reset the settings:  
 
  1)**Find the option** to reset the BIOS settings. This option is probably called**Setup Defaults** . It also depends on the computer manufacturers. But you can expect it has the “Default” words.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-816.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) You can see a function key next to the option. Just press that key on your keyboard to bring up the edit dialog box.  
 
@@ -130,19 +123,6 @@ For example, many Dell PCs show this key like below at the first screen:
 
  5)**Restart your computer** and check to see if the problem is resolved.  
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 5: Check PSU (Power Supply Unit)
 
  If the PSU short circuits, the computer will shut down automatically for hardware safety. So check the PSU is working properly. You can replace the PSU with a good PSU and see if the problem is resolved. With the new PSU, if the problem is not resolved, it means the problem is not caused by the PSU.  
@@ -150,6 +130,13 @@ For example, many Dell PCs show this key like below at the first screen:
  For laptop, you can easily replace the PSU. But for desktop, you need to open the case. This could be technical and dangerous. If you know what you’re doing, that’s fine. But if not, we recommend you to take your computer to the repair store to have it checked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-1168203_1920-1024x681.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 6: Check the fan
 
@@ -161,18 +148,25 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/motherboard-841487_1920-1024x678.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 7: Clean dust
 
  Computer collects dust everyday, but we won’t notice this until too much dust causes some computer problems, like computer overheating. As we mentioned before, overheating could be the cause of the problem “computer repeatedly turns on and off”.  
 
  For desktops, you can open the case and use a soft cloth to wipe the dust. The much easier method is to use a[compressed gas cleaning duster](https://www.amazon.com/Falcon-Compressed-Disposable-Cleaning-DPSXL4T/dp/B002ZB6LZA/&tag=easeware-camillamo-20) to get rid of the dust. For laptops, you’ll need to consult the manual or get technical help there if you haven’t opened one before.  
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 8: Replace the motherboard
 
@@ -199,24 +193,22 @@ For example, many Dell PCs show this key like below at the first screen:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-5-digital-tools-for-enhancing-web-streams/"><u>[New] Top 5 Digital Tools for Enhancing Web Streams</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-clip-curator-platform/"><u>[Updated] 2024 Approved Clip Curator Platform</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-no-cash-all-fun-turning-twitter-vids-into-gifs/"><u>2024 Approved No Cash, All Fun Turning Twitter Vids Into GIFs</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-solutions-to-overcome-entry-point-not-found-errors-in-windows-environments/"><u>Easy Solutions to Overcome Entry Point Not Found Errors in Windows Environments</u></a></li>
-<li><a href="https://common-error.techidaily.com/iastordatasvc-32-bit-high-cpu-usage-caused-on-windows-11-solved/"><u>IAStorDataSvc (32 Bit) High CPU Usage Caused on Windows 11 [Solved]</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-xiaomi-14-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Xiaomi 14 Pro Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/iphone-15-data-recovery-software-to-recover-lost-ios-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>iPhone 15® Data Recovery Software to Recover Lost iOS® Data | Stellar</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-are-you-looking-to-make-a-thumbnail-for-your-fortnite-video-this-article-features-a-guide-explaining-creating-a-fortnite-motion-blur-thumbnail-for-2024./"><u>New Are You Looking to Make a Thumbnail for Your Fortnite Video? This Article Features a Guide Explaining Creating a Fortnite Motion Blur Thumbnail for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/prime-selection-of-screen-capture-software-for-gaming/"><u>Prime Selection of Screen Capture Software for Gaming</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-guide-solve-your-sims-4-launching-issues-today/"><u>Quick Guide: Solve Your Sims 4 Launching Issues Today!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-rpc-server-deserialization-error-on-your-windows-machine/"><u>Resolving the 'RPC Server Deserialization Error' On Your Windows Machine</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-pressure-related-device-casting-problems-a-step-by-step-solution/"><u>Resolving Windows Pressure-Related Device Casting Problems – A Step by Step Solution</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/step-by-step-guide-incorporating-tunes-into-instagram-reels/"><u>Step-by-Step Guide Incorporating Tunes Into Instagram Reels</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-5-best-monitors-for-playstation5/"><u>Top 5 Best Monitors for PlayStation5</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-pc-audio-upgrades-the-leading-sound-cards-of-2024/"><u>Top-Rated PC Audio Upgrades: The Leading Sound Cards of 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-ethernet-connectivity-problems-in-windows-10-and-7/"><u>Troubleshooting Tips: Resolving Ethernet Connectivity Problems in Windows 10 & 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-user-privilege-issues-for-critical-operations-on-windows-versions/"><u>Troubleshooting User Privilege Issues for Critical Operations on Windows Versions</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-to-optimizing-minecraft-gameplay-and-eliminating-lags/"><u>Ultimate Guide to Optimizing Minecraft Gameplay and Eliminating Lags</u></a></li>
-<li><a href="https://common-error.techidaily.com/warframe-update-not-working-heres-how-you-can-successfully-retry-the-process/"><u>Warframe Update Not Working? Here's How You Can Successfully Retry the Process</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-skullduggery-scribblers-den-for-2024/"><u>[New] Skullduggery Scribbler's Den for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-elevate-your-window-experience-with-these-undiscovered-tricks/"><u>[Updated] 2024 Approved Elevate Your Window Experience with These Undiscovered Tricks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-dynamic-duo-enhancing-fb-live-with-monitor-sharing-capabilities/"><u>2024 Approved Dynamic Duo Enhancing Fb Live with Monitor Sharing Capabilities</u></a></li>
+<li><a href="https://win-popular.techidaily.com/achieve-success-in-fat-to-fit-ultimate-tips-and-strategies-for-pc-gamers/"><u>Achieve Success in 'Fat to Fit': Ultimate Tips and Strategies for PC Gamers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722137513253-affordable-mobiles-expensive-cyber-threats-battling-ransomware-join-the-chatgpt-podcast-conversation/"><u>Affordable Mobiles, Expensive Cyber Threats: Battling Ransomware - Join the ChatGPT Podcast Conversation!</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-your-windows-woes-unsticking-updates-stalled-at-completion-mark/"><u>Conquer Your Windows Woes: Unsticking Updates Stalled at Completion Mark</u></a></li>
+<li><a href="https://media-tips.techidaily.com/convert-your-mp4-files-to-vob-for-free-tips-and-tricks-for-both-online-and-offline-methods/"><u>Convert Your MP4 Files to VOB for Free - Tips and Tricks for Both Online and Offline Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-device-not-working-error-when-casting-on-windows-11/"><u>Diagnosing and Repairing 'Device Not Working' Error When Casting on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-what-to-do-if-your-pc-freezes-on-windows-10/"><u>Effective Solutions: What to Do if Your PC Freezes on Windows 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-artwork-accelerated-techniques-for-editing-photos-on-pc/"><u>Master Artwork Accelerated Techniques for Editing Photos on PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-medias-new-frontier-in-relationship-building-with-facebook/"><u>Social Media's New Frontier in Relationship Building with Facebook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-7-solutions-to-resolve-warzone-20-launch-issues-on-pc-updated-guide/"><u>Top 7 Solutions to Resolve Warzone 2.0 Launch Issues on PC - Updated Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-the-hurdles-of-windows-update-1903/"><u>Troubleshooting Guide: Overcoming the Hurdles of Windows Update 1903</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-ethernet-connection-problems-in-windows-10-and-windows-7/"><u>Troubleshooting Steps: Resolving Ethernet Connection Problems in Windows 10 and Windows 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-steam-shop-when-it-wont-load-anymore-top-solutions/"><u>Troubleshooting Your Steam Shop When It Won't Load Anymore: Top Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-resolving-write-protection-issues-with-usbs-sd-cards-and-cd-discs-in-windows/"><u>Troubleshooting: Resolving Write Protection Issues with USBs, SD Cards, and CD Discs in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-miracast-functionality-correct-graphics-drivers-make-a-world-of-difference/"><u>Unlocking Miracast Functionality: Correct Graphics Drivers Make a World of Difference</u></a></li>
 </ul></div>
 

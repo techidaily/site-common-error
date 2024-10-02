@@ -1,7 +1,7 @@
 ---
 title: "From Setback to Success: Solved NVIDIA Installation"
-date: 2024-09-21T22:55:19.694Z
-updated: 2024-09-26T18:17:40.796Z
+date: 2024-09-25T16:21:53.966Z
+updated: 2024-10-01T23:22:43.083Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/7104eb033fbf632865800cb348d315fa27012665c
 
 So don’t give up hope. There is something you can do to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are solutions to try. You don’t have to try them all; just work your way down the list until it works.
@@ -46,13 +39,6 @@ So don’t give up hope. There is something you can do to fix it.
 1. [Run a virus scan](https://tools.techidaily.com/drivereasy/download/)
 2. [Create a new user profile](https://tools.techidaily.com/drivereasy/download/)
 3. [Disable SSL scanning in your antivirus software](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Run a virus scan
 
@@ -64,6 +50,13 @@ So don’t give up hope. There is something you can do to fix it.
 
  Then restart your computer and try to open the website again to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Create a new user profile
 
  You can also create a new user profile in Firefox to fix the error SEC\_ERROR\_UNKNOWN\_ISSUER.
@@ -74,18 +67,27 @@ To do so, follow the steps below:
  If Firefox in your computer is already closed, head to the next step.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12025bb9964.jpg)
 2. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Type**firefox.exe -P** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1202b7e8d62.jpg)
 4. **Firefox – Choose User Profile** will pop up. Click**Create Profile** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12020cdc034.png)
-5. Follow the on-screen instructions to finish the process.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12020cdc034.png)
+5. Follow the on-screen instructions to finish the process.
 
 6. Re-launch Firefox and log in your new user profile.
 7. Open the website again to see if your problem has been fixed.
@@ -100,15 +102,16 @@ To do so, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200fecc285.jpg)
 2. Click**Components** on the left, and click**Customize** in the**Web Shield** section.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200c760b7e.jpg)
 3. Uncheck the box next to**Enable HTTPS scanning** in the pop-up window. Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12013f88f23.jpg)
 4. Click**OK** again to save your changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12019e3eba4.jpg)
@@ -136,19 +139,22 @@ To do so, follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-chromatic-magic-transform-your-video-with-color-knowledge/"><u>[New] Chromatic Magic Transform Your Video with Color Knowledge</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-temporal-twist-mastering-video-flipping-in-snapchat/"><u>[New] In 2024, Temporal Twist Mastering Video Flipping in Snapchat</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/outube-rankings-secrets-enhancing-video-visibility/"><u>[New] YouTube Rankings Secrets Enhancing Video Visibility</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-flipboard-celebs-snapchat-reels/"><u>2024 Approved Flipboard Celebs' Snapchat Reels</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/complete-guide-how-to-installupdate-huion-tablet-drivers-on-windows-no-hassle/"><u>Complete Guide: How to Install/Update Huion Tablet Drivers on Windows - No Hassle!</u></a></li>
-<li><a href="https://common-error.techidaily.com/display-lag-problems-incompatible-with-immediate-user-interactions-on-modern-screens/"><u>Display Lag Problems: Incompatible With Immediate User Interactions on Modern Screens</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-and-forge-ahead-resolving-bluetooth-not-pairing-errors-on-your-windows-11-system-tips/"><u>Fix and Forge Ahead: Resolving Bluetooth Not Pairing Errors on Your Windows 11 System (Tips )</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-technology-trends-with-insights-from-toms-hardware/"><u>Navigating Technology Trends with Insights From Tom's Hardware</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-msmpengexe-reducing-high-cpu-usage-on-windows-11-solved/"><u>Optimizing MsMpEng.exe: Reducing High CPU Usage on Windows 11 - Solved!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-yuva-2-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Yuva 2.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-successfully-downloading-and-installing-the-arduino-nano-board-on-your-pc/"><u>Step-by-Step Guide: Successfully Downloading & Installing the Arduino Nano Board on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211578072-troubleshooting-the-change-rendering-api-dota-2-error-error-202-fast-solutions-inside/"><u>Troubleshooting the 'Change Rendering API' Dota 2 Error (Error 202^): Fast Solutions Inside!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-your-creativity-explore-my-choice-of-4-free-cad-software-gems/"><u>Unlock Your Creativity: Explore My Choice of 4 Free CAD Software Gems</u></a></li>
-<li><a href="https://common-error.techidaily.com/usb-to-hdmi-connection-issues-heres-how-you-can-resolve-them/"><u>USB to HDMI Connection Issues? Here's How You Can Resolve Them</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-convert-facebook-to-mp4-hack-for-quick-access/"><u>[New] 2024 Approved Convert Facebook to MP4 – Hack for Quick Access</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-capturing-your-lenovo-display-with-ease/"><u>[Updated] 2024 Approved Capturing Your Lenovo Display with Ease</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-gopro-hero5-sessions/"><u>[Updated] Exploring the GoPro Hero5 Sessions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-the-possibility-of-monthly-youtube-income-for-2024/"><u>[Updated] Exploring the Possibility of Monthly YouTube Income for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-eyefirefox-capture-extensions/"><u>2024 Approved EyeFirefox Capture Extensions</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-infinix-smart-8-hd-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Infinix Smart 8 HD without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-your-windows-system-when-outdated-graphic-cards-drivers-lead-to-minecraft-failures/"><u>Diagnosing and Fixing Your Windows System: When Outdated Graphic Cards Drivers Lead to Minecraft Failures</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722030638221-experience-enhanced-browsing-bings-ai-driven-search-on-mobile/"><u>Experience Enhanced Browsing: Bing's AI-Driven Search on Mobile.</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-missing-classes-errors-on-windows-11-complete-solution/"><u>How to Resolve Missing Classes Errors on Windows 11 [Complete Solution]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-resolve-minecraft-error-code-5/"><u>How to Troubleshoot and Resolve Minecraft Error Code 5</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-15-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-of-unshutting-a-windows-10-operating-system-on-your-pc/"><u>Solving the Issue of Unshutting a Windows 10 Operating System on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-resolving-the-serious-google-chrome-bug-alert/"><u>Step-by-Step Solution for Resolving the Serious Google Chrome Bug Alert</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-overcoming-warframe-update-errors/"><u>Step-by-Step Solutions for Overcoming Warframe Update Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-the-windows-cannot-find-entry-point-issue/"><u>Troubleshooting Guide: Solving the ‘Windows Cannot Find Entry Point’ Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-audio-issues-stop-high-cpu-consumption-now/"><u>Troubleshooting Windows Audio Issues: Stop High CPU Consumption Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-you-should-think-twice-before-asking-chatgpt-medical-questions-key-issues-uncovered/"><u>Why You Should Think Twice Before Asking ChatGPT Medical Questions - Key Issues Uncovered</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Internet Explorer Errors? Here’s How to Get It Running Smoothly Again
-date: 2024-09-21T21:03:26.329Z
-updated: 2024-09-26T22:54:27.766Z
+date: 2024-09-26T02:37:46.052Z
+updated: 2024-10-02T02:44:23.258Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/6c0361031673718dd65b08f3b6f24eb590de40f0c
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your video driver
 
  Perhaps the most common cause of the ‘**Internet Explorer has stopped working** ’ error is an outdated/corrupted/faulty**video driver** . So you should update your video driver to see if it fixes the issue.  If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .
@@ -58,8 +51,23 @@ thumbnail: https://thmb.techidaily.com/6c0361031673718dd65b08f3b6f24eb590de40f0c
 2. Run**Driver Easy** and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd6217aadf1.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc4523d19203.jpg)
 4. Restart your computer and check if Internet Explorer works properly. If the problem still exists, then move on to **Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -76,28 +84,43 @@ thumbnail: https://thmb.techidaily.com/6c0361031673718dd65b08f3b6f24eb590de40f0c
 2. Click **Programs** \>**Manage add-ons** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d0662b2bda.jpg)
 3. You’ll then see a list of all your Internet Explorer add-ons. Disable**each add-on** in the list, one at at time, by clicking it, then clicking**Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d0bb770ebc.jpg)
 4. **Restart** your computer and check if Internet Explorernow works:  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    * If Internet Explorer does work after disabling all your add-ons, it’s likely one of your add-ons was the problem. Now you just need to figure out which one. To do this, enable the first add-on in the list, then see if Internet Explorer still works. If it doesn’t, then you’ve found the cause of the problem. If Internet Explorer works fine after enabling the first add-on, enable the second and test again. Continue testing each add-on in this way until you find the one that stops Internet Explorer from working. Once you find it, disable it again. If you need it, contact the vendor for support.  
    * If disabling your add-ons doesn’t solve your problem, move on to**Fix 3** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall toolbars
 
@@ -111,26 +134,12 @@ thumbnail: https://thmb.techidaily.com/6c0361031673718dd65b08f3b6f24eb590de40f0c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1acaa16c1.jpg)
 3. Click**Yes** to confirm.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd64bdd78f4.jpg)
 4. **Restart** your computer and check if Internet Explorernow works.  
    * If Internet Explorer does work after uninstalling all your toolbars, it’s likely one of your toolbars was the problem. Now you just need to figure out which one. To do this, you can try to reinstall one of your original toolbars, then see if Internet Explorer still works. If it doesn’t, then you’ve found the cause of the problem. If Internet Explorer works fine after reinstalling the toolbar, reinstall another one and test again. Continue testing each toolbar in this way until you find the one that stops Internet Explorer from working. Once you find it, uninstall it again. If you need it, contact the vendor for support.  
    * If uninstalling your toolbars doesn’t solve your problem, move on to**Fix 4** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Change your hardware acceleration setting
 
@@ -146,13 +155,6 @@ Here’s how to do it…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc98b95b2550.jpg)
 3. **Restart**  your computer and see if Internet Explorer works properly. If not, move on to **Fix 5** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 ### Fix 5: Reset your security zones to their default levels
@@ -166,15 +168,16 @@ Here’s how to do it…
 1. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **inetcpl.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc706de27b22.png)
 2. Click**Security** \> **Reset all zones to default level** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd4e878da26.jpg)
-3. Click **OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd4e878da26.jpg)
+3. Click **OK** .
 
 4. **Restart** your computer and see if **Internet Explorer**  works properly. If the problem persists, move on to **Fix 6** below.
 
@@ -192,13 +195,6 @@ Here’s how to do it…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d38595c458.jpg)
 3. Deselect**Internet Explorer** (your version of Internet Explorer may be different to the screenshot below).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd4105003d2.jpg)
 4. Click**Yes** to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd414308414.png)
@@ -209,6 +205,14 @@ Here’s how to do it…
 8. Click**Turn Windows features on or off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d38595c458.jpg)
 9. Tick the **Internet Explorer**  checkbox, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd4228e8c23.jpg)
 10. Wait until Internet Explorer turns on.
 11. Re-launch Internet Explorer and see if it works properly.
@@ -234,22 +238,18 @@ Here’s how to do it…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-essential-screencapture-strategies-for-effective-image-capturing/"><u>[Updated] 2024 Approved Essential ScreenCapture Strategies for Effective Image Capturing</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-ultimate-top-viewers-playlist-on-youtube-history/"><u>[Updated] 2024 Approved Ultimate Top Viewers' Playlist on YouTube History</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ace-your-photograph-preservation-with-our-expert-pick-of-top-10-restoration-applications-pcmac/"><u>Ace Your Photograph Preservation with Our Expert Pick of Top 10 Restoration Applications (PC/Mac)</u></a></li>
-<li><a href="https://solve-help.techidaily.com/compatible-with-kindle-a-guide-to-using-your-sony-ebook-reader-for-amazons-digital-library/"><u>Compatible with Kindle: A Guide to Using Your Sony eBook Reader for Amazon's Digital Library</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/ensure-flawless-slack-conversations-best-10-free-recorder-apps-for-2024/"><u>Ensure Flawless Slack Conversations Best 10 Free Recorder Apps for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-microsofts-print-to-pdf-problem-in-windows-10-and-windows-11/"><u>How to Resolve Microsoft's Print-to-PDF Problem in Windows 10 and Windows 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-cyberpunk-2077s-resource-hogging-issues-a-guide/"><u>Overcoming Cyberpunk 2077’S Resource Hogging Issues - A Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212177660-pdf-print-problem-discover-fast-fixes-and-get-on-track/"><u>PDF Print Problem? Discover Fast Fixes and Get On Track</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reactivating-obscured-bluetooth-in-system-settings/"><u>Reactivating: Obscured Bluetooth in System Settings</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-the-black-screen-problem-in-obs-recording/"><u>Resolved: Fixing the Black Screen Problem in OBS Recording</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-sony-playstation-4-microphone-compatibility-glitches-expert-tips/"><u>Solving Sony PlayStation 4 Microphone Compatibility Glitches - Expert Tips</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/syma-s111g-quadcopter-evaluation-affordable-and-entertaining-indoor-flight/"><u>Syma S111G Quadcopter Evaluation: Affordable and Entertaining Indoor Flight</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-a-required-module-is-missing/"><u>Troubleshooting Steps When a Required Module Is Missing</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-is-my-mouse-cursor-not-visible-in-windows-11-and-how-to-fix-it/"><u>Why Is My Mouse Cursor Not Visible in Windows 11 and How to Fix It</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-cursor-malfunction-solved-tips-to-bring-back-the-pointer/"><u>Windows 10 Cursor Malfunction Solved: Tips to Bring Back the Pointer</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-mic-not-working-heres-what-you-need-to-do-next/"><u>Windows 11 Mic Not Working? Here's What You Need to Do Next</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-a-quick-guide-secure-your-instagram-stories-with-screen-record/"><u>[New] In 2024, A Quick Guide Secure Your Instagram Stories with Screen Record</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-crafting-the-quintessential-thumbnails-for-live-video-success/"><u>[Updated] 2024 Approved Crafting the Quintessential Thumbnails for Live Video Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-dimming-down-soundtracks-in-premiere-pro/"><u>2024 Approved The Ultimate Guide to Dimming Down Soundtracks in Premiere Pro</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-export-edb-archive-mailboxes-back-into-a-working-exchange-server-video-guide/"><u>How To Export EDB Archive Mailboxes Back Into A Working Exchange Server – Video Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-c-spans-watchlist-for-the-curious-netizen/"><u>In 2024, C-Span's Watchlist for the Curious Netizen</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-13-ultra-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi 13 Ultra FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211615770-master-the-art-of-reactivating-bluetooth-in-windows-11-effective-tips-inside/"><u>Master the Art of Reactivating Bluetooth in Windows 11: Effective Tips Inside</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/masterclass-conquering-one-device-livestream-challenges/"><u>Masterclass Conquering One-Device Livestream Challenges</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-common-windows-11-pc-resetting-challenges-fixing-there-was-a-problem-errors-simply-and-effectively/"><u>Overcoming Common Windows 11 PC Resetting Challenges: Fixing There Was a Problem Errors Simply and Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-inadequate-system-resources-preventing-completion-of-services/"><u>Resolved: Inadequate System Resources Preventing Completion of Services</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-windows-10-critical-error-red-screen-dilemma/"><u>Resolving the Windows 10 Critical Error: Red Screen Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-broken-brightness-feature-in-windows-10/"><u>Troubleshooting the Broken Brightness Feature in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-error-code-0x80071ac3-how-to-fix-a-corrupted-disk/"><u>Understanding Error Code 0X80071AC3: How to Fix a Corrupted Disk</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solution Found: Stuck Keys and Repair Steps"
-date: 2024-09-23T19:38:58.392Z
-updated: 2024-09-26T18:45:11.441Z
+date: 2024-09-28T23:30:47.993Z
+updated: 2024-10-01T18:13:12.922Z
 tags:
   - win11
   - win10
@@ -48,10 +48,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/WeChat7a797c10615ac4351f0fb3895da7d65e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Turn off your keyboard.
@@ -59,13 +59,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 3. While holding down the ESC key, turn on your keyboard and wait for a few seconds until the keyboard begins to flash.
 
  If your keyboard still doesn’t light up after the resetting, don’t give up and try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update the Corsair keyboard driver
 
@@ -77,13 +70,20 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
  To update your drivers with Driver Easy, just click the**Scan Now** button, then when it lists the drivers you need to update, click**Update** . The correct drivers will be downloaded, and you can install them – either manually through Windows or all automatically with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/DE-scan-rtx-3090-driver-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Update and configure the iCUE software
@@ -95,18 +95,19 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 1. Open iCUE and click the**Settings** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/icue-setting.jpg)  
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -130,14 +131,21 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-cure-google-chromes-persistent-black-display-problem/"><u>Comprehensive Solutions to Cure Google Chrome's Persistent Black Display Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-windows-1011-night-light-feature-wont-start/"><u>Fixing the Issue: Windows 10/11 Night Light Feature Won't Start</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-device-driver-power-failures-a-comprehensive-walkthrough/"><u>Fixing Windows Device Driver Power Failures - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-advanced-screenshot-options-for-windows-users/"><u>In 2024, Advanced Screenshot Options for Windows Users</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-webcamskills-beginnersrecordingtutorial/"><u>In 2024, WebcamSkills Beginner'sRecordingTutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-ce-34878-0-hacking-glitch-on-your-sony-ps4-console-complete-walkthrough/"><u>Solving the CE-34878-0 Hacking Glitch on Your Sony PS4 Console - Complete Walkthrough</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-stop-beatsaber-from-continuously-crashing/"><u>Troubleshooting Tips: Stop Beatsaber From Continuously Crashing</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-new-yorks-elite-8-daily-strategies-for-elevation/"><u>Unlocking New York's Elite: 8 Daily Strategies for Elevation</u></a></li>
-<li><a href="https://techidaily.com/will-galaxy-a15-4g-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Galaxy A15 4G play AVCHD mts files?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-best-10-sites-to-get-free-images-for-2024/"><u>[New] Best 10 Sites to Get Free Images for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-making-your-stories-more-accessible-a-captioning-guide/"><u>[Updated] In 2024, Making Your Stories More Accessible A Captioning Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-reversing-a-youtube-strike-a-guide/"><u>[Updated] Reversing a YouTube Strike A Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-realme-c53-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Realme C53 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-cardanos-vasil-transition-an-insightful-exploration-into-its-purpose-and-features/"><u>Decoding Cardano's Vasil Transition: An Insightful Exploration Into Its Purpose and Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-to-tackle-the-lost-openal32dll-component-error-on-your-pc/"><u>Easy Solutions to Tackle the Lost openAL32.dll Component Error on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206802457-error-code-31-on-your-pc-heres-how-you-can-solve-it/"><u>Error Code 31 on Your PC? Here's How You Can Solve It</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y02t-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Vivo Y02T</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-for-windows-update-challenge-cracking-error-0x8024402c/"><u>Mastering the Fix for Windows Update Challenge: Cracking Error 0X8024402c</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-xerox-printer-error-0x800f020b-on-windows-systems/"><u>Resolving Xerox Printer Error 0X800F020B on Windows Systems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/securing-snapshots-innovative-approaches-to-face-pixilation-for-2024/"><u>Securing Snapshots Innovative Approaches to Face Pixilation for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-minecraft-local-network-woes-effective-strategies-and-advice/"><u>Solve Your Minecraft Local Network Woes - Effective Strategies and Advice</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-strategies-mastering-your-laptops-screen-recording/"><u>Top Strategies Mastering Your Laptop's Screen Recording</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-windows-failed-to-start-problem/"><u>Ultimate Guide: Resolving the 'Windows Failed to Start' Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/unraveling-the-mystery-of-hamachi-service-halts-expert-solutions-revealed/"><u>Unraveling the Mystery of Hamachi Service Halts: Expert Solutions Revealed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-top-rated-netgear-routers-to-upgrade-your-network/"><u>Unveiling the Top-Rated Netgear Routers to Upgrade Your Network</u></a></li>
 </ul></div>
 

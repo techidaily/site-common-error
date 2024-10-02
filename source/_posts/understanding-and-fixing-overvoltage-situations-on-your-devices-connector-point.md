@@ -1,7 +1,7 @@
 ---
 title: Understanding and Fixing Overvoltage Situations on Your Device's Connector Point
-date: 2024-09-26T00:17:02.356Z
-updated: 2024-09-26T16:10:46.283Z
+date: 2024-09-26T01:33:06.269Z
+updated: 2024-10-01T21:29:16.918Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
@@ -47,10 +47,10 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Change power management settings for USB Root Hub
@@ -60,18 +60,19 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
@@ -89,21 +90,22 @@ You can update your drivers automatically with either the [**Free**](https://too
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
 
@@ -130,22 +132,24 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-altering-gender-display-in-digital-photographs-step-by-step-guide/"><u>[Updated] 2024 Approved Altering Gender Display in Digital Photographs Step by Step Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-from-live-chat-to-large-screen-upload-twitch-streams-to-youtube/"><u>[Updated] From Live Chat to Large Screen Upload Twitch Streams to YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fueling-audience-interaction-crafting-intriguing-fb-giving-announcements/"><u>[Updated] Fueling Audience Interaction Crafting Intriguing FB Giving Announcements</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-mastering-screens-on-windows-with-best-no-cost-recorder-tools/"><u>[Updated] Mastering Screens on Windows with Best No-Cost Recorder Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-best-free-screen-recording-apps-manycam-and-live-streaming-tools/"><u>1. Best Free Screen Recording Apps: ManyCam & Live Streaming Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-step-by-step-approach-to-repairing-onedrive-on-windows-11/"><u>A Step-by-Step Approach to Repairing OneDrive on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/breeze-through-troubleshooting-fixing-the-permanent-0-on-your-windows-update/"><u>Breeze Through Troubleshooting: Fixing the Permanent 0% on Your Windows Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/enigmatic-obscurity-electronic-puzzle/"><u>Enigmatic Obscurity: Electronic Puzzle</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-resolving-connectivity-issues-with-your-bluetooth-mouse-in-windows-environment/"><u>Expert Advice: Resolving Connectivity Issues with Your Bluetooth Mouse in Windows Environment</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-step-by-step-approach-add-a-linked-url-to-your-tiktok-profile/"><u>In 2024, A Step-by-Step Approach Add a Linked URL to Your TikTok Profile</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-unfreezing-frozen-obs-stream-input/"><u>In 2024, Unfreezing Frozen OBS Stream Input</u></a></li>
-<li><a href="https://common-error.techidaily.com/network-troubleshooting-mastery-overcoming-power-surges-at-network-junctions/"><u>Network Troubleshooting Mastery: Overcoming Power Surges at Network Junctions</u></a></li>
-<li><a href="https://common-error.techidaily.com/retain-original-file-locations-with-every-windows-10-system-boot/"><u>Retain Original File Locations with Every Windows 10 System Boot</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixtools-registration-error-in-windows-11/"><u>Troubleshooting FixTool's Registration Error in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-to-fix-driverpowerstatefailure-errors-effectively/"><u>Troubleshooting Tips to Fix DRIVER_POWER_STATE_FAILURE Errors Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/victory-for-wow-enabling-comprehensive-3d-graphics/"><u>Victory for WoW: Enabling Comprehensive 3D Graphics</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726226702828-mkvogg-movavi/"><u>オンラインでの無料MKVからOGGへの変換 - 動画ビューワMovavi</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-cut-the-clutter-advanced-techniques-for-windows-11-videos/"><u>[New] In 2024, Cut the Clutter Advanced Techniques for Windows 11 Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-exclusive-gathering-of-top-tier-no-fee-vectr-and-illustration-sources/"><u>[New] In 2024, Exclusive Gathering of Top-Tier No-Fee Vectr and Illustration Sources</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-aesthetics-final-cut-pro-x-for-editing-tall-screen-content-for-2024/"><u>[New] Instagram Aesthetics Final Cut Pro X for Editing Tall-Screen Content for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-secure-connection-failed-on-firefox/"><u>[Solved] Secure Connection Failed on Firefox</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-methodologies-in-capturing-web-radio-audio-for-2024/"><u>[Updated] Essential Methodologies in Capturing Web Radio Audio for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-5-mac-voice-capture-apps-compiling-peak-performances/"><u>[Updated] In 2024, Top 5 Mac Voice Capture Apps Compiling Peak Performances</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unraveling-why-imovie-alters-video-borders/"><u>[Updated] In 2024, Unraveling Why iMovie Alters Video Borders</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-sound-savvy-your-guide-to-the-top-6-free-android-downloader-apps-for-youtube-for-2024/"><u>[Updated] Sound Savvy Your Guide to the Top 6 Free Android Downloader Apps for Youtube for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/ace-your-pc-experience-tackling-slow-shutdown-in-windows-10/"><u>Ace Your PC Experience: Tackling Slow Shutdown in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-access-dealing-with-offline-steam-contents-and-servers/"><u>How to Restore Access: Dealing with Offline Steam Contents and Servers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-address-and-fix-error-0x800705b4-in-your-windows-10-system-update/"><u>How to Successfully Address and Fix Error 0X800705b4 in Your Windows 10 System Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/mac-and-windows-keyboard-troubleshoot-reactivating-the-missing-backlight-feature/"><u>Mac & Windows Keyboard Troubleshoot: Reactivating the Missing Backlight Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/mended-defect-keyboard-type-lag-issue/"><u>Mended Defect: Keyboard Type Lag Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-fortnite-performance-with-non-supported-pc-graphics-drivers/"><u>Optimizing Fortnite Performance with Non-Supported PC Graphics Drivers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/pro-video-setup-utilizing-your-logitech-webcam/"><u>Pro Video Setup Utilizing Your Logitech Webcam</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-integration-for-your-surface-dock-driver-a-swift-guide/"><u>Seamless Integration for Your Surface Dock Driver: A Swift Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-dilemma-effective-remedies-for-error-0x800f081f-during-net-framework-35-setup/"><u>Solving the Dilemma: Effective Remedies for Error 0X800F081F During .NET Framework 3.5 Setup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-online-platforms-for-youtube-media-growth/"><u>Top Online Platforms for YouTube Media Growth</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-overwatch-voice-chat-glitches-with-simple-solutions/"><u>Troubleshoot Your Overwatch Voice Chat Glitches with Simple Solutions</u></a></li>
 </ul></div>
 

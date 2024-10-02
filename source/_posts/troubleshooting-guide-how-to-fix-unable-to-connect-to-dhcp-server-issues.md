@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Fix 'Unable to Connect to DHCP Server' Issues"
-date: 2024-09-25T00:47:59.779Z
-updated: 2024-09-26T19:40:17.260Z
+date: 2024-09-25T17:03:28.322Z
+updated: 2024-10-01T17:48:14.577Z
 tags:
   - win11
   - win10
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Disable antivirus software
 
  Some antivirus software may block some features in Minecraft so that you can run into the LAN not working issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -90,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-715.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it with the Free version, but it’s partly manual.
 
  After updating the network drivers, check to see if the LAN not working issue is resolved.
@@ -97,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Ensure every computer is connected to the same network
@@ -112,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/f09a424aa99c62f7b51db30e0d97dc33c8611de88
 If this method doesn’t work for you, try other solutions.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Ensure everyone is running the same version of Minecraft
 
@@ -128,6 +135,13 @@ If this method doesn’t work for you, try other solutions.
  3)**Select the Version** from the Use version drop-down menu**.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c26092ec00a3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this method doesn’t work for you, try other solutions.
 
@@ -157,29 +171,22 @@ If this method doesn’t work for you, try other methods.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260ad5f1c53.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4)**Find the IPv4 Address** which usually means the IP address for that computer.
 
  The IP address will look something like 192.168.1.\* or 10.0.0.\*. In the below example, the IP address is 192.168.64.1.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260b16d6474.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Secondly** , you need to get the game port. As soon as you launch Minecraft on the host computer, you can get the game port number at the bottom of the screen as follows.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c260b667f112.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you see a screen like the one below, click the**Direct Connect** button then enter the IP address and the game port number.
 
@@ -189,37 +196,24 @@ If this method doesn’t work for you, try other methods.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Try to play Minecraft without Mods
 
  Mods can make the player look different in the game, but they also can cause problems, such as LAN not working. If you’re using Mods, you can try to play the game without them. Then check to see if the problem is resolved.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Disable AP Isolation (for WiFi only)
 
  If you’re connected to the wireless, one possible cause of the problem is the AP Isolation (Access Point Isolation). AP isolation is a security feature on some routers. If it’s enabled, it’ll prevent devices on a wireless network from communicating directly with one another. In this case, the computers on the same wireless network cannot communicate with each other. So you can check if the AP Isolation is enabled on your router. You can refer to your router documentation for the information and the instructions.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Try reinstalling Minecraft
 
@@ -249,22 +243,22 @@ You also like…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://sound-issues.techidaily.com/solved-discord-voice-chat-not-working/"><u>[SOLVED] Discord Voice Chat Not Working</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-giggle-generator-for-imgur-for-2024/"><u>[Updated] Giggle Generator for Imgur for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-captivating-movement-a-guide-to-perfect-canon-timelapses/"><u>[Updated] In 2024, Captivating Movement A Guide to Perfect Canon Timelapses</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-deciding-on-video-platforms-podcast-or-youtube/"><u>[Updated] In 2024, Deciding on Video Platforms Podcast or YouTube?</u></a></li>
-<li><a href="https://common-error.techidaily.com/arq-protocols-handle-error-correction-through-retransmission-requests/"><u>ARQ Protocols Handle Error Correction Through Retransmission Requests.</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-practices-when-basking-in-the-podcast-glow-for-2024/"><u>Best Practices When Basking in the Podcast Glow for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-error-0x8024401c-during-windows-updates-in-windows-11-systems/"><u>Effective Fixes for Error 0X8024401c During Windows Updates in Windows 11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-responsiveness-of-the-windows-downloads-hub/"><u>Enhancing Responsiveness of the Windows Downloads Hub</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-successfully-updating-and-installing-steam-titles-without-errors/"><u>Expert Tips for Successfully Updating and Installing Steam Titles Without Errors</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-0x80240017-your-ultimate-troubleshooting-manual-for-windows-update-problems/"><u>Overcoming 0X80240017: Your Ultimate Troubleshooting Manual for Windows Update Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/restoring-webcam-functionality-on-hp-laptops-running-windows-eos-expert-advice-and-steps/"><u>Restoring Webcam Functionality on HP Laptops Running Windows eOS: Expert Advice and Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-pcs-volume-problem-in-windows-11-faq/"><u>Solving Your PC's Volume Problem in Windows 11 (FAQ)</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fixes-to-correct-the-error-0x8024200d-during-window-updates/"><u>Step-by-Step Fixes to Correct the 'Error 0X8024200d' During Window Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-complete-strategy-to-restore-vision-repairing-the-darkened-screens-of-dell-notebooks/"><u>The Complete Strategy to Restore Vision: Repairing the Darkened Screens of Dell Notebooks</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-essential-checklist-for-creating-stellar-titles/"><u>The Essential Checklist for Creating Stellar Titles</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-final-cut-pro-color-correction-for-film-and-video-professionals/"><u>Updated 2024 Approved Final Cut Pro Color Correction for Film and Video Professionals</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-crafting-captivating-instagram-puzzles-a-step-by-step-approach/"><u>[New] 2024 Approved Crafting Captivating Instagram Puzzles A Step-by-Step Approach</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-esteemed-creators-best-of-breed-insta-hlv-makers-for-2024/"><u>[New] Esteemed Creators Best-of-Breed Insta HLV Makers for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-fix-there-is-no-sound-on-twitter-videos/"><u>[New] Fix There Is No Sound on Twitter Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twittrek-toolkit-a-comprehensive-approach-to-saving-tweets-visuals/"><u>[Updated] 2024 Approved TwitTrek Toolkit A Comprehensive Approach to Saving Tweets' Visuals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/17-best-background-remover-apps-to-remove-image-background-easily-for-2024/"><u>17 Best Background Remover Apps to Remove Image Background Easily for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-the-problem-of-unresponsive-internet-explorer-in-windows-best-practices-for-resolution/"><u>Addressing the Problem of Unresponsive Internet Explorer in Windows: Best Practices for Resolution</u></a></li>
+<li><a href="https://common-error.techidaily.com/clear-explanations-eliminating-the-no-signal-monitor-problem-easy-steps-inside/"><u>Clear Explanations: Eliminating the 'No Signal' Monitor Problem Easy Steps Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208840290-comprehensive-fixes-for-windows-10-bluetooth-malfunctions-avoid-delays/"><u>Comprehensive Fixes for Windows 10 Bluetooth Malfunctions – Avoid Delays!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-techniques-to-address-and-resolve-driverpowerstatefailure-problems/"><u>Expert Techniques to Address and Resolve DRIVER_POWER_STATE_FAILURE Problems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/filmoras-peers-the-best-slide-show-template-collections/"><u>Filmora's Peers The Best Slide Show Template Collections</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restore-or-update-missing-widevine-drm-on-windows-devices/"><u>Guide to Restore or Update Missing Widevine DRM on Windows Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-motorola-moto-g14-phone-by-drfone-android/"><u>How to Reset a Locked Motorola Moto G14 Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restore-physxloaderdll-fixes-for-a-missing-or-damaged-file/"><u>How To Restore PhysXLoader.dll: Fixes for a Missing or Damaged File</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-volume-is-dirty-error-code-0x80071ac3-in-windows/"><u>Resolving the 'Volume Is Dirty' Error (Code 0X80071AC3) in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-diagnosing-and-correcting-windows-driver-power-state-errors/"><u>Step-by-Step Tutorial: Diagnosing & Correcting Windows Driver Power State Errors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-to-ai-chatbots-popularity-and-functionality/"><u>Unveiling the Secrets to AI Chatbots' Popularity and Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-updates-successfully-resolved-after-initial-failure/"><u>Windows Updates Successfully Resolved After Initial Failure</u></a></li>
 </ul></div>
 

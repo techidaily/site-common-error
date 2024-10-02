@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide for Oddworld: Soulstorm PC Game Crash Issues"
-date: 2024-09-22T19:47:28.161Z
-updated: 2024-09-27T00:38:43.826Z
+date: 2024-09-30T19:00:02.094Z
+updated: 2024-10-02T04:24:29.111Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 8. [**Reinstall Oddworld: Soulstorm and the launcher**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure your PC meets the minimum specifications for Oddworld: Soulstorm
 
  Oddworld: Soulstorm has a set of hardware and system requirements in order for it to be played smoothly. If your copy of Oddworld: Soulstorm crashes a lot on your PC, it’s worth checking if your PC meets the requirements.
@@ -62,28 +55,29 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/dxdiag-Run-box.jpg)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/display.png)
-4. Close DirectX.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/display.png)
+4. Close DirectX.
 
  You may need to upgrade the hardware of your computer if it fails to meet the specs.
 
  If your PC specs are up to the mark but Oddworld: Soulstorm still crashes, please move on to**Fix 2** , below to begin troubleshooting.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -97,8 +91,24 @@ To check the specs of your PC:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-your-device-drivers.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Launch Oddworld: Soulstorm and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
 
@@ -110,22 +120,17 @@ Here’s how:
 
 1. On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) , type**epic** , then right-click on**Epic Games Launcher** and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/epic.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Click**Yes** when UAC promots for permissions to proceed.
 
  After that, launch Oddworld: Soulstorm game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 4** , below.
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Verify game integrity on Epic Games Launcher
 
@@ -142,6 +147,14 @@ Here’s how:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run box. Then type **control firewall.cpl**  into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-1.png)
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall.png)
 3. Browse through the list of Allowed apps and features to see if Epic Gamers launcher is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app.png)
@@ -157,10 +170,10 @@ Here’s how:
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to**Fix 7** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean boot
@@ -173,22 +186,8 @@ Here are the steps to perform a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/msconfig.png)
 2. Click the **Services**  tab and tick the box for **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services.png)
 3. Browse through the full list of services, make sure to **check the boxes for the items that belong to your hardware manufacturers** (such as Intel, AMD, and Qualcomm) and**uncheck the boxes for the rest** . Once finished, click**OK** to apply the changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12-2.png)
 4. Restart your computer, then test to see if the game still crashes.  
@@ -220,22 +219,15 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-choosing-the-best-camera-for-filming-mirrorless-or-dslr/"><u>[New] 2024 Approved Choosing the Best Camera for Filming Mirrorless or DSLR</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-harnessing-hashtag-magic-for-more-followers/"><u>[New] In 2024, Harnessing Hashtag Magic for More Followers</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208817323-resolved-end-excessive-heat-and-reduce-cpu-pressure-the-complete-guide-on-dealing-with-high-load-due-to-shell-infrastructures/"><u>[Resolved] End Excessive Heat & Reduce CPU Pressure - The Complete Guide on Dealing with High Load Due To Shell Infrastructures</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-melodic-matchmakers-aligning-music-to-visuals/"><u>[Updated] Melodic Matchmakers Aligning Music to Visuals</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/choosing-the-right-spreadsheet-google-sheets-vs-microsoft-excel-compared/"><u>Choosing the Right Spreadsheet: Google Sheets Vs. Microsoft Excel Compared</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-usb-connection-issues-on-your-windows-pc/"><u>Comprehensive Solutions for USB Connection Issues on Your Windows PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-windows-11-unwanted-red-display-problems/"><u>Effective Solutions for Windows 11 Unwanted Red Display Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fixes-for-a-non-functioning-microphone-on-google-hangouts/"><u>Effortless Fixes for a Non-Functioning Microphone on Google Hangouts</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-reduce-high-wudfhostexe-cpu-impact-on-windows-11-devices/"><u>How to Reduce High WUDFHost.exe CPU Impact on Windows 11 Devices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/live-streaming-mastery-with-manycam-ultimate-virtual-webcam-and-video-editing-suite/"><u>Live Streaming Mastery with ManyCam: Ultimate Virtual Webcam and Video Editing Suite</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-windows-10-bluetooth-problems-instantly-simple-solutions-inside/"><u>Resolve Your Windows 10 Bluetooth Problems Instantly – Simple Solutions Inside</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/restoring-screen-clarity-following-win11-changeover/"><u>Restoring Screen Clarity Following Win11 Changeover</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208835262-solving-steelseries-arctis-amor-problems-fixing-the-microphone-not-working/"><u>Solving SteelSeries Arctis amoR Problems - Fixing the Microphone Not Working</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-5-fixes-for-common-issues-encountered-during-windows-1011-upgrades/"><u>Top 5 Fixes for Common Issues Encountered During Windows 10/11 Upgrades</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-secure-connection-couldnt-be-established-in-mozilla-firefox/"><u>Troubleshooting Guide: Resolving 'Secure Connection Couldn't Be Established' In Mozilla Firefox</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-final-cut-pro-tutorial-fading-in-and-out-of-audio-like-a-pro/"><u>Updated 2024 Approved Final Cut Pro Tutorial Fading In and Out of Audio Like a Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-gain-listener-traffic-advanced-techniques-in-podcast-seo-for-2024/"><u>[Updated] Gain Listener Traffic Advanced Techniques in Podcast SEO for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/cost-effective-filmmaking-5-top-free-video-tools/"><u>Cost-Effective Filmmaking 5 Top Free Video Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficiently-tackle-wudfhostexe-high-resource-drain-on-windows-11-devices/"><u>Efficiently Tackle wudfhost.exe High Resource Drain on Windows 11 Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-video-playback-acceleration-for-2024/"><u>Harnessing the Power of Video Playback Acceleration for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-stopped-audio-service-in-windows-7/"><u>How to Fix the Stopped Audio Service in Windows 7</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/multi-device-sync-mastering-the-use-of-a-single-phone-number-across-all-your-gadgets/"><u>Multi-Device Sync: Mastering the Use of a Single Phone Number Across All Your Gadgets</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-network-access-how-to-correctly-address-ethernet-malfunctions-on-windows-versions-11-7/"><u>Restoring Network Access: How to Correctly Address Ethernet Malfunctions on Windows Versions (11, 7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-to-successfully-shut-down-a-non-responsive-windows-10-machine-problem-solved/"><u>Tips to Successfully Shut Down a Non-Responsive Windows 10 Machine [PROBLEM SOLVED]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/zoom-optimization-for-effective-virtual-meetings/"><u>Zoom Optimization for Effective Virtual Meetings</u></a></li>
 </ul></div>
 

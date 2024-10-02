@@ -1,7 +1,7 @@
 ---
 title: Is Keeping MSDIA80.DLL Essential for Your System Performance?
-date: 2024-09-18T17:54:17.650Z
-updated: 2024-09-20T17:02:21.924Z
+date: 2024-09-29T21:26:36.023Z
+updated: 2024-10-01T22:35:17.172Z
 tags:
   - win11
   - win10
@@ -52,10 +52,31 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Click **Themes** \> **Desktop icon settings**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
 
@@ -64,6 +85,14 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -72,13 +101,6 @@ start explorer.exe
 3. Check if it helps restore your desktop icons. If not, try Tip 4, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 4: Perform a system restore
 
@@ -105,23 +127,30 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 2. Click **Update & security** \> **Recovery**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -139,13 +168,6 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -168,5 +190,21 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-boost-your-drive-top-10-windows-and-os-x-mods-elevating-srt-power/"><u>[New] In 2024, Boost Your Drive Top 10 Windows & OS X Mods Elevating SRT Power</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-walkthrough-incorporating-subtitles-in-mp4s/"><u>[New] Step-by-Step Walkthrough Incorporating Subtitles in MP4s</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/his-years-unexpected-cinematic-gems-for-2024/"><u>[New] This Year's Unexpected Cinematic Gems for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-social-media-spotlight-todays-top-8-video-phenomena/"><u>[Updated] In 2024, Social Media Spotlight Today’s Top 8 Video Phenomena</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-frost-giants-clash-gods-of-war-ragnarok-unleashed/"><u>2024 Approved Frost Giants Clash Gods of War, Ragnarok Unleashed</u></a></li>
+<li><a href="https://common-error.techidaily.com/airpods-wont-pair-with-windows-heres-how-you-can-solve-it/"><u>AirPods Won't Pair with Windows? Here's How You Can Solve It</u></a></li>
+<li><a href="https://common-error.techidaily.com/compatibility-check-confirm-presence-of-a-d3d11-ready-graphics-card-before-launch/"><u>Compatibility Check: Confirm Presence of a D3D11 Ready Graphics Card Before Launch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-future-of-oneplus-with-latest-updates-on-model-10-costs-and-prospect-revealed/"><u>Discover the Future of OnePlus with Latest Updates on Model 10: Costs & Prospect Revealed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lofree-edge-assessment-reviewed-slimmer-lighter-alternative-with-a-premium-cost-over-the-magic-keyboard-by-apple/"><u>Lofree Edge Assessment Reviewed: Slimmer, Lighter Alternative with a Premium Cost Over the Magic Keyboard by Apple</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/orchestrating-peak-canon-temporal-scenes-for-2024/"><u>Orchestrating Peak Canon Temporal Scenes for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/radeon-management-tools-not-responding-solutions-and-tips/"><u>Radeon Management Tools Not Responding - Solutions and Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-google-chromes-black-screen-dilemma-with-these-easy-fixes/"><u>Resolve Your Google Chrome's Black Screen Dilemma with These Easy Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/revealing-the-trick-restoring-hidden-windows-from-outside-your-screen/"><u>Revealing the Trick: Restoring Hidden Windows From Outside Your Screen</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-transforming-your-data-from-csv-into-excel-spreadsheets/"><u>Step-by-Step Guide: Transforming Your Data From CSV Into Excel Spreadsheets</u></a></li>
+</ul></div>
 

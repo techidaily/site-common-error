@@ -1,7 +1,7 @@
 ---
 title: Keys Fail Randomly
-date: 2024-09-16T16:07:29.030Z
-updated: 2024-09-20T17:58:40.806Z
+date: 2024-09-27T03:45:50.596Z
+updated: 2024-10-01T23:15:46.669Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ The good news is that it can be fixed quickly and easily.
 
  If you find System interrupts keep taking up over 20% of CPU usage, it means there’s some error with your hardware or the driver. Go with the following solutions to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fixes for System interrupts high CPU
 
 * [What is System interrupts?](#h-what-is-system-interrupts)
@@ -40,9 +47,29 @@ The good news is that it can be fixed quickly and easily.
 * [Solution 3: Disable USB Root Hubs](#h-solution-3-disable-usb-root-hubs)
 * [Solution 4. Modify your network adapter properties](#h-solution-4-modify-your-network-adapter-properties)
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 1: Quick & Easy
 
  First of all, try to restart your Windows 10 computer. No kidding! A complete reboot can always fix a lot of weird issues. Thus be sure to try it at first as it’s easy enough to take.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 2: Update your device drivers
 
@@ -68,16 +95,16 @@ The good news is that it can be fixed quickly and easily.
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
@@ -89,10 +116,10 @@ The good news is that it can be fixed quickly and easily.
  If updating the driver didn’t help you, go on to follow other solutions:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Disable USB Root Hubs
@@ -104,10 +131,16 @@ The good news is that it can be fixed quickly and easily.
 2. Expand the**Universal Serial Bus controllers** ccategory. Then right-click on each USB Root Hub**except** the ones for your keyboard and mouse. Choose**Disable device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595c95d57daf3.jpg)
@@ -120,10 +153,10 @@ To check which USB Root Hub is for your keyboard and mouse:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c986d8f0d0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 4\. Modify your network adapter properties
@@ -133,13 +166,6 @@ To check which USB Root Hub is for your keyboard and mouse:
 2. Expand the**Network adapters** category. Right-click on your network adapter (it should be the one with a manufacturer brand name like Intel, Realtek, Ralink, Qualcomm, Broadcom, etc.) and choose**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595ca7c0b78a4.jpg)
 3. Choose to view on the**Advanced** pane. Then scroll down to**Wake on Magic Packet** and**Wake on pattern match** . Set their Value to be**Disabled** from the drop-down menu one by one. Click**OK** to save your settings.  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/img_595ca8968c9bd.png)
 4. See if the system interrupts still consume a high CPU usage on your computer.
@@ -183,5 +209,22 @@ To check which USB Root Hub is for your keyboard and mouse:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-beyond-reality-vr-movie-magic-for-2024/"><u>[New] Beyond Reality VR Movie Magic for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-master-screen-recording-on-windows-macos-and-android-devices/"><u>[Updated] 2024 Approved Master Screen Recording on Windows, macOS, and Android Devices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-chasing-the-cause-of-frozen-photobooth-videos/"><u>[Updated] Chasing the Cause of Frozen Photobooth Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-speed-control-a-detailed-walkthrough/"><u>2024 Approved Snapchat Speed Control A Detailed Walkthrough</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-unveiling-the-secrets-to-effortless-youtube-sharing-on-fb-groups/"><u>2024 Approved Unveiling the Secrets to Effortless YouTube Sharing on FB Groups</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-straightforward-anti-cheat-issue-in-apex-legends-game/"><u>Fixing the Straightforward Anti-Cheat Issue in Apex Legends Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-non-functional-volume-buttons-in-windows-10-fixed/"><u>How to Fix Non-Functional Volume Buttons in Windows 10 [FIXED]</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-elevate-your-ig-videos-tips-and-templates/"><u>In 2024, Elevate Your IG Videos Tips & Templates</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-tecno-spark-10-pro-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Tecno Spark 10 Pro? Try These Fixes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lenovo-tab-m10-fhdplus-launched-in-2020-premium-screen-meets-affordable-price/"><u>Lenovo Tab M10 FHD+ Launched in 2020 - Premium Screen Meets Affordable Price</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-and-simple-guide-how-to-reset-your-windows-11-system/"><u>Quick and Simple Guide: How to Reset Your Windows 11 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-non-responsive-right-click-in-windows-10-a-step-by-step-guide/"><u>Resolving Non-Responsive Right Click in Windows 10 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-correcting-error-0x80240017-during-windows-updates/"><u>Step-by-Step Solutions for Correcting Error 0X80240017 During Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208426611-troubleshoot-and-solve-the-0x887a0006-glitch-in-no-time/"><u>Troubleshoot and Solve the 0X887A0006 Glitch in No Time</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-dead-laptop-mousepads-on-windows-10-8-and-7-expert-hacks-unveiled/"><u>Winning the Battle Against Dead Laptop Mousepads on Windows 10, 8 & 7 - Expert Hacks Unveiled</u></a></li>
+</ul></div>
 

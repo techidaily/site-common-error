@@ -1,7 +1,7 @@
 ---
 title: "Abrupt Shutdown: Devices in Crisis"
-date: 2024-09-20T00:11:10.789Z
-updated: 2024-09-26T18:12:06.988Z
+date: 2024-09-27T16:57:52.893Z
+updated: 2024-10-02T02:00:34.222Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
 5. **[Reacquire all CSGO game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Change fastprox.dll to fastprox.dllold](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you’re using a wrong or outdated graphics driver. So you should update your graphics driver to see if it fixes the issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -61,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Stop overclocking your GPU
 
  Overlocking the GPU is a good method to try if you wish for a faster and smoother game performance. But pushing it too high may cause the game crashing issue.
@@ -69,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/fe5ef092604af77627e37eb91892932d5bd09d30f
  you can try lowering it back to the default setting. If not, or it doesn’t help with the situation, you should try **Fix 3** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Verify integrity of game files
 
@@ -90,10 +97,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-180.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES..** .  
@@ -107,19 +114,6 @@ To do so:
 6) Relaunch Steam, then run CS:GO and see if the **CSGO crashing** problem has been fixed. If the crashing problem still occurs, move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Launch CSGO in -autoconfig or -safe mode
 
@@ -139,13 +133,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-179.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**SET LAUNCH OPTIONS…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
@@ -155,13 +142,6 @@ To do so:
  5) Type**\-autoconfig** and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-182.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Exit Steam.
 
@@ -175,16 +155,16 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-179.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**SET LAUNCH OPTIONS…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-181.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Remove**ANY** launch options currently shown.
 
@@ -193,10 +173,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/safe.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6) Exit Steam.
@@ -215,6 +195,13 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-184.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Launch Steam and re-run the game.
 
 5) Once the installation completes, test if the CSGO crashing issue has been solved:
@@ -229,6 +216,20 @@ To do so:
 1. On your keyboard, press**the Windows logo key** and**E** at the same time, then click**View** \>**Options** \>**Change folder and search options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4b228da5a.jpg)
 2. Click the**View** tab and uncheck**the box** before**Hide extensions for known file types** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4c03820bb.jpg)
 3. On your keyboard, press**the Windows logo key** and**E** at the same time, then copy & paste **C:\\Windows\\SysWOW64\\wbem** into the address bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2b4db541a75.jpg)
@@ -257,18 +258,16 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-vdq-video-snatcher-assessment-comprehensive-analysis/"><u>[New] VDQ Video Snatcher Assessment Comprehensive Analysis</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-windows-screencast-champions-revealed/"><u>[New] Windows Screencast Champions Revealed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-hunt-for-heated-online-hearings/"><u>[Updated] Hunt for Heated Online Hearings</u></a></li>
-<li><a href="https://video-capture.techidaily.com/comprehensive-tutorial-on-converting-audio-from-quicktime-to-mp3/"><u>Comprehensive Tutorial on Converting Audio From QuickTime to MP3</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207691717-cracking-the-code-to-successfully-register-classes-on-windows-10-detailed-fixes-revealed/"><u>Cracking the Code to Successfully Register Classes on Windows 10 - Detailed Fixes Revealed</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/cutting-edge-interconnects-launched-by-pci-sig-introducing-copperlynx-for-enhanced-gen-5-and-6-performance-upcoming-pcie-gen-7-on-horizon/"><u>Cutting-Edge Interconnects Launched by PCI-SIG - Introducing CopperLynx for Enhanced Gen 5 & #6 Performance; Upcoming PCIe Gen 7 on Horizon</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-getting-minecraft-back-running-on-windows-after-launch-problems/"><u>Expert Advice: Getting Minecraft Back Running on Windows After Launch Problems</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-15-pro-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 15 Pro How to Bypass?</u></a></li>
-<li><a href="https://common-error.techidaily.com/incompatible-ftdi-device-drivers-trigger-memory-corruption-alerts/"><u>Incompatible FTDI Device Drivers Trigger Memory Corruption Alerts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/jurassic-world-evolution-troubleshooting-eliminating-crashing-issues-permanently/"><u>Jurassic World Evolution Troubleshooting: Eliminating Crashing Issues Permanently</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-vn-video-editor-on-mac-a-comprehensive-guide-and-alternatives/"><u>New 2024 Approved VN Video Editor on Mac A Comprehensive Guide and Alternatives</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-definitive-solution-ensuring-seamless-airpods-integration-with-windows-11/"><u>The Definitive Solution : Ensuring Seamless AirPods Integration with Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-notorious-red-screen-of-error-in-your-device/"><u>Ultimate Guide: Resolving the Notorious 'Red Screen of Error' In Your Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-simultaneous-capture-excellence-with-iphones-features/"><u>[New] 2024 Approved Simultaneous Capture Excellence with iPhone's Features</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-leverage-youtube-on-instagram-stories-for-maximum-engagement/"><u>[New] In 2024, Leverage YouTube on Instagram Stories for Maximum Engagement</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-rekindling-the-classics-top-80s-video-effects-for-cutting-edge-films/"><u>[New] Rekindling the Classics Top 80S Video Effects for Cutting-Edge Films</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-behind-the-screen-essential-post-vidcon-gatherings-for-2024/"><u>[Updated] Behind the Screen Essential Post-VidCon Gatherings for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-guide-to-resolve-non-loading-buildings-in-playerunknowns-battlegrounds-fixed/"><u>Complete Guide to Resolve Non-Loading Buildings in PlayerUnknown's Battlegrounds (FIXED)</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-convert-and-save-adult-content-videos-as-mp4-mkv-or-flac-from-hclips-platform/"><u>How to Convert and Save Adult Content Videos as MP4, MKV or FLAC From Hclips Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-dvd-playback-issues-in-the-windows-operating-system/"><u>Quick Fixes for DVD Playback Issues in the Windows Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-high-volume-redirection-issues-fast-and-easy/"><u>Resolving High Volume Redirection Issues Fast & Easy</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/resolving-the-disappearance-of-shorts-thumbnails-for-2024/"><u>Resolving the Disappearance of Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-pc-instability-and-crashes-in-nba-2k21/"><u>Troubleshooting Guide: Resolving PC Instability and Crashes in NBA 2K21</u></a></li>
+<li><a href="https://common-error.techidaily.com/untangling-the-sims-t-wont-open-dilemma-a-step-by-step-guide/"><u>Untangling the Sims T Won't Open Dilemma: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

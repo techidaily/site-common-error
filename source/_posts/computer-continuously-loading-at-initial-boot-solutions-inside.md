@@ -1,7 +1,7 @@
 ---
 title: Computer Continuously Loading at Initial Boot? Solutions Inside!
-date: 2024-09-19T23:24:24.377Z
-updated: 2024-09-26T18:17:20.411Z
+date: 2024-09-26T03:39:07.375Z
+updated: 2024-10-02T02:23:43.291Z
 tags:
   - win11
   - win10
@@ -28,23 +28,16 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 2. [**Uninstall and reinstall Razer Synapse**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Plug your keyboard in another USB port
 
  It’s probably caused by the poor connection. Plug your keyboard into another USB port and check if it does light up. If it does and everything works well, it’s your USB port that has the issue.  
  If it doesn’t light up, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Uninstall and reinstall Razer Synapse
@@ -60,10 +53,10 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 5. Go to C:\\Users\\Your user name\\AppData and delete any Razer folders.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Go to C:\\Program Files (x86)… or wherever you installed Synapse and delete the Razer folders.
@@ -74,10 +67,10 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 11. Plug your keyboard and check the lightening.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your driver
@@ -95,6 +88,14 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 3. Click the **Update**  button next to the flagged device to automatically download the correct version of its driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)  
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. After updating the drivers, check to see the issue is resolved or not.
 
@@ -117,20 +118,24 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-exploring-youtubes-strategy-for-video-short-promotion/"><u>[New] 2024 Approved Exploring YouTube's Strategy for Video Short Promotion</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-tricks-of-trade-remote-recording-mastery/"><u>[Updated] 2024 Approved Tricks of Trade Remote Recording Mastery</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-maximize-video-conferencing-value-discover-our-top-10-recorder-picks/"><u>[Updated] In 2024, Maximize Video Conferencing Value - Discover Our Top 10 Recorder Picks</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-budget-4k-photography-systems/"><u>2024 Approved Top Budget 4K Photography Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/a-deep-dive-into-the-transformative-shifts-from-gpt-35-to-gpt-4/"><u>A Deep Dive Into the Transformative Shifts From GPT-3.5 to GPT-4</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-window-11-and-tile-speaker-noise-problem-a-detailed-explanation/"><u>Effective Fixes for Window 11 and Tile Speaker Noise Problem: A Detailed Explanation</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-tips-and-tricks-eliminating-werfaultexe-error-messages-in-windows/"><u>Effective Tips and Tricks: Eliminating werfault.exe Error Messages in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-broken-usb-connections-in-the-latest-windows-operating-systems/"><u>Expert Tips for Repairing Broken USB Connections in the Latest Windows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-unresponsive-number-pad-or-keyboard-buttons/"><u>How to Repair Unresponsive Number Pad or Keyboard Buttons</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/innovateimages-ai-next-level-editing-excellence-for-2024/"><u>InnovateImages AI Next-Level Editing Excellence for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphones-and-charging-errors-unlock-the-secrets-with-these-8-troubleshooting-steps/"><u>IPhones and Charging Errors: Unlock the Secrets with These 8 Troubleshooting Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-common-issues-keeping-your-favorite-battle-royale-games-running-smoothly/"><u>Overcoming Common Issues - Keeping Your Favorite Battle Royale Games Running Smoothly</u></a></li>
-<li><a href="https://common-error.techidaily.com/restoring-normal-copy-and-paste-in-windows-10/"><u>Restoring Normal Copy & Paste in Windows 10</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-speeding-up-your-instagram-video-watch-time/"><u>[New] In 2024, Speeding Up Your Instagram Video Watch Time</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tactics-for-pinpointing-ideal-podcast-debut-days/"><u>2024 Approved Tactics for Pinpointing Ideal Podcast Debut Days</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decrypting-windows-108-error-messages-locations/"><u>Decrypting Windows 10/8 Error Messages Locations</u></a></li>
+<li><a href="https://solve-news.techidaily.com/enhance-evenings-by-managing-calls-embracing-deep-slumber-and-picking-ideal-movies-expert-tips-from-abbyy/"><u>Enhance Evenings by Managing Calls, Embracing Deep Slumber and Picking Ideal Movies | Expert Tips From ABBYY</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unrecognized-flash-drive-errors-understanding-and-solving-device-descriptor-request-failed-issues/"><u>Fixing Unrecognized Flash Drive Errors: Understanding and Solving 'Device Descriptor Request Failed' Issues</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/hassle-free-tutorial-on-transposing-vttsrt-subtitles-for-seamless-editing/"><u>Hassle-Free Tutorial on Transposing VTT/SRT Subtitles for Seamless Editing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-7-plus-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 7 Plus With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mobile-filmmakers-secrets-creating-viral-thumbnails-for-youtube/"><u>In 2024, Mobile Filmmaker’s Secrets Creating Viral Thumbnails for YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-conundrum-solved-reviving-your-unresponsive-dell-laptop-keys/"><u>Keyboard Conundrum Solved: Reviving Your Unresponsive Dell Laptop Keys</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-your-terraria-woes-top-6-strategies-to-overcome-connection-loss/"><u>Resolve Your Terraria Woes: Top 6 Strategies to Overcome Connection Loss</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-secure-socket-layer-ssl-failed-on-your-firefox-browser/"><u>Resolving 'Secure Socket Layer (SSL) Failed' On Your Firefox Browser</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-a-non-charging-laptop-battery-without-hassle-masterful-diy-fixes-here/"><u>Revive a Non-Charging Laptop Battery Without Hassle – Masterful DIY Fixes Here!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-troubleshooting-and-fixing-critical-windows-update-error-0x8007001f/"><u>Step-by-Step Guide: Troubleshooting and Fixing Critical Windows Update Error 0X8007001f</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-economical-earbud-epic-unpacking-the-oneplus-experience/"><u>The Economical Earbud Epic - Unpacking the OnePlus Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-origin-gaming-issues-resolving-setup-errors-smoothly/"><u>Troubleshoot Origin Gaming Issues: Resolving Setup Errors Smoothly</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-when-your-keyboard-lights-wont-turn-on/"><u>Troubleshooting Guide: When Your Keyboard Lights Won't Turn On</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultra-fast-windows-view-for-pictures/"><u>Ultra-Fast Windows View for Pictures</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-complete-overcoming-the-halt-in-32-bit-applications-printer-connection/"><u>Update Complete: Overcoming the Halt in 32-Bit Application's Printer Connection</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-screensaver-not-working-solved/"><u>Windows 10 Screensaver Not Working [Solved]</u></a></li>
 </ul></div>
 

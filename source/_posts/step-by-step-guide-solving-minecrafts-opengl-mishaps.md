@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Solving Minecraft's OpenGL Mishaps"
-date: 2024-09-24T16:23:46.123Z
-updated: 2024-09-26T22:07:07.621Z
+date: 2024-09-24T21:45:00.621Z
+updated: 2024-10-01T22:22:35.504Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -58,33 +65,19 @@ Follow these:
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Press the Shift key on your keyboard to see if it works.
 
@@ -99,13 +92,6 @@ Follow these:
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
@@ -125,11 +111,25 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
 
@@ -150,19 +150,22 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-instant-social-interaction-tweetplusfb-guide/"><u>[New] Instant Social Interaction Tweet+FB Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-narrative-flow-expert-tips-on-using-jump-cuts/"><u>[Updated] 2024 Approved Elevate Narrative Flow Expert Tips on Using Jump Cuts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-create-effective-fb-video-ads-with-free-kit/"><u>[Updated] In 2024, Create Effective FB Video Ads with FREE Kit</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-propel-your-presence-on-tiktok-strategic-application-of-template-videos/"><u>[Updated] Propel Your Presence on TikTok Strategic Application of Template Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-ahead-of-the-curve-professional-360-cams-reviewed-2023-edition/"><u>2024 Approved Ahead of the Curve Professional 360° Cams Reviewed - 2023 Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/correcting-windows-setup-files-that-arent-working-properly/"><u>Correcting Windows Setup Files That Aren't Working Properly</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-to-decrease-gpu-usage-of-dwm-in-windows-10-and-11/"><u>Effective Strategies to Decrease GPU Usage of DWM in Windows 10 and 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/enhance-document-saving-functionality-in-windows-11/"><u>Enhance Document Saving Functionality in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-troubleshooting-steps-for-windows-10-sound-level-adjustments/"><u>Fix: Troubleshooting Steps for Windows 10 Sound Level Adjustments</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Lava Agni 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722971987215-organizational-hierarchy-and-key-leadership-teams/"><u>Organizational Hierarchy and Key Leadership Teams</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-windows-11-disk-read-failures-easy-fixes-for-users/"><u>Troubleshooting and Repairing Windows 11 Disk Read Failures: Easy Fixes for Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-is-my-windows-11-start-menu-not-responding-solutions-inside/"><u>Why Is My Windows 11 Start Menu Not Responding? Solutions Inside!</u></a></li>
-<li><a href="https://common-error.techidaily.com/winapi-component-absent-cruntimel1-1-0/"><u>WinAPI Component Absent - cRuntimeL1-1-0</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-crafting-irresistible-profile-videos/"><u>[New] Crafting Irresistible Profile Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-revolutionary-recorders-outside-the-native-windows-ecosystem/"><u>[New] Revolutionary Recorders Outside the Native Windows Ecosystem</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-prosperity-startups-the-13-least-experience-demanding-reddit-techniques/"><u>[Updated] Prosperity Startups The 13 Least Experience-Demanding Reddit Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-simplified-process-for-name-change-in-google-meet-laptopmobile-for-2024/"><u>[Updated] Simplified Process for Name Change in Google Meet (Laptop/Mobile) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/connect-your-airpods-to-windows-pc-easy-fixes-and-tips/"><u>Connect Your AirPods to Windows PC : Easy Fixes & Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/direct-from-twitter-posting-engaging-video-content-on-snapchat-for-2024/"><u>Direct From Twitter Posting Engaging Video Content on Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-viewing-experience-activating-av1-codec-on-youtube/"><u>Elevate Viewing Experience Activating AV1 Codec on YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-diagnosing-and-correcting-xbox-one-controller-problems/"><u>Expert Advice: Diagnosing and Correcting Xbox One Controller Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-restoring-functionality-for-broken-login-keyboards/"><u>Expert Advice: Restoring Functionality for Broken Login Keyboards</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unrecognized-usb-hardware-problems-and-failed-port-resets-on-windows-11/"><u>Fixing Unrecognized USB Hardware Problems and Failed Port Resets on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-restarting-intel-realsense-streaming-technology-in-windows-10-systems/"><u>Guide: Restarting Intel RealSense Streaming Technology in Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-dns-server-quick-and-effective-remedies/"><u>How to Fix a Non-Responsive DNS Server: Quick & Effective Remedies</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-directx-drawing-issues-a-step-by-step-guide/"><u>How to Fix DirectX Drawing Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-s17t-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo S17t</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-blueprint-to-thriving-in-spotify-ads/"><u>In 2024, The Ultimate Blueprint to Thriving in Spotify Ads</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-restore-functionality-in-windows-11-sound-volume-buttons/"><u>Solved: How To Restore Functionality in Windows 11 Sound Volume Buttons</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-win32-exception-error-a-detailed-walkthrough-to-resolve-error-0xc0000005/"><u>Tackling Win32 Exception Error: A Detailed Walkthrough to Resolve Error 0xC0000005</u></a></li>
 </ul></div>
 

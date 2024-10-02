@@ -1,7 +1,7 @@
 ---
 title: "Avoid Installation Mishaps: Seamless Guidelines to Update Your Steam Library"
-date: 2024-09-19T19:16:31.651Z
-updated: 2024-09-20T16:50:47.054Z
+date: 2024-09-28T20:42:39.603Z
+updated: 2024-10-01T19:47:12.711Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Launch as administrator
 
  The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, League of Legends can make full use of its features, running its function properly. So run it as an administrator to see if this fixes the slow download issue.
@@ -65,6 +72,14 @@ Downloading again to see if it works.
 1. Click the Start button, type**windows firewall** in the search box and press the**Enter** key to open**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
@@ -83,13 +98,6 @@ Re-download to check.
  So you can[download](https://www.microsoft.com/en-sg/download/details.aspx?id=21) and install the framework to solve the issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus: Update your drivers
 
@@ -119,14 +127,22 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -153,5 +169,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-fix-blurry-facebook-videos-on-iphoneandroidchrome/"><u>[New] 2024 Approved How to Fix Blurry Facebook Videos on iPhone/Android/Chrome?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beyond-the-basics-non-inshot-pc-video-tools/"><u>[Updated] Beyond the Basics Non-Inshot PC Video Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-monitoring-instagram-disconnects-immediately/"><u>2024 Approved Monitoring Instagram Disconnects Immediately</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/aiming-high-selecting-the-best-webcams-for-live-gameplay-streams-for-2024/"><u>Aiming High Selecting the Best Webcams for Live Gameplay Streams for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-pairing-established-on-windows-11-but-still-fails-to-transfer-data-fixes-needed/"><u>Bluetooth Pairing Established on Windows 11 but Still Fails to Transfer Data - Fixes Needed?</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-unsuccessful-rpcs-learn-how-to-correct-them-here/"><u>Dealing With Unsuccessful RPCs? Learn How To Correct Them Here</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/elite-8-video-grabber-utilities-for-2024/"><u>Elite 8 Video Grabber Utilities for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/enhance-personal-time-management-facebooks-daily-notification-feature/"><u>Enhance Personal Time Management: Facebook’s Daily Notification Feature</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-separation-to-synergy-unite-obs-with-zoom-for-2024/"><u>From Separation to Synergy Unite OBS with Zoom for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-quiet-down-a-loud-playstation-4-fan-diagnosis-and-repair-tips/"><u>How to Quiet Down a Loud PlayStation 4 Fan – Diagnosis and Repair Tips</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oppo-a78-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Oppo A78 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-upgrades-tips-and-tricks-from-the-experts-at-toms-hardware/"><u>Master Your PC Upgrades: Tips & Tricks From the Experts at Tom's Hardware</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-your-windows-experience-leveraging-system-file-checker-and-deployment-image-servicing-for-troubleshooting/"><u>Optimizing Your Windows Experience: Leveraging System File Checker and Deployment Image Servicing for Troubleshooting</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-typewriter-keys-malfunction-across-windows-operating-systems-windows-10-7-8/"><u>Resolving Typewriter Keys Malfunction Across Windows Operating Systems (Windows 10, 7, 8)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-windows-10-and-11-file-system-issues-efficiently/"><u>Troubleshooting Guide: Resolving Windows 10 & 11 File System Issues Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-resolving-the-incorrect-parameter-in-loadlibrary-failures-error-87/"><u>Understanding and Resolving the 'Incorrect Parameter' In LoadLibrary Failures (Error 87)</u></a></li>
+</ul></div>
 

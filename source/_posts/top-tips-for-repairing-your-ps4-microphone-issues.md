@@ -1,7 +1,7 @@
 ---
 title: Top Tips for Repairing Your PS4 Microphone Issues
-date: 2024-09-19T21:54:23.784Z
-updated: 2024-09-26T23:20:39.813Z
+date: 2024-09-27T22:21:44.489Z
+updated: 2024-10-02T02:45:19.100Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 3. **[Change the display settings](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Use the shortcut keys
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 2. On your keyboard, hold down**Ctrl** ,**Shift** and press the**Arrow** keys (Up, Down, Right, Left – one at a time) until you rotate the screen to the right display.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -63,8 +70,29 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and hopefully your screen displays normally again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -80,41 +108,14 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbc64a4a09.jpg)
 2. In**Orientation** , select**Landscape** from the drop-down list.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dbce216c6e.jpg)
 3. Hopefully you have restored your screen back to normal this time.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
   I’m using Windows 7
 
 1. Click **the Windows logo** , type**orientation** and click**Change screen orientation** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc0d68dca7.jpg)
 2. In**Orientation** , select**Landscape** from the drop-down list and click the **Tab** key >**Enter** to save the changes.  
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dc13732354.jpg)
 3. Hopefully you have restored your screen back to normal this time.
@@ -140,15 +141,22 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-virtual-realities-shortcomings/"><u>[New] Exploring Virtual Realities' Shortcomings</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-innovative-listening-techniques-for-students-with-macs/"><u>[Updated] Innovative Listening Techniques for Students with Macs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-navigating-the-complexities-of-ps4-live-streaming-and-recording-for-2024/"><u>[Updated] Navigating the Complexities of PS4 Live Streaming and Recording for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-the-visionary-viewers-verdict-your-channel-vs-contenders-content/"><u>[Updated] The Visionary Viewers' Verdict Your Channel Vs. Contenders’ Content</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-resolving-missing-binkw32dll-errors-successfully/"><u>Comprehensive Guide: Resolving Missing BinkW32.dll Errors Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-how-to-restore-connection-to-a-disconnected-external-hardware-on-windows/"><u>Expert Guide: How to Restore Connection to a Disconnected External Hardware on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-effortlessly-overcoming-the-crimson-screen-dilemma-on-any-system/"><u>Expert Tips: Effortlessly Overcoming the Crimson-Screen Dilemma on Any System</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-learn-efficient-techniques-for-clearing-backdrop-in-figma/"><u>In 2024, Learn Efficient Techniques for Clearing Backdrop In Figma</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-cutting-edge-intel-iris-plus-gpu-drivers-on-windows-11-devices-today/"><u>Install Cutting-Edge Intel Iris Plus GPU Drivers on Windows 11 Devices Today</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-fixing-lack-of-sound-device-detection-in-windows-11/"><u>Step-by-Step Guide: Fixing Lack of Sound Device Detection in Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-echo-enthusiasts-emporium-obtain-and-review-sound-files/"><u>[New] In 2024, Echo Enthusiasts Emporium Obtain & Review Sound Files</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-ultimate-live-band-webcasts/"><u>[New] In 2024, Ultimate Live Band Webcasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-picture-in-progressive-screen-mastery-for-chrome-users-across-platforms/"><u>[New] Picture in Progressive Screen Mastery for Chrome Users Across Platforms</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-dive-deep-into-designing-dynamic-youtube-live-thumbnails/"><u>[Updated] 2024 Approved Dive Deep Into Designing Dynamic YouTube Live Thumbnails</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-techniques-for-youtube-video-format-switching-for-2024/"><u>[Updated] Ultimate Techniques for YouTube Video Format Switching for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-cutting-edge-cost-free-platforms-for-professional-video-editing/"><u>[Updated] Unveiling The Cutting-Edge, Cost-Free Platforms for Professional Video Editing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-poco-c50-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Poco C50 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/breeze-through-updating-windows-with-this-guide-for-error-0x80070652-fixes/"><u>Breeze Through Updating Windows with This Guide for Error 0X80070652 Fixes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/crossing-the-atlantic-of-words/"><u>Crossing the Atlantic of Words</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnose-and-repair-solutions-for-broken-two-finger-navigation-on-your-trackpad/"><u>Diagnose and Repair: Solutions for Broken Two-Finger Navigation on Your Trackpad</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-side-by-side-assembly-version-mismatch-error-on-windows-11/"><u>Fixing the 'Side-by-Side Assembly Version' Mismatch Error on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-correctly-addressing-the-a-disk-read-error-occurred-warning-in-windows-11/"><u>Guide: Correctly Addressing the 'A Disk Read Error Occurred' Warning in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/reduce-high-cpu-impact-from-win11s-wmi-host/"><u>Reduce High CPU Impact From Win11's WMI Host</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-windows-10-update-issue-with-error-code-0xc1900208/"><u>Resolved: Fixing Windows 10 Update Issue with Error Code 0xC1900208</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-wwe-2k-correcting-the-dx11-feature-level-100-issue/"><u>Resolving WWE 2K: Correcting the DX11 Feature Level 10.0 Issue</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-z-fold-5-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy Z Fold 5 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-fixing-windows-1ntegrity-issues-using-sfcdism-tools/"><u>The Ultimate Guide to Fixing Windows 1Ntegrity Issues Using SFC/DISM Tools</u></a></li>
 </ul></div>
 

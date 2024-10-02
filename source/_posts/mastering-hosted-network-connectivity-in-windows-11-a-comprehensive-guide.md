@@ -1,7 +1,7 @@
 ---
 title: Mastering Hosted Network Connectivity in Windows 11 - A Comprehensive Guide
-date: 2024-09-19T19:54:50.750Z
-updated: 2024-09-26T16:17:41.507Z
+date: 2024-10-01T00:11:30.289Z
+updated: 2024-10-01T23:46:53.996Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/b52695e8d8e71746809895655de9f8c6acd7b0659
 
  The following screenshots are from Windows 10\. But you can also follow the steps if you’re having the problem on Windows 7.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check the setting of System Event Notification Service on your computer
 
  You may have the problem due to the incorrect setting of System Event Notification Service.  
@@ -59,21 +52,14 @@ thumbnail: https://thmb.techidaily.com/b52695e8d8e71746809895655de9f8c6acd7b0659
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf596c06c.jpg)
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
@@ -95,19 +81,19 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **netsh winsock reset**
 
  Restart your computer to see if the error has gone. If you still see the error, don’t worry, move onto the next methods.  
  If resetting Winsock worked temporarily, you can move to Fix 5.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your video card driver
 
@@ -128,6 +114,13 @@ Follow these steps to reset your Winsock Catalog:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Uninstall the KB2952664 update
 
  According to many users’ report, this error could be due to the**KB2952664** Windows Update. If none of the methods above helps you, go with the following steps to**uninstall the KB2952664 update** on your computer:
@@ -138,23 +131,24 @@ Follow these steps to reset your Winsock Catalog:
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
-5. Find and right-click the update with KB2952664, then Uninstall.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
+5. Find and right-click the update with KB2952664, then Uninstall.
 
 Restart your computer to see if the error has gone.
 
@@ -173,6 +167,13 @@ Restart your computer to see if the error has gone.
 3. Right-click on it and choose**Disable** . You can also open its file location and delete it permanently.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
 
@@ -198,24 +199,20 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-the-best-budget-friendly-high-fidelity-webm-players/"><u>[New] 2024 Approved The Best Budget-Friendly, High-Fidelity WebM Players</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-virtual-immersion-enhancing-cinematic-experiences/"><u>[New] Virtual Immersion Enhancing Cinematic Experiences</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pro-gopro-filming-techniques-unveiled/"><u>[Updated] Pro-Gopro Filming Techniques Unveiled</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-v27-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo V27 Pro Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-expand-film-length-for-youtube-posting/"><u>2024 Approved Expand Film Length for YouTube Posting</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-unlimited-visual-inspiration-awaits-at-these-top-12-stock-photo-websites/"><u>2024 Approved Unlimited Visual Inspiration Awaits at These Top 12 Stock Photo Websites</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-and-rectifying-windows-steams-error-e84/"><u>Demystifying and Rectifying Windows Steam's Error E84</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-0x80072f8f-on-your-computer-heres-how-you-can-troubleshoot-windows-1110-issues-easily/"><u>Error Code 0X80072F8F on Your Computer? Here's How You Can Troubleshoot Windows 11/10 Issues Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-resolving-network-connection-errors-in-windows-10-and-7-via-ethernet/"><u>Expert Tips for Resolving Network Connection Errors in Windows 10 and 7 via Ethernet</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-cod-ww2-error-4220-issue-for-smoother-gaming-experience/"><u>Fixing the COD: WW2 Error 4220 Issue for Smoother Gaming Experience</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/food-for-the-followers-top-tiktok-cuisine-craze/"><u>Food for the Followers Top TikTok Cuisine Craze</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205070612-hp-laptop-key-issues-fixed-simple-solutions-in-minutes/"><u>HP Laptop Key Issues Fixed - Simple Solutions in Minutes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Nokia 130 Music? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-through-group-policy-adjusting-managed-system-options-in-windows/"><u>Navigating Through Group Policy: Adjusting Managed System Options in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-how-to-enable-your-devices-wireless-connectivity/"><u>Resolving Issues: How to Enable Your Device's Wireless Connectivity</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005757058-resolving-technical-issues-with-yakuza-6-pc-version-no-more-crashes/"><u>Resolving Technical Issues with Yakuza 6 PC Version - No More Crashes!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-update-error-code-0x8024002e-step-by-step-guide/"><u>Resolving Windows Update Error Code 0X8024002E - Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-keyboard-a-complete-troubleshooting-and-restart-tutorial/"><u>Reviving Your Keyboard: A Complete Troubleshooting and Restart Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-free-guide-to-overcoming-windows-update-error-0x80070astern/"><u>Trouble-Free Guide to Overcoming Windows Update Error 0X80070astern</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nfolding-wonders-your-practical-guide-to-travel-vlogging/"><u>[New] Unfolding Wonders Your Practical Guide to Travel Vlogging</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-from-chaos-to-clarity-professional-tools-for-youtube-cuts/"><u>[Updated] From Chaos to Clarity Professional Tools for Youtube Cuts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-mastering-recording-techniques-with-adobe-presenter/"><u>[Updated] In 2024, Mastering Recording Techniques with Adobe Presenter</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sonic-storytelling-with-soundtracks-in-imovie/"><u>[Updated] Sonic Storytelling with Soundtracks in iMovie</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-transform-overload-into-order-with-skillful-tiktok-saves-edits/"><u>[Updated] Transform Overload Into Order with Skillful TikTok Saves Edits</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-of-the-road-for-error-5-has-occurred-quick-fixes-on-modern-and-legacy-windows-os/"><u>End of the Road for 'Error 5 Has Occurred': Quick Fixes on Modern and Legacy Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-resolution-strategies-for-fixing-error-0x800f081f-when-implementing-net-framework-version-35/"><u>Error Resolution Strategies for Fixing Error 0X800F081F When Implementing .NET Framework Version 3.5</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-leveraging-filters-masks-and-effects-to-elevate-conference-calls/"><u>In 2024, Leveraging Filters, Masks & Effects to Elevate Conference Calls</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-vibing-mix-melodies-into-status-updates/"><u>In 2024, Vibing Mix Melodies Into Status Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-file-explorer-unresponsiveness-on-windows-11-with-easy-fixes/"><u>Overcoming File Explorer Unresponsiveness on Windows 11 with Easy Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-fixing-broken-or-uncooperative-keys-on-your-hp-laptop-easily/"><u>Step-by-Step Guide: Fixing Broken or Uncooperative Keys on Your HP Laptop Easily</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stop-repeated-tunes-mastering-off-mode-for-apple-music/"><u>Stop Repeated Tunes: Mastering Off-Mode for Apple Music</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-unavailable-desktop-issue-within-windows-system-profile-configuration/"><u>Troubleshooting Unavailable Desktop Issue Within Windows System Profile Configuration</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-adobe-premiere-pro-cs6-mac-version-free-download-tutorials-and-resources-for-2024/"><u>Updated Adobe Premiere Pro CS6 Mac Version Free Download, Tutorials, and Resources for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-the-ruby-display-glitch-on-your-windows-11-computer/"><u>Winning Against the Ruby Display Glitch on Your Windows 11 Computer</u></a></li>
 </ul></div>
 

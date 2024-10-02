@@ -1,7 +1,7 @@
 ---
 title: Preventing Unwanted Win11 Restarts
-date: 2024-09-19T21:17:51.293Z
-updated: 2024-09-26T20:58:30.669Z
+date: 2024-09-25T18:29:55.624Z
+updated: 2024-10-02T00:45:39.711Z
 tags:
   - win11
   - win10
@@ -35,10 +35,16 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
    2. If you **can**  print your PDF file in your browser, you need to [**troubleshoot problems with your Acrobat Reader** .](#reader)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -49,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 4. **[Troubleshoot problems with your Acrobat Reader](#reader)**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot problems with your printer
 
@@ -62,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 3. Click**Devices and Printers** in**Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0355fe9f37.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Make sure there is a green ✔ mark with your printer, which means it’s set to default.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f0361852b11.jpg)  
@@ -90,19 +103,6 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update**  next to your flagged printer driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/printer-driver-9015.png)
 4. Restart your computer and try to print your PDF file in Adobe to see if successful.
 
@@ -110,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Repair or recreate your PDF file
 
@@ -138,6 +131,13 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 **c)** Using the**Save as…** feature in Acrobat Reader: Click **File** \> **Save as…**  , save your PDF file directly to your hard drive.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03fccde7ab.png)
 2. Double-click the new PDF file on your hard drive and then try to print it to see if successful.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -167,10 +167,16 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Option 2 – Manually
@@ -184,6 +190,13 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-cmd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
 
@@ -229,13 +242,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Restart your PC after repairing the corrupt files and test your printer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Troubleshoot problems with your Acrobat Reader
 
  If something corrupt happens to your Acrobat Reader or if the software is of an old version, you can’t use it to print your PDF file, either. Troubleshoot the problem with your Acrobat Reader:
@@ -244,14 +250,15 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 2. Open your PDF file in Acrobat Reader and try to print it to see if successful. If a simple restart cannot solve your problem, reinstall your Acrobat Reader with the latest version with the following steps.
 3. Type features in the search box from Start. Then click Apps & features.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f03ff1ce57c.png)
 4. Find your Acrobat Reader, then Uninstall.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f040401a2b4.jpg)
-5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Go to the official Adobe website, download, and the latest version of Acrobat Reader on your computer.
 
 6. Open your PDF file using the new Acrobat Reader. Then try to print it to see if successful.
 
@@ -276,22 +283,18 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-best-practices-for-exporting-youtube-videos-to-facebook/"><u>[New] 2024 Approved Best Practices for Exporting YouTube Videos to Facebook</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-scaling-up-on-igtv-through-powerful-hash-tagging/"><u>[New] Scaling Up on IGTV Through Powerful Hash Tagging</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-streamlining-your-instagram-archive-with-ease-for-2024/"><u>[New] Streamlining Your Instagram Archive with Ease for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-sources-for-pixel-ringtone-downloads/"><u>Best Sources for Pixel Ringtone Downloads</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-csgo-crashes-with-easy-fixes-get-back-to-gameplay-instantly/"><u>Bypassing CS:GO Crashes with Easy Fixes – Get Back to Gameplay Instantly</u></a></li>
-<li><a href="https://common-error.techidaily.com/cutting-out-unwanted-wake-events/"><u>Cutting Out Unwanted Wake Events</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723004275276-defeat-the-game-crashing-issue-in-call-of-duty-warzone-error-6328-with-our-expert-advice/"><u>Defeat the Game-Crashing Issue in Call of Duty: Warzone (Error 6328) with Our Expert Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/elevate-your-systems-efficiency-quick-fix-for-excessive-cpu-usage-by-shell-infrastructures/"><u>Elevate Your System's Efficiency – Quick Fix for Excessive CPU Usage by Shell Infrastructures!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-dolby-home-theater-not-working-issue-in-windows-11/"><u>Fix Dolby Home Theater Not Working Issue in Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-usb-connections-on-windows-11-computers/"><u>How to Fix Unresponsive USB Connections on Windows 11 Computers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-y02t-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo Y02T Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-to-connect-a-non-responsive-xbox-one-controller/"><u>Step-by-Step Tutorial to Connect a Non-Responsive Xbox One Controller</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/toms-computing-hub-dive-into-world-class-tech-reviews/"><u>Tom's Computing Hub: Dive Into World-Class Tech Reviews</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-8-solutions-to-resolve-windows-10-update-error-0x800f0922/"><u>Top 8 Solutions to Resolve Windows 10 Update Error 0X800f0922</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-group-policy-a-look-at-windows-admin-setup/"><u>Understanding Group Policy: A Look at Windows Admin Setup</u></a></li>
-<li><a href="https://app-tips.techidaily.com/windows-11-support-ending-soon-discover-your-5-last-options-with-expert-insights-from-zdnet/"><u>Windows 11 Support Ending Soon? Discover Your 5 Last Options with Expert Insights From ZDNet</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-dive-into-color-management-with-ae-luts/"><u>[New] In 2024, Dive Into Color Management with AE LUTs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-essential-steps-for-recording-captivate-videos/"><u>[New] In 2024, Essential Steps for Recording Captivate Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitglimpse-peek-into-viral-video-landscape/"><u>[Updated] 2024 Approved TwitGlimpse Peek Into Viral Video Landscape</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-discover-the-most-popular-vr-cycling-worlds/"><u>[Updated] Discover the Most Popular VR Cycling Worlds</u></a></li>
+<li><a href="https://common-error.techidaily.com/battle-tested-solutions-to-overcome-wwe-2ks-feature-level-10-error-in-dx11-environments/"><u>Battle-Tested Solutions to Overcome WWE 2K's Feature Level 10 Error in DX11 Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-broken-or-corrupted-file-structures-in-windows-11/"><u>Comprehensive Fixes for Broken or Corrupted File Structures in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-of-brother-hl-l2340dw-printer-drivers-on-your-windows-computer/"><u>Easy Installation of Brother HL-L2340DW Printer Drivers on Your Windows Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205128970-how-to-fix-lenovo-mouse-pad-issues-on-windows-11-8-and-7-solutions-included/"><u>How to Fix Lenovo Mouse Pad Issues on Windows 11, 8 & 7 - Solutions Included</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211027005-how-to-prevent-auto-sleep-on-pc-or-laptop-easy-steps-inside/"><u>How to Prevent Auto-Sleep on PC or Laptop - Easy Steps Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-with-creating-directx-devices-on-your-system/"><u>Resolved: Issue with Creating DirectX Devices on Your System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/these-9-fake-chatgpt-virus-and-malware-apps-can-steal-your-data/"><u>These 9 Fake ChatGPT Virus and Malware Apps Can Steal Your Data</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-zte-axon-40-lite-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-missing-device-drivers-warnings-in-windows-7-setup-guide/"><u>Troubleshooting the Missing Device Drivers Warnings in Windows 7 Setup [Guide]</u></a></li>
 </ul></div>
 

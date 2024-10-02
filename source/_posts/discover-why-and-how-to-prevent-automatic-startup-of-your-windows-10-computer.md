@@ -1,7 +1,7 @@
 ---
 title: Discover Why and How to Prevent Automatic Startup of Your Windows 10 Computer
-date: 2024-09-14T19:19:59.496Z
-updated: 2024-09-20T16:58:30.125Z
+date: 2024-09-29T20:15:06.876Z
+updated: 2024-10-01T19:00:43.329Z
 tags:
   - win11
   - win10
@@ -51,9 +51,29 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -64,6 +84,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
@@ -84,10 +112,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Restart** .
@@ -99,10 +127,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
@@ -114,13 +142,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -143,5 +164,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-apex-storage-wizards-best-of-android-cloud-for-2024/"><u>[New] Apex Storage Wizards Best of Android Cloud for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-perfecting-phone-screenshots-with-snapchat-for-2024/"><u>[New] Perfecting Phone Screenshots with Snapchat for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-restore-classic-photo-viewing-experience-on-modern-windows-11/"><u>[New] Restore Classic Photo Viewing Experience on Modern Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/50-best-free-photography-tools-for-the-web/"><u>50 Best Free Photography Tools for the Web</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mod-movavi/"><u>網路無須付金 MOD 更新 - MOVAVI</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-12-pro-max-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-devices-fail-to-sync-on-windows-11/"><u>Effective Fixes for When Your Devices Fail to Sync on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhanced-local-safeguards-activated-for-improved-security-measures/"><u>Enhanced Local Safeguards Activated for Improved Security Measures</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-movement-in-frozen-mouse-buttons-and-scroll-wheel/"><u>Expert Tips to Restore Movement in Frozen Mouse Buttons and Scroll Wheel</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-class-not-registered-errors-on-windows-11-solved/"><u>How to Fix 'Class Not Registered' Errors on Windows 11 – Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-non-responsive-lenovo-mouse-pads-in-different-versions-of-windows-operating-system/"><u>How to Repair Non-Responsive Lenovo Mouse Pads in Different Versions of Windows Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-hp-wireless-keyboard-malfunctions-quickly-and-easily/"><u>How to Resolve HP Wireless Keyboard Malfunctions Quickly and Easily</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-samsung-galaxy-f04-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-zte-axon-40-lite-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass ZTE Axon 40 Lite FRP Without Computer</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-art-of-sound-in-visual-storytelling-on-instagram/"><u>In 2024, The Art of Sound in Visual Storytelling on Instagram</u></a></li>
+<li><a href="https://common-error.techidaily.com/program-lockdown/"><u>Program Lockdown</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205992205-troubleshooting-guide-for-non-working-mic-on-steelseries-arctis-5-a-step-by-step-solution/"><u>Troubleshooting Guide for Non-Working Mic on SteelSeries Arctis 5: A Step-by-Step Solution!</u></a></li>
+</ul></div>
 

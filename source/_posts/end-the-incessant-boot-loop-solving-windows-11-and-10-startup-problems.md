@@ -1,7 +1,7 @@
 ---
 title: End the Incessant Boot Loop - Solving Windows 11 and 10 Startup Problems
-date: 2024-09-25T21:11:08.514Z
-updated: 2024-09-26T20:58:33.316Z
+date: 2024-09-27T16:19:16.378Z
+updated: 2024-10-01T22:50:19.458Z
 tags:
   - win11
   - win10
@@ -65,10 +65,10 @@ If you’re a laptop user, you could follow these steps:
  If the keys are still not working, you could move to[Fix 2](#f2) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check for hardware issues
@@ -80,13 +80,6 @@ If you’re a laptop user, you could follow these steps:
  If cleaning the keyboard didn’t work for you, you need to[boot to BIOS](https://tools.techidaily.com/drivereasy/download/) .  
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -117,16 +110,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -143,17 +137,25 @@ OR
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
 
@@ -182,19 +184,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ncluding-youtube-playlist-content-a-step-by-step-tutorial/"><u>[New] Including YouTube Playlist Content A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfect-shots-no-hassle-leading-smartphone-tripods/"><u>[New] Perfect Shots, No Hassle Leading Smartphone Tripods</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-stand-out-on-youtube-innovative-title-brainstroms/"><u>[New] Stand Out on YouTube Innovative Title Brainstroms</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-finest-open-world-games-to-engage-with-for-2024/"><u>[New] The Finest Open World Games to Engage With for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-windows-11-game-snapshots-top-5-capture-strategies-for-2024/"><u>[New] Windows 11 Game Snapshots Top 5 Capture Strategies for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-crafting-engaging-visuals-after-effects-best-10-text-plans/"><u>[Updated] Crafting Engaging Visuals After Effect's Best 10 Text Plans</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-decoding-the-copyright-code-for-insta-musicians-for-2024/"><u>[Updated] Decoding the Copyright Code for Insta Musicians for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-swipe-up-for-a-dose-of-self-reflection-curated-instagramcaptions/"><u>[Updated] Swipe up for a Dose of Self-Reflection - Curated #InstagramCaptions</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-guide-diagnosing-and-fixing-hardware-abstraction-layer-hal-malfunctions-on-windows-11-systems/"><u>Comprehensive Guide: Diagnosing and Fixing Hardware Abstraction Layer (HAL) Malfunctions on Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-container-object-enumeration-failure-on-windows-10-complete-guide/"><u>How to Fix 'Container Object Enumeration Failure' On Windows 10 - Complete Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-mystery-resolve-device-descriptor-request-failed-on-your-usb/"><u>Solving the Mystery: Resolve Device Descriptor Request Failed on Your USB</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-your-lenovo-mouse-pad-compatibility-with-windows-operating-systems-1187/"><u>Troubleshoot Your Lenovo Mouse Pad Compatibility with Windows Operating Systems (11/8/7)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-dhcp-server-is-unreachable/"><u>Troubleshooting Steps When DHCP Server Is Unreachable</u></a></li>
-<li><a href="https://common-error.techidaily.com/wind-down-your-win11-achieve-sleep-mode/"><u>Wind Down Your Win11: Achieve Sleep Mode</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-apeak-captures-attention-an-in-depth-screen-recorder-examination-for-2024/"><u>[New] Apeak Captures Attention An In-Depth Screen Recorder Examination for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-smooth-sailing-with-kinemaster-in-film-edits/"><u>[New] Smooth Sailing with Kinemaster in Film Edits</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-microphone-not-working-on-windows-11/"><u>[Solved] Microphone Not Working on Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-proiphone-close-ups-techniques-for-captivating-images/"><u>[Updated] Proiphone Close-Ups Techniques for Captivating Images</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/brother-hl-l2380dw-printer-essential-software-and-drivers-download-guide-for-windows-pcs/"><u>Brother HL-L2380DW Printer: Essential Software & Drivers Download Guide for Windows PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-self-questions-to-assess-ev-purchase-readiness/"><u>Essential Self-Questions to Assess EV Purchase Readiness</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-netflix-error-how-to-turn-off-unblockers-for-smooth-streaming/"><u>Fixing Netflix Error: How to Turn Off Unblockers for Smooth Streaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-assemble-ppt-narratives-into-video/"><u>In 2024, Assemble PPT Narratives Into Video</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-windows-eboot-your-systems-performance-tackling-the-problem-of-microsoft-compatibility-telemetry-overusing-disk-resources/"><u>Optimizing Windows Eboot Your System's Performance: Tackling the Problem of Microsoft Compatibility Telemetry Overusing Disk Resources</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-laptop-trackpad-malfunctions-for-windows-1187-users-with-these-simple-steps/"><u>Solve Laptop Trackpad Malfunctions for Windows 11/8/7 Users with These Simple Steps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-7-solutions-how-to-resolve-twitch-stream-load-failures/"><u>Top 7 Solutions: How to Resolve Twitch Stream Load Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-graphics-card-with-no-alpha-blending-support/"><u>Troubleshooting Guide for Graphics Card with No Alpha Blending Support</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-error-1053-how-to-ensure-services-start-promptly/"><u>Troubleshooting Steps for Error 1053: How to Ensure Services Start Promptly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-resource-finding-and-downloading-an-xbox-360-gamepad-driver-compatible-with-pcs/"><u>Ultimate Resource: Finding and Downloading an Xbox 360 Gamepad Driver Compatible with PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208356444-unlocking-screen-mirroring-on-your-device-upgraded-graphics-drivers-make-it-possible/"><u>Unlocking Screen Mirroring on Your Device: Upgraded Graphics Drivers Make It Possible!</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-configuration-stuck-heres-how-you-can-fix-it-effectively/"><u>Windows Configuration Stuck? Here's How You Can Fix It Effectively!</u></a></li>
 </ul></div>
 

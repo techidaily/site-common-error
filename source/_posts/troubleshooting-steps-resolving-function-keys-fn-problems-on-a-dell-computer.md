@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving Function Keys (FN) Problems on a Dell Computer"
-date: 2024-09-20T22:14:24.128Z
-updated: 2024-09-26T21:40:59.219Z
+date: 2024-09-29T01:37:11.342Z
+updated: 2024-10-01T21:15:27.686Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/usb-g6d352e3ca_640.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Try turning on your computer again.
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
  If your computer boots correctly, that means that one of the peripherals you removed is causing your problem. You should **reinstall each device** back into your computer and test them each time. Then, you’ll find the specific device that causes your problem. Replace the device once you’ve identified it. Or, consult the manufacturer of the device for assistance.
 
 If your computer still can’t boot correctly, try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 2: Check the RAM
 
@@ -79,18 +72,18 @@ RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Put your RAMs back into the slot one by one while trying to boot each time.
 
  If your computer starts without one or more of the RAMs, then it could be an issue with your RAM modules. Or in some cases, it is possible that your RAM module is fine, but one or more memory slots on your motherboard are defective. You may want to try removing the modules and placing them in different slots to find if one of the slots is faulty.
 
  If your computer still can’t boot properly, don’t worry. Check the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Reset BIOS Settings
 
@@ -108,19 +101,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Wait for 5 minutes, and then reinstall your CMOS battery.
 
 5) Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
@@ -137,20 +117,27 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-11-44.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Open System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-12-28.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Choose a different restore point** , and click**Next** to select a restore point before the issue occurs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-13-05.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Follow the on-screen instructions to finish the restore.
 
@@ -191,15 +178,22 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-28-48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Type **SFC /Scannow** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-29-41.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Type **DISM /Online /Cleanup-Image /RestoreHealth** , and then press **Enter** .
 
@@ -226,16 +220,17 @@ The CMOS battery looks like this
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-prime-iosandroid-apps-for-stunning-image-edits-list-of-top-10/"><u>[New] In 2024, Prime iOS/Android Apps for Stunning Image Edits - List of Top 10</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-perfectly-inserting-songs-on-instagram-stories-for-2024/"><u>[New] Step-by-Step Perfectly Inserting Songs on Instagram Stories for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-black-screen-on-startup-in-monster-hunter-world/"><u>[Solved] Black Screen on Startup in Monster Hunter: World</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-depth-guide-to-streaming-and-recording-webcasts-professionally/"><u>[Updated] In-Depth Guide to Streaming and Recording Webcasts Professionally</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-whats-new-in-youtube-tv-updates-and-features-in-2024/"><u>[Updated] What's New in YouTube TV Updates & Features, In 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-issues-with-computer-and-headphone-connection-problems/"><u>Fixing Issues with Computer and Headphone Connection Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-11-audio-issues-when-no-output-device-is-recognized/"><u>Fixing Windows 11 Audio Issues – When No Output Device Is Recognized</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-turn-off-mouse-acceleration-solved/"><u>How to Turn Off Mouse Acceleration [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202167542-speedy-remedies-for-out-of-memory-crashes-in-red-dead-redemption-2-adjust-and-overcome/"><u>Speedy Remedies for Out of Memory Crashes in Red Dead Redemption 2 – Adjust and Overcome</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-punpixel-the-ultimate-tool-for-digital-humor/"><u>[New] PunPixel The Ultimate Tool for Digital Humor</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-tips-for-extending-instagram-videos-beyond-limits-for-2024/"><u>[Updated] Tips for Extending Instagram Videos Beyond Limits for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-repairing-the-absence-of-dbghelpdll-in-windows-systems/"><u>Diagnosing and Repairing the Absence of Dbghelp.dll in Windows Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-adapting-your-tech-skills-for-facetime-call-logging/"><u>In 2024, Adapting Your Tech Skills for FaceTime Call Logging</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-dreamlight-valley-errors-on-your-computer-with-these-6-quick-fixes/"><u>Overcome Dreamlight Valley Errors on Your Computer with These 6 Quick Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-failed-windows-updates-quickly-and-easily/"><u>Resolved: How to Fix Failed Windows Updates Quickly and Easily</u></a></li>
+<li><a href="https://extra-support.techidaily.com/securing-sound-speed-increase-in-the-digital-world-of-spotify-for-2024/"><u>Securing Sound Speed Increase in the Digital World of Spotify for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-when-file-explorer-wont-respond-in-windows-11/"><u>Step-by-Step Solutions for When File Explorer Won't Respond in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-copypaste-malfunctions-on-your-windows-11-pc/"><u>Troubleshooting 'Copy/Paste' Malfunctions on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-correct-battleye-service-install-failure/"><u>Troubleshooting Steps to Correct BattlEye Service Install Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208620608-troubleshooting-iphone-stuck-on-charged-but-wont-charge-solutions-inside/"><u>Troubleshooting: IPhone Stuck on 'Charged' But Won't Charge – Solutions Inside!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unbeatable-free-game-video-editing-solutions/"><u>Updated 2024 Approved Unbeatable Free Game Video Editing Solutions</u></a></li>
 </ul></div>
 

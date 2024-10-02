@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Repairing Damaged Windows OS Files in Version 10 & 11"
-date: 2024-09-23T20:41:12.033Z
-updated: 2024-09-26T16:21:41.727Z
+date: 2024-09-25T03:52:34.882Z
+updated: 2024-10-01T19:27:48.817Z
 tags:
   - win11
   - win10
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
 
 ``
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
 ``
@@ -82,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `` Click **Yes**  when prompted by User Account Control.
@@ -112,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
@@ -126,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
@@ -137,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -150,10 +157,10 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
 ``
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
@@ -161,13 +168,6 @@ thumbnail: https://thmb.techidaily.com/622d9fe73f7f1e73d5569e41ea521313a670d1c14
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -232,15 +232,16 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-elite-templates-for-premiere-pro-free/"><u>[New] In 2024, Elite Templates for Premiere Pro - FREE</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-infinite-loading-screen-on-valorant-a-guide-to-getting-you-back-into-action/"><u>[Solved] Infinite Loading Screen on Valorant: A Guide to Getting You Back Into Action</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-fb-livestream-success-on-television-four-pathways-for-2024/"><u>[Updated] FB Livestream Success on Television Four Pathways for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-soundcheck-evaluation/"><u>2024 Approved SoundCheck Evaluation</u></a></li>
-<li><a href="https://common-error.techidaily.com/activating-bluetooth-on-a-windows-7-machine-a-comprehensive-tutorial/"><u>Activating Bluetooth on a Windows 7 Machine - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/all-systems-checked-yet-one-component-idles/"><u>All Systems Checked, Yet One Component Idles</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-overcoming-driverpowerstatefailure-errors/"><u>Effective Solutions for Overcoming DRIVER_POWER_STATE_FAILURE Errors</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/guide-to-instantly-installing-hp-envy-n-5660-printingscanning-drivers/"><u>Guide to Instantly Installing HP Envy N 5660 Printing/Scanning Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-jabra-earphone-problems-effective-solutions-and-troubleshooting-techniques/"><u>Overcome Jabra Earphone Problems : Effective Solutions and Troubleshooting Techniques</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-top-5th-fastest-processor-in-global-rankings-time-spy-extreme-benchmark-reveals-ryzen-9-9950xs-speed-propelled-by-water-cooling-technology/"><u>Unveiling the Top 5Th Fastest Processor in Global Rankings: Time Spy Extreme Benchmark Reveals Ryzen 9 9950X's Speed Propelled By Water Cooling Technology</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-quick-start-guide-dells-simple-screen-recording-methods/"><u>[New] Quick Start Guide Dell's Simple Screen Recording Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-usb-connection-errors-and-device-descriptor-issues/"><u>Expert Advice: Overcoming USB Connection Errors and Device Descriptor Issues</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-s18-pro-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo S18 Pro FRP Bypass</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-poco-x6-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Poco X6 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-error-code-0x800705b4-on-windows-update-for-windows-11-users/"><u>Resolving the 'Error Code 0X800705b4' On Windows Update for Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-disappearance-of-bluetooth-devices-from-computer-settings/"><u>Resolving the Disappearance of Bluetooth Devices From Computer Settings</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-implemented-fixing-the-stopped-working-print-driver-host-for-32-bit-applications/"><u>Solution Implemented: Fixing the Stopped Working 'Print Driver Host for 32 Bit Applications'</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-kids-camera-companion-for-aquatic-exploration/"><u>Ultimate Kids' Camera Companion for Aquatic Exploration</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlock-free-youtube-introend-customization/"><u>Unlock Free YouTube Intro/End Customization</u></a></li>
 </ul></div>
 

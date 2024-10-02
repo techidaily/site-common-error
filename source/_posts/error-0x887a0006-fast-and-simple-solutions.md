@@ -1,7 +1,7 @@
 ---
 title: Error 0X887A0006 - Fast & Simple Solutions
-date: 2024-09-24T17:50:57.219Z
-updated: 2024-09-26T19:32:50.681Z
+date: 2024-09-27T02:17:19.326Z
+updated: 2024-10-01T23:33:40.091Z
 tags:
   - win11
   - win10
@@ -65,13 +65,6 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
@@ -92,32 +85,47 @@ If this issue persists, don’t worry. Try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
@@ -130,19 +138,28 @@ If this issue persists, don’t worry. Try the next fix, below.
 2. View the Control Panel by **Large icons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
-6. Modify the settings the same way you see in the screenshot below.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
+6. Modify the settings the same way you see in the screenshot below.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
@@ -172,10 +189,10 @@ If this issue persists, don’t worry. Try the next fix, below.
 4. Save the file as_fix.reg_ to the desktop. Please make sure you select the Save type as “**All Files** ” and the encoding as “**ANSI** “. Then close Notepad.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/save-as-fix-reg.png)
@@ -184,6 +201,13 @@ If this issue persists, don’t worry. Try the next fix, below.
 6. Click**OK** when Windows tells you the keys and values have been successfully added to the registry.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor-2.png)
 7. Launch the problematic application again to see if this fix works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this fix doesn’t work, or if you want to undo the change in the registry, do as follows:
 
@@ -195,13 +219,6 @@ If this issue persists, don’t worry. Try the next fix, below.
 
 If this fix doesn’t work for you, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Perform a Windows update
 
  Microsoft releases Windows updates to fix bugs and improve system performance. This error message may appear due to the bugs in the Windows operating system, so you can try installing the latest Windows updates to see if you can fix this issue. Here is how to do it:
@@ -212,10 +229,10 @@ If this fix doesn’t work for you, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See if Error 0x887A0006 reappears after you installed the latest Windows update. If this issue persists, try the next fix, below.
@@ -229,13 +246,6 @@ If this fix doesn’t work for you, try the next fix, below.
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
@@ -275,16 +285,16 @@ If this fix doesn’t work for you, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-guide-to-automated-mac-lecture-recording-for-2024/"><u>[New] The Ultimate Guide to Automated Mac Lecture Recording for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-top-5-underwater-gopro-accessories/"><u>[New] Top 5 Underwater Gopro Accessories</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-recording-wonders-the-best-screenshot-tools/"><u>[Updated] Recording Wonders The Best Screenshot Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/emoji-insights-that-will-blow-your-mind-a-list-of-10-unexpected-facts/"><u>Emoji Insights That Will Blow Your Mind: A List of 10 Unexpected Facts</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-kernel32dll-error-woe/"><u>Fixing the Kernel32.dll Error Woe</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guide-effortlessly-downloading-and-converting-vimeo-content-for-dvd-creation/"><u>Guide: Effortlessly Downloading & Converting Vimeo Content for DVD Creation</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-repairing-bluetooth-detection-errors-in-windows-10-operating-system/"><u>Guide: Repairing Bluetooth Detection Errors in Windows 10 Operating System</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-11-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 11?</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-errors-with-microsofts-print-to-pdf-service-on-windows-11-systems/"><u>Overcoming Errors with Microsoft's Print to PDF Service on Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-fixing-insufficient-memory-errors-in-windows-10-systems/"><u>Step-by-Step Solution for Fixing 'Insufficient Memory' Errors in Windows 10 Systems</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-14-pro-without-passcode-easily-by-drfone-ios/"><u>Unlock iPhone 14 Pro Without Passcode Easily</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-how-to-download-part-of-a-youtube-videos-for-2024/"><u>[New] How to Download Part of a YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-become-a-short-form-video-star-with-these-10-proven-methods/"><u>[Updated] Become a Short-Form Video Star with These 10 Proven Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-proactive-measures-for-managing-comments-on-educational-videos/"><u>[Updated] Proactive Measures for Managing Comments on Educational Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-potential-of-drone-footage-through-editing/"><u>2024 Approved Unlocking the Potential of Drone Footage Through Editing</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/elevating-the-profile-game-top-strategies-for-compelling-social-media-profiles-for-2024/"><u>Elevating the Profile Game Top Strategies for Compelling Social Media Profiles for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-unresponsive-left-click-on-computer-mice/"><u>Expert Tips for Fixing Unresponsive Left Click on Computer Mice</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-features-of-linksys-max-stream-ac1900-the-all-inclusive-home-wifi-solution/"><u>Exploring the Features of Linksys Max-Stream AC1900: The All-Inclusive Home WiFi Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-red-screen-errors-on-windows-10-a-simple-fix-guide/"><u>Resolve Your Red Screen Errors on Windows 10 - A Simple Fix Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-endless-startup-cycle-issue-in-windows-1110-devices/"><u>Resolving the Endless Startup Cycle Issue in Windows 11/10 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-persistent-loading-screens-in-your-skyrim-adventure/"><u>Step-by-Step Fix for Persistent Loading Screens in Your Skyrim Adventure</u></a></li>
 </ul></div>
 

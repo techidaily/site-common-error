@@ -1,7 +1,7 @@
 ---
 title: Tips for Successfully Restarting a Computer Stuck on Boot Sequence
-date: 2024-09-21T18:28:49.036Z
-updated: 2024-09-26T17:20:30.432Z
+date: 2024-09-25T04:05:28.649Z
+updated: 2024-10-02T01:39:06.150Z
 tags:
   - win11
   - win10
@@ -60,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 4. Repeat the same to remove the driver for your other display card if you have one.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
@@ -94,6 +87,14 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -103,10 +104,10 @@ To do so, first visit the website of your GPU manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Check USB peripherals
@@ -123,17 +124,26 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-14.png)
 5. Right-click one of the grey-out devices you see here and select**Uninstall.**  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-15.png)
 6. Click**Uninstall** to confirm.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-16.png)
 7. Repeat the same to remove all the other grey-out devices you see here.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Restart your computer afterward.
 9. Then plug the USB devices back into your computer one by one, preferably into the USB outputs on your computer rather than USB hubs or docks.
 10. Pay extra attention to any computer glitches you notice with your computer after plugging each USB device back in.
@@ -144,13 +154,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Make sure the PSU works well for your machine
 
  The LiveKernelEvent with code 144 error can sometimes relate to your insufficient power supply for all your hardware components, especially when the LiveKernelEvent 144 is seen after your computer shuts down unexpectedly or freezes whenever you’re running resource-hungry programs.
@@ -158,6 +161,13 @@ To do so, first visit the website of your GPU manufacturer:
  Here’s[**a post from Dell**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fkbdoc%2Fen-us%2F000125185%2Fhow-to-troubleshoot-the-power-supply-unit-psu-of-a-dell-desktop-computer) with more information about the power supply if you’re interested in knowing more and seeing how you can test your PSU.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update your computer BIOS and system firmware
 
@@ -178,20 +188,13 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -201,6 +204,13 @@ To do so, first visit the website of your GPU manufacturer:
  Then see if the LiveKernelEvent 144 error happens again. If so, please move further.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Consider a system reinstall
 
@@ -213,13 +223,6 @@ To do so, first visit the website of your GPU manufacturer:
 Then see if the LiveKernelEvent 144 error is still seen.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Seek help from a hardware technician
 
@@ -248,21 +251,21 @@ Then see if the LiveKernelEvent 144 error is still seen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-cutting-edge-content-the-ultimate-guide-to-tiktok-editing/"><u>[Updated] 2024 Approved Cutting-Edge Content The Ultimate Guide to TikTok Editing</u></a></li>
-<li><a href="https://common-error.techidaily.com/a-majority-of-respondents-say-global-equities-are-now-overbought-and-could-be-vulnerable-to-a-correction-in-coming-months-as-investors-begin-to-price-in-the92/"><u>A Majority of Respondents Say Global Equities Are Now Overbought and Could Be Vulnerable to a Correction in Coming Months as Investors Begin to Price in the Risk of Higher Inflation and Interest Rates.</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-hacks-to-combat-minecraft-lag-and-enhance-gaming-experience/"><u>Expert Hacks to Combat Minecraft Lag and Enhance Gaming Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-a-stubborn-failed-to-update-warframe-issue/"><u>How to Resolve a Stubborn 'Failed to Update Warframe' Issue</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-blaze-2-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Blaze 2 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-itel-p40plus-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Itel P40+ Device SIM</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Mega Mewtwo The Strongest Pokémon On Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-pick-skype-recorders-of-the-year/"><u>In 2024, The Ultimate Pick Skype Recorders of the Year</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-lava-blaze-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Lava Blaze Pro 5G FRP Bypass</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-narzo-n53-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme Narzo N53 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-zoom-meetings-effectively-utilizing-whiteboard-on-various-devices/"><u>In 2024, Zoom Meetings Effectively Utilizing Whiteboard on Various Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-security-error-messages-during-firefox-login-attempts/"><u>Overcoming Security Error Messages During Firefox Login Attempts</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-the-system-can-not-access-the-specified-device-path-or-file-on-windows/"><u>Resolved: How to Fix 'The System Can Not Access the Specified Device Path or File' On Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-no-audio-output-installation-issue-on-windows-10-and-11/"><u>Resolving the 'No Audio Output' Installation Issue on Windows 10 & 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secure-shopping-guide-ensuring-your-online-purchases-are-protected/"><u>Secure Shopping Guide: Ensuring Your Online Purchases Are Protected</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-hp-laptop-usb-connectivity-fixes-and-solutions/"><u>Troubleshooting HP Laptop USB Connectivity: Fixes & Solutions!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-smile-sob-and-snicker-with-these-ig-meme-masters-of-humor/"><u>[New] In 2024, Smile, Sob and Snicker with These IG Meme Masters of Humor</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-keyboard-wont-connect-here-are-the-steps-to-get-it-working-with-your-pc-again/"><u>Bluetooth Keyboard Won't Connect? Here Are the Steps to Get It Working with Your PC Again!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-fixes-for-when-your-discord-voice-connectivity-fails/"><u>Essential Fixes for When Your Discord Voice Connectivity Fails</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-no-audio-on-windows-7-step-by-step-solutions-for-better-sound-quality/"><u>Fixing No Audio on Windows 7 – Step by Step Solutions for Better Sound Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-annoying-screen-tremble-on-your-windows-11-pc/"><u>Fixing the Annoying Screen Tremble on Your Windows 11 PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-cast-a-zoom-meeting-to-your-tv/"><u>How to Cast a Zoom Meeting to Your TV</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-broken-speaker-controls-in-windows-10-step-by-step-fixes/"><u>How to Repair Broken Speaker Controls in Windows 10 - Step by Step Fixes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y27-4g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y27 4G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-how-to-turn-mundane-games-into-epic-scenes/"><u>In 2024, How to Turn Mundane Games Into Epic Scenes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-12-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 12 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-zte-nubia-flip-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your ZTE Nubia Flip 5G Phone Network-Ready</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212249865-missing-vital-media-driver-find-and-install-the-necessary-components-now/"><u>Missing Vital Media Driver? Find and Install the Necessary Components Now!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-oneplus-12-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from OnePlus 12</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-of-dysfunctional-usb-ports-on-your-windows-device-windows-1011/"><u>Solving the Issue of Dysfunctional USB Ports on Your Windows Device (Windows 10/11)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-excessive-cpu-consumption-by-iastordatasvc-on-your-windows-10-machine-fixed/"><u>Troubleshooting Excessive CPU Consumption by IAStorDataSvc on Your Windows 10 Machine [Fixed]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-limitless-creativity-with-free-after-effects-samples-for-2024/"><u>Unlock Limitless Creativity with Free After Effects Samples for 2024</u></a></li>
 </ul></div>
 

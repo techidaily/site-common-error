@@ -1,7 +1,7 @@
 ---
 title: Fixing the Problem of Failure During DirectX Hardware Setup
-date: 2024-09-15T16:50:03.139Z
-updated: 2024-09-20T16:29:36.384Z
+date: 2024-09-26T19:55:53.335Z
+updated: 2024-10-01T19:08:02.641Z
 tags:
   - win11
   - win10
@@ -73,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d02155
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Check if your card reader is disabled
 
  If you’ve tried methods 1 and 2, and your PC still isn’t recognizing your SD card, it’s possible your card reader is turned off in your BIOS.
@@ -81,9 +88,23 @@ thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d02155
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a051c4cb26bf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Likewise all manufacturers organize their BIOS settings their own way; there’s no standard way of doing it. So we can’t tell you exactly what setting to change, and how to find that setting. But once you’re in the BIOS, it shouldn’t be too hard to find the ‘on/off’ switch for your card reader. Just look for a section related to devices or storage, and within that section look for something like “SD Reader” or “Card Reader”. Enable that setting if it’s not already enabled, then save and exit the BIOS. (Be sure to save as you exit. Some manufacturers make it very easy to leave the BIOS without saving your changes, and if you do, you won’t have changed anything.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a051c7dcd812.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once your computer has restarted and you’ve logged into Windows, test your card again. If it’s still not recognized, move onto[Method 4](https://pish-posh-baby.sjv.io/g1jg15) .
 
@@ -117,38 +138,24 @@ If you’re not sure how to do that, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-11-run-command-device-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Expand category “**Memory Technology Devices** “. Double-click the card reader (In Alan’s case, it’s RealteK PCIE CardaReader. In your case, it may be different.) to open
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37954379bfc.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Go to**Driver** tab. Click**Disable Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3795ccae49c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) When prompted to disable the device, click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3798a978d8d.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Double-click the card reader to open the Properties windows. Click**Enable Device** to re-enable the device.
 
@@ -171,5 +178,24 @@ If you’re not sure how to do that, refer steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/levating-youtube-consumption-strategies-for-organizing-videos-for-future-viewing/"><u>[New] Elevating YouTube Consumption Strategies for Organizing Videos for Future Viewing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-expert-guide-to-color-correction-implementing-luts-within-ae-projects-for-2024/"><u>[New] Expert Guide to Color Correction Implementing LUTs Within AE Projects for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-seamless-transition-of-video-files-to-facebook-for-pcandroid-for-2024/"><u>[New] Seamless Transition of Video Files to Facebook for PC/Android for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/darkened-display-sudden-blackout/"><u>Darkened Display: Sudden Blackout</u></a></li>
+<li><a href="https://common-error.techidaily.com/effectively-reducing-msmpengexes-impact-on-your-computers-processor-windows-10-solutions/"><u>Effectively Reducing MsMpEng.exe’s Impact on Your Computer's Processor - Windows 10 Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-restoring-the-alt-plus-tab-command-in-windows-and-macos/"><u>Expert Solutions: Restoring the Alt + Tab Command in Windows and MacOS</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-only-one-side-of-your-headphones-working-on-windows/"><u>How to Fix Only One Side of Your Headphones Working on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-motorola-moto-g13-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Motorola Moto G13 by Name | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-from-analog-to-digital-safeguarding-older-photographic-memories/"><u>In 2024, From Analog to Digital Safeguarding Older Photographic Memories</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-fix-for-class-not-registered-problem-in-windows-11-effective-solutions-await/"><u>Master the Fix for 'Class Not Registered' Problem in Windows 11 - Effective Solutions Await</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210785502-prognostic-factors-such-as-age-performance-status-and-comorbid-conditions-also-impact-treatment-decisions-and-outcomes/"><u>Prognostic Factors Such as Age, Performance Status, and Comorbid Conditions Also Impact Treatment Decisions and Outcomes.</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208982281-ret-proto-oncogene-rearrangements-play-a-significant-role-in-the-development-of-medullary-thyroid-cancer-and-have-therapeutic-implications/"><u>RET Proto-Oncogene Rearrangements Play a Significant Role in the Development of Medullary Thyroid Cancer and Have Therapeutic Implications.</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/solving-the-starfield-high-cpu-consumption-problem-top-strategies-of-2024/"><u>Solving the Starfield High CPU Consumption Problem: Top Strategies of 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restore-lost-devices-in-overwatch-quick-resolution-tips/"><u>Step-by-Step Guide to Restore Lost Devices in Overwatch - Quick Resolution Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-reducing-svchostexe-cpu-impact-on-your-windows-10-pc/"><u>Step-by-Step Tutorial: Reducing svchost.exe CPU Impact on Your Windows 10 PC</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-18-video-editing-tools-for-gaming-footage-simplify-and-enhance-your-gameplay-clips/"><u>Top 18 Video Editing Tools for Gaming Footage: Simplify and Enhance Your Gameplay Clips</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+</ul></div>
 

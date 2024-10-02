@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving the 'Windows Failed to Start' Problem"
-date: 2024-09-24T20:32:29.129Z
-updated: 2024-09-26T22:03:23.244Z
+date: 2024-09-26T02:06:33.102Z
+updated: 2024-10-02T02:04:37.509Z
 tags:
   - win11
   - win10
@@ -52,29 +52,31 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf596c06c.jpg)
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Reset your Winsock Catalog
 
@@ -94,10 +96,10 @@ Follow these steps to reset your Winsock Catalog:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your video card driver
@@ -113,33 +115,19 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c1c42f3f2.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Uninstall the KB2952664 update
 
@@ -151,12 +139,27 @@ Follow these steps to reset your Winsock Catalog:
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
 
 Restart your computer to see if the error has gone.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Remove klhkum.dll
 
@@ -196,18 +199,22 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-access-unlimited-ringtones-our-top-4-online-spots/"><u>[Updated] Access Unlimited Ringtones Our Top 4 Online Spots</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-quantifiable-quirks-yearly-graphed-tidbits-from-yt-2017/"><u>[Updated] In 2024, Quantifiable Quirks Yearly Graphed Tidbits From YT (2017)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-tier-strategies-mastering-screens-with-adobe-captivate-for-2024/"><u>[Updated] Top-Tier Strategies Mastering Screens with Adobe Captivate for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-video-ranking-rise-must-have-youtube-seo-aids-for-2024/"><u>[Updated] Video Ranking Rise – Must-Have YouTube SEO Aids for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-1603-decoded-strategies-for-a-successful-software-installation-fix/"><u>Error 1603 Decoded: Strategies for a Successful Software Installation Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-1067-explained-steps-to-prevent-unexpected-windows-process-terminations/"><u>Error Code 1067 Explained: Steps to Prevent Unexpected Windows Process Terminations</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-errors-successfully-installing-hp-deskjet-d1360-printer-drivers-on-windows-788110/"><u>Fixing Errors: Successfully Installing HP Deskjet D1360 Printer Drivers on Windows 7/8/8.1/10</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-huion-stylus-up-and-running-again-top-5-fixes/"><u>Get Your Huion Stylus Up and Running Again - Top 5 Fixes!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-v30-lite-5g-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo V30 Lite 5G FRP Bypass</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-guide-to-best-uhd-video-players-free-and-versatile-for-pcandmac/"><u>In 2024, Exclusive Guide to Best UHD Video Players (Free & Versatile) for PC&Mac</u></a></li>
-<li><a href="https://tools.techidaily.com/programino/products/"><u>Programino's Products</u></a></li>
-<li><a href="https://common-error.techidaily.com/xbox-ones-joystick-pc-compatibility-triumph/"><u>Xbox One's Joystick: PC Compatibility Triumph</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lut-lovers-delight-complimentary-sets-for-djis-miniair2/"><u>[Updated] LUT Lovers Delight Complimentary Sets for DJI's Mini/Air2</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-skyrocket-your-channel-navigating-through-youtube-stats/"><u>[Updated] Skyrocket Your Channel Navigating Through YouTube Stats</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/breaking-up-with-facebook-a-comprehensive-malwarefox-method-for-a-clean-break/"><u>Breaking Up With Facebook: A Comprehensive MalwareFox Method for a Clean Break</u></a></li>
+<li><a href="https://common-error.techidaily.com/cyclic-redundancy-check-explained-how-to-overcome-and-prevent-common-errors/"><u>Cyclic Redundancy Check Explained: How to Overcome and Prevent Common Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x8024200d-on-windows-a-complete-guide-to-understanding-and-solving-update-failures/"><u>Error 0X8024200D on Windows - A Complete Guide to Understanding and Solving Update Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/geforce-experience-restored-successful-retrieval-of-preferences-and-customization-options/"><u>GeForce Experience Restored - Successful Retrieval of Preferences and Customization Options</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-beat-blast-innovative-audio/"><u>In 2024, Beat Blast Innovative Audio</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/leveraging-facebook-for-professional-engagement-and-growth/"><u>Leveraging Facebook for Professional Engagement & Growth</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-call-of-duty-ww2-in-depth-analysis-and-fixes-for-error-4220/"><u>Mastering Call of Duty WW2: In-Depth Analysis and Fixes for Error 4220</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-frozen-file-explorer-issue-on-windows-10-with-these-simple-steps/"><u>Resolve Your Frozen File Explorer Issue on Windows 10 with These Simple Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revelations-on-elon-musks-ai-endeavor-the-mystery-behind-truthgpt/"><u>Revelations on Elon Musk’s AI Endeavor – The Mystery Behind TruthGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-overcome-bluetooth-pairing-hurdles-on-windows-11-updated/"><u>Step-by-Step Solutions: Overcome Bluetooth Pairing Hurdles on Windows 11 - Updated</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-guide-to-speaking-and-visualizing-in-powerpoint-for-2024/"><u>The Ultimate Guide to Speaking & Visualizing in PowerPoint for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-minecraft-instability-from-incompatible-video-card-drivers-in-windows/"><u>Troubleshooting and Solving Minecraft Instability From Incompatible Video Card Drivers in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-issues-with-your-hp-laptop-webcam-on-windows-10/"><u>Troubleshooting Tips: Resolving Issues with Your HP Laptop Webcam on Windows 10</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-step-by-step-tutorial-secretly-block-or-unblock-contacts-in-whatsapp/"><u>Ultimate Step-by-Step Tutorial: Secretly Block or Unblock Contacts in WhatsApp</u></a></li>
 </ul></div>
 

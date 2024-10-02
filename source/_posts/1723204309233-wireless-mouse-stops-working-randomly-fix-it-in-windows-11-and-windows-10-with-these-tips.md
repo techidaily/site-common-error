@@ -1,7 +1,7 @@
 ---
 title: Wireless Mouse Stops Working Randomly? Fix It in Windows 11 and Windows 10 With These Tips
-date: 2024-09-23T16:41:21.523Z
-updated: 2024-09-26T18:13:03.316Z
+date: 2024-09-25T00:18:42.177Z
+updated: 2024-10-02T01:30:44.168Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 
  Before you get started to fix the mouse problem, it is a wise choice to check your wireless mouse first.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Check the power of the wireless mouse
 
  When the battery is emptied, your mouse will randomly stop moving. Therefore, you have to check the power of the mouse. For battery-powered wireless mouse, you can just replace the batteries and check if it works. Or if you use a rechargeable wireless mouse, charge it and check if it works.
@@ -70,12 +63,32 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 6. **[Fix missing or corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Fix unknown hard errors](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Change USB port
 
  Your wireless mouse may come with a USB receiver. Generally, you can plug the USB receiver into a USB port on your PC and then your mouse can work. If your USB receiver is plugged into a USB port but it does not work, it may be due to the USB port. You can just try another USB port.
 
 1. Unplug the USB receiver from your PC.
 2. Plug the USB receiver into another USB port and see if it works.
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Add a Bluetooth device
 
@@ -104,23 +117,16 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 3. You can choose to update the driver with a FREE version. Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or you can click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-52-26.jpg)
 
  After updating your device drivers, see if your mouse problem has been solved. If not, move to the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Disable the Realtek HD Audio Manager
 
@@ -134,14 +140,22 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
  Right-click**Realtek High Definition Audio** and then select**Disable device.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-38-50.jpg)
 4. Click**Yes** in the dialog box that pops up.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-21_11-05-01.jpg)
 5. After disabling**Realtek High Definition Audio,** you can check if your mouse works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5: Disable disappearing cursor feature
@@ -152,42 +166,29 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-21_11-22-30.jpg)
 2. The window below will pop up. Click**Hardware and Sound** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-42-08.jpg)
 3. Click**Mouse** below the**Devices and Printers** .  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-44-09.jpg)
 4. The**Mouse Properties** dialog box will open. Click the**Pointer Options** tab on the upper side of the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-46-17.jpg)
 5. Uncheck the box next to the**Hide pointer while typing** and click the**OK** button.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-21_11-47-57-1.jpg)
-6. Restart your PC and see if your mouse works.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
+<span id="1993654">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-21_11-47-57-1.jpg)
+6. Restart your PC and see if your mouse works.
 
 ### Method 6: Fix missing or corrupt system files
 
@@ -200,6 +201,13 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 3. In the black window that pops up, type**sfc/scannow** (you can just copy and paste it) and then press**Enter** . It will take some time to scan system files. For corrupted system files, it will repair them.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-23_19-16-39-1.jpg)
 4. After that, you can see if your mouse works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 7: Fix unknown hard errors
 
@@ -216,10 +224,10 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-13_13-41-31-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It might take some time to check the hard disk. If you don’t have time to wait for the disk check to complete in your next reboot, you can skip it and reschedule it again.
@@ -241,18 +249,18 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-10-must-have-drone-accessories-and-parts/"><u>[New] 10 Must Have Drone Accessories and Parts</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-from-novice-to-pro-how-to-optimize-your-onestream-livestream/"><u>[New] In 2024, From Novice to Pro How to Optimize Your OneStream Livestream</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unlocking-tv-potential-with-social-medias-facebook-live-streams/"><u>[New] In 2024, Unlocking TV Potential with Social Media's Facebook Live Streams</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-discovering-metaverse-8-premium-vr-eyewear-selections/"><u>[Updated] 2024 Approved Discovering Metaverse 8 Premium VR Eyewear Selections</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-unresponsive-buttons-on-lenovo-devices/"><u>Diagnosing and Repairing Unresponsive Buttons on Lenovo Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exploring-vivas-video-experience/"><u>Exploring Viva's Video Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-windows-printer-driver-issues-and-ensure-smooth-operation/"><u>How to Overcome Windows Printer Driver Issues and Ensure Smooth Operation</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-imovie-soundscapes-enrich-your-visual-symphony/"><u>In 2024, IMovie Soundscapes Enrich Your Visual Symphony</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/in-depth-analysis-and-review-why-recuva-remains-the-king-of-data-recovery/"><u>In-Depth Analysis and Review: Why Recuva Remains the King of Data Recovery</u></a></li>
-<li><a href="https://common-error.techidaily.com/preventing-unexpected-restarts-on-windows-11-a-comprehensive-guide/"><u>Preventing Unexpected Restarts on Windows 11 – A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-device-connection-errors-with-ease-understanding-and-fixing-code-0xc0000098-on-windows-os/"><u>Resolve Device Connection Errors with Ease: Understanding and Fixing Code 0Xc0000098 on Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-an-unresponsive-aoc-display-unit-on-a-windows-10-computer/"><u>Reviving an Unresponsive AOC Display Unit on a Windows 10 Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/small-cell-lung-cancer-sclc-tends-to-be-more-aggressive-with-poorer-outcomes-compared-to-nsclcs/"><u>Small Cell Lung Cancer (SCLC) Tends to Be More Aggressive with Poorer Outcomes Compared to NSCLCs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-experience-voice-transformation-list-of-the-best-android-recording-change-apps-for-2024/"><u>[New] Experience Voice Transformation List of the Best Android Recording Change Apps for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-10-remarkable-e-learning-platforms-excluding-udemy-for-2024/"><u>[Updated] Top 10 Remarkable E-Learning Platforms Excluding Udemy for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-to-the-windows-pre-configuration-deadlock-problem/"><u>Comprehensive Fixes to the Windows Pre-Configuration Deadlock Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-speakers-working-again-resolving-audio-problems-in-windows-7/"><u>Get Your Speakers Working Again: Resolving Audio Problems in Windows 7</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-itel-s23-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Itel S23 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-samsung-galaxy-m14-4g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Samsung Galaxy M14 4G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/oddworld-soulstorm-not-working-on-windows-heres-the-fix/"><u>Oddworld Soulstorm Not Working on Windows? Here's the Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/random-key-errors/"><u>Random Key Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-steps-for-a-computer-that-cant-turn-off-in-windows-10/"><u>Resolved: Troubleshooting Steps for a Computer That Can't Turn Off in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-application-boot-issues-overcoming-error-code-0xc00n000007b/"><u>Troubleshooting Application Boot Issues: Overcoming Error Code 0Xc00n000007b</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-12-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Xiaomi Redmi 12 won't play MOV videos, how to fix ?</u></a></li>
 </ul></div>
 

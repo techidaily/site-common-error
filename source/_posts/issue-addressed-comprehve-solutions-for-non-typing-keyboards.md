@@ -1,7 +1,7 @@
 ---
 title: "Issue Addressed: Comprehve Solutions for Non-Typing Keyboards"
-date: 2024-09-20T00:01:15.343Z
-updated: 2024-09-26T22:58:03.494Z
+date: 2024-09-24T17:05:41.867Z
+updated: 2024-10-01T17:46:45.304Z
 tags:
   - win11
   - win10
@@ -39,10 +39,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Corsair_K100_Gaming_Keyboard_16.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Unplug your keyboard from your computer.
@@ -53,13 +53,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 #### Wireless keyboard
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/WeChat7a797c10615ac4351f0fb3895da7d65e.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Turn off your keyboard.
 2. Press and hold the**ESC** key.
@@ -78,19 +71,20 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/DE-scan-rtx-3090-driver-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update and configure the iCUE software
 
@@ -102,18 +96,18 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/icue-setting.jpg)  
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -137,24 +131,20 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-chromesnap-tracker-os-level-recording-for-2024/"><u>[New] ChromeSnap Tracker OS Level Recording for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-techs-leading-edge-in-video-capturing-software/"><u>[New] Tech's Leading Edge in Video Capturing Software</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-how-to-start-your-vlog-and-make-money-from-it/"><u>[Updated] 2024 Approved How to Start Your Vlog and Make Money From It</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-mastering-tiktok-a-mac-users-quickstart-list/"><u>[Updated] 2024 Approved Mastering TikTok A Mac User's Quickstart List</u></a></li>
-<li><a href="https://network-issues.techidaily.com/atheros-qca61x4-driver-enhancement-in-windows-11-by-qualcomm/"><u>Atheros QCA61x4 Driver Enhancement in Windows 11 by Qualcomm</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fixes-dealing-with-internet-explorer-has-been-forced-to-close-alert/"><u>Comprehensive Fixes: Dealing With 'Internet Explorer Has Been Forced to Close' Alert</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211422533-conquer-the-update-challenge-strategies-to-resolve-windows-11s-error-0x800f0922-quickly/"><u>Conquer the Update Challenge: Strategies to Resolve Windows 11'S Error 0X800f0922 Quickly</u></a></li>
-<li><a href="https://video-capture.techidaily.com/control-your-content-easy-instructions-for-activatingdeactivating-youtubes-restricted-mode/"><u>Control Your Content: Easy Instructions for Activating/Deactivating YouTube's Restricted Mode</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-apex-legends-cheating-detected-mistake-with-simple-steps/"><u>How to Fix Apex Legends Cheating Detected Mistake with Simple Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-audio-playback-errors-from-youtube-on-windows-11-devices/"><u>How to Fix Audio Playback Errors From YouTube on Windows 11 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-your-oddworld-soulstorm-game-from-crashing-on-windows-machines/"><u>How to Stop Your Oddworld: Soulstorm Game From Crashing on Windows Machines</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-f14-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy F14 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/love-around-the-globe-multilingual-expressions-for-valentines-day/"><u>Love Around The Globe: Multilingual Expressions for Valentine's Day</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-solutions-restoring-audio-on-your-astro-a50-headphones/"><u>Quick Solutions: Restoring Audio on Your Astro A50 Headphones</u></a></li>
-<li><a href="https://win-online.techidaily.com/quick-tips-successfully-watching-mkv-files-on-sony-smart-televisions/"><u>Quick Tips: Successfully Watching MKV Files on Sony Smart Televisions</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-elevated-cpu-consumption-caused-by-wudfhostexe-on-windows-10/"><u>Resolving Elevated CPU Consumption Caused by wudfhost.exe on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-mystery-of-error-code-0x80004005-a-comprehensive-guide/"><u>Resolving the Mystery of Error Code 0X80004005: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-correcting-the-driverpowerstatefailure-mishap/"><u>Troubleshooting Tips: Correcting the DRIVER_POWER_STATE_FAILURE Mishap</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-restoring-visibility-on-a-black-screened-windows-11-computer/"><u>Troubleshooting Tips: Restoring Visibility on a Black-Screened Windows 11 Computer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-elevating-your-docu-script-professional-tips-and-tricks/"><u>[New] 2024 Approved Elevating Your Docu-Script Professional Tips and Tricks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-simply-your-way-of-capturing-igtv-on-devices/"><u>[New] In 2024, Simply Your Way of Capturing IGTV on Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-crafting-the-perfect-mc-homestead-layout/"><u>[Updated] In 2024, Crafting the Perfect MC Homestead Layout</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-for-fixing-unspecified-module-errors-on-pcmac/"><u>Easy Solutions for Fixing Unspecified Module Errors on PC/Mac</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-word-2019-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a Word 2019 electronically</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-error-code-31-in-windows/"><u>How to Fix Error Code 31 in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-media-disconnected-in-windows/"><u>How to Fix Media Disconnected in Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-innovative-ways-for-sound-capture-in-modern-windows-11-pcs/"><u>In 2024, Explore Innovative Ways for Sound Capture in Modern Windows 11 PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-poco-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Poco Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-why-is-my-usb-to-hdmi-adaptor-not-working/"><u>Mastering the Fix: Why Is My USB to HDMI Adaptor Not Working?</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-troubleshoot-your-non-functional-steelseries-arctis-er-audio-device/"><u>Solved! How to Troubleshoot Your Non-Functional SteelSeries Arctis Er Audio Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-boot-problems-on-your-windows-11-system/"><u>Troubleshooting Persistent Boot Problems on Your Windows 11 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-error-code-0xc1900208-on-your-windows-10-system-resolved/"><u>Troubleshooting Tips for Fixing Error Code 0xC1900208 on Your Windows 10 System [RESOLVED]</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-unleash-your-creativity-the-best-time-lapse-video-editing-software/"><u>Updated Unleash Your Creativity The Best Time-Lapse Video Editing Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Keyboard Backlit? Diagnosing and Repairing on Mac/Windows Systems
-date: 2024-09-18T16:57:34.997Z
-updated: 2024-09-20T18:03:05.661Z
+date: 2024-09-27T20:07:41.015Z
+updated: 2024-10-01T22:06:32.199Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Disable Exclusive Mode and change the sound format**
 
  Having**Exclusive Mode** on means the specific app will take full control while in use so that other apps cannot play audio through the device. But the feature can sometimes interfere with the audio driver, hence the**crackles in speakers** problem. To disable**Exclusive Mode** :
@@ -51,7 +58,21 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -71,13 +92,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust **the minimum processor state**
 
  Adjusting**the minimum processor state** , as reported by many users, is another effective way to fix the annoying sound problem in our speaker. To do so:
@@ -89,16 +103,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 3. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
 ---
@@ -121,5 +143,21 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-cutting-edge-techniques-for-captivate-content/"><u>[New] Cutting-Edge Techniques for Captivate Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-12-best-tycoon-games-guaranteed-to-hook-you/"><u>[Updated] 2024 Approved Top 12 Best Tycoon Games Guaranteed to Hook You</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlocking-instagrams-hidden-filter-tools/"><u>[Updated] 2024 Approved Unlocking Instagram's Hidden Filter Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-awakens-effortless-fixes-to-reignite-sounds-in-windows-11/"><u>Audio Awakens: Effortless Fixes to Reignite Sounds in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-ways-to-restore-volume-control-on-your-windows-11-pc-expert-tips/"><u>Effective Ways to Restore Volume Control on Your Windows 11 PC - Expert Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-your-playstation-4s-microphone-functionality/"><u>Expert Tips for Restoring Your PlayStation 4'S Microphone Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-surface-device-troubleshooting-non-charging-issues/"><u>Fixing Surface Device: Troubleshooting Non-Charging Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-windows-10-installation-error-code-80240020-a-step-by-step-guide/"><u>How to Fix the 'Windows 10 Installation Error (Code 80240020)' - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-when-your-backspace-isnt-responding-correctly/"><u>How to Fix When Your 'Backspace' Isn't Responding Correctly</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-a24-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy A24 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-novice-to-vlogger-professional-video-making-on-mobile-devices/"><u>In 2024, From Novice to Vlogger Professional Video Making on Mobile Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-vivo-y78-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Vivo Y78 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimize-msmpengexe-for-better-performance-reduce-high-cpu-consumption-in-windows-11-solution-guide/"><u>Optimize MsMpEng.exe for Better Performance: Reduce High CPU Consumption in Windows 11 [SOLUTION GUIDE]</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-strengths-a-review-on-kensuns-resilient-and-easy-to-carry-portable-air-pump/"><u>Unveiling the Strengths: A Review on Kensun's Resilient and Easy-to-Carry Portable Air Pump</u></a></li>
+</ul></div>
 

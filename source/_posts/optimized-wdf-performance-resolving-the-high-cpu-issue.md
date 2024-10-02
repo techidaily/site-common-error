@@ -1,7 +1,7 @@
 ---
 title: "Optimized WDF Performance: Resolving the 'High CPU' Issue"
-date: 2024-09-18T19:19:59.656Z
-updated: 2024-09-20T19:40:31.785Z
+date: 2024-09-25T03:12:33.618Z
+updated: 2024-10-02T00:43:49.890Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ So don’t give up hope. There is something you can do to fix it.
 2. [Create a new user profile](https://tools.techidaily.com/drivereasy/download/)
 3. [Disable SSL scanning in your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run a virus scan
 
  The ‘SEC\_ERROR\_UNKNOWN\_ISSUER’ error message may appear if a virus on your computer is preventing the certificate from being detected. The virus may even be generating the error itself.
@@ -49,13 +56,6 @@ So don’t give up hope. There is something you can do to fix it.
  If any malware has been detected, follow the instructions provided by the antivirus program to fix it.
 
  Then restart your computer and try to open the website again to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Create a new user profile
 
@@ -72,15 +72,16 @@ To do so, follow the steps below:
 4. **Firefox – Choose User Profile** will pop up. Click**Create Profile** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12020cdc034.png)
 5. Follow the on-screen instructions to finish the process.
-6. Re-launch Firefox and log in your new user profile.
-7. Open the website again to see if your problem has been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6. Re-launch Firefox and log in your new user profile.
+7. Open the website again to see if your problem has been fixed.
 
 ### Fix 3: Disable SSL scanning in your antivirus software
 
@@ -92,19 +93,27 @@ To do so, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200fecc285.jpg)
 2. Click**Components** on the left, and click**Customize** in the**Web Shield** section.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200c760b7e.jpg)
 3. Uncheck the box next to**Enable HTTPS scanning** in the pop-up window. Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12013f88f23.jpg)
 4. Click**OK** again to save your changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12019e3eba4.jpg)
 5. Re-open Firefox, and open the website again to see if it works now.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  So that’s it. Hope this post helps in resolving the error**SEC\_ERROR\_UNKNOWN\_ISSUER** .
 
@@ -126,5 +135,18 @@ To do so, follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-build-a-custom-facebook-coverage-for-2024/"><u>[New] Build a Custom Facebook Coverage for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-easy-extraction-top-10-youtube-text-grabber-apps-reviewed-for-2024/"><u>[New] Easy Extraction Top 10 YouTube Text Grabber Apps Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-harnessing-youtube-and-fb-techniques-for-maximum-engagement/"><u>[Updated] In 2024, Harnessing YouTube & FB Techniques for Maximum Engagement</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-fixing-windows-10-update-issue-with-error-0x80070541/"><u>Comprehensive Guide: Fixing Windows 10 Update Issue with Error 0X80070541</u></a></li>
+<li><a href="https://common-error.techidaily.com/correcting-common-keyboard-mistakes-for-better-typing-accuracy/"><u>Correcting Common Keyboard Mistakes for Better Typing Accuracy</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/enhance-your-speaking-skills-no-expense-just-free-tools-for-2024/"><u>Enhance Your Speaking Skills – No Expense, Just Free Tools for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-malfunctioning-keyboard-before-logging-into-windows/"><u>How to Fix a Malfunctioning Keyboard Before Logging Into Windows</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-locking-out-youtube-channels-on-computers-and-phones/"><u>In 2024, Locking Out Youtube Channels on Computers and Phones</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-avi-file-editing-easy-ways-to-trim-cut-and-split-videos-2023-update/"><u>Mastering AVI File Editing Easy Ways to Trim, Cut, and Split Videos (2023 Update)</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209799322-non-specific-symptoms-like-cough-and-weight-loss-are-common-in-lung-cancer-but-not-diagnostic-on-their-own/"><u>Non-Specific Symptoms Like Cough and Weight Loss Are Common in Lung Cancer but Not Diagnostic on Their Own</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-driver-failure-correcting-set-user-settings/"><u>Resolving 'Driver Failure' - Correcting Set User Settings</u></a></li>
+</ul></div>
 

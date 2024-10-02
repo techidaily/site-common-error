@@ -1,7 +1,7 @@
 ---
 title: Resolving the Red Screen Error on Your Windows 11 PC
-date: 2024-09-22T17:38:26.801Z
-updated: 2024-09-26T22:26:33.460Z
+date: 2024-09-28T23:25:28.065Z
+updated: 2024-10-02T03:56:12.091Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/984111cded778af58487bf4d0a9e7e12742129a74
 
  _Error Code**0xc0000098**_  o_n Windows 10, 8, 8.1_
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Below you will get to know all possible fixes to solve your boot error 0xc0000098\. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -53,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/984111cded778af58487bf4d0a9e7e12742129a74
 6. **[Perform a clean install of Windows](#f5)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Rebuild BCD manually
@@ -81,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/984111cded778af58487bf4d0a9e7e12742129a74
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Create-instalaltion-media-USB-flash-driveor-CD-DVD.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Select the language, edition, and architecture (64-bit or 32-bit) for the Windows system.
 
  6) Choose your preferred media. If you choose a USB flash drive, make sure you have a blank USB flash drive with at least 8GB of space.
@@ -104,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/984111cded778af58487bf4d0a9e7e12742129a74
 
 **Note:** The key to access BIOS can vary from**Esc** ,**Delete** to**F2** ,**F8** ,**F12** , depending on your manufacturer and computer model.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/keyboard-bios-keys.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Once in BIOS, go to the**Boot** sector and set**Removable Devices** or**CD-Rom Drive** as the first boot device.
 
@@ -182,10 +175,10 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 2) Wait for the scan to finish.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Use a Windows Fortect Tool
@@ -198,18 +191,18 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean install of Windows
 
@@ -245,6 +238,13 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-driver.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In Device Manager, right-click your device and select**Update Driver** then choose search automatically.
 
 ##### 3\. Download from the manufacturer’s website
@@ -267,16 +267,16 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all essential and peripheral drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get**full support** and a no-questions-asked**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note: You can do it for free if you like, but it’s partly manual.
 
@@ -302,21 +302,22 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/solved-alt-tab-not-working/"><u>[Solved] Alt Tab Not Working</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-converting-your-clips-upload-to-youtube-via-premiere/"><u>[Updated] Converting Your Clips Upload to YouTube Via Premiere</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-exclusive-farewell-to-game-costs/"><u>[Updated] Exclusive Farewell to Game Costs</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-pcs-gateway-to-the-past-selecting-top-5-ps1-game-emulators/"><u>[Updated] In 2024, PC's Gateway to the Past - Selecting Top 5 PS1 Game Emulators</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-screen-capture-without-a-penny-the-top-apps-reviewed-for-2024/"><u>[Updated] Screen Capture Without a Penny The Top Apps Reviewed for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-microsofts-print-to-pdf-not-working-on-windows-11/"><u>Effective Solutions for Microsoft’s Print to PDF Not Working on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-common-problems-with-your-lenovo-keyboard-not-working/"><u>Expert Advice: Overcoming Common Problems with Your Lenovo Keyboard Not Working</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722061075882-explore-these-6-no-cost-substitutes-for-openai-sora-start-today/"><u>Explore These 6 No-Cost Substitutes for OpenAI Sora - Start Today!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-ctrlplusaltplusdel-issues-ultimate-guide-to-restoring-functionality/"><u>Fixing Ctrl+Alt+Del Issues: Ultimate Guide to Restoring Functionality</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-latest-dell-wireless-networking-software-on-windows-7/"><u>Get Your Latest Dell Wireless Networking Software on Windows 7</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-tecno-camon-20-pro-5g-by-drfone-android/"><u>How to Bypass FRP from Tecno Camon 20 Pro 5G?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-the-video-not-detected-problem-on-your-screen-a-detailed-walkthrough/"><u>How to Resolve the 'Video Not Detected' Problem on Your Screen - A Detailed Walkthrough</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-fix-handling-and-repairing-hamachi-errors-effectively/"><u>Master the Fix: Handling and Repairing Hamachi Errors Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-rdr2-out-of-memory-error-with-this-simple-step-expand-your-page-file/"><u>Overcome 'RDR2 Out Of Memory' Error with This Simple Step – Expand Your Page File</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/reactivate-your-mouses-right-click-solutions-for-windows-11-users/"><u>Reactivate Your Mouse's Right Click: Solutions for Windows 11 Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-whatsapp-why-arent-your-chats-syncing-with-icloud-and-what-you-can-do/"><u>Troubleshooting WhatsApp: Why Aren't Your Chats Syncing with iCloud and What You Can Do</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-obs-mic-not-working-6-best-solutions-2024/"><u>[FIXED] OBS Mic Not Working | 6 Best Solutions 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-from-fuzzy-frames-to-sharpness-the-v22-journey/"><u>[New] 2024 Approved From Fuzzy Frames to Sharpness - The V2.2 Journey</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-instagrams-soundscape-feature/"><u>[New] Unlocking Instagram’s Soundscape Feature</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-best-matched-sd-cards-to-boost-your-gopro-heros-performance/"><u>[Updated] Best Matched SD Cards to Boost Your GoPro HERO's Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-ways-to-restore-mic-functionality-on-your-steelseries-arctis-5-headset/"><u>Effective Ways to Restore Mic Functionality on Your SteelSeries Arctis 5 Headset</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-non-working-subtitles-on-amazon-prime-a-step-by-step-tutorial/"><u>Fixing Non-Working Subtitles on Amazon Prime - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-forum.techidaily.com/getting-started-with-your-revo-app-manager-activation-process-explained/"><u>Getting Started with Your Revo App Manager - Activation Process Explained</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-a14-4g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy A14 4G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimized-wdf-usage-reduced-cpu-load-solutions/"><u>Optimized WDF Usage: Reduced CPU Load Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-guide-easy-ways-to-overcome-steams-write-disc-error/"><u>Quick Guide: Easy Ways to Overcome Steam's Write Disc Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-the-functionality-of-your-windows-11-start-menu-expert-advice/"><u>Restoring the Functionality of Your Windows 11 Start Menu: Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-strategies-for-winning-over-trustedinstaller-and-editing-files/"><u>Step-by-Step Strategies for Winning Over TrustedInstaller and Editing Files</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-cumuluspro-standing-mat-for-optimal-support-at-your-desk/"><u>The Ultimate Guide to the CumulusPRO Standing Mat for Optimal Support at Your Desk</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-speeding-up-your-computers-startup-process/"><u>Troubleshooting Tips for Speeding Up Your Computer's Startup Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/urgent-fix-required-enable-local-authorization-defenses-now/"><u>Urgent Fix Required: Enable Local Authorization Defenses Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-and-acer-unite-keyboard-woes-solved/"><u>Windows and Acer Unite: Keyboard Woes Solved</u></a></li>
 </ul></div>
 

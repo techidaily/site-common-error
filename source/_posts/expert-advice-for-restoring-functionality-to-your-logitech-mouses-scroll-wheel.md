@@ -1,7 +1,7 @@
 ---
 title: Expert Advice for Restoring Functionality to Your Logitech Mouse's Scroll Wheel
-date: 2024-09-19T18:28:52.028Z
-updated: 2024-09-20T18:42:07.345Z
+date: 2024-09-30T17:32:31.694Z
+updated: 2024-10-01T19:13:13.606Z
 tags:
   - win11
   - win10
@@ -47,11 +47,25 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -71,18 +85,18 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -103,10 +117,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -128,6 +142,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -143,19 +164,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -189,5 +197,21 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-illuminate-a-guide-to-great-vlog-images/"><u>[New] 2024 Approved How to Illuminate A Guide to Great Vlog Images</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-effortless-audio-extraction-best-youtube-to-mp3-tools-list/"><u>[Updated] 2024 Approved Effortless Audio Extraction Best YouTube to MP3 Tools List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-brightening-filmmaking-ranking-the-17-best-lights/"><u>[Updated] In 2024, Brightening Filmmaking Ranking the 17 Best Lights</u></a></li>
+<li><a href="https://common-error.techidaily.com/compatibility-checklist-verify-your-system-has-a-d3d11-ready-graphics-unit-for-optimal-performance/"><u>Compatibility Checklist: Verify Your System Has a D3D11-Ready Graphics Unit for Optimal Performance</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/crafting-impressive-videos-with-the-best-methods-for-obs-studio/"><u>Crafting Impressive Videos with the Best Methods for OBS Studio</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-common-elevation-errors-during-operation-requests-in-windows-operating-systems/"><u>Fix Common Elevation Errors During Operation Requests in Windows Operating Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-how-to-monitor-cell-numbers-safely-and-within-legal-boundaries/"><u>Guide: How to Monitor Cell Numbers Safely & Within Legal Boundaries</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-missing-desktop-for-system-account-on-windows-config/"><u>How To Restore Missing Desktop for System Account on Windows Config</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209060932-hp-laptop-keyboard-malfunction-heres-how-to-fix-it-quickly/"><u>HP Laptop Keyboard Malfunction? Here's How to Fix It Quickly!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/seamless-screenshot-synergy-for-pc-users/"><u>Seamless Screenshot Synergy for PC Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/stepwise-approach-to-snagging-youtube-playlists-efficiently-for-2024/"><u>Stepwise Approach to Snagging YouTube Playlists Efficiently for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/trier-votre-video-mov-au-format-webm-sans-cout-tapez-les-facilement-avec-moovavi/"><u>Trier Votre Vidéo MOV Au Format WebM Sans Coût - Tapez-Les Facilement Avec Moovavi!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204368141-troubleshoot-your-way-out-of-windows-10-update-failure-code-0x800f0922-solved/"><u>Troubleshoot Your Way Out of Windows 10 Update Failure: Code 0X800F0922 Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/tutorial-correctly-setting-up-windows-10-configuration-system-to-avoid-failure/"><u>Tutorial: Correctly Setting Up Windows 10 Configuration System to Avoid Failure</u></a></li>
+</ul></div>
 

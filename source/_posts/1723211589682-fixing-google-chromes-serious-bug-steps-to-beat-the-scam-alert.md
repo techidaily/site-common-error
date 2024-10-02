@@ -1,7 +1,7 @@
 ---
 title: "Fixing Google Chrome's Serious Bug: Steps to Beat the Scam Alert!"
-date: 2024-09-19T18:09:28.707Z
-updated: 2024-09-26T23:44:58.149Z
+date: 2024-10-01T03:47:01.346Z
+updated: 2024-10-01T17:29:44.361Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/f946d84f254099655a6b886de29d65e5f587fa0ec
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df7b87cca5.jpg)
 3. In the drop-down menu, click to select **the time range** for the data cache clearing (Last 7 days in my example). Then click **CLEAR DATA** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df83c76d86.jpg)
 4. Run Chrome and hopefully the**Google Chrome not responding** problem has been sorted. If yes, then great! But if the issue persists, you should try**Fix 2** , below.
 
@@ -65,14 +58,22 @@ thumbnail: https://thmb.techidaily.com/f946d84f254099655a6b886de29d65e5f587fa0ec
 2. In the top right, click on **the three vertical dots** button > **More tools** \> **Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432bba1ea5a.jpg)
 3. Toggle off all the extensions on your Chrome.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
 4. **Restart**  your computer and check if**Google Chrome**  now works:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * If Google Chrome does respond after disabling all your add-ons, it’s likely one of your add-ons was the problem. Now you just need to figure out which one. To do this, enable the first add-on in the list, then see if Google Chrome still works. If it doesn’t, then you’ve found the cause of the problem. If Google Chrome works fine after enabling the first add-on, enable the second and test again. Continue testing each add-on in this way until you find the one that stops Internet Explorer from working. Once you find it, disable it again. If you need it, contact the vendor for support.
@@ -81,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/f946d84f254099655a6b886de29d65e5f587fa0ec
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
@@ -101,22 +102,16 @@ thumbnail: https://thmb.techidaily.com/f946d84f254099655a6b886de29d65e5f587fa0ec
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432efcb9088.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b1daa19ee7.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -142,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/f946d84f254099655a6b886de29d65e5f587fa0ec
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4324732913f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Re-launch Google Chrome and check if the **Google Chrome not responding** issue has been fixed. If yes, then great! But if it’s still no joy, please move on to**Fix 5** , below.
 
 ---
@@ -158,13 +160,6 @@ To do so:
 2. In the top right, click on **the three vertical dots** button > **help** \>**About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    * If yes, follow the on-screen instruction to finish the update.  
    * If no, delete Chrome and re-install it on Windows store or other trustworthy third-party website. (**NOTE** : This will erase your Chrome browser settings and data)
@@ -193,19 +188,16 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-optimal-low-price-nintendo-simulations/"><u>[New] 2024 Approved Optimal Low-Price Nintendo Simulations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-autonomous-exposure-control-the-magic-behind-auto-and-smart-hdr/"><u>[New] Autonomous Exposure Control The Magic Behind Auto and Smart HDR</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-high-performance-mac-editors-ranked-1-to-5-for-2024/"><u>[Updated] High-Performance Mac Editors - Ranked #1 to #5 for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-fixing-failed-video-uploads-on-facebook-live-features/"><u>2024 Approved Fixing Failed Video Uploads on Facebook Live Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/cutting-edge-fix-for-windows-1110-audio-service/"><u>Cutting-Edge Fix for Windows 11/10 Audio Service</u></a></li>
-<li><a href="https://win-dash.techidaily.com/essential-konica-minolta-print-driver-software-compatible-with-multiple-windows-os/"><u>Essential Konica Minolta Print Driver Software: Compatible with Multiple Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-device-cant-be-found-during-cast-error-on-windows-11-step-by-step-guide/"><u>Fixing 'Device Can't Be Found During Cast' Error on Windows 11 - Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-repairing-non-responsive-fn-key-issues-in-dell-notebooks-and-desktops/"><u>Guide: Repairing Non-Responsive Fn Key Issues in Dell Notebooks and Desktops</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-realme-gt-3-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Realme GT 3 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-infinix-hot-30i-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Infinix Hot 30i?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-realme-c51-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Realme C51 FRP Bypass Instantly</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-operating-system-couldnt-be-detected-issue-expert-solutions-and-tips/"><u>Resolving the ‘Operating System Couldn’t Be Detected’ Issue: Expert Solutions & Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-with-updating-to-windows-11-v1607-heres-what-you-need-to-know/"><u>Trouble with Updating to Windows 11 v1607? Here's What You Need to Know</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204322401-ultimate-guide-repairing-damaged-registry-and-system-files-in-windows-11/"><u>Ultimate Guide: Repairing Damaged Registry & System Files in Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-obs-and-instagram-integration-the-essential-how-to-manual/"><u>[New] OBS and Instagram Integration The Essential How To Manual</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-streamers-toolkit-beyond-streamlabs-obs/"><u>[New] Streamer's Toolkit Beyond Streamlabs OBS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-components-that-lift-you-in-youtube-viewership/"><u>[New] The Components That Lift You in YouTube Viewership</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-elevate-stories-vibrancy-via-thoughtful-interactive-qandas/"><u>[Updated] In 2024, Elevate Stories' Vibrancy via Thoughtful Interactive Q&As</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/local-authority-security-patched-successfully-learn-more-inside/"><u>Local Authority Security Patched Successfully - Learn More Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-geforce-experience-launch-problem-a-complete-guide/"><u>Resolving the GeForce Experience Launch Problem - A Complete Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/samsung-galaxy-z-fold-6-specs-launch-date-and-cost-revealed/"><u>Samsung Galaxy Z Fold 6 Specs, Launch Date and Cost Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-rpc-server-unavailable-error-code-0xc0000098-in-windows-a-step-by-step-guide/"><u>Solving the RPC Server Unavailable (Error Code 0xC0000098) in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-network-adapter-failures-on-windows-117-pcs/"><u>Step-by-Step Guide: Resolving Network Adapter Failures on Windows 11/7 PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/yac598-yamahaaturbosound-ii-sound-module-based-on-the-ymf7a1cymu3x-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of-r103/"><u>YAC598 - Yamaha'aturboSound II Sound Module Based on the YMF7A1C/YMU^3X (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
 </ul></div>
 

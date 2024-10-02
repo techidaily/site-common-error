@@ -1,7 +1,7 @@
 ---
 title: How to Restore Function of a Non-Responsive Integrated Graphics and Video Processor (iGFX) Unit
-date: 2024-09-22T00:21:09.292Z
-updated: 2024-09-26T21:12:08.830Z
+date: 2024-09-25T23:14:03.814Z
+updated: 2024-10-01T17:13:07.138Z
 tags:
   - win11
   - win10
@@ -39,7 +39,23 @@ When you launch the game you can hear the intro music but right after that, all 
 1. In the right-bottom toolbar, right-click on the volume icon.
 2. Click**Sounds** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the**Playback** tab, choose the device you’re using and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. In the**Enhancements** tab, uncheck “**Disable all sound effects** “.![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Apply > OK** .
 6. Reboot your computer and check then your game sound.
 
@@ -51,6 +67,14 @@ When you launch the game you can hear the intro music but right after that, all 
 1. On the right-bottom of the taskbar, right-click on the volume icon.
 2. Click**Troubleshoot sound problems** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-4.jpg)
 3. Choose**Yes, Open Audio Enhancements** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Follow the on-screen instructions.
 5. Reboot your computer and check whether the problem is solved or not.
 
@@ -68,6 +92,13 @@ There are two ways you can update your audio drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-515.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **Option 2 – Automatically update your audio drivers**
 
  If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with Driver Easy.
@@ -81,27 +112,7 @@ There are two ways you can update your audio drivers.
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Reinstall your audio driver
 
@@ -112,22 +123,15 @@ There are two ways you can update your audio drivers.
 3. Click**Sound, video and game controllers** , right-click on the**Realtek(R) Audio** and click**Uninstall device** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click**Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3.1.jpg)
 5. Use Method 3 to install the driver.
 6. Reboot your computer to check whether the problem is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Update your Windows system
 
@@ -137,20 +141,13 @@ There are two ways you can update your audio drivers.
 2. In the Windows Update tab, click**Check for updates** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Install the updates.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Reboot your computer and check the problem is solved or not.
 
@@ -173,21 +170,20 @@ There are two ways you can update your audio drivers.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-behind-the-scenes-manycams-recording-system-evolution/"><u>[New] Behind the Scenes ManyCam's Recording System Evolution</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-valorant-stuck-on-infinite-loading-screen/"><u>[Solved] Valorant Stuck on Infinite Loading Screen</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-sony-vegas-for-the-aspiring-youtube-editor-a-comprehensive-overview/"><u>2024 Approved Sony Vegas for the Aspiring YouTube Editor A Comprehensive Overview</u></a></li>
-<li><a href="https://common-error.techidaily.com/cant-reach-windows-defender-smartscreen-here-are-some-possible-solutions/"><u>Can't Reach Windows Defender SmartScreen? Here Are Some Possible Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discovering-mobile-tracking-techniques-on-ios-devices-find-out-whereabouts/"><u>Discovering Mobile Tracking Techniques on iOS Devices - Find Out Whereabouts!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-vanished-desktop-shortcuts-on-windows-10-a-step-by-step-solution/"><u>Fixing Vanished Desktop Shortcuts on Windows 10: A Step-by-Step Solution</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-vcruntime140dll-missing-error-in-windows-applications/"><u>How To Resolve vcruntime140.dll Missing Error in Windows Applications</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/navigating-through-interrupted-streams-on-social-media-for-2024/"><u>Navigating Through Interrupted Streams on Social Media for 2024</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-voice-over-in-2024/"><u>New What Is AI Voice Over, In 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/online-signatures-for-word-2013-by-ldigisigner-sign-a-word-sign-a-word/"><u>Online signatures for Word 2013</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-device-not-migrated-errors-during-upgrades-to-windows-10-expert-advice-and-fixes/"><u>Overcoming 'Device Not Migrated' Errors During Upgrades to Windows 10: Expert Advice and Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-a-guide-to-correcting-icue-device-detection-failures/"><u>Overcoming the Challenge: A Guide to Correcting 'ICUE' Device Detection Failures</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/proven-strategies-for-optimizing-video-content-on-youtube-for-2024/"><u>Proven Strategies for Optimizing Video Content on YouTube for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-power-of-popularity-in-stock-images-and-stories-for-2024/"><u>The Power of Popularity in Stock Images & Stories for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-windows-10s-lost-bluetooth-fast-solutions-inside/"><u>Troubleshoot Windows 10'S Lost Bluetooth: Fast Solutions Inside!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/urgent-top-10-lost-iphone-x-solutions-revealed/"><u>Urgent Top 10 Lost iPhone X Solutions Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-windows-cannot-access-the-specified-device-path-or-file-error/"><u>[Fixed] 'Windows Cannot Access the Specified Device Path or File' Error</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-begin-recording-your-webcam-via-vlc-player/"><u>[New] 2024 Approved Begin Recording Your Webcam via VLC Player</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-enhancing-youtube-presence-creating-professional-thumbnails-from-smartphones/"><u>[New] 2024 Approved Enhancing YouTube Presence Creating Professional Thumbnails From Smartphones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-tricks-to-enhance-your-ppt-impact-on-google-meet-any-device/"><u>[New] 2024 Approved Tricks to Enhance Your PPT Impact on Google Meet, Any Device</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-banishing-static-like-motion-in-aerial-videos/"><u>[New] Banishing Static-Like Motion in Aerial Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-duplicate-your-instagram-posts/"><u>[New] In 2024, How to Duplicate Your Instagram Posts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-vlogging-through-verbiage-a-2023-guide-to-twitter-threads/"><u>[Updated] 2024 Approved Vlogging Through Verbiage - A 2023 Guide to Twitter Threads</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-roadmap-to-thriving-in-digital-advertising/"><u>2024 Approved The Roadmap to Thriving in Digital Advertising</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-asus-tuf-gaming-a14-laptop-analysis-the-silent-powerhouse/"><u>Comprehensive Asus TUF Gaming A14 Laptop Analysis - The Silent Powerhouse</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-unresponsive-computers-on-windows-11-solution/"><u>Dealing with Unresponsive Computers on Windows 11 [SOLUTION]</u></a></li>
+<li><a href="https://common-error.techidaily.com/dell-camera-errors-on-windows-heres-how-to-make-them-work-again/"><u>Dell Camera Errors on Windows? Here's How to Make Them Work Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-troubleshooting-repairing-broken-system-files-for-windows-10-and-11-users/"><u>DIY Troubleshooting: Repairing Broken System Files for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-guide-enable-and-show-bluetooth-adapter-in-windows-device-manager/"><u>Essential Guide: Enable & Show Bluetooth Adapter in Windows Device Manager</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-mouse-frozen-on-laptop/"><u>How To Fix Mouse Frozen On Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-problem-during-restore-mistake-in-windows-10-fixed/"><u>Resolving 'Problem During Restore' Mistake in Windows 10 – Fixed</u></a></li>
 </ul></div>
 

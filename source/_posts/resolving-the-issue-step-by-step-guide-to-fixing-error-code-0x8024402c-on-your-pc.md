@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Issue: Step-by-Step Guide to Fixing Error Code 0X8024402c on Your PC"
-date: 2024-09-24T23:16:14.709Z
-updated: 2024-09-26T23:46:07.142Z
+date: 2024-09-30T16:30:45.149Z
+updated: 2024-10-01T19:59:45.649Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
@@ -48,6 +48,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
@@ -56,16 +63,22 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -79,6 +92,14 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
@@ -95,40 +116,26 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
@@ -168,21 +175,16 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-freedom-through-jokes-ranking-the-most-hilarious-social-media-prisons/"><u>[Updated] 2024 Approved Freedom Through Jokes Ranking the Most Hilarious Social Media Prisons</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/15-simple-ways-to-integrate-gpt-into-workflow/"><u>15 Simple Ways to Integrate GPT Into Workflow</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-detailed-analysis-of-mozillas-popup-functionality-for-2024/"><u>A Detailed Analysis of Mozilla's Popup Functionality for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-xiaomi-mix-fold-3-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Xiaomi Mix Fold 3 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/astro-a40-mic-not-working-solved/"><u>Astro A40 Mic Not Working [SOLVED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-and-repair-critical-error-0xc1900208-in-your-windows-10-system-update-process/"><u>Bypass and Repair Critical Error 0xC1900208 in Your Windows 10 System Update Process</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-tech-support-for-oculus-gear-navigating-and-fixing-errors-in-2-groovy-24/"><u>DIY Tech Support for Oculus Gear: Navigating and Fixing Errors in 2 Groovy 24!</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fixes-for-print-to-pdf-not-working-in-microsoft-windows-1011/"><u>Easy Fixes for 'Print to PDF Not Working' In Microsoft Windows 10/11</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-exploring-leading-tools-discover-the-top-9-free-brand-designers/"><u>In 2024, Exploring Leading Tools Discover the Top 9 FREE Brand Designers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-starting-your-youtubian-journey-from-launchpad-to-loot/"><u>In 2024, Starting Your Youtubian Journey From Launchpad to Loot</u></a></li>
-<li><a href="https://common-error.techidaily.com/tank-geometry-must-be-designed-to-ensure-even-flow-distribution-with-gentle-introduction-of-wastewater-at-the-inlet-and-strategic-outlet-positioning-to-mini126/"><u>Tank Geometry Must Be Designed to Ensure Even Flow Distribution, with Gentle Introduction of Wastewater at the Inlet and Strategic Outlet Positioning to Minimize Resuspension.</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-art-of-smooth-video-transitioning/"><u>The Art of Smooth Video Transitioning</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-v29-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo V29 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-a-nonfunctional-at-sign-expert-tips-and-tricks/"><u>Troubleshooting a Nonfunctional 'At Sign': Expert Tips and Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-correcting-the-driver-power-management-failures-in-windows-systems/"><u>Troubleshooting Tips: Correcting the Driver Power Management Failures in Windows Systems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/video-editing-in-apple-m1-macbook-air/"><u>Video Editing in Apple M1 MacBook Air</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-apex-creators-video-giants-in-the-making/"><u>[New] 2024 Approved Apex Creators Video Giants in the Making</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-tech-brands-in-online-recording-solutions/"><u>[Updated] In 2024, Top Tech Brands in Online Recording Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-wizardry-cure-kernel32-fails/"><u>[Windows Wizardry] Cure Kernel32 Fails</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-digital-revival-improving-computerized-vhs-visuals/"><u>2024 Approved Digital Revival Improving Computerized VHS Visuals</u></a></li>
+<li><a href="https://common-error.techidaily.com/asus-laptops-overcoming-fn-key-malfunctions-and-restoring-usage/"><u>ASUS Laptops - Overcoming Fn Key Malfunctions and Restoring Usage</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-the-google-pixelbook-go-exceptional-chromebook-performance-amidst-high-cost/"><u>Comprehensive Evaluation of the Google Pixelbook Go - Exceptional Chromebook Performance Amidst High Cost</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11-endless-reboot-cycle-expert-solutions/"><u>Fixing Windows 11 Endless Reboot Cycle: Expert Solutions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-essential-guide-to-using-obs-for-youtube-and-twitch/"><u>In 2024, Essential Guide to Using OBS for YouTube & Twitch</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-in-audio-file-transformation-from-srt-to-xmlssattml/"><u>In 2024, Expertise in Audio File Transformation From SRT to XML/SSA/TTML</u></a></li>
+<li><a href="https://common-error.techidaily.com/insider-knowledge-on-fixing-the-failed-diagnostic-services-run-process/"><u>Insider Knowledge on Fixing the Failed Diagnostic Services Run Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-issues-making-your-dells-webcam-work-again-on-windows-systems/"><u>Solved Issues: Making Your Dell's Webcam Work Again on Windows Systems</u></a></li>
 </ul></div>
 

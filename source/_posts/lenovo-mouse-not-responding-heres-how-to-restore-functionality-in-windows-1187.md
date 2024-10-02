@@ -1,7 +1,7 @@
 ---
 title: Lenovo Mouse Not Responding? Here’s How to Restore Functionality in Windows 11/8/7
-date: 2024-09-13T18:18:15.323Z
-updated: 2024-09-20T19:11:51.734Z
+date: 2024-09-28T18:42:22.970Z
+updated: 2024-10-02T00:43:28.310Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
  **Solution 2: [Re-enable your Bluetooth driver software in Device Manager](#solution2)**
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the status of the Bluetooth service
 
  1) **Right-click**   on the Start button to select **Device Manager** .
@@ -56,9 +63,23 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
@@ -69,16 +90,10 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
@@ -97,16 +112,16 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -122,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
  Alternatively, you can use a driver tool to help you. We highly recommend you use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to  automatically recognize your system and find the correct drivers for you. With its help, you can say goodbye to driver headaches and delays forever.
@@ -135,10 +157,10 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
@@ -146,13 +168,6 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (You get full support and a 30-day money back guarantee for the Pro version)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -179,5 +194,19 @@ thumbnail: https://thmb.techidaily.com/7713f731aa5d1a79b016145c24d7f030b3ba8189c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-androids-premier-animal-experience-compilation/"><u>[New] 2024 Approved Android's Premier Animal Experience Compilation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-8-free-online-video-editors-for-youtube/"><u>[Updated] 2024 Approved 8 Free Online Video Editors for YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-zdsoft-in-a-nutshell-video-capture-insights/"><u>[Updated] 2024 Approved ZDSoft in a Nutshell Video Capture Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726227813499-movavi-web/"><u>動画編集ツールMovaviの安全性を確認！: 信頼できるWebサイトとソフトウェアのセキュリティチェック</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ensure-smooth-operation-of-your-canon-mx492mx-series-printer-with-updated-drivers-a-guide-for-windows-users/"><u>Ensure Smooth Operation of Your Canon MX492/Mx Series Printer with Updated Drivers: A Guide for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-device-not-detected-problem-fixing-error-code-24-on-windows-os/"><u>How to Overcome 'Device Not Detected' Problem - Fixing Error Code 24 on Windows OS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/master-the-art-of-bios-tweaking-with-new-razer-deathadder-driver/"><u>Master the Art of BIOS Tweaking with New Razer Deathadder Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-obstacles-a-fixed-nvidia-error/"><u>Overcoming Obstacles: A Fixed NVIDIA Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-endless-windows-update-progress-at-100/"><u>Resolved: Troubleshooting Endless Windows Update Progress at 100%</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-steam-api-dll-errors/"><u>Solutions for Steam API DLL Errors</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/stand-out-in-the-crowd-ingenious-tips-for-top-tinder-bios-for-2024/"><u>Stand Out in the Crowd - Ingenious Tips for Top Tinder Bios for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-complete-battleye-installation-now-running-smoothly/"><u>Troubleshooting Complete: BattlEye Installation Now Running Smoothly</u></a></li>
+</ul></div>
 

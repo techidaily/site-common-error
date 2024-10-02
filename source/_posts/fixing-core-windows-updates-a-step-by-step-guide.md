@@ -1,7 +1,7 @@
 ---
 title: "Fixing Core Windows Updates: A Step-by-Step Guide"
-date: 2024-09-20T20:26:15.949Z
-updated: 2024-09-26T21:47:30.468Z
+date: 2024-09-25T00:09:25.265Z
+updated: 2024-10-02T00:02:55.475Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ In this guide you’ll learn:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Turn on Bluetooth on Windows 10/11
 
  Normally you can turn on Bluetooth in Windows 10 or 11 in these easy steps:
@@ -51,20 +44,28 @@ In this guide you’ll learn:
 2. Click **Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/bluetooth2.png)
 3. Click the switch (currently set to **Off** ) to turn on Bluetooth. (The status will change to **On**  .**)**  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92afe0a1d0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Windows 11
 
 1. Press the **Windows logo + I keys**  simultaneously to open Settings
 2. Select **Bluetooth & devices** from the left panel. Then make sure **Bluetooth**  is toggled **On** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Bluetooth-and-devices-Bluetooth-On.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  But if you don’t see the switch and your screen looks like the one below, there’s a problem with Bluetooth on your computer.
 
@@ -90,6 +91,14 @@ In this guide you’ll learn:
 1. On your desktop, right-click on the Start button to select   **Device Manager.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92c4740356.jpg)
 2. In Device Manager, check to see if there’s a**Bluetooth section** or if there’s any**Bluetooth adapter** located in the**Network adapters** section. The Bluetooth adapter could also be listed under the**Other devices** section due to some errors.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92f6f87b46.jpg)
 
  a) If you**do** find one or more Bluetooth adapters in Device Manager, your computer supports Bluetooth. Move on to the solutions to continue to  solve your problem.
@@ -111,27 +120,27 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a45e1f433396.jpg)
 3. If you have the **[Free version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy, click the **Update**  button next to the flagged Bluetooth driver to automatically download the correct driver, then you can manually install it.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  But if you have the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  you can click **Update All**  to automatically download and install all of the missing or outdated drivers on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a45e220bb3e1.jpg)  
  (If you click the**Update All**  button in the Free version you’ll be asked if you want to upgrade to the Pro version.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer.
 5. On your keyboard, hold down the **Windows logo key**  and press the**I**  key to open the**Settings** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Do you see the option to switch Bluetooth on now? If you do, great. You’ve fixed the problem. But if it’s still not there, there’s something else you can try…
 
@@ -140,19 +149,40 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 1. **Right-click** on the Start button. and select **Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a45b69056faf.png)
 2. Right-click on your Bluetooth device in the Bluetooth section, and choose**Disable device** . (If you’re asked to confirm, click **Yes** .)  
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 3. Right-click on the device again and click **Enable device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 4. On your keyboard, hold down the **Windows logo key**  and press the**I**  key to open the**Settings** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Is the Bluetooth switch appearing now? If it’s not, we have something else you can try…
 
@@ -167,33 +197,12 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 5. Set its startup type to **Automatic** . click **Apply** , and then click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 6. Finally, hold down the **Windows logo key**  and press the**I**  key to bring up the**Settings** window. Then make sure the Bluetooth option is there.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What to do if the above suggestions don’t work: Switch to ChromeOS
 
@@ -243,22 +252,17 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagram-verification-boost-your-following-with-these-6-secrets-for-2024/"><u>[New] Mastering Instagram Verification Boost Your Following with These 6 Secrets for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-video-lifeline-downloading-made-simple-pcmac-for-2024/"><u>[Updated] Instagram Video Lifeline Downloading Made Simple (PC/Mac) for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208263035-beating-the-windows-10-update-blues-cracking-code-0xc1900208-successfully/"><u>Beating the Windows 10 Update Blues: Cracking Code 0xC1900208 Successfully!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/correct-android-non-playing-issues/"><u>Correct Android Non-Playing Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminating-call-of-duty-world-war-ii-glitch-tackling-error-code-4220/"><u>Eliminating Call of Duty World War II Glitch - Tackling Error Code 4220</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/fusion-feats-mixing-genres-in-the-worlds-most-engaging-tiktoks/"><u>Fusion Feats Mixing Genres in the World's Most Engaging TikToks</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-your-windows-store-cache-errors-expert-advice/"><u>How To Repair Your Windows Store Cache Errors – Expert Advice</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-craft-individual-humor-masterpieces-online/"><u>In 2024, Craft Individual Humor Masterpieces Online</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-huawei-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Huawei</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ls-0013-error-fix-for-borderlands-3-effective-solutions-explored/"><u>LS-0013 Error Fix for Borderlands 3: Effective Solutions Explored</u></a></li>
-<li><a href="https://common-error.techidaily.com/mouse-miracle-wireless-connection-reinstated/"><u>Mouse Miracle: Wireless Connection Reinstated</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-unexpected-computer-shutdown-issues/"><u>Resolved: How to Fix Unexpected Computer Shutdown Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-pc-a-step-by-step-guide-to-repairing-damaged-windows-11-files/"><u>Reviving Your PC: A Step-by-Step Guide to Repairing Damaged Windows 11 Files</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-dell-laptop-keyboard/"><u>Troubleshooting Guide: Fixing a Nonfunctional Dell Laptop Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-against-windows-10s-restart-riddle-expert-strategies-to-restore-stability/"><u>Winning Against Windows 10'S Restart Riddle: Expert Strategies to Restore Stability</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/op-talent-spotlights-inspiring-recruitment-chronicles-1-10-for-2024/"><u>[New] Top Talent Spotlights Inspiring Recruitment Chronicles #1-10 for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/combining-photographs-seamlessly-effortless-methods-revealed-in-november-2022/"><u>Combining Photographs Seamlessly - Effortless Methods Revealed in November 2022</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-failed-usb-recognition-port-reset-in-your-windows-10-system/"><u>Diagnosing & Repairing Failed USB Recognition (Port Reset) in Your Windows 10 System</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/elite-eight-camera-line-up-for-professional-cinematography-for-2024/"><u>Elite Eight Camera Line-Up for Professional Cinematography for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-xiaomi-civi-3-disney-100th-anniversary-edition-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Xiaomi Civi 3 Disney 100th Anniversary Edition FRP Without Computer</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-a15-4g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy A15 4G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reinvigorating-windows-photo-viewer-in-w10-procedures-1-and-2-for-2024/"><u>Reinvigorating Windows Photo Viewer in W10 Procedures #1 & #2 for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-mysterious-0x80004005-error-proven-solutions-for-your-email-woes/"><u>Resolving the Mysterious 0X80004005 Error - Proven Solutions for Your Email Woes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/resolving-your-dvd-recognition-problem-a-step-by-step-guide-on-repairing-anydvd-hds-functionality/"><u>Resolving Your DVD Recognition Problem: A Step-by-Step Guide on Repairing AnyDVD (HD)'s Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/seamless-solutions-to-correct-the-cannot-download-updates-windows-error-0x80070652/"><u>Seamless Solutions to Correct the 'Cannot Download Updates' Windows Error (0X80070652)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-critical-role-of-chatgpts-code-interpreter-in-modern-ai-development/"><u>The Critical Role of ChatGPT's Code Interpreter in Modern AI Development</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-mycraft-lan-connection-issues/"><u>Troubleshooting Guide: Fixing Mycraft LAN Connection Issues</u></a></li>
 </ul></div>
 

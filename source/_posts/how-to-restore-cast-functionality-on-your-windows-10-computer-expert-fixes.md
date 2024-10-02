@@ -1,7 +1,7 @@
 ---
 title: How to Restore Cast Functionality on Your Windows 10 Computer - Expert Fixes
-date: 2024-09-20T16:32:16.374Z
-updated: 2024-09-26T20:35:41.037Z
+date: 2024-09-26T22:37:46.134Z
+updated: 2024-10-01T17:37:34.886Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Set microphone as default device
 
  Chances are your mic has not been set as the default device, so the sound won’t be played through it. To set your mic as default, you should perform the following procedure:
@@ -76,18 +83,24 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click to highlight your microphone, then click**Set Default > Default Device** .
 
 **Note:** Your mic device may not be listed as “Microphone” and the icon thereof may not even resemble a microphone. You should be able to recognize it yourself.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-115.png)
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also right-click the mic item and check if it is disabled. If it is, select **Enable** to get your mic working.
 
@@ -95,39 +108,19 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Click**OK** to save all the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-117.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check to see if your mic is working fine. If it isn’t, please move on to the next fix, below.
@@ -155,15 +148,22 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now check to see your mic is back on track.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Modify privacy settings
 
@@ -173,24 +173,18 @@ Now check to see your mic is back on track.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
 
  Below you’ll see another toggle for **Allow apps to access your microphone** . Also turn it**on** if it’s been set to Off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
@@ -219,18 +213,14 @@ If this fix doesn’t work, please proceed to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-making-voice-overhaul-easy-the-ultimate-tiktok-guide/"><u>[Updated] 2024 Approved Making Voice Overhaul Easy The Ultimate TikTok Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-essential-methodologies-in-capturing-web-radio-audio/"><u>[Updated] In 2024, Essential Methodologies in Capturing Web Radio Audio</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-mitigating-high-bitrate-in-obs-outputs/"><u>[Updated] In 2024, Mitigating High-Bitrate in OBS Outputs</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-touchpad-scrolling-that-just-wont-work-an-expert-solution/"><u>Comprehensive Fixes for Touchpad Scrolling That Just Won't Work: An Expert Solution</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723201682709-effortless-solutions-to-get-windows-10-bluetooth-working-again/"><u>Effortless Solutions to Get Windows 10 Bluetooth Working Again!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-auto-gpts-merit-without-gpt-4/"><u>Evaluating Auto-GPT's Merit Without GPT-4</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-eliminating-black-screen-glitches-for-good/"><u>Expert Advice: Eliminating Black Screen Glitches for Good</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-latest-windows-11-compatible-intel-usb-30-drivers-here/"><u>Get Your Latest Windows 11 Compatible Intel USB 3.0 Drivers Here</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-recover-from-file-explorer-crashing-on-windows-10-computers/"><u>How to Recover From File Explorer Crashing on Windows 10 Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/minecraft-stuck-on-loading-quick-fix-tips-for-windows-users-to-get-it-running-smoothly/"><u>Minecraft Stuck on Loading? Quick Fix Tips for Windows Users to Get It Running Smoothly</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-the-issue-of-steam-server-accessibility/"><u>Resolved: Fixing the Issue of Steam Server Accessibility</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-5-essential-factors-to-inspect-when-buying-pre-owned-dvds-and-blu-ray-discs/"><u>Top 5 Essential Factors to Inspect When Buying Pre-Owned DVDs & Blu-Ray Discs</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-strategies-to-supercharge-pcs-gaming-capabilities-on-the-latest-windows-11-update/"><u>Winning Strategies to Supercharge PC's Gaming Capabilities on the Latest Windows 11 Update</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-legal-hurdles-explored-in-revised-google-headlines-unlock-the-secret-to-prime-mobile-internet-on-vacation/"><u>ChatGPT Legal Hurdles Explored in Revised Google Headlines; Unlock the Secret to Prime Mobile Internet on Vacation!</u></a></li>
+<li><a href="https://facebook.techidaily.com/engaging-audiences-profoundly-the-5-social-platforms-leading-biz/"><u>Engaging Audiences Profoundly: The 5 Social Platforms Leading Biz</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-and-solutions-how-to-troubleshoot-a-non-functioning-microphone-on-your-laptop/"><u>Fixes & Solutions: How to Troubleshoot a Non-Functioning Microphone on Your Laptop</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-c12-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia C12 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-perfect-harmony-music-in-instagram-storytelling/"><u>In 2024, Perfect Harmony Music in Instagram Storytelling</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-recovery-process-for-corrupt-system-files-on-windows-10-11-edition/"><u>Mastering the Recovery Process for Corrupt System Files on Windows 10, 11 Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/ret-proto-oncogene-rearrangements-play-a-significant-role-in-the-development-of-medullary-thyroid-cancer-and-have-therapeutic-implications/"><u>RET Proto-Oncogene Rearrangements Play a Significant Role in the Development of Medullary Thyroid Cancer and Have Therapeutic Implications</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-how-to-reduce-high-wudfhostexe-cpu-consumption-on-windows-11/"><u>Solving the Issue: How to Reduce High WUDFHost.exe CPU Consumption on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-special-features-that-define-artificited-computers/"><u>The Special Features that Define Artificited Computers</u></a></li>
 </ul></div>
 

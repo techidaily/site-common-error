@@ -1,7 +1,7 @@
 ---
 title: Why Does My Wireless Mouse Stop Working on Windows? Troubleshooting Tips for Win10/Win11 Users
-date: 2024-09-23T22:19:26.478Z
-updated: 2024-09-26T21:11:27.589Z
+date: 2024-09-25T03:26:46.511Z
+updated: 2024-10-01T16:39:32.262Z
 tags:
   - win11
   - win10
@@ -48,10 +48,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -70,33 +70,19 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -111,15 +97,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -127,6 +114,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 9. Hopefully your**computer won’t shut down** problem has been sorted. But if it doesn’t, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
 
@@ -137,6 +131,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -160,22 +162,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-acoustic-imprinting-pc-noises-logged/"><u>[New] 2024 Approved Acoustic Imprinting PC Noises Logged</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-glassify-privacy-webcam-panel/"><u>[New] Glassify Privacy Webcam Panel</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-catching-facebooks-favorite-visual-stories-for-2024/"><u>[Updated] Catching Facebook's Favorite Visual Stories for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-leveraging-likes-for-livelihood-the-blueprint-to-brand-backings-on-instagram/"><u>[Updated] Leveraging Likes for Livelihood The Blueprint to Brand Backings on Instagram</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-dealing-with-applicationexe-has-halted-execution-errors-effectively/"><u>Expert Advice: Dealing with 'Application.exe Has Halted Execution' Errors Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-improve-gaming-performance-on-windows-11/"><u>How to Improve Gaming Performance on Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-inside-the-core-a-thorough-insight-into-xstudio-video-studio/"><u>In 2024, Inside the Core A Thorough Insight Into XStudio Video Studio</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-essentials-of-crafting-impactful-spotify-ads/"><u>In 2024, The Essentials of Crafting Impactful Spotify Ads</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-device-detection-issues-in-windows-11s-bluetooth-feature/"><u>Resolved: Troubleshooting Device Detection Issues in Windows 11'S Bluetooth Feature</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revolutionizing-communication-free-top-8-srt-tools-revealed-for-2024/"><u>Revolutionizing Communication Free Top 8 SRT Tools Revealed for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-industries-with-artificial-intelligence-using-chatgpt/"><u>Revolutionizing Industries with Artificial Intelligence – Using ChatGPT</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-solutions-quick-guide-on-resolving-steam-disk-write-errors/"><u>Simple Solutions: Quick Guide on Resolving Steam Disk Write Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/streamline-your-workflow-with-advanced-file-explorer-techniques-for-windows-11/"><u>Streamline Your Workflow with Advanced File Explorer Techniques for Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-fix-is-in-navigating-past-a-stuck-windows-setup-process/"><u>The Fix Is In: Navigating Past a Stuck Windows Setup Process</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-techniques-for-restoring-functionality-to-a-non-working-ps4-microphone/"><u>Top Techniques for Restoring Functionality to a Non-Working PS4 Microphone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-monitor-issues-non-compatible-screen-refresh-rates/"><u>Troubleshooting Monitor Issues: Non-Compatible Screen Refresh Rates</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rafting-a-youtube-empire-26-successful-techniques-for-2024/"><u>[New] Crafting a YouTube Empire 26 Successful Techniques for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-from-niche-to-mainstream-amassing-a-million-view-channel/"><u>[Updated] In 2024, From Niche to Mainstream Amassing a Million-View Channel</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essential-gear-picking-the-very-best-among-top-9-free-logomakers/"><u>2024 Approved Essential Gear Picking the Very Best Among Top 9 Free Logomakers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-laughlab-design-suite/"><u>2024 Approved LaughLab Design Suite</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/assessing-ai-conversational-capabilities-gpt-vs-huggingface/"><u>Assessing AI Conversational Capabilities: GPT Vs HuggingFace</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-repair-techniques-for-the-driverpowerstatefailure-complication/"><u>Easy Repair Techniques for the DRIVER_POWER_STATE_FAILURE Complication</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-of-mic-issues-welcome-back-to-discord/"><u>End of Mic Issues, Welcome Back to Discord</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11s-malfunctioning-start-button-easily/"><u>Fixing Windows 11'S Malfunctioning Start Button Easily</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-6s-plus-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and iPhone 6s Plus The Right Way</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-windows-could-not-complete-the-installation-errors/"><u>Quick Fixes for 'Windows Could Not Complete the Installation' Errors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/smooth-file-migration-to-computer-5-proven-techniques/"><u>Smooth File Migration to Computer – 5 Proven Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-to-dragon-ball-fighterzs-network-start-up-error/"><u>Solution to Dragon Ball FighterZ's Network Start-Up Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-resolving-scroll-problems-with-your-synaptics-touchpad-on-windows-11/"><u>Troubleshooting: Resolving Scroll Problems with Your Synaptics Touchpad on Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-guide-posting-tiktok-videos/"><u>Twitter's Guide Posting TikTok Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-werfuelexe-6-crucial-tips-for-seamless-operations-on-windows/"><u>Winning the Battle Against 'werfuel.exe' - 6 Crucial Tips for Seamless Operations on Windows</u></a></li>
 </ul></div>
 

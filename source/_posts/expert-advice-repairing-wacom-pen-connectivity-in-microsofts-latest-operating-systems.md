@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Repairing Wacom Pen Connectivity in Microsoft's Latest Operating Systems"
-date: 2024-09-17T16:28:02.232Z
-updated: 2024-09-20T16:28:12.064Z
+date: 2024-10-01T01:07:42.907Z
+updated: 2024-10-01T21:06:47.234Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -56,6 +63,13 @@ Follow these:
 #### on Windows 10
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click **Ease of Access** .
 
@@ -75,11 +89,25 @@ Follow these:
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -120,12 +148,21 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-interactive-index-for-ig-and-tiktok-connection/"><u>[New] 2024 Approved The Interactive Index for IG & TikTok Connection</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/14620035-new-2024-approved-transform-videos-with-easy-to-use-sound-effects/"><u>[New] 2024 Approved Transform Videos with Easy-to-Use Sound Effects!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-fbx-methods-for-perfect-gaming-saves/"><u>2024 Approved FBX Methods for Perfect Gaming Saves</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-guidelines-to-affirm-your-youtube-status/"><u>2024 Approved Guidelines to Affirm Your YouTube Status</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/balancing-price-and-quality-in-the-thermopro-tp67-review/"><u>Balancing Price and Quality in the ThermoPro TP67 Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x8024200d-windows-update-failure-solved/"><u>Error 0X8024200d – Windows Update Failure [SOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-typing-the-wrong-keys-on-your-keyboard/"><u>How to Fix Typing the Wrong Keys on Your Keyboard</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-the-potential-a-comprehensively-curated-list-of-nft-creating-engines/"><u>In 2024, Unleash the Potential A Comprehensively Curated List of NFT-Creating Engines</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/optimizing-ps4-games-for-live-capture-in-obs-for-2024/"><u>Optimizing PS4 Games for Live Capture in OBS for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/step-by-step-guide-updating-the-software-on-your-airpods/"><u>Step-by-Step Guide: Updating the Software on Your AirPods</u></a></li>
+<li><a href="https://common-error.techidaily.com/strategies-for-preventing-system-conflict-over-shared-resources/"><u>Strategies for Preventing System Conflict Over Shared Resources</u></a></li>
+<li><a href="https://common-error.techidaily.com/taming-the-noise-effective-ways-to-quiet-a-boisterous-ps4/"><u>Taming the Noise: Effective Ways to Quiet a Boisterous PS4</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-error-4220-in-call-of-duty-world-war-ii-gameplay/"><u>Troubleshooting Error 4220 in Call of Duty World War II Gameplay</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-mastering-audio-transitions-2-methods-in-final-cut-pro/"><u>Updated Mastering Audio Transitions 2 Methods in Final Cut Pro</u></a></li>
+</ul></div>
 

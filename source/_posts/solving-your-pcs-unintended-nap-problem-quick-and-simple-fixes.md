@@ -1,7 +1,7 @@
 ---
 title: "Solving Your PC's Unintended Nap Problem: Quick & Simple Fixes"
-date: 2024-09-22T22:44:06.222Z
-updated: 2024-09-26T18:41:03.186Z
+date: 2024-09-29T04:28:52.945Z
+updated: 2024-10-02T02:15:26.008Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 2: Update the graphics card driver
 
  The computer keeps going to sleep issue can be caused by the faulty or outdated graphics card driver, especially if you have a high-end graphics card installed. To fix the problem, you can try to update the graphics card driver.
@@ -66,15 +73,23 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13724b1f8d6.jpg)
 3. Click the**Update** button next to a flagged graphics card driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -94,22 +109,8 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **For Windows 7:**
 
@@ -119,33 +120,26 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 3. Click the**Change screen saver** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
 5. Check to see if your computer keeps going to sleep.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 4: Change the System unattended sleep timeout to a longer time
 
@@ -159,6 +153,14 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137510499e6.png)  
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
 2. Navigate to the following directory:  
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
@@ -206,21 +208,18 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-camstudios-screen-recorder-a-deep-dive-into-its-latest-features/"><u>[New] In 2024, CamStudio's Screen Recorder A Deep Dive Into Its Latest Features</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-premium-mac-recorder-for-crystal-clear-audio-and-hd-video/"><u>[New] Premium Mac Recorder for Crystal Clear Audio & HD Video</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-ultimate-blueprint-for-striking-youtube-channel-designs-for-2024/"><u>[New] The Ultimate Blueprint for Striking YouTube Channel Designs for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-essentials-of-high-quality-audio-interfaces-in-podcasting/"><u>[Updated] In 2024, The Essentials of High-Quality Audio Interfaces in Podcasting</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/download-nvidia-quadro-graphics-drivers-for-windows-11-latest-version/"><u>Download NVIDIA Quadro Graphics Drivers for Windows 11 - Latest Version</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fixes-for-non-responsive-brightness-control-on-your-windows-10-device/"><u>Easy Fixes for Non-Responsive Brightness Control on Your Windows 10 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-0x887a0006-resolved-a-step-by-step-guide-for-swift-and-simple-solutions/"><u>Error 0X887A0006 Resolved: A Step-by-Step Guide for Swift and Simple Solutions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Xiaomi 13T Pro? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-the-mystery-of-your-broken-shift-key-with-these-effective-tips/"><u>Solve the Mystery of Your Broken Shift Key with These Effective Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-overcoming-criticalprocessdied-error-code-0xc0000005-in-windows-systems/"><u>Step-by-Step Solution for Overcoming 'CRITICAL_PROCESS_DIED' (Error Code 0XC0000005) in Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-consumption-by-the-windows-1110-dwm/"><u>Top 5 Solutions for Reducing GPU Consumption by the Windows 11/10 DWM</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204587024-trouble-free-solution-for-unresponsive-buttons-on-hp-laptops/"><u>Trouble-Free Solution for Unresponsive Buttons on HP Laptops!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-mousepads-for-your-laptop-under-windows-operating-systems-win11win8win7/"><u>Troubleshooting and Repairing Mousepads for Your Laptop Under Windows Operating Systems (Win11/Win8/Win7)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-guide-fix-recurring-issues-with-assassins-creed-valhalla-on-pc/"><u>Troubleshooting Complete Guide: Fix Recurring Issues with Assassin's Creed: Valhalla on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-why-is-my-thaumaturge-app-not-starting-on-windows/"><u>Troubleshooting Steps: Why Is My Thaumaturge App Not Starting on Windows?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Ultimate guide to get the meltan box pokemon go For Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-a-seamless-transition-from-aspect-ratio-to-square-on-instagram-with-imovie/"><u>[New] 2024 Approved A Seamless Transition From Aspect Ratio to Square on Instagram with iMovie</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-low-cost-high-performance-great-smartphones-for-gamers/"><u>[Updated] 2024 Approved Low-Cost, High Performance Great Smartphones for Gamers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-spectral-film-reset-guide-for-2024/"><u>[Updated] Spectral Film Reset Guide for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/apk-masterclass-enjoy-funimate-on-android-for-2024/"><u>APK Masterclass Enjoy Funimate on Android for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-a-broken-corsair-keyboard-now-working-perfectly/"><u>Expert Solutions for a Broken Corsair Keyboard - Now Working Perfectly</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-speed-fb-video-techniques-for-smooth-playback-for-2024/"><u>High-Speed FB Video Techniques for Smooth Playback for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-itel-p55-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Itel P55? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-address-steam-server-connection-errors-successfully/"><u>Resolved: How to Address Steam Server Connection Errors Successfully</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/signs-youre-not-in-someones-contact-list/"><u>Signs You're Not in Someone's Contact List</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/speed-up-your-storytelling-time-lapse-video-editing-in-final-cut-pro-for-2024/"><u>Speed Up Your Storytelling Time Lapse Video Editing in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-resolution-for-windows-1er-update-failures-cracking-the-0x800705b4-error-code-in-windows-10/"><u>Step-by-Step Resolution for Windows 1Er Update Failures: Cracking the 0X800705B4 Error Code in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-repairing-your-pc-with-a-missing-boot-drive/"><u>Step-by-Step Solution: Repairing Your PC with a Missing Boot Drive</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-users-rejoice-solving-chrome-error-unable-to-load-plugin-successfully-explained/"><u>Windows 11 Users Rejoice! Solving Chrome Error: Unable to Load Plugin Successfully Explained</u></a></li>
 </ul></div>
 

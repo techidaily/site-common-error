@@ -1,7 +1,7 @@
 ---
 title: "HP D1360 Printer Driver Error on Various Windows Systems: Solutions and Tips for Successful Setup"
-date: 2024-09-22T21:24:14.460Z
-updated: 2024-09-26T17:35:03.387Z
+date: 2024-09-29T04:41:23.475Z
+updated: 2024-10-01T16:21:46.065Z
 tags:
   - win11
   - win10
@@ -33,25 +33,11 @@ thumbnail: https://thmb.techidaily.com/51c8c0f8bc5e38b3222968b9d07888b2af3d71ae1
 5. [**Update your Bluetooth driver**](#fix5)
 6. **[Install all Windows updates](#fix6)**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure your Bluetooth device is working
 
  Before attempting anything more complicated, first you need to**check the status of your device** . You can use your smartphone to verify, by checking if the device shows up when you’re scanning for Bluetooth devices on your phone. You can also reboot your device and see if it helps. If possible, check if your device works on another computer.
 
  If you’re sure that your Bluetooth device is working, simply continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Turn Bluetooth on and off
 
@@ -61,24 +47,24 @@ thumbnail: https://thmb.techidaily.com/51c8c0f8bc5e38b3222968b9d07888b2af3d71ae1
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/windows-10-settings-devices-bluetooth-1.jpg)
 2. Toggle the**Bluetooth** button to turn it off. Then turn it back on after a few seconds.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/windows-10-settings-devices-bluetooth-2.jpg)
 3. Now check if your device can pair with your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this trick doesn’t help you, simply try the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Check for old Bluetooth connections
 
@@ -89,6 +75,14 @@ Here’s how:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Select**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/windows-10-settings-devices-bluetooth-1.jpg)
 2. If you can find your device, select it and click**Remove device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/windows-10-settings-devices-bluetooth-3.jpg)
 3. Now you can try to pair your device.
 
@@ -107,6 +101,13 @@ Wireless Router
 USB 3.0
 
  If the issue persists after eliminating possible interference, you can check out the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your Bluetooth driver
 
@@ -131,31 +132,11 @@ USB 3.0
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-scan-now-logitech-unifying-usb-bluetooth.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  Once you’ve updated your Bluetooth driver, restart your PC and see if you can connect your device now.
 
  If updating the Bluetooth driver doesn’t work for you, simply continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Install all Windows updates
 
@@ -168,8 +149,24 @@ Here’s how you can check for updates manually:
 2. Scroll down and select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -195,20 +192,16 @@ Once done, do a reboot and try to pair your device again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/amend-crosslinking-usb-conflict/"><u>Amend Crosslinking USB Conflict</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/boosting-your-businesss-productivity-with-top-fb-planners/"><u>Boosting Your Business's Productivity with Top FB Planners</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721893029951-breaking-down-twitters-new-axe-feature-exploring-chatgpt-issues-linus-tech-tips-security-breach-and-an-in-depth-look-at-trojan-viruses/"><u>Breaking Down Twitter’s New 'Axe' Feature: Exploring ChatGPT Issues, Linus Tech Tips Security Breach, and an In-Depth Look at Trojan Viruses.</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-welcome-screen-glitch-in-windows-11-quick-fixes/"><u>Bypassing the Welcome Screen Glitch in Windows 11, Quick Fixes!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-update-guide-for-zebra-zp450-driver-software-download-and-installation-steps/"><u>Easy Update Guide for Zebra ZP450 Driver Software - Download & Installation Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-non-functioning-night-light-feature-in-windows-11/"><u>Fixes for Non-Functioning Night Light Feature in Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correct-the-not-plugged-in-warning-on-amd-audio-hardware/"><u>How to Correct the 'Not Plugged In' Warning on AMD Audio Hardware</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-keyboards-locked-function-buttons/"><u>How To Repair Keyboard's Locked Function Buttons</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-craft-effective-techniques-to-overcome-black-ops-amoortomies/"><u>Mastering the Craft: Effective Techniques to Overcome Black Ops Amoortomies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-whatsapp-messaging-a-comprehensive-guide-for-mac-users/"><u>Mastering WhatsApp Messaging: A Comprehensive Guide for Mac Users</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-speed-up-or-slow-down-top-10-free-video-editing-apps-for-mobile-for-2024/"><u>New Speed Up or Slow Down Top 10 Free Video Editing Apps for Mobile for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-found-why-is-my-ps4-dualshock-not-holding-a-charge/"><u>Solution Found! Why Is My PS4 Dualshock Not Holding a Charge?</u></a></li>
-<li><a href="https://facebook.techidaily.com/transitioning-personal-brand-how-to-alter-your-name-on-facebook/"><u>Transitioning Personal Brand: How to Alter Your Name on Facebook</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-svchostexe-netsvcs-its-functions-and-solutions-for-excessive-bandwidth-use/"><u>Understanding svchost.exe: NETSVCS, Its Functions & Solutions for Excessive Bandwidth Use</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-speak-loud-and-clear-on-tiktok-a-comprehensible-guide-for-2024/"><u>[New] Speak Loud and Clear on TikTok - A Comprehensible Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-microphones-for-enhanced-4k-video-clarity-and-sound/"><u>2024 Approved Leading Microphones for Enhanced 4K Video Clarity and Sound</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sharper-stars-in-iphone-nocturne-photos/"><u>2024 Approved Sharper Stars in iPhone Nocturne Photos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-buzz-and-views-masterful-strategies-for-youtube-success-for-2024/"><u>Boosting Buzz & Views Masterful Strategies for YouTube Success for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-fast-car-chargers-discover-why-experts-love-powerdrive-from-anker/"><u>Budget-Friendly Fast Car Chargers – Discover Why Experts Love PowerDrive From Anker</u></a></li>
+<li><a href="https://common-error.techidaily.com/decode-and-fix-the-definitive-guide-to-overcoming-black-screen-issues-on-your-dell-device/"><u>Decode and Fix: The Definitive Guide to Overcoming Black Screen Issues on Your Dell Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-disabling-jumpy-scroll-bars-in-windows-11-file-explorer-problem-resolved/"><u>Guide to Disabling Jumpy Scroll Bars in Windows 11 File Explorer - Problem Resolved</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-techniques-for-when-your-laptop-wont-respond/"><u>Quick Fix Techniques for When Your Laptop Won’t Respond</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/selecting-ideal-dimensions-aspect-ratio-guide-for-2024/"><u>Selecting Ideal Dimensions Aspect Ratio Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-z-fold-5-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-diagnostic-service-error-resolved/"><u>Troubleshooting Steps: Diagnostic Service Error Resolved</u></a></li>
 </ul></div>
 

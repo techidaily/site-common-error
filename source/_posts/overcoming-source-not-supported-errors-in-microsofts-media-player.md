@@ -1,7 +1,7 @@
 ---
 title: Overcoming Source Not Supported Errors in Microsoft's Media Player
-date: 2024-09-15T18:37:59.058Z
-updated: 2024-09-20T17:02:25.453Z
+date: 2024-09-26T21:14:28.975Z
+updated: 2024-10-01T19:48:47.370Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ Before you start:
 4. [Deleting Steam User Data](https://tools.techidaily.com/drivereasy/download/)
 5. [Restore NVIDIA Control Panel Settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Reinstall the NVIDIA drivers
 
  The “GeForce Experience unable to retrieve settings” problem is probably caused by the corrupted driver files that simple uninstallation can’t get rid of. You need to clear all the files before you install the new driver. A clean reinstall may help you solve the problem.  
@@ -49,6 +56,13 @@ Before you start:
 1. Launch **Display Driver Uninstaller** . Choose the Safe Mode as it suggested.![](https://images.drivereasy.com/wp-content/uploads/2019/06/ddu1.jpg)
 2. Select the driver you want to uninstall then choose**Clean and restart (Highly recommended)** .![](https://images.drivereasy.com/wp-content/uploads/2019/06/DDU.jpg)
 3. Wait for the uninstall to complete and restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There are two ways you can update your NVIDIA graphics adapter:[manually](https://tools.techidaily.com/drivereasy/download/) and[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -73,6 +87,19 @@ Before you start:
 
 **Note** : After reinstalling GeForce Experience, you have to rescan to get the settings.
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Reinstalling GeForce Experience
 
  The installation files of GeForce Experience may be corrupted or inconsistent which might cause problems. You can reinstall the entire application to fix the problem.
@@ -84,10 +111,10 @@ Before you start:
 4. Run the program to check the error message will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Disable your Bitdefender antivirus software
@@ -98,6 +125,19 @@ Before you start:
  If this method doesn’t work, you can move to the next solution.
 
 **Note** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus software is disabled.
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Deleting Steam User Data
 
@@ -116,13 +156,6 @@ Before you start:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/nvidia-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Thanks for reading. We hope one of these methods can help you solve the issue. If you have any questions or suggestions, please leave comments below. We’ll try our best to help.
 
 * [GeForce Experience](https://tools.techidaily.com/drivereasy/download/)
@@ -140,5 +173,26 @@ Before you start:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-engagement-personalized-youtube-thumbnail-guide/"><u>[New] 2024 Approved Elevate Engagement Personalized YouTube Thumbnail Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-unlock-potential-a-101-step-guide-to-crafting-exceptional-bios-on-facebook/"><u>[Updated] 2024 Approved Unlock Potential A 101-Step Guide to Crafting Exceptional Bios on Facebook</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-c33-2023-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme C33 2023 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/accelerate-league-of-legends-downloads-ultimate-troubleshooting-guide/"><u>Accelerate League of Legends Downloads - Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/constraint-c-use-a-template-like-see-event-historical-event-date-event-description-this-relates-to-economic-term-as-it-exemplifies/"><u>Constraint C: Use a Template Like See Event [Historical Event Date]: [Event Description]. This Relates to '[Economic Term]' As It Exemplifies...</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-keyboard-woes-heres-how-you-can-resolve-the-problem/"><u>Corsair Keyboard Woes? Here's How You Can Resolve the Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnose-and-repair-effective-techniques-when-your-computer-stalls/"><u>Diagnose & Repair: Effective Techniques When Your Computer Stalls</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-troubleshooting-guide-to-eradicate-microsoft-xml-level-3-parser-error-code-0x887a0006/"><u>Easy Troubleshooting Guide to Eradicate Microsoft XML, Level 3 Parser Error - Code 0X887A0006</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-launching-problematic-applications-on-administrator-logins/"><u>Expert Tips for Launching Problematic Applications on Administrator Logins</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-smart-8-plus-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-6s-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 6s using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-f5-pro-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco F5 Pro 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://solve-help.techidaily.com/mastering-video-codecs-conversion-switching-between-h264-and-h265-with-ffmpeg-techniques/"><u>Mastering Video Codecs Conversion: Switching Between H264 and H265 with FFmpeg Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-non-responsive-function-key-problems-on-your-device/"><u>Overcoming Non-Responsive Function Key Problems on Your Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-typing-issues-in-windows-11-how-to-repair-a-non-functional-key/"><u>Solving Typing Issues in Windows 11: How to Repair a Non-Functional Key</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-unstick-your-computer-during-the-initial-windows-installation/"><u>Step-by-Step Guide: Unstick Your Computer During the Initial Windows Installation</u></a></li>
+<li><a href="https://discover-great.techidaily.com/understanding-image-granularity-causes-of-blurry-images-and-effective-solutions/"><u>Understanding Image Granularity: Causes of Blurry Images & Effective Solutions</u></a></li>
+<li><a href="https://facebook.techidaily.com/year-in-review-unpacking-this-years-favorite-podcasts/"><u>Year in Review: Unpacking This Year's Favorite Podcasts</u></a></li>
+</ul></div>
 

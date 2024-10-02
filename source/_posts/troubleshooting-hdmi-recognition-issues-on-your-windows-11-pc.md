@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting HDMI Recognition Issues on Your Windows 11 PC
-date: 2024-09-13T16:38:13.932Z
-updated: 2024-09-20T17:43:52.424Z
+date: 2024-09-28T22:53:14.209Z
+updated: 2024-10-02T03:04:50.330Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ### Tip 2: Check your desktop icon settings
@@ -52,17 +59,18 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Click **Themes** \> **Desktop icon settings**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
 
@@ -71,6 +79,14 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -90,19 +106,27 @@ If your desktop icons still don’t show up, you can perform a system restore to
 3. Select **Choose a different restore point**, and click **Next**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
-5. Click **Next** \> **Finish**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
+5. Click **Next** \> **Finish**.
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -113,10 +137,10 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 2. Click **Update & security** \> **Recovery**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
@@ -141,13 +165,6 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 Hopefully, this can help you out.
@@ -169,5 +186,20 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-harnessing-the-power-of-gopro-a-guide-to-streaming-on-facebookperiscope/"><u>[New] In 2024, Harnessing the Power of GoPro A Guide to Streaming on Facebook/Periscope</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-soundscapes-startups-the-best-10-music-pieces-for-podcast-intros/"><u>[New] Soundscapes Startups The Best 10 Music Pieces for Podcast Intros</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-essentials-of-transferring-youtube-media-to-social-networks/"><u>[Updated] The Essentials of Transferring YouTube Media to Social Networks</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-cod-black-ops-cold-war-error-code-80070057-for-smooth-gaming/"><u>Banish Cod: Black Ops Cold War Error Code 80070057 for Smooth Gaming</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-factors-behind-the-popularity-and-success-of-the-wii-u/"><u>Discovering Factors Behind the Popularity and Success of the Wii U</u></a></li>
+<li><a href="https://common-error.techidaily.com/fight-the-wmi-energy-drain-in-win1011/"><u>Fight the WMI Energy Drain in Win10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-driver-issues-on-your-computer-for-smooth-windows-operation-a-step-by-step-guide/"><u>Fixing Driver Issues on Your Computer for Smooth Windows Operation - A Step-by-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-mix-fold-3-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Mix Fold 3?</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-initial-boot-challenges-in-monster-hunter-world-the-black-screen-fix/"><u>Overcoming Initial Boot Challenges in Monster Hunter: World - The Black Screen Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-ie-tips-for-fixing-the-browser-has-stopped-working/"><u>Revive Your IE: Tips for Fixing the 'Browser Has Stopped Working'</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-reviving-broken-32-bit-applications-print-driver-host/"><u>Solution Found: Reviving Broken '32-Bit Applications Print Driver Host'</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-tutorial-on-permanently-removing-your-instagram-profile-for-2024/"><u>The Ultimate Tutorial on Permanently Removing Your Instagram Profile for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/unveiling-dji-phantom-3s-expert-features/"><u>Unveiling DJI Phantom 3'S Expert Features</u></a></li>
+</ul></div>
 

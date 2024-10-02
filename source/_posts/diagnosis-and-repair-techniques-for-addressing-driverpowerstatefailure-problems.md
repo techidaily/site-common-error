@@ -1,7 +1,7 @@
 ---
 title: Diagnosis and Repair Techniques for Addressing DRIVER_POWER_STATE_FAILURE Problems
-date: 2024-09-23T00:45:34.587Z
-updated: 2024-09-26T19:10:34.671Z
+date: 2024-09-28T03:22:44.500Z
+updated: 2024-10-01T23:23:13.034Z
 tags:
   - win11
   - win10
@@ -62,22 +62,15 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b3d657b3f.png)
   
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Double-click the first USB Root Hub device in the list, and click the **Power Management**  tab. (If you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b4911321a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Un-check the **Allow the computer to turn off this device to save power** checkbox, and click **OK**  .  
@@ -85,14 +78,14 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 ![](https://images.drivereasy.com/wp-content/uploads/2016/06/img_5768b4a64ced8.png)
   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Repeat steps 3-4 for each  USB Root Hub device in your list of Universal Serial Bus controllers
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 4: Check your device drivers**
 
@@ -109,10 +102,16 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb32c9a931.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -120,6 +119,13 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 Here take Intel USB 3.0 driverf for example:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb3367beb7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,21 +142,24 @@ Here take Intel USB 3.0 driverf for example:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-lightroom-hdr-tutorial-how-to-create-and-merge-stunning-hdr-images-in-lightroom/"><u>[New] Lightroom HDR Tutorial How to Create and Merge Stunning HDR Images in Lightroom</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-memes-mastermind-for-2024/"><u>[New] Memes Mastermind for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2023-how-to-watch-facebook-live-in-2024/"><u>2023 | How to Watch Facebook Live, In 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-clearscreenstreamer-seamless-easy-w11-screenshots/"><u>2024 Approved ClearScreenStreamer Seamless, Easy W11 Screenshots</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/radi/"><u>無料で簡単に、RADIこの聴取録画手引き</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-your-aoc-usb-display-not-recognizing-on-windows-11/"><u>How to Resolve Your AOC USB Display Not Recognizing on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208249116-how-to-troubleshoot-pc-game-crashes-in-nier-automata-solved/"><u>How to Troubleshoot PC Game Crashes in Nier: Automata - Solved</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-vip-racing-edition-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Infinix Note 30 VIP Racing Edition Phone without Any Data Loss</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Oppo A1x 5G? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-vsdc-not-your-cup-of-tea-try-these-mac-video-editor-alternatives/"><u>In 2024, VSDC Not Your Cup of Tea? Try These Mac Video Editor Alternatives</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intel-cpu-replacement-in-latest-surface-pro-with-advanced-snapdragon-technology/"><u>Intel CPU Replacement in Latest Surface Pro with Advanced Snapdragon Technology</u></a></li>
-<li><a href="https://common-error.techidaily.com/msk-is-a-bandwidth-efficient-form-of-fm-used-in-digital-communications/"><u>MSK Is a Bandwidth-Efficient Form of FM Used in Digital Communications.</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-how-to-restore-missing-icons-on-your-desktop-in-windows-11/"><u>Solution Steps: How to Restore Missing Icons on Your Desktop in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-pcs-cannot-find-d3dcompiler43dll-problem/"><u>Solving Your PC's 'Cannot Find d3dcompiler_43.dll' Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-hidden-desktop-icons-on-windows-11-the-ultimate-fixes/"><u>Troubleshooting Hidden Desktop Icons on Windows 11 - The Ultimate Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-the-potential-of-windows-hello-for-windows-10-hardware-not-supported-by-default/"><u>Unlocking the Potential of Windows Hello for Windows 10 Hardware Not Supported by Default</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-experience-reality-redefined-with-htc-vive/"><u>[Updated] Experience Reality Redefined with HTC Vive</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-parrot-playfulness-explored-in-bebop-2/"><u>[Updated] Parrot Playfulness Explored in Bebop 2</u></a></li>
+<li><a href="https://common-error.techidaily.com/battleye-service-installation-issue-resolved-successful-fix/"><u>BattlEye Service Installation Issue Resolved - Successful Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/computer-starts-up-without-problems-fix-implemented/"><u>Computer Starts Up Without Problems – Fix Implemented</u></a></li>
+<li><a href="https://article-helps.techidaily.com/design-humor-in-frames-picgenius/"><u>Design Humor in Frames PicGenius</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-ways-to-resolve-csgo-crashes-get-back-in-action-immediately/"><u>Effortless Ways to Resolve CSGO Crashes - Get Back in Action Immediately</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-computer-stuck-on-windows-10-boot-screen/"><u>How to Fix a Computer Stuck on Windows 10 Boot Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-error-cant-find-appropriate-printer-driver/"><u>How to Fix Windows Error: Can't Find Appropriate Printer Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-system-file-checker-issues-and-sfc-errors-on-pc/"><u>How to Resolve 'Windows System File Checker' Issues and SFC Errors on PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y55s-5g-2023-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/labyrinth-luminaries-top-10-roguelike-highlights-for-2024/"><u>Labyrinth Luminaries Top 10 Roguelike Highlights for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/logitechs-silent-hero-usb-restored/"><u>Logitech's Silent Hero: USB Restored</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/monitoring-cardiac-health-in-real-time-with-the-innovative-samsung-galaxy-watch-active-2/"><u>Monitoring Cardiac Health in Real-Time with the Innovative Samsung Galaxy Watch Active 2</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/premier-8-screen-recorders-guidebook/"><u>Premier 8 Screen Recorders Guidebook</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/proven-techniques-for-counteracting-virtual-insults/"><u>Proven Techniques for Counteracting Virtual Insults</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-common-overwatch-microphone-problems/"><u>Quick Fixes for Common Overwatch Microphone Problems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-k11-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Oppo K11 5G Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-build-1607-upgrade-unsuccessful-troubleshooting-steps/"><u>Windows 10 Build 1607 Upgrade Unsuccessful: Troubleshooting Steps</u></a></li>
 </ul></div>
 

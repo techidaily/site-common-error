@@ -1,7 +1,7 @@
 ---
 title: How to Restore Functionality to Your Dell's Broken USB Port - A Comprehensive Guide
-date: 2024-09-18T16:26:21.789Z
-updated: 2024-09-20T19:03:31.545Z
+date: 2024-09-24T18:02:01.845Z
+updated: 2024-10-02T03:12:10.042Z
 tags:
   - win11
   - win10
@@ -81,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-639.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now that you’ve disabled Sleep Mode, restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
 #### on Windows 11
@@ -100,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Tick the “Support TabletPC” option
@@ -112,34 +119,13 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
  1) Double-click the**driver tablet icon** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-27_18-52-38.jpg) on your system tray (an area on the right side of your Taskbar) to open the PenTablet control interface.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Check the**Support TabletPC** box, as shown below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your tablet driver
 
@@ -190,10 +176,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-653-1024x311.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to download the user manual, select the icon next to**Instruction:** according to your operating system.
@@ -207,6 +193,19 @@ OR
  4) Double-click the extracted folder you get and then double-click the**.exe file** in that folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-660.png)
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Follow the on-screen wizard to install the driver.
 
@@ -224,9 +223,23 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-663.png)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) When Notepad is opened, type in**UseSystemStylus 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then save the file as**PSUserConfig.txt** to the following location:
 
@@ -237,6 +250,13 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 **Note** that some of the functions in your drawing software may be unusable if you disable Windows Ink. In that situation, you’ll need to enable Windows Ink again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
 
@@ -261,5 +281,22 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-capture-and-preserve-a-detailed-look-at-7-ways-to-log-webcasts-for-2024/"><u>[New] Capture and Preserve A Detailed Look at 7 Ways to Log Webcasts for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-essential-asmr-mics-for-optimal-audio-experience-for-2024/"><u>[New] Essential ASMR Mics for Optimal Audio Experience for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-soundscape-symphony-magixs-audio-mastery-in-studio-suite/"><u>[New] In 2024, The Soundscape Symphony Magix's Audio Mastery in Studio Suite</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-navigating-through-youtube-settings-to-mute-snapshots/"><u>[New] Navigating Through YouTube Settings to Mute Snapshots</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-the-challenge-of-svchostexe-netsvcs-strategies-to-curtail-its-significant-impact-on-internet-usage/"><u>Addressing the Challenge of svchost.exe (NETsvcs): Strategies to Curtail Its Significant Impact on Internet Usage</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/boost-stories-interaction-with-peculiar-creative-questions-for-2024/"><u>Boost Stories Interaction with Peculiar Creative Questions for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-file-explorer-hangs-tips-and-solutions-for-smoother-windows-experience/"><u>Bypassing File Explorer Hangs: Tips and Solutions for Smoother Windows Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-tips-and-tricks-ensuring-seamless-bluetooth-pairing-with-windows-11/"><u>Essential Tips and Tricks: Ensuring Seamless Bluetooth Pairing with Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-mode-expert-tips-on-getting-fortnites-sound-working-again/"><u>Fixing the Silent Mode: Expert Tips on Getting Fortnite's Sound Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restore-corrupt-system-files-on-your-windows-machine/"><u>Guide to Restore Corrupt System Files on Your Windows Machine</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-google-photos-complete-guide-for-2024/"><u>How to Google Photos [Complete Guide] for 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/macx-dvd-ripper-pro-v495-upgraded-with-new-features-for-macos-sierra-and-iphone/"><u>MacX DVD Ripper Pro v4.9.5 Upgraded with New Features for macOS Sierra & iPhone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-audio-cds-mp3-conversion-with-imgburn-for-windows-users/"><u>Mastering Audio CDs: MP3 Conversion with ImgBurn for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/msvcr71dll-found-problem-solution-confirmed/"><u>MSVCR71.dll Found: Problem Solution Confirmed</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202809805-reviving-broken-arrow-buttons-expert-fixes-for-a-smooth-typing-experience/"><u>Reviving Broken Arrow Buttons - Expert Fixes for a Smooth Typing Experience</u></a></li>
+</ul></div>
 

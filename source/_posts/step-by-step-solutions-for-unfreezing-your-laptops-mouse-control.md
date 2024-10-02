@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Unfreezing Your Laptop's Mouse Control
-date: 2024-09-23T20:26:31.742Z
-updated: 2024-09-26T17:12:17.347Z
+date: 2024-09-24T20:09:54.561Z
+updated: 2024-10-02T02:11:51.709Z
 tags:
   - win11
   - win10
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
  4) If possible,**use your current AC adapter to charge a new battery** . If the battery is charging, it indicates your battery is bad. If the new battery is not charging, perhaps it is the AC adapter that triggers this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Turn off the battery charge threshold
@@ -76,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you turn off the battery charge threshold feature, your battery should be charging.
 
 ### Fix 3: Perform a power reset on your laptop
@@ -90,10 +97,10 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
  See if the battery is charging. If so, you’ve fixed this issue. If the issue reappears, don’t worry. Try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Microsoft ACPI-Compliant Control Method Battery
@@ -104,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Double-click**Batteries** . Right-click **Microsoft ACPI-Compliant Control Method Battery**  and select **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/1-1.jpg)
@@ -118,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
  3) Click**Uninstall** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Shut down your laptop and **disconnect the AC adapter** .
 
@@ -137,6 +130,13 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
  i. On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Type **devmgmt.msc** and press **Enter** to open **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5badd073b6f72.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
 
@@ -168,19 +168,6 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-6.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -190,6 +177,13 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 Your battery should then be charging.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hopefully one of the fixes above resolved the laptop battery not charging issue for you. Please leave your comment below if you have any questions.
 
@@ -211,19 +205,21 @@ Your battery should then be charging.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elite-streaming-sensations-worlds-most-popular-video-content-makers/"><u>[New] 2024 Approved Elite Streaming Sensations World's Most Popular Video Content Makers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-video-capture-clash-a-rivalry-of-screens-obs-vs-shadowcast/"><u>[New] Video Capture Clash A Rivalry of Screens (OBS Vs. ShadowCast)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1080p-hd-dvd-extractor-pro-fast-convert-dvds-to-hevc-format-in-under-five-minutes-official/"><u>1080P HD DVD Extractor Pro - Fast Convert DVDs to HEVC Format in Under Five Minutes [Official]</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-lava-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Lava</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-missing-desktop-icons-in-windows-10-made-easy/"><u>Fixing the Issue: Missing Desktop Icons in Windows 10 Made Easy</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-persistent-windows-update-issue-error-0x8024401c/"><u>Fixing the Persistent Windows Update Issue (Error 0X8024401C)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-tackle-and-fix-simple-anti-cheat-difficulties-in-apex-legends/"><u>How to Tackle and Fix Simple Anti-Cheat Difficulties in Apex Legends</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-nokia-xr21-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Nokia XR21 Phone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-smart-image-sharing-on-instagram/"><u>In 2024, Smart Image Sharing on Instagram</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/nba-2k21s-green-functionality-enhancement-glitch-no-more/"><u>NBA 2K21's Green Functionality Enhancement - Glitch No More!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-resolving-delays-during-system-startup-on-computers/"><u>Troubleshooting and Resolving Delays During System Startup on Computers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unlock-full-potential-of-your-zoom-sessions-with-obs/"><u>Unlock Full Potential of Your Zoom Sessions With OBS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-isnt-cod-vanguards-voice-chat-working-expert-fixes-and-tips/"><u>Why Isn't COD: Vanguard's Voice Chat Working? Expert Fixes & Tips</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-capturecrafted-expert-reviews-on-the-best-screen-recorders/"><u>2024 Approved CaptureCrafted Expert Reviews on the Best Screen Recorders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/automate-your-social-media-presence-scheduling-tweets-like-a-pro/"><u>Automate Your Social Media Presence: Scheduling Tweets Like a Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209901727-breeze-through-fixing-windows-update-error-code-0x80070002-simple-solutions-for-smooth-operations/"><u>Breeze Through Fixing Windows Update Error Code 0X80070002: Simple Solutions for Smooth Operations!</u></a></li>
+<li><a href="https://common-error.techidaily.com/clearing-cache-failures-how-to-address-erroneous-caching-errcachemiss-errors-on-chrome/"><u>Clearing Cache Failures: How to Address Erroneous Caching (ERR_CACHE_MISS) Errors on Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-fixing-the-critical-halo-t-4-ue4-fatal-error-and-avoiding-system-crashes/"><u>Comprehensive Guide: Fixing the Critical Halo T 4 UE4 'Fatal Error' & Avoiding System Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-code-24-errors-for-missing-devices-in-windows-os/"><u>How To Fix Code 24 Errors for Missing Devices in Windows OS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-se-2022-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone SE (2022)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-top-5-time-lapse-screen-recorder/"><u>In 2024, Top 5 Time-Lapse Screen Recorder</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-magic-of-ar-mastering-lut-applications/"><u>In 2024, Unveiling the Magic of AR Mastering LUT Applications</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722987181997-mortal-kombat-11-no-more-crashes-speedy-and-straightforward-fix-guide/"><u>Mortal Kombat 11 No More Crashes: Speedy & Straightforward Fix Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-ls-0013-issue-in-borderlands-3-a-step-by-step-guide/"><u>Solving the LS-0013 Issue in Borderlands 3: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-the-missing-sound-device-error-in-windows-11/"><u>Step-by-Step Solution for the Missing Sound Device Error in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-failed-downloads-of-windows-7-patches-and-updates/"><u>Troubleshooting Failed Downloads of Windows 7 Patches and Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-non-responsive-function-fn-keys-on-your-lenovo-laptop/"><u>Troubleshooting Guide: Fixing Non-Responsive Function (Fn) Keys on Your Lenovo Laptop</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/wireless-audio-setup-on-windows-11-effortlessly-pairing-and-connecting-bluetooth-headsets/"><u>Wireless Audio Setup on Windows 11: Effortlessly Pairing and Connecting Bluetooth Headsets</u></a></li>
 </ul></div>
 

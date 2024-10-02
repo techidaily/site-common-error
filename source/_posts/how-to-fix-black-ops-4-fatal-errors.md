@@ -1,7 +1,7 @@
 ---
 title: How to Fix Black Ops 4 Fatal Errors
-date: 2024-09-14T19:40:43.883Z
-updated: 2024-09-20T18:26:07.487Z
+date: 2024-09-26T04:04:26.165Z
+updated: 2024-10-02T03:15:45.403Z
 tags:
   - win11
   - win10
@@ -52,8 +52,23 @@ thumbnail: https://thmb.techidaily.com/a34b3784d5ea8d0b2be6eaec5083d1cf0c7c6de5e
 1. Right-click the**VALORANT icon** and select**Properties** at the button of the pop-up menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-open-file-location.jpg)
 2. Under the**Compatibility** tab, tick the box**Run this program as an administrator** and then click**Apply** \>**OK**  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/VALORANT-run-as-ad.jpg)
 3. Now try to open the game again. If this method doesn’t work, navigate to the next below.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
 
@@ -83,6 +98,14 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-graphics.jpg)
 4. Restart your PC for the new graphics driver to take effect.
@@ -99,44 +122,30 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-settings-apps.jpg)
 2. Find**Valorant** from the Apps & features list and click on it.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Appsfeatures-1.jpg)
 3. Click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Uninstall-1.jpg)
 4. Click**Uninstall** again in the pop-up window.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/app-uninstall.jpg)
 5. After the Valorant application is successfully uninstalled. Reinstall it from the[**Valorant download page**](https://playvalorant.com/zh-tw/download/) .
 
  If this reinstalling process still doesn’t work for you, you may give the last fix a try.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Delete Manifest txt files
 
@@ -167,5 +176,21 @@ If this doesn’t solve your problem, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-exploring-every-frame-a-deep-dive-into-polaroids-xs-action-camera-for-2024/"><u>[New] Exploring Every Frame A Deep Dive Into Polaroid's XS Action Camera for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-recmaster-screen-recorder-review-2023/"><u>[New] Recmaster Screen Recorder Review 2023</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-step-by-step-guide-signing-up-for-a-new-facebook-profile/"><u>[Updated] 2024 Approved Step-by-Step Guide Signing Up for a New Facebook Profile</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-affiliate-advancements-how-small-channels-thrive-financially/"><u>[Updated] In 2024, Affiliate Advancements How Small Channels Thrive Financially</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-filming-for-virality-on-youtube/"><u>[Updated] The Ultimate Guide to Filming for Virality on YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/dell-laptop-keyboard-malfunction-heres-the-step-by-step-solution/"><u>Dell Laptop Keyboard Malfunction? Here's the Step-by-Step Solution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dont-lose-it-again-restoring-deleted-chatgpt-interactions-efficiently/"><u>Don't Lose It Again! Restoring Deleted ChatGPT Interactions Efficiently</u></a></li>
+<li><a href="https://solve-info.techidaily.com/enhancing-user-experience-through-cookiebot-driven-seo-strategies/"><u>Enhancing User Experience Through Cookiebot-Driven SEO Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-track-your-pc-refresh-a-step-by-step-walkthrough-for-windows-11-reboot/"><u>Fast-Track Your PC Refresh: A Step-by-Step Walkthrough for Windows 11 Reboot</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-lenovo-wifi-error-no-appropriate-driver-to-be-installed/"><u>Fix Lenovo WiFi Error: No Appropriate Driver to Be Installed</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-stuck-boot-loops-overcome-being-trapped-at-setting-up-windows-prepare-effortlessly/"><u>Fixing Stuck Boot Loops: Overcome Being Trapped at 'Setting Up Windows Prepare' Effortlessly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/soundback-discord-microphone-fixed/"><u>Soundback: Discord Microphone Fixed</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-persistent-restart-cycles-in-windows-1110-effective-fixes-revealed/"><u>Winning Against Persistent Restart Cycles in Windows 11/10 - Effective Fixes Revealed</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the SteelSeries Arctis 5 Microphone Issues - A Comprehensive Guide
-date: 2024-09-19T19:38:39.215Z
-updated: 2024-09-20T19:05:57.611Z
+date: 2024-09-29T19:12:17.032Z
+updated: 2024-10-02T03:19:19.021Z
 tags:
   - win11
   - win10
@@ -45,9 +45,29 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
@@ -72,16 +92,10 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -95,21 +109,30 @@ To do so:
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest SteelSeries Engine software
 
@@ -140,5 +163,21 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-rotate-iphone-pics-sideways-and-upside-down-made-easy/"><u>[New] 2024 Approved Rotate iPhone Pics Sideways & Upside Down Made Easy</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ace-your-project-advanced-srt-tweaks-on-a-mac-for-2024/"><u>[New] Ace Your Project Advanced SRT Tweaks on a Mac for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/eo-booster-essentials-for-top-online-videos/"><u>[New] SEO Booster Essentials for Top Online Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-troublesome-unregistered-class-warnings-in-your-new-windows-11-system/"><u>Bypassing Troublesome Unregistered Class Warnings in Your New Windows 11 System</u></a></li>
+<li><a href="https://windows11.techidaily.com/confronting-error-code-0x8007045d-a-guide-for-windows-11-users/"><u>Confronting Error Code 0X8007045d: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cut-to-the-chase-reliable-filmora-promo-codes-here/"><u>Cut to the Chase Reliable Filmora Promo Codes Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-enable-and-use-bluetooth-in-microsofts-latest-operating-systems/"><u>Easy Steps to Enable and Use Bluetooth in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elite-50-ears-for-streaming-services-joy/"><u>Elite 5.0 Ears for Streaming Services Joy</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic5-ultimate-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor Magic5 Ultimate Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-windows-1110-endless-reboot-loop-effective-troubleshooting-steps/"><u>Overcome Windows 11/10 Endless Reboot Loop: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-hamachi-connection-halt-error-with-these-simple-solutions/"><u>Resolve Your Hamachi Connection Halt Error with These Simple Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-a-nonworking-laptop-mic-completed/"><u>Troubleshooting and Repairing a Nonworking Laptop Mic [COMPLETED]</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+</ul></div>
 

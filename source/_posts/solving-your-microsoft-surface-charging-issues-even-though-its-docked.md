@@ -1,7 +1,7 @@
 ---
 title: Solving Your Microsoft Surface Charging Issues Even Though It’s Docked
-date: 2024-09-13T17:55:08.638Z
-updated: 2024-09-20T16:38:07.643Z
+date: 2024-09-27T02:25:01.496Z
+updated: 2024-10-02T00:53:14.522Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/75040013d17be0726faccbc397c3b3541c1732db6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b623499e38.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Select **Check for updates** , and wait for the system updates to be installed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b63705ebce.png)
@@ -84,10 +91,17 @@ thumbnail: https://thmb.techidaily.com/75040013d17be0726faccbc397c3b3541c1732db6
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Reset your Surface Pro 4
@@ -97,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/75040013d17be0726faccbc397c3b3541c1732db6
 **1)** Open **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b61efb81b9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)**  Select **Update & Security.**
 
@@ -109,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/75040013d17be0726faccbc397c3b3541c1732db6
 **4)** Choose either to **keep your files** or to **remove everything** when resetting your device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c551f22061.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Wait for your device to be reset completely. Then try your screen and see if it gets back to normal.
 
@@ -134,5 +148,21 @@ thumbnail: https://thmb.techidaily.com/75040013d17be0726faccbc397c3b3541c1732db6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-turn-your-watched-fb-video-into-an-mp3-file/"><u>[New] Turn Your Watched FB Video Into an MP3 File</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-capture-stunning-videos-on-iphone-8-pro-tips-for-quality-shootings/"><u>2024 Approved Capture Stunning Videos on iPhone 8 Pro Tips for Quality Shootings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-s23-ultra-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy S23 Ultra?</u></a></li>
+<li><a href="https://windows11.techidaily.com/extending-windows-11-shutdown-for-active-tasks-tips-and-tricks/"><u>Extending Windows 11 Shutdown for Active Tasks: Tips & Tricks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-call-of-duty-modern-warfare-voice-chat-back-on-track-a-guide-to-resolving-common-issues/"><u>Getting Your Call of Duty Modern Warfare Voice Chat Back On Track: A Guide to Resolving Common Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcoming-the-access-denied-http-403-problem-on-your-site/"><u>Guide to Overcoming the 'Access Denied' HTTP 403 Problem on Your Site</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-prevent-your-desktop-or-laptop-from-going-to-sleep-on-its-own/"><u>How to Prevent Your Desktop or Laptop From Going to Sleep on Its Own</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-11-fixes-with-system-file-checker-and-deployment-image-servicing-management-utilities/"><u>Mastering Windows 11 Fixes with System File Checker and Deployment Image Servicing Management Utilities</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-update-loop-at-99-or-full-get-back-on-track-now/"><u>Resolving Windows 10 Update Loop at 99% or Full - Get Back on Track Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-for-erasing-your-twitch-presence-forever/"><u>Step-by-Step Instructions for Erasing Your Twitch Presence Forever</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-quick-fix-updated-asus-monitor-drivers-at-your-fingertsip/"><u>The Quick Fix: Updated ASUS Monitor Drivers at Your Fingertsip</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-missing-osetupdll-error-on-your-pc-solutions-unveiled/"><u>Troubleshooting the Missing osetup.dll Error on Your PC - Solutions Unveiled!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-how-to-resolve-zooms-microphone-problems-for-users-of-windows-11-and-10/"><u>Troubleshooting: How to Resolve Zoom's Microphone Problems for Users of Windows 11 & 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-alert-your-pc-needs-a-directx-11-gpu-for-optimal-performance/"><u>Update Alert! Your PC Needs a DirectX 11 GPU for Optimal Performance</u></a></li>
+</ul></div>
 

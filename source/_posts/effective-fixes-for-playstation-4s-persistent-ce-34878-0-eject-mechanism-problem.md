@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for PlayStation 4'S Persistent CE-34878-0 Eject Mechanism Problem
-date: 2024-09-18T17:52:24.309Z
-updated: 2024-09-20T17:04:44.952Z
+date: 2024-09-28T16:11:05.877Z
+updated: 2024-10-01T21:12:52.344Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-104.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-105.png)
@@ -119,16 +126,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-118.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type**msconfig** . Then, on your keyboard, press the**Enter, Shift** and**Ctrl** keys at the same time to run System configuration as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-116.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Uncheck the box next to**Load startup items** . Then click**Apply** .
 
@@ -139,19 +146,33 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-110.png)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-109.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-112.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Click the**Startup tab.**
 
@@ -201,6 +222,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-94.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** Right-click the program you want to prevent it from auto-launching and select **Disable** .
 
  Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety.
@@ -227,20 +255,27 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-148.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click the**Services tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-150.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Click**Enable all,** then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-145.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Click**Restart** .
 
@@ -256,13 +291,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-160.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Type **cmd,** then press the **Ctrl, Shift**  and **Enter** keys at the same time to run the Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-159.png)
@@ -272,13 +300,6 @@ OR
  This process could take several minutes. Please wait for it to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-166.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Type **dism.exe /online /cleanup-image /startcomponentcleanup** , then press the **Enter**  key on your keyboard.
 
@@ -310,5 +331,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/nlocking-the-vault-the-wealth-of-mr-beast/"><u>[New] Unlocking the Vault The Wealth of Mr. Beast</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-pros-to-follow-vr-industry-trailblazers/"><u>2024 Approved Pros to Follow VR Industry Trailblazers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/3-multilingual-marvels-transforming-your-linguistic-journey-today/"><u>3 Multilingual Marvels Transforming Your Linguistic Journey Today</u></a></li>
+<li><a href="https://fox-http.techidaily.com/discover-top-5-cost-free-windows-10-screencast-recorders-for-2024/"><u>Discover Top 5 Cost-Free Windows 10 Screencast Recorders for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-of-canon-mf743cdw-driver-for-windows-operating-system/"><u>Easy Installation of Canon MF743CDW Driver for Windows Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-pitch-black-a-comprehensive-approach-to-dell-laptop-screen-problems/"><u>Fixing the Pitch Black: A Comprehensive Approach to Dell Laptop Screen Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721469320043-how-to-fix-an-iphone-that-cant-send-texts-essential-tips/"><u>How to Fix an iPhone That Can't Send Texts – Essential Tips!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-audio-functionality-when-windows-1n-detects-no-output-device-installed/"><u>How to Restore Audio Functionality When Windows 1N Detects No Output Device Installed</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-function-key-malfunction-on-your-dell-pc-a-step-by-step-guide/"><u>Solving the Function-Key Malfunction on Your Dell PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/speed-up-your-keys-effective-methods-to-fix-laggy-keyboard-performance/"><u>Speed Up Your Keys: Effective Methods to Fix Laggy Keyboard Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-restoring-right-click-functionality-in-windows-11-pcs/"><u>Step-by-Step Solution: Restoring Right-Click Functionality in Windows 11 PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-6-solutions-for-resolving-werfaultexe-errors-in-windows/"><u>Top 6 Solutions for Resolving werFault.exe Errors in Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-windows-11s-visual-capabilities-with-auto-hdr-mode-activation/"><u>Unlocking Windows 11'S Visual Capabilities with Auto HDR Mode Activation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-best-graphic-design-suites-and-applications-top-17/"><u>Unveiling the Best Graphic Design Suites & Applications (Top 17)</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212161589-win-11-volume-troubleshooting-guide-get-your-sounds-back-today/"><u>Win 11 Volume Troubleshooting Guide - Get Your Sounds Back Today</u></a></li>
+</ul></div>
 
