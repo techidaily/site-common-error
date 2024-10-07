@@ -1,7 +1,7 @@
 ---
 title: "ERR_TOO_MANY_REDIRECTS Fixed: Fast Solutions"
-date: 2024-09-14T18:16:19.946Z
-updated: 2024-09-20T17:54:29.060Z
+date: 2024-09-29T21:50:11.491Z
+updated: 2024-10-07T05:32:47.995Z
 tags:
   - win11
   - win10
@@ -39,9 +39,25 @@ When you pay the money and look forward to enjoying the game but find that the g
 
 1. Pause the initializing process and close**Battle.net** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d22.jpg)
 2. Navigate to your Destiny 2 folder location. Usually, it’s in C:\\Program Files (x86)\\. Then rename the Destiny 2 folder.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Open**Battle.net** and click**Install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d20.jpg)
 4. Change the folder name back to Destiny 2.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
 5. Click**Start install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d21.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Be patient, the process will resume from where you left off after verifying the files that are already there. Then you’re good to go.
 
  After downloading the program successfully, it is recommended to[update your driver](https://tools.techidaily.com/drivereasy/download/) to improve your gaming performances.
@@ -70,10 +86,16 @@ Reinstall the Battle.net can may help you solve the issue.
 4. Download Destiny 2 to see whether it can help.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -89,17 +111,17 @@ Reinstall the Battle.net can may help you solve the issue.
 4. Run Blizzard and check whether the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5: Check your antivirus software
@@ -120,21 +142,28 @@ Reinstall the Battle.net can may help you solve the issue.
 2. Type “services.msc” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/services.jpg)
 3. Locate and right-click**Secondary Logon** in the right pane.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/servi.jpg)
 5. Find Startup type and select**Automatic** in the dropdown menu. Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/ser.jpg)
 
  Some security programs may turn the secondary logon service off. If the service is disabled again after you’ve switched it to automatic, you must configure your security program to stop disabling the service. Contact your security program’s manufacturer if you need assistance with configuring your security software.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -164,13 +193,6 @@ OR
 2. Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/07/gpu1.jpg)
 3. Click the**Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/07/gpu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
  We hope you find the above information helpful. And if you have any ideas, suggestions, or questions, feel free to leave a comment below.
@@ -190,5 +212,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-essential-specs-transitioning-to-macos-11-big-sur/"><u>[New] In 2024, Essential Specs Transitioning to MacOS 11 Big Sur</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-what-everyone-should-learn-about-subscribing-to-youtube-tv/"><u>[Updated] In 2024, What Everyone Should Learn About Subscribing to YouTube TV</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-10-best-classic-family-vacation-movie-for-summer/"><u>2024 Approved 10 Best Classic Family Vacation Movie for Summer</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-missing-d3dxt939dll-errors-in-windows-expert-solutions-and-tips/"><u>Fixing Missing d3dxt9_39.dll Errors in Windows - Expert Solutions and Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/graphics-card-update-resolves-miracast-connectivity-issue/"><u>Graphics Card Update Resolves Miracast Connectivity Issue</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-realme-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Realme ?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-se-2022-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone SE (2022) Activation Lock</u></a></li>
+<li><a href="https://common-error.techidaily.com/internet-explorer-wont-open-discover-proven-fixes-for-an-instant-solution/"><u>Internet Explorer Won't Open? Discover Proven Fixes for an Instant Solution!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-tablet-selection-tips-for-evaluating-device-size-and-heftiness/"><u>Mastering Tablet Selection: Tips for Evaluating Device Size and Heftiness</u></a></li>
+<li><a href="https://games-able.techidaily.com/open-arms-to-every-gamers-preferences/"><u>Open Arms to Every Gamer's Preferences</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-overcoming-error-8007000e-in-windows-updates/"><u>Quick Solutions for Overcoming Error 8007000E in Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-sound-functionality-in-your-acer-computer-step-by-step-troubleshooting/"><u>Restore Sound Functionality in Your Acer Computer - Step-by-Step Troubleshooting</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-7-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 7 Plus to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-correcting-livekernelevent-error-144-malfunctions/"><u>Step-by-Step Solutions for Correcting LiveKernelEvent Error 144 Malfunctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207450866-troubled-by-the-0x80072efd-mistake-on-your-pc-heres-how-to-resolve-it/"><u>Troubled by the 0X80072EFD Mistake on Your PC? Here’s How to Resolve It</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-v1607-update-installed-incorrectly-steps-for-resolution/"><u>Windows 11 v1607 Update Installed Incorrectly – Steps for Resolution</u></a></li>
+</ul></div>
 

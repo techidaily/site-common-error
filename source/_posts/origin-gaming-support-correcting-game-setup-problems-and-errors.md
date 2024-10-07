@@ -1,7 +1,7 @@
 ---
 title: "Origin Gaming Support: Correcting Game Setup Problems and Errors"
-date: 2024-09-28T16:28:02.574Z
-updated: 2024-10-01T16:42:41.387Z
+date: 2024-10-06T09:29:06.677Z
+updated: 2024-10-07T06:00:42.903Z
 tags:
   - win11
   - win10
@@ -40,10 +40,10 @@ the picture was taken by: Article\_86
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -55,13 +55,6 @@ the picture was taken by: Article\_86
 3. [**Uninstall suspicious add-ons**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Clear Google Chrome cache**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset Google Chrome to default settings**](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Get an ad-block extension
 
@@ -76,13 +69,6 @@ the picture was taken by: Article\_86
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Uninstall suspicious add-ons
 
  If the scam appears after you install one or several add-ons, you may need to double-check these extensions.  
@@ -96,10 +82,10 @@ the picture was taken by: Article\_86
 4. Relaunch Chrome to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -112,12 +98,27 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **History** \> **History** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reset Google Chrome to default settings
 
@@ -128,13 +129,6 @@ the picture was taken by: Article\_86
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
@@ -142,6 +136,13 @@ the picture was taken by: Article\_86
 6. Relaunch Chrome to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## TIPS: Avoid Google Chrome Critical Error
 
@@ -178,24 +179,17 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-high-res-horizons-in-depth-analysis-of-samsung-ue590-tv/"><u>[New] 2024 Approved High-Res Horizons In-Depth Analysis of Samsung UE590 TV</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-ultimate-list-best-skype-audio-capture-tools-for-professionals/"><u>[New] 2024 Approved The Ultimate List Best Skype Audio Capture Tools for Professionals</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-intro-magic-crafting-irresistible-podcast-openers-for-2024/"><u>[New] Intro Magic Crafting Irresistible Podcast Openers for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-no-1-ranked-youtube-to-text-online-service/"><u>[New] No. 1 Ranked YouTube To Text Online Service</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oppo-reno-9a-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Oppo Reno 9A?</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-solutions-for-players-facing-launch-difficulties-in-pubgs-latest-edition-your-ultimate-guide/"><u>DIY Solutions for Players Facing Launch Difficulties in PUBG's Latest Edition - Your Ultimate Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202427841-expert-tips-to-optimize-and-fast-track-your-windows-the-boot-sequence-for-a-smoother-start-every-time/"><u>Expert Tips to Optimize and Fast-Track Your Windows the Boot Sequence for a Smoother Start Every Time.</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-freeze-how-to-unstick-your-destiny-2-game-during-initialization/"><u>Fixing the Freeze: How to Unstick Your Destiny 2 Game During Initialization</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-your-windows-10-device-when-the-right-click-function-is-broken/"><u>Fixing Your Windows 10 Device When the Right-Click Function Is Broken</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/laptop-touchpad-issues-in-windows-1187-easy-fixes-and-solutions/"><u>Laptop Touchpad Issues in Windows 11/8/7 – Easy Fixes and Solutions</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/learn-the-best-6-alternative-streaming-platforms/"><u>Learn The Best 6 Alternative Streaming Platforms</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/legal-chants-for-clarity-top-10-downloads-guide/"><u>Legal Chants for Clarity Top 10 Downloads Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-rated-macx-mobile-universal-app-for-seamless-video-transcoding-on-ios-android-and-more/"><u>Top Rated MacX Mobile: Universal App for Seamless Video Transcoding on iOS, Android & More</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-common-errors-when-installingupdating-on-steam-platform/"><u>Troubleshooting Common Errors When Installing/Updating on Steam Platform</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-disk-is-unclean-issue-fixing-error-0x80071ac3/"><u>Troubleshooting the 'Disk Is Unclean' Issue – Fixing Error 0X80071AC3</u></a></li>
-<li><a href="https://common-error.techidaily.com/unblocking-the-path-expert-tips-for-fixing-steams-failed-downloads/"><u>Unblocking the Path: Expert Tips for Fixing Steam's Failed Downloads</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-slow-motion-magic-how-to-use-windows-live-movie-makers-advanced-features/"><u>Updated In 2024, Slow Motion Magic How to Use Windows Live Movie Makers Advanced Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-cannot-locate-a-suitable-printer-driver-solved/"><u>Windows Cannot Locate a Suitable Printer Driver [SOLVED]</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-9-elite-webmicrone-recording-systems-for-professional-use-23/"><u>[Updated] 2024 Approved 9 Elite Webmicrone Recording Systems for Professional Use ('23)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-art-of-matchmaking-in-the-youtube-collaboration-arena/"><u>[Updated] 2024 Approved The Art of Matchmaking in the YouTube Collaboration Arena</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-6-cost-free-closers-for-your-youtube-video/"><u>[Updated] In 2024, 6 Cost-Free Closers for Your YouTube Video</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-essential-tags-to-amplify-your-youtube-gaming-channel/"><u>[Updated] In 2024, Essential Tags to Amplify Your YouTube Gaming Channel</u></a></li>
+<li><a href="https://common-error.techidaily.com/call-of-duty-world-war-ii-error-4220-steps-to-repair-your-gameplay-experience/"><u>Call of Duty World War II Error 4220 - Steps to Repair Your Gameplay Experience</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/explore-the-thrills-of-flying-with-the-affordable-syma-s111g-indoor-rc-helicopter-a-comprehensive-review/"><u>Explore the Thrills of Flying with the Affordable Syma S111G Indoor RC Helicopter: A Comprehensive Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/handling-and-solving-google-chrome-freezing-errors-solutions-overview/"><u>Handling and Solving Google Chrome Freezing Errors - Solutions Overview</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-s21-fe-5g-2023-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy S21 FE 5G (2023)? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-initialization-issues-with-windows-11-settings-expert-advice/"><u>Overcoming Initialization Issues with Windows 11 Settings: Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-issue-understanding-and-fixing-cod-wwii-error-code-4220/"><u>Resolving the Issue: Understanding and Fixing COD WWII Error Code 4220</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trasforma-i-tuoi-file-avi-in-formato-mjpeg-gratuitamente-online-con-convertiavi/"><u>Trasforma I Tuoi File AVI in Formato MJPEG Gratuitamente Online Con ConvertiAVI!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205981819-windows-11-copy-paste-malfunction-heres-how-to-restore-it/"><u>Windows 11 Copy-Paste Malfunction? Here's How to Restore It!</u></a></li>
 </ul></div>
 

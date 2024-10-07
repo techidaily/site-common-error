@@ -1,7 +1,7 @@
 ---
 title: Surface Book (Pro N) Cam Trouble on Windows 11 - Solutions Inside
-date: 2024-09-28T17:35:40.465Z
-updated: 2024-10-01T21:45:20.668Z
+date: 2024-10-01T01:35:56.536Z
+updated: 2024-10-07T02:52:46.219Z
 tags:
   - win11
   - win10
@@ -41,10 +41,10 @@ This problem could be caused by an old or incorrect camera driver on your Surfac
 6) Restart your Surface and see if your camera works.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 2: Update your Surface camera app in Microsoft Store
@@ -53,22 +53,15 @@ This problem could also be caused by the bug of your Surface camera. You can sol
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cf5564ecae4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Click the more options button on the right of**Search**, then click **Downloads and updates**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cf55bbd4171.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click **Get updates**.
@@ -76,15 +69,22 @@ This problem could also be caused by the bug of your Surface camera. You can sol
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cf560e6aa6c.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Then your Windows camera app should be updated to the latest one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cf5ad289ae2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Restart your Surface and see if your camera works.
 
@@ -106,14 +106,18 @@ This problem could also be caused by the bug of your Surface camera. You can sol
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-essential-ios-slideshow-software-for-latest-models/"><u>[New] 2024 Approved Essential iOS Slideshow Software for Latest Models</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-smart-choice-essential-steps-in-upgrading-your-tech-for-2024/"><u>[New] The Smart Choice Essential Steps in Upgrading Your Tech for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-automatic-subtitles-for-instagram-stories-and-reels/"><u>[Updated] 2024 Approved Mastering Automatic Subtitles for Instagram Stories & Reels</u></a></li>
-<li><a href="https://common-error.techidaily.com/bluetooth-woes-discover-how-to-ensure-flawless-pairing-with-your-windows-11-device-by-2024/"><u>Bluetooth Woes? Discover How to Ensure Flawless Pairing with Your Windows 11 Device by 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-tech-support-restoring-functionality-in-your-latest-home-automation-hub/"><u>DIY Tech Support: Restoring Functionality in Your Latest Home Automation Hub</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-newest-nvidia-drivers-now-supporting-windows-11-7-and-8-systems/"><u>Download the Newest Nvidia Drivers Now Supporting Windows 11, 7 and 8 Systems</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/effortless-downloading-of-movies-and-tv-episodes-using-the-crew-add-on/"><u>Effortless Downloading of Movies & TV Episodes Using the Crew Add-On</u></a></li>
-<li><a href="https://common-error.techidaily.com/reappearing-the-vanished-pointing-finger-a-guide-for-touchpad-users-on-windows-11/"><u>Reappearing the Vanished Pointing Finger: A Guide for Touchpad Users on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-solving-audio-problems-with-windows-11-volume-slider/"><u>Step-by-Step Guide to Solving Audio Problems with Windows 11 Volume Slider</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-cutting-edge-video-edits-without-spending-navigate-through-the-8-tools/"><u>[Updated] 2024 Approved Cutting-Edge Video Edits Without Spending Navigate Through The 8 Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-professional-voice-capture-on-mac-compiling-the-best-5-apps/"><u>2024 Approved Professional Voice Capture on Mac Compiling The Best 5 Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-a54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/convert-images-into-animated-gifs-top-9-techniques-for-pc-mobile-devices-and-websites/"><u>Convert Images Into Animated GIFs: Top 9 Techniques for PC, Mobile Devices & Websites</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-keyboard-troubleshooting-why-its-not-responding-and-what-to-do-next/"><u>Corsair Keyboard Troubleshooting: Why It's Not Responding & What To Do Next</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fallout-ebooting-strategies-for-optimal-playback-speed-and-stability-tips-and-tricks/"><u>Fallout Ebooting Strategies for Optimal Playback Speed and Stability (Tips & Tricks)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-insta-explosion-supercharge-with-content-likes-and-videos/"><u>In 2024, Insta Explosion Supercharge with Content, Likes & Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/navigating-social-media-streams-iphone-and-android-best-practices-for-2024/"><u>Navigating Social Media Streams IPhone & Android Best Practices for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-common-problems-in-torrent-file-downloading-processes/"><u>Overcoming Common Problems in Torrent File Downloading Processes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-sound-adjustment-problems-in-windows-10-expert-tips-and-tricks/"><u>Resolving Sound Adjustment Problems in Windows 10 – Expert Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/steps-to-request-modification-authorization-from-trustedinstaller/"><u>Steps to Request Modification Authorization From TrustedInstaller</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-loops-in-windows-10-automatic-repairs-solved/"><u>Troubleshooting Persistent Loops in Windows 10 Automatic Repairs - Solved</u></a></li>
 </ul></div>
 

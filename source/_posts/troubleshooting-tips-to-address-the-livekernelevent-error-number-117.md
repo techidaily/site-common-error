@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips to Address the LiveKernelEvent Error Number 117
-date: 2024-09-29T03:40:00.137Z
-updated: 2024-10-02T02:29:51.161Z
+date: 2024-10-06T02:35:23.580Z
+updated: 2024-10-06T21:04:28.071Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/e7857315bad256fdc5741086fa363d0007b6f6fca
 2. [**Temporarily disable your antivirus**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your device drivers**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Method 1: Run your Steam client in compatibility mode
 
  Your Steam client may not be working well because of compatibility issues. And you should change the compatibility mode setting for your Steam client.
@@ -51,22 +44,15 @@ thumbnail: https://thmb.techidaily.com/e7857315bad256fdc5741086fa363d0007b6f6fca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6c97719d17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the**Compatibility** tab, check**Run this program in compatibility** **mode** , and then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6ca563d08d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Double click**Steam** (or**Steam.exe** ) to run the Steam client. If this method works for you, you won’t see this error again.
@@ -80,16 +66,10 @@ thumbnail: https://thmb.techidaily.com/e7857315bad256fdc5741086fa363d0007b6f6fca
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Method 3: Update your device drivers
@@ -106,9 +86,23 @@ thumbnail: https://thmb.techidaily.com/e7857315bad256fdc5741086fa363d0007b6f6fca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6ea20dde47.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to each of your devices to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6edacb29c1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Restart your computer and run your Steam client. Then check to see if this method helps you get rid of your error.
 
@@ -130,24 +124,22 @@ thumbnail: https://thmb.techidaily.com/e7857315bad256fdc5741086fa363d0007b6f6fca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-using-obs-in-android/"><u>[New] 2024 Approved The Ultimate Guide to Using OBS in Android</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-from-novice-to-pro-navigating-streamlabs-obs-for-2024/"><u>[New] From Novice to Pro Navigating Streamlabs OBS for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-expert-strategies-for-fbx-filming-in-video-games/"><u>[Updated] 2024 Approved Expert Strategies for FBX Filming in Video Games</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-charting-a-path-to-profit-calculating-video-view-requirements/"><u>[Updated] In 2024, Charting a Path to Profit Calculating Video View Requirements</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-tutorial-for-youtube-studio-editor-use-for-2024/"><u>[Updated] The Essential Tutorial for YouTube Studio Editor Use for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-blockade-successful-strategies-for-windows-11-not-updating/"><u>Bypassing the Blockade: Successful Strategies for Windows 11 Not Updating</u></a></li>
-<li><a href="https://common-error.techidaily.com/coding-halted-action-restricted/"><u>Coding Halted: Action Restricted</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-persistent-usb-unrecognition-issues-a-comprehensive-guide/"><u>Fixing Persistent USB Unrecognition Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-nvidia-quadro-rtx-4000-driver-software-for-optimal-performance/"><u>Get the Most Recent NVIDIA Quadro RTX 4000 Driver Software for Optimal Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/handwriting-recognition-restored-addressing-the-problem-of-missing-display-interaction-tools/"><u>Handwriting Recognition Restored: Addressing the Problem of Missing Display Interaction Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-obs-recording-blackout-issues-effectively/"><u>How to Resolve OBS Recording Blackout Issues Effectively</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comparing-future-cloud-bill-predictions/"><u>In 2024, Comparing Future Cloud Bill Predictions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/reimagine-your-gaming-horizons-discover-these-top-9-emulators/"><u>Reimagine Your Gaming Horizons: Discover These Top 9 Emulators</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-a-deadbolt-usb-mouse-connection-with-these-simple-laptop-fixes/"><u>Troubleshoot a Deadbolt USB Mouse Connection with These Simple Laptop Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-non-functioning-keys-on-your-hp-laptop-now/"><u>Troubleshoot Non-Functioning Keys on Your HP Laptop Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-your-pcs-constant-freeze-up-problems/"><u>Ultimate Guide: Resolving Your PC's Constant Freeze-Up Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/win10-cpu-load-management-techniques/"><u>Win10 CPU Load Management Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-streamlined-subtitling-processes-for-instagrams-dynamic-media/"><u>[New] 2024 Approved Streamlined Subtitling Processes for Instagram's Dynamic Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-elevating-your-vlogs-a-list-of-the-top-12-professional-cameras-for-2024/"><u>[New] Elevating Your Vlogs A List of the Top 12 Professional Cameras for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-iphone-tips-mastering-video-replay/"><u>[Updated] In 2024, IPhone Tips Mastering Video Replay</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-art-of-real-time-video-collaboration-on-fb-for-2024/"><u>[Updated] The Art of Real-Time Video Collaboration on FB for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/gloomy-glow-display-anomaly/"><u>Gloomy Glow: Display Anomaly</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-usb-flash-drive-not-recognized-easily/"><u>How To Fix USB Flash Drive Not Recognized. Easily!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-install-missing-device-drivers-on-windows-11-8-and-7-complete-guide-fixed/"><u>How To Install Missing Device Drivers on Windows 11, 8 & 7 - Complete Guide [FIXED]</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-captivating-features-the-allure-of-filmora-editing/"><u>In 2024, Captivating Features The Allure of Filmora Editing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/insider-scoop-on-google-tv-streaming-box-anticipated-cost-launch-timeline-and-latest-tech-details/"><u>Insider Scoop on Google TV Streaming Box - Anticipated Cost, Launch Timeline & Latest Tech Details</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-through-windows-11-update-blockages-to-system-improvement/"><u>Navigating Through Windows 11 Update Blockages to System Improvement</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-directory-name-incorrect-simple-troubleshooting-steps/"><u>Resolving 'Directory Name Incorrect' - Simple Troubleshooting Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/snapseed-essentials-conquering-image-enhancement/"><u>Snapseed Essentials Conquering Image Enhancement</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-for-non-responsive-windows-shortcut-winplusshiftpluss-on-windows-1110-systems/"><u>Solution for Non-Responsive Windows Shortcut (Win+Shift+S) on Windows 11/10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-the-life-threatening-code-1603-during-application-installation/"><u>Troubleshooting Tips for Fixing the Life-Threatening Code 1603 During Application Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-repairing-damaged-registry-entries-in-windows-11/"><u>Ultimate Guide: Repairing Damaged Registry Entries in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/wwe-2k-battlegrounds-and-dx11-v100-fixing-the-incompatibility-flaw-a-user-guide/"><u>WWE 2K Battlegrounds and DX11 v10.0: Fixing the Incompatibility Flaw - A User Guide</u></a></li>
 </ul></div>
 

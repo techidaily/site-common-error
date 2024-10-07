@@ -1,7 +1,7 @@
 ---
 title: Understanding Why and How to Prevent Unexpected Shuts Downs When Gaming on Different Windows OSes
-date: 2024-09-27T19:43:41.814Z
-updated: 2024-10-02T03:08:12.521Z
+date: 2024-10-04T07:42:10.771Z
+updated: 2024-10-07T11:07:36.890Z
 tags:
   - win11
   - win10
@@ -49,17 +49,18 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 1. Type**this PC** /**My Computer** /**computer**  (according to your operating system) in the search box from Start. Then right-click on it from the result to select **Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b78b71ef2a6.png)
 2. Click **Advanced system settings** \> **Settings…**  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b78bc1c2002.jpg)
 3. Uncheck **Automatically restart** . Then click **OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b78c0452d84.png)
 4. Use your computer for a while to see if it restarts randomly. If the problem remains, please move on.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -75,14 +76,14 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b79482efc69.png)
 4. Work on your computer for a while to see if it restarts randomly. If so, please move on.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ## Fix 3: Update your graphic card driver
 
@@ -96,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
@@ -132,32 +126,33 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 6. Click **Windows Logs** \>> **System** \>> **Find** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-56-41.jpg)
 7. Type **memory diagnostic** , then click **Find Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-29-00.jpg)
 8. If you see “no errors”, your RAM is functioning well and is not the culprit to the Windows 10 computer randomly restarts problem. In that case, please move on to the next fix.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-00-48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-00-48.jpg)
 
  If you do see an error, you may consider replacing your RAM sticks. You will need to check if your device is still under warranty or consult your machine’s manufacturer for assistance if you’re not tech-savvy enough to do this on your own.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Repair system files
@@ -170,16 +165,24 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Check power issue
 
@@ -188,10 +191,10 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
  In this case, you can try to**replace the power cables** and **power supply unit** (PSU) to see if your computer still keeps restarting. If so, please move on to check other possible hardware issues.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7: Make sure the computer is not overheating
@@ -225,21 +228,19 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-top-8-social-tools-to-skyrocket-your-likes-on-facebook-for-2024/"><u>[New] Top 8 Social Tools to Skyrocket Your Likes on Facebook for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209408483-solved-laptop-battery-not-charging-quickly-and-easily/"><u>[SOLVED] | Laptop Battery Not Charging | Quickly & Easily</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-avoid-the-spinning-room-top-5-vr-motion-control-techniques/"><u>[Updated] 2024 Approved Avoid the Spinning Room Top 5 VR Motion Control Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-building-a-successful-brand-presence-through-spotify-advertising/"><u>[Updated] Building a Successful Brand Presence Through Spotify Advertising</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-vdsn-vidscreen-record-review-thorough-analysis/"><u>[Updated] VDSN VidScreen Record Review Thorough Analysis</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-what-lies-beyond-the-boundaries-of-vlc-for-2024/"><u>[Updated] What Lies Beyond the Boundaries of VLC for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-official-logitech-sound-card-drivers-for-windows-users-versions-7811/"><u>Download Official Logitech Sound Card Drivers for Windows Users (Versions 7/8/11)</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206686906-easily-restore-charging-on-your-laptop-solutions-at-hand/"><u>Easily Restore Charging on Your Laptop - Solutions at Hand!</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminate-the-hurdle-of-error-0x800f0831-quickly-with-built-in-windows-update-features/"><u>Eliminate the Hurdle of 'Error 0X800F0831' Quickly with Built-In Windows Update Features</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/facetune-photos-app-complete-review-and-guide/"><u>Facetune Photos App Complete Review and Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-key-not-working/"><u>How to Fix @ Key Not Working</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-p55-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel P55 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-apple-iphone-13-mini-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your Apple iPhone 13 mini on MetroPCS</u></a></li>
-<li><a href="https://common-error.techidaily.com/minecraft-opengl-problem-solving-a-comprehensive-fix-it-manual/"><u>Minecraft OpenGL Problem Solving: A Comprehensive Fix-It Manual</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-the-windows-update-error-code-0x802n4002e/"><u>Resolved: Fixing the Windows Update Error Code 0X802n4002E</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-fixing-logon-issues-with-user-profile-services/"><u>Troubleshooting Steps for Fixing Logon Issues with User Profile Services</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-content-redistribution-hacks-for-instagramers-for-2024/"><u>[New] Content Redistribution Hacks for Instagramers for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-from-zero-to-hero-establishing-a-new-social-media-presence-facebook/"><u>[New] In 2024, From Zero to Hero Establishing a New Social Media Presence (Facebook)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sketch-humorous-images-with-adobe/"><u>[Updated] Sketch Humorous Images with Adobe</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-definitive-guide-to-choosing-the-best-webcam-for-your-youtube-channel/"><u>[Updated] The Definitive Guide to Choosing the Best Webcam for Your YouTube Channel</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unlock-your-live-feed-free-cam-recording-and-top-picks/"><u>2024 Approved Unlock Your Live Feed Free Cam Recording & Top Picks</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206749452-breeze-through-troubleshooting-fixing-windows-update-error-0x80070002-easily/"><u>Breeze Through Troubleshooting: Fixing Windows Update Error 0X80070002 Easily!</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-8007000e-on-windows-updates-ace-the-solution-in-no-time-with-this-guide/"><u>Error 8007000E on Windows Updates? Ace The Solution in No Time With This Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-non-functional-night-mode-on-your-windows-11-device/"><u>How To Resolve Non-Functional Night Mode on Your Windows 11 Device</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-assessing-mr-beasts-monetary-trajectory/"><u>In 2024, Assessing Mr. Beast’s Monetary Trajectory</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Simulate GPS Movement in AR games On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/multi-genre-unmanned-flyers/"><u>Multi-Genre Unmanned Flyers</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolution-guide-accessing-steam-when-their-content-services-are-out-of-reach/"><u>Resolution Guide: Accessing Steam When Their Content Services Are Out of Reach</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-fixing-audio-not-detected-issue-in-windows-operating-systems/"><u>Step-by-Step Solution for Fixing 'Audio Not Detected' Issue in Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-video-output-issues-with-easy-steps/"><u>Troubleshooting Tips: Fixing Video Output Issues with Easy Steps</u></a></li>
 </ul></div>
 

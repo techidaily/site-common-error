@@ -1,7 +1,7 @@
 ---
 title: Winning the Battle Against 'werfuel.exe' - 6 Crucial Tips for Seamless Operations on Windows
-date: 2024-09-19T19:37:16.102Z
-updated: 2024-09-20T18:02:05.311Z
+date: 2024-10-02T21:00:30.758Z
+updated: 2024-10-06T22:55:53.105Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/3c08a238b64ec62b2aa9f38ae909ae6c80252893c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4848b874e63.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Add an exclusion** \>**Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b484924c3bad.jpg)
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/3c08a238b64ec62b2aa9f38ae909ae6c80252893c
  5) Copy & paste **C:\\Program Files\\Windows Defender** into the box and click Select**Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4849bf2c80f.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) See if MsMpEng.exe is still hogging your CPU usage. If the problem persists, move on to**Fix 2** .
 
@@ -76,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/3c08a238b64ec62b2aa9f38ae909ae6c80252893c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4845e5ee219.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click the**Conditions** tab, make sure**the boxes** in this window are**unchecked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48462bea585.jpg)
@@ -84,11 +105,32 @@ thumbnail: https://thmb.techidaily.com/3c08a238b64ec62b2aa9f38ae909ae6c80252893c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482828900da.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Schedule your own**Windows Defender** scan. Carefully choose the frequency, scan time and date at your own convenience and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4828bca7be2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 3: Use the Local Group Policy Editor to turn off Windows Defender**
 
@@ -98,16 +140,16 @@ thumbnail: https://thmb.techidaily.com/3c08a238b64ec62b2aa9f38ae909ae6c80252893c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4829b314bed.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on **Computer Configuration** \>**Administrative Templates** \>**Windows Components** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482ad2bedf6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Locate and double-click on**Windows Defender Antivirus** (aka. **Windows Defender** , same as below). Then double-click on **Turn off Windows Defender Antivirus** .
 
@@ -116,13 +158,6 @@ thumbnail: https://thmb.techidaily.com/3c08a238b64ec62b2aa9f38ae909ae6c80252893c
  4) Choose the**Enabled** option, and click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4841ef0331d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Restart your computer and see if your computer runs normally now.
 
@@ -147,5 +182,20 @@ thumbnail: https://thmb.techidaily.com/3c08a238b64ec62b2aa9f38ae909ae6c80252893c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-focusing-attention-with-eye-catching-intros-in-imovie/"><u>[Updated] 2024 Approved Focusing Attention with Eye-Catching Intros in iMovie</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-solved-obs-full-screen-anomaly/"><u>[Updated] 2024 Approved Solved OBS Full Screen Anomaly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-basic-principles-of-story-artistry/"><u>2024 Approved Basic Principles of Story Artistry</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-stepping-stones-from-youtube-ads-to-monetary-success/"><u>2024 Approved Stepping Stones From YouTube Ads to Monetary Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhance-your-gaming-experience-by-fixing-screen-tearing-in-valorant-a-comprehensive-guide/"><u>Enhance Your Gaming Experience by Fixing Screen Tearing in Valorant - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11-taskbar-visibility-issues-a-comprehensive-guide/"><u>Fixing Windows 11 Taskbar Visibility Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-broken-windows-1n-update-process-for-optimal-performance/"><u>How to Repair a Broken Windows 1N Update Process for Optimal Performance</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-reno-11f-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Oppo Reno 11F 5G Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/cting-your-work-youtube-copyright-essentials-explained/"><u>Protecting Your Work YouTube Copyright Essentials Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-free-guide-to-repairing-nonfunctional-keys-on-hp-notebooks/"><u>Trouble-Free Guide to Repairing Nonfunctional Keys on HP Notebooks</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-11r-by-fonelab-android-recover-messages/"><u>Undelete lost messages from 11R</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-hidden-gems-shocking-insights-from-10-less-known-emoji-truths/"><u>Unveiling Hidden Gems: Shocking Insights From 10 Less-Known Emoji Truths</u></a></li>
+</ul></div>
 

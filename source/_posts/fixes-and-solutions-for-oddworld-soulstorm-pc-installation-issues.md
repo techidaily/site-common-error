@@ -1,7 +1,7 @@
 ---
 title: "Fixes and Solutions for Oddworld: Soulstorm PC Installation Issues"
-date: 2024-09-16T17:08:05.260Z
-updated: 2024-09-20T18:18:31.626Z
+date: 2024-10-04T03:14:04.776Z
+updated: 2024-10-06T20:33:54.737Z
 tags:
   - win11
   - win10
@@ -59,9 +59,23 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display.png)
 4. Close DirectX.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You may need to upgrade the hardware of your computer if it fails to meet the specs.
 
  If your PC specs are up to the mark but Oddworld: Soulstorm still crashes, please move on to**Fix 2** , below to begin troubleshooting.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -99,6 +113,13 @@ Here’s how:
 
  Wait a bit until the process finishes. After that, re-launch Oddworld: Soulstorm to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try**Fix 5** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Allow Epic Games Launcher through firewall
 
  A firewall is a network security system that filters incoming and outgoing network traffic by permitting/blocking specific traffic based on a set of security rules. You should allow the launcher through the firewall to make sure that the connection isn’t lost.
@@ -112,32 +133,18 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall.png)
 3. Browse through the list of Allowed apps and features to see if Epic Gamers launcher is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app.png)
 4. Once completed, click **OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Run the game in the launcher and see if it still crashes. If it’s still on-going, please move on to**Fix 6** .
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Install the latest patch
@@ -156,25 +163,40 @@ Here are the steps to perform a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/msconfig.png)
 2. Click the **Services**  tab and tick the box for **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services.png)
 3. Browse through the full list of services, make sure to **check the boxes for the items that belong to your hardware manufacturers** (such as Intel, AMD, and Qualcomm) and**uncheck the boxes for the rest** . Once finished, click**OK** to apply the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12-2.png)
 4. Restart your computer, then test to see if the game still crashes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * **If Oddworld: Soulstorm stops crashing** , you can try repeating these steps, disabling half of the services each time until you isolate the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
    * **If Oddworld: Soulstorm still crashes** , please continue to**Fix 8** .
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Oddworld: Soulstorm and the launcher
@@ -200,5 +222,22 @@ Here are the steps to perform a clean boot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-boosting-meeting-impact-with-simple-snap-camera-steps/"><u>[New] Boosting Meeting Impact with Simple Snap Camera Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-platforms-enhance-your-youtube-presence/"><u>[Updated] Top Platforms Enhance Your YouTube Presence</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unlock-the-potential-of-text-with-photo-shading-psx-for-2024/"><u>[Updated] Unlock the Potential of Text with Photo Shading PSX for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-endgame-for-deactivating-an-instagram-profile/"><u>2024 Approved The Endgame for Deactivating an Instagram Profile</u></a></li>
+<li><a href="https://common-error.techidaily.com/blizzard-network-breach-disconnected/"><u>Blizzard Network Breach - Disconnected</u></a></li>
+<li><a href="https://common-error.techidaily.com/demystifying-and-solving-error-0x800n4005-a-step-by-step-guide-to-fixing-unspecified-issues/"><u>Demystifying and Solving Error 0X800n4005: A Step-by-Step Guide to Fixing Unspecified Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-when-your-razer-keyboard-stops-glowing/"><u>Expert Tips for When Your Razer Keyboard Stops Glowing</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-corrupted-system-files-on-windows-11-11/"><u>How to Fix Corrupted System Files on Windows 11, 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-discover-the-premier-4k-cameras-of-today/"><u>In 2024, Discover the Premier 4K Cameras of Today</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-motorola-moto-g-5g-2023-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Motorola Moto G 5G (2023) Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-for-persistent-bluetooth-pairing-problems-on-windows-11/"><u>Step-by-Step Troubleshooting for Persistent Bluetooth Pairing Problems on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transcribe-speaking-to-writing-free-of-charge-for-2024/"><u>Transcribe Speaking to Writing Free of Charge for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-the-backspace-key-fails/"><u>Troubleshooting Steps When the Backspace Key Fails</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-successfully-setting-up-battleye-service/"><u>Troubleshooting Tips: Successfully Setting Up BattlEye Service</u></a></li>
+</ul></div>
 

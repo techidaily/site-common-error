@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Solving the 0X800705b4 Setup Problem in Windows 11 Updates
-date: 2024-09-24T17:20:15.308Z
-updated: 2024-10-01T17:01:14.908Z
+date: 2024-10-05T07:13:57.275Z
+updated: 2024-10-06T19:01:29.959Z
 tags:
   - win11
   - win10
@@ -43,13 +43,20 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 2: Check your desktop icon settings
@@ -57,17 +64,18 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 1. Right-click your desktop and click **Personalize**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -78,6 +86,14 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -97,24 +113,25 @@ If your desktop icons still don’t show up, you can perform a system restore to
 3. Select **Choose a different restore point**, and click **Next**.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
@@ -130,19 +147,6 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -160,13 +164,6 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -191,20 +188,22 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/adjusting-input-timings-for-compatibility-with-modern-displays/"><u>Adjusting Input Timings for Compatibility with Modern Displays</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-solving-the-missing-sound-hardware-problem-in-windows-11/"><u>Diagnosing and Solving the Missing Sound Hardware Problem in Windows 11</u></a></li>
-<li><a href="https://driver-download.techidaily.com/elevate-your-acer-predator-helios-300-gaming-essential-graphics-card-driver-updates/"><u>Elevate Your Acer Predator Helios 300 Gaming: Essential Graphics Card Driver Updates</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-windows-compatible-msi-audio-driver-software-now/"><u>Get the Latest Windows-Compatible MSI Audio Driver Software Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-get-your-disappearing-mouse-cursor-back-on-windowshttps-10/"><u>How to Get Your Disappearing Mouse Cursor Back on [Windows](https://) 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-camon-20-by-fonelab-android-recover-music/"><u>How to restore wiped music on Camon 20</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-14-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 14 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/livestreaming-pre-recorded-content-on-facebook-platform/"><u>Livestreaming Pre-Recorded Content on Facebook Platform</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-through-tech-precise-reviews-and-advice-with-toms-equipment-exploration/"><u>Navigating Through Tech: Precise Reviews and Advice with Tom's Equipment Exploration</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-and-secure-obtain-the-necessary-startech-usb-vga-drivers-for-optimal-performance/"><u>Quick & Secure: Obtain the Necessary StarTech USB VGA Drivers for Optimal Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-connection-issues-when-cant-reach-steam-game-servers-or-content/"><u>Solving Connection Issues: When Can't Reach Steam Game Servers or Content</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-dilemma-overcoming-error-0x800f081f-during-net-framework-35-setup/"><u>Solving the Dilemma: Overcoming Error 0X800F081F During .NET Framework 3.5 Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/steam-update-woes-top-tips-for-ensuring-successful-downloads/"><u>Steam Update Woes? Top Tips for Ensuring Successful Downloads</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-to-solving-high-pitched-noises-in-your-pcs-integrated-speakers-windows-107/"><u>Ultimate Guide to Solving High-Pitched Noises in Your PC's Integrated Speakers (Windows 10/7)</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-xperia-10-v-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Xperia 10 V</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-masterminds-of-memorable-discord-symbols-revealed/"><u>[New] Masterminds of Memorable Discord Symbols Revealed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-quick-corrections-for-iphone-shot-blur-issues/"><u>[Updated] 2024 Approved Quick Corrections for iPhone Shot Blur Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-fixes-reviving-the-keyboard-of-your-malfunctioning-dell-device/"><u>DIY Fixes: Reviving the Keyboard of Your Malfunctioning Dell Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/essence-of-virtual-story-delivery/"><u>Essence of Virtual Story Delivery</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratuit-online-converting-nef-bilders-naar-bmp-formaat-movavi/"><u>Gratuit Online: Converting NEF Bilders Naar BMP Formaat - Movavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/half-price-geforce-now-offer-exclusive-temporary-discounts-unveiled/"><u>Half-Price GeForce Now Offer: Exclusive Temporary Discounts Unveiled!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-the-remote-procedure-call-service-not-responding-error-in-windows-systems/"><u>How to Repair the Remote Procedure Call Service Not Responding Error in Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/immediate-remedies-restore-functionality-to-faulty-logitech-keyboards/"><u>Immediate Remedies: Restore Functionality to Faulty Logitech Keyboards</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-tecno-spark-20-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Tecno Spark 20 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://common-error.techidaily.com/initiating-windows-11-successfully-remedies-for-persistent-freezing-at-startup/"><u>Initiating Windows 11 Successfully: Remedies for Persistent Freezing at Startup</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-malfunction-learn-how-to-stop-incorrect-letter-inputs/"><u>Keyboard Malfunction? Learn How to Stop Incorrect Letter Inputs</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/mastering-video-format-transformation-the-ultimate-tutorial-for-lrv-to-mp4-conversion/"><u>Mastering Video Format Transformation: The Ultimate Tutorial for LRV to MP4 Conversion</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-wma-your-complete-resource-for-insights-and-necessities/"><u>Mastering WMA: Your Complete Resource for Insights and Necessities</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-tips-to-speed-up-boot-time-for-windows-7-users/"><u>Quick Tips to Speed Up Boot Time for Windows 7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-excessive-cpu-consumption-in-windows-sound-device-graph/"><u>Resolve Excessive CPU Consumption in Windows Sound Device Graph</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-your-non-responsive-wacom-graphics-tablet/"><u>Troubleshooting Guide: Fixing Your Non-Responsive Wacom Graphics Tablet</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-make-it-loop-10-best-free-online-video-looping-platforms-for-2024/"><u>Updated Make It Loop 10 Best Free Online Video Looping Platforms for 2024</u></a></li>
 </ul></div>
 

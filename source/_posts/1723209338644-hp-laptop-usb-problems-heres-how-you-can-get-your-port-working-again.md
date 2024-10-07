@@ -1,7 +1,7 @@
 ---
 title: HP Laptop USB Problems? Here's How You Can Get Your Port Working Again!
-date: 2024-09-17T16:11:47.060Z
-updated: 2024-09-20T17:03:02.743Z
+date: 2024-09-30T10:01:42.724Z
+updated: 2024-10-07T08:27:53.197Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ Here’s how:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2:  Change power management settings for USB Root Hubs
 
 Tweaking the properties in **USB Root Hub**  devices is another proven effective way to solve our**USB ports not working on HP laptop** issue. To do this:
@@ -59,10 +66,25 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -81,22 +103,15 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -125,5 +140,22 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-essential-tiktok-gamers-you-cant-miss/"><u>[New] Essential TikTok Gamers You Can't Miss</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-essentialtips-for-easycamwebrecorderuse/"><u>[Updated] 2024 Approved EssentialTips for EasyCamWebRecorderUse</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-snapshot-innovations-an-exploration-of-samsung-photo-editor/"><u>[Updated] In 2024, Snapshot Innovations An Exploration of Samsung PHOTO EDITOR</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategic-hash-tags-to-launch-you-into-six-figures/"><u>2024 Approved Strategic Hash Tags to Launch You Into Six Figures</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-x-fold-2-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo X Fold 2</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-correctly-configure-mystery-speakers-in-windows-10-os/"><u>Expert Tips to Correctly Configure Mystery Speakers in Windows 10 OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-10-update-failures-get-your-updates-rolling/"><u>Fixing Windows 10 Update Failures - Get Your Updates Rolling</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-restore-d3dcompiler-47dll-for-windows-users/"><u>How to Successfully Restore D3DCOMPILER_ 47.dll for Windows Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/les-5-meilleurs-outils-de-conversion-video-gratuite-pour-2024-comparaison-et-avantages/"><u>Les 5 Meilleurs Outils De Conversion Vidéo Gratuite Pour 2024 - Comparaison Et Avantages</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-and-repairing-stuck-function-keys-in-your-asus-portable-pc/"><u>Reviving and Repairing Stuck Function Keys in Your Asus Portable PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-solution-resolving-issues-with-windows-feature-update-to-may-2020-build-1903/"><u>The Ultimate Solution: Resolving Issues with Windows Feature Update to May 2020 (Build 1903)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-windows-10-issues-efficiently-with-sfc-and-dism-repair-methods/"><u>Troubleshoot Windows 10 Issues Efficiently With SFC and DISM Repair Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-solving-wrongdoers-keyboard-malfunctions-on-pc/"><u>Troubleshooting Guide: Solving 'Wrongdoers' Keyboard Malfunctions on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-success-overcoming-the-directx-unrecoverable-system-error/"><u>Troubleshooting Success: Overcoming the DirectX Unrecoverable System Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-your-instagram-accounts-verification-badge-a-step-by-step-tutorial/"><u>Unlocking Your Instagram Account's Verification Badge: A Step-by-Step Tutorial</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Svchost.exe's Excessive CPU Consumption in Windows 11
-date: 2024-09-28T21:58:37.187Z
-updated: 2024-10-01T18:30:46.038Z
+date: 2024-09-30T16:41:30.067Z
+updated: 2024-10-07T03:36:22.317Z
 tags:
   - win11
   - win10
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/acfd39cea130b7076ba0e472a472a7627f6c0d070
 [**4: Troubleshoot Windows Updates issues**](#4)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **1: Scan your computer for viruses**
@@ -69,20 +69,34 @@ thumbnail: https://thmb.techidaily.com/acfd39cea130b7076ba0e472a472a7627f6c0d070
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) You’ll go to a window with highlighted services that run under the**svchost.exe** process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/highlighted-services.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Right-click one of the processes and click **Stop**  to stop it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-service-in-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Repeat the steps until you locate the faulty process.
 
@@ -90,16 +104,16 @@ thumbnail: https://thmb.techidaily.com/acfd39cea130b7076ba0e472a472a7627f6c0d070
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/open-services-600x422.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7) We’re using the **Windows Update**  service as an example. Right-click **Windows Update**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/windows-update-properties.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
 
@@ -108,10 +122,10 @@ thumbnail: https://thmb.techidaily.com/acfd39cea130b7076ba0e472a472a7627f6c0d070
 9) See if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3: Empty event viewer log**
@@ -130,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/acfd39cea130b7076ba0e472a472a7627f6c0d070
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/security-setup-and-system-log.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Restart your computer after this.
 
 ## **4: Troubleshoot Windows Updates issues**
@@ -147,16 +154,16 @@ thumbnail: https://thmb.techidaily.com/acfd39cea130b7076ba0e472a472a7627f6c0d070
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/services-msc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Right-click**Windows Update** and click **Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go to**This PC > Local Disk (C:) > Windows** and delete **SoftwareDistribution** folder. Restart your computer.
 
@@ -177,13 +184,6 @@ thumbnail: https://thmb.techidaily.com/acfd39cea130b7076ba0e472a472a7627f6c0d070
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21f9606b83.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
@@ -206,20 +206,14 @@ thumbnail: https://thmb.techidaily.com/acfd39cea130b7076ba0e472a472a7627f6c0d070
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-efficient-use-of-snap-features-to-boost-online-collaboration/"><u>[New] In 2024, Efficient Use of Snap Features to Boost Online Collaboration</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-your-guide-to-the-finest-youtube-subtitles-extractor/"><u>[New] Your Guide to the Finest YouTube Subtitles Extractor</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-enhance-visual-stories-utilizing-storyremix-in-windows-11-video-editing/"><u>[Updated] Enhance Visual Stories Utilizing StoryRemix in Windows 11 Video Editing</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-quick-and-easy-incorrante-audio-into-fb-profiles-ios-android/"><u>[Updated] In 2024, Quick & Easy Incorrante Audio Into FB Profiles (iOS, Android)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-mobile-media-posting-videos-not-retweets/"><u>[Updated] Mobile Media Posting Videos, Not Retweets</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-professionals-choice-top-10-afx-templates-for-free/"><u>2024 Approved Professionals' Choice Top 10 AFX Templates for FREE</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-amd-radeon-rx-590-drivers-on-windows-systems/"><u>Download & Install AMD Radeon RX 590 Drivers on Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204141485-fixing-the-print-to-pdf-feature-for-windows-users-of-both-windows-10-and-11-solutions-uncovered/"><u>Fixing the 'Print to PDF' Feature for Windows Users of Both Windows 10 & 11 - Solutions Uncovered</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/fixing-the-blue-screen-of-death-solutions-for-machine-check-exceptions-on-windows-10/"><u>Fixing the Blue Screen of Death: Solutions for Machine Check Exceptions on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-backspace-capability-on-your-device/"><u>How to Restore Backspace Capability on Your Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723201917753-medullary-carcinoma-originates-from-parafollicular-c-cells-and-can-be-associated-with-genetic-syndromes-like-multiple-endocrine-neoplasia-type-2-men2/"><u>Medullary Carcinoma Originates From Parafollicular C Cells and Can Be Associated with Genetic Syndromes Like Multiple Endocrine Neoplasia Type 2 (MEN2).</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-lenovo-security-hurdles-fixing-a-failing-fingerprint-scanner/"><u>Overcoming Lenovo Security Hurdles: Fixing a Failing Fingerprint Scanner</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-valorant-perpetual-load-how-to-fix-endless-startup-issues/"><u>Resolve 'Valorant' Perpetual Load: How to Fix Endless Startup Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-dx11-feature-level-100-issue-in-wwe-2k-battlegrounds/"><u>Resolving DX11 Feature Level 10.0 Issue in WWE 2K Battlegrounds</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-to-overcome-typing-latency-in-windows-10-systems/"><u>Solutions to Overcome Typing Latency in Windows 10 Systems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-reviewing-and-analyzing-previous-tweets/"><u>[New] Reviewing and Analyzing Previous Tweets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-to-superior-websites-for-tamil-ringtone-saves/"><u>2024 Approved Navigating to Superior Websites for Tamil Ringtone Saves</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-tips-to-overcome-your-livekernelevent-117-dilemma/"><u>Comprehensive Tips to Overcome Your LiveKernelEvent 117 Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/correctly-resolving-the-program-cant-start-error-code-is-0xc000007b-a-comprehensive-fixer/"><u>Correctly Resolving 'The Program Can’t Start, Error Code Is 0xC000007B' - A Comprehensive Fixer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-when-your-headset-microphone-fails-to-operate/"><u>DIY Fixes for When Your Headset Microphone Fails to Operate</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-rectifying-failed-graphics-device-setup-in-directx/"><u>Effective Solutions for Rectifying Failed Graphics Device Setup in DirectX</u></a></li>
+<li><a href="https://techtrends.techidaily.com/facilita-al-volante-scopri-larte-di-estrarre-immagini-dai-tuoi-videoclip-con-queste-11-soluzioni-facili-e-innovative/"><u>Facilità Al Volante: Scopri L'Arte Di Estrarre Immagini Dai Tuoi Videoclip Con Queste 11 Soluzioni Facili E Innovative</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-12-pro-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 12 Pro After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-win11-crashes-guide-to-solve/"><u>No More Win11 Crashes: Guide to Solve</u></a></li>
 </ul></div>
 

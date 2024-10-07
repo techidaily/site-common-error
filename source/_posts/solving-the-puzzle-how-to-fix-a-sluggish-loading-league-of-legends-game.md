@@ -1,7 +1,7 @@
 ---
 title: "Solving the Puzzle: How to Fix a Sluggish Loading League of Legends Game"
-date: 2024-09-30T04:16:43.703Z
-updated: 2024-10-02T01:26:06.560Z
+date: 2024-09-30T06:57:04.343Z
+updated: 2024-10-07T03:49:34.142Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ Downloading again to see if it works.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Turn off Windows Firewall
 
  Windows Firewall supposes to protect your computer from malware, but sometimes it may cause trouble. It may block some features of League of Legends which result in low speed downloading. So you can try to turn off Windows Firewall to solve the “League of Legends download slow” issue.
@@ -65,16 +72,23 @@ Downloading again to see if it works.
 1. Click the Start button, type**windows firewall** in the search box and press the**Enter** key to open**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Re-download to check.
 
@@ -83,13 +97,6 @@ Re-download to check.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Manually install .NET framework 3.5
 
  .NET Framework is a software that runs on Microsoft Windows. It is one of the key software which League of Legends relies on. If nothing wrong with the game, the issue might be related to Microsoft .NET Framework.
@@ -97,6 +104,13 @@ Re-download to check.
  So you can[download](https://www.microsoft.com/en-sg/download/details.aspx?id=21) and install the framework to solve the issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus: Update your drivers
 
@@ -128,27 +142,14 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -176,20 +177,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-strategies-to-enhance-your-youtube-video-positioning/"><u>[New] In 2024, Strategies to Enhance Your YouTube Video Positioning</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-your-content-pc-video-editing-for-effective-youtube-presentations-for-2024/"><u>[Updated] Elevate Your Content PC Video Editing for Effective YouTube Presentations for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/decoding-and-fixing-the-update-failed-message-in-warframe-a-comprehensive-guide/"><u>Decoding and Fixing the 'Update Failed' Message in Warframe – A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-new-world-conquered-the-easy-anti-cheat-challenge-now-launching-smoothly/"><u>How New World Conquered the Easy Anti-Cheat Challenge, Now Launching Smoothly</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-set-up-wake-on-lan-functionality-on-your-laptop-with-windows-10-or-11/"><u>How to Set Up Wake-on-LAN Functionality on Your Laptop with Windows 10 or 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-msmpengexe-high-cpu-usage-on-windows-10-complete-guide/"><u>How to Stop MsMpEng.exe High CPU Usage on Windows 10: Complete Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-tecno-phantom-v-flip-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Tecno Phantom V Flip to Protect Your Individual Information</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-motorola-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Motorola</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/melodious-feed-infusing-ig-stories-with-music-for-2024/"><u>Melodious Feed Infusing IG Stories With Music for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-excessive-cpu-load-caused-by-windows-sound-driver-a-step-by-step-guide/"><u>Resolve Excessive CPU Load Caused by Windows Sound Driver - A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-issue-how-to-fix-microsoft-store-not-responding/"><u>Solving the Issue: How to Fix 'Microsoft Store Not Responding'</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-the-sims-4-wont-open-dilemma/"><u>Step-by-Step Fixes for the Sims ^[4] Won't Open Dilemma</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-expert-insights-on-latest-gadgets/"><u>Tom's Tech Review: Expert Insights on Latest Gadgets</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-microsofts-error-80240020-on-your-pc-for-successful-windows-11-setup/"><u>Troubleshooting Microsoft's Error 80240020 on Your PC for Successful Windows 11 Setup</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-navigate-discords-streaming-landscape-a-comprehensive-tutorial/"><u>[Updated] In 2024, Navigate Discord's Streaming Landscape A Comprehensive Tutorial</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-14-ultra-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi 14 Ultra</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209027604-acer-keys-on-windows-1011-not-working-lets-fix-it/"><u>Acer Keys on Windows 10/11 Not Working? Let's Fix It</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-updated-drivers-for-nvidia-rtx-2060-on-windows-11/"><u>Download Updated Drivers for NVIDIA RTX 2060 on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208272729-expert-advice-for-dealing-with-repeated-not-recognized-kb310218-get-back-to-using-your-usb-devices-now/"><u>Expert Advice for Dealing with Repeated 'Not Recognized KB310218' - Get Back to Using Your USB Devices Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/iastordatasvc-32-bit-high-cpu-usage-caused-on-windows-10-solved/"><u>IAStorDataSvc (32 Bit) High CPU Usage Caused on Windows 10 [Solved]</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-choosing-the-finest-webcams-our-expert-guide/"><u>In 2024, Choosing the Finest Webcams - Our Expert Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-screen-recorder-options-for-igadgets/"><u>In 2024, Screen Recorder Options for iGadgets</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-high-power-demand-of-dropbox-on-windows-pc/"><u>Overcoming High Power Demand of Dropbox on Windows PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-10-brightness-dysfunction-a-step-by-step-guide/"><u>Overcoming Windows 10 Brightness Dysfunction: A Step-by-Step Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/simplified-recording-of-your-skype-chats-with-pc-and-mac-for-2024/"><u>Simplified Recording of Your Skype Chats with PC & Mac for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-made-simple-resolving-issues-with-your-mac-camera/"><u>Troubleshooting Made Simple: Resolving Issues with Your Mac Camera</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-how-to-restore-functionality-to-your-corsair-hs60-headsets-mic/"><u>Troubleshooting Tips: How to Restore Functionality to Your Corsair HS60 Headset's Mic</u></a></li>
+<li><a href="https://common-error.techidaily.com/win11-reliability-enhancement-tips/"><u>Win11 Reliability Enhancement Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-t-10-touchscreen-issues-solved-explore-5-effective-fixes/"><u>Windows T 10 Touchscreen Issues Solved? Explore 5 Effective Fixes</u></a></li>
 </ul></div>
 

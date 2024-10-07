@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: Repairing Damaged Device Drivers Instantly"
-date: 2024-09-26T00:49:45.593Z
-updated: 2024-10-01T23:07:10.161Z
+date: 2024-10-04T18:51:27.842Z
+updated: 2024-10-06T16:30:22.446Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/06b4f561e77b6da888e1e3e26d3fff8eafe69267e
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -54,10 +61,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -74,16 +81,16 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -109,18 +116,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -136,10 +143,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -149,13 +156,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -199,18 +199,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-unleash-content-potential-how-to-increase-video-views-on-youtube/"><u>[New] 2024 Approved Unleash Content Potential How to Increase Video Views on YouTube</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mobile-friendly-video-posts-on-twitter-excluding-retweets/"><u>[New] In 2024, Mobile-Friendly Video Posts on Twitter Excluding Retweets</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-real-time-broadcasting-excellence-connecting-via-wirecast-to-facebook/"><u>[New] In 2024, Real-Time Broadcasting Excellence Connecting via Wirecast to Facebook</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-ranking-of-free-easy-to-use-image-overlay-apps-on-smartphones/"><u>[Updated] Ranking of Free, Easy-to-Use Image Overlay Apps on Smartphones</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-maximizing-productivity-with-auditory-storytelling/"><u>2024 Approved Maximizing Productivity with Auditory Storytelling</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204559833-arrow-key-issues-on-your-keyboard-fix-them-with-these-expert-methods/"><u>Arrow Key Issues on Your Keyboard? Fix Them With These Expert Methods</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-11-pro-max-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone 11 Pro Max without Apple Account</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-past-moments-using-android-videos/"><u>Navigating Past Moments Using Android Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209040509-total-war-rome-remastered-crashes-heres-how-to-get-it-running-smoothly-again/"><u>Total War: Rome Remastered Crashes? Here's How to Get It Running Smoothly Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-repairing-a-non-functional-aoc-monitor-on-windows-10/"><u>Troubleshooting Steps for Repairing a Non-Functional AOC Monitor on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-techniques-for-livekernelevent-error-number-1e/"><u>Troubleshooting Techniques for LiveKernelEvent Error Number 1E</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-limited-system-capacity-error-a-comprehensive-guide/"><u>Understanding and Fixing the 'Limited System Capacity' Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-c-runtime-framework-missing/"><u>Windows C Runtime Framework Missing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-capturing-emotion-ensuring-authenticity-in-your-youtube-videos-for-2024/"><u>[New] Capturing Emotion Ensuring Authenticity in Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagrams-hidden-gems-designing-stunning-engaging-puzzle-posts/"><u>[New] In 2024, Instagram's Hidden Gems Designing Stunning, Engaging Puzzle Posts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lessons-on-screen-essential-classroom-videography-tips/"><u>[Updated] Lessons on Screen Essential Classroom Videography Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/dive-into-broadcasting-proficiency-with-obs-on-youtube-and-twitch/"><u>Dive Into Broadcasting Proficiency with OBS on YouTube and Twitch</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-msda80dll-file-why-preserve-it-for-optimal-performance/"><u>Exploring MSDA80.DLL File: Why Preserve It for Optimal Performance</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leveraging-azures-voice-recognition-for-advanced-solutions-for-2024/"><u>Leveraging Azure's Voice Recognition for Advanced Solutions for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-minecraft-performance-issues-caused-by-windows-graphics-driver-errors-fixed/"><u>Overcoming Minecraft Performance Issues Caused by Windows Graphics Driver Errors - Fixed</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-with-microsoft-store-launch-failure/"><u>Resolved: Issue with Microsoft Store Launch Failure</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/riconverti-formati-video-converti-file-f4v-in-avi-online-e-gratuito-con-movavi/"><u>Riconverti Formati Video: Converti File F4V in AVI Online E Gratuito Con Movavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-honor-x50-gt-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Honor X50 GT Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transformative-ai-strategies-for-students/"><u>Transformative AI Strategies for Students</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-error-0x80071ac3-solutions-for-handling-a-dirty-volume-issue/"><u>Troubleshooting Error 0X80071AC3: Solutions for Handling a 'Dirty Volume' Issue</u></a></li>
 </ul></div>
 

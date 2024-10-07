@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot & Fix a Non-Responsive Shift Key on Your Computer
-date: 2024-09-14T19:22:16.522Z
-updated: 2024-09-20T19:42:09.881Z
+date: 2024-10-02T09:26:35.038Z
+updated: 2024-10-07T08:14:24.447Z
 tags:
   - win11
   - win10
@@ -92,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Reset Google Chrome to default settings
 
  Google Chrome has an option that can reset Chrome to default settings. This function won’t affect your saved bookmarks or passwords. It will make Chrome back to default configurations and remove all the settings that might cause this unresponsive error.
@@ -108,27 +115,27 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**Reset settings** to reset Google Chrome.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Restart Chrome and open a URL in the third-party app to check the error will appear or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Clear Google Chrome cache
 
@@ -140,6 +147,13 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the open Window, click**Clear browsing data** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
@@ -147,6 +161,13 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
  4) Click**Clear data** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Relaunch Chrome and open a URL in the third-party app to check the error will appear or not.
 
@@ -167,6 +188,13 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Restart Chrome and open a URL in the third-party app to check whether the error will appear or not.
 
 **Note** : If this method works for you, you should start Chrome with this shortcut every time.
@@ -184,6 +212,13 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 3) Type “%LOCALAPPDATA%” and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/run.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Double click**Google** \>**Chrome** \>**User Data** to locate the**Default** folder.
 
@@ -203,6 +238,13 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 8: Reinstall your Google Chrome
 
  The error could be caused by corrupted installation. So you can reinstall the program to solve this problem.
@@ -211,34 +253,13 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/control-1024x626.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Set Control Panel view by**Category** . Then click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap821-1024x665.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click on Google Chrome and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/uninstall-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Use another browser to download the latest version of Google Chrome from the[Google Chrome official website](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI0sLo0YH%5F4QIVksJkCh1jiw8SEAAYASAAEgIDF%5FD%5FBwE&gclsrc=aw.ds) .  
 
@@ -263,5 +284,26 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/bluetooth-paired-but-not-connected-on-windows-11/"><u>Bluetooth Paired but Not Connected on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-guide-on-correcting-compromised-system-data-structures-within-windows-10-or-11/"><u>Complete Guide on Correcting Compromised System Data Structures Within Windows 10 or 11</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/convertissez-votre-video-mpeg-en-audio-wma-gratuite-en-ligne-avec-movavi-guide-facile-dutilisation/"><u>Convertissez Votre Vidéo MPEG en Audio WMA Gratuite en Ligne Avec Movavi - Guide Facile D'utilisation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/decoding-ig-analytics-mastering-the-art-of-social-media-insights/"><u>Decoding IG Analytics Mastering the Art of Social Media Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solution-for-resolving-the-error-0x887a0006-issue/"><u>Effortless Solution for Resolving the 'Error 0X887A0006' Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/eight-slips-new-users-shouldnt-fall-into-with-windows-11/"><u>Eight Slips New Users Shouldn't Fall Into With Windows 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elite-select-best-apps-for-watching-live-boxing-and-international-football/"><u>Elite Select Best Apps for Watching Live Boxing & International Football</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-the-endless-cycle-of-windows-11-re-start-with-these-easy-fixes/"><u>End the Endless Cycle of Windows 11 Re-Start with These Easy Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/endless-cursor-heres-how-you-can-put-a-stop-to-it/"><u>Endless Cursor? Here's How You Can Put a Stop to It!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-empty-screen-a-step-by-step-solution-for-monitor-input-failures/"><u>Fix Your Empty Screen: A Step-by-Step Solution for Monitor Input Failures</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-microsoft-word-documents-that-cant-be-opened/"><u>How to Fix Microsoft Word Documents That Can't Be Opened</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-a-comprehensible-guide-to-instagrams-latest-updates/"><u>In 2024, A Comprehensible Guide to Instagram's Latest Updates</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-playful-prodigies-the-ultimate-kids-game-compilation/"><u>In 2024, Playful Prodigies The Ultimate Kids' Game Compilation</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimize-your-pc-with-easy-windows-11-rejuvenation-methods-refresh-and-reset-tips-inside/"><u>Optimize Your PC with Easy Windows 11 Rejuvenation Methods – Refresh & Reset Tips Inside</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-issues-with-the-non-responsive-nvidia-control-panel/"><u>Troubleshooting Guide: Resolving Issues with the Non-Responsive NVIDIA Control Panel</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-a-non-responsive-or-dark-laptop-screen/"><u>Troubleshooting Tips for Fixing a Non-Responsive or Dark Laptop Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolve-suitable-printer-driver-not-found-on-your-windows-device/"><u>Troubleshooting Tips: Resolve 'Suitable Printer Driver Not Found' On Your Windows Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-itel-s23s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Itel S23s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixed: Computer Unresponsive To Headphones"
-date: 2024-09-29T01:17:46.474Z
-updated: 2024-10-01T21:08:57.949Z
+date: 2024-10-03T17:52:42.326Z
+updated: 2024-10-06T23:05:58.269Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -61,10 +54,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -81,6 +74,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -90,6 +90,19 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -109,6 +122,19 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -123,19 +149,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -154,34 +167,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -217,24 +211,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-content-maker-to-cash-magnet-youtubes-guide-to-ad-revenue/"><u>[New] 2024 Approved From Content Maker to Cash Magnet Youtube's Guide to Ad Revenue</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-infinite-loading-screen-on-valorant-a-guide-to-getting-you-back-into-action/"><u>[Solved] Infinite Loading Screen on Valorant: A Guide to Getting You Back Into Action</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-lost-legacies-found-revelations-from-the-canon-of-classical-works/"><u>[Updated] 2024 Approved Lost Legacies Found Revelations From the Canon of Classical Works</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-innovative-ways-to-log-ps3-competitive-sessions/"><u>[Updated] In 2024, Innovative Ways to Log PS3 Competitive Sessions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-navigating-and-exploring-every-aspect-of-macs-preview-app/"><u>2024 Approved Navigating and Exploring Every Aspect of Mac's Preview App</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-poco-c51-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Poco C51 without App | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-step-by-step-tutorial-resolving-the-dark-display-issue-on-your-dell-notebook/"><u>Complete Step-by-Step Tutorial: Resolving the Dark Display Issue on Your Dell Notebook</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-solving-dolby-audio-issues-in-windows-10-systems/"><u>Comprehensive Guide: Solving Dolby Audio Issues in Windows 10 Systems</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/easy-integration-merging-igtv-and-instagram-stories/"><u>Easy Integration Merging IGTV & Instagram Stories</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-overcoming-driverpowerstatefailure-errors/"><u>Effective Solutions for Overcoming DRIVER_POWER_STATE_FAILURE Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/elevate-pc-gameplay-strategies-for-optimizing-windows-11-systems/"><u>Elevate PC Gameplay: Strategies for Optimizing Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhance-win10-efficiency-cpu-reduction-steps/"><u>Enhance Win10 Efficiency: CPU Reduction Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210391878-keyboard-navigation-failure-revitalize-those-arrow-buttons-here/"><u>Keyboard Navigation Failure? Revitalize Those Arrow Buttons Here!</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/perfect-precision-the-best-39-video-trimming-tools-from-google-play-for-2024/"><u>Perfect Precision The Best 39 Video-Trimming Tools From Google Play for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-the-notorious-windows-10-crimson-display-problem/"><u>Resolved: Fixing the Notorious Windows 10 Crimson Display Problem</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/saga-syntaxes-how-dialogues-shape-star-wars-narrative/"><u>Saga Syntaxes: How Dialogues Shape Star Wars' Narrative</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restoring-functionality-for-the-windows-key-combo-shiftpluss-in-windows-operating-systems/"><u>Step-by-Step Guide to Restoring Functionality for the Windows Key Combo (Shift+S) in WIndows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-wow-performance-sluggishness/"><u>Ultimate Guide: Solving 'WoW' Performance Sluggishness</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-art-of-the-end-scene-tutorials-and-templates-for-youtube/"><u>[New] The Art of the End Scene Tutorials & Templates for YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-effortless-guide-to-designing-youtube-follow-links/"><u>[Updated] 2024 Approved Effortless Guide to Designing YouTube Follow Links</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-elevate-your-ad-game-a-deep-dive-into-spotify-promotion/"><u>[Updated] Elevate Your Ad Game A Deep Dive Into Spotify Promotion</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosis-and-solutions-for-when-your-dell-laptops-keyboard-wont-work/"><u>Diagnosis & Solutions for When Your Dell Laptop's Keyboard Won't Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-guide-to-resolving-the-persistent-windows-update-at-0-standoff/"><u>Effortless Guide to Resolving the Persistent 'Windows Update at 0%' Standoff</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-lava-yuva-2-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-online-archive-copyright-free-gaming-harmonies/"><u>In 2024, Free Online Archive Copyright-Free Gaming Harmonies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-revolutionary-approaches-to-share-fb-videos-on-whatsapp/"><u>In 2024, Revolutionary Approaches to Share FB Videos on WhatsApp</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-successful-windows-patches-and-fixes/"><u>Mastering Successful Windows Patches and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209531378-resolving-0x80070002-update-issues-on-your-pc-with-ease/"><u>Resolving 0X80070002 Update Issues on Your PC with Ease!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-quintessential-quest-for-stories-worlds-best-1-8-schools/"><u>The Quintessential Quest for Stories – World's Best #1-#8 Schools</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-solve-error-0x80070002-in-windows-updates-quick-fixes-inside/"><u>Troubleshoot and Solve Error 0X80070002 in Windows Updates | Quick Fixes Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-maintenance-mastery-leveraging-the-power-of-sfc-and-dism-solutions-for-optimal-performance/"><u>Windows 10 Maintenance Mastery: Leveraging the Power of SFC and DISM Solutions for Optimal Performance</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Curbing MsMpEng.exe CPU Hog: Effective Techniques to Enhance System Efficiency in Windows 11 [SOLVED]"
-date: 2024-09-16T17:14:29.330Z
-updated: 2024-09-20T18:23:56.698Z
+date: 2024-10-01T08:21:00.427Z
+updated: 2024-10-07T09:48:02.015Z
 tags:
   - win11
   - win10
@@ -51,11 +51,40 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 2. Type**services.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf596c06c.jpg)
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bfcea31f4.jpg)
 5. Set the**Startup type** to**Automatic** . Then click **Apply**  \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c08c50e91.jpg)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer to see if the error has gone. If you still see the error, you have something else to try…
 
@@ -78,6 +107,13 @@ Follow these steps to reset your Winsock Catalog:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your video card driver
 
  You could probably encounter this error if the video card driver on your computer is outdated, incompatible or corrupt. So you should**update your video card driver** to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -90,13 +126,6 @@ Follow these steps to reset your Winsock Catalog:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c1c42f3f2.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
@@ -114,25 +143,18 @@ Follow these steps to reset your Winsock Catalog:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c29a46965.jpg)
 3. Select**Uninstall a program** under**Programs** when**View by Category** selected.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2c7bbb7b.jpg)
 4. Click View installed updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
 5. Find and right-click the update with KB2952664, then Uninstall.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Restart your computer to see if the error has gone.
 
@@ -150,15 +172,15 @@ Restart your computer to see if the error has gone.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-52-10.jpg)
 3. Right-click on it and choose**Disable** . You can also open its file location and delete it permanently.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
 
@@ -182,5 +204,24 @@ Restart your computer to see if the error has gone.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-audacitys-guide-to-effortless-audio-transitions/"><u>[New] In 2024, Audacity's Guide to Effortless Audio Transitions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nveiling-the-secrets-to-producing-popular-youtube-shorts/"><u>[New] Unveiling the Secrets to Producing Popular YouTube Shorts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-simplified-strategies-to-acquire-and-download-vimeo-videos/"><u>[Updated] In 2024, Simplified Strategies to Acquire & Download Vimeo Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-the-werfaultexe-application-failure-in-windows/"><u>Expert Advice: Overcoming the werFault.exe Application Failure in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-msdia80dll-functionality-is-retaining-necessary/"><u>Exploring msdia80.dll Functionality – Is Retaining Necessary?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/filming-friends-directly-share-videos-on-twitter-for-2024/"><u>Filming Friends Directly Share Videos on Twitter for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/financial-motives-in-consumer-video-evaluations-for-2024/"><u>Financial Motives in Consumer Video Evaluations for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-start-your-diagnostic-policy-service-when-its-stopped/"><u>Fixing the Issue: How to Start Your Diagnostic Policy Service When It's Stopped</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/get-your-no-cost-blu-ray-playback-programs-now-cross-platform-support-including-windows-and-mac-featuring-winxdvd/"><u>Get Your No Cost Blu-Ray Playback Programs Now: Cross Platform Support Including Windows & Mac, Featuring WinXDVD</u></a></li>
+<li><a href="https://common-error.techidaily.com/hardware-havoc-severe-system-disruption/"><u>Hardware Havoc: Severe System Disruption</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-free-mcb-theme-images-templates-and-more/"><u>In 2024, Free MCB Theme Images, Templates & More</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-fast-photo-journey-crafting-quick-dynamic-google-collages/"><u>In 2024, The Fast Photo Journey Crafting Quick, Dynamic Google Collages</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-your-pc-or-laptops-unwanted-hibernation-problem/"><u>Quick Fixes for Your PC or Laptop's Unwanted Hibernation Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/spacebar-key-malfunction-in-windows-10-find-out-why-and-how-to-get-it-working-again/"><u>Spacebar Key Malfunction in Windows 10? Find Out Why and How to Get It Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-windows-driver-power-state-issues/"><u>Step-by-Step Guide: Resolving Windows Driver Power State Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-soldering-iron-and-station-reviews-2er-2024/"><u>Top-Rated Soldering Iron & Station Reviews 2Er 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/waking-up-to-a-well-rested-win11-machine/"><u>Waking Up to a Well-Rested Win11 Machine</u></a></li>
+</ul></div>
 

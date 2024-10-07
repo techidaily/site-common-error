@@ -1,7 +1,7 @@
 ---
 title: "How to Optimize Your Windows 11 System: Tackling High GPU Use From the Desktop Window Manager"
-date: 2024-09-28T16:56:40.514Z
-updated: 2024-10-02T01:15:24.707Z
+date: 2024-10-04T19:49:54.028Z
+updated: 2024-10-07T07:25:07.424Z
 tags:
   - win11
   - win10
@@ -35,6 +35,19 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -46,10 +59,10 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 2: Check your desktop icon settings
@@ -58,31 +71,17 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -104,10 +103,10 @@ start explorer.exe
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 4: Perform a system restore
@@ -118,8 +117,22 @@ If your desktop icons still don’t show up, you can perform a system restore to
 2. At Recovery, click **Open System Restore**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
+5. Click **Next** \> **Finish**.
+6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
+
+---
 
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
@@ -127,12 +140,6 @@ If your desktop icons still don’t show up, you can perform a system restore to
 </a>
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
-5. Click **Next** \> **Finish**.
-6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
-
----
 
 ### Tip 5: Reset your computer
 
@@ -186,20 +193,22 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-5-best-snipping-tool-for-chromebook-for-2024/"><u>[New] 5 Best Snipping Tool For Chromebook for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-foremost-low-impact-screen-recorders-explored/"><u>[Updated] 2024 Approved Foremost Low-Impact Screen Recorders Explored</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-your-gameplay-our-archive-top-6-minecraft-recording-tactics/"><u>[Updated] 2024 Approved Your Gameplay, Our Archive Top 6 Minecraft Recording Tactics</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-max-360-vs-hero-11-discovering-the-gopro-video-champion/"><u>[Updated] Max 360 Vs. Hero 11 - Discovering the GoPro Video Champion</u></a></li>
-<li><a href="https://common-error.techidaily.com/banish-the-troublesome-0x80072efd-bug-from-your-windows-11-device-easily/"><u>Banish the Troublesome 0X80072EFD Bug From Your Windows 11 Device Easily!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/decoding-jabra-talk-45-high-definition-sound-and-enduring-battery-lifespan/"><u>Decoding Jabra Talk 45: High-Definition Sound & Enduring Battery Lifespan</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-create-music-for-free-top-10-recording-software-options/"><u>In 2024, Create Music for Free Top 10 Recording Software Options</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-content-display-facebooks-latest-customization-advance/"><u>Mastering Content Display – Facebook's Latest Customization Advance</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-guide-resolving-steam-disk-write-error-without-a-hitch/"><u>Quick Guide: Resolving Steam 'Disk Write Error' Without a Hitch</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/social-stream-top-8-viral-videos-for-2024/"><u>Social Stream Top 8 Viral Videos for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/spotlight-on-youtubes-creme-de-la-creme-of-narratives-for-2024/"><u>Spotlight on YouTube’s Crème De La Crème of Narratives for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-repairing-the-error-that-causes-hamachi-to-stop-functioning-correctly/"><u>Step-by-Step: Repairing the Error That Causes Hamachi to Stop Functioning Correctly</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-resolve-availability-issues-on-destiny-2-game-servers/"><u>Steps to Resolve Availability Issues on Destiny 2 Game Servers</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-powerful-ps4-sounds-a-comprehensive-troubleshooting-approach/"><u>Tackling Powerful PS4 Sounds: A Comprehensive Troubleshooting Approach</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-lenovo-keyboard-issues-solutions-and-fixes/"><u>Troubleshooting Lenovo Keyboard Issues: Solutions and Fixes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-climbing-the-viewership-ladder-with-igtv-strategies-to-succeed/"><u>[New] 2024 Approved Climbing the Viewership Ladder with IGTV Strategies to Succeed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-gadgets-in-auto-traffic-camera-tech/"><u>[New] Premier Gadgets in Auto Traffic Camera Tech</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-perfecting-voice-broadcasts-on-apple-devices-the-pros-guide/"><u>[Updated] In 2024, Perfecting Voice Broadcasts on Apple Devices - The Pro's Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-professional-stream-techniques-for-high-res-fb-views/"><u>[Updated] In 2024, Professional Stream Techniques for High-Res FB Views</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-playstation-4-guide-to-perfect-gameplay-recording-for-2024/"><u>[Updated] The Ultimate PlayStation 4 Guide to Perfect Gameplay Recording for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-crashing-screens-winning-strategies-for-sonic-games-w11/"><u>Conquering Crashing Screens: Winning Strategies for Sonic Games (W11)</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-file-explorer-crash-in-windows-11-step-by-step-solutions/"><u>Fixing File Explorer Crash in Windows 11 – Step-by-Step Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-crafting-exceptional-instagram-ringtone-alerts-a-compreeved-guide/"><u>In 2024, The Art of Crafting Exceptional Instagram Ringtone Alerts A Compreeved Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-browser-errors-correcting-render-fails-to-initialize-issue-effectively/"><u>Mastering Browser Errors: Correcting 'Render Fails To Initialize' Issue Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-ps4-nat-type-failures-a-detailed-step-by-step-problem-solving-guide/"><u>Overcoming PS4 NAT Type Failures: A Detailed, Step-By-Step Problem Solving Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-compatibility-problems-how-to-correct-incorrect-sxs-configurations-in-windows-10-guide/"><u>Resolve Compatibility Problems: How to Correct Incorrect SxS Configurations in Windows 10 [Guide]</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-tips-for-fixing-the-windows-configuration-is-incomplete-error/"><u>Resolved: Tips for Fixing the 'Windows Configuration Is Incomplete' Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-lenovo-laptops-dead-pixels-fixes-for-unresponsive-keys/"><u>Reviving Your Lenovo Laptop's Dead Pixels: Fixes for Unresponsive Keys</u></a></li>
+<li><a href="https://program-issues.techidaily.com/roblox-pc-woes-decode-the-error-277-issue-with-our-latest-2024-fix-guide/"><u>Roblox PC Woes? Decode the Error 277 Issue with Our Latest 2024 Fix Guide</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-nokia-c110-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Nokia C110</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-your-pc-when-it-cant-power-off-on-windows-10/"><u>Troubleshooting Guide: Fixing Your PC When It Can’t Power Off on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-non-functional-dell-audio-devices/"><u>Troubleshooting Guide: Solving Non-Functional Dell Audio Devices</u></a></li>
 </ul></div>
 

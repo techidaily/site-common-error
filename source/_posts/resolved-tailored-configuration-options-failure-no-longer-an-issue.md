@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Tailored Configuration Options Failure No Longer an Issue"
-date: 2024-09-27T01:23:39.144Z
-updated: 2024-10-01T20:14:59.476Z
+date: 2024-10-02T10:10:59.491Z
+updated: 2024-10-07T07:31:18.005Z
 tags:
   - win11
   - win10
@@ -53,13 +53,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -74,22 +67,29 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -109,13 +109,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -123,10 +116,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -143,10 +136,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -156,6 +149,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -199,18 +199,14 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-flip-side-to-visual-storytelling-how-to-rotate-your-images-on-instagram/"><u>[Updated] In 2024, The Flip-Side to Visual Storytelling How to Rotate Your Images on Instagram</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/conversion-libera-e-gratuita-da-accondi-ogg-a-mp4-con-movavi/"><u>Conversion Libera E Gratuita Da ACCONDI OGG a MP4 Con Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/corrective-actions-for-unresponsive-right-click-on-a-windows-10-pc/"><u>Corrective Actions for Unresponsive Right-Click on a Windows 10 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-guidance-for-navigating-file-explorer-in-windows-11/"><u>Effortless Guidance for Navigating File Explorer in Windows 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Meizu 21 Pro? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-honor-x7b-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Honor X7b</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-reduce-high-network-consumption-by-svchostexe/"><u>How to Troubleshoot and Reduce High Network Consumption by svchost.exe</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/latest-m3-macbook-pro-info-release-schedule-costs-and-full-tech-specifications/"><u>Latest M3 MacBook Pro Info - Release Schedule, Costs & Full Tech Specifications</u></a></li>
-<li><a href="https://blog-min.techidaily.com/secure-software-haven-download-your-free-movies-and-dvds-with-winxdvd/"><u>Secure Software Haven: Download Your Free Movies & DVDs with WinXDVD</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-specified-module-missing-error-a-step-by-step-guide/"><u>Solving the 'Specified Module Missing' Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steps-to-prevent-frequent-freezing-in-cyberpunks-latest-hit-deathloop-across-multiple-consoles/"><u>Steps to Prevent Frequent Freezing in Cyberpunk's Latest Hit: Deathloop Across Multiple Consoles</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-drone-that-never-loses-you-top-10-list-for-2024/"><u>The Drone that Never Loses You - Top 10 List for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-dealing-with-unresponsive-file-explorer-on-windows-nt/"><u>Troubleshooting Guide: Dealing with Unresponsive File Explorer on Windows nT</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-capture-kings-warzone/"><u>[New] Capture Kings Warzone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-go-from-camera-to-cellphone-vt-adjustments-in-fcpx/"><u>2024 Approved Go From Camera to Cellphone VT Adjustments in FCPX</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compact-computing-mastery-with-the-razer-book-13-insiders-review/"><u>Compact Computing Mastery with the Razer Book 13 Insider's Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/correcting-mistyped-characters-when-using-a-keyboard/"><u>Correcting Mistyped Characters When Using a Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-eliminating-that-annoying-speaker-crackle-on-windows-7-and-10-systems/"><u>Guide To Eliminating That Annoying Speaker Crackle On Windows 7 and 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restore-brightness-functionality-on-your-windows-11-system/"><u>Guide to Restore Brightness Functionality on Your Windows 11 System</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guide-setting-up-and-operating-microsoft-copilot-on-a-macbook/"><u>Guide: Setting Up & Operating Microsoft Copilot on a MacBook</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y77t-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y77t phone? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-correcting-corrupt-os-files-in-windows-10-and-11/"><u>Step-by-Step Tutorial: Correcting Corrupt OS Files in Windows 10 and 11</u></a></li>
 </ul></div>
 

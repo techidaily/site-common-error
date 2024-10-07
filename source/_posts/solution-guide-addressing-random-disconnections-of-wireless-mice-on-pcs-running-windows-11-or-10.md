@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Addressing Random Disconnections of Wireless Mice on PCs Running Windows 11 or 10"
-date: 2024-09-24T19:58:21.173Z
-updated: 2024-10-02T00:38:33.302Z
+date: 2024-10-02T06:17:04.101Z
+updated: 2024-10-06T21:33:31.818Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
 If you haven’t tried this method before, give it a go.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Enable the Wi-Fi adapter
 
  If your Wi-Fi adapter is disabled, the Wi-Fi option may not show up. To see if that’s the case, you can check your network settings. Here’s how:
@@ -50,32 +57,18 @@ If you haven’t tried this method before, give it a go.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-ncpa.cpl_.jpg)
 2. Check if your Wi-Fi adapter is disabled or greyed out. If it is, right-click on it and select**Enable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-enable-wifi.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once done, restart your computer and check if your Wi-Fi network shows up again.
 
  If your Wi-Fi adapter is enabled and the issue remains, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your Wi-Fi adapter driver
 
@@ -91,10 +84,10 @@ If you haven’t tried this method before, give it a go.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click the**Update** button to download the latest wireless adapter driver, then you can manually install it (you can do this with the FREE version).  
@@ -113,10 +106,34 @@ If you haven’t tried this method before, give it a go.
 1. On your taskbar, select the**Start** button and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-start-settings.jpg)
 2. Under System, select**Troubleshoot** .  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-other-troubleshooter.jpg)
 4. Scroll down the page, locate**Network Adapter** and click**Run** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-network-adapter-run.jpg)
 5. Follow the steps in the troubleshooter and see if that fixes the problem.
 
@@ -130,13 +147,6 @@ If your issue persists, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-services.jpg)
 2. Find**WLAN AutoConfig** in the list of services, right-click on it and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/wlan-autoconfig-properties.jpg)
 3. Make sure**Startup type** is set to**Automatic** and**Service status** is**Running** . Then click**OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/wlan-autoconfig-startup-type.jpg)
@@ -145,13 +155,6 @@ Restart your PC and see if your Wi-Fi shows up.
 
 If you still face the same issue, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Run network commands
 
  When you’re having trouble with your wireless network, you can try running some network commands to manually reset the TCP/IP stack, release and renew the IP address, and flush and reset the DNS client resolver cache. Here is how to do it:
@@ -159,6 +162,14 @@ If you still face the same issue, try the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run dialog. Then type**cmd** and press**Ctrl** ,**Shift,** and**Enter** simultaneously to run**Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-cmd.jpg)
 2. If you are prompted for permission by User Account Control, click**Yes** .  
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/cmd-uac-yes.jpg)
 3. At the command prompt, type**netsh winsock reset** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/winsock-reset.jpg)
@@ -166,24 +177,18 @@ If you still face the same issue, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-reset.jpg)
 5. Type**ipconfig /release** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-release.jpg)
 6. Then type**ipconfig /renew** and press**Enter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-renew.jpg)
-7. Type**ipconfig /flushdns** and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-renew.jpg)
+7. Type**ipconfig /flushdns** and press**Enter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-flushdns.jpg)
 
@@ -230,21 +235,18 @@ Wait for your computer to restart, and see if that fixes the problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-premium-5-conferencing-recording-equipment-guide/"><u>[New] 2024 Approved Premium 5 Conferencing Recording Equipment Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-exquisite-android-screen-capture-solutions-ranked-five/"><u>[Updated] In 2024, Exquisite Android Screen-Capture Solutions Ranked Five</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/abrupt-termination-devices-last-stand/"><u>Abrupt Termination: Devices' Last Stand</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-ending-vertical-scrolling-glitches-in-windows-10/"><u>Diagnosing and Ending Vertical Scrolling Glitches in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/directx-error-resolution-handling-the-unrecoverable-error-exception/"><u>DirectX Error Resolution: Handling the 'Unrecoverable Error' Exception</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enabling-others-to-access-your-informed-chatgpt-journey/"><u>Enabling Others to Access Your Informed ChatGPT Journey</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-0x887a0006-unraveled-effortless-fixes-inside/"><u>Error 0X887A0006 Unraveled: Effortless Fixes Inside!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/flac-vs-wav-a-comprehensive-guide-on-choosing-the-superior-audio-format-movavi/"><u>FLAC Vs. WAV: A Comprehensive Guide on Choosing the Superior Audio Format - Movavi</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-asus-rog-phone-8-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-elevated-cpu-use-by-the-32-bit-iastordatasvc-on-windows-11-solution/"><u>How to Fix Elevated CPU Use by the 32-Bit IAstorDataSvc on Windows 11 [Solution]</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-realme-12-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Realme 12 5G Without PUK Codes</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-resolution-to-your-olive-obstacle-in-nba-2k21-solving-steps-unpacked/"><u>The Resolution to Your Olive Obstacle in NBA 2K21 - Solving Steps Unpacked!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/the-ultimate-guide-how-to-delete-everything-from-your-apple-device/"><u>The Ultimate Guide: How To Delete Everything From Your Apple Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-acer-laptop-solutions-when-it-wont-charge/"><u>Troubleshooting Acer Laptop: Solutions When It Won't Charge</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-easy-ways-to-screen-record-instagram-story/"><u>[New] In 2024, Easy Ways to Screen Record Instagram Story</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-iphones-ringtone-personalization/"><u>[New] Mastering iPhone's Ringtone Personalization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-approach-stitching-gopro-sequences-in-holoscopic-clips/"><u>2024 Approved Innovative Approach Stitching GoPro Sequences in Holoscopic Clips</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-woes-no-more-a-step-by-step-fix-for-pairing-problems-on-windows-11-insider-tips/"><u>Bluetooth Woes No More: A Step-by-Step Fix for Pairing Problems on Windows 11 - Insider Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722957132697-download-and-update-your-hp-stream-drives-with-one-click/"><u>Download & Update Your HP Stream Drives with One Click</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-fix-windows-update-failure-error-0x80240017-effectively/"><u>Expert Tips to Fix Windows Update Failure (Error 0X80240017) Effectively</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-open-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock OnePlus Open Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 12 mini</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-free-online-editors-the-essential-guide/"><u>In 2024, Free Online Editors The Essential Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-twitch-stability-in-depth-fixes-for-overcoming-error-4000/"><u>Mastering Twitch Stability: In-Depth Fixes for Overcoming Error 4000</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/resilience-to-climate-change/"><u>Resilience to Climate Change</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/skyrocket-with-telegram-proven-marketing-techniques-unveiled/"><u>Skyrocket with Telegram Proven Marketing Techniques Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-end-of-an-era-unreal-engine-and-d3d/"><u>The End of an Era: Unreal Engine and D3D</u></a></li>
 </ul></div>
 

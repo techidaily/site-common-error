@@ -1,7 +1,7 @@
 ---
 title: "Fixing Issues: How to Resolve a Non-Functional Mac Mouse"
-date: 2024-09-19T18:36:50.237Z
-updated: 2024-09-20T19:39:14.624Z
+date: 2024-10-06T03:41:41.820Z
+updated: 2024-10-07T06:06:56.510Z
 tags:
   - win11
   - win10
@@ -41,9 +41,23 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
@@ -52,6 +66,13 @@ Here’s how to do it:
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -65,18 +86,19 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -94,16 +116,17 @@ To do so:
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -136,5 +159,20 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://audio-shaping.techidaily.com/10-must-hear-tunes-as-your-phones-greeting-melody/"><u>10 Must-Hear Tunes as Your Phones Greeting Melody</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-no-network-reachability-windows/"><u>Addressing No Network Reachability (Windows)</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-and-fixing-error-code-0x80240017-for-smooth-windows-updates-expert-tips-inside/"><u>Decoding and Fixing Error Code 0X80240017 for Smooth Windows Updates – Expert Tips Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211471703-end-window-11s-non-stop-rebooting-cycle-easy-solutions-inside/"><u>End Window 11'S Non-Stop Rebooting Cycle - Easy Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-an-unidentified-external-hard-drive-error-solving-device-descriptor-request-failed/"><u>How to Fix an Unidentified External Hard Drive Error: Solving 'Device Descriptor Request Failed'</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/innovate-and-improve-prints-download-hp-projector-8710-software-windows/"><u>Innovate and Improve Prints - Download HP Projector 8710 Software (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-black-screen-woes-in-windows-11/"><u>Navigating Black Screen Woes in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-vivo-y78plus-t1-edition-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Vivo Y78+ (T1) Edition has been deleted.</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-overcome-d3derr-not-available-issues/"><u>Step-by-Step Solutions to Overcome 'D3DERR Not Available' Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-restoring-access-to-your-geforce-experience/"><u>Successfully Restoring Access to Your GeForce Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-tecno-pop-7-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Tecno Pop 7 Pro Android SIM Unlock APK</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-stability-breakthroughs/"><u>Windows 11 Stability Breakthroughs</u></a></li>
+</ul></div>
 

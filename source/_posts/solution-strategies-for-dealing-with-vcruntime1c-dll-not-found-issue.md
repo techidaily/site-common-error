@@ -1,7 +1,7 @@
 ---
 title: Solution Strategies for Dealing with VCRUNTIME1C DLL Not Found Issue
-date: 2024-09-27T16:42:30.262Z
-updated: 2024-10-01T20:25:55.653Z
+date: 2024-10-04T01:54:51.172Z
+updated: 2024-10-07T01:40:00.078Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ When you launch the game you can hear the intro music but right after that, all 
 4. [Reinstall your audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Update your Windows system](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Change Sound Settings
 
  To solve the issue, you can try changing the sound settings. Uncheck “Disable all sound effect” has been proven effective by many users.
@@ -46,15 +39,22 @@ When you launch the game you can hear the intro music but right after that, all 
 1. In the right-bottom toolbar, right-click on the volume icon.
 2. Click**Sounds** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/1-5.jpg)
 3. In the**Playback** tab, choose the device you’re using and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
-4. In the**Enhancements** tab, uncheck “**Disable all sound effects** “.![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
-5. Click**Apply > OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. In the**Enhancements** tab, uncheck “**Disable all sound effects** “.![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
+5. Click**Apply > OK** .
 
 6. Reboot your computer and check then your game sound.
 
@@ -66,7 +66,23 @@ When you launch the game you can hear the intro music but right after that, all 
 1. On the right-bottom of the taskbar, right-click on the volume icon.
 2. Click**Troubleshoot sound problems** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-4.jpg)
 3. Choose**Yes, Open Audio Enhancements** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Follow the on-screen instructions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Reboot your computer and check whether the problem is solved or not.
 
 ### Method 3: Update your audio driver
@@ -98,13 +114,6 @@ There are two ways you can update your audio drivers.
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 4: Reinstall your audio driver
 
  If Method 3 doesn’t help, reinstall your audio driver might be a good choice. It might be caused by the corrupted file which needs a clean uninstall to clear. So reinstall your driver may solve the “Forza Horizon 4 no sound” problem.
@@ -114,29 +123,29 @@ There are two ways you can update your audio drivers.
 3. Click**Sound, video and game controllers** , right-click on the**Realtek(R) Audio** and click**Uninstall device** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click**Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3.1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Use Method 3 to install the driver.
 6. Reboot your computer to check whether the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5: Update your Windows system
@@ -167,24 +176,20 @@ There are two ways you can update your audio drivers.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-preserve-your-virtual-adventures-with-top-pc-screen-techniques/"><u>[New] 2024 Approved Preserve Your Virtual Adventures with Top PC Screen Techniques</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-auditory-alteration-on-the-go-the-top-7-mobile-voice-modification-apps/"><u>[New] Auditory Alteration on the Go The Top 7 Mobile Voice Modification Apps</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-origin-wont-load-quickly-and-easily/"><u>[SOLVED] Origin Won't Load | Quickly & Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-windows-11-keeps-crashing/"><u>[SOLVED] Windows 11 Keeps Crashing</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-record-desktop-on-windows-8-effortlessly-for-2024/"><u>[Updated] How To Record Desktop on Windows 8 Effortlessly for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-foremost-6-online-spaces-dominating-b2b-interactions/"><u>2024 Approved Foremost 6 Online Spaces Dominating B2B Interactions</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cease-and-desist-stop-auto-uninstalling-nvidia-drivers/"><u>Cease and Desist: Stop Auto-Uninstalling Nvidia Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-tips-for-dealing-with-a-non-functioning-notebook-touchpad/"><u>Comprehensive Tips for Dealing with a Non-Functioning Notebook Touchpad</u></a></li>
-<li><a href="https://common-error.techidaily.com/exploring-msda80dll-file-to-preserve-or-delete/"><u>Exploring MSDA80.DLL File: To Preserve or Delete?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-huawei-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Huawei FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://common-error.techidaily.com/non-functional-google-chrome-now-working-a-guide-to-previous-bugs-fixed/"><u>Non-Functional Google Chrome Now Working: A Guide to Previous Bugs Fixed</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-760-drivers-updated-with-ease/"><u>Nvidia 760 Drivers Updated With Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-the-loadlibrary-failed-with-error-t-87-problem-by-adjusting-incorrect-parameters/"><u>Overcome the 'Loadlibrary Failed with Error T 87' Problem by Adjusting Incorrect Parameters</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-speaker-issues-in-windows-11-and-7-no-more-crackling-sounds/"><u>Resolve Your Speaker Issues in Windows 11 and 7 – No More Crackling Sounds</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-user-privilege-issues-fixing-operation-needs-admin-access-in-windows-11-10-and-7/"><u>Resolving User Privilege Issues: Fixing 'Operation Needs Admin Access' In Windows 11, 10 & 7</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/reversing-live-on-twitch-a-top-ten-guide/"><u>Reversing Live on Twitch A Top Ten Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-windows-network-error-code-0x800704cf-a-comprehensive-guide/"><u>Solving the Windows Network Error Code 0X800704CF – A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-setup-how-to-fix-error-code-80240020-successfully/"><u>Troubleshooting Windows 11 Setup: How to Fix Error Code 80240020 Successfully</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1724313576749-dxabbyy/"><u>エレガント解決策でDXを前進させる：ABBYYの革新的なデジタルインテリジェンス強化について</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/new-world-overcoming-recurring-pc-malfunctions-and-stability-problems/"><u>'New World': Overcoming Recurring PC Malfunctions and Stability Problems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ourav-joshis-income-tactics-the-future-of-monetizing-content-for-2024/"><u>[New] Sourav Joshi's Income Tactics The Future of Monetizing Content for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-perfecting-crossfades-and-sweeps-in-premiere/"><u>[Updated] Perfecting Crossfades & Sweeps in Premiere</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-box-personalizing-online-spots-unique-heartfelt-gestures-for-2024/"><u>Best Box-Personalizing Online Spots Unique, Heartfelt Gestures for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-fixes-to-restore-logitech-mouse-scroll-wheel-functionality/"><u>DIY Fixes to Restore Logitech Mouse Scroll Wheel Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-media-driver-missing-fix-now/"><u>Essential Media Driver Missing? Fix Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/high-performance-windows-driver-setup-keeping-cpu-usage-low/"><u>High-Performance Windows Driver Setup: Keeping CPU Usage Low</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resync-an-unresponsive-xbox-one-controller-with-the-console-a-comprehensive-guide/"><u>How to Resync an Unresponsive Xbox One Controller with the Console - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-solve-windows-10-keeps-restarting-issue-easily/"><u>How To Solve Windows 10 Keeps Restarting Issue Easily</u></a></li>
+<li><a href="https://fox-that.techidaily.com/removing-water-from-iphone-speakers-a-step-by-step-guide/"><u>Removing Water From iPhone Speakers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-eliminating-the-this-device-is-absent-problem-on-win10-win8-and-win7-error-code-24/"><u>Step-by-Step Solution: Eliminating the 'This Device Is Absent' Problem on Win10, Win8 & Win7 (Error Code 24)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-complete-insight-into-vivacut-2024-features-and-functionality/"><u>The Complete Insight Into VivaCut 2024 Features & Functionality</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transform-mka-videos-into-aac-format-for-free-using-movavis-web-based-service/"><u>Transform MKA Videos Into AAC Format for Free Using Movavi's Web-Based Service</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-stuck-keys-on-your-microsoft-windows-laptop-or-desktop/"><u>Troubleshooting and Repairing Stuck Keys on Your Microsoft Windows Laptop or Desktop</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-itel-p55-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Itel P55 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

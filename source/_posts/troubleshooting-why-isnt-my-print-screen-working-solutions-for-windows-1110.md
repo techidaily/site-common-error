@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Why Isn't My Print Screen Working? Solutions for Windows 11/10"
-date: 2024-09-18T18:45:44.557Z
-updated: 2024-09-20T19:05:39.924Z
+date: 2024-10-03T10:56:03.865Z
+updated: 2024-10-07T11:38:58.591Z
 tags:
   - win11
   - win10
@@ -47,9 +47,23 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
@@ -66,10 +80,25 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -78,15 +107,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. Click**the Start button**  \>**the settings button** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
-3. Click **Recovery** \>**Restart now** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
+3. Click **Recovery** \>**Restart now** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
@@ -98,13 +128,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -112,13 +135,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
@@ -143,5 +159,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-peek-behind-the-curtain-of-hidden-youtube-videos/"><u>[Updated] 2024 Approved How to Peek Behind the Curtain of Hidden YouTube Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-snap-and-tag-your-audio-favorite-to-share-for-2024/"><u>[Updated] Snap & Tag Your Audio Favorite to Share for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-taking-twitter-videos-from-regular-to-high-definition/"><u>2024 Approved Taking Twitter Videos From Regular to High-Definition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-graphics-driver-error-in-win-7810/"><u>Addressing Graphics Driver Error in WIN 7/8/10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/avoiding-common-pitfalls-expert-tips-for-choosing-a-high-quality-selfie-stick/"><u>Avoiding Common Pitfalls: Expert Tips for Choosing a High-Quality Selfie Stick</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/elevate-your-video-game-top-4k8k-video-editing-solutions/"><u>Elevate Your Video Game Top 4K/8K Video Editing Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/europes-vibrant-verbal-tapestry-celebrate-it-today/"><u>Europe's Vibrant Verbal Tapestry – Celebrate It Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-correcting-malfunctioning-system-components-on-windows-11/"><u>Expert Advice: Correcting Malfunctioning System Components on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-a-stuck-key-issue-on-your-windows-keyboard-step-by-step/"><u>How to Resolve a Stuck Key Issue on Your Windows Keyboard [Step-by-Step]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-audio-issues-resolving-speaker-distortion-on-windows-computers/"><u>How to Stop Audio Issues: Resolving Speaker Distortion on Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-0x80amake-sure-to-use-relevant-keywords-like-windows-11-system-restore-error-and-error-0x80070091-in-each-title-as-it-helps-with-seo-rankings115/"><u>Overcoming the 0X80amake Sure to Use Relevant Keywords Like Windows 11, System Restore Error, and Error 0X80070091 in Each Title, as It Helps with SEO Rankings by Making the Content More Discoverable for Those Specific Terms</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-excessive-gpu-use-by-dwm-in-windows-1011-with-these-5-methods/"><u>Resolve Excessive GPU Use by DWM in Windows 10/11 with These 5 Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-excessive-energy-fluctuations-in-hub-connections/"><u>Tackling Excessive Energy Fluctuations in Hub Connections</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-when-your-software-cant-locate-necessary-modules/"><u>Troubleshooting When Your Software Can't Locate Necessary Modules</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-iphone-14-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on iPhone 14 Pro Max iCloud Activation Lock Bypass</u></a></li>
+</ul></div>
 

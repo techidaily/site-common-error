@@ -1,7 +1,7 @@
 ---
 title: "Resolving the DRIVER_POWER_STATE_ERROR: A Comprehensive Guide"
-date: 2024-09-25T20:11:25.450Z
-updated: 2024-10-01T20:52:00.770Z
+date: 2024-10-03T02:11:22.926Z
+updated: 2024-10-07T10:51:30.957Z
 tags:
   - win11
   - win10
@@ -77,55 +77,50 @@ net start cryptsvc
 3. If prompted, click**Yes** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. On the Registry Editor, click**File** , then select**Export** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-917.png)
 5. Select_a place to save your backup copy_ , then click**Save** to save the backup.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-918.png)
 6. Wait for the export process to be complete.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Go to _HKEY\_LOCAL\_MACHINE\\Software\\Policies\\Microsoft\\Windows\\WindowsUpdate_ .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-919.png)
 8. Double click**DisableWindowsUpdateAccess** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-920.png)
 9. Change the**value data** to**0** , then click**OK** .  
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-923.png)
 
  Now try running Windows Update. If the steps above worked for you, you won’t see the “0x8024002e” error there.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Perform a clean boot
 
@@ -136,16 +131,23 @@ To do so:
 1. Press the**Windows log key** and**R** on your keyboard to invoke the Run dialog.
 2. Type “**msconfig** ” and press**Enter** on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 3. Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST** ) and click**Disable all** . After that, click**OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 4. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 5. Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb40476a45c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Click**OK** .
 7. Click**Restart** .  
@@ -163,10 +165,10 @@ To do so:
 14. Click the**Startup** tab, then click**Open Task Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 15. Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
@@ -175,10 +177,16 @@ To do so:
 17. Check to see if the error occurs. If it doesn’t, repeat step**13 to 16**  until you find out the startup item that causes the issue.  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If there’s any startup item that causes the 0x8024002e error, you should see what program is this item related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
@@ -204,17 +212,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-audio-alchemy-transforming-instagram-videos-with-sound/"><u>[New] Audio Alchemy Transforming Instagram Videos with Sound</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-innovating-image-vision-mastering-hdr-in-photoshop/"><u>[Updated] In 2024, Innovating Image Vision Mastering HDR in Photoshop</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-the-secrets-of-your-personalized-youtube-playlists/"><u>[Updated] Unlocking the Secrets of Your Personalized Youtube Playlists</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-instantly-the-most-reliable-easycap-driver-setup/"><u>Download Instantly: The Most Reliable EasyCAP Driver Setup</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/efficiently-renaming-users-in-windows-11-pro/"><u>Efficiently Renaming Users in Windows 11 Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/getting-your-dells-locked-function-key-back-to-work-expert-fixes-and-tips/"><u>Getting Your Dell's Locked Function Key Back to Work: Expert Fixes & Tips</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-a78-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo A78?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-windows-woes-expert-tips-for-fixing-error-code-0x8024200d-during-updates-includes-video-guide/"><u>Resolve Your Windows Woes: Expert Tips for Fixing Error Code 0X8024200d During Updates [INCLUDES VIDEO GUIDE]</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-typing-troubles-how-to-fix-non-responsive-letters-on-windows-11-keyboards/"><u>Resolved: Typing Troubles – How To Fix Non-Responsive Letters on Windows 11 Keyboards</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-when-your-torrent-fails-to-download-correctly/"><u>Solutions When Your Torrent Fails to Download Correctly</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-techniques-for-persistent-steam-update-issues/"><u>Troubleshooting Techniques for Persistent Steam Update Issues</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-c-span-video-downloads-how-to-do-it-right/"><u>[New] Free C-Span Video Downloads - How To Do It Right</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-maximizing-impact-with-instagrams-new-algorithm-insights/"><u>[Updated] 2024 Approved Maximizing Impact with Instagram's New Algorithm Insights</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-from-facebook-to-hd-how-to-convert-videos-to-premium-mp4-format-free/"><u>2024 Approved From Facebook to HD How To Convert Videos to Premium MP4 Format (Free)</u></a></li>
+<li><a href="https://common-error.techidaily.com/acer-keys-on-windows-1011-not-working-lets-fix-it/"><u>Acer Keys on Windows 10/11 Not Working? Let's Fix It.</u></a></li>
+<li><a href="https://common-error.techidaily.com/bring-back-your-mouse-cursor-effective-fixes-for-windows-11-users/"><u>Bring Back Your Mouse Cursor: Effective Fixes for Windows 11 Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/data-capacity-decoded-what-does-it-take-for-a-terabyte-to-equal-gigabytes/"><u>Data Capacity Decoded: What Does It Take for a Terabyte to Equal Gigabytes?</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-1067-troubleshooting-when-your-windows-process-ends-prematurely/"><u>Error Code 1067: Troubleshooting When Your Windows Process Ends Prematurely</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-resolved-unsupported-inputs-no-longer-display-issues-on-screen/"><u>Error Resolved: Unsupported Inputs No Longer Display Issues on Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-non-responsive-laptop-trackpad-a-step-by-step-guide/"><u>Fixing a Non-Responsive Laptop Trackpad: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-usb-connection-issues-how-to-stop-device-not-recognized-errors/"><u>Fixing USB Connection Issues: How to Stop 'Device Not Recognized' Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-windows-10-kb40240034-update-issue/"><u>How to Fix the Windows 10 KB40240034 Update Issue</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-fix-handling-windows-driver-energy-failures-with-precision/"><u>Master the Fix: Handling Windows Driver Energy Failures with Precision</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-issues-with-the-onikuma-headset-a-comprehensive-guide-to-solutions/"><u>Overcoming Audio Issues with the Onikuma Headset - A Comprehensive Guide to Solutions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/the-best-free-mov-video-rotator-tools-for-2024/"><u>The Best Free MOV Video Rotator Tools for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-s24-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy S24</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transformative-updates-set-to-boost-windows-n-widget-experience/"><u>Transformative Updates Set to Boost Windows N Widget Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-lack-of-sound-devices-on-your-windows-pc-windows-10-11/"><u>Troubleshooting Lack of Sound Devices on Your Windows PC (Windows 10, 11)</u></a></li>
 </ul></div>
 

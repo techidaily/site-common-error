@@ -1,7 +1,7 @@
 ---
 title: Tackling the 'Windows 11 Couldn't Be Installed' Issue - Solving Error Code 80240020 Easily
-date: 2024-09-28T18:22:17.419Z
-updated: 2024-10-01T17:07:37.603Z
+date: 2024-10-03T10:04:35.343Z
+updated: 2024-10-07T07:01:33.213Z
 tags:
   - win11
   - win10
@@ -57,6 +57,13 @@ To restore it:
 
  6) Reboot your Windows 8\. Then go to the Windows App Store to install the app again to see if it’s successful.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## For Windows 10/8.1 users: Restore AppReadiness directory in the Windows Folder
 
  0x80073cf9 could be probably caused by the missing AppReadiness directory in your Windows 10 or 8.1\.
@@ -65,22 +72,15 @@ To restore it:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **E** at the same time to invoke the File Explorer window.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Go to **This PC**  \> **Local Disk (C:)**  \> **Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9ed488157.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **3) Right-click on the blank area to click New, then Folder** .
@@ -88,10 +88,10 @@ To restore it:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59af9f67c0fe4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Yes**  when prompted by User Account Control.
@@ -101,16 +101,10 @@ To restore it:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afa57cdd600.png)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Reboot your Windows 10/8.1\. Then go to the Windows App Store to install the app again to see if it’s successful.
@@ -132,16 +126,22 @@ To restore it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-audience-wave-top-hash-tags-to-swell-youtube-views/"><u>[Updated] 2024 Approved Audience Wave Top Hash Tags to Swell Youtube Views</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-hp-laptop-usb-port-back-to-life-solutions-inside/"><u>Get Your HP Laptop USB Port Back to Life - Solutions Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-access-denied-file-and-folder-errors-on-windows/"><u>How to Fix Access Denied File and Folder Errors on Windows</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-premium-selection-10-affordable-captions-from-youtube/"><u>In 2024, Premium Selection 10 Affordable Captions From YouTube</u></a></li>
-<li><a href="https://common-error.techidaily.com/logitech-unplugged-resolved-mouse-malfunction/"><u>Logitech Unplugged: Resolved Mouse Malfunction</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/move-beyond-windows-emulators-top-online-retailers-offering-authentic-linux-gaming-experiences/"><u>Move Beyond Windows Emulators: Top Online Retailers Offering Authentic Linux Gaming Experiences</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/overcoming-social-media-livestream-errors/"><u>Overcoming Social Media Livestream Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-laptops-persistent-white-screen-problem/"><u>Resolve Your Laptop's Persistent White Screen Problem</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-hdmi-problems-caused-by-conflicting-application-usage/"><u>Troubleshooting HDMI Problems Caused by Conflicting Application Usage</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-technique-saving-and-storing-your-powerpoint-slides-as-a-dvd-in-windows-os/"><u>Ultimate Technique: Saving and Storing Your PowerPoint Slides as a DVD in Windows OS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-leveraging-luts-for-rich-color-grading-in-ar-apps/"><u>[New] 2024 Approved Leveraging LUTs for Rich Color Grading in AR Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-understanding-the-dynamics-of-instagram-unfollows-for-2024/"><u>[Updated] Understanding the Dynamics of Instagram Unfollows for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-reawakening-dormant-connections-with-your-obs-cam/"><u>2024 Approved Reawakening Dormant Connections with Your OBS Cam</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-help-with-file-explorer-in-windows-11-easily/"><u>Get Help with File Explorer in Windows 11, Easily!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-8-plus-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 8 Plus With or Without Password</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-improve-keyboard-performance-and-reduce-delay-on-windows-10-systems/"><u>How To Improve Keyboard Performance & Reduce Delay on Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-non-functional-lenovo-function-fn-key-simple-fixes/"><u>How to Repair a Non-Functional Lenovo Function (Fn) Key - Simple Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/persistent-mouse-disappearance-in-windows-10-how-to-resolve-it-once-and-for-all/"><u>Persistent Mouse Disappearance in Windows 10 - How to Resolve It Once and For All</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/pickup-vs-competitors-an-incisive-review-of-androids-top-editor/"><u>PickUp Vs. Competitors An Incisive Review of Android's Top Editor</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-your-secrets-why-sharing-sensitive-data-with-chatgpt-may-not-be-safe/"><u>Protecting Your Secrets: Why Sharing Sensitive Data with ChatGPT May Not Be Safe</u></a></li>
+<li><a href="https://common-error.techidaily.com/shopping-guide-cameras-and-windows-hello/"><u>Shopping Guide: Cameras & Windows Hello</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-instructions-addressing-the-unknown-usb-device-and-port-reset-complications-in-your-windows-10-system/"><u>Step-by-Step Instructions: Addressing the 'Unknown USB Device' And Port Reset Complications in Your Windows 10 System</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-future-of-action-photography-tomtoms-bandit-review-for-2024/"><u>The Future of Action Photography TomTom's Bandit Review for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-replace-resolving-the-d3dx943dll-error-in-windows-easily/"><u>Troubleshoot & Replace: Resolving the d3dx9_43.dll Error in Windows Easily</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/watching-dark-get-smart-about-german-instead/"><u>Watching Dark? Get Smart About German Instead</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-razer-keyboard-lighting-up-solutions-inside/"><u>Why Isn't My Razer Keyboard Lighting Up? Solutions Inside!</u></a></li>
 </ul></div>
 

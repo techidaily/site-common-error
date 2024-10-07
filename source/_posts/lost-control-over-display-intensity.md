@@ -1,7 +1,7 @@
 ---
 title: Lost Control Over Display Intensity
-date: 2024-09-13T16:29:26.647Z
-updated: 2024-09-20T18:08:13.655Z
+date: 2024-09-29T21:48:37.747Z
+updated: 2024-10-07T07:00:06.349Z
 tags:
   - win11
   - win10
@@ -39,7 +39,22 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 * If you can’t find the IE icon on your Desktop, you can type**internet explorer** in the search box,**right click** on the matching result and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b973b893efd1.jpg)
 * **Windows 7** users can simply click the**Start** button >**All Programs** \> right-click**Internet Explorer** and select**Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9743f37f2ea.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -54,6 +69,14 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 4. Under**Reset Internet Explorer settings** , click the**Reset** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976cde69f2c.jpg)
 5. Click**Reset** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976c49cc984.jpg)
 6. Click**Close** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976c985acfc.png)
@@ -64,10 +87,10 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 3: Run System File Checker
@@ -82,6 +105,14 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 3. Click **Yes**  at the **User Account Control** prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97756bba070.jpg)
 4. Once Command Prompt is open, type the **sfc /scannow**  command and press **Enter**  on your keyboard.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:**  There’s a space between **sfc**  and **/scannow**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977592dab5b.jpg)
 5. When the verification reaches 100%, you’ll see something like this if issues were found and corrected:  
@@ -92,10 +123,10 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 4: Disable your security software
@@ -105,15 +136,16 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 1. Right-click on the Taskbar and select**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977d9f3f6d2.jpg)
 2. Click the**Startup** tab.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977dc8cdc2e.png)
-3. Select the program(s) you want to disable and click the**Disable** button in the bottom right corner. Then, IE should open normally.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977dc8cdc2e.png)
+3. Select the program(s) you want to disable and click the**Disable** button in the bottom right corner. Then, IE should open normally.
 
 ---
 
@@ -129,13 +161,6 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977be68701e.jpg)
 4. Save any open files on your PC, then click   **Finish.**  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977bff6dfa0.jpg)
 5. Click **Yes**  , and your PC will restart.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977c223e7c1.png)
@@ -143,6 +168,13 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 Hopefully this can help you out.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -158,13 +190,6 @@ Hopefully this can help you out.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9785a75eb28.jpg)
 3. Click the **Update** button next to your network adapter driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _**all**_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9785e720824.jpg)
@@ -188,5 +213,26 @@ Please do reply if you got your problem fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-step-by-step-build-your-own-google-cardboard-vr-setup/"><u>[New] Step-by-Step Build Your Own Google Cardboard VR Setup</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-frugal-shopping-for-cheap-vr-headsets-china/"><u>[Updated] In 2024, Frugal Shopping for Cheap VR Headsets (China)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-instantaneous-youtube-audiences-trackers/"><u>[Updated] In 2024, Instantaneous YouTube Audiences Trackers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/5-crucial-questions-answered-before-investing-in-a-gaming-device/"><u>5 Crucial Questions Answered Before Investing in a Gaming Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/compatibility-tips-for-hd-streaming-without-hdcp-supported-devices/"><u>Compatibility Tips for HD Streaming Without HDCP Supported Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/easily-fix-no-devices-detected-during-setup-in-windows-7-with-this-comprehensive-tutorial/"><u>Easily Fix 'No Devices Detected During Setup' In Windows 7 with This Comprehensive Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-valorant-overcome-the-endless-load-screen-dilemma/"><u>Fixing Valorant: Overcome the Endless Load Screen Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-eliminate-lag-when-typing-on-a-windows-10-keyboard/"><u>How to Eliminate Lag When Typing on a Windows 10 Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-typing-incorrect-characters-on-your-keyboard/"><u>How to Fix Typing Incorrect Characters on Your Keyboard</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-light-and-shadow-masterful-edits-that-transform-images/"><u>In 2024, Light & Shadow Masterful Edits That Transform Images</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-time-travel-through-snapshots-using-camera-roll-on-snapchat/"><u>In 2024, Time-Travel Through Snapshots Using Camera Roll on Snapchat</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-zero-5g-2023-turbo-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Zero 5G 2023 Turbo.</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-error-code-0xc0000098-a-step-by-step-guide/"><u>Resolving Windows Error Code 0xC0000098: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-thawing-out-your-unresponsive-pc/"><u>Simple Solutions: Thawing Out Your Unresponsive PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-logitech-g930-earphones-intermittent-sound-issues/"><u>Step-by-Step Fix: Logitech G930 Earphones Intermittent Sound Issues</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unleashing-lightning-speeds-with-the-netgear-nighthawk-rax120-an-in-depth-analysis/"><u>Unleashing Lightning Speeds with the Netgear Nighthawk RAX120: An In-Depth Analysis</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unveiling-zdsofts-video-magic/"><u>Unveiling ZDSoft's Video Magic</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-battle-with-endless-windows-updates-issue-resolved/"><u>Winning Battle with Endless Windows Updates? [ISSUE RESOLVED]</u></a></li>
+<li><a href="https://article-posts.techidaily.com/yi-4k-action-excellence-choosing-the-best-extras-for-2024/"><u>YI 4K Action Excellence Choosing the Best Extras for 2024</u></a></li>
+</ul></div>
 

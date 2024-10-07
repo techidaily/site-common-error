@@ -1,7 +1,7 @@
 ---
 title: Fixing Your Unresponsive Laptop Keys – A Step-by-Step Solution
-date: 2024-09-19T18:33:54.067Z
-updated: 2024-09-20T18:21:51.560Z
+date: 2024-10-03T00:58:39.920Z
+updated: 2024-10-07T06:54:45.638Z
 tags:
   - win11
   - win10
@@ -58,41 +58,36 @@ thumbnail: https://thmb.techidaily.com/b46dbabb50d5277c1ad28a5993cc958234753eefe
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
@@ -125,26 +120,13 @@ thumbnail: https://thmb.techidaily.com/b46dbabb50d5277c1ad28a5993cc958234753eefe
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this method didn’t work for you, check out the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Run Keyboard Troubleshooter
@@ -167,8 +149,29 @@ If this method didn’t work for you, check out the last fix.
 2. Select**System** . Scroll down and click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -189,5 +192,16 @@ If this method didn’t work for you, check out the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-epic-battle-royale-thumbnails-done-fast/"><u>[New] Epic Battle Royale Thumbnails, Done Fast!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-engaging-users-with-instagrams-interactive-survey-feature/"><u>[New] In 2024, Engaging Users with Instagram's Interactive Survey Feature</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-acoustic-imprinting-pc-noises-logged/"><u>[Updated] Acoustic Imprinting PC Noises Logged</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-when-your-microsoft-surface-wont-charge-while-connected/"><u>How to Resolve When Your Microsoft Surface Won't Charge While Connected</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-11-bluetooth-problems-easy-solutions-to-restore-your-wireless-connection/"><u>Solving Windows 11 Bluetooth Problems: Easy Solutions to Restore Your Wireless Connection</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-overcoming-google-chromes-sudden-blackout-screen-issue/"><u>Troubleshooting Tips for Overcoming Google Chrome's Sudden Blackout Screen Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcoming-pixel-format-not-accelerated-errors-in-lwjgl/"><u>Troubleshooting Tips: Overcoming 'Pixel Format Not Accelerated' Errors in LWJGL</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/mp4-mp3-online/"><u>무료 MP4, MP3 역전 바꾸기 - Online 가이드</u></a></li>
+</ul></div>
 

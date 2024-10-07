@@ -1,7 +1,7 @@
 ---
 title: But Investors Are Still Buying Stocks because They Expect Strong Corporate Profits and Rising Economic Growth over the Next Six Months to Drive Further Gains.
-date: 2024-09-24T22:02:50.511Z
-updated: 2024-10-01T23:43:36.992Z
+date: 2024-10-01T18:06:30.274Z
+updated: 2024-10-06T21:38:26.202Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Update graphics card driver
 
  The LiveKernelEvent 144 error is, in many cases, related to a faulty or missing graphics card driver. So making sure that you have the latest and the correct graphics card driver installed is one of the first things you should do.
@@ -56,19 +63,19 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Display adapters** category, then right-click your display card and select**Uninstall device** .  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 4. Repeat the same to remove the driver for your other display card if you have one.
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -82,6 +89,19 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -94,10 +114,10 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -108,6 +128,13 @@ To do so, first visit the website of your GPU manufacturer:
  Then see if the LiveKernelEvent with code 144 error still remains. If the problem still persists, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Check USB peripherals
 
@@ -121,32 +148,11 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-13.png)
 4. Double-click the expand the category**Universal Serial Bus controllers** . There should be some grey-out devices there.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-14.png)
 5. Right-click one of the grey-out devices you see here and select**Uninstall.**  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-15.png)
 6. Click**Uninstall** to confirm.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-16.png)
 7. Repeat the same to remove all the other grey-out devices you see here.
@@ -161,10 +167,10 @@ To do so, first visit the website of your GPU manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Make sure the PSU works well for your machine
@@ -185,6 +191,13 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Repair damaged system files
 
 **Corrupted or damaged system files** could also relate to problems like LiveKernelEvent with code 144 error. By repairing the core Windows system files, it may resolve conflicts, missing DLL issues, registry errors, and other problems that contribute to the instability of your computer performance. Tools like **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  can automate the repair process by scanning system files and replacing corrupted ones.
@@ -193,13 +206,6 @@ To do so, first visit the website of your GPU manufacturer:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -250,18 +256,24 @@ Then see if the LiveKernelEvent 144 error is still seen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-lively-film-reader-assessment/"><u>[New] 2024 Approved Lively Film Reader Assessment</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-instagram-edge-a-quick-guide-to-editing-vertical-footage-in-final-cut/"><u>[Updated] 2024 Approved The Instagram Edge A Quick Guide to Editing Vertical Footage in Final Cut</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-leading-biz-cloud-storage-excellence/"><u>[Updated] In 2024, Leading Biz Cloud Storage Excellence</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-travel-guide-youtubes-best-vlogs/"><u>[Updated] The Ultimate Travel Guide YouTube's Best Vlogs</u></a></li>
-<li><a href="https://common-error.techidaily.com/cranking-up-the-volume-on-fun-overcoming-silent-gameplay-in-forza-horizon-4/"><u>Cranking Up the Volume on Fun: Overcoming Silent Gameplay in Forza Horizon 4</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-solutions-stop-your-csgo-from-freezing-a-step-by-step-guide/"><u>Effortless Solutions: Stop Your CSGO From Freezing - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/explicarea-delicata-a-politicile-privind-expedirile-de-servicii-publice-si-cele-ce-se-returna-in-romania-movavi/"><u>Explicarea Delicată a Politicile Privind Expedirile De Servicii Publice Și Cele Ce Se Returnă În România | Movavi</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-win11s-finest-screen-recorder-software-insights/"><u>In 2024, Win11's Finest Screen Recorder Software Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-lack-of-sound-in-windows-11-a-comprehensive-fix-for-the-no-audio-device-error/"><u>Overcoming the Lack of Sound in Windows 11: A Comprehensive Fix for the No Audio Device Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/screen-fades-out-unsolved-mystery/"><u>Screen Fades Out: Unsolved Mystery</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-secrets-of-seamless-zoom-communication-hacks-for-productive-remote-engagement-for-2024/"><u>The Secrets of Seamless ZOOM Communication Hacks for Productive Remote Engagement for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-windows-10-pc-reset-errors/"><u>Troubleshooting Tips for Windows 10 PC Reset Errors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-10-instagram-hashtag-that-you-should-be-using-today-for-2024/"><u>[New] 10 Instagram Hashtag That You Should Be Using Today for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-affiliate-advancements-how-small-channels-thrive-financially/"><u>[New] 2024 Approved Affiliate Advancements How Small Channels Thrive Financially</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-ultimate-guide-to-picking-drones-balance-equipment-for-2024/"><u>[Updated] The Ultimate Guide to Picking Drones' Balance Equipment for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-engage-viewers-directly-tips-for-live-video-screen-share/"><u>2024 Approved Engage Viewers Directly Tips for Live Video Screen-Share</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-identifying-ideal-release-moments-for-podcasts/"><u>2024 Approved Identifying Ideal Release Moments for Podcasts</u></a></li>
+<li><a href="https://common-error.techidaily.com/deep-dreaming-conquering-wake-up-events-on-win11/"><u>Deep Dreaming: Conquering Wake-Up Events on Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-getting-back-control-dealing-with-non-responsive-file-explorer-in-windows-11/"><u>Guide to Getting Back Control: Dealing with Non-Responsive File Explorer in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-realme-gt-3-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Realme GT 3 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-pvpnet-laugh-out-loud-lol-game-when-kernel-encounters-errors/"><u>How to Repair Your PvP.net Laugh Out Loud (LOL) Game when Kernel Encounters Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restart-and-solve-windows-update-service-issues/"><u>How to Restart and Solve Windows Update Service Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-unstick-windows-update-from-permanent-full-completion-solution/"><u>How to Unstick Windows Update From Permanent Full-Completion - SOLUTION</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-elevate-your-photos-learn-bg-removal-with-picsart-tools/"><u>In 2024, Elevate Your Photos Learn Bg Removal with Picsart Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-photosynth-pros-a-quick-snapchat-peek/"><u>In 2024, Photosynth Pros A Quick Snapchat Peek</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/mastering-social-media-a-focus-on-snapchat-business-for-2024/"><u>Mastering Social Media A Focus on SnapChat Business for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quality-control-best-free-lut-selections-and-links-reviewed-for-2024/"><u>Quality Control Best Free LUT Selections & Links Reviewed for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-ultimate-guide-to-overcome-the-red-screen-of-death/"><u>Resolved: Ultimate Guide to Overcome the 'Red Screen of Death'</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-rapid-repair-of-windows-installation-issues/"><u>Troubleshooting Steps for Rapid Repair of Windows Installation Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-fix-your-stuck-keys-with-an-efficient-keyboard-restart-procedure/"><u>Ultimate Guide: Fix Your Stuck Keys with an Efficient Keyboard Restart Procedure</u></a></li>
+<li><a href="https://common-error.techidaily.com/win-the-battle-against-fallout-4-slowdown-proven-solutions-for-gaming-smoothness/"><u>Win the Battle Against Fallout 4 Slowdown: Proven Solutions for Gaming Smoothness</u></a></li>
 </ul></div>
 

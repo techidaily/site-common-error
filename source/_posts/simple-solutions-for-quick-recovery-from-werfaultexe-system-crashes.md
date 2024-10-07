@@ -1,7 +1,7 @@
 ---
 title: Simple Solutions for Quick Recovery From werFault.exe System Crashes
-date: 2024-09-28T16:18:13.033Z
-updated: 2024-10-01T23:57:11.488Z
+date: 2024-10-01T22:59:31.093Z
+updated: 2024-10-07T10:39:46.203Z
 tags:
   - win11
   - win10
@@ -50,16 +50,10 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
   
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Uninstall and reinstall Microsoft AC Adapter driver
@@ -77,35 +71,30 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-1.jpg)
   
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Double-click **Batteries**  to expand the section. Then right-click on**Microsoft AC Adapter** to choose **Uninstall** . Click **Yes**  when asked to confirm the uninstalling.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/8.jpg)
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) When it’s done, click **Action**  to select **Scan for hardware changes** .Windows should then install a new AC adapter driver automatically for you.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/9.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Reinstall **Microsoft ACPI-Compliant Control Method Battery** via the same method of step 3) to 4).
 
  If Windows fails to install the drivers for you, or your want to do it much faster, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to help you update drivers automatically.
@@ -117,10 +106,10 @@ Follow these:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
@@ -140,18 +129,19 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-bottom-line-podcasters-earnings-on-average/"><u>[New] 2024 Approved The Bottom Line Podcasters' Earnings, On Average</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-essential-vr-devices-for-drone-enthusiasts-for-2024/"><u>[Updated] Essential VR Devices for Drone Enthusiasts for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlocking-the-potential-with-samsungs-latest-photo-editor/"><u>[Updated] Unlocking the Potential with Samsung's Latest Photo Editor</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-art-of-straightening-correcting-fisheye-in-gopro-footage/"><u>2024 Approved The Art of Straightening Correcting Fisheye in GoPro Footage</u></a></li>
-<li><a href="https://common-error.techidaily.com/accelerating-response-time-a-guide-to-fixing-slow-keyboards-instantly/"><u>Accelerating Response Time: A Guide to Fixing Slow Keyboards Instantly</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-blockade-8-steps-to-resolving-windows-10s-error-code-0x800f0922-during-updates/"><u>Bypassing the Blockade: 8 Steps to Resolving Windows 10'S Error Code 0X800F0922 During Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-could-not-complete-action-on-file-due-to-rpc-server-unavailable-or-timeout-in-windows/"><u>How to Fix 'Could Not Complete Action on File Due To RPC Server Unavailable or Timeout' In Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-basic-tone-alterations-in-ps-for-2024/"><u>Mastering Basic Tone Alterations in PS for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-print-screen-malfunctions-in-windows-operating-systems-a-step-by-step-approach/"><u>Solving Print Screen Malfunctions in Windows Operating Systems: A Step-by-Step Approach</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-problem-of-a-non-charging-laptop-in-no-time/"><u>Solving the Problem of a Non-Charging Laptop in No Time</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-dark-side-of-ai-evaluating-the-threat-of-cyber-attacks-using-tools-like-chatgpt-on-bankingpersonal-computers/"><u>The Dark Side of AI: Evaluating the Threat of Cyber Attacks Using Tools Like ChatGPT on Banking/Personal Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-non-working-mic-on-steelseries-arctis-5-a-step-by-step-solution/"><u>Troubleshooting Guide for Non-Working Mic on SteelSeries Arctis 5: A Step-by-Step Solution</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-nokia-c22-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Nokia C22 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-optimize-your-video-consumption-the-guide-to-auto-play-youtube-on-facebook/"><u>[New] 2024 Approved Optimize Your Video Consumption The Guide to Auto-Play Youtube on Facebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-high-cpu-spikes-in-windows-tamed-by-stops/"><u>[RESOLVED] High CPU Spikes in Windows Tamed by Stops</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-discover-how-to-get-sounds-from-twitter-vids/"><u>[Updated] 2024 Approved Discover How to Get Sounds From Twitter Vids</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-14-pro-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 14 Pro Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-overcome-error-code-0x80004005-and-resolve-the-undefined-problem/"><u>Fixing the Issue: How to Overcome 'Error Code 0X80004005' And Resolve the Undefined Problem</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-infinix-note-30-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Infinix Note 30 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-svchostexe-from-using-too-much-cpu-power-on-your-windows-11-pc/"><u>How to Stop svchost.exe From Using Too Much CPU Power on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/pubg-2024-fixes-expert-tips-on-overcoming-startup-problems-and-getting-back-into-battle/"><u>PUBG 2024 Fixes: Expert Tips on Overcoming Startup Problems and Getting Back Into Battle</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-cannot-load-the-player-error-steps-for-a-smooth-playback-experience/"><u>Resolving 'Windows Cannot Load the Player' Error: Steps for a Smooth Playback Experience</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/mlining-your-device-by-clearing-youtube-downloads/"><u>Streamlining Your Device by Clearing YouTube Downloads</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/est-software-to-start-your-youtube-videos-off-strongly/"><u>The Best Software to Start Your YouTube Videos Off Strongly</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-responsive-keyboard-and-mouse-problems-in-widows-7/"><u>Troubleshooting Non-Responsive Keyboard & Mouse Problems in Widows 7</u></a></li>
 </ul></div>
 

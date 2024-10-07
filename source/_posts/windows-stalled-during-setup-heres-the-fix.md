@@ -1,7 +1,7 @@
 ---
 title: Windows Stalled During Setup? Here's the Fix!
-date: 2024-09-15T18:02:21.087Z
-updated: 2024-09-20T17:07:52.226Z
+date: 2024-10-01T03:50:51.721Z
+updated: 2024-10-07T05:22:04.875Z
 tags:
   - win11
   - win10
@@ -53,9 +53,23 @@ Then click **Device Manager**  to open it.
 
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
 
@@ -69,6 +83,13 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -76,6 +97,19 @@ Then click **Device Manager**  to open it.
 **Option 2.**   Install all the correct drivers automatically in just one-go with **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . No worry to try it as it comes with a no-questions-asked **30-day money-back guarantee**  and **professional tech support**  24/7.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
@@ -97,12 +131,24 @@ Then click **Device Manager**  to open it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-convert-instagram-vids-to-mp4-optimal-methods-and-results-for-2024/"><u>[New] Convert Instagram Vids to MP4 Optimal Methods & Results for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unveiling-the-art-of-audio-blend-with-audacity-techniques/"><u>[Updated] 2024 Approved Unveiling the Art of Audio Blend with Audacity Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-compreenasive-studio-guide-deep-xvideoinsight/"><u>[Updated] The Compreenasive Studio Guide Deep XVideoInsight</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-ranked-top-ios-solutions-for-playing-classic-psp-games-today/"><u>2024 Approved Ranked Top iOS Solutions for Playing Classic PSP Games Today</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-fixing-windows-communication-issue-with-the-event-notification-system/"><u>Expert Advice: Fixing Windows Communication Issue with the Event Notification System</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unresponsive-laptop-keys-on-windows-solutions-for-win10-8-and-7/"><u>Fixing Unresponsive Laptop Keys on Windows: Solutions for Win10, 8 & 7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-14-pro-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or Apple iPhone 14 Pro?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-oneplus-11r-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from OnePlus 11R to Another | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-steams-absent-file-permissions-issue/"><u>Resolving Steam's Absent File Permissions Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-dxgkrnl-fatal-error-in-videos-on-windows-a-step-by-step-guide/"><u>Solving the Dxgkrnl Fatal Error in Videos on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repairing-a-dead-microphone-on-skype-calls/"><u>Step-by-Step Guide to Repairing a Dead Microphone on Skype Calls</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-eliminating-windows-11-update-failure-error-0x8024401c/"><u>Step-by-Step Solution: Eliminating Windows 11 Update Failure (Error 0X8024401C)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-microphone-issues-in-windows-11-step-by-step-guide/"><u>Troubleshooting Microphone Issues in Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-solving-windows-pcs-nonfunctional-built-in-camera/"><u>Troubleshooting Steps: Solving Windows PC's Nonfunctional Built-In Camera</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unbeatable-freebie-subtitle-services-our-top-picks/"><u>Unbeatable Freebie Subtitle Services Our Top Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-potential-with-openais-api-features/"><u>Unlocking Potential with OpenAI's API Features</u></a></li>
+</ul></div>
 

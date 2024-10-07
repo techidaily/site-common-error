@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Volume Is Dirty' Error (Code 0X80071AC3) in Windows
-date: 2024-09-18T18:21:54.444Z
-updated: 2024-09-20T17:55:47.396Z
+date: 2024-10-04T09:03:08.476Z
+updated: 2024-10-06T20:59:44.258Z
 tags:
   - win11
   - win10
@@ -84,9 +84,23 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018c0f66b68.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Respectively type**time** ,**date** , and **w32tm/resync**  in the window, and press**Enter** after each command. If the time and date are incorrect after running, you can type the correct time and date in the window and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0266f185a5c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) After the commands complete, restart your computer and try Windows Update again to see if it works.
 
@@ -112,16 +126,22 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a780f0e4842e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Change the**Startup type** to**Automatic** . Then, make sure the Service status is set to**Stopped** . If it’s**Running** , click**Stop** then click**Apply** , and**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-10_11-51-40-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 2: Delete the Software Distribution Folder
 
@@ -130,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
  2) Go to folders:**Windows > SoftwareDistribution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0174add00e1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Delete the folder named**SoftwareDistribution** .  (If you’re prompted for an administrator password or confirmation, type your password or provide confirmation.)
 
@@ -156,23 +169,9 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Windows-update-Start-1200x690.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Restart your Windows and try Windows Update again to see if it solves the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 3: Try Windows Update Troubleshooter**
 
@@ -189,15 +188,28 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0175eea504b.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Then it will run and try to fix the problem. After completing, restart your computer and try Windows Update again to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 4: Modify Registry Editor**
 
@@ -221,13 +233,40 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a78180511caf.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Change the value name to **AllowOSUpgrade** , after which you can double-click the number under Value data and enter**1** . Select **Hexadecimal** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a781900ea1c1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7) Restart your computer and try again to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Bonus Tip: Update device drivers**
 
@@ -274,5 +313,20 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-superior-free-lut-options/"><u>[New] The Ultimate Guide to Superior, Free LUT Options</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-dissecting-youtube-policies-and-creative-commons-licensing-dichotomy-for-2024/"><u>[Updated] Dissecting YouTube Policies and Creative Commons Licensing Dichotomy for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-step-by-step-ps4-recording-techniques-for-gamers/"><u>[Updated] Step-by-Step PS4 Recording Techniques for Gamers</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-for-dealing-with-error-code-1000-on-different-windows-platforms/"><u>Comprehensive Guide for Dealing with Error Code 1000 on Different Windows Platforms</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-repair-how-to-resolve-a-persistent-white-display-problem/"><u>Laptop Repair: How to Resolve a Persistent White Display Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-functionality-resolving-non-responsive-alphabet-keys-in-microsoft-windows-1011/"><u>Restore Functionality: Resolving Non-Responsive Alphabet Keys in Microsoft Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-repairing-your-lenovos-malfunctioning-fingerprint-scanner/"><u>Simple Solutions: Repairing Your Lenovo's Malfunctioning Fingerprint Scanner</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-handling-failed-logons-in-group-policy-clients/"><u>Solution Steps for Handling Failed Logons in Group Policy Clients</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win-hp-printer-setup-manual/"><u>Win HP Printer Setup Manual</u></a></li>
+</ul></div>
 

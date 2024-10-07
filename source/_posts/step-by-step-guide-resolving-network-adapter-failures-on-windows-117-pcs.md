@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resolving Network Adapter Failures on Windows 11/7 PCs"
-date: 2024-09-13T18:55:11.066Z
-updated: 2024-09-20T17:24:46.028Z
+date: 2024-10-02T11:06:25.069Z
+updated: 2024-10-06T20:26:46.230Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -48,6 +55,13 @@ Here’s how to do it:
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
@@ -82,36 +96,38 @@ To do so:
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -144,5 +160,20 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-integrating-effective-annotations-for-dynamic-storytelling/"><u>[New] 2024 Approved Integrating Effective Annotations for Dynamic Storytelling</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-zero-to-hero-amplifying-youtube-influence-via-famebit-partnerships-for-2024/"><u>[Updated] From Zero to Hero Amplifying YouTube Influence via FameBit Partnerships for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-media-craft-debate-between-filmora-and-democracy-creator-for-2024/"><u>[Updated] Mastering Media Craft Debate Between Filmora & Democracy Creator for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-windows-media-player-server-failure-messages-on-pcs/"><u>Effective Solutions for Windows Media Player Server Failure Messages on PCs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-proven-techniques-to-stand-out-in-podcast-imagery/"><u>In 2024, Proven Techniques to Stand Out in Podcast Imagery</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-minecraft-game-failures-due-to-faulty-video-card-software-for-windows-users/"><u>Resolve Minecraft Game Failures Due to Faulty Video Card Software for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-definitive-overview-of-superfetch-all-the-essentials-you-should-know/"><u>The Definitive Overview of SuperFetch: All the Essentials You Should Know</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-to-reduce-msmpengexes-heavy-resource-consumption-in-windows-11-solution-found/"><u>Tips to Reduce MsMpEng.exe's Heavy Resource Consumption in Windows 11 (SOLUTION FOUND)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-geforce-experience-unable-to-access-user-configurations/"><u>Troubleshooting Guide: 'GeForce Experience Unable to Access User Configurations'</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-success-expert-advice-for-tackling-and-repairing-error-1603-on-your-device/"><u>Unlocking Success: Expert Advice for Tackling and Repairing Error 1603 on Your Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-your-voice-communication-in-apex-legends-fixes-you-need-today/"><u>Unstuck Your Voice Communication in Apex Legends – Fixes You Need Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-1011-and-acer-keyboard-reconnectivity-restored/"><u>Windows 10/11 & Acer: Keyboard Reconnectivity Restored</u></a></li>
+</ul></div>
 

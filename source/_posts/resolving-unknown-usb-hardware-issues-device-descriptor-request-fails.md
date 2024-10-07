@@ -1,7 +1,7 @@
 ---
 title: "Resolving Unknown USB Hardware Issues: Device Descriptor Request Fails"
-date: 2024-09-25T16:58:08.980Z
-updated: 2024-10-01T23:46:57.196Z
+date: 2024-10-06T05:17:30.373Z
+updated: 2024-10-07T01:26:42.801Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
@@ -62,25 +69,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -92,38 +94,18 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -132,6 +114,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 9. Hopefully your**computer won’t shut down** problem has been sorted. But if it doesn’t, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
 
@@ -144,10 +133,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Follow the on-screen instructions to fix any lurking problems.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
@@ -173,18 +168,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/chatcam-video-saver-app/"><u>ChatCam Video Saver App</u></a></li>
-<li><a href="https://common-error.techidaily.com/code-blocking-mechanism-engaged/"><u>Code Blocking Mechanism Engaged</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/digital-decision-making-choosing-the-best-cropping-tool/"><u>Digital Decision Making Choosing the Best Cropping Tool</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-hp-officejet-pro-8610-printer-drivers-compatible-with-windows-1087xpvista/"><u>Download & Upgrade HP OfficeJet Pro 8610 Printer Drivers: Compatible with Windows 10/8/7/XP/Vista</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/efficiently-generating-clear-and-concise-images-thumbnails-for-2024/"><u>Efficiently Generating Clear and Concise Images Thumbnails for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-x90s-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo X90S Pattern Lock Screen</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-6-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 6 Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-navigating-the-visual-landscape-key-facts-about-pexelscom-stock-images/"><u>In 2024, Navigating the Visual Landscape Key Facts About Pexels.com Stock Images</u></a></li>
-<li><a href="https://extra-information.techidaily.com/narrative-innovation-weaving-stories-through-movies-and-animations/"><u>Narrative Innovation Weaving Stories Through Movies and Animations</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-fixes-for-turned-off-wireless-networks-now-solved/"><u>Simple Fixes for Turned-Off Wireless Networks - Now Solved</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-for-a-non-functional-hp-laptop-mouse-pad-quick-fixes/"><u>Solution for a Non-Functional HP Laptop Mouse Pad – Quick Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/sticky-keyboard-issues-in-windows-heres-how-you-can-get-them-working-smoothly-again/"><u>Sticky Keyboard Issues in Windows? Here's How You Can Get Them Working Smoothly Again</u></a></li>
-<li><a href="https://media-tips.techidaily.com/unlock-half-price-entertainment-exclusive-discounts-on-paramountplus/"><u>Unlock Half-Price Entertainment: Exclusive Discounts on Paramount+!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-secrets-to-mastering-photosvideos-in-windows-11/"><u>[New] Secrets to Mastering Photos/Videos in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-your-full-potential-top-ideas-for-productive-podcast-sessions/"><u>[Updated] Unleash Your Full Potential Top Ideas for Productive Podcast Sessions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/achieve-flawless-gameplay-a-guide-to-installing-newest-drivers-for-your-geforce-1660-ti-gpu/"><u>Achieve Flawless Gameplay: A Guide to Installing Newest Drivers for Your GeForce 1660 Ti GPU</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-for-handling-windows-11s-0xc1900208-installation-hurdle/"><u>Effective Strategies for Handling Windows 11'S 0xC1900208 Installation Hurdle</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-performance-with-ease-quick-guide-to-updating-intels-iris-graphics-540-driver/"><u>Enhance Performance with Ease: Quick Guide to Updating Intel's Iris Graphics 540 Driver</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975400368-get-the-newest-samsung-850-evo-drive-software-here/"><u>Get the Newest Samsung 850 EVO Drive Software Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/lenovo-fingerprint-recognition-problems-heres-how-you-can-repair-it-easily/"><u>Lenovo Fingerprint Recognition Problems? Here's How You Can Repair It Easily!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-dilemma-getting-your-windows-11-microphone-back-up-and-running/"><u>Solving the Dilemma: Getting Your Windows 11 Microphone Back Up and Running</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-fix-system-call-failures-in-windows/"><u>Strategies to Fix System Call Failures in Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-honor-play-8t-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Honor Play 8T for Streaming | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-lenovo-mouse-pad-issues-on-windows-11-8-and-7-effective-solutions/"><u>Troubleshooting Lenovo Mouse Pad Issues on Windows 11, 8 & 7: Effective Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/unveiling-remedies-how-to-revive-your-windows-when-faced-with-a-perplexing-black-barrier/"><u>Unveiling Remedies: How to Revive Your Windows When Faced With a Perplexing Black Barrier</u></a></li>
 </ul></div>
 

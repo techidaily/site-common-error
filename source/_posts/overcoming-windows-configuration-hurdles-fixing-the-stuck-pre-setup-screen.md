@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows Configuration Hurdles: Fixing the Stuck Pre-Setup Screen"
-date: 2024-09-30T02:39:37.610Z
-updated: 2024-10-01T19:23:19.678Z
+date: 2024-10-04T07:31:51.073Z
+updated: 2024-10-07T04:43:07.542Z
 tags:
   - win11
   - win10
@@ -67,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 
  The time it may take depends on your hardware specifications. It is recommended that you wait for**2 hours** . 2 hours later, if the your PC still gets stuck on the screen of “Preparing to configure Windows”, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Disconnect all the external devices and perform a hard reboot**
 
  Since your PC gets stuck on the screen of “Preparing to configure Windows” when you try to shut down your Windows system, in such a case, the only thing you can do is to**disconnect all the external devices** (such as**USB flash** **drives** ,**the external hard disk drive** , etc) and**perform a hard reboot** . Follow the instruction below to perform a hard reboot:
@@ -90,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 
  If your PC still gets stuck when you wake up, you should **follow the instruction above to perform a hard reboot and then try the next fix** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Performing a clean boot**
 
 You may need to   **perform a clean boot** if this issue persists  . The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can **find out the problematic software that makes your game keep crashing** . Once you find it out, just uninstall it, and then the this  issue will be solved. Here’s how to do it:
@@ -100,22 +114,8 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-4.jpg)
 3. Select the **Startup**  tab and click **Open Task Manager**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8-4.jpg)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-4.jpg)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
@@ -125,10 +125,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 7. Perform a Windows update again after restarting Windows.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    1. On your keyboard, press**the Windows logo key** and type**windows update** . In the list of search results, select**Check for updates** .  
@@ -141,10 +141,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  If your PC won’t get stuck on the screen of “Preparing to configure Windows”, you’ve resolve this issue. Then go to the**System Configuration** window to enable the services you disabled before. After enabling each service, you need to **restart your PC to apply the changes** . If this annoying issue reappears, you may need to**restore your system** .
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Restore your Windows system**
@@ -157,45 +157,55 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-create-restore-point.jpg)
 2. Ensure **the Protection status** of the local disk drive that has your Windows system installed on is**On** . Then click**System Restore…** .  
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap13-1.jpg)  
  If**the Protection status** of the local drive that has your Windows system installed on is**Off** , it indicates that you have**disabled** the system restore feature on this drive.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select**Choose a different restore point**  and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap14-4.jpg)
 4. Check the box next to **Show more restore points** . Select the restore point that is created just**before you run into this issue** and then click**Next** .  
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap16-4.jpg)
 5. Click**Finish** to confirm your restore point.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap17-3.jpg)
 6. Click**Yes** to start restoring your Windows system.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap18-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After restoring your Windows system, this annoying issue should be resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Bonus tip: Update your driver to the latest version**
 
@@ -213,13 +223,6 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap19-2.jpg)
 3. Click **Update**  next to your device to automatically download the correct version of this driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All**  ).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap20-3.jpg)
 
@@ -248,16 +251,24 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-digitizing-memories-from-stillness-to-movement/"><u>[New] In 2024, Digitizing Memories From Stillness to Movement</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-essential-steps-for-adding-videos-to-your-instagram-story-for-2024/"><u>[Updated] Essential Steps for Adding Videos to Your Instagram Story for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-microphone-issues-on-your-laptop-simple-solutions/"><u>Fixing Microphone Issues on Your Laptop - Simple Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-s23-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy S23 Phone Pattern Lock</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-nokia-xr21-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Nokia XR21 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-problems-with-malfunctioning-function-buttons/"><u>Resolving Problems with Malfunctioning Function Buttons</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-non-responsive-lenovo-mouse-pads-on-pc-tips-for-windows-1187-users/"><u>Solving Non-Responsive Lenovo Mouse Pads on PC: Tips for Windows 11/8/7 Users</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/step-by-step-process-for-high-quality-thumbnails/"><u>Step-by-Step Process for High-Quality Thumbnails</u></a></li>
-<li><a href="https://common-error.techidaily.com/successful-strategies-for-addressing-complications-with-windows-feature-update-1903/"><u>Successful Strategies for Addressing Complications with Windows Feature Update 1903</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-non-functional-fn-key-issues/"><u>Troubleshooting Guide: Fixing Non-Functional Fn Key Issues</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-learn-how-to-build-youtube-backlinks-for-your-channel/"><u>[Updated] 2024 Approved Learn How to Build YouTube Backlinks for Your Channel</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-podcasts-vs-youtube-making-an-informed-media-decision/"><u>[Updated] In 2024, Podcasts Vs. YouTube Making an Informed Media Decision</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-seamless-transitions-the-art-of-canon-time-lapses/"><u>2024 Approved Crafting Seamless Transitions The Art of Canon Time-Lapses</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-80244019-on-your-pc-a-comprehensive-fix-guide-for-windows-updates/"><u>Error Code 80244019 on Your PC? A Comprehensive Fix Guide for Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-clearing-up-the-mysterious-black-screen-on-windows-11/"><u>Expert Advice: Clearing Up the Mysterious Black Screen on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-missing-desktop-icons-in-windows-10-made-easy/"><u>Fixing the Issue: Missing Desktop Icons in Windows 10 Made Easy</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-persistent-windows-update-issue-error-0x8024401c/"><u>Fixing the Persistent Windows Update Issue (Error 0X8024401C)</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/flip-it-a-step-by-step-guide-to-rotating-clips-in-fcp-for-2024/"><u>Flip It! A Step-by-Step Guide to Rotating Clips in FCP for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-restore-apple-mail-on-your-ios-device/"><u>How to Restore Apple Mail on Your iOS Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-tackle-and-fix-simple-anti-cheat-difficulties-in-apex-legends/"><u>How to Tackle and Fix Simple Anti-Cheat Difficulties in Apex Legends</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-a-new-world-of-farming-the-best-7-mods-in-stardew/"><u>In 2024, A New World of Farming - The Best 7 Mods in Stardew</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-poco-x6-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Poco X6 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-minecraft-error-code-5-a-step-by-step-troubleshooting-guide/"><u>Resolving Minecraft Error Code 5: A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-fixing-the-not-supported-issue-with-miracast-in-your-drivers/"><u>Solved: Fixing the 'Not Supported' Issue with Miracast in Your Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-your-device-from-falling-asleep-simple-solutions/"><u>Stop Your Device From Falling Asleep: Simple Solutions!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-lowering-msmpengine-high-resource-use-in-windows-11/"><u>Troubleshooting and Lowering MsMpEngine High Resource Use in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-chatgpt-shared-links-functionality-and-usage/"><u>Understanding ChatGPT Shared Links: Functionality & Usage</u></a></li>
+<li><a href="https://games-able.techidaily.com/value-for-gamers-budget-friendly-keyboards-roundup/"><u>Value for Gamers: Budget-Friendly Keyboards Roundup</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Lava Agni 2 5G? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Repair Your Lenovo's Nonfunctional Function (Fn) Key"
-date: 2024-09-25T19:37:16.239Z
-updated: 2024-10-02T03:41:20.636Z
+date: 2024-10-02T07:53:35.379Z
+updated: 2024-10-06T23:00:53.195Z
 tags:
   - win11
   - win10
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/08adc1f5589e44169595af5c9b0bbe1d47ddf2512
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check hardware issues
@@ -66,18 +66,33 @@ thumbnail: https://thmb.techidaily.com/08adc1f5589e44169595af5c9b0bbe1d47ddf2512
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
@@ -94,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/08adc1f5589e44169595af5c9b0bbe1d47ddf2512
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
@@ -131,14 +139,22 @@ If this method didn’t work for you, check out the last fix.
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### on Windows 11
@@ -148,22 +164,8 @@ If this method didn’t work for you, check out the last fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -186,20 +188,22 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-premium-portable-switch-game-clones/"><u>[Updated] 2024 Approved Premium Portable Switch Game Clones</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-revamp-your-tiktok-strategy-with-these-10-analytic-aids/"><u>[Updated] In 2024, Revamp Your TikTok Strategy with These 10 Analytic Aids</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-ajay-the-creative-content-creators-profitable-venture-on-youtube/"><u>2024 Approved AJay The Creative Content Creator's Profitable Venture on YouTube</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-and-durable-omoton-t1-tablet-stand-gets-expert-reviews/"><u>Affordable and Durable: Omoton T1 Tablet Stand Gets Expert Reviews</u></a></li>
-<li><a href="https://common-error.techidaily.com/busting-the-code-comprehensive-guide-to-correcting-nba-2k21s-green-glitch/"><u>Busting the Code: Comprehensive Guide to Correcting NBA 2K21's Green Glitch</u></a></li>
-<li><a href="https://facebook.techidaily.com/charting-a-course-for-connected-social-networks-in-the-xbox-ecosystem/"><u>Charting a Course for Connected Social Networks in the Xbox Ecosystem</u></a></li>
-<li><a href="https://common-error.techidaily.com/definitive-fixes-for-non-responsive-print-screen-on-pcs-running-windows-11-or-10/"><u>Definitive Fixes for Non-Responsive Print Screen on PCs Running Windows 11 or 10</u></a></li>
-<li><a href="https://article-posts.techidaily.com/gamer-gold-grindings-pewdiepies-profit-profile/"><u>Gamer Gold Grindings PewDiePie's Profit Profile</u></a></li>
-<li><a href="https://common-error.techidaily.com/getting-brightness-back-overcoming-windows-10s-screen-setting-glitches/"><u>Getting Brightness Back: Overcoming Windows 10'S Screen Setting Glitches</u></a></li>
-<li><a href="https://extra-information.techidaily.com/infinite-jest-10-ultimate-meme-layouts/"><u>Infinite Jest - 10 Ultimate Meme Layouts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-gpt-compatibility-issues-for-successful-windows-setup/"><u>Overcoming GPT Compatibility Issues for Successful Windows Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-administrator-privileges-needed-errors-in-windows-11-10-and-7/"><u>Resolving 'Administrator Privileges Needed' Errors in Windows 11, 10 & 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-functionality-to-your-directional-keypad-proven-remedies-for-broken-arrows/"><u>Restore Functionality to Your Directional Keypad: Proven Remedies for Broken Arrows!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-strategies-for-diagnosing-and-repairing-driverpowerstatefailure-issues-on-computers/"><u>Step-by-Step Strategies for Diagnosing & Repairing DRIVER_POWER_STATE_FAILURE Issues on Computers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-and-11-gaming-experience-boosted-by-solving-directdraw-errors/"><u>Windows 11 & 11 Gaming Experience Boosted by Solving DirectDraw Errors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unravel-the-mysteries-of-color-grading-with-cs6cc-luts-for-2024/"><u>[New] Unravel the Mysteries of Color Grading with CS6/CC LUTs for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210148490-baffled-by-sd-detecting-errors-fixes-include/"><u>Baffled by SD Detecting Errors? Fixes Include!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-infinix-hot-40-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Infinix Hot 40 Pro?</u></a></li>
+<li><a href="https://common-error.techidaily.com/cyclic-redundancy-check-errors-a-comprehensive-guide-to-troubleshooting-and-resolution/"><u>Cyclic Redundancy Check Errors: A Comprehensive Guide to Troubleshooting and Resolution</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/effortless-electronic-exchange-5-secure-pathways-to-your-pc-for-2024/"><u>Effortless Electronic Exchange 5 Secure Pathways to Your PC for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/enhancing-your-fitness-routine-with-garmin-vivoactive-3-exercise-and-enjoy-quality-sound/"><u>Enhancing Your Fitness Routine with Garmin Vivoactive 3: Exercise and Enjoy Quality Sound</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-vac-unsuccessful-in-confirming-game-session-errors-on-steam/"><u>How To Fix 'VAC Unsuccessful in Confirming Game Session' Errors on Steam</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-p55-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Itel P55 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-12-pro-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 12 Pro 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/lsa-security-guardrails-back-online-boosting-device-protection-levels/"><u>LSA Security Guardrails Back Online, Boosting Device Protection Levels</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202056032-navigate-past-windows-11-update-blockages-solutions-that-work/"><u>Navigate Past Windows 11 Update Blockages – Solutions That Work!</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-troubleshooting-guide-for-non-responsive-lenovo-fingerprint-scanner/"><u>Quick Troubleshooting Guide for Non-Responsive Lenovo Fingerprint Scanner</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/simplifying-your-home-networking-with-tp-link-deco-p9-in-depth-review/"><u>Simplifying Your Home Networking with TP-Link Deco P9 - In-Depth Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202153588-surface-synced-type-ready/"><u>Surface Synced, Type Ready</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-solution-to-dire-directx-complications-error-resolution-strategies/"><u>The Definitive Solution to Dire DirectX Complications: Error Resolution Strategies</u></a></li>
 </ul></div>
 

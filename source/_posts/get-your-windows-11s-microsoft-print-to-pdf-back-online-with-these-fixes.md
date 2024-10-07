@@ -1,7 +1,7 @@
 ---
 title: Get Your Windows 11'S Microsoft Print to PDF Back Online with These Fixes
-date: 2024-09-16T16:15:09.053Z
-updated: 2024-09-20T17:41:05.432Z
+date: 2024-10-02T22:30:51.438Z
+updated: 2024-10-07T00:14:26.435Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/354d3de8b2ab7d7a38cbcbf902765f2fb1bfbf3c8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Turn-Windows-features-on-or-off.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Scroll down on the pop-up Windows features window. Find and uncheck the box of **Microsoft Print to PDF** . Then click **OK**  to save settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-uncheck-Microsoft-Print-to-PDF.jpg)
@@ -50,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/354d3de8b2ab7d7a38cbcbf902765f2fb1bfbf3c8
 4) Follow step 1) again to open Windows features window. This time find and check the box **Microsoft Print to PDF**  to enable it. Then click **OK** to save changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Check-Microsoft-Print-to-PDF.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now your print to PDF should work properly.
 
@@ -90,6 +104,13 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Control-Panel-View-devices-and-printers-1-1200x811.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down and click**Printers & scanners** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-1200x827.jpg)
@@ -101,6 +122,13 @@ Now your print to PDF should work properly.
  5) Click on the button**Set as default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Microsoft-Print-to-PDF-Set-as-default-1200x803.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -121,13 +149,6 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Right-click on the blank area on Devices and Printers window to choose **Add devices and printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-3.jpg)
@@ -136,22 +157,15 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Tick on **Add a local printer or network printer with manual settings** . Then click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/11-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Choose**PORTPROMPT: (Local Port)** from the drop-down list under Use an existing port. Then click **Next** .
@@ -179,6 +193,19 @@ Now your print to PDF should work properly.
 
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure you set **Category**  as your view-by. Then find **View devices and printers** . Click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Control-Panel-View-devices-and-printers-1-1200x811.jpg)
@@ -195,9 +222,23 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Microsoft-Print-to-PDF-Remove-1200x801.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Back to the Printers & scanners window, you should see the button**Add device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-Add-a-device-1200x774.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Click**Add manually** next to The printer that I want isn’t listed.
 
@@ -207,23 +248,9 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Add-a-local-printer-or-network-printer-with-manual-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  9) Select**PORTPROMPT: (Local Port)** from the drop-down list, then click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-PORTPROMPT-Local-Port.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  10) From the left column, select**Microsoft** . From the right column, select**Microsoft Print To PDF** . Then click**Next** .
 
@@ -250,5 +277,17 @@ Now your print to PDF should work properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/2024-approved-leading-video-tech-best-cameras-s-musical-scenes/"><u>2024 Approved Leading Video Tech Best Cameras 'S Musical Scenes</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-saving-failures-in-windows-10-and-11/"><u>Fixing Saving Failures in Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reduce-wudfhostexes-impact-on-your-pcs-processor-in-windows-10/"><u>How to Reduce WUDFHost.exe's Impact on Your PC's Processor in Windows 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ideal-gaming-gear-for-kids-choosing-the-right-consoles-and-extras/"><u>Ideal Gaming Gear for Kids: Choosing the Right Consoles and Extras</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-tips-choosing-the-right-fps-for-your-slow-motion-vids/"><u>In 2024, Top Tips Choosing the Right FPS for Your Slow Motion Vids</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/mastering-iphone-saving-and-utilizing-gifs-effectively-for-2024/"><u>Mastering iPhone Saving & Utilizing GIFs Effectively for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-microsoft-store-doesnt-start-up/"><u>Troubleshooting Steps When Microsoft Store Doesn't Start Up</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-the-astro-a40-microphone-issue/"><u>Troubleshooting Tips: Fixing the Astro A40 Microphone Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-crafting-dynamic-conversations-with-chatgpt-on-github/"><u>Ultimate Guide to Crafting Dynamic Conversations with ChatGPT on GitHub</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstuck-with-a-broken-dell-camera-heres-how-to-fix-it-in-windows/"><u>Unstuck with a Broken Dell Camera? Here's How to Fix It in Windows</u></a></li>
+</ul></div>
 

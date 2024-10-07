@@ -1,7 +1,7 @@
 ---
 title: Resolving the GeForce Experience Launch Problem - A Complete Guide
-date: 2024-09-19T16:27:48.336Z
-updated: 2024-09-20T19:06:36.305Z
+date: 2024-10-05T03:34:19.672Z
+updated: 2024-10-06T17:51:43.706Z
 tags:
   - win11
   - win10
@@ -47,9 +47,23 @@ There are 3 types of NAT in your PS4:
 
  The NAT type failed normally because of the**network issues** , such as the**incorrect network settings** or the**network firewall problems** . Changing NAT Type can be an effective method to improve your PS4 network status. At present, you can’t manage the NAT type status directly by your PS4 settings, and you need to change the NAT type by the router settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 1: Manually configure the PS4 network settings**
 
  The PS4 NAT type failed issue can be caused by the incorrect network setting in your PS4, so you can check if your PS4 IP address changed or not. Furthermore, you can manually configure the network settings in your PS4 to make it correct.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **How to check your PS4 IP address?**
 
@@ -75,13 +89,6 @@ There are 3 types of NAT in your PS4:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548aaf1616f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Copy and paste the following**command** in the Command Prompt, and press**Enter** .
 
 ipconfig/all
@@ -102,17 +109,45 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548bcb007ed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8) Select**Do Not Use** as for**Proxy Server** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548c2978106.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  9) Wait for it to update. When you see**Internet settings updated** , select**Test Internet Connection** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548c550a4cb.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  10) You’ll see your PS4 Internet connection and know the**NAT Type** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5488dd7df5a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 2: Enable UPnP for your router**
 
@@ -131,13 +166,6 @@ ipconfig/all
  3) Type your**Username** and**Password** , then**login** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Go to**Advanced** \>**Forwarding** , and you will see**UPnP** . (Or you can find the UPnP section in other tab according to the different routers.)
 
@@ -169,41 +197,21 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Go to**Advanced** \>**Forwarding** , and you’ll see**DMZ** on the left. (Or you can find the DMZ section in other tab according to the different routers.)
 
  5) Click**Enable** to**enable DMZ** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548e4dac329.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Change the**IP address** to match with the IP address in your PS4\. (If you don’t know your PS4 IP address, click[**here**](#Step1) to know how to check.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548e65a013a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) If you are using routers that has the**NAT Filtering** option, such as NETGEAR router, you can also click to**open NAT filtering** . (You can skip to the next step if you don’t have this option.)
@@ -217,6 +225,13 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5488dd7df5a.jpg)
 
  This may get all the network traffic to your PS4 and reduce the network restrictions when using your PS4.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 4: Forward Port for your PS4 network**
 
@@ -266,5 +281,22 @@ ipconfig/all
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-uncovering-forgotten-facebook-episodes-cross-device-instructions/"><u>[New] In 2024, Uncovering Forgotten Facebook Episodes Cross-Device Instructions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-creating-compelling-youtube-live-content-with-wirecast/"><u>2024 Approved Creating Compelling Youtube Live Content with WireCast</u></a></li>
+<li><a href="https://common-error.techidaily.com/achieve-seamless-xbox-one-operation-on-computer/"><u>Achieve Seamless Xbox One Operation on Computer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-vivo-y78plus-t1-edition-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo Y78+ (T1) Edition Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harness-iphones-potential-for-breathtaking-hdr-images/"><u>In 2024, Harness iPhone's Potential for Breathtaking HDR Images</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oneplus-nord-3-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from OnePlus Nord 3 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/probing-the-potential-of-samsungs-photo-editor-for-2024/"><u>Probing the Potential of Samsung's Photo Editor for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-remedy-for-lidadll-problem/"><u>Quick Remedy for Lida.dll Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-strategies-for-overcoming-error-0x887a0006/"><u>Quick-Fix Strategies for Overcoming Error 0X887A0006</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-msmpengexe-high-cpu-usage-on-windows-10-a-comprehensive-guide/"><u>Solve MsMpEng.exe High CPU Usage on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-great-link-up-laptops-and-headphones-converse-again/"><u>The Great Link-Up: Laptops and Headphones Converse Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-non-functional-brightness-settings-on-windows-10-devices/"><u>Troubleshooting Guide for Non-Functional Brightness Settings on Windows 10 Devices</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ultimate-guide-convert-paddington-2014-dvd-rip-to-all-devices-with-best-quality/"><u>Ultimate Guide: Convert Paddington (2014) DVD-Rip to All Devices with Best Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-and-missing-cursor-mystery-solved-tips-and-fixes/"><u>Windows 10 and Missing Cursor Mystery Solved – Tips & Fixes!</u></a></li>
+</ul></div>
 

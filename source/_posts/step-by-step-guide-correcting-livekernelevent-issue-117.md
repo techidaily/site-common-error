@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Correcting LiveKernelEvent Issue #117"
-date: 2024-09-15T18:02:18.202Z
-updated: 2024-09-20T17:54:55.747Z
+date: 2024-10-05T20:28:47.773Z
+updated: 2024-10-06T16:51:01.040Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/10021b17375d6e35424f943b31fb1f59b98c4b332
 4. [**Change the ISO file format**](#Fix4)
 5. _[**Things you should do after trying these methods**](#Fix5)_
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why does the error occur?
 
  This error generally occurs when you are installing Windows on your PC/laptop. the possible causes can be:
@@ -68,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/10021b17375d6e35424f943b31fb1f59b98c4b332
 4) Try to install Windows again.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Try another USB port
@@ -82,18 +89,18 @@ thumbnail: https://thmb.techidaily.com/10021b17375d6e35424f943b31fb1f59b98c4b332
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a756dfa249f7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) The Windows installation will return back, then**unplug the USB drive** from your computer.
 
  3)**Plug the USB drive into another USB port** . If you have the**USB 2.0 port** with your PC/laptop, try to**plug the USB drive into the USB 2.0 port** .
 
 4) Try to install Windows again to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change the settings in BIOS
 
@@ -125,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/10021b17375d6e35424f943b31fb1f59b98c4b332
 
  Double check the**extracted setup** from the ISO file. If it is in**NTFS format** , extract the ISO file in**FAT32 format** and use the setup to install Windows again.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Things you should do after trying these methods
 
  As the error message indicated, the media driver is missing in your computer, so you can try to**install the missing drivers** , and**update the outdated drivers** in your computer, in order to improve the computer performance and reduce the chances of the similar issues.
@@ -140,13 +154,6 @@ thumbnail: https://thmb.techidaily.com/10021b17375d6e35424f943b31fb1f59b98c4b332
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a741854f33af.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Click the **Update**  button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
@@ -174,5 +181,24 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-best-practices-for-6-trendy-mc-houses/"><u>[New] 2024 Approved Best Practices for 6 Trendy MC Houses</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-audience-engagement-trends-to-master-on-instagram/"><u>[Updated] Audience Engagement Trends to Master on Instagram</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-steps-for-soothing-the-soul/"><u>ChatGPT Steps for Soothing the Soul</u></a></li>
+<li><a href="https://common-error.techidaily.com/combat-high-cpu-load-from-desktop-window-manager-with-these-5-powerful-windows-1110-tweaks/"><u>Combat High CPU Load From Desktop Window Manager with These 5 Powerful Windows 11/10 Tweaks</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-geforce-experience-error-how-to-restore-missing-configuration/"><u>Fixing GeForce Experience Error: How to Restore Missing Configuration</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-i-resolved-the-prolonged-shutdown-problem-on-my-windows-10-pc/"><u>How I Resolved the Prolonged Shutdown Problem on My Windows 10 PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-11x-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme 11X 5G?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-microsoft-print-to-pdf-problem-on-windows-11-devices/"><u>How To Troubleshoot 'Microsoft Print to PDF' Problem on Windows 11 Devices</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-motorola-moto-g73-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Motorola Moto G73 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-cheap-cameras-for-dynamic-shots/"><u>In 2024, Top 10 Cheap Cameras For Dynamic Shots</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-vidgrabber-mobilepc-for-fb-streams/"><u>In 2024, VidGrabber Mobile/PC for Fb Streams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/industry-pioneers-of-immersive-visualization/"><u>Industry Pioneers of Immersive Visualization</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-the-technicality-of-hardware-drivers-addition/"><u>Mastering the Technicality of Hardware Drivers Addition</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-update-alert-do-you-need-a-d3d11-compatible-graphics-card-for-optimal-performance/"><u>System Update Alert: Do You Need a D3D11 Compatible Graphics Card for Optimal Performance?</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-expert-solution-when-your-tablet-is-plugged-in-but-not-charging-now-fixed/"><u>The Expert Solution: When Your Tablet Is Plugged In But Not Charging - Now Fixed!</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-restoring-windows-11s-corrupt-data-files/"><u>The Ultimate Guide to Restoring Windows 11'S Corrupt Data Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-how-to-resolve-driverpowerstatefailure-malfunctions/"><u>Troubleshooting Tips: How to Resolve DRIVER_POWER_STATE_FAILURE Malfunctions</u></a></li>
+</ul></div>
 

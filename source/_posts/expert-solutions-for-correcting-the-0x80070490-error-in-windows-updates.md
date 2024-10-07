@@ -1,7 +1,7 @@
 ---
 title: Expert Solutions for Correcting the 0X80070490 Error in Windows Updates
-date: 2024-09-19T18:48:36.537Z
-updated: 2024-09-20T16:10:09.036Z
+date: 2024-10-06T05:34:06.095Z
+updated: 2024-10-07T06:09:42.274Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ _**DXGI\_ERROR\_DEVICE\_HUNG** The application’s device failed due to badly fo
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Stop CPU / GPU overclocking
 
  you may encounter the “Error 0x887A0006” error message if you’re overclocking your CPU or GPU during the game. The increasing CPU / GPU speed may crash the game.
@@ -72,6 +79,13 @@ If this issue persists, don’t worry. Try the next fix, below.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Modify your graphics card settings
 
  If this error message reappears after you update your graphics driver to the latest version, try modifying your graphics card settings to see if you can fix this issue. Here is how to do it:
@@ -85,6 +99,14 @@ If this issue persists, don’t worry. Try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
@@ -99,13 +121,6 @@ If this issue persists, don’t worry. Try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
@@ -114,8 +129,24 @@ If this issue persists, don’t worry. Try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
@@ -127,21 +158,7 @@ If this issue persists, don’t worry. Try the next fix, below.
 7. Click **Apply** to save the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch the application that crashed with Error 0x887A0006 to see if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Modify the Registry with Notepad
 
@@ -150,6 +167,19 @@ If this issue persists, don’t worry. Try the next fix, below.
 1. On your keyboard, press**the Windows logo key** and type**notepad** , then click**Open** to open Notepad.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Open-Notepad.png)
 2. **Copy and paste** the following text into Notepad:  
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **If you are using a 64-bit system** , copy and paste this:  
  _Windows Registry Editor Version 5.00_  
@@ -175,6 +205,14 @@ If this issue persists, don’t worry. Try the next fix, below.
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the Run dialog. Type**regedit** and press**Enter** to open**Registry Editor** . You’ll be prompted for permission, click**Yes** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 2. Go to **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\GraphicsDrivers** and locate a key called**TdrDelay** . Right-click on it and select**Delete** to delete it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit-tdrdelay.png)
 3. Restart your PC to save the change.
 
@@ -189,20 +227,14 @@ If this fix doesn’t work for you, try the next fix, below.
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
- See if Error 0x887A0006 reappears after you installed the latest Windows update. If this issue persists, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ See if Error 0x887A0006 reappears after you installed the latest Windows update. If this issue persists, try the next fix, below.
 
 ### Fix 6: Change the power plan of your PC
 
@@ -213,13 +245,6 @@ If this fix doesn’t work for you, try the next fix, below.
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
@@ -258,5 +283,22 @@ If this fix doesn’t work for you, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-the-ultimate-guide-to-exceptional-tiktok-intro-videos-mac/"><u>[Updated] The Ultimate Guide to Exceptional TikTok Intro Videos (Mac)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/a-detailed-walkthrough-of-androids-photography-suite-lightroom/"><u>A Detailed Walkthrough of Android’s Photography Suite, Lightroom</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/afternoons-examination-alternative-perspectives-for-2024/"><u>Afternoon's Examination Alternative Perspectives for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/beginners-path-to-resetting-a-ps4-console/"><u>Beginner's Path to Resetting a PS4 Console</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-trust-chatgpt-with-your-proofreading-needs/"><u>Can You Trust ChatGPT with Your Proofreading Needs?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhanced-user-benefits-the-superiority-of-chatgpt-for-desktops/"><u>Enhanced User Benefits: The Superiority of ChatGPT for Desktops</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-resolving-sony-playstation-4-mic-issues-quickly/"><u>Expert Tips: Resolving Sony PlayStation 4 Mic Issues Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-combat-excessive-cpu-load-caused-by-wudfhostexe-on-your-windows-11-pc/"><u>How to Combat Excessive CPU Load Caused by WUDFHost.exe on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-update-error-0x80240017-once-and-for-all/"><u>How to Fix Windows Update Error 0X80240017 Once and For All</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tuxera-nero-reader-comprehensive-multimedia-tool/"><u>In 2024, Tuxera Nero Reader Comprehensive Multimedia Tool</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-excessive-graphics-card-use-by-dwm-on-windows-11-5-proven-strategies/"><u>Resolve Excessive Graphics Card Use by DWM on Windows 11 – 5 Proven Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-unknown-issuer-error-in-mozilla-firefox-quick-solutions/"><u>Resolving the Unknown Issuer Error in Mozilla Firefox - Quick Solutions!</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-non-functional-touchpad-scrolls-expert-tips-and-tricks/"><u>Troubleshooting & Solving Non-Functional Touchpad Scrolls: Expert Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-1011-and-airpods-connectivity-problems-expert-advice/"><u>Troubleshooting Windows 10/11 and AirPods Connectivity Problems - Expert Advice</u></a></li>
+</ul></div>
 

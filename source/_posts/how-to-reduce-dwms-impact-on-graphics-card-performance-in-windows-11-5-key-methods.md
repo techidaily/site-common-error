@@ -1,7 +1,7 @@
 ---
 title: How to Reduce DWM's Impact on Graphics Card Performance in Windows 11 - 5 Key Methods
-date: 2024-09-29T02:35:17.421Z
-updated: 2024-10-02T00:40:53.660Z
+date: 2024-10-04T05:55:20.010Z
+updated: 2024-10-06T20:04:25.936Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tip 2: Check your desktop icon settings
 
 1. Right-click your desktop and click **Personalize**.  
@@ -59,17 +52,25 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Click **Themes** \> **Desktop icon settings**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Tip 3: Rebuild icon cache
 
@@ -96,23 +97,16 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
@@ -128,16 +122,29 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 2. Click **Update & security** \> **Recovery**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -153,15 +160,16 @@ OR
 2. Run Driver Easy and click **Scan Now**. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
-![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
-If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
+If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
 ---
 
@@ -186,19 +194,15 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-quick-launch-checklist-essential-tasks-for-bringing-your-review-channel-to-life/"><u>[New] In 2024, Quick Launch Checklist Essential Tasks for Bringing Your Review Channel to Life</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-strategic-insightfulness-comparing-your-channel-to-competitors-crafts/"><u>[New] Strategic Insightfulness Comparing Your Channel to Competitors' Crafts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-hdr-review-luminances-creation-capability/"><u>[Updated] 2024 Approved HDR Review Luminance's Creation Capability</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-deciphering-the-meaning-of-facebooks-blue-video-icon/"><u>[Updated] In 2024, Deciphering the Meaning of Facebook's Blue Video Icon</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-high-definition-spectrum-selecting-best-screen-recorders/"><u>2024 Approved High Definition Spectrum Selecting Best Screen Recorders</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-fixes-for-ps4-network-errors-a-detailed-walkthrough/"><u>Complete Fixes for PS4 Network Errors: A Detailed Walkthrough</u></a></li>
-<li><a href="https://win-answers.techidaily.com/end-steams-misbehavior-rapid-solutions-to-cease-game-interruptions/"><u>End Steam's Misbehavior: Rapid Solutions to Cease Game Interruptions</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-muting-issues-a-step-by-step-guide/"><u>How to Fix Windows 11 Muting Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-a-malfunctioning-shift-key-a-step-by-step-guide/"><u>How to Repair a Malfunctioning Shift Key: A Step-by-Step Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-80-pro-straight-screen-edition-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor 80 Pro Straight Screen Edition Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-minecraft-crashes-due-to-faulty-graphics-driver-issues-in-windows-solutions/"><u>Resolving Minecraft Crashes Due to Faulty Graphics Driver Issues in Windows - Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-pc-connection-issues-with-bluetooth-input-devices/"><u>Step-by-Step Solution for PC Connection Issues with Bluetooth Input Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-when-your-microsoft-surface-wont-charge-even-though-its-connected-step-by-step-solution/"><u>The Ultimate Fix for When Your Microsoft Surface Won't Charge Even Though It’s Connected: Step-by-Step Solution!</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-achieving-excellent-illumination-on-youtube-videos/"><u>[Updated] Achieving Excellent Illumination on YouTube Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-micro-movie-maker/"><u>[Updated] In 2024, Micro Movie Maker</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-must-play-biking-games-anthology-for-2024/"><u>[Updated] Must-Play Biking Games Anthology for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/breaking-boundaries-of-speed-the-remarkable-swiftness-of-our-latest-technological-advance/"><u>Breaking Boundaries of Speed: The Remarkable Swiftness of Our Latest Technological Advance</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-fixing-nier-automata-stability-issues-on-pcs/"><u>Comprehensive Guide to Fixing Nier: Automata Stability Issues on PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/revived-silent-mic-now-shouting-on-discord/"><u>Revived Silent Mic, Now Shouting on Discord</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-converting-various-video-and-audio-files-with-ease/"><u>Step-by-Step Guide: Converting Various Video and Audio Files with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-quick-winner-guide-how-to-make-money-on-reddit-in-just-a-click/"><u>The Quick-Winner Guide How to Make Money on Reddit in Just a Click</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/wow-reimagined-delivering-ultimate-3d-experience-worldwide/"><u>WoW Reimagined: Delivering Ultimate 3D Experience Worldwide</u></a></li>
 </ul></div>
 

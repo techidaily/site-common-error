@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Making Your Lenovo Biometric Sensor Work Again"
-date: 2024-09-18T18:59:55.373Z
-updated: 2024-09-20T17:33:23.572Z
+date: 2024-10-01T04:18:49.635Z
+updated: 2024-10-06T16:39:45.739Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/74c4cd312c44e9d7a650b4b1e65607327faaab90d
 
  4) If possible,**use your current AC adapter to charge a new battery** . If the battery is charging, it indicates your battery is bad. If the new battery is not charging, perhaps it is the AC adapter that triggers this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Turn off the battery charge threshold
 
  Some laptops have**the battery charge threshold feature** . This feature allows laptop users to customize the battery charge threshold so that when the battery reaches that threshold, the battery won’t charge.
@@ -65,18 +72,18 @@ thumbnail: https://thmb.techidaily.com/74c4cd312c44e9d7a650b4b1e65607327faaab90d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2)**Turn off** the toggle under **Battery Charge Threshold** if it is turned on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-7.jpg)
 
  After you turn off the battery charge threshold feature, your battery should be charging.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Perform a power reset on your laptop
 
@@ -98,26 +105,26 @@ thumbnail: https://thmb.techidaily.com/74c4cd312c44e9d7a650b4b1e65607327faaab90d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Double-click**Batteries** . Right-click **Microsoft ACPI-Compliant Control Method Battery**  and select **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Uninstall** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Shut down your laptop and **disconnect the AC adapter** .
 
@@ -134,6 +141,13 @@ thumbnail: https://thmb.techidaily.com/74c4cd312c44e9d7a650b4b1e65607327faaab90d
  ii. Select**Batteries** . Click **Action** and select **Scan for hardware changes** . Wait several seconds and **Microsoft ACPI-Compliant Control Method Battery**  will be reinstalled on your laptop.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if this issue reappears. If not, you’ve resolved this issue. If the issue persists, you can try updating the driver for your battery management device.
 
@@ -171,13 +185,6 @@ Your battery should then be charging.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hopefully one of the fixes above resolved the laptop battery not charging issue for you. Please leave your comment below if you have any questions.
 
 * [laptop](https://tools.techidaily.com/drivereasy/download/)
@@ -196,5 +203,24 @@ Your battery should then be charging.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-revolutionary-6-sustainable-minecraft-homes/"><u>[New] Revolutionary 6 Sustainable Minecraft Homes</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-11-wont-sleep-issue/"><u>[Solved] Windows 11 Won't Sleep Issue</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-from-ordinary-to-outstanding-unveiling-the-secrets-of-engaging-biographies/"><u>[Updated] 2024 Approved From Ordinary to Outstanding Unveiling the Secrets of Engaging Biographies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhance-videos-naturally-free-9-youtube-thumbnail-crafting-tips/"><u>[Updated] In 2024, Enhance Videos Naturally - Free 9 YouTube Thumbnail Crafting Tips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-dji-fpv-revolution-a-review-of-eyewear-innovation/"><u>[Updated] The DJI FPV Revolution A Review of Eyewear Innovation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-techniques-to-improve-focal-depth-in-online-platforms/"><u>2024 Approved Techniques to Improve Focal Depth in Online Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-what-to-do-when-your-computer-freezes-up-unexpectedly/"><u>Easy Fixes: What to Do When Your Computer Freezes Up Unexpectedly</u></a></li>
+<li><a href="https://common-error.techidaily.com/escaping-the-reboot-trap-in-windows-11-or-10-effective-fixes-to-try-today/"><u>Escaping the Reboot Trap in Windows 11 or 10 - Effective Fixes to Try Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-ps4-dualshock-why-your-controller-wont-charge-and-how-to-solve-it/"><u>Fixing PS4 DualShock: Why Your Controller Won't Charge and How to Solve It</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-minecraft-graphics-a-closer-look-at-opengl-errors/"><u>Fixing Your Minecraft Graphics: A Closer Look at OpenGL Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-optimize-your-windows-11-system-tackling-high-gpu-use-from-the-desktop-window-manager/"><u>How to Optimize Your Windows 11 System: Tackling High GPU Use From the Desktop Window Manager</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-11-pro-max-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change your Apple iPhone 11 Pro Max Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-itel-a60-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Itel A60 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-social-media-synergy-twitters-most-shared-tiktoks/"><u>In 2024, The Social Media Synergy Twitter’s Most Shared TikToks</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-player-cannot-load-game-files-on-windows-with-simple-tricks/"><u>Solve 'Player Cannot Load Game Files' On Windows with Simple Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-playback-problems-why-wont-my-dvd-work-on-windows-heres-help/"><u>Solving Playback Problems: Why Won't My DVD Work on Windows? Here’s Help!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-infinix-note-30-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Infinix Note 30 5G</u></a></li>
+</ul></div>
 

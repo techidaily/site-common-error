@@ -1,7 +1,7 @@
 ---
 title: YAC598 - Yamaha'aturboSound II Sound Module Based on the YMF7A1C/YMU^3X (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector
-date: 2024-09-14T16:15:46.669Z
-updated: 2024-09-20T16:58:20.174Z
+date: 2024-09-30T04:33:30.966Z
+updated: 2024-10-06T19:17:36.853Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Does this look familiar?
 
  **Method 1:[ Using Group Policy Editor ](<https://www.drivereasy.com/knowledge/windows-10-microsoft-compatibility-telemetry-high-disk-usage-solved/#Way> 1. Using Group Policy Editor) Method 2:[ Using Registry Editor](<https://www.drivereasy.com/knowledge/windows-10-microsoft-compatibility-telemetry-high-disk-usage-solved/#Way> 2. Using Registry Editor)**
  **Method 3:[Updating your device drivers](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Using Group Policy Editor
 
@@ -112,6 +119,13 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a22807d2e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **YES**  when prompted by User Account Control.
 
  4) Go to **HKEY\_LOCAL\_MACHINE** \> **SOFTWARE** \>**Policies** \>**Microsoft** \>**Windows** \>**DataCollection.**
@@ -130,7 +144,27 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a576ca320.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) On your keyboard, press **Ctrl**  \+ **Shift**  \+ **Esc**  keys (at the same time) to open your Task Manager, check to see if Microsoft Compatibility Telemetry takes up a normal disk usage.
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Update your device drivers
 
@@ -150,10 +184,10 @@ Does this look familiar?
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae696a52856.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next toany flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the **FREE** version).
@@ -163,10 +197,10 @@ Or click **Update All**  to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae6a0c3f690.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Reboot your Windows 10 PC.
@@ -199,5 +233,26 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-gigglegridsguild-funnyframefactory/"><u>[New] GiggleGridsGuild FunnyFrameFactory</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-enhance-your-imagery-a-step-by-step-guide-for-instagram-videos/"><u>2024 Approved Enhance Your Imagery A Step-by-Step Guide for Instagram Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ving-youtube-excellence-with-gamers-channel-graphics-for-2024/"><u>Achieving YouTube Excellence with Gamers' Channel Graphics for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/critical-runtime-component-missing/"><u>Critical Runtime Component Missing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/edit-with-ease-prime-10-converters-unveiled-for-2024/"><u>Edit with Ease Prime 10 Converters Unveiled for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-crackling-sound-problems-in-speakers-when-using-microsofts-windows-os-fixes/"><u>How to Stop Crackling Sound Problems in Speakers when Using Microsoft's Windows OS (Fixes)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-xr21-music-recovery-recover-deleted-music-from-nokia-xr21-by-fonelab-android-recover-music/"><u>Nokia XR21 Music Recovery - Recover Deleted Music from Nokia XR21</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-free-conversion-of-arw-to-png-format-movavi/"><u>Online Free Conversion of ARW to PNG Format - Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/smartphone-lighting-kits-for-improved-footage/"><u>Smartphone Lighting Kits for Improved Footage</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-audio-output-missing-issue-on-windows-10-and-11/"><u>Solving the 'Audio Output Missing' Issue on Windows 10 and 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209260770-surface-pro-4-pen-problem-heres-how-you-can-get-it-working-again/"><u>Surface Pro 4 Pen Problem? Here’s How You Can Get It Working Again!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-ultimate-guide-to-aspect-ratios-on-fb-videos/"><u>The Ultimate Guide to Aspect Ratios on FB Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-white-error-screen-in-windows-11/"><u>Troubleshooting Persistent White Error Screen in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-your-dell-wireless-keyboard-stops-responding/"><u>Troubleshooting Tips for When Your Dell Wireless Keyboard Stops Responding</u></a></li>
+<li><a href="https://common-error.techidaily.com/usb-input-devices-faulty-fixing-mousekeyboard-problems-on-win7-systems/"><u>USB Input Devices Faulty? Fixing Mouse/Keyboard Problems on Win7 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/use-geo-targeted-keywords-if-applicable-if-youre-targeting-specific-regions-or-local-audiences-consider-incorporating-geo-targeted-keywords-into-your-titles121/"><u>Use Geo-Targeted Keywords (if Applicable): If You're Targeting Specific Regions or Local Audiences, Consider Incorporating Geo-Targeted Keywords Into Your Titles for Better Relevance and Visibility in Those Areas.</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-touchpad-woes-how-to-get-your-cursor-back/"><u>Windows 11 Touchpad Woes? How to Get Your Cursor Back</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows 11 Night Light Feature Malfunction
-date: 2024-09-29T20:28:31.425Z
-updated: 2024-10-01T18:28:49.693Z
+date: 2024-09-30T02:47:53.667Z
+updated: 2024-10-06T16:54:29.789Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
  After confirming that your hardware is not the problem, check out the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Reinstall your keyboard driver
 
  The arrow keys not working issue can be due to a faulty driver. To fix it, you can try uninstalling and reinstalling your keyboard driver. Here’s how:
@@ -65,16 +72,10 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
@@ -90,22 +91,8 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
@@ -123,14 +110,20 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this method didn’t work for you, check out the last fix.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Run Keyboard Troubleshooter
 
@@ -141,16 +134,24 @@ If this method didn’t work for you, check out the last fix.
 1. On your keyboard, press the**Window logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### on Windows 11
@@ -161,10 +162,10 @@ If this method didn’t work for you, check out the last fix.
 3. Click**Other troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
@@ -191,22 +192,19 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook.techidaily.com/stay-fight-on-facebooks-defiant-message-against-exiting/"><u>'Stay, Fight On': Facebook's Defiant Message Against Exiting</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-effortlessly-download-your-favorite-youtube-playlists/"><u>[New] Effortlessly Download Your Favorite YouTube Playlists</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-easy-anti-cheat-failed-to-start-in-new-world-issue/"><u>[RESOLVED] How to Fix 'Easy Anti-Cheat Failed to Start in New World' Issue</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-dance-away-stress-the-most-popular-country-tunes-tiktok-edition/"><u>2024 Approved Dance Away Stress The Most Popular Country Tunes (TikTok Edition)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-unlocking-the-potential-of-adobe-presenters-video-features/"><u>2024 Approved Unlocking the Potential of Adobe Presenter's Video Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/best-remedies-for-windows-11s-stuck-taskbar-dilemma-an-expert-guide/"><u>Best Remedies for Windows 11'S Stuck Taskbar Dilemma – An Expert Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-driver-failure-error-in-system-preferences/"><u>Comprehensive Solutions for 'Driver Failure' Error in System Preferences</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/editing-directory-names-for-users-in-windows-11-edition/"><u>Editing Directory Names for Users in Windows 11 Edition</u></a></li>
-<li><a href="https://fox-links.techidaily.com/elevate-your-video-projects-with-top-tier-srt-edits-on-macos/"><u>Elevate Your Video Projects with Top-Tier SRT Edits on macOS</u></a></li>
-<li><a href="https://win-dash.techidaily.com/experience-web-browsing-redefined-with-the-launch-of-the-elegant-arc-browser-now-available-on-windows/"><u>Experience Web Browsing Redefined with the Launch of the Elegant Arc Browser – Now Available on Windows!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-stability-monster-hunter-world-on-pc-connections/"><u>Fixing Stability: Monster Hunter World on PC Connections</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-print-screen-functionality-on-your-windows-11-or-10-computer/"><u>How to Restore Print Screen Functionality on Your Windows 11 or 10 Computer</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-top-rated-mp4-editor-for-mavericks-unlock-advanced-features/"><u>New 2024 Approved Top-Rated MP4 Editor for Mavericks Unlock Advanced Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-more-stutters-with-these-tweaks-for-a-seamless-kodi-viewing-experience/"><u>No More Stutters with These Tweaks for a Seamless Kodi Viewing Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-for-resolving-the-livekernel-event-144-issues/"><u>Solutions for Resolving the LiveKernel Event #144 Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-eradicating-screen-tear-glitch-in-your-favorite-shooter-valorant/"><u>Ultimate Guide: Eradicating Screen Tear Glitch in Your Favorite Shooter, Valorant</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-laptop-white-screen-issue/"><u>[FIXED] Laptop White Screen Issue</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-tiny-mansions-crafting-ornate-japanese-spaces/"><u>[Updated] 2024 Approved Tiny Mansions Crafting Ornate Japanese Spaces</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-quick-launch-long-growth-the-10-best-youtube-business-channels/"><u>2024 Approved Quick Launch, Long Growth The 10 Best YouTube Business Channels</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/breaking-down-the-features-of-apples-premier-laptop-a-review-of-the-2021-macbook-pro-m1-16-inch/"><u>Breaking Down the Features of Apple’s Premier Laptop: A Review of the 2021 MacBook Pro (M1, 16-Inch)</u></a></li>
+<li><a href="https://common-error.techidaily.com/critical-alert-missing-core-library-dll-from-os/"><u>Critical Alert: Missing Core Library Dll From OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-solutions-tackling-problems-encountered-in-windows-1903-updates/"><u>Essential Solutions: Tackling Problems Encountered in Windows 1903 Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-tailored-preferences-panel-not-working/"><u>Fix: Tailored Preferences Panel Not Working</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-x7b-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor X7b 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/mastering-content-creation-essential-tips-for-snapchat-success-for-2024/"><u>Mastering Content Creation Essential Tips for Snapchat Success for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-xiaomi-redmi-note-12r-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Xiaomi Redmi Note 12R has been deleted.</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-strategies-for-overcoming-lag-in-windows-11-keyboards/"><u>Solution Strategies for Overcoming Lag in Windows 11 Keyboards</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-monetary-side-of-podcasting-success-for-2024/"><u>The Monetary Side of Podcasting Success for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-ce-34878-0-issue-on-your-playstation-4/"><u>Troubleshooting Guide: Fixing the CE-34878-0 Issue on Your PlayStation 4</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-mac-movie-creation-a-beginners-guide-to-making-movies/"><u>Updated Mac Movie Creation A Beginners Guide to Making Movies</u></a></li>
 </ul></div>
 

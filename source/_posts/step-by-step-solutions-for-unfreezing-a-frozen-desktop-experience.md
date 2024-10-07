@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Unfreezing a Frozen Desktop Experience
-date: 2024-09-16T18:13:17.986Z
-updated: 2024-09-20T16:48:14.656Z
+date: 2024-09-30T19:31:15.073Z
+updated: 2024-10-07T08:26:54.419Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 2. **[Update your USB drivers](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Turn off USB selective suspend](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Do some basic troubleshooting
 
@@ -66,13 +73,6 @@ To rule out this as a possibility:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Turn off USB selective suspend
 
  If your PC is configured to disable USB devices after a certain amount of time, you may have the USB keeps disconnecting problem.  
@@ -84,10 +84,10 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On your selected power option, click on**Change plan settings** .
@@ -103,10 +103,10 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
@@ -125,26 +125,27 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-17.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Reconnect your USB devices to the USB ports and see if they’re working properly.
 
@@ -168,5 +169,18 @@ To make sure you’ve this setting disabled:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/display-output-stabilized/"><u>Display Output Stabilized</u></a></li>
+<li><a href="https://solve-info.techidaily.com/empowering-sap-bots-with-next-gen-content-cognition-technology-from-abbyy/"><u>Empowering SAP Bots with Next-Gen Content Cognition Technology From ABBYY</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-handling-directory-does-not-exist-errors-successfully/"><u>Expert Tips for Handling 'Directory Does Not Exist' Errors Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-restoring-your-pcs-built-in-camera-functionality-on-windows-systems/"><u>Expert Tips: Restoring Your PC's Built-In Camera Functionality on Windows Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-a15-4g-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy A15 4G Is Unlocked</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-infinix-hot-30i-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Infinix Hot 30i Phone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-overcome-the-preparing-to-configure-windows-hurdle-easily/"><u>Solution Found! Overcome the 'Preparing to Configure Windows' Hurdle Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-windows-11-sound-problems-mastering-the-volume-settings-restoration/"><u>Solve Your Windows 11 Sound Problems - Mastering the Volume Settings Restoration</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-resolving-crc-cyclical-data-integrity-issues/"><u>Understanding and Resolving CRC Cyclical Data Integrity Issues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-videography-101-editing-essentials-taught-for-2024/"><u>YouTube Videography 101 Editing Essentials Taught for 2024</u></a></li>
+</ul></div>
 

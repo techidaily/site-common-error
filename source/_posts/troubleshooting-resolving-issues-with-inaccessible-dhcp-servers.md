@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Resolving Issues with Inaccessible DHCP Servers"
-date: 2024-09-14T19:34:25.242Z
-updated: 2024-09-20T18:05:03.659Z
+date: 2024-10-01T00:07:38.081Z
+updated: 2024-10-07T06:29:41.982Z
 tags:
   - win11
   - win10
@@ -50,6 +50,20 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 1. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control panel** and hit **Enter.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-9.png)
 2. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 3. Click **View installed updates** on the right pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-40.png)
@@ -59,26 +73,41 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 
  See if your touchpad cursor is back after uninstalling the last Windows update. If the problem remains, please move on.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1.2 Uninstall touchpad-related driver
 
 1. On your keyboard, press the**Windows** key and the**R** key at the same time, then type**devmgmt.msc** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-22.png)
 2. Double-click to expand the**Mice and other pointing devices** category, then right-click your touchpad device and select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-77.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the older touchpad driver to be installed by Microsoft automatically.
 
  Then see if your touchpad cursor still disappears. If so, please move further.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Restart the touchpad with the function keys
 
@@ -87,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
  The exact key combination for the touchpad feature depends on different computer manufacturers. For instance, if you’re using an Acer laptop, the key combination to turn on and off your touchpad is uaually**FN + F2** or**FN + F7** . For ASUS, it could be the**F6** or**F9** key alone. You can usually tell the touchpad hotkey by the following icons:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-78.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-80.png)
 
@@ -104,22 +126,15 @@ thumbnail: https://thmb.techidaily.com/0c6d2fd1a73159563e57dda315b30eb330741092c
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-81.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don’t see such a message on your computer, and your touchpad cursor remains missing, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Uninstall conflicting software
 
@@ -130,8 +145,23 @@ To do so:
 1. On your keyboard, press the **Windows** key and **R** key at the same time. Type **control panel** and hit **Enter.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-9.png)
 2. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 3. Click your remote control or screen recording software, then **Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-77.png)
 4. Repeat the same until you uninstall all remote control and screen recording software programs.
@@ -141,13 +171,6 @@ To do so:
 Then see if your touchpad cursor still disappears. If so, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Update touchpad driver
 
@@ -186,6 +209,13 @@ Then see if your touchpad cursor still disappears. If so, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Reset your computer
 
  As mentioned, if your touchpad is not seen in Settings, it’s possible that you’ll need to reset or reinstall your computer for the problem to be fixed.
@@ -214,5 +244,24 @@ Then see if your touchpad cursor still disappears. If so, please move on.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-exclusive-insights-into-windows-superior-video-players/"><u>[New] 2024 Approved Exclusive Insights Into Window's Superior Video Players</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-the-code-execution-cannot-proceed/"><u>[SOLVED] The Code Execution Cannot Proceed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-securely-and-swiftly-acquiring-your-youtube-watch-lists/"><u>[Updated] Securely and Swiftly Acquiring Your YouTube Watch Lists</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-snap-to-success-top-pixlr-editing-methods-unveiled/"><u>[Updated] Snap to Success Top Pixlr Editing Methods Unveiled</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-process-of-sharing-srt-text-in-social-digital-spaces/"><u>[Updated] Unveiling the Process of Sharing SRT Text in Social Digital Spaces</u></a></li>
+<li><a href="https://common-error.techidaily.com/computer-auto-shutdown-problems-solved-find-out-why/"><u>Computer Auto-Shutdown Problems Solved - Find Out Why!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-sound-problems-how-to-address-unrecognized-audio-devices-on-windows-1011/"><u>Fixing Sound Problems: How to Address Unrecognized Audio Devices on Windows 10/11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-xiaomi-13-ultra-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Xiaomi 13 Ultra Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oppo-f25-pro-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Oppo F25 Pro 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-lightning-fast-instagram-videos-tips-for-mobile-users/"><u>In 2024, Lightning-Fast Instagram Videos Tips for Mobile Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-realme-gt-neo-5-se-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Realme GT Neo 5 SE without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202941627-internet-explorer-errors-heres-how-to-get-it-running-smoothly-again/"><u>Internet Explorer Errors? Here’s How to Get It Running Smoothly Again!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/refresh-operating-system-windows-8-drivers-for-dell/"><u>Refresh Operating System: Windows 8 Drivers for Dell</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-the-d3derr-not-available-windows-error/"><u>Step-by-Step Solution to the D3DERR Not Available Windows Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-wudfhostexes-heavy-load-on-your-windows-11-pc/"><u>Understanding and Fixing WUDFHost.exe's Heavy Load on Your Windows 11 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/valorant-tech-troubleshooting-how-to-get-rid-of-the-screen-tear-problem/"><u>Valorant Tech Troubleshooting: How to Get Rid of the Screen Tear Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-over-the-system-restore-failed-error-code-0x80-on-windows-11-with-this-ultimate-fix/"><u>Winning Over the 'System Restore Failed: Error Code 0X80' On Windows 11 with This Ultimate Fix</u></a></li>
+</ul></div>
 

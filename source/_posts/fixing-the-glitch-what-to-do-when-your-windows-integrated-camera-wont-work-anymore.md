@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Glitch: What to Do When Your Windows Integrated Camera Won't Work Anymore"
-date: 2024-09-17T18:59:21.595Z
-updated: 2024-09-20T17:25:03.986Z
+date: 2024-10-01T03:39:21.028Z
+updated: 2024-10-06T21:10:28.364Z
 tags:
   - win11
   - win10
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/c169b3dacf2f59341958f21d25bf2991aa2ae1cda
 3. Choose**Windows Update** and then**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for a while until Windows troubleshooters detect and fix the problems for you. After it finishes, check if the error code 0x800f0922 still persists. If it does, go ahead and try the next method.
 
 ## Fix 2 Check partition size
@@ -76,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/c169b3dacf2f59341958f21d25bf2991aa2ae1cda
 
  After resizing the system reserved partition, try to process the Windows update again. If the error code hasn’t been removed, scroll down and try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3 Check network connection
 
  Weak network connection and VPN make it slow and unstable to connect to Microsoft Windows Update server. These may get you an update error code. Here we recommend restarting your router and turning off VPN temporarily:
@@ -84,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/c169b3dacf2f59341958f21d25bf2991aa2ae1cda
 2. **Plug** the router back into the power supply. Wait for the network machine to fully boot up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/router-pixabay.jpg)
 3. Test your internet connection by browsing any website. If the browsing speed is slow, try to use a wired connection instead of Wi-Fi.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. **Turn off** your VPN software if you are using any. Then run your Microsoft Windows 10 upgrade again.
 
@@ -100,33 +121,20 @@ thumbnail: https://thmb.techidaily.com/c169b3dacf2f59341958f21d25bf2991aa2ae1cda
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-6.jpg)
 3. A pop-up Window appears and choose**Let Windows Update download the files for you** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-17.jpg)
 4. Windows will download the required files and install those features for you.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-18.jpg)
 5. Reboot your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After rebooting, try to run the upgrade again to see if error 0x800f0922 disappears. If not, try the next trick.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5 Turn off firewall
 
@@ -135,6 +143,14 @@ thumbnail: https://thmb.techidaily.com/c169b3dacf2f59341958f21d25bf2991aa2ae1cda
 1. Type**defender firewall** and select**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-7.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-8.jpg)
 3. Turn off Windows Defender Firewall temporarily for**domain** ,**private** and**public** network settings. Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-9.jpg)
@@ -176,10 +192,10 @@ Restart your computer for the changes to take effect.
 2. Type**sfc /scannow** and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-14.jpg)
@@ -191,10 +207,24 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/cmd.jpg)
 2. Copy and paste**DISM /Online /Cleanup-Image /RestoreHealth** and hit**Enter** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-15.jpg)
 3. Type**sfc /scannow** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-14.jpg)
 4. Wait for the scan to finish and check for any improvement on the Windows update failure issue.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your problem hasn’t been solved yet, continue to the next solution.
 
@@ -217,19 +247,6 @@ Restart your computer for the changes to take effect.
  The scan will go through all the files on your computer and take a while to finish. After that, let this tool remove any threat on your computer and restart the machine. Then run Windows update again.
 
  If the error 0x800f0922 doesn’t go away, give a shot to the final one.
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 8 Reach out to an IT specialist
 
@@ -262,5 +279,17 @@ Restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-detailed-screencasting-techniques-systematic-approach/"><u>[Updated] 2024 Approved Detailed Screencasting Techniques Systematic Approach</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-charting-the-course-of-monetization-for-creator-economy-on-youtubeshorts/"><u>[Updated] Charting the Course of Monetization for Creator Economy on YouTubeshorts</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-prime-selections-securing-entry-level-channel-monetization-sites/"><u>In 2024, Prime Selections Securing Entry-Level Channel Monetization Sites</u></a></li>
+<li><a href="https://fox-info.techidaily.com/innovative-visual-tech-top-7-screen-options-for-image-experts-for-2024/"><u>Innovative Visual Tech - Top 7 Screen Options for Image Experts for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/linkedin-premium-membership-are-the-benefits-justified/"><u>LinkedIn Premium Membership: Are The Benefits Justified?</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-malfunctioning-keyboard-backlights-on-pcmac-systems/"><u>Step-by-Step Solution for Malfunctioning Keyboard Backlights on PC/Mac Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-tell-if-netflix-isnt-working-and-solutions/"><u>Troubleshooting Guide: How to Tell If Netflix Isn't Working and Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-highest-quality-magsafe-wallets-expert-ratings-and-detailed-analysis/"><u>Ultimate Guide to the Highest Quality MagSafe Wallets : Expert Ratings & Detailed Analysis</u></a></li>
+<li><a href="https://common-error.techidaily.com/winkernel-power-failure-error-41-fixed/"><u>WinKernel Power Failure: Error #41 Fixed</u></a></li>
+<li><a href="https://common-error.techidaily.com/wwe-2k-battlegrounds-correcting-the-direct-x-version-10-error-for-optimal-performance/"><u>WWE 2K Battlegrounds: Correcting the Direct X Version 10 Error for Optimal Performance</u></a></li>
+</ul></div>
 

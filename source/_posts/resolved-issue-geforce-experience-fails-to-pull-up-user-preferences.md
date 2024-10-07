@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: GeForce Experience Fails to Pull Up User Preferences"
-date: 2024-09-13T18:29:52.665Z
-updated: 2024-09-20T18:33:20.778Z
+date: 2024-10-04T20:53:23.147Z
+updated: 2024-10-07T06:45:40.275Z
 tags:
   - win11
   - win10
@@ -58,10 +58,16 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 2. Select**Update & Security** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/update-and-security.jpg)
@@ -69,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/c0f93108181366d1b09090c17e7518417597848be
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/updates-1.jpg)
 4. Update your OS as required, and restart your computer to see if the issue has been resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If Updating your Windows is not helping, move on to the second fix.
 
@@ -86,10 +85,25 @@ If Updating your Windows is not helping, move on to the second fix.
 1. Click**Start** , and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-setting.jpg)
 2. Select**Personalization** .  
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/personalization.jpg)
 3. In the **Background** field, select **Picture** or **Solid color.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/background1.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/background-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this step still can’t improve the CPU usage, move on to the next method below.
 
@@ -102,6 +116,14 @@ If Updating your Windows is not helping, move on to the second fix.
 1. Click**Start** , and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-setting.jpg)
 2. Select**Apps.**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/settings-app.jpg)
 3. Select**Default apps** , then click**Photos** (which is the default photo viewer app in Windows).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/default-apps.jpg)
@@ -109,13 +131,6 @@ If Updating your Windows is not helping, move on to the second fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/choose-an-app.jpg)
 
  Then check if that resolves the issue. If nothing changes, you might need to repair corrupt system files.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupt system files
 
@@ -140,6 +155,14 @@ Here’s how to use Fortect to repair your system files:
 1. Right-click**Start** button and select**Run** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/start-runn.jpg)
 2. **Type** **the following** into the command line and press**Enter** :  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `%systemroot%\system32\msdt.exe -id MaintenanceDiagnostic`  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/run-troubleshooting.jpg)
 3. Click **Advanced** in the pop-up box.  
@@ -160,28 +183,37 @@ Here’s how to use Fortect to repair your system files:
 2. Type**msconfig** and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/msconfig.jpg)
 3. On the **Services**  tab of System Configuration, select **Hide all Microsoft services** , and then select **Disable all** . Click **Apply** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot1-1.jpg)
-4. On the **Startup**  tab of System Configuration, click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot1-1.jpg)
+4. On the **Startup**  tab of System Configuration, click **Open Task Manager** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot2.jpg)
 5. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot3-1.jpg)
 6. Go back to the **System Configuration** window and click **OK** to save the changes you just made.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot4.jpg)
 7. Click **Restart** to restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/clean-boot5.jpg)
@@ -230,5 +262,16 @@ Here’s how to use Fortect to repair your system files:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/-deep-dive-into-youtubes-latest-monetization-policy/"><u>[New] A Deep Dive Into YouTube's Latest Monetization Policy</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-periscope-user-manual/"><u>[Updated] The Ultimate Periscope User Manual</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-fidelity-avi-player-for-portable-and-stationary-use/"><u>2024 Approved High-Fidelity AVI Player for Portable & Stationary Use</u></a></li>
+<li><a href="https://common-error.techidaily.com/application-crash-due-to-dll-shortage/"><u>Application Crash Due to DLL Shortage</u></a></li>
+<li><a href="https://common-error.techidaily.com/enabling-bluetooth-connectivity-in-windows-11-a-step-by-step-guide/"><u>Enabling Bluetooth Connectivity in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/pinpointing-and-resolving-windows-10-copypaste-errors/"><u>Pinpointing & Resolving Windows 10 Copy/Paste Errors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-honor-magic5-ultimate-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Honor Magic5 Ultimate to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexplained-darkness-monitor-hurdle/"><u>Unexplained Darkness: Monitor Hurdle</u></a></li>
+</ul></div>
 

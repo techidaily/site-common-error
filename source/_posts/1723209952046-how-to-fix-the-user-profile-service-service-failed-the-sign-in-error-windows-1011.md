@@ -1,7 +1,7 @@
 ---
 title: How to Fix The User Profile Service Service Failed the Sign-In Error Windows 10/11
-date: 2024-09-17T16:38:09.999Z
-updated: 2024-09-20T17:29:00.141Z
+date: 2024-10-06T01:24:46.247Z
+updated: 2024-10-07T10:00:11.305Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/d73b1ab39f29e2cca73b5589c07d89e3cba6a2b83
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Run Windows Update troubleshooter**
 
 This is the quickest and easiest fix to try when you’re seeing the error code **0xc1900208**. Windows Update troubleshooter is a built-in tool in Windows operating system that can automatically diagnose and resolve any issues regarding Windows Update. Follow the instructions below to run Windows Update troubleshooter:
@@ -44,18 +51,47 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 3. Click**Apply this fix** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap395.png)
  Windows Update troubleshooter will try to fix the issue for you. You can restart your PC and try to perform a Windows update again. If it still doesn’t work, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 2: Restart the Windows Update service**
 
  You may see the error code 0xc1900208 if there is something wrong with the Windows Update service. Try restarting the Windows Update service to see if you can resolve this problem. Here’s how to do it:
 
 1. On your keyboard, press **the Windows Logo key**   and **R**   at the same time to open the Run dialog, then type **services.msc** and press **Enter**   to open the Services window.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap396.png)
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap397.png)
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.**`C:\Windows\SoftwareDistribution\DataStore`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap398.png)  
  Please paste it in the address bar.
 4. **Delete** all the files in the folder **DataStore** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap399.png)  
  When all the files are deleted, you shall see “This folder is empty”.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open   **File Explorer**  . Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to open the **Download**  folder.**`C:\Windows\SoftwareDistribution\Download`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap400.png)  
  Please paste it in the address bar.
@@ -77,27 +113,28 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
     It may take several minutes for this command operation to be completed.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    2. **Dism /Online /Cleanup-Image /CheckHealth**  
     When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image exists corruptions or not. This command line also doesn’t repair the corrupted files.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap404.png)  
     It may take several minutes for this command operation to be completed.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    3. **Dism /Online /Cleanup-Image /RestoreHealth**  
     The command line**Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official source online.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap405.png)  
     It may take several minutes for this command operation to be completed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Close Command Prompt when the restore operation completed.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap406.png)
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
@@ -108,6 +145,14 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 
 1. On your keyboard, press **the Windows Logo Key**  and then type **cmd**  in the search box. When you see **Command Prompt**  in the list of results, right-click it and then select **Run as administrator** . You will be prompted for permission. Click **OK**  to run **Command Prompt**  .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap407.png)
 2. On your keyboard, type the following command and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **sfc /scannow**  
  It may take some time for the command operation to be completed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap408.png)
@@ -116,10 +161,10 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 Run Windows Update  again to check whether this fix works or not. If you still fail to install updates for your Windows system, don’t worry. Try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 5: Downloading updates from Microsoft Update Catalog manually**
@@ -132,21 +177,7 @@ Run Windows Update  again to check whether this fix works or not. If you still f
    1. On your keyboard, press **the Windows Logo key**  and **R**  at the same time to open the Run dialog. Type **cmd**  and press **Enter**  to open the Command Prompt.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap409.png)  
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap410.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
     “**X64-based PC** ” indicates that your Windows OS is**64-bit** ; “**X86-based PC** ” means that your Windows OS is**32-bit** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)** .
 5. Type the update number that you want to download. In this example, type KB  3006137 and then click **Search** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap411.png)
@@ -182,5 +213,20 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-capturing-stunning-webcam-content-quick-steps-to-success/"><u>[New] Capturing Stunning WebCam Content Quick Steps to Success</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-comprehensible-guide-downloading-safe-free-vlc-on-macos/"><u>[New] The Comprehensible Guide Downloading Safe, Free VLC on macOS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-timeless-tales-of-summer-delight-top-10-kids-movies/"><u>[New] Timeless Tales of Summer Delight Top 10 Kid's Movies</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-11-wont-boot-after-update/"><u>[Solved] Windows 11 Won't Boot After Update</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-prime-desktop-systems-for-quality-use-for-2024/"><u>[Updated] Prime Desktop Systems for Quality Use for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-top-10-high-flying-moba-games-for-android-users/"><u>2024 Approved Top 10 High-Flying MOBA Games for Android Users</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/capture-extreme-scenes-with-nikon-coolpix-p1000-superzoom-lens/"><u>Capture Extreme Scenes with Nikon COOLPIX P1000 Superzoom Lens</u></a></li>
+<li><a href="https://common-error.techidaily.com/decided-no-endorsement-of-opengl-by-drivers/"><u>Decided: No Endorsement of OpenGL by Drivers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-libexec32dll-not-detected-problem-easy-techniques/"><u>Fixing the 'libexec32.dll Not Detected' Problem – Easy Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-opengl-error-1281-solved/"><u>How to Fix OpenGL Error 1281 [Solved]</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-consumption-by-the-dwm-on-windows-11/"><u>Top 5 Solutions for Reducing GPU Consumption by the DWM on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723200620079-winning-the-battle-against-msmpengexe-reducing-cpu-usage-in-windows-11-effective-strategies-inside/"><u>Winning the Battle Against MsMpEng.exe: Reducing CPU Usage in Windows 11 – Effective Strategies Inside</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ending Windows 11 Crashes Immediately
-date: 2024-09-30T01:06:57.245Z
-updated: 2024-10-02T02:00:39.140Z
+date: 2024-09-30T07:09:30.216Z
+updated: 2024-10-06T17:57:26.880Z
 tags:
   - win11
   - win10
@@ -53,39 +53,12 @@ thumbnail: https://thmb.techidaily.com/d6313d0eee0e4c3ddd1586c5d7e829ff31ae93664
  2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system. (Note: Upon selecting the ‘Update All’ option, you will be asked to upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . A 7-day free trial, including all Pro features like high-speed download and one-click install, is available if you’re not ready for the Pro version yet. Rest assured, you won’t incur any charges until after the 7-day trial.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/DE-update-all-6.0.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Check to see if your computer still freezes randomly after updating the drivers. If the problem persists, you know your drivers weren’t to blame, and you should try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Clear your computer’s temp files
 
@@ -119,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/d6313d0eee0e4c3ddd1586c5d7e829ff31ae93664
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d6d0a83c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Ensure the **Automatically manage paging file size for all drives** checkbox is**NOT** ticked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376da7f418e.png)
@@ -131,19 +111,6 @@ thumbnail: https://thmb.techidaily.com/d6313d0eee0e4c3ddd1586c5d7e829ff31ae93664
  Once you’ve entered your virtual memory values, click **Set** , then click **OK** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596c16f59cf66.png)
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re still having problems with Windows 10 hanging after adjusting your virtual memory, try the next fix.
 
@@ -177,16 +144,10 @@ thumbnail: https://thmb.techidaily.com/d6313d0eee0e4c3ddd1586c5d7e829ff31ae93664
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Option 2 – Manually
@@ -223,6 +184,13 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58623a9965e70.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) If you want to check for problems immediately, click **Restart now and check for problems(recommended)** . If you want to check later, click **Check for problems the next time I start my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb6930a9d3.jpg)
@@ -245,9 +213,23 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a917ba7f6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Locate the hard drive you’d like to check, right-click on it and choose**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9834949e.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Go to the **Tools** tab and click**Check** .
 
@@ -257,13 +239,6 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb70907dd5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This suggests your hard disk is NOT the problem, and you can move on to the next fix below.
 
  If you DO see errors, it’s possible they’re causing Windows to freeze, and you should consider upgrading your disk.
@@ -271,10 +246,10 @@ sfc /scannow
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 7: Disable C-States in BIOS**
@@ -291,13 +266,6 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58d3311bb92d6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Both **C1E Function** and**Intel(R) C-STATE tech** should be **Disabled** . If they’re not, use your keyboard up and down arrows to navigate the list of options, highlight the setting you want to change, press Enter on your keyboard, then press the up or down arrow on your keyboard to change the value to Disabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/intelr-c-state-tech.jpg)
@@ -306,9 +274,23 @@ sfc /scannow
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 8: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -351,20 +333,19 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-streamlining-your-creative-process-with-effective-instagram-video-editing-tips-for-2024/"><u>[New] Streamlining Your Creative Process with Effective Instagram Video Editing Tips for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-experts-choice-extracting-youtube-video-intros-online/"><u>[Updated] 2024 Approved Expert's Choice Extracting Youtube Video Intros Online</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-purity-in-browsing-top-7-selective-android-adblocking-tools/"><u>[Updated] In 2024, Purity in Browsing Top 7 Selective Android AdBlocking Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-proiphone-close-ups-unlocking-stunning-image-potential-for-2024/"><u>[Updated] Proiphone Close-Ups Unlocking Stunning Image Potential for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-selecting-the-top-5-youtube-grabber-software/"><u>2024 Approved Selecting the Top 5 YouTube Grabber Software</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/gigabyte-upgrade-for-ps3s-default-hdd/"><u>Gigabyte Upgrade for PS3's Default HDD</u></a></li>
-<li><a href="https://common-error.techidaily.com/guaranteed-solution-to-stop-total-war-rome-remastered-from-crashing-during-play/"><u>Guaranteed Solution to Stop Total War: Rome Remastered From Crashing During Play</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-note-30-5g-lock-screen-password-by-drfone-android/"><u>How To Change Infinix Note 30 5G Lock Screen Password?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-ensure-seamless-pubg-gameplay-a-must-read-launch-optimization-guide/"><u>How to Ensure Seamless PUBG Gameplay: A Must-Read Launch Optimization Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-update-hanging-on-100-completion/"><u>How to Fix Windows Update Hanging on 100% Completion</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-stop-unexpected-shutdowns-while-playing-a-guide-for-windows-11-10-7-8n-and-8-users/"><u>How to Stop Unexpected Shutdowns While Playing: A Guide for Windows 11, 10, 7, 8.n & 8 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-overcome-the-persistent-0x800705b4-error-in-your-windows-10-update-process/"><u>How to Successfully Overcome the Persistent 0X800705b4 Error in Your Windows 10 Update Process</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-network-modification-alerts-with-simple-repair-steps/"><u>Overcome Network Modification Alerts with Simple Repair Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-high-utilization-of-ntoskrnlexe-in-windows/"><u>Tackling High Utilization of ntoskrnl.exe in Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-earning-mastery-youtube-short-video-tips/"><u>[New] 2024 Approved Earning Mastery Youtube Short Video Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-online-services-for-youtube-subtitles-download/"><u>[Updated] In 2024, Free Online Services for YouTube Subtitles Download</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-smarter-video-sharing-with-igtv-a-guide-to-flipping-videos-right/"><u>[Updated] In 2024, Smarter Video Sharing with IGTV A Guide to Flipping Videos Right</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-leveraging-visuals-easy-guide-to-integrating-snap-camera-on-teams/"><u>[Updated] Leveraging Visuals Easy Guide to Integrating Snap Camera on Teams</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-social-media-video-to-music-conversion-guide-for-2024/"><u>[Updated] Social Media Video to Music Conversion Guide for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/best-8-online-photo-montage-maker/"><u>Best 8 Online Photo Montage Maker</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016498354-cant-use-my-blue-yeti-mic-here-are-the-ultimate-solutions/"><u>Can't Use My Blue Yeti Mic? Here Are the Ultimate Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x8024200d-defeated-mastering-windows-update-fixes-and-optimization/"><u>Error 0X8024200d Defeated: Mastering Windows Update Fixes and Optimization</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202335717-fast-fixes-for-when-your-dns-goes-down-learn-how-here/"><u>Fast Fixes for When Your DNS Goes Down - Learn How Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/gameplay-causes-system-recalibrations/"><u>Gameplay Causes System Recalibrations</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-enabling-stylus-and-touch-functionality-after-glitches/"><u>Guide: Enabling Stylus and Touch Functionality After Glitches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/securing-your-childs-online-experience-top-5-tips-for-safe-chatgpt-interaction/"><u>Securing Your Child's Online Experience: Top 5 Tips for Safe ChatGPT Interaction</u></a></li>
+<li><a href="https://extra-information.techidaily.com/techniques-for-blurring-and-excising-picture-borders/"><u>Techniques for Blurring and Excising Picture Borders</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-7-how-to-fix-unexpected-freezing-and-system-hang-ups/"><u>Troubleshooting Windows 7: How to Fix Unexpected Freezing and System Hang-Ups</u></a></li>
 </ul></div>
 

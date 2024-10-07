@@ -1,7 +1,7 @@
 ---
 title: "How to Optimize Your PC: Say Goodbye to Fallout 4 Lag Issues"
-date: 2024-09-29T02:39:03.628Z
-updated: 2024-10-01T22:40:12.156Z
+date: 2024-10-05T02:25:57.373Z
+updated: 2024-10-07T04:56:29.976Z
 tags:
   - win11
   - win10
@@ -60,23 +60,9 @@ thumbnail: https://thmb.techidaily.com/c2e36ccbc985ffa8060cba8099c01adb9e0bc2274
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All** ). Or if you just want to update your video card driver, simply click the**Update** button next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -100,6 +86,13 @@ To modify your video card settings, use the following procedure:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-210.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now you’re able to modify the settings of this program.
 
  3) Pay attention to the list below**Specify the settings for this program:** . Scroll through the list to locate these items and make the tweaks accordingly:
@@ -111,18 +104,25 @@ Now you’re able to modify the settings of this program.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-209.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-216.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After modifying your graphics card settings, it’s time to check whether these tweaks have solved your lag problem in Fallout 4\. If not, please proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust in-game settings
 
@@ -140,13 +140,6 @@ Now you’re able to modify the settings of this program.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Uncap FPS limit
 
  You may seek to uncap the FPS limit of Fallout 4 by using Notepad to modify some certain values. Here’s how to do it:
@@ -160,6 +153,19 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
  3) After the file is opened, press**Ctrl + F** on your keyboard to invoke the**Find** dialog box. Then, type in**iPresentInterval** and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-217.png)
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you find out the line, change**iPresentInterval=1** to**iPresentInterval=0** .
 
@@ -179,18 +185,24 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-296.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the**Processes** tab. Right-click on the CPU/memory hogging process such as Google Chrome to open its context menu. Then click **End task** .
 
  Do not close the processes that you’re not familiar with in case you mistakenly stop the important ones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-13_10-51-43.png)
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Disable your antivirus software temporarily. This is optional to you but you can give it a try and see if that mitigates your problem.
 
@@ -218,18 +230,24 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-secret-techniques-in-ps-for-first-timers-for-2024/"><u>[New] Secret Techniques in PS for First-Timers for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-affordable-mp3-recording-skype-calls-saved/"><u>[Updated] 2024 Approved Affordable MP3 Recording Skype Calls Saved</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-essential-guide-for-adding-depth-and-style-in-instagram-stories-for-2024/"><u>[Updated] The Essential Guide for Adding Depth & Style in Instagram Stories for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/cutting-edge-content-summit/"><u>Cutting-Edge Content Summit</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-tool-convert-mp3-files-into-mp4-format-with-ease-using-movavis-converter/"><u>Free Online Tool: Convert MP3 Files Into MP4 Format with Ease - Using Movavi's Converter</u></a></li>
-<li><a href="https://common-error.techidaily.com/high-cpu-issue-resolved-in-windows-driver-framework-integration/"><u>High CPU Issue Resolved in Windows Driver Framework Integration</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-disabling-automated-podcast-recommendations-on-spotify/"><u>In 2024, Disabling Automated Podcast Recommendations on Spotify</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-tecno-pop-8-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Tecno Pop 8 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/maintain-a-positive-tone-users-are-often-looking-for-solutions-so-use-positive-words-like-guide-or-solutions-that-indicate-you-have-the-answer-theyre-seekin93/"><u>Maintain a Positive Tone: Users Are Often Looking for Solutions, so Use Positive Words Like Guide or Solutions that Indicate You Have the Answer They're Seeking. Avoid Using Negative Connotations in Your Titles.</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-lava-yuva-2-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Lava Yuva 2 Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-hack-to-resolve-new-worlds-easy-anti-cheat-error-and-jump-into-your-quest/"><u>The Ultimate Hack to Resolve New World's Easy Anti-Cheat Error and Jump Into Your Quest</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-5-linux-distributions-ideal-for-developers-a-comprehensive-guide-by-techradar/"><u>Top 5 Linux Distributions Ideal for Developers: A Comprehensive Guide by TechRadar</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-lowering-svchostexe-process-load-on-windows-nx-series-computers/"><u>Troubleshooting Steps for Lowering svchost.exe Process Load on Windows nX-Series Computers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-key-strategies-for-high-definition-iptv-logging-for-2024/"><u>[New] Key Strategies for High-Definition IPTV Logging for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-practice-empathy-put-yourself-in-the-speakers-shoes-and-try-to-understand-their-perspective-emotions-and-motivations/"><u>[Updated] Practice Empathy Put Yourself in the Speaker's Shoes and Try to Understand Their Perspective, Emotions, and Motivations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-flip-and-float-instagrams-guide-to-crafting-versatile-visual-content/"><u>2024 Approved Flip and Float Instagram's Guide to Crafting Versatile Visual Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/a-comprehensive-guide-to-business-on-snapchat-for-2024/"><u>A Comprehensive Guide to Business on Snapchat for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/adjusting-windows-preferences-under-company-managed-settings-restrictions/"><u>Adjusting Windows Preferences Under Company-Managed Settings Restrictions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/amd-ryzen-9000-mastery-discover-asrocks-groundbreaking-motherboard-selection/"><u>AMD Ryzen 9000 Mastery: Discover ASRock's Groundbreaking Motherboard Selection</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-usb-malfunctions-learn-how-to-resolve-persistent-device-not-recognized-alerts/"><u>End USB Malfunctions! Learn How to Resolve Persistent 'Device Not Recognized' Alerts</u></a></li>
+<li><a href="https://howto.techidaily.com/google-pixel-8-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Pixel 8 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-restart-applications-after-encountering-0xc0-growererror-code/"><u>How to Correctly Restart Applications After Encountering 0xC0 growerError Code</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-cannot-reset-pc-issue-on-windows-10-solution-included/"><u>How to Overcome the Cannot Reset PC Issue on Windows 10 (Solution Included)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-infinix-note-30-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Infinix Note 30</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-13-pro-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 13 Pro when Phone is Broken?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-setup-ensuring-smooth-minecraft-installs-on-windows-11-machines/"><u>Mastering the Setup: Ensuring Smooth Minecraft Installs on Windows 11 Machines</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-rockstar-games-red-dead-redemption-2-memory-error-by-boosting-page-file/"><u>Resolve Rockstar Games' Red Dead Redemption 2 Memory Error by Boosting Page File</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-puzzling-windows-update-error-code-0x8007001f/"><u>Resolving the Puzzling Windows Update Error Code 0X8007001F</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-when-your-windows-7-cant-grab-those-newest-updates/"><u>Solution Steps for When Your Windows 7 Can't Grab Those Newest Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-chrome-cache-miss-error-errcachemiss-a-step-by-step-guide/"><u>Solving the Chrome Cache Miss Error (ERR_CACHE_MISS): A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-12-budget-friendly-high-quality-video-apps-for-all-platforms/"><u>Top 12 Budget-Friendly, High-Quality Video Apps for All Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-unregistered-classes-in-windows-11-guide/"><u>Winning the Battle Against Unregistered Classes in Windows 11 [Guide]</u></a></li>
 </ul></div>
 

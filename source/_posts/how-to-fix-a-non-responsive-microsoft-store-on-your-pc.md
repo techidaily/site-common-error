@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Non-Responsive Microsoft Store on Your PC
-date: 2024-09-30T22:35:53.601Z
-updated: 2024-10-01T21:06:12.743Z
+date: 2024-10-03T21:14:08.141Z
+updated: 2024-10-07T01:23:04.945Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/3a153ca8f2151a31f0bfcdf6fa8070d85fd583f87
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Check hardware issues
 
  If your keyboard isn’t connected properly, you may face the arrow keys not working issue. To fix it, try**unplugging the USB cable** **and wait for a little while, then** **plug your keyboard back in** .
@@ -50,10 +57,16 @@ thumbnail: https://thmb.techidaily.com/3a153ca8f2151a31f0bfcdf6fa8070d85fd583f87
  After confirming that your hardware is not the problem, check out the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your keyboard driver
@@ -66,24 +79,32 @@ thumbnail: https://thmb.techidaily.com/3a153ca8f2151a31f0bfcdf6fa8070d85fd583f87
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
@@ -119,10 +140,16 @@ thumbnail: https://thmb.techidaily.com/3a153ca8f2151a31f0bfcdf6fa8070d85fd583f87
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this method didn’t work for you, check out the last fix.
@@ -148,22 +175,8 @@ If this method didn’t work for you, check out the last fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -186,18 +199,18 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastery-of-instagram-videography-blueprint-for-robust-marketing-plans/"><u>[New] In 2024, Mastery of Instagram Videography Blueprint for Robust Marketing Plans</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-delicate-volume-modulation-using-lumafusions-features/"><u>2024 Approved Delicate Volume Modulation Using Lumafusion's Features</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725289146566-avchd-ts-mov-avi-wmv-flv/"><u>動画を自在に変換する方法講座 - AVCHD, Ts, MOV, AVI, WMV, FLVの手引き!</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-to-correct-user-profile-service-failure-on-windows-11-machines/"><u>Effective Solutions to Correct 'User Profile Service' Failure on Windows 11 Machines</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/find-your-perfect-roku-at-a-steal-this-prime-day-exclusive-offers-inside/"><u>Find Your Perfect Roku at a Steal This Prime Day - Exclusive Offers Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unsupported-graphics-cards-on-fortnite-windows-pc/"><u>How to Fix Unsupported Graphics Cards on Fortnite Windows PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-capacity-sd-card-for-sony-a7s-series/"><u>In 2024, High-Capacity SD Card for Sony A7S Series</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208507104-overcome-missing-bluetooth-feature-problems-in-windows-10-with-easy-fixes/"><u>Overcome Missing Bluetooth Feature Problems in Windows 10 with Easy Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/seamless-viewing-eliminating-the-buffer-interruptions-on-kodi-platform/"><u>Seamless Viewing: Eliminating the Buffer Interruptions on Kodi Platform</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/tighten-up-your-timeline-youtube-video-trimming-techniques/"><u>Tighten Up Your Timeline YouTube Video Trimming Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-successfully-loading-sites-in-safari-when-problems-arise/"><u>Troubleshooting Guide: Successfully Loading Sites in Safari When Problems Arise</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-fixing-the-issue-when-windows-key-plus-shift-plus-s-is-unresponsive-on-windows-11-or-10/"><u>Troubleshooting Steps: Fixing the Issue When Windows Key + Shift + S Is Unresponsive on Windows 11 or 10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-viewer-insights-understanding-subscriber-feedback/"><u>Unveiling Viewer Insights Understanding Subscriber Feedback</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-social-media-shifts-yearly-data-visualization-guide/"><u>[New] Social Media Shifts Yearly Data Visualization Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-from-novice-to-pro-elevating-your-ps4-gameplay-screenshot-skills/"><u>[Updated] In 2024, From Novice to Pro Elevating Your PS4 Gameplay Screenshot Skills</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-rapid-renders-of-powerpoint-plays/"><u>2024 Approved Rapid Renders of PowerPoint Plays</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-speedy-insights-modifying-videos-in-instagram-stories/"><u>2024 Approved Speedy Insights Modifying Videos in Instagram Stories</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209916624-fix-your-laptops-failing-charge-simple-solutions-for-a-full-battery/"><u>Fix Your Laptop's Failing Charge: Simple Solutions for a Full Battery</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-12-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 12?</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-error-code-31-woes-proven-techniques-to-restore-your-windows-stability/"><u>No More Error Code 31 Woes: Proven Techniques to Restore Your Windows Stability</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-making-bluetooth-visible-in-your-pcs-device-management/"><u>Troubleshooting Guide: Making Bluetooth Visible in Your PC's Device Management</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-media-player-sources-not-found-on-windows-machines-solved/"><u>Troubleshooting Media Player Sources Not Found on Windows Machines [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstick-your-stagnant-windows-update-proven-techniques-for-instant-success-no-more-waiting/"><u>Unstick Your Stagnant Windows Update: Proven Techniques for Instant Success (No More Waiting)</u></a></li>
 </ul></div>
 

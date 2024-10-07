@@ -1,7 +1,7 @@
 ---
 title: "Clearing Cache Failures: How to Address Erroneous Caching (ERR_CACHE_MISS) Errors on Chrome"
-date: 2024-09-17T19:05:07.566Z
-updated: 2024-09-20T17:21:10.981Z
+date: 2024-10-03T16:54:32.664Z
+updated: 2024-10-07T01:03:28.566Z
 tags:
   - win11
   - win10
@@ -47,6 +47,14 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 3. In the pop-up window, click **Advanced**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap5-8.jpg)
 4. **Check** the box next to**Apply repairs automatically** and then click **Run as administrator**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap6-5.jpg)
 5. Click**Next** .  Windows will detect and fix the problems automatically. The process may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-6.jpg)
@@ -62,6 +70,14 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-7.jpg)
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** . Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.`C:\Windows\SoftwareDistribution\DataStore`  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-8.jpg)
 4. Delete all the files in the folder **DataStore**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-6.jpg)
@@ -70,9 +86,24 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 6. Delete all the files in the folder   **Download**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap14-6.jpg)
 7. In the Services window, right-click **Windows Update** and select **Start**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap16-6.jpg)
 
  Go and check Windows Update again to see whether the issue persists or not. If the issue reappears, don’t worry, there are more fixes for you to try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 3: Change the DNS server settings**
 
@@ -91,10 +122,10 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 5. Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap25-6.jpg)
@@ -104,21 +135,7 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap26-2.jpg)
 7. Restart your PC and try performing a Windows update.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if the Windows 7 update stuck issue reappears. If not, you’ve fixed this annoying issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 4: Run System File Checker**
 
@@ -135,10 +152,10 @@ sfc /scannow
  See if you can perform a Windows update or not. If not, you may need to download updates from **Microsoft Update Catalog**  manually to resolve this annoying problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 5: Download updates from Microsoft Update Catalog manually**
@@ -150,15 +167,16 @@ sfc /scannow
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap27-2.jpg)  
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap32-3.jpg)  
     “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. **View your update history:**  
    1. On your keyboard, press**the Windows logo key** and type **windows update** . In the list of search results, select**Windows Update** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap33-1.jpg)  
@@ -172,6 +190,14 @@ sfc /scannow
  If your Windows OS is **64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap37-1.jpg)
 6. In the pop-up window, click the link to start downloading the updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap38-1.jpg)
 7. Double-click the downloaded file and follow the on-screen instructions to install the updates.  
  After you install all the updates you failed to install before, perform a Windows update to see if this issue persists.
@@ -197,5 +223,26 @@ After installing these updates, this issue should be resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ace-advertising-and-analytics-youtubes-universal-monetization-techniques-for-2024/"><u>[New] Ace Advertising and Analytics YouTube's Universal Monetization Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-5-innovative-apps-to-design-stunning-openings-for-2024/"><u>[Updated] 5 Innovative Apps to Design Stunning Openings for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-a-guide-to-formulating-successful-product-sponsorships-in-youtubespace-for-2024/"><u>[Updated] A Guide to Formulating Successful Product Sponsorships in YouTubespace for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-sky-high-savings-on-storages-an-insider-look-at-free-and-premium-cloud-services-for-2024/"><u>[Updated] Sky High Savings on Storages An Insider Look at Free & Premium Cloud Services for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-step-by-step-guide-restoring-your-steam-files-privileges/"><u>A Step-by-Step Guide: Restoring Your Steam Files’ Privileges</u></a></li>
+<li><a href="https://common-error.techidaily.com/explorerexe-error-solved-and-secured/"><u>Explorer.exe Error: Solved & Secured</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-note-30-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Note 30 using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-xiaomi-redmi-note-12-proplus-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Xiaomi Redmi Note 12 Pro+ 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-top-5-mac-video-tools-beyond-standard-bandicam/"><u>In 2024, Top 5 Mac Video Tools Beyond Standard Bandicam</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a05-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A05 Phone FRP Lock</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-obstacles-in-harmonizing-human-and-ai-objectives/"><u>Navigating the Obstacles in Harmonizing Human and AI Objectives</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-stop-your-mouse-from-wandering-solo/"><u>Quick Solutions: Stop Your Mouse From Wandering Solo</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-error-message-applicationexe-has-stopped-now-fixed/"><u>Resolved: Error Message 'Application.exe Has Stopped' Now Fixed</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-wacom-tablet-driver-issues-in-windows-11/"><u>Resolved: Fixing Wacom Tablet Driver Issues in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-to-logildadll-missing-error/"><u>Solution to LogiLDA.dll Missing Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-persistent-restarting-in-windows-11-with-simple-solutions/"><u>Troubleshoot Persistent Restarting in Windows 11 with Simple Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-fix-incorrectly-pressed-keys-while-typing/"><u>Troubleshooting: How to Fix Incorrectly Pressed Keys While Typing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/whos-watching-your-guide-to-instagram-eye-rolls-count-for-2024/"><u>Who's Watching? Your Guide to Instagram Eye-Rolls Count for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-against-windows-10-freeze-tips-and-fixes-for-update-woes/"><u>Winning Against Windows 10 Freeze: Tips and Fixes for Update Woes</u></a></li>
+</ul></div>
 

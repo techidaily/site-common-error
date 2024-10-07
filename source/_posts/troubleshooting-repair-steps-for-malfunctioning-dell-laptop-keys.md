@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Repair Steps for Malfunctioning Dell Laptop Keys"
-date: 2024-09-16T17:10:06.058Z
-updated: 2024-09-20T18:48:28.503Z
+date: 2024-10-05T03:46:13.523Z
+updated: 2024-10-07T07:03:48.353Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/26fc91ea31b084d9024cbf2c3260379dfbc09b55f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -52,6 +59,13 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -77,13 +91,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -103,10 +110,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -114,13 +121,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -135,6 +135,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -142,6 +149,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -183,5 +197,21 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-cost-effective-premium-screen-capture-software-for-chromebook-for-2024/"><u>[New] Cost-Effective Premium Screen Capture Software for Chromebook for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-insightful-analysis-the-impact-and-mechanics-of-youtubes-shorts-fund/"><u>[New] Insightful Analysis The Impact and Mechanics of YouTube's Shorts Fund</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-video-masterclass-crafting-youtube-trailers-using-filmora/"><u>[New] Video Masterclass Crafting YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-channel-visualization-selecting-the-ideal-size-and-placement-for-yt/"><u>[Updated] 2024 Approved Channel Visualization Selecting the Ideal Size and Placement for YT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726222801296-mp3-flac-movavi/"><u>在網路上無成本地改變音檔型式: MP3 轉Flac，使用 Movavi 轉換工具</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-touchpad-scrolling-that-just-wont-work-an-expert-solution/"><u>Comprehensive Fixes for Touchpad Scrolling That Just Won't Work: An Expert Solution</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/discover-snapchats-artistic-side-with-anime-inspired-effects/"><u>Discover Snapchat’s Artistic Side with Anime-Inspired Effects</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201682709-effortless-solutions-to-get-windows-10-bluetooth-working-again/"><u>Effortless Solutions to Get Windows 10 Bluetooth Working Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-recover-from-file-explorer-crashing-on-windows-10-computers/"><u>How to Recover From File Explorer Crashing on Windows 10 Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-binkw32dll-troubleshooting-process-for-flawless-operations/"><u>Mastering the binkw32.dll Troubleshooting Process for Flawless Operations</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-stuck-on-loading-quick-fix-tips-for-windows-users-to-get-it-running-smoothly/"><u>Minecraft Stuck on Loading? Quick Fix Tips for Windows Users to Get It Running Smoothly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pef-en-png-direct-converteert-voor-gratis-movavi/"><u>PEF en PNG Direct Converteert Voor Gratis - Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-the-issue-of-steam-server-accessibility/"><u>Resolved: Fixing the Issue of Steam Server Accessibility</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-strategies-to-supercharge-pcs-gaming-capabilities-on-the-latest-windows-11-update/"><u>Winning Strategies to Supercharge PC's Gaming Capabilities on the Latest Windows 11 Update</u></a></li>
+</ul></div>
 

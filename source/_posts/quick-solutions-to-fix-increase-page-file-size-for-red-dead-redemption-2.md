@@ -1,7 +1,7 @@
 ---
 title: Quick Solutions to Fix 'Increase Page File Size for Red Dead Redemption 2'
-date: 2024-09-24T19:18:30.509Z
-updated: 2024-10-01T18:44:20.675Z
+date: 2024-10-04T06:32:13.439Z
+updated: 2024-10-07T05:27:25.518Z
 tags:
   - win11
   - win10
@@ -33,19 +33,6 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -59,13 +46,6 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04aae3578ee.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
@@ -82,40 +62,62 @@ Here’s how to do it:
 2. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **mmsys.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
-4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
-5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
+4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
+5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable Exclusive Mode
 
@@ -130,6 +132,13 @@ Here’s how:
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -167,15 +176,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ive-deep-into-duality-mastering-multi-video-watching-on-youtube/"><u>[New] Dive Deep Into Duality Mastering Multi-Video Watching on YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-essential-book-trailer-samples/"><u>[New] Essential Book Trailer Samples</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-expert-tips-for-effortless-instagram-video-dialogues/"><u>[Updated] In 2024, Expert Tips for Effortless Instagram Video Dialogues</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-successful-for-new-world-addressing-the-easy-anti-cheat-problems/"><u>Fix Successful for 'New World': Addressing the Easy Anti-Cheat Problems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-x-fold-2-phone-by-drfone-android/"><u>How to Reset a Locked Vivo X Fold 2 Phone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-visual-learning-lesson-planning-guide/"><u>In 2024, Mastering Visual Learning Lesson Planning Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reconnecting-your-ipad-to-wi-fi-networks-made-easy-a-step-by-step-guide/"><u>Reconnecting Your iPad to Wi-Fi Networks Made Easy – A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-pnpudfdevicenotfound-issue-a-guide-to-troubleshooting-error-0xc0000098-in-windows/"><u>Solving the PnP_UDF_DEVICE_NOT_FOUND Issue: A Guide to Troubleshooting Error 0xC0000098 in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-fix-guide-for-the-0x800705b4-error-during-windows-11-updates-solved/"><u>The Ultimate Fix Guide for the 0X800705b4 Error During Windows 11 Updates [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211368279-windows-10-missing-charge-indicator-easy-fix-guide/"><u>Windows 10 Missing Charge Indicator? Easy Fix Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-odins-revenge-ragnarok-coming-soon-in-2024/"><u>[New] Odin's Revenge Ragnarök - Coming Soon, In 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-efficient-editing-harnessing-photoshops-powerful-eraser/"><u>2024 Approved Efficient Editing Harnessing Photoshop’s Powerful Eraser</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leveraging-the-power-of-movie-maker-in-windows-8-for-professional-results/"><u>2024 Approved Leveraging the Power of Movie Maker in Windows 8 for Professional Results</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-fixing-windows-10-update-issue-with-error-0x80070541/"><u>Comprehensive Guide: Fixing Windows 10 Update Issue with Error 0X80070541</u></a></li>
+<li><a href="https://common-error.techidaily.com/correcting-common-keyboard-mistakes-for-better-typing-accuracy/"><u>Correcting Common Keyboard Mistakes for Better Typing Accuracy</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-error-there-is-a-problem-with-your-games-setup-origin-games/"><u>Fix Error There Is a Problem with Your Game's Setup | Origin Games</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/harmonized-geforce-nforce-and-windows-colliding-no-more/"><u>Harmonized: GeForce, nForce, and Windows Colliding No More</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-repair-a-pc-that-fails-to-start-correctly-now-resolved/"><u>How to Successfully Repair a PC That Fails to Start Correctly - Now Resolved!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-nvidia-gtx-1650-super-drivers-compatible-with-windows-11-free-downloads-available/"><u>Latest NVIDIA GTX 1650 Super Drivers: Compatible with Windows 11 - Free Downloads Available</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcame-issue-windows-cant-communicate-with-the-system-event-service-now/"><u>Overcame Issue: Windows Can't Communicate with the System Event Service Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-driver-failure-correcting-set-user-settings/"><u>Resolving 'Driver Failure' - Correcting Set User Settings</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-steam-hiccups-fast-no-more-crashes-ever-again/"><u>Solve Your Steam Hiccups Fast - No More Crashes Ever Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-error-code-224403-now-your-videos-will-play-smoothly/"><u>Solving 'Error Code 224403': Now Your Videos Will Play Smoothly</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/transforming-your-vlog-video-structure-with-jump-cuts-for-2024/"><u>Transforming Your Vlog Video Structure with Jump Cuts for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solving Server Accessibility Problems in Destiny 2: A Step-by-Step Guide"
-date: 2024-09-25T03:56:40.086Z
-updated: 2024-10-02T02:55:07.873Z
+date: 2024-10-03T04:18:38.730Z
+updated: 2024-10-06T18:38:06.802Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
@@ -52,13 +59,6 @@ Here’s how to do it:
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -74,20 +74,20 @@ Here’s how to do it:
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
@@ -105,28 +105,29 @@ To do so:
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
@@ -162,21 +163,21 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-secrets-of-selecting-a-powerful-streaming-device/"><u>[New] The Secrets of Selecting a Powerful Streaming Device</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-cut-to-impact-in-depth-youtube-video-editing-mastery/"><u>[Updated] Cut to Impact In-Depth Youtube Video Editing Mastery</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-crafting-perfect-ad-videos-on-youtube-without-expense/"><u>[Updated] In 2024, Crafting Perfect Ad Videos on YouTube Without Expense</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-jokes-and-puns-iphone-edition/"><u>2024 Approved Jokes and Puns IPhone Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-steam-failed-to-initialize-fixes-and-tips-for-successful-installation/"><u>Dealing with 'Steam Failed to Initialize': Fixes and Tips for Successful Installation</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/harness-the-power-of-cookiebot-for-enhanced-web-insights/"><u>Harness the Power of Cookiebot for Enhanced Web Insights</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-nokia-g42-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Nokia G42 5G Phone Screen?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-update-error-code-0x80240017-complete-fix-guide/"><u>How to Resolve Windows Update Error Code 0X80240017 - Complete Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208310459-keyboard-typos-heres-how-to-type-without-the-slip-ups/"><u>Keyboard Typos? Here's How to Type Without the Slip-Ups!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/openais-secret-5-tips-for-accessing-chatgpt-services-without-registration/"><u>OpenAI's Secret: 5 Tips for Accessing ChatGPT Services without Registration</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-10-issues-with-right-click-mouse-functionality/"><u>Resolving Windows 10 Issues with Right Click Mouse Functionality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/superior-6-tools-for-video-language-shift-for-2024/"><u>Superior 6 Tools for Video Language Shift for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206851052-trouble-printer-proofing-your-pdfs-swift-solutions-to-the-rescue/"><u>Trouble Printer-Proofing Your PDFs? Swift Solutions to the Rescue</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-dell-wireless-keyboards-that-arent-responding/"><u>Troubleshooting Guide for Dell Wireless Keyboards That Aren't Responding</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-the-full-potential-of-mouseclicklock-on-windows/"><u>Unleash the Full Potential of MouseClickLock on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-is-my-computer-starting-automatically-on-windows-perturbation-and-resolution/"><u>Why Is My Computer Starting Automatically on Windows Perturbation and Resolution</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-master-iphones-multi-tasked-capture-feature-for-2024/"><u>[New] Master iPhone's Multi-Tasked Capture Feature for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ideo-construction-lab/"><u>[New] Video Construction Lab</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-10-highly-trusted-free-video-communication-tools-with-security-features-for-2024/"><u>[Updated] 10 Highly-Trusted Free Video Communication Tools with Security Features for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/boost-your-igtv-presence-with-effective-title-and-summary-tweaks/"><u>Boost Your IGTV Presence with Effective Title & Summary Tweaks</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/boosting-your-websites-analytics-the-role-of-cookiebot-solutions/"><u>Boosting Your Website's Analytics: The Role of Cookiebot Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/breaking-free-from-restart-hell-troubleshoot-windows-1110s-stuck-loop-problem/"><u>Breaking Free From Restart Hell: Troubleshoot Windows 11/10'S Stuck Loop Problem</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/discovering-the-edge-of-action-cam-excellence-with-intova-x/"><u>Discovering the Edge of Action Cam Excellence with Intova X</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-endless-windows-10-boot-error-a-complete-guide/"><u>How to Fix the Endless Windows 10 Boot Error: A Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-usb-connections-in-windows-operating-systems/"><u>How to Fix Unresponsive USB Connections in Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-valorants-persistent-infinite-loading-challenge/"><u>How to Overcome Valorant's Persistent Infinite Loading Challenge</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-battery-icon-on-your-windows-10-system-easily-solved/"><u>How to Restore Battery Icon on Your Windows 10 System Easily [Solved]</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-effortless-sound-sourcing-the-top-15-freebie-audiosites/"><u>In 2024, Effortless Sound Sourcing The Top 15 Freebie Audiosites</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-mastering-easy-hdr-a-step-by-step-guide/"><u>In 2024, Mastering Easy HDR A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-resolution-for-out-of-memory-in-red-dead-redemption-2-increase-pagefile/"><u>Quick Resolution for 'Out of Memory' In Red Dead Redemption 2 - Increase Pagefile</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-addressing-the-unexpected-end-of-a-program-error-1067-on-windows/"><u>Step-by-Step Solution: Addressing the Unexpected End of a Program (Error #1067) on Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solution Found! Fixing the Issue When Your iGFX Modules Fail
-date: 2024-09-15T17:54:48.973Z
-updated: 2024-09-20T18:29:57.879Z
+date: 2024-10-04T20:03:37.947Z
+updated: 2024-10-07T07:47:41.975Z
 tags:
   - win11
   - win10
@@ -63,6 +63,14 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 6. Click the**Monitor** tab in the popup pane, and change**Screen refresh rate** to the one shown in your error message (in my case it’s**60Hz** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d226ff59.jpg)
 7. Click**Apply** and**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d5847bb6.jpg)
 
 **If you’re using Windows 7:**
@@ -78,10 +86,26 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 4. Click**Keep changes** if you see the verification message.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e9f1f793.jpg)
 5. On the same screen, click**Advanced** **settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ebdae214.jpg)
 6. Click the**Monitor** tab, and choose the specific refresh rate shown in your error message (in my case I choose**60Hz** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ef0922d4.jpg)
 7. Click**Apply** and**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3f2a18d38.jpg)
 
 Restart your computer in normal mode and see if it works.
@@ -108,7 +132,21 @@ Restart your computer in normal mode and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
 4. Restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This should fix your problem. Still no luck? Okay, there’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Boot your computer in low-resolution mode
 
@@ -125,39 +163,34 @@ Restart your computer in normal mode and see if it works.
 3. Click**Advanced** options, then the system will bring up the Windows RE (Recovery environment.) screen.  
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a15247e3c3cd.jpg)
 4. Click**Troubleshoot** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a151ab96e345.jpg)
 5. Click**Advanced** **options** .  
-![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a180901572a5.jpg)
-6. Click**Startup** **Settings** to continue.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a180901572a5.jpg)
+6. Click**Startup** **Settings** to continue.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18093b2b099.jpg)
 7. Click**Restart** . The computer restarts and another screen opens showing a list of different startup options.  
@@ -175,19 +208,6 @@ Restart your computer in normal mode and see if it works.
 2. In the**Advanced** **Boot** **Options** **Menu** screen, press the**arrow up** or**arrow down** key to select**Enable VGA Mode** (or**Enable low-resolution mode** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf4111e6908.jpg)
 3. Then press**Enter** on your keyboard.
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your computer will boot into the selected VGA mode and your error message should disappears.
 
@@ -209,5 +229,19 @@ Restart your computer in normal mode and see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-verdict-on-using-itop-for-screen-capture/"><u>[Updated] The Verdict on Using ITop for Screen Capture?</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-microphone-issues-for-windows-10-users/"><u>Diagnosing and Resolving Microphone Issues for Windows 10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-track-repair-tips-overcoming-no-battery-detection-hurdles-swiftly/"><u>Fast-Track Repair Tips: Overcoming No Battery Detection Hurdles Swiftly</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-non-compatible-data-entry-problems-with-monitors/"><u>How to Resolve Non-Compatible Data Entry Problems with Monitors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-extreme-capture-duo-gopro-hero5-black-versus-hero4-silver-edition/"><u>In 2024, Extreme Capture Duo GoPro Hero5 Black Versus Hero4 Silver Edition</u></a></li>
+<li><a href="https://fox-links.techidaily.com/navigating-tiny-worlds-5-ways-to-zoom-in-on-minecraft/"><u>Navigating Tiny Worlds 5 Ways to Zoom In on Minecraft</u></a></li>
+<li><a href="https://facebook.techidaily.com/step-into-a-new-dimension-mastering-3d-image-posts-on-facebook/"><u>Step Into a New Dimension: Mastering 3D Image Posts on Facebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/successful-fix-for-inoperative-keyboard-buttons/"><u>Successful Fix for Inoperative Keyboard Buttons</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-risks-can-advanced-language-models-such-as-chatgpt-be-exploited-by-hackers-for-unauthorized-access/"><u>Understanding the Risks: Can Advanced Language Models Such as ChatGPT Be Exploited by Hackers for Unauthorized Access?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-art-of-audio-blend-with-audacity-techniques/"><u>Unveiling the Art of Audio Blend with Audacity Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-audio-problems-resolved-how-to-get-your-microphone-working-again/"><u>Windows 11 Audio Problems Resolved: How to Get Your Microphone Working Again</u></a></li>
+</ul></div>
 

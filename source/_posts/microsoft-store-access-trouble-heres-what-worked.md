@@ -1,7 +1,7 @@
 ---
 title: Microsoft Store Access Trouble? Here’s What Worked
-date: 2024-09-15T16:58:25.700Z
-updated: 2024-09-20T19:35:37.647Z
+date: 2024-10-01T18:56:19.486Z
+updated: 2024-10-07T08:34:29.224Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/749c8b13fba53b16e3cca7c517e32ea283379a232
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Troubleshoot hardware issues
 
  Before we make any changes, we might have to troubleshoot hardware issues. To do so:
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/749c8b13fba53b16e3cca7c517e32ea283379a232
  Check if the microphone is still not working. If yes, then great. But if it’s not working, move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Make sure the volume is audible
 
@@ -72,39 +86,25 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -123,6 +123,13 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -154,5 +161,21 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-setting-the-scene-ideal-video-aspect-ratios-and-widths-for-youtube/"><u>[New] In 2024, Setting the Scene Ideal Video Aspect Ratios & Widths for YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-windows-11-cpu-spikes-stopped-by-interrupts/"><u>[RESOLVED] Windows 11 CPU Spikes Stopped by Interrupts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-precision-editing-at-your-fingertips-canvas-boundary-eradication/"><u>[Updated] Precision Editing at Your Fingertips Canva's Boundary Eradication</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-specialist-recommendations-the-quintessential-5-cameras/"><u>[Updated] Specialist Recommendations The Quintessential 5 Cameras</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-developers-handbook-on-fixing-opengl-glexttexturecompression-format-issue-error-1281-a-complete-solution/"><u>A Developer's Handbook on Fixing OpenGL GL_EXT_texture_compression Format Issue (Error 1281): A Complete Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-inactive-to-active-logitech-restoration/"><u>From Inactive to Active: Logitech Restoration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-suggestions-prime-frame-addition-software-2023-update/"><u>In 2024, Expert Suggestions - Prime Frame Addition Software, 2023 Update</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamlining-multiple-youtube-videos-into-one/"><u>In 2024, Streamlining Multiple YouTube Videos Into One</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimal-setup-guide-why-you-must-have-a-gpu-with-d3d11-support-to-run-the-engine-without-issues/"><u>Optimal Setup Guide: Why You Must Have a GPU with D3D11 Support to Run the Engine without Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/smooth-sailing-again-overcoming-google-chromes-not-responding-hurdle/"><u>Smooth Sailing Again! Overcoming Google Chrome's 'Not Responding' Hurdle</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/taste-the-viral-trend-15-top-tiktok-recipe-videos-that-are-capturing-hearts-worldwide-for-2024/"><u>Taste the Viral Trend 15 Top TikTok Recipe Videos That Are Capturing Hearts Worldwide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-quest-for-perfection-topiary-angles-in-mobile-photography-for-2024/"><u>The Quest for Perfection Topiary Angles in Mobile Photography for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-resolving-a-502-bad-gateway-mistake-on-your-site/"><u>Troubleshooting and Resolving a 502 Bad Gateway Mistake on Your Site</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-the-role-of-svchostexe-in-windows-netsvcs-explained-and-solutions-for-excessive-network-usage/"><u>Understanding the Role of svchost.exe in Windows: Netsvcs Explained & Solutions for Excessive Network Usage</u></a></li>
+</ul></div>
 

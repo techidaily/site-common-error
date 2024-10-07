@@ -1,7 +1,7 @@
 ---
 title: Effective Remedies to Restore Lenovo Mouse Functionality in Windows OS
-date: 2024-09-13T17:44:19.561Z
-updated: 2024-09-20T17:51:55.991Z
+date: 2024-09-30T09:56:26.538Z
+updated: 2024-10-07T00:57:20.005Z
 tags:
   - win11
   - win10
@@ -60,26 +60,12 @@ thumbnail: https://thmb.techidaily.com/d6e8710c36c5978badec227a1052e8c4e84f42f10
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your keyboard driver
 
@@ -91,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/d6e8710c36c5978badec227a1052e8c4e84f42f10
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
@@ -114,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/d6e8710c36c5978badec227a1052e8c4e84f42f10
 If this method didn’t work for you, check out the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Run Keyboard Troubleshooter
@@ -129,22 +122,38 @@ If this method didn’t work for you, check out the last fix.
 1. On your keyboard, press the**Window logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### on Windows 11
@@ -157,10 +166,10 @@ If this method didn’t work for you, check out the last fix.
 4. Click on the**Run** button next to Keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -182,5 +191,24 @@ If this method didn’t work for you, check out the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-audiophiles-guide-techniques-to-elevate-sound-recording/"><u>[New] 2024 Approved Audiophile's Guide Techniques to Elevate Sound Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-leading-talents-top-instagram-hlv-constructors-for-2024/"><u>[Updated] Leading Talents Top Instagram HLV Constructors for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-10-plugin-power-duo-for-final-cut-pro/"><u>[Updated] The Ultimate 10 Plugin Power Duo for Final Cut Pro</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-ensuring-your-tweets-meet-aspect-ratio-norms/"><u>2024 Approved Ensuring Your Tweets Meet Aspect Ratio Norms</u></a></li>
+<li><a href="https://common-error.techidaily.com/2024-solutions-overcoming-the-device-unsupported-by-miracast-error/"><u>2024 Solutions: Overcoming the 'Device Unsupported by Miracast' Error</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-lava-yuva-3-pro-frp-bypass-by-drfone-android/"><u>About Lava Yuva 3 Pro FRP Bypass</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-on-xinput13dlls-functional-importance/"><u>Comprehensive Guide on XINPUT1_3.dll's Functional Importance</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-repairing-bluetooth-detection-errors-in-windows-10-operating-system/"><u>Guide: Repairing Bluetooth Detection Errors in Windows 10 Operating System</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/hack-the-art-of-instagram-reels-creation/"><u>Hack the Art of Instagram Reels Creation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-vivo-g2-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo G2 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-infinix-note-30-vip-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Infinix Note 30 VIP</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-errors-with-microsofts-print-to-pdf-service-on-windows-11-systems/"><u>Overcoming Errors with Microsoft's Print to PDF Service on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-the-persistent-windows-11-update-error-code-0x802/"><u>Resolved: Fixing the Persistent Windows 11 Update Error Code 0X802#</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202683042-revive-dead-keys-on-your-hp-laptop-effective-solutions-inside/"><u>Revive Dead Keys on Your HP Laptop: Effective Solutions Inside</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/unleash-your-creativity-top-rated-alternatives-to-windows-10-photos/"><u>Unleash Your Creativity Top-Rated Alternatives to Windows 10 Photos</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-mouse-issue-how-to-restore-the-missing-cursor-effectively/"><u>Windows 10 Mouse Issue: How to Restore the Missing Cursor Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-restarts-uninvited/"><u>Windows 10 Restarts Uninvited</u></a></li>
+</ul></div>
 

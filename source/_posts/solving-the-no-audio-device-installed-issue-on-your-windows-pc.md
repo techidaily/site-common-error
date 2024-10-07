@@ -1,7 +1,7 @@
 ---
 title: Solving the 'No Audio Device Installed' Issue on Your Windows PC
-date: 2024-09-14T18:36:09.433Z
-updated: 2024-09-20T17:20:48.106Z
+date: 2024-10-02T16:14:51.466Z
+updated: 2024-10-06T17:42:27.560Z
 tags:
   - win11
   - win10
@@ -66,27 +66,27 @@ thumbnail: https://thmb.techidaily.com/13e7f7e7be76604c5dab6c596dcfa1c029fcc1516
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot-1200x699.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click**Other troubleshooters** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters-1200x699.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click on the**Run** button next to**Windows Update** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Troubleshooter-Windows-Update-1200x616.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Follow the on-screen instructions to complete the troubleshooting process.
 
@@ -109,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/13e7f7e7be76604c5dab6c596dcfa1c029fcc1516
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2aa01cd2e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Double click **Background Intelligent Transfer Service** .
@@ -123,9 +123,23 @@ thumbnail: https://thmb.techidaily.com/13e7f7e7be76604c5dab6c596dcfa1c029fcc1516
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3214c6b1e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Double click**Cryptographic Services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2d8b6d4e7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
@@ -134,6 +148,13 @@ thumbnail: https://thmb.techidaily.com/13e7f7e7be76604c5dab6c596dcfa1c029fcc1516
 **7)** Double click**Windows Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb327c20a47.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
@@ -163,21 +184,7 @@ thumbnail: https://thmb.techidaily.com/13e7f7e7be76604c5dab6c596dcfa1c029fcc1516
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3f4e427ba.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Restart your computer. Then run Windows Update see if this helps you get rid of the Windows Update service not running error.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 5: Update your device drivers
 
@@ -195,9 +202,23 @@ thumbnail: https://thmb.techidaily.com/13e7f7e7be76604c5dab6c596dcfa1c029fcc1516
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9e7d372aa0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to your each of your devices to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9f8a62a090.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Restart your computer. Then run you Windows Update to see if this resolves your problem.
 
@@ -216,5 +237,24 @@ thumbnail: https://thmb.techidaily.com/13e7f7e7be76604c5dab6c596dcfa1c029fcc1516
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-maximize-engagement-the-ultimate-list-of-youtube-growth-tactics/"><u>[New] In 2024, Maximize Engagement The Ultimate List of YouTube Growth Tactics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-visionguard-recorder-update-and-assessment-2023/"><u>[New] In 2024, VisionGuard Recorder Update and Assessment 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-logo-magic-sprucing-up-your-podcasts-visual-appeal/"><u>[New] Logo Magic Sprucing Up Your Podcast's Visual Appeal</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-definition-wonders-our-favorites-list/"><u>[Updated] High Definition Wonders Our Favorites List</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-buy-unveils-new-release-date-for-innovative-ryzen-ai-300-laptops-order-starting-june-28/"><u>Best Buy Unveils New Release Date for Innovative Ryzen AI 300 Laptops - Order Starting June 28</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/expert-recommended-4k-video-converters-free-trial-and-paid-options/"><u>Expert-Recommended 4K Video Converters (Free Trial & Paid Options)</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204366949-fix-windows-11s-bluetooth-connection-problems-with-these-simple-steps/"><u>Fix Windows 11'S Bluetooth Connection Problems with These Simple Steps!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify some outdated drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-hosted-wi-fi-connection-problems-on-windows-11/"><u>How to Resolve Hosted Wi-Fi Connection Problems on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/laptop-trackpad-malfunctions-in-windows-operating-systems-a-comprehensive-fix-for-win1087/"><u>Laptop TrackPad Malfunctions in Windows Operating Systems: A Comprehensive Fix for Win10/8/7</u></a></li>
+<li><a href="https://common-error.techidaily.com/miracast-not-supported-by-graphics-driver-fixed/"><u>Miracast: Not Supported by Graphics Driver [FIXED]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-fixing-the-kernel-event-error-144-on-your-system/"><u>Step-by-Step Guide: Fixing the Kernel Event Error 144 on Your System</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-overcoming-the-red-screen-challenge-in-windows-11/"><u>Step-by-Step Guide: Overcoming the Red Screen Challenge in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-overcoming-black-ops-n-death-glitches/"><u>Step-by-Step Troubleshooting: Overcoming Black Ops N' Death Glitches</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/top-tips-for-sharing-your-tiktoks-to-instagram-with-ease/"><u>Top Tips for Sharing Your TikToks to Instagram with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-step-by-step-correcting-error-e80240020-for-successful-windows-10-setup/"><u>Troubleshooting Step-by-Step: Correcting Error E80240020 for Successful Windows 10 Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-how-to-fix-diagnostic-monitoring-service-wont-start/"><u>Troubleshooting Steps: How to Fix 'Diagnostic Monitoring Service Won't Start'</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Fix for Windows 11 Update Problem (Error Code 0X800705b4) - Complete Guide
-date: 2024-09-25T04:34:08.972Z
-updated: 2024-10-01T21:29:56.186Z
+date: 2024-10-04T07:38:00.572Z
+updated: 2024-10-06T18:26:58.392Z
 tags:
   - win11
   - win10
@@ -52,13 +52,6 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Clear Exceptions box if there were any content in it.
 
  Then click**OK** .
@@ -71,6 +64,13 @@ Find and click to open Command Prompt from Start menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7) Run the commands below one by one.
 
  a) Type **netsh winhttp reset proxy**  and hit **Enter** .
@@ -80,13 +80,6 @@ Find and click to open Command Prompt from Start menu.
  c) Type **net start wuauserv**  and hit **Enter** .
 
 Now try to install Windows Updates now.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3\. Change DNS Servers
 
@@ -106,19 +99,6 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Locate Use the following DNS server addresses.
 
  Set**Preferred DNS server** to be**8.8.8.8**
@@ -130,13 +110,6 @@ Double-click on your active Network Adapter.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
 
 Now try to install Windows Updates now.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4\. Configure Updates Client
 
@@ -150,15 +123,36 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) On the right pane of AU key, double -click on **UseWUServer** , change its value data into**0** .
 
  Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
 
@@ -181,16 +175,10 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
@@ -214,14 +202,22 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-motion-animating-stories-on-instagram/"><u>[Updated] Mastering Motion Animating Stories on Instagram</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-the-art-of-filming-at-home-top-5-efficient-tricks/"><u>2024 Approved Master the Art of Filming at Home – Top 5 Efficient Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/fast-track-fixes-for-enhancing-laptop-keyboard-responsiveness/"><u>Fast-Track Fixes for Enhancing Laptop Keyboard Responsiveness</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-roundup-post-vlc-media-players/"><u>In 2024, The Ultimate Roundup Post-VLC Media Players</u></a></li>
-<li><a href="https://common-error.techidaily.com/mystery-hangs-over-random-pc-restarts-on-windows-10/"><u>Mystery Hangs Over Random PC Restarts on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-errors-during-system-initialization-pc-not-starting-right/"><u>Overcoming Errors During System Initialization: PC Not Starting Right?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solutions-for-overcoming-chatgpt-moderation-error-issues/"><u>Solutions for Overcoming ChatGPT 'Moderation Error' Issues</u></a></li>
-<li><a href="https://facebook.techidaily.com/streamlining-cross-network-uploads-instagram-reels-for-facebook/"><u>Streamlining Cross-Network Uploads: Instagram Reels for Facebook</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-quickly-solving-non-detected-usb-drives-problems/"><u>Troubleshooting Guide: Quickly Solving Non-Detected USB Drives Problems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweet-town-ranking-the-trending-threads/"><u>[New] 2024 Approved Tweet Town Ranking the Trending Threads</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-minecraft-lags-top-tips-and-tricks-for-optimal-performance/"><u>Banish Minecraft Lags: Top Tips & Tricks for Optimal Performance</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/capture-and-share-your-win10-gaming-life/"><u>Capture and Share Your Win10 Gaming Life</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-get-your-spacebar-working-again-in-the-latest-windows-11-update/"><u>Expert Tips to Get Your Spacebar Working Again in the Latest Windows 11 Update</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/exploring-the-distinctions-and-relationships-of-mpeg-4-vs-mp4-in-video-formats/"><u>Exploring the Distinctions & Relationships of MPEG-4 Vs. MP4 in Video Formats</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-implemented-overcome-your-keyboards-typewriting-malfunctions/"><u>Fix Implemented: Overcome Your Keyboard's Typewriting Malfunctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209815930-harmonizing-display-and-timing-monitor-support-now-restored/"><u>Harmonizing Display and Timing - Monitor Support Now Restored!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-dvd-compatibility-problems-in-windows/"><u>How to Resolve DVD Compatibility Problems in Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pioneering-methods-for-increased-srt-on-macoswindows/"><u>In 2024, Pioneering Methods for Increased SRT on macOS/Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-ultimate-quest-achieving-immaculate-upconversion-from-sdr-to-hdri/"><u>In 2024, The Ultimate Quest Achieving Immaculate Upconversion From SDR to HDRI</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-approach-stitching-gopro-sequences-in-holoscopic-clips/"><u>Innovative Approach Stitching GoPro Sequences in Holoscopic Clips</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-11-maintennance-essential-techniques-with-sfc-and-dism/"><u>Mastering Windows 11 Maintennance: Essential Techniques with SFC and DISM</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-shockwave-flash-functionality-on-google-chrome-fixing-the-crash-problem/"><u>Restoring Shockwave Flash Functionality on Google Chrome – Fixing the Crash Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-dilemma-of-fuzzy-font-ultimate-guide-to-sharpening-text-on-windows-10/"><u>Solving the Dilemma of Fuzzy Font: Ultimate Guide to Sharpening Text on Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/startup-steps-for-stream-money-in-periscope/"><u>Startup Steps for Stream Money in Periscope</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-artisans-blueprint-for-striking-image-collage-for-2024/"><u>The Artisan's Blueprint for Striking Image Collage for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformer-facilement-un-fichier-mpeg-en-format-3g2-avec-le-convertisseur-gratuit-de-movavi-en-ligne/"><u>Transformer Facilement Un Fichier MPEG en Format 3G2 Avec Le Convertisseur Gratuit De Movavi en Ligne</u></a></li>
 </ul></div>
 

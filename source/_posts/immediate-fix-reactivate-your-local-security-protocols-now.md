@@ -1,7 +1,7 @@
 ---
 title: "Immediate Fix: Reactivate Your Local Security Protocols Now"
-date: 2024-09-17T17:22:45.515Z
-updated: 2024-09-20T17:50:31.835Z
+date: 2024-10-05T07:36:37.879Z
+updated: 2024-10-07T02:34:47.265Z
 tags:
   - win11
   - win10
@@ -35,6 +35,19 @@ The remaster of**Total War: Rome** has been out with quite a slew of evolved fea
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Total War: ROME REMASTERED and Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: **Make sure your PC meets the minimum specifications for Total War: ROME REMASTERED**
 
 **Total War: ROME REMASTERED** has a set of hardware and system requirements in order for it to be played smoothly. If your copy of**Total War: ROME REMASTERED** crashes a lot on your PC, it’s time to check if your PC meets the requirements.
@@ -53,7 +66,23 @@ To check Windows Build of your PC:
 
 1. On your keyboard, press the**Windows logo** key![](https://images.drivereasy.com/wp-content/uploads/2020/08/Windows-logo-key.png) and**R** at the same time, then type **winver** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. In the window that pops up, you can check the exact version of the copy of Windows on your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/22-1.png)
 3. Once finished, click**OK** to exit the window.
 
@@ -66,6 +95,13 @@ To check the specs of your PC:
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You may need to upgrade the hardware of your computer if it fails to meet the specs.
 
@@ -88,13 +124,6 @@ To check the specs of your PC:
 4. Restart your computer for the changes to take effect.
 5. Launch Total War: ROME REMASTERED and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Run Steam as administrator
 
  Total War: ROME REMASTERED requires administrator privileges in order to access protected system resources. If the game or the game client doesn’t have the required permissions, you may encounter crash. So you should make sure to runSteam as administrator to see if it fixes the issue.
@@ -105,14 +134,14 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123-1.png)
 2. Click **Yes**  when UAC promots for permissions to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, launch Total War: ROME REMASTERED game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 4** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify game files on Steam
 
@@ -128,10 +157,16 @@ Here’s how:
 6. Re-launch Total War: ROME REMASTERED to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try **Fix 5** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Allow Steam through firewall
@@ -143,20 +178,29 @@ Here’s how:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run box. Then type **control firewall.cpl**  into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-1-1.png)
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall-1.png)
 3. Browse through the list of Allowed apps and features to see if Steam is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app-1.png)
 4. Once completed, click **OK** .
 5. Run the game in the client and see if it still crashes. If it’s still on-going, please move on to **Fix 6** .
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Install the latest patch
 
@@ -179,13 +223,6 @@ Here are the steps to perform a clean boot:
 4. Restart your computer, then test to see if the game still crashes.  
    * **If Total War: ROME REMASTERED stops crashing** , you can try repeating these steps, disabling half of the services each time until you isolate the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
    * **If Total War: ROME REMASTERED still crashes** , please continue to **Fix 8** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8:**Reinstall Total War: ROME REMASTERED and Steam**
 
@@ -210,5 +247,24 @@ Here are the steps to perform a clean boot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-remove-red-eye-from-photos-on-iphone-free/"><u>[New] How to Remove Red Eye From Photos on iPhone [Free]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-download-and-installation-made-easy-for-ez-grabber-users-for-2024/"><u>[Updated] Download and Installation Made Easy for EZ Grabber Users for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-shielding-imagery-best-practices-for-instagram-photowatermarking/"><u>[Updated] In 2024, Shielding Imagery Best Practices for Instagram Photowatermarking</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-roadmap-to-crafting-a-dynamic-youtube-presence-for-enterprise-and-individuals/"><u>[Updated] The Roadmap to Crafting a Dynamic YouTube Presence for Enterprise & Individuals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ais-influence-on-coding-efficiency/"><u>AI's Influence on Coding Efficiency</u></a></li>
+<li><a href="https://common-error.techidaily.com/cant-reach-windows-defender-smartscreen-here-are-some-possible-solutions/"><u>Can't Reach Windows Defender SmartScreen? Here Are Some Possible Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-correct-file-or-device-path-unavailable-on-pc-with-windows/"><u>Easy Steps to Correct File or Device Path Unavailable on PC With Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/font-loading-made-simple-how-to-enrich-your-iphones-typography/"><u>Font Loading Made Simple: How to Enrich Your iPhone's Typography</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-xperia-10-v-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Sony Xperia 10 V Bootloader Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-reno-8t-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Oppo Reno 8T Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-device-not-migrated-errors-during-upgrades-to-windows-10-expert-advice-and-fixes/"><u>Overcoming 'Device Not Migrated' Errors During Upgrades to Windows 10: Expert Advice and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-issues-with-stagnant-individual-configuration-options/"><u>Overcoming Issues with Stagnant Individual Configuration Options</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-how-to-resolve-amd-catalyst-control-center-wont-launch/"><u>Quick Solutions: How to Resolve 'AMD Catalyst Control Center Won't Launch'</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-installation-error-fixing-error-code-80240020-once-and-for-all/"><u>Resolving Windows 11 Installation Error: Fixing Error Code 80240020 Once and for All</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fix-silent-netflix-episodes-without-hitches/"><u>Step-by-Step Guide to Fix Silent Netflix Episodes Without Hitches</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-windows-10s-lost-bluetooth-fast-solutions-inside/"><u>Troubleshoot Windows 10'S Lost Bluetooth: Fast Solutions Inside!</u></a></li>
+</ul></div>
 

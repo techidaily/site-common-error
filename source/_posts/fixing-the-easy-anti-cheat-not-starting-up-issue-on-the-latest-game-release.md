@@ -1,7 +1,7 @@
 ---
 title: Fixing the 'Easy Anti-Cheat Not Starting Up' Issue on the Latest Game Release
-date: 2024-09-17T16:01:47.912Z
-updated: 2024-09-20T18:18:56.776Z
+date: 2024-10-03T07:36:45.031Z
+updated: 2024-10-06T23:20:40.565Z
 tags:
   - win11
   - win10
@@ -63,6 +63,13 @@ Now your print to PDF should work properly.
   
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 3: Set Microsoft Print to PDF as default printer
 
 [Windows 10 users](#h-in-windows-10)
@@ -86,27 +93,20 @@ Now your print to PDF should work properly.
 
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure you set**Category** as your view-by. Then find**View devices and printers** . Click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Control-Panel-View-devices-and-printers-1-1200x811.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down and click**Printers & scanners** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-1200x827.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Find**Microsoft Print to PDF** and click on it.
 
@@ -144,10 +144,10 @@ Now your print to PDF should work properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Tick on **Add a local printer or network printer with manual settings** . Then click **Next** .
@@ -166,9 +166,23 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  10) Click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/15.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  11) You have restored the Microsoft Print to PDF. Click **Finish**  to complete the process.
  You can use it properly now.
@@ -179,16 +193,16 @@ Now your print to PDF should work properly.
 
 ![Windows 11 - how to open the Control Panel](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure you set **Category**  as your view-by. Then find **View devices and printers** . Click on it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Control-Panel-View-devices-and-printers-1-1200x811.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Scroll down and click **Printers & scanners** .
 
@@ -202,13 +216,6 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Microsoft-Print-to-PDF-Remove-1200x801.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Back to the Printers & scanners window, you should see the button**Add device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Printers-and-scanners-Add-a-device-1200x774.jpg)
@@ -217,6 +224,19 @@ Now your print to PDF should work properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-The-printer-that-I-want-isnt-listed-1200x743.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8) Tick**Add a local printer or network printer with manual settings** , then click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Add-a-local-printer-or-network-printer-with-manual-settings.jpg)
@@ -224,6 +244,13 @@ Now your print to PDF should work properly.
  9) Select**PORTPROMPT: (Local Port)** from the drop-down list, then click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-PORTPROMPT-Local-Port.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  10) From the left column, select**Microsoft** . From the right column, select**Microsoft Print To PDF** . Then click**Next** .
 
@@ -250,5 +277,20 @@ Now your print to PDF should work properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-share-a-private-youtube-video-with-google-account-for-2024/"><u>[New] How to Share a Private YouTube Video with Google Account for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-behind-the-scenes-of-iphones-audio-alteration-techniques/"><u>[New] In 2024, Behind the Scenes of iPhone's Audio Alteration Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-proficient-use-of-obs-studio-on-your-android-phone/"><u>[New] Proficient Use of OBS Studio on Your Android Phone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-sound-seekers-sanctuary-download-and-listen-to-songs/"><u>[New] Sound Seeker's Sanctuary Download & Listen To Songs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-apple-iphone-6-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 6 When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-win32-rpc-server-unavailable-error-code-0xc0000098-fixes-that-work-for-windows-users/"><u>Decoding Win32 RPC Server Unavailable (Error Code 0Xc0000098): Fixes That Work for Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-setting-up-automatic-sms-reminders-from-your-iphone/"><u>Guide: Setting Up Automatic SMS Reminders From Your iPhone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-stepwise-approach-to-successfully-posting-srt-files-in-new-media/"><u>In 2024, A Stepwise Approach to Successfully Posting SRT Files in New Media</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-your-own-melodic-treasure-trove-in-youtubes-vault-for-2024/"><u>Locating Your Own Melodic Treasure Trove in YouTube's Vault for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/missing-charge-indicators-on-windows-11-easy-fixes-for-a-fully-functional-pc/"><u>Missing Charge Indicators on Windows 11 – Easy Fixes for a Fully Functional PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-to-problems-handling-and-correcting-windows-camera-error-code-0xa00f4292/"><u>Say Goodbye to Problems: Handling and Correcting Windows Camera Error Code 0Xa00f4292</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-successful-network-startup-problem-solved-in-dbfz/"><u>Troubleshooting Successful! Network Startup Problem Solved in DBFZ</u></a></li>
+<li><a href="https://common-error.techidaily.com/unveiling-common-issues-and-fixes-for-a-dark-razer-keyboard-screen/"><u>Unveiling Common Issues and Fixes for a Dark Razer Keyboard Screen</u></a></li>
+</ul></div>
 

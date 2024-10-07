@@ -1,7 +1,7 @@
 ---
 title: "Stop Playing Frustratingly: Fix CSGO Crash Problems Instantly"
-date: 2024-09-16T16:35:04.712Z
-updated: 2024-09-20T17:18:16.984Z
+date: 2024-09-30T07:51:26.645Z
+updated: 2024-10-07T10:13:18.146Z
 tags:
   - win11
   - win10
@@ -66,9 +66,24 @@ thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13724b1f8d6.jpg)
 3. Click the**Update** button next to a flagged graphics card driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -89,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **For Windows 7:**
 
 1. Open**Control Panel** .
@@ -103,10 +125,10 @@ thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 4: Change the System unattended sleep timeout to a longer time
@@ -122,6 +144,13 @@ thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137510499e6.png)  
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
 2. Navigate to the following directory:  
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
@@ -129,6 +158,14 @@ thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5
 3. In the right pane, double-click on**Attributes** to modify it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
 
@@ -141,13 +178,6 @@ thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
@@ -155,13 +185,6 @@ thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376fc0269a.jpg)
 6. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Check to see if the computer keeps going to sleep.
 
@@ -184,5 +207,20 @@ thumbnail: https://thmb.techidaily.com/e1ce3f3e6442fac637b9a262af6a28dc4e5da35e5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-giggles-galore-celebrating-the-funniest-web-content-creators/"><u>[New] In 2024, Giggles Galore Celebrating the Funniest Web Content Creators</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-content-extraction-mastered-discover-the-5-apps-for-2024/"><u>[Updated] FB Content Extraction Mastered - Discover the #5 Apps for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-laugh-out-loud-free-memetic-creators-for-2024/"><u>[Updated] Laugh Out Loud FREE Memetic Creators for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-enhance-user-interface-controls-modifying-snapchat-video-speed/"><u>2024 Approved Enhance User Interface Controls - Modifying Snapchat Video Speed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/fixing-the-single-channel-headset/"><u>Fixing the Single-Channel Headset</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-realme-10t-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Realme 10T 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-revamped-look-at-sonys-s6500-bdp/"><u>In 2024, Revamped Look at Sony's S6500 BDP</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitgrabber-mobile-app-for-downloading-tweets-videos/"><u>In 2024, TwitGrabber Mobile App for Downloading Tweets' Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-troubles-learn-to-resolve-inactive-letter-buttons-on-win-1011-systems/"><u>Keyboard Troubles? Learn to Resolve Inactive Letter Buttons on Win 10/11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-out-of-memory-in-red-dead-redemption-2-with-a-larger-page-file-solution/"><u>Overcome Out of Memory in Red Dead Redemption 2 with a Larger Page File Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-shadowplay-setup-failures-on-nvidia-gpus/"><u>Troubleshooting Tips for Fixing ShadowPlay Setup Failures on Nvidia GPUs</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-non-responsive-usb-mouse-solutions-for-laptops/"><u>Troubleshooting Your Non-Responsive USB Mouse: Solutions for Laptops!</u></a></li>
+<li><a href="https://common-error.techidaily.com/yac553-yamahaaturbosound-ii-sound-module-based-on-the-ymf794cymu794c-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of18/"><u>YAC553 - Yamaha'aturboSound II Sound Module Based on the YMF794C/YMU794C (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
+</ul></div>
 

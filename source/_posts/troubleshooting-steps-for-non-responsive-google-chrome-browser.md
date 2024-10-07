@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Non-Responsive Google Chrome Browser
-date: 2024-09-19T17:48:38.713Z
-updated: 2024-09-20T19:28:42.804Z
+date: 2024-10-05T09:13:20.419Z
+updated: 2024-10-06T21:03:18.069Z
 tags:
   - win11
   - win10
@@ -73,16 +73,16 @@ To do so:
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
@@ -91,18 +91,18 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
 6. Now with microphone set as default device and the volume turned up, try playing some audio on your A40 headset and see if it works. If it does, then the **Astro A40 mic not working** problem is solved. If no, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your audio driver
 
@@ -119,15 +119,22 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -159,5 +166,24 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-cut-to-the-chase-techniques-for-tightening-youtube-content-for-2024/"><u>[New] Cut to the Chase Techniques for Tightening YouTube Content for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-scrutinizing-instagrams-video-post-limit/"><u>[Updated] In 2024, Scrutinizing Instagram's Video Post Limit</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-nokia-c300-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Nokia C300 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/festivals-and-rituals/"><u>Festivals and Rituals</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-that-irritatingly-flashing-cursor-on-your-screen-tips-and-tricks/"><u>Fix That Irritatingly Flashing Cursor on Your Screen - Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-laptops-charging-issue-instantly-simple-steps/"><u>Fix Your Laptop's Charging Issue Instantly - Simple Steps!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-implemented-for-pubg-building-rendering-issues-enjoy-uninterrupted-gaming/"><u>Fixes Implemented For PUBG Building Rendering Issues - Enjoy Uninterrupted Gaming</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-motorola-edge-2023-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Motorola Edge 2023? Try These Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/icue-troubleshooting-made-easy-resolving-undetected-device-errors/"><u>ICUE Troubleshooting Made Easy: Resolving Undetected Device Errors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-nows-vr-device-showcase-and-analysis/"><u>In 2024, Now’s VR Device Showcase & Analysis</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-comprehensible-approach-to-multisnapping-videos/"><u>In 2024, The Comprehensible Approach to Multisnapping Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-6-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 6 Passcode without a Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-11-casting-hurdles-a-comprehensive-fix-article/"><u>Overcoming Windows 11 Casting Hurdles: A Comprehensive Fix Article</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-no-driver-devices-detected-successful-steps-for-windows-7-setup/"><u>Resolving 'No Driver Devices Detected': Successful Steps for Windows 7 Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-solution-to-the-troublesome-disk-read-error-in-windows-10/"><u>The Ultimate Solution to the Troublesome 'Disk Read Error' In Windows 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlock-ultimate-clarity-choosing-the-perfect-4k-screen/"><u>Unlock Ultimate Clarity Choosing the Perfect 4K Screen</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-from-clips-to-masterpieces-top-highlight-video-makers-revealed/"><u>Updated In 2024, From Clips to Masterpieces Top Highlight Video Makers Revealed</u></a></li>
+</ul></div>
 

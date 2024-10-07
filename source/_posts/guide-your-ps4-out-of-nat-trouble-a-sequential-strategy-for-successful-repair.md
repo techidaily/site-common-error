@@ -1,7 +1,7 @@
 ---
 title: "Guide Your PS4 Out of NAT Trouble: A Sequential Strategy for Successful Repair"
-date: 2024-09-26T18:32:11.649Z
-updated: 2024-10-01T22:56:54.442Z
+date: 2024-09-30T10:59:25.383Z
+updated: 2024-10-06T19:00:33.011Z
 tags:
   - win11
   - win10
@@ -46,37 +46,38 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -90,15 +91,16 @@ You can update your drivers automatically with either the [**Free**](https://too
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
- You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
+ You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
@@ -126,18 +128,21 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-cutting-edge-capture-8-latency-free-tools-for-2024/"><u>[New] Cutting-Edge Capture 8 Latency-Free Tools for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-rapidly-increase-views-effective-growth-hacks-for-channels/"><u>[New] In 2024, Rapidly Increase Views Effective Growth Hacks for Channels</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-inside-the-core-a-thorough-insight-into-xstudio-video-studio-for-2024/"><u>[Updated] Inside the Core A Thorough Insight Into XStudio Video Studio for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-itel-a70-frp-bypass-by-drfone-android/"><u>About Itel A70 FRP Bypass</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-strategies-to-correctly-address-error-code-31-on-a-windows-machine/"><u>Comprehensive Strategies to Correctly Address Error Code 31 on a Windows Machine</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminating-the-unwanted-mouse-double-click-problem-expert-advice/"><u>Eliminating the Unwanted Mouse Double-Click Problem: Expert Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-error-code-0x887a0006-instantly-a-step-by-step-guide/"><u>Fix Error Code 0X887A0006 Instantly: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/hacked-out-the-launch-glitches-in-fortnite/"><u>Hacked Out the Launch Glitches in Fortnite</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-dilemma-fixing-windows-update-error-code-80070103/"><u>Resolving the Dilemma: Fixing Windows Update Error Code 80070103</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tips-on-resolving-persistent-system-freezes-and-hangs/"><u>Step-by-Step Tips on Resolving Persistent System Freezes and Hangs</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-11-pro-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone 11 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-meme-making-tools-discover-your-favorites-for-2024/"><u>Top Meme-Making Tools Discover Your Favorites for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win10-addressing-usb-non-responsive/"><u>Win10: Addressing USB Non-Responsive</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-basic-steps-flip-video-using-vlc-software/"><u>[New] 2024 Approved Basic Steps Flip Video Using VLC Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-your-computer-appears-to-be-correctly-configured-but-the-device-or-resource-is-not-responding/"><u>[SOLVED] Your Computer Appears to Be Correctly Configured, but the Device or Resource Is Not Responding</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-become-a-sticker-master-turning-any-gif-into-an-icon-on-messaging-apps/"><u>[Updated] Become a Sticker Master Turning Any GIF Into an Icon on Messaging Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-checklist-for-perfectly-crafted-podcast-titles-including-ideas/"><u>[Updated] The Ultimate Checklist for Perfectly Crafted Podcast Titles, Including Ideas</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screen-capturing-made-easy-best-apps-for-windows-10/"><u>2024 Approved Screen Capturing Made Easy Best Apps for Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/accelerate-window-11-closure-time-with-these-expert-tips-and-tricks/"><u>Accelerate Window 11 Closure Time with These Expert Tips and Tricks</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvd-to-mp4-transformation-made-easy-with-winx-free-ripper-software-compatible-with-windows-10-and-iphones/"><u>DVD to MP4 Transformation Made Easy with WinX Free Ripper Software Compatible with Windows 10 and iPhones</u></a></li>
+<li><a href="https://common-error.techidaily.com/easily-repair-unresponsive-buttons-on-your-hp-laptop-step-by-step-guide/"><u>Easily Repair Unresponsive Buttons on Your HP Laptop - Step-by-Step Guide!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/guia-completo-para-eps-arquivos-entendendo-as-imagens-do-formato-eps-e-as-dicas-de-abrir-com-exito/"><u>Guia Completo Para .eps Arquivos: Entendendo as Imagens Do Formato Eps E as Dicas De Abrir Com Êxito</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-nokia-c12-plus-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Nokia C12 Plus to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/lower-your-pcs-cpu-load-by-correcting-audio-device-isolation-issues-in-windows/"><u>Lower Your PC's CPU Load by Correcting Audio Device Isolation Issues in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-fix-for-unknown-usb-device-and-port-issues-under-windows-11/"><u>Master the Fix for 'Unknown USB Device' And Port Issues Under Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/revitalize-your-system-with-sfcdism-in-windows-11/"><u>Revitalize Your System with SFC/DISM in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-overcoming-the-fatal-exception-error-in-windows-code-0xc00000e9/"><u>Step-by-Step Solutions for Overcoming the Fatal Exception Error in Windows (Code 0XC00000E9)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/tackling-the-challenge-of-locating-fbs-most-watched-videos-2e23/"><u>Tackling the Challenge of Locating Fb's Most-Watched Videos (2E23)</u></a></li>
 </ul></div>
 

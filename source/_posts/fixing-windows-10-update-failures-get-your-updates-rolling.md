@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows 10 Update Failures - Get Your Updates Rolling
-date: 2024-09-27T22:53:08.249Z
-updated: 2024-10-01T21:48:19.492Z
+date: 2024-10-02T00:54:16.778Z
+updated: 2024-10-06T19:38:34.855Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
  Windows has a built-in troubleshooter that can check and fix issues with Windows Update. You should run it when an error occurs on your Windows Update. To do so:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### on Windows 10
 
 **1)** On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
@@ -73,45 +66,30 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot-1200x699.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click**Other troubleshooters** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters-1200x699.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click on the**Run** button next to**Windows Update** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Troubleshooter-Windows-Update-1200x616.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Follow the on-screen instructions to complete the troubleshooting process.
 
 **6)** Run your Windows Update again and see if your error is fixed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Check for malicious software
 
@@ -129,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2aa01cd2e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Double click **Background Intelligent Transfer Service** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb31524505e.jpg)
@@ -141,27 +126,27 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2d8b6d4e7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2f73c5553.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **7)** Double click**Windows Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb327c20a47.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Make sure the_startup type_ is set to**Automatic** . Then click the**Start** button (if the Start button is_in gray_ , click the**Stop** button and then click the**Start** button). Then click**OK** to close the window.
 
@@ -170,10 +155,10 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 **7)** Close the Services snap-in and restart your computer. Then check to see if this resolves your problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Clear the SoftwareDistribution folder
@@ -186,6 +171,13 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb2aa01cd2e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Windows Update** and then click**Stop** (the service).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3bc020986.jpg)
@@ -197,6 +189,13 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 **5)**  Restore the_Services_ snap-in. Then click**Windows Update** and click**Start** (the service).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5acb3f4e427ba.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Restart your computer. Then run Windows Update see if this helps you get rid of the Windows Update service not running error.
 
@@ -220,6 +219,13 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ac9f8a62a090.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Restart your computer. Then run you Windows Update to see if this resolves your problem.
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -239,19 +245,18 @@ thumbnail: https://thmb.techidaily.com/655813b140cebedb2250090e80755301611474980
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pro-iphone-hdr-photos-made-easy/"><u>[Updated] 2024 Approved Pro iPhone HDR Photos Made Easy</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-top-notch-hacks-navigating-instagrams-forgotten-features/"><u>[Updated] 2024 Approved Top-Notch Hacks Navigating Instagram's Forgotten Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204929300-easy-guide-stop-that-constant-cursor-fix-blink-issue-now/"><u>Easy Guide: Stop That Constant Cursor - Fix Blink Issue Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-incompatible-drivers-can-cause-ftdi-memory-verification-failure/"><u>How Incompatible Drivers Can Cause FTDI Memory Verification Failure</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-oddworld-soulstorms-startup-problems-on-a-personal-laptop-solution-included/"><u>How To Resolve Oddworld: Soulstorm's Startup Problems On A Personal Laptop (Solution Included)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-optimal-tag-selection-elevate-your-videos-online-presence/"><u>In 2024, Optimal Tag Selection Elevate Your Video's Online Presence</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-screen-selection-dilemma-ultrawide-monitors-versus-uhd-4k/"><u>In 2024, Screen Selection Dilemma UltraWide Monitors versus UHD 4K</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-htc-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track HTC Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-look-analyzing-user-experience-functionality-and-security-on-the-line-platform/"><u>Inside Look: Analyzing User Experience, Functionality & Security on the Line Platform</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-14-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone 14 Pro iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-definitive-guide-to-repairing-windows-update-error-0x80244n2c-proven-solutions-applied/"><u>The Definitive Guide to Repairing Windows Update Error 0X80244n2c - Proven Solutions Applied</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-unresponsive-user-configuration-options-easily/"><u>Troubleshooting Unresponsive User Configuration Options Easily</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720062407294-upgrade-your-win-11-drivers-in-minutes/"><u>Upgrade Your Win 11 Drivers in Minutes!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-navigating-the-start-of-a-zoom-call-android-edition/"><u>[Updated] Navigating the Start of a Zoom Call Android Edition</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-clip-on-lens-accessories-and-stabilizers/"><u>2024 Approved Clip-On Lens Accessories and Stabilizers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-from-blurry-to-sharp-mastering-vce-version-22/"><u>2024 Approved From Blurry to Sharp Mastering VCE Version 2.2</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/analyzing-the-features-of-vegaspros-latest-release-for-2024/"><u>Analyzing the Features of VegasPro's Latest Release for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-blizzards-wow-lags-tips-for-a-smooth-gaming-experience/"><u>Beat Blizzard's WoW Lags: Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-practice-8-prompts-to-improve-task-focus-and-decrease-distractions/"><u>Best Practice 8 Prompts to Improve Task Focus & Decrease Distractions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/first-impressions-of-samsungs-latest-earbuds-the-galaxy-budsplus/"><u>First Impressions of Samsung's Latest Earbuds - The Galaxy Buds+</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-plugged-in-but-not-charging-issue-on-windows-710-pcs/"><u>Fix 'Plugged In but Not Charging' Issue on Windows 7/10 PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-non-responsive-spacebar-on-microsofts-latest-os-windows-11/"><u>How to Repair a Non-Responsive Spacebar on Microsoft's Latest OS, Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-oppo-a38-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Oppo A38 online without jailbreak</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solution-for-unseen-bluetooth-option-in-computer-device-manager/"><u>Quick Solution for Unseen Bluetooth Option in Computer Device Manager</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/real-time-recording-tech-that-never-delays-you-for-2024/"><u>Real-Time Recording Tech That Never Delays You for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-msmpengexe-high-cpu-usage-on-windows-10/"><u>Resolved: MsMpEng.exe High CPU Usage on Windows 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Trouble with HP Laptop USB Ports? Effective Solutions at Hand
-date: 2024-09-15T18:54:35.047Z
-updated: 2024-09-20T16:12:40.002Z
+date: 2024-09-30T19:50:22.614Z
+updated: 2024-10-06T20:05:25.533Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ Here’s how:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2:  Change power management settings for USB Root Hubs
 
 Tweaking the properties in **USB Root Hub**  devices is another proven effective way to solve our**USB ports not working on HP laptop** issue. To do this:
@@ -61,17 +68,25 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 3: Update the drivers for your USB devices
 
@@ -92,10 +107,16 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -125,5 +146,20 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-play-anywhere-anytime-the-ultimate-collection-of-the-best-gb-advance-emulators-on-pcs-for-2024/"><u>[Updated] Play Anywhere, Anytime The Ultimate Collection of the Best GB Advance Emulators on PCs for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-c51-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/audio-woes-in-win-11-ends-steps-taken/"><u>Audio Woes in Win 11 Ends: Steps Taken</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-electrolytes-for-hero5-authentic-and-3rd-party-companies-for-2024/"><u>Best Electrolytes for Hero5 - Authentic & 3Rd Party Companies for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/creme-brulee/"><u>Crème Brûlée</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-the-windows-sound-driver-high-resource-utilization-problem/"><u>Diagnosing and Fixing the Window's Sound Driver High Resource Utilization Problem</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/economical-dslrs-for-the-cost-conscious/"><u>Economical DSLRs for the Cost-Conscious</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-windows-11-sound-settings-issue-how-to-restore-volume-functionality/"><u>Fix Windows 11 Sound Settings Issue: How to Restore Volume Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-resolve-the-critical-fatal-error-code-1603-in-software-setup/"><u>How to Successfully Resolve the Critical Fatal Error (Code 1603) in Software Setup</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-elevate-your-content-a-guide-to-engaging-live-thumbnails/"><u>In 2024, Elevate Your Content A Guide to Engaging Live Thumbnails</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-6-plus-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 6 Plus to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-to-rdr2-memory-errors-boost-your-page-file-size-now/"><u>Quick Solutions to RDR2 Memory Errors: Boost Your Page File Size Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-lengthy-shutdown-delays-in-windows-10-systems/"><u>Resolving the Lengthy Shutdown Delays in Windows 10 Systems</u></a></li>
+</ul></div>
 

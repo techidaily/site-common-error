@@ -1,7 +1,7 @@
 ---
 title: "SteelSeries Arctis 5 Mute Mystery: Effective Solutions to Restore Mic Functionality"
-date: 2024-09-30T23:46:11.354Z
-updated: 2024-10-01T18:36:41.778Z
+date: 2024-10-05T00:28:11.633Z
+updated: 2024-10-07T04:53:58.802Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
 3. [**Adjust your audio settings**](#F3)
 4. [**Install the latest SteelSeries Engine software**](#F4)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
  If your **SteelSeries Arctis 5 microphone is not working** , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -40,13 +47,6 @@ Here’s how to do it:
  1) On your keyboard, press **the Windows logo key** and type microphone, then click on Microphone privacy settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
@@ -61,16 +61,10 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
@@ -85,18 +79,19 @@ Here’s how to do it:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -114,16 +109,10 @@ To do so:
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
@@ -133,10 +122,10 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Install the latest SteelSeries Engine software
@@ -170,14 +159,20 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-history-enthusiasts-guide-to-inspiring-youtube-channels-for-2024/"><u>[New] History Enthusiasts' Guide to Inspiring YouTube Channels for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/from-pitch-black-to-bright-ideas-repairing-full-screen-darkness-in-google-chrome/"><u>From Pitch Black to Bright Ideas: Repairing Full-Screen Darkness in Google Chrome</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-restoring-the-print-screen-feature-with-windowsplusshiftpluss-on-modern-windows-systems/"><u>Guide to Restoring the 'Print Screen' Feature with Windows+Shift+S on Modern Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-restoring-visible-touchpad-pointer-on-windows-11/"><u>Guide to Restoring Visible Touchpad Pointer on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-restoring-vcruntime140dll-file-to-fix-your-windows-10-app-startup-errors/"><u>Guide: Restoring VCRUNTIME140.dll File to Fix Your Windows 10 App Startup Errors</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-6s-plus-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone 6s Plus Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-through-the-codec-complexity-av1-vs-vp9/"><u>In 2024, Navigating Through the Codec Complexity AV1 Vs. VP9</u></a></li>
-<li><a href="https://techidaily.com/inside-scoop-on-high-performance-hardware-at-toms-tech-corner/"><u>Inside Scoop on High-Performance Hardware at Tom's Tech Corner</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-windows-7-mic-expert-solutions-for-audio-trouble-spots/"><u>Reviving Your Windows 7 Mic: Expert Solutions for Audio Trouble Spots</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-audio-outliers-best-sound-distortion-apps-for-your-device-for-2024/"><u>[Updated] Audio Outliers Best Sound Distortion Apps for Your Device for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-melody-filled-visuals-the-fusion-project/"><u>[Updated] In 2024, Melody-Filled Visuals The Fusion Project</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-navigating-video-streaming-tools-a-focus-on-obs-youtube-and-twitch/"><u>[Updated] Navigating Video Streaming Tools A Focus on OBS, YouTube & Twitch</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-personal-growth-chronicles-for-youtube-audience/"><u>[Updated] Personal Growth Chronicles for YouTube Audience</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211218181-address-counterarguments-eg-some-may-argue-that-other-qualities-are-more-important-for-professional-success-and-rebut-them-with-convincing-evidence/"><u>Address Counterarguments (E.g., some May Argue that Other Qualities Are More Important for Professional Success) and Rebut Them with Convincing Evidence</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-the-latest-rumored-sony-virtual-reality-headset/"><u>All You Need to Know About the Latest Rumored Sony Virtual Reality Headset</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-y78plus-t1-edition-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-shattering-synthetic-statistics-on-youtube/"><u>In 2024, Shattering Synthetic Statistics on YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-steam-server-accessibility-issues/"><u>Resolved: Fixing Steam Server Accessibility Issues</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/slicedmedia-studio/"><u>SlicedMedia Studio</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-hard-drive-not-detected-problems-on-your-pc-resolved/"><u>The Ultimate Fix for 'Hard Drive Not Detected' Problems on Your PC [RESOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209221170-troubleshoot-and-fix-disk-read-errors-on-your-windows-10-pc-today/"><u>Troubleshoot and Fix Disk Read Errors on Your Windows 10 PC Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-when-your-system-cant-find-a-required-module/"><u>Troubleshooting When Your System Can’t Find a Required Module</u></a></li>
+<li><a href="https://common-error.techidaily.com/verify-organization-level-settings-enforcement-on-your-windows-machine/"><u>Verify Organization-Level Settings Enforcement on Your Windows Machine</u></a></li>
 </ul></div>
 

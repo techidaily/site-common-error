@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Windows 11 Won't Sleep Issue"
-date: 2024-09-29T02:15:06.490Z
-updated: 2024-10-02T03:25:49.450Z
+date: 2024-10-01T05:18:00.114Z
+updated: 2024-10-06T23:27:16.020Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/29a96f3bcc3b841b4f8961d6c829c37b0d1cbb55b
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 3: Adjust your virtual memory**
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when performing an intensive task, Windows will dip into virtual memory for temporary file storage.
@@ -88,40 +95,13 @@ thumbnail: https://thmb.techidaily.com/29a96f3bcc3b841b4f8961d6c829c37b0d1cbb55b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d4b15900.png)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Go to the **Advanced** tab again, and choose**Change…**  in the Virtual memory section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d6d0a83c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Ensure the **Automatically manage paging file size for all drives** checkbox is**NOT** ticked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376da7f418e.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Select your windows drive (the hard drive or partition that has Windows installed on it – usually **C:** )**,** and enter an Initial size and Maximum size for your virtual memory:
 
@@ -135,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/29a96f3bcc3b841b4f8961d6c829c37b0d1cbb55b
  If you’re still having problems with Windows 10 hanging after adjusting your virtual memory, try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 4: Repair your system files**
 
@@ -151,6 +138,13 @@ thumbnail: https://thmb.techidaily.com/29a96f3bcc3b841b4f8961d6c829c37b0d1cbb55b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -163,19 +157,6 @@ thumbnail: https://thmb.techidaily.com/29a96f3bcc3b841b4f8961d6c829c37b0d1cbb55b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Option 2 – Manually
 
  Microsoft makes it easy for you to get your original system files back. It has an in-built tool called System File Checker that will restore any broken or missing system files that could be causing your PC to freeze.
@@ -183,13 +164,6 @@ thumbnail: https://thmb.techidaily.com/29a96f3bcc3b841b4f8961d6c829c37b0d1cbb55b
  1) Press the**Windows key** on your keyboard, then type**cmd** (DON’T press Enter). Windows will display a list of programs that match your search. Right-click**Command Prompt** and choose**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-as-administrator.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If prompted to provide administrator permission, click**Yes** .
 
@@ -209,6 +183,13 @@ sfc /scannow
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 5: Run a memory check**
 
  A faulty memory card is one of the most common causes of computer freezes. So before you invest in a new computer, check to see if your memory card is at fault. Microsoft has a built-in tool to help you do this.
@@ -217,27 +198,33 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58623a9965e70.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) If you want to check for problems immediately, click **Restart now and check for problems(recommended)** . If you want to check later, click **Check for problems the next time I start my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb6930a9d3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Windows will then restart, and you’ll see this page showing the progress of the check and the number of passes it will run on memory.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdb698e7b6b.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you don’t see any errors here, your memory card probably isn’t the problem, and you should try the next fix.
 
@@ -254,10 +241,10 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a917ba7f6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Locate the hard drive you’d like to check, right-click on it and choose**Properties** .
@@ -295,6 +282,13 @@ sfc /scannow
  3) Both **C1E Function** and**Intel(R) C-STATE tech** should be **Disabled** . If they’re not, use your keyboard up and down arrows to navigate the list of options, highlight the setting you want to change, press Enter on your keyboard, then press the up or down arrow on your keyboard to change the value to Disabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/intelr-c-state-tech.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After changing these settings, save and exit the BIOS settings as per the instructions on your screen, then restart your computer again.
 
@@ -345,16 +339,24 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-unusual-windows-stop-affects-cpu-usage/"><u>[FIXED] Unusual Windows Stop Affects CPU Usage</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-ultimate-free-timers-for-daily-use/"><u>[Updated] 2024 Approved Ultimate Free Timers for Daily Use</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-unlocking-hidden-images-on-snapchat/"><u>[Updated] 2024 Approved Unlocking Hidden Images on Snapchat</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-8-best-tablets-for-photo-editing-worth-a-try-filmora/"><u>2024 Approved 8 Best Tablets for Photo Editing Worth a Try - Filmora</u></a></li>
-<li><a href="https://common-error.techidaily.com/5-proven-fixes-for-restoring-touchscreen-responsiveness-in-windows-10/"><u>5 Proven Fixes for Restoring Touchscreen Responsiveness in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211291289-constraint-c-use-a-template-like-see-event-historical-event-date-event-description-this-relates-to-economic-term-as-it-exemplifies/"><u>Constraint C: Use a Template Like See Event [Historical Event Date]: [Event Description]. This Relates to '[Economic Term]' As It Exemplifies</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a25-5g-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Samsung Galaxy A25 5G support MKV video files?</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-0x80070490-windows-update-error-successfully/"><u>How to Fix the 0X80070490 Windows Update Error Successfully</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-10-video-file-transcoder-tools-convert-vob-files-to-avi-format-on-windows-mac-and-online-platforms/"><u>Top 10 Video File Transcoder Tools: Convert VOB Files to AVI Format on Windows, Mac & Online Platforms</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-the-best-batch-mp3-conversion-services-with-text-output-compatible-with-smoothvideopro/"><u>Updated In 2024, The Best Batch MP3 Conversion Services with Text Output – Compatible with SmoothVideoPro</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-how-to-change-youtube-video-playback-speed-desktopmobile/"><u>[New] 2024 Approved How to Change YouTube Video Playback Speed [Desktop/Mobile]</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-know-how-record-ipad-display-for-2024/"><u>[Updated] Essential Know-How Record iPad Display for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-sunlit-scenes-android-brighten-tips/"><u>2024 Approved Sunlit Scenes Android Brighten Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-deadlock-successful-strategies-for-fixing-irreparable-directx-issues/"><u>Bypassing the Deadlock: Successful Strategies for Fixing Irreparable DirectX Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x8024402c-on-windows-updates-a-comprehensive-fix-tutorial/"><u>Error 0X8024402c on Windows Updates - A Comprehensive Fix Tutorial</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y78-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y78 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-y100a-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo Y100A</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-samsung-galaxy-f14-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Samsung Galaxy F14 5G Is Unlocked</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-gif-software-ranked-apples-favorites/"><u>In 2024, Leading GIF Software Ranked Apple's Favorites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-your-podcast-potential-on-ios-from-script-to-success/"><u>In 2024, Unlocking Your Podcast Potential on iOS From Script to Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-performance-lags-in-windows-11-a-step-by-step-guide/"><u>Overcoming Performance Lags in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-2021s-common-browser-initialization-glitches/"><u>Resolve 2021'S Common Browser Initialization Glitches</u></a></li>
+<li><a href="https://network-issues.techidaily.com/retrieved-missing-wireless-adapter-in-win10-configuration/"><u>Retrieved Missing Wireless Adapter in Win10 Configuration</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-guide-to-adding-djay-skins-in-kodi-version-19/"><u>Step-by-Step Guide to Adding DJay Skins in Kodi Version 19</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-the-failed-to-load-client-profile-error-caused-by-incorrect-side-by-side-settings-in-windows-10/"><u>Step-by-Step Solution for the 'Failed To Load Client Profile' Error Caused by Incorrect Side-by-Side Settings in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204813863-troubleshooting-guide-for-total-war-rome-remastered-stability-issues-solution-found/"><u>Troubleshooting Guide for Total War Rome Remastered Stability Issues - SOLUTION FOUND</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-unpairing-and-pairing-airpods-to-your-window-laptopdesktop-2024-update/"><u>Troubleshooting Steps for Unpairing and Pairing AirPods to Your Window Laptop/Desktop - 2024 Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-solving-the-mystery-of-sudden-computer-shutdowns/"><u>Troubleshooting: Solving the Mystery of Sudden Computer Shutdowns</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203397428-windows-update-failure-overcome-error-8007000e-with-ease-and-speed/"><u>Windows Update Failure? Overcome Error 8007000E with Ease and Speed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Solving Unsuccessful Attempts to Access a Distant Server
-date: 2024-09-19T19:37:26.030Z
-updated: 2024-09-20T16:20:11.554Z
+date: 2024-10-01T03:38:53.602Z
+updated: 2024-10-07T03:25:36.694Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
 
  The Cast to Device feature requires the**network sharing** feature turned on your computer. See how to check if you turn on the network sharing feature on your computer:
@@ -45,7 +52,29 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 1. Type **network**  in the search box from Start. Then click **Network status**  from the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be292e88d6b9.jpg)
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
@@ -55,11 +84,27 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 1. Type **media**  in the search box from Start. Then click **Windows Media Player**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
@@ -67,19 +112,6 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
 
@@ -98,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 4. Reboot your Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
@@ -125,5 +157,17 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-top-gear-helmet-cams-the-most-trusted-choice-riders/"><u>[New] 2024 Approved Top Gear Helmet Cams - The Most Trusted Choice Riders</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-experience-all-episodes-offline-with-our-top-10-savers-apps/"><u>[Updated] Experience All Episodes Offline with Our Top 10 Savers Apps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-cross-platform-guide-to-transforming-photographic-genders-online/"><u>2024 Approved Cross-Platform Guide to Transforming Photographic Genders Online</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-monetary-spectrum-a-glimpse-into-mr-beasts-world/"><u>2024 Approved Monetary Spectrum A Glimpse Into Mr. Beast’s World</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-buffs-expert-hacks-for-fast-tracking-league-of-legends-game-setup/"><u>Bypass Buffs: Expert Hacks for Fast-Tracking League of Legends Game Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205009552-effortlessly-fix-windows-10-bluetooth-disappearance-issues-in-minutes/"><u>Effortlessly Fix Windows 10 Bluetooth Disappearance Issues in Minutes</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-non-functional-dell-webcam-on-windows-step-by-step-guide/"><u>Fixing a Non-Functional Dell Webcam on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solutions-for-windows-resource-protection-failures/"><u>Troubleshooting and Solutions for Windows Resource Protection Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-tips-re-ignite-windows-11-explorer/"><u>Troubleshooting Tips: Re-Ignite Windows 11 Explorer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-handbrakes-anamorphic-feature-a-comprehensive-guide/"><u>Unlocking the Potential of HandBrake's Anamorphic Feature - A Comprehensive Guide</u></a></li>
+</ul></div>
 

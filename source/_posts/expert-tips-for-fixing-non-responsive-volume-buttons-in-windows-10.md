@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Fixing Non-Responsive Volume Buttons in Windows 10
-date: 2024-09-13T16:28:57.371Z
-updated: 2024-09-20T17:04:04.699Z
+date: 2024-10-03T10:20:02.184Z
+updated: 2024-10-06T18:20:54.810Z
 tags:
   - win11
   - win10
@@ -49,6 +49,14 @@ If you haven’t tried this method before, give it a go.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog. Then type**ncpa.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-ncpa.cpl_.jpg)
 2. Check if your Wi-Fi adapter is disabled or greyed out. If it is, right-click on it and select**Enable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-enable-wifi.jpg)
 
  Once done, restart your computer and check if your Wi-Fi network shows up again.
@@ -72,10 +80,10 @@ If you haven’t tried this method before, give it a go.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/de-wireless-adapter-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -95,30 +103,10 @@ If you haven’t tried this method before, give it a go.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-other-troubleshooter.jpg)
 4. Scroll down the page, locate**Network Adapter** and click**Run** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-network-adapter-run.jpg)
 5. Follow the steps in the troubleshooter and see if that fixes the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If your issue persists, check out the next fix.
 
@@ -132,20 +120,14 @@ If your issue persists, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/wlan-autoconfig-properties.jpg)
 3. Make sure**Startup type** is set to**Automatic** and**Service status** is**Running** . Then click**OK** to save changes.  
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/wlan-autoconfig-startup-type.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Restart your PC and see if your Wi-Fi shows up.
 
@@ -163,17 +145,47 @@ If you still face the same issue, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/winsock-reset.jpg)
 4. Type**netsh int ip reset** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-reset.jpg)
 5. Type**ipconfig /release** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-release.jpg)
 6. Then type**ipconfig /renew** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-renew.jpg)
 7. Type**ipconfig /flushdns** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-flushdns.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve run all those commands, restart your computer and try to connect to the Wi-Fi network.
 
 If this method doesn’t help, try the last fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Reset your network
 
@@ -182,19 +194,20 @@ If this method doesn’t help, try the last fix below.
 1. On your taskbar, select the**Start** button and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-start-settings.jpg)
 2. Select**Network & internet** , then click**Advanced network settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-advanced-network-settings.jpg)
 3. Under More settings, click**Network reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-network-reset.jpg)
 4. Click**Reset now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-reset-now.jpg)
 5. Click**Yes** to confirm again.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/network-reset-yes.jpg)
 
@@ -220,5 +233,22 @@ Wait for your computer to restart, and see if that fixes the problem.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-amplify-your-brands-impact-with-a-strategic-approach-to-smm-excellence/"><u>[New] 2024 Approved Amplify Your Brand's Impact with a Strategic Approach to SMM Excellence</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-ultimate-guide-to-selecting-and-utilizing-top-6-gopro-attachments/"><u>[New] 2024 Approved The Ultimate Guide to Selecting & Utilizing Top 6 GOPRO Attachments</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-lowering-volume-steps-in-logic-pro-audio-editing/"><u>[New] Lowering Volume Steps in Logic Pro Audio Editing</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-flight-in-depth-analysis-of-dji-phantom-4/"><u>[New] Unveiling Flight In-Depth Analysis of DJI Phantom 4</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-essential-encoder-hardware-for-digital-media/"><u>[Updated] Essential Encoder Hardware for Digital Media</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/five-effective-methods-to-repair-your-touchscreen-on-a-windows-10-device/"><u>Five Effective Methods to Repair Your Touchscreen on a Windows 10 Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-a-usb-mouse-to-work-again-on-your-laptop-top-5-fixes-you-cant-miss/"><u>Getting a USB Mouse to Work Again on Your Laptop: Top 5 Fixes You Can't Miss</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-lower-wudfhostexes-impact-on-your-pcs-performance-in-windows-11/"><u>How to Lower WUDFHost.exe's Impact on Your PC's Performance in Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-expert-guide-to-free-pc-software-for-capturing-tv/"><u>In 2024, Expert Guide to Free PC Software for Capturing TV</u></a></li>
+<li><a href="https://common-error.techidaily.com/netflix-buffering-fixed-tips-for-continuous-streaming-on-desktop-computers/"><u>Netflix Buffering Fixed - Tips for Continuous Streaming on Desktop Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-error-code-39-a-step-by-step-guide-to-repairing-your-cddvd-drive/"><u>Solving the Problem of Error Code 39: A Step-by-Step Guide to Repairing Your CD/DVD Drive</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-tackle-the-persistent-0x80072efd-problem-in-windows-11/"><u>Step-by-Step Solutions to Tackle the Persistent 0X80072EFD Problem in Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/universal-techniques-for-streaming-to-disk-from-youtube-for-2024/"><u>Universal Techniques for Streaming to Disk From YouTube for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-torrent-downloading-find-out-what-you-can-do-to-resolve-it/"><u>Why Isn't My Torrent Downloading? Find Out What You Can Do to Resolve It</u></a></li>
+</ul></div>
 

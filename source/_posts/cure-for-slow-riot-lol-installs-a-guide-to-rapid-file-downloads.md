@@ -1,7 +1,7 @@
 ---
 title: Cure for Slow Riot LoL Installs - A Guide to Rapid File Downloads
-date: 2024-09-30T21:07:15.098Z
-updated: 2024-10-01T18:13:28.071Z
+date: 2024-10-03T03:16:23.073Z
+updated: 2024-10-06T17:29:31.975Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 4. **[Reinstall Valorant](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Delete Manifest txt files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check for network connection
 
  A poor network connection would certainly hold you back from loading into the game. Having a quick and simple check on your network connection should be your first fix to try.
@@ -56,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 3. Now try to open the game again. If this method doesn’t work, navigate to the next below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
@@ -95,10 +102,10 @@ OR
 4. Restart your PC for the new graphics driver to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at <support@drivereasy.com>.
@@ -113,31 +120,24 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/win-settings-apps.jpg)
 2. Find**Valorant** from the Apps & features list and click on it.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Appsfeatures-1.jpg)
 3. Click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Uninstall-1.jpg)
 4. Click**Uninstall** again in the pop-up window.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/app-uninstall.jpg)
@@ -176,22 +176,18 @@ If this doesn’t solve your problem, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-becoming-a-photo-wizard-expert-techniques-for-utilizing-photoshops-background-eraser-tool-for-2024/"><u>[New] Becoming a Photo Wizard Expert Techniques for Utilizing Photoshop's Background Eraser Tool for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-budget-friendly-methods-for-youtube-card-creation-for-2024/"><u>[New] Budget-Friendly Methods for YouTube Card Creation for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-master-the-art-of-installing-vrecorder/"><u>[Updated] In 2024, Master the Art of Installing VRecorder</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-optimize-your-videos-the-quick-thumbnail-guide/"><u>[Updated] Optimize Your Videos The Quick Thumbnail Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-best-face-enhancing-apps-for-iphones-and-samsungs/"><u>2024 Approved Exploring the Best Face-Enhancing Apps for iPhones & Samsungs</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-usb-device-not-detected-effective-strategies-to-resolve-the-problem-once-and-for-all/"><u>Dealing with 'USB Device Not Detected': Effective Strategies to Resolve the Problem Once and For All</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-handling-service-request-unable-to-execute-due-to-limited-resources/"><u>Expert Tips: Handling 'Service Request Unable to Execute Due to Limited Resources'</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-continuous-unintentional-mouse-double-click-issue/"><u>Fixes for Continuous Unintentional Mouse Double-Click Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/forza-horizon-n-no-audio-troubleshoot-and-solve-the-mute-dilemma-effectively/"><u>Forza Horizon N No Audio? Troubleshoot and Solve the Mute Dilemma Effectively!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-vanished-desktop-shortcuts-in-windows-10-solution-inside/"><u>How To Restore Vanished Desktop Shortcuts in Windows 10 (Solution Inside)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a59-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo A59 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-ifunny-meme-downloads-and-fun-for-2024/"><u>Mastering iFunny Meme Downloads & Fun for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-touchpad-navigation-overcoming-scrolling-challenges-in-windows-10/"><u>Mastering the Art of Touchpad Navigation: Overcoming Scrolling Challenges in Windows 10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-y27-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo Y27 5G Phone Pattern Lock</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-mac-gif-videographer-for-2024/"><u>Ultimate Mac Gif Videographer for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/unraveling-the-mystery-how-and-why-your-windows-11-pc-automatically-boots-up/"><u>Unraveling the Mystery: How & Why Your Windows 11 PC Automatically Boots Up</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212478609-xbox-one-audio-woes-discover-how-to-restore-headset-functionality-today/"><u>Xbox One Audio Woes? Discover How to Restore Headset Functionality Today!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-mystery-reader-fb-narratives-explorer/"><u>[New] In 2024, Mystery Reader FB Narratives Explorer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-navigating-watermark-implementation-for-social-posts/"><u>[New] In 2024, Navigating Watermark Implementation for Social Posts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-understanding-fair-use-and-infringement-on-youtube/"><u>[New] In 2024, Understanding Fair Use and Infringement on YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-exploring-the-mechanisms-of-noteworthy-youtube-discussions/"><u>[Updated] 2024 Approved Exploring the Mechanisms of Noteworthy YouTube Discussions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-2-other-options-for-dedrm-calibre-plugin-a-comprehensive-guide/"><u>Best 2 Other Options for DeDRM Calibre Plugin: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/corrective-steps-for-accidental-character-inputs-in-typing/"><u>Corrective Steps for Accidental Character Inputs in Typing</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-driver-restoration-techniques-a-step-by-step-guide/"><u>Effortless Driver Restoration Techniques - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-overcome-your-laptops-white-or-black-screen-hurdles-easily/"><u>Expert Tips: Overcome Your Laptop's White or Black Screen Hurdles Easily</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-infinix-smart-8-plus-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Infinix Smart 8 Plus Data? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-step-by-step-to-stardom-on-social-boost-your-instagram-fame-at-warp-speed-with-our-15-must-knows/"><u>In 2024, Step-by-Step to Stardom on Social Boost Your Instagram Fame at Warp Speed with Our 15 Must-Knows</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-s17-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo S17 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-reactivating-custom-settings-that-wont-respond/"><u>Step-by-Step Guide: Reactivating Custom Settings That Won't Respond</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/winx-dvd-copy-pro-dvd-isodvd/"><u>WinX DVD Copy Pro 協助在 DVD 上緊湛 ISO/DVD 備份</u></a></li>
 </ul></div>
 

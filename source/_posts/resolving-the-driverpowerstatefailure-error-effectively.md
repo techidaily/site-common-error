@@ -1,7 +1,7 @@
 ---
 title: Resolving the DRIVER_POWER_STATE_FAILURE Error Effectively
-date: 2024-09-17T16:00:33.665Z
-updated: 2024-09-20T16:22:09.877Z
+date: 2024-10-02T09:29:52.992Z
+updated: 2024-10-07T01:44:52.134Z
 tags:
   - win11
   - win10
@@ -33,6 +33,19 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your audio driver
 
  This problem may occur if you are using the wrong audio driver or it’s out of date. So you should update your audio driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -46,6 +59,13 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04aae3578ee.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
@@ -66,10 +86,26 @@ Here’s how to do it:
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
@@ -84,27 +120,20 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check your in-game audio settings
 
@@ -138,5 +167,19 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-essential-instagram-video-and-photo-downloads-guide/"><u>[New] Essential Instagram Video & Photo Downloads Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-from-ordinary-to-extraordinary-the-roadmap-to-likes-on-tiktok-unboxes/"><u>[New] From Ordinary to Extraordinary The Roadmap to Likes on TikTok Unboxes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/cam-clash-sj6-legend-versus-yi-4k-visionary/"><u>Cam Clash SJ6 Legend Versus Yi 4K Visionary</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cancellation-procedure-for-paramount-plus-users-what-you-need-to-know/"><u>Cancellation Procedure for Paramount Plus Users – What You Need to Know</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/comprendre-limpact-des-politiques-de-cookies-dabbyy/"><u>Comprendre L'Impact Des Politiques De Cookies D'ABBYY</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-print-driver-host-failures-for-legacy-32-bit-operating-systems/"><u>Fixing Print Driver Host Failures for Legacy 32-Bit Operating Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-poco-x6-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Poco X6 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209689115-resolution-guide-toshiba-laptop-key-malfunction-fixed/"><u>Resolution Guide: Toshiba Laptop Key Malfunction Fixed</u></a></li>
+<li><a href="https://os-tips.techidaily.com/sol/"><u>Sól -</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-skype-mic-is-not-working/"><u>Solved: Skype Mic Is Not Working</u></a></li>
+<li><a href="https://common-error.techidaily.com/strategies-to-lower-ntoskrnlexes-cpudisk-load/"><u>Strategies to Lower ntoskrnl.exe's CPU/Disk Load</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-capabilities-of-codegpt-in-writing-software/"><u>Unveiling the Capabilities of CodeGPT in Writing Software</u></a></li>
+</ul></div>
 

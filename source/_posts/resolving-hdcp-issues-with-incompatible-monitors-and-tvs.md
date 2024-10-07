@@ -1,7 +1,7 @@
 ---
 title: Resolving HDCP Issues with Incompatible Monitors and TVs
-date: 2024-09-28T18:23:40.146Z
-updated: 2024-10-02T03:09:01.791Z
+date: 2024-10-03T01:07:00.184Z
+updated: 2024-10-07T11:09:38.916Z
 tags:
   - win11
   - win10
@@ -51,21 +51,14 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
@@ -80,6 +73,14 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -88,13 +89,6 @@ start explorer.exe
 3. Check if it helps restore your desktop icons. If not, try Tip 4, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 4: Perform a system restore
 
@@ -107,18 +101,32 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -133,10 +141,10 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bonus tip
@@ -157,16 +165,10 @@ OR
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -192,21 +194,19 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-pc-virtual-reality-hits-top-10/"><u>[New] PC Virtual Reality Hits Top 10</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-captivate-viewers-using-multiple-perspectives-on-fb-live/"><u>[Updated] In 2024, How to Captivate Viewers Using Multiple Perspectives on FB Live</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-tailored-tv-experience-via-social-media-content/"><u>[Updated] In 2024, Tailored TV Experience via Social Media Content</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/easy-tutorial-on-trimming-and-editing-footage-with-vlc-software/"><u>Easy Tutorial on Trimming and Editing Footage with VLC Software</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-zero-5g-2023-turbo-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Zero 5G 2023 Turbo Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y02t-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y02T Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-ai-driven-high-quality-editing-platform/"><u>In 2024, AI-Driven High-Quality Editing Platform</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719817458455-nvidiaintel-graphics-issue-no-more-on-windows-10/"><u>Nvidia/Intel Graphics Issue No More on Windows 10</u></a></li>
-<li><a href="https://driver-error.techidaily.com/repair-serial-bus-regulation-flaw/"><u>Repair Serial Bus Regulation Flaw</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-fixes-for-the-constant-reboot-problem-on-windows-11/"><u>Simple Fixes for the Constant Reboot Problem on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202693434-step-by-step-solution-to-overcome-windows-1-nearby-as-you-go-and-it-will-be-easier-to-keep-your-balance/"><u>Step-by-Step Solution to Overcome Windows 1 Nearby as You Go, and It Will Be Easier to Keep Your Balance.</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-non-responsive-file-explorer-issues-on-windows-10/"><u>Troubleshooting Guide: Resolving Non-Responsive File Explorer Issues on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-increased-disk-space-consumption-of-telemetry-feature-in-windows-press)windows-11/"><u>Troubleshooting the Increased Disk Space Consumption of Telemetry Feature in Windows Press>Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fix-for-windows-camera-issue-error-code-0xa00f4292/"><u>Ultimate Fix for Windows Camera Issue (Error Code 0Xa00f4292)</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-fixing-your-laptop-screen-when-its-accidentally-rotated/"><u>Ultimate Guide: Fixing Your Laptop Screen When It's Accidentally Rotated</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstuck-from-microsoft-store-problems-heres-how-to-open-it-successfully/"><u>Unstuck From Microsoft Store Problems? Here's How to Open It Successfully!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-convert-youtube-to-igtv-videos-3-ways/"><u>[New] 2024 Approved How to Convert YouTube to IGTV Videos? [3 Ways]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-huawei-nova-y71-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Huawei Nova Y71 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-buddies-games-top-metagame-escapades/"><u>Best Buddies Games Top Metagame Escapades</u></a></li>
+<li><a href="https://os-tips.techidaily.com/download-the-latest-ios-175-update-release-information-and-features-for-iphones/"><u>Download the Latest iOS 17.5 Update: Release Information and Features for iPhones</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-reducing-your-ps4-fan-sounds-without-sacrificing-performance/"><u>Expert Guide: Reducing Your PS4 Fan Sounds Without Sacrificing Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-common-issues-with-unresponsive-wacom-graphics-tables-a-comprehensive-guide/"><u>Fix Common Issues with Unresponsive Wacom Graphics Tables - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-module-not-found-problem-a-step-by-nstep-approach/"><u>Fixing the 'Module Not Found' Problem: A Step-by-nStep Approach</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-magic-5-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor Magic 5 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-a-comprehensive-look-at-editing-and-uploading-virtual-reality-videos-to-youtube/"><u>In 2024, A Comprehensive Look at Editing and Uploading Virtual Reality Videos to YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-ps4-nat-failures-expert-guide-to-a-smooth-online-gaming-experience/"><u>Overcoming PS4 NAT Failures: Expert Guide to a Smooth Online Gaming Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-corporate-efforts-via-api-access-to-gpt-whisper/"><u>Revolutionizing Corporate Efforts via API Access to GPT, Whisper</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-your-pc-from-falling-asleep-simple-fixes/"><u>Stop Your PC From Falling Asleep: Simple Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcoming-common-problems-with-windows-update-installation/"><u>Troubleshooting Tips: Overcoming Common Problems with Windows Update Installation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
 </ul></div>
 

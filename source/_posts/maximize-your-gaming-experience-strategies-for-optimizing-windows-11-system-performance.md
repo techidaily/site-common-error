@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Gaming Experience: Strategies for Optimizing Windows 11 System Performance"
-date: 2024-10-01T02:34:55.334Z
-updated: 2024-10-02T00:08:01.553Z
+date: 2024-09-30T18:46:41.331Z
+updated: 2024-10-07T02:04:56.303Z
 tags:
   - win11
   - win10
@@ -34,22 +34,16 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
 2. **[Disable Real-Time Protection and reschedule your Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Use the Local Group Policy Editor to turn off Windows Defender](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Prevent Windows Defender from scanning its own folder**
 
 1) On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **Virus & threat protection** into the box and click**Virus & threat protection** .
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48478e47ae3.jpg)
 
@@ -62,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4848b874e63.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Add an exclusion** \>**Folder** .
@@ -77,6 +71,19 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4849bf2c80f.jpg)
 
  6) See if MsMpEng.exe is still hogging your CPU usage. If the problem persists, move on to**Fix 2** .
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 2: Disable Real-Time Protection and r** **eschedule your Windows Defender**
 
@@ -92,29 +99,9 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48254c26e3f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) In the**General** tab, un-check**the box** before**Run with highest privileges** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4845e5ee219.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click the**Conditions** tab, make sure**the boxes** in this window are**unchecked** .
 
@@ -127,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
  6) Schedule your own**Windows Defender** scan. Carefully choose the frequency, scan time and date at your own convenience and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4828bca7be2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
 
@@ -149,34 +129,48 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482ad2bedf6.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Locate and double-click on**Windows Defender Antivirus** (aka. **Windows Defender** , same as below). Then double-click on **Turn off Windows Defender Antivirus** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48417e7d299.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Choose the**Enabled** option, and click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4841ef0331d.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Restart your computer and see if your computer runs normally now.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Want us to fix the problem for you?
@@ -202,20 +196,24 @@ thumbnail: https://thmb.techidaily.com/095ce3d3eacef166f46f59459d5ef71a92a706285
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-building-a-broadcast-brand-with-youtube-twitch-and-obs/"><u>[New] 2024 Approved Building a Broadcast Brand with YouTube, Twitch and OBS</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-becoming-a-pro-with-obs-gaming-recordings-for-2024/"><u>[New] Becoming a Pro with OBS Gaming Recordings for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-avoiding-instagrams-pitfalls-crafting-perfect-puzzle-posts-for-2024/"><u>[Updated] Avoiding Instagram's Pitfalls Crafting Perfect Puzzle Posts for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-ignite-facebook-frenzy-key-techniques-unveiled/"><u>[Updated] In 2024, Ignite Facebook Frenzy Key Techniques Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/common-issues-and-resolutions-for-the-failed-windows-11-update-version-1607/"><u>Common Issues & Resolutions for the Failed Windows 11 Update (Version 1607)</u></a></li>
-<li><a href="https://common-error.techidaily.com/destiny-2-wont-start-here-are-solutions-to-fix-initialization-errors/"><u>Destiny 2 Won't Start? Here Are Solutions to Fix Initialization Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-steps-to-resolve-right-click-issues-with-a-mouse-in-windows-10/"><u>Easy Steps to Resolve Right Click Issues with a Mouse in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-solutions-for-startup-screens-vanishing-in-monster-hunter-world/"><u>Expert Solutions for Startup Screens Vanishing in Monster Hunter: World</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/how-to-use-snap-camera-on-google-meet/"><u>How to Use Snap Camera on Google Meet?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nokia-c210-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nokia C210 Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-strategy-for-creating-shareable-content-on-instagram/"><u>The Ultimate Strategy for Creating Shareable Content on Instagram</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshoot-blank-tv-screen-with-hdmi-issue/"><u>Troubleshoot Blank TV Screen with HDMI Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-resolving-windows-error-0x80004005-the-unspecified-problem/"><u>Troubleshooting Guide for Resolving Windows Error 0X80004005: The Unspecified Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolve-access-denied-error-in-printer-driver-setup/"><u>Troubleshooting Tips: Resolve 'Access Denied' Error in Printer Driver Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-tips-for-the-notorious-livekernelevent-117-error/"><u>Ultimate Troubleshooting Tips for the Notorious LiveKernelEvent 117 Error</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-employing-inbuilt-screen-recording-tools-on-mate-p-models-p20-p10-for-2024/"><u>[New] Employing Inbuilt Screen Recording Tools on Mate, P Models (P20, P10) for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-guidelines-for-responsible-content-disclosure-in-online-spaces-like-fb/"><u>[New] Guidelines for Responsible Content Disclosure in Online Spaces Like FB</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-5-mma-games-for-virtual-fight-enthusiasts/"><u>[New] In 2024, Top 5 MMA Games for Virtual Fight Enthusiasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-textual-amplification-for-igtv-broadcasts/"><u>[New] Textual Amplification for IGTV Broadcasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-peak-popularity-on-reddit-10-most-upvoted-stories/"><u>[Updated] Peak Popularity on Reddit 10 Most Upvoted Stories</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-soundscapes-in-action-capturing-music-videos-iphone-style/"><u>[Updated] Soundscapes in Action Capturing Music Videos iPhone Style</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-removing-restrictions-and-dealing-with-403-headers-effectively/"><u>Expert Tips: Removing Restrictions and Dealing with 403 Headers Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-eternal-waiting-on-skyrims-start-up-screen-tutorial/"><u>How to Resolve Eternal Waiting on Skyrim's Start-Up Screen Tutorial</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-honor-70-lite-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Honor 70 Lite 5G?</u></a></li>
+<li><a href="https://common-error.techidaily.com/laptop-keypad-not-working-in-windows-1087-solved/"><u>Laptop Keypad Not Working in Windows 10/8/7 [SOLVED]</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-unavailable-desktop-error-in-systemprofile-folder-on-windows/"><u>Overcoming the Unavailable Desktop Error in SystemProfile Folder on Windows</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/prime-framing-features-on-mac-max-length-156-for-2024/"><u>Prime Framing Features on Mac (Max Length 156) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-overcoming-error-0x8024c01c-during-windows-system-updates/"><u>Step-by-Step Solution for Overcoming Error 0X802^4C01C During Windows System Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-unresponsive-usb-slots-on-an-hp-laptop-computer/"><u>Step-by-Step Solutions for Unresponsive USB Slots on an HP Laptop Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-tips-for-common-oculus-tech-issues/"><u>Step-by-Step Troubleshooting Tips for Common Oculus Tech Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-waiting-start-typing-smoothly-solve-keyboard-lag-in-windows-10/"><u>Stop Waiting, Start Typing Smoothly - Solve Keyboard Lag in Windows 10!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-lenovo-mouse-pad-solutions-for-windows-10-8-and-7/"><u>Troubleshooting Your Lenovo Mouse Pad: Solutions for Windows 10, 8, and 7</u></a></li>
 </ul></div>
 

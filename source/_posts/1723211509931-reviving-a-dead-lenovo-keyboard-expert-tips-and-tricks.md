@@ -1,7 +1,7 @@
 ---
 title: Reviving a Dead Lenovo Keyboard – Expert Tips & Tricks!
-date: 2024-09-15T18:51:46.262Z
-updated: 2024-09-20T17:45:33.882Z
+date: 2024-10-02T06:27:37.481Z
+updated: 2024-10-07T11:24:47.787Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ Keyboard backlight not working is a common problem which can happen on Windows o
 
  Check your keyboard again, if it doesn’t work, you can move to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Adjust keyboard brightness
 
  For Mac, you might have unintentionally set the light to 0\. To solve it, you can adjust the keyboard brightness in the settings.
@@ -52,10 +59,31 @@ Here’s how:
 2. Click**System Preferences** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Snap841.jpg)
 3. Choose**Keyboard** .  
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/keyboard-1.jpg)
 4. Uncheck**Adjust keyboard brightness in low light** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/mackeyboard.jpg)
 5. Use the**F1** and**F2** keys to manually control the keyboard lighting level.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Contact customer service
 
@@ -65,17 +93,17 @@ Here’s how:
 
  There are different PC using the Windows system. The reason for the keyboard backlight not working may be various, but there are some common reason and common fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Common Method 1: Reboot your computer
 
  Reboot your computer normally can solve many common errors. Shutdown your computer, take out the battery, wait for few seconds then put it back and reboot your PC.  
  After that, check the keyboard backlight again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Common Method 2: Check your driver
 
@@ -119,19 +147,6 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/asus1.jpg)
 5. Download and install the ATK driver manually.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Option 2 – Automatically update the ATK drivers**
 
  If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -146,17 +161,17 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the Update button next to your **ATK** driver to automatically download and install the correct version of this driver (you can do this with the **FREE** version).
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/atk.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tips for keyboard maintenance
 
@@ -185,5 +200,26 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-youtube-stat-tracking-essentials/"><u>[New] Mastering YouTube Stat Tracking Essentials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-virtual-stage-enhancement-zooms-filter-guidebook/"><u>[New] The Virtual Stage Enhancement Zoom's Filter Guidebook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-eight-collections-for-graffiti-letters/"><u>[Updated] Top Eight Collections for Graffiti Letters</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-a25-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-honor-90-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Honor 90 Pro?</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-it-expert-tips-for-escaping-stuck-windows-setup-phase/"><u>Fixed It! Expert Tips for Escaping Stuck Windows Setup Phase</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-honor-play-7t-by-fonelab-android-recover-video/"><u>How to recover old videos from your Honor Play 7T</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-deciphering-how-t-series-earns-via-youtube/"><u>In 2024, Deciphering How T-Series Earns via Youtube</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-11-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 11 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-techniques-resolving-werfaultexe-windows-hiccups-5plus-tips/"><u>Master the Techniques: Resolving werFault.exe Windows Hiccups (5+ Tips)</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-effortless-solutions-for-broken-overwatch-audio-calls/"><u>Mastering the Fix: Effortless Solutions for Broken Overwatch Audio Calls</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-the-fixes-for-the-windows-11-critical-error-displayed-on-a-red-screen/"><u>Resolved: The Fixes for the Windows 11 Critical Error Displayed on a Red Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-compatibility-making-your-wacom-pen-functional-again-on-windows-11-and-10/"><u>Solving Compatibility: Making Your Wacom Pen Functional Again on Windows 11 & 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-symbol-issue-a-step-by-step-guide/"><u>Solving the '@' Symbol Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-instructions-enabling-bluetooth-features-in-windows-7/"><u>Step-by-Step Instructions: Enabling Bluetooth Features in Windows 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-easy-way-out-expert-advice-on-mending-defective-usb-charging-points/"><u>The Easy Way Out: Expert Advice on Mending Defective USB Charging Points</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-game-changing-impact-of-freesync-on-lgs-ud68-monitors/"><u>The Game-Changing Impact of FreeSync on LG's UD68 Monitors</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-fifa-21-failure-on-startup/"><u>Troubleshooting: How to Fix FIFA 21 Failure on Startup</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-pc-restart-issues-comprehensive-solution-to-avoid-reset-problems/"><u>Windows 11 PC Restart Issues – Comprehensive Solution to Avoid Reset Problems</u></a></li>
+</ul></div>
 

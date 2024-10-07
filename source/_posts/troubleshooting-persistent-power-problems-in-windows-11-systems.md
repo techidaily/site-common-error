@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Persistent Power Problems in Windows 11 Systems
-date: 2024-09-18T18:52:32.424Z
-updated: 2024-09-20T19:02:43.458Z
+date: 2024-10-03T09:02:49.439Z
+updated: 2024-10-07T02:51:53.989Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/b58731ef522e71a2b18dd9c60ce59d1b021be466a
 **2)**  Disconnect all **peripherals**  (your printer, scanner, webcam, mouse, etc.).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/usb-g6d352e3ca_640.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Try turning on your computer again.
 
@@ -87,16 +94,16 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Wait for 5 minutes, and then reinstall your CMOS battery.
 
 5) Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 4: Restore your System to the Previous State
 
@@ -114,9 +121,23 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-12-28.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Choose a different restore point** , and click**Next** to select a restore point before the issue occurs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-13-05.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Follow the on-screen instructions to finish the restore.
 
@@ -147,13 +168,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -168,10 +182,10 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-29-41.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Type **DISM /Online /Cleanup-Image /RestoreHealth** , and then press **Enter** .
@@ -179,10 +193,16 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_17-08-53.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 6: Perform a Fresh Install
@@ -204,5 +224,21 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-insiders-look-at-advanced-streamlabs-obs-techniques/"><u>[New] 2024 Approved Insider's Look at Advanced Streamlabs OBS Techniques</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-crafting-captivating-content-the-power-of-hashtagging-in-gaming-yt/"><u>[New] Crafting Captivating Content The Power of Hashtagging in Gaming YT</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-maximize-your-online-presence-with-these-5-streaming-techniques/"><u>[Updated] 2024 Approved Maximize Your Online Presence with These 5 Streaming Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-precision-at-a-glance-elevate-your-hp-laptop-recording-skills/"><u>[Updated] 2024 Approved Precision at a Glance Elevate Your HP Laptop Recording Skills</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-steps-to-apply-a-creative-commons-copyright-for-2024/"><u>[Updated] Essential Steps to Apply a Creative Commons Copyright for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/examining-the-legitimacy-of-facebooks-safety-mail-service-securityfb/"><u>Examining the Legitimacy of Facebook's Safety Mail Service @Security@fb</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/filmfusion-studio-win8/"><u>FilmFusion Studio Win8</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/navigating-googles-podcast-uploading-guide-for-2024/"><u>Navigating Google's Podcast Uploading Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-error-0x80071ac3-volume-has-been-removed-from-windows-explorer/"><u>Overcoming the Challenge of Error 0X80071AC3: Volume Has Been Removed From Windows Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/synapse-stuck-easy-fixes-for-w11w10-users/"><u>Synapse Stuck? Easy Fixes for W11/W10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-google-chromes-cache-miss-error-tips-and-tricks-to-get-you-back-online/"><u>The Ultimate Fix for Google Chrome's Cache Miss Error: Tips & Tricks to Get You Back Online!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-ethernet-connectivity-errors-for-windows-117-users-effective-strategies/"><u>Troubleshooting Ethernet Connectivity Errors for Windows 11/7 Users: Effective Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-halo-4-ue4-fatal-crashes-expert-solutions-and-tips-for-gamers/"><u>Troubleshooting Halo 4 UE4 Fatal Crashes: Expert Solutions & Tips for Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-persistent-issue-of-error-code-0x8024200d-in-windows-updates/"><u>Understanding & Fixing the Persistent Issue of Error Code 0X8024200D in Windows Updates</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solution Steps for Handling Failed Logons in Group Policy Clients
-date: 2024-10-01T00:49:12.286Z
-updated: 2024-10-02T04:06:54.310Z
+date: 2024-09-29T21:23:49.259Z
+updated: 2024-10-06T20:43:41.281Z
 tags:
   - win11
   - win10
@@ -80,13 +80,6 @@ In another version of BIOS, the procedure may go like this:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Roll back Lenovo PM Driver
 
  As many Windows 7 users reported, their Fn keys stop working right after a Windows update. If that’s the case for you, you should try to roll back your Lenovo PM (Power Management) driver. Here’s how:
@@ -95,24 +88,38 @@ In another version of BIOS, the procedure may go like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In Device Manager, double-click on the**System devices** node to expand its drop-down list. Next, locate**Lenovo PM Device** and right-click on it. From the context menu, select**Properties** .
 
 ![This image has an empty alt attribute; its file name is image-128.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-140.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-141.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Go to the**Driver** tab and click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-142.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the option appears dimmed, that means there’s no previous driver for you to roll back to. In this case, you should try out the next method instead.
 
@@ -144,6 +151,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the pop-up Device Manager window, double-click on the**Keyboards** node to expand its drop-down list. Then right-click on your keyboard device and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-122.png)
@@ -151,19 +165,6 @@ OR
  3) Click**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-126.png)
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Follow the onscreen instructions to download and install your keyboard drivers.
 
@@ -175,13 +176,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Scroll through the list to locate the items related to your motherboard chipsets, as illustrated below. (Your devices may not be exactly the same as those shown in the following screenshot. In this case, simply update the items of similar titles.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-129.png)
@@ -191,10 +185,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-130.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8) Repeat**Step3 through Step 4** to update your chipset driver.
@@ -224,16 +218,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-388.png)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
@@ -261,22 +249,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-inspiration-on-a-plate-top-20-instagram-food-photos-for-2024/"><u>[New] Inspiration on a Plate Top 20 Instagram Food Photos for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-visual-virtuosity-enhancement-no-money-more-magic/"><u>2024 Approved Visual Virtuosity Enhancement No Money, More Magic</u></a></li>
-<li><a href="https://common-error.techidaily.com/common-fixes-for-dvd-compatibility-issues-with-your-windows-pc/"><u>Common Fixes for DVD Compatibility Issues with Your Windows PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-tips-fixing-broken-or-damaged-system-files-in-modern-windows-os/"><u>Comprehensive Tips: Fixing Broken or Damaged System Files in Modern Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-tech-fixes-for-pcs-stalled-on-the-windows-installation-screen/"><u>DIY Tech Fixes for PCs Stalled on the Windows Installation Screen</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oppo-find-n3-flip-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Oppo Find N3 Flip Location Settings | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-microsoft-wi-fi-display-adapter-connection-issues-in-windows-11-a-complete-guide/"><u>Fixing Microsoft Wi-Fi Display Adapter Connection Issues in Windows 11 - A Complete Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-fix-non-functional-camera-on-microsoft-surface-book-pro-4-under-windows-11-operating-system/"><u>Guide to Fix Non-Functional Camera on Microsoft Surface Book (Pro 4) Under Windows 11 Operating System</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/harmonizing-your-hits-the-definitive-guide-to-merging-spotify-playlists-with-precision/"><u>Harmonizing Your Hits: The Definitive Guide to Merging Spotify Playlists with Precision</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-infinix-note-30-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Infinix Note 30 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-oneplus-nord-ce-3-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on OnePlus Nord CE 3 5G</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolved-top-techniques-to-successfully-disconnect-a-printer-in-windows-without-errors/"><u>Resolved! Top Techniques to Successfully Disconnect a Printer in Windows Without Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/set-your-origin-games-right-fixing-configuration-hitches-easily/"><u>Set Your Origin Games Right: Fixing Configuration Hitches Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-oculus-hardware-issues-effectively/"><u>Solving Oculus Hardware Issues Effectively</u></a></li>
-<li><a href="https://video-capture.techidaily.com/time-saving-ways-to-log-vimeo-media-for-2024/"><u>Time-Saving Ways to Log Vimeo Media for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-infinix-hot-40-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Infinix Hot 40 Pro without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-resolving-common-issues-when-netflix-fails-to-load/"><u>Understanding and Resolving Common Issues When Netflix Fails to Load</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-simultaneous-capture-excellence-with-iphones-features-for-2024/"><u>[New] Simultaneous Capture Excellence with iPhone's Features for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unlimited-tiktok-videos-no-watermarks-free-downloads/"><u>[New] Unlimited TikTok Videos No Watermarks, Free Downloads</u></a></li>
+<li><a href="https://techtrends.techidaily.com/can-you-use-microsoft-word-without-paying-discover-the-truth/"><u>Can You Use Microsoft Word Without Paying? Discover the Truth!</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-windows-1011-bad-image-errors-a-step-by-step-guide/"><u>Effective Fixes for Windows 10/11 Bad Image Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-persistent-keyboard-stutter-in-windows-10-operating-system/"><u>Fixing Persistent Keyboard Stutter in Windows 10 Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-cure-your-dell-laptops-black-screen-woes-full-instructional-handbook/"><u>How to Diagnose & Cure Your Dell Laptop's Black Screen Woes: Full Instructional Handbook</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-vidma-to-go-screen-record-and-beyond-alternatives/"><u>In 2024, Vidma to Go Screen Record and Beyond Alternatives</u></a></li>
+<li><a href="https://common-error.techidaily.com/interface-issue-addressed/"><u>Interface Issue Addressed</u></a></li>
+<li><a href="https://common-error.techidaily.com/repair-malfunctioning-letter-keys-a-guide-for-windows-10-and-11-keyboard-issues/"><u>Repair Malfunctioning Letter Keys: A Guide for Windows 10 and 11 Keyboard Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-productivity-how-window-tiling-feature-overcomes-major-challenges-on-macos-sequoia/"><u>Revolutionizing Productivity: How Window Tiling Feature Overcomes Major Challenges on macOS Sequoia</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-unraveling-the-mystery-of-auto-start-issues-in-your-windows-11-machine/"><u>Solved: Unraveling the Mystery of Auto-Start Issues in Your Windows 11 Machine</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-resolving-connection-problems-between-microsoft-wireless-display-adapters-and-windows-10-systems/"><u>Step-by-Step Tutorial: Resolving Connection Problems Between Microsoft Wireless Display Adapters and Windows 10 Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-elevated-cpu-utilization-by-iastordatasvc-in-a-32-bit-windows/"><u>Troubleshooting Elevated CPU Utilization by IAStorDataSvc in a 32-Bit Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-update-quandary-breaking-through-when-progress-halts-at-100/"><u>Windows Update Quandary - Breaking Through When Progress Halts at 100%</u></a></li>
 </ul></div>
 

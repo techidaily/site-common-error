@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unresponsive Fn Keys on an ASUS Notebook
-date: 2024-09-24T20:44:01.227Z
-updated: 2024-10-01T21:12:46.536Z
+date: 2024-10-02T02:59:10.010Z
+updated: 2024-10-06T17:35:36.690Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 
  If the sticking problem happens only under certain circumstances, for instance, you only notice it when typing in certain programs or web pages, your keyboard may not be at fault. The problem could be software bugs or poor network connection. Rule out this possibility first before you move on.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Check keyboard connection
 
  One of the first things you should check when something is off with your keyboard is the connection between it and your computer.
@@ -54,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 * If you’re on a desktop, try the USB port at the back of your PC mainframe.
 * If you’re using a wireless keyboard, make sure that the batteries in your keyboard are working, or try to use new batteries.
 * Also, make sure that the keyboard receiver is well-connected as well.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Check for possible viruses
 
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 **IMPORTANT** : You should never disable Windows Defender, the built-in anti-virus program in Windows, especially in Windows 10 OS where it has become stronger and more comprehensive.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Install the correct keyboard driver
@@ -84,28 +84,22 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-50.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged keyboard to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-45.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Clean the keyboard
@@ -135,19 +129,24 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-essential-audio-interface-guide-for-podcasters-for-2024/"><u>[New] Essential Audio Interface Guide for Podcasters for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ultimate-mac-toolkit-comprehensive-screen-and-voice-logging/"><u>[New] In 2024, Ultimate Mac Toolkit Comprehensive Screen & Voice Logging</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-full-screen-mastery-achieved-in-obs/"><u>[Updated] In 2024, Full Screen Mastery Achieved in Obs</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-maximize-your-reach-snapchat-advertising-101/"><u>[Updated] Maximize Your Reach Snapchat Advertising 101</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-starlit-secrets-dos-and-donts-of-astrophotography/"><u>[Updated] Starlit Secrets Do's & Don'ts of Astrophotography</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-clearing-process-for-youtubes-pending-video-list/"><u>2024 Approved Clearing Process for YouTube's Pending Video List</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-methods-to-update-samsung-mobile-usb-driver-software/"><u>Easy Methods to Update Samsung Mobile USB Driver Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/from-bug-to-benefit-solving-the-persistent-palette-issue-in-nba-2k21/"><u>From Bug to Benefit: Solving the Persistent Palette Issue in NBA 2K21</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-solve-the-unnerving-red-screen-problem-on-windows-10/"><u>How to Solve the Unnerving Red Screen Problem on Windows 10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723201071133-personalized-preferences-update-the-unresponsive-error-is-fixed/"><u>Personalized Preferences Update - The 'Unresponsive' Error Is Fixed</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-malfunctional-fn-buttons-tips-and-fixes-for-your-dell-notebooks/"><u>Troubleshooting Malfunctional 'FN' Buttons - Tips and Fixes for Your Dell Notebooks</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-media-device-not-recognized-on-your-pc/"><u>Troubleshooting Steps: Resolving 'Media Device Not Recognized' On Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723201972126-usb-tethering-on-windows-11-easily/"><u>USB Tethering on Windows 11 Easily!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-beats-beyond-boundaries-the-top-ten-unforgettable-tiktok-songs-of-the-year/"><u>[Updated] 2024 Approved Beats Beyond Boundaries The Top Ten Unforgettable TikTok Songs of the Year</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-behind-the-scenes-of-successful-snapchat-pins-for-2024/"><u>[Updated] Behind the Scenes of Successful Snapchat Pins for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-no-fuss-full-fun-exploring-ifunnys-meme-treasure/"><u>2024 Approved No Fuss, Full Fun Exploring iFunny's Meme Treasure</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-reno-8t-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-high-network-consumption-in-svchostexe-fixing-the-netsvcs-dilemma/"><u>Decoding High Network Consumption in Svchost.exe - Fixing the NETsvcs Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/finding-the-right-fix-unfreezing-windows-update-stuck-state-on-old-oss-like-win7-latest-tips-from-2024-edition-to-better-user-experience-in-the-year-of-our-31/"><u>Finding The Right Fix: Unfreezing Windows Update Stuck State On Old OSs Like Win7 – Latest Tips From 2024 Edition to Better User Experience in the Year of Our Lord Two Thousand and Twenty-Four (Guide, Helpful Tips & Troubleshooting Steps).</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-irritating-cracking-sound-from-your-pcs-speakers-on-windows-operating-systems/"><u>How to Fix the Irritating Cracking Sound From Your PC's Speakers on Windows Operating Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ignite-interest-captivate-views-elevate-likes-on-your-unboxings/"><u>Ignite Interest, Captivate Views Elevate Likes on Your Unboxings</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-x9a-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor X9a</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-clarity-unleashed-in-depth-review-of-the-hp-z32-x-display/"><u>In 2024, Clarity Unleashed In-Depth Review of the HP Z32 X Display</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-top-8-laptop-skins-and-backdrops/"><u>In 2024, The Ultimate Guide to Top 8 Laptop Skins & Backdrops</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/lessons-visualized-storytelling-on-your-channel-for-2024/"><u>Life Lessons Visualized Storytelling on Your Channel for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204413318-nba-2k21-green-hiccup-patch-details-and-how-its-gone/"><u>NBA 2K21 Green Hiccup: Patch Details & How It's Gone!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207479486-quick-and-simple-tips-stop-windows-10-continuous-reboots-now/"><u>Quick and Simple Tips: Stop Windows 10 Continuous Reboots Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-your-keyboards-touch-troubleshooting-tips-for-windows-10-7-and-8-devices/"><u>Restore Your Keyboard's Touch: Troubleshooting Tips for Windows 10, 7 & 8 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-windows-7-microphone-problems-step-by-step-guide-and-expert-advice/"><u>Solving Windows 7 Microphone Problems: Step-by-Step Guide and Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-extended-wait-semaphore-fix-for-the-time-out-error-code-0x80070079/"><u>Troubleshooting Extended Wait Semaphore: Fix for the Time-Out Error Code 0X80070079</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-why-windows-cant-find-the-right-printer-driver-solved/"><u>Troubleshooting: Why Windows Can't Find the Right Printer Driver (SOLVED)</u></a></li>
+<li><a href="https://common-error.techidaily.com/yac543-yamahaaturbosound-ii-sound-module-based-on-the-ymf769bymu769b-dsp-plus-midi-synthesader-plus-codec-and-128-mb-of-spiram-for-sample-storage-instead-of125/"><u>YAC543 - Yamaha'aturboSound II Sound Module Based on the YMF769B/YMU769B (DSP + MIDI Synthesader + Codec) and 128 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Restore Functionality: Resolving Non-Responsive Alphabet Keys in Microsoft Windows 10/11"
-date: 2024-09-25T20:24:29.749Z
-updated: 2024-10-02T02:00:39.956Z
+date: 2024-09-30T01:33:27.437Z
+updated: 2024-10-06T17:14:38.008Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 6. **[Boot your PC into Safe Mode](#s6)**
 7. **[Use a different keyboard](#s7)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1 – Try on-screen keyboard
 
  If you’re in an urgent of need of sending the email, you can try this workaround — use the on-screen keyboard. Here’s how to turn it on:
@@ -48,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cb2efaa2b1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### on Windows 11
@@ -60,14 +67,15 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 2. Click**Accessibility > Keyboard** .  
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle on**On-screen keyboard** .  
-![](https://www.drivereasy.com/wp-content/uploads/2018/09/win11-toggle-on-on-screen-keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2018/09/win11-toggle-on-on-screen-keyboard.jpg)
 
  When the on-screen keyboard offers a temporary workaround, the following provide permanent solutions. You might as well give them a try.
 
@@ -89,21 +97,14 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 3. Click the **Update** button next to a flagged driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cf7e7c521d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -119,35 +120,14 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d013077561.png)
 3. Expand the**Keyboards** category.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Right-click on your keyboard and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d02c6cb5ba.jpg)
 5. When prompted for confirmation, click**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d031b9c5f0.jpg)
 6. Save any open files and close all programs, then click**Yes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d03560715f.jpg)
 7. When your PC restarts, check if you can type**@** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -158,19 +138,34 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 1. Search**language** via the Start menu, and select**Region & language settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cdaae8ea64.jpg)
 2. Under**Country or Region** , make sure an English-speaking country or region is selected. If you cannot find any, then you can click the**Add a Language** button to add one.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cdd1e9fccd.jpg)
 3. Under**Languages** , click**Windows display language** and select**Options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8cdfb50cdf8.jpg)
 4. Under**Keyboards** , check what keyboard is selected and verify the input language is English.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8ce010368bc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Can you type**@** now? If not, try the next solution.
 
@@ -199,6 +194,14 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 3. At the top of the **System Configuration**  window, click on the **Boot**  tab, **check**  the box next to **Safe boot** , select **Network**  and click   **OK.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d0c0263d34.jpg)  
 **Note:** If you want to start Windows in**Normal Mode** , ensure the**Safe boot** box is**unchecked** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Make sure all the currently open files are saved and click   **Restart.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8d0c41804c9.png)
 5. Check if the @ key is working.  
@@ -228,24 +231,22 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/1716068659777-new-2024-approved-top-12-capture-providers-never-stop/"><u>[New] 2024 Approved Top 12 Capture Providers, Never Stop!</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-comprehensive-guide-to-visual-effects-in-online-platforms/"><u>[Updated] 2024 Approved The Comprehensive Guide to Visual Effects in Online Platforms</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-customize-your-video-to-fit-seamlessly-in-instagram/"><u>[Updated] In 2024, Customize Your Video to Fit Seamlessly in Instagram</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-premium-startings-top-16-youtube-videos-that-thrive-in-popularity-for-2024/"><u>[Updated] Premium Startings Top 16 YouTube Videos That Thrive in Popularity for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beginners-guide-to-perfecting-gopro-footage/"><u>Beginner's Guide to Perfecting GoPro Footage</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/d-link-powerline-2000-assessment-streamlined-setup-process-and-enhanced-data-throughput/"><u>D-Link Powerline 2000 Assessment: Streamlined Setup Process and Enhanced Data Throughput</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-your-pc-a-step-by-step-solution-for-failed-feature-update-to-windows-10-v1903/"><u>Fixing Your PC: A Step-by-Step Solution for Failed Feature Update to Windows 10 V1903</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-address-and-overcome-insufficient-resources-system-issue-effectively/"><u>How to Address and Overcome 'Insufficient Resources' System Issue Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-solve-the-pc-version-of-monster-hunter-worlds-disconnect-woes/"><u>How to Solve the PC Version of Monster Hunter World's Disconnect Woes</u></a></li>
-<li><a href="https://common-error.techidaily.com/immediate-resolution-overcoming-temporary-unavailability-of-windows-smartscreen/"><u>Immediate Resolution: Overcoming Temporary Unavailability of Windows SmartScreen</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/is-unreals-demise-linked-to-d3d-device-failure/"><u>Is Unreal's Demise Linked to D3D Device Failure?</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-high-cpu-drain-from-windows-audio-hardware-acceleration-feature/"><u>Resolve High CPU Drain From Windows Audio Hardware Acceleration Feature</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-and-shielding-yourself-from-google-chrome-critical-error-scams-comprehensive-techniques-revealed/"><u>Resolving and Shielding Yourself From Google Chrome Critical Error Scams - Comprehensive Techniques Revealed!</u></a></li>
-<li><a href="https://facebook.techidaily.com/step-into-a-new-dimension-mastering-3d-image-posts-on-facebook/"><u>Step Into a New Dimension: Mastering 3D Image Posts on Facebook</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-techniques-for-streamlining-console-video-saves-for-2024/"><u>Top Techniques for Streamlining Console Video Saves for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-your-lenovo-mouse-pad-on-windows-11-8-and-7-complete-fix-guide/"><u>Troubleshoot Your Lenovo Mouse Pad on Windows 11, 8 & 7 – Complete Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-ethernet-connection-problems-in-windows-10-and-7/"><u>Troubleshooting Ethernet Connection Problems in Windows 10 and 7</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-fifa-video-highlights-top-youtube-data-infographics/"><u>[New] 2024 Approved FIFA Video Highlights Top YouTube Data Infographics</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-xbox-one-headset-not-working/"><u>[Solved] Xbox One Headset Not Working</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cut-to-perfection-10-premier-online-video-editors-ranked-for-2024/"><u>[Updated] Cut to Perfection 10 Premier Online Video Editors Ranked for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-harmony-in-hues-and-beats-the-top-5-pioneering-professionals-in-visuals-and-audio/"><u>[Updated] Harmony in Hues and Beats The Top 5 Pioneering Professionals in Visuals & Audio</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-next-gen-virtual-experiences-anticipated-ps-vr-games-to-enjoy/"><u>2024 Approved Next-Gen Virtual Experiences Anticipated PS VR Games to Enjoy</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-8-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 8 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-startup-issues-get-your-windows-based-minecraft-running-again/"><u>Fixing Startup Issues: Get Your Windows-Based Minecraft Running Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-lower-gpu-usage-by-the-desktop-window-manager-in-windows-11-a-step-by-step-tutorial/"><u>How to Lower GPU Usage by the Desktop Window Manager in Windows 11: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-founders-series-right-for-you-or-preferring-vega/"><u>Is Founders Series Right for You, Or Preferring Vega?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/sonys-ultimate-sound-on-the-go-comprehensive-review-of-the-portable-ult-field-1-bluetooth-speaker/"><u>Sony's Ultimate Sound on the Go: Comprehensive Review of the Portable ULT Field 1 Bluetooth Speaker</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-fixing-the-missing-wacom-pen-and-touchpad-driver-issue-on-windows-10/"><u>Step-by-Step Guide: Fixing the Missing Wacom Pen & Touchpad Driver Issue on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-hack-speeding-up-your-lol-download-dilemma-now-fixed/"><u>The Ultimate Hack: Speeding Up Your LoL Download Dilemma (Now Fixed!)</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-progress-how-to-resolve-frozen-update-states-on-outdated-oss-like-win7-solutions-and-troubleshooting-guide/"><u>Unlocking Progress: How to Resolve Frozen Update States on Outdated OSs Like Win7 (Solutions and Troubleshooting Guide)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-elite-choices-top-home-theater-computers-set-to-triumph/"><u>Unveiling Elite Choices: Top Home Theater Computers Set to Triumph</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-you-should-consider-transitioning-to-claude-3-over-chatgpt/"><u>Why You Should Consider Transitioning to Claude 3 Over ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-compatibility-fixing-connectivity-for-microsoft-wireless-display-adapters/"><u>Windows 11 Compatibility: Fixing Connectivity for Microsoft Wireless Display Adapters</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207655767-xbox-one-online-connectivity-issues-heres-your-comprehensive-solution/"><u>Xbox One Online Connectivity Issues? Here's Your Comprehensive Solution</u></a></li>
 </ul></div>
 

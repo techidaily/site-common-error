@@ -1,7 +1,7 @@
 ---
 title: "Resolving Stalled Windows Updates: A Step-by-Step Guide"
-date: 2024-09-16T17:43:50.445Z
-updated: 2024-09-20T17:01:23.777Z
+date: 2024-10-03T04:27:36.625Z
+updated: 2024-10-06T18:56:30.033Z
 tags:
   - win11
   - win10
@@ -76,13 +76,34 @@ If Windows Update can’t help you download certain system updates, you can try 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb0182b995.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**Go to **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)** . Then search for the updates you have failed to install.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb3a1da130.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** In the search results, find the update that matches your**operating system**and**system type**(_x86-,_ _x64- or ARM64-based_). Then click**Download**next to the update.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb49473bae.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Click the link on the new window to download the update.
 
@@ -105,19 +126,19 @@ It’s also possible that your Windows Update can’t work because of the corrup
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fbeb602fef.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**Wait for the process to complete, then restart your computer. After that, check to see if your Windows Update recovers.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 5: Disable your antivirus
@@ -131,10 +152,16 @@ Sometimes your system can’t install new updates due to the interference from y
 You may get issues with your Windows Update if you are using wrong or out-of-date device drivers. You should regularly check your device drivers and keep them up to date so as to prevent your computer from many annoying issues. But you may not have the time or patience to check and update your drivers manually. If you want to have this done easily and automatically, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .**Driver Easy**will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee): **1) [Download](https://tools.techidaily.com/drivereasy/download/)** and install Driver Easy.**2)**Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713a84159a4.png) **3)** Click the **Update** button next to each driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 7: Restore your Windows
@@ -147,22 +174,16 @@ Perhaps the issues with your Windows come from some changes you’ve made to you
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fc6fa8971e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Follow the on-screen instructions to choose a system restore point and restore your Windows.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fc712671f3.png)
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Wait for the restore process to complete and then check to see if your Windows Update gets back to normal.
 
@@ -182,5 +203,21 @@ Perhaps the issues with your Windows come from some changes you’ve made to you
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-behind-glasses-and-screens-vrs-evolutionary-tale-for-2024/"><u>[New] Behind Glasses and Screens VR’s Evolutionary Tale for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-vocalvault-recorder-reviewed/"><u>[New] VocalVault Recorder Reviewed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-harness-the-power-of-instagram-best-free-video-converter-apps-for-windowsmacos/"><u>[Updated] 2024 Approved Harness the Power of Instagram Best Free Video Converter Apps for Windows/macOS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-classroom-vids-essential-editing-strategies/"><u>[Updated] Classroom Vids Essential Editing Strategies</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-customized-obs-guide-for-budget-builds/"><u>[Updated] Customized OBS Guide for Budget Builds</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-game-masters-and-youtube-earning-strategies/"><u>2024 Approved Game Masters & YouTube Earning Strategies</u></a></li>
+<li><a href="https://os-tips.techidaily.com/discontinuation-alert-apple-ceases-manufacturing-for-magsafe-accessories-including-battery-and-duo-charging-mat/"><u>Discontinuation Alert: Apple Ceases Manufacturing for MagSafe Accessories Including Battery and Duo Charging Mat</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-real-time-collage-wizardry-tips-and-tricks/"><u>In 2024, Real-Time Collage Wizardry Tips & Tricks</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/muttonchicken-traditionally-biryani-was-made-with-goat-meat-mutton-from-lamb-chicken-became-a-popular-substitute-over-time-for-convenience-and-accessibility107/"><u>Mutton/Chicken: Traditionally, Biryani Was Made with Goat Meat (Mutton) From Lamb. Chicken Became a Popular Substitute over Time for Convenience and Accessibility Reasons. The Choice Between Them Depends on Regional Preferences and Dietary Habits.</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-device-not-found-effortless-fixes-to-connect-your-usb-storage-device-again/"><u>Overcoming 'Device Not Found': Effortless Fixes to Connect Your USB Storage Device Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-detected-audio-enhancement-glitches-easily/"><u>Overcoming Windows Detected Audio Enhancement Glitches Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-non-responsive-keyboard-typing/"><u>Resolved Issue: Non-Responsive Keyboard Typing</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-for-mic-problems-on-windows-10-computers-quick-fixes-inside/"><u>Solution for Mic Problems on Windows 10 Computers - Quick Fixes Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-ensuring-compatible-hardware-for-optimal-performance-in-world-of-warcraft/"><u>Troubleshooting: Ensuring Compatible Hardware for Optimal Performance in World of Warcraft</u></a></li>
+</ul></div>
 

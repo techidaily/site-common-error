@@ -1,7 +1,7 @@
 ---
 title: Arrow Key Malfunctions? Here's How to Restore Functionality on Your Keyboard
-date: 2024-09-14T18:00:40.836Z
-updated: 2024-09-20T18:40:13.533Z
+date: 2024-09-30T00:45:19.757Z
+updated: 2024-10-06T22:34:06.864Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 5. **[Disable the Scroll Lock key](#Fix5)**
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 
  After confirming that your hardware is not the problem, check out the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Reinstall your keyboard driver
 
  The arrow keys not working issue can be due to a faulty driver. To fix it, you can try uninstalling and reinstalling your keyboard driver. Here’s how:
@@ -58,33 +72,19 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
@@ -109,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable the Scroll Lock key
 
  If the arrow keys are not working as intended in**Excel** , try**disabling the Scroll Lock key** to fix the problem. If the Scroll Lock key is enabled, the whole page will move when you press any of the arrow keys, but the selected cell won’t change. So if you just want to use the arrow keys to move between different cells, you should turn off the Scroll Lock key.
@@ -139,22 +132,29 @@ If this method didn’t work for you, check out the last fix.
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -164,6 +164,13 @@ If this method didn’t work for you, check out the last fix.
 3. Click**Other troubleshooters** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -184,5 +191,20 @@ If this method didn’t work for you, check out the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-harnessing-the-power-of-fisheye-photography/"><u>[New] 2024 Approved Harnessing the Power of Fisheye Photography</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-reviving-classics-top-20-anime-concepts-for-tiktoks/"><u>[New] In 2024, Reviving Classics Top 20 Anime Concepts for TikToks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-visual-storytelling-with-iphone-xs-new-lens/"><u>[Updated] The Art of Visual Storytelling with iPhone X's New Lens</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/acer-unveils-the-ultimate-blend-of-mobility-and-muscle-with-its-predator-helios-neo-14-laptop/"><u>Acer Unveils the Ultimate Blend of Mobility & Muscle with Its Predator Helios Neo 14 Laptop</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crucial-top-5-smallest-action-recorders-review/"><u>Crucial Top 5 Smallest Action Recorders Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-to-correct-the-windows-11-update-failure-error-0x80070541/"><u>Easy Solutions to Correct the Windows 11 Update Failure (Error 0X80070541)</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207307794-easy-to-fix-your-dns-server-might-be-unavailable-error/"><u>Easy to Fix “Your DNS Server Might Be Unavailable” Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-fix-successfully-completing-your-windows-installation/"><u>Fast Fix: Successfully Completing Your Windows Installation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-xiaomi-13t-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Xiaomi 13T</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-persistent-issues-in-call-of-duty-black-ops-iv/"><u>Overcoming Persistent Issues in Call of Duty: Black Ops IV</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-slow-booting-problems-in-windows-7-with-easy-troubleshooting-steps/"><u>Overcoming Slow Booting Problems in Windows 7 with Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-you-need-a-d3d11-supported-gpu-for-optimal-performance/"><u>Solution: You Need a D3D11 Supported GPU for Optimal Performance</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rt-of-creating-youtube-video-thumbnails/"><u>The Art of Creating YouTube Video Thumbnails</u></a></li>
+</ul></div>
 

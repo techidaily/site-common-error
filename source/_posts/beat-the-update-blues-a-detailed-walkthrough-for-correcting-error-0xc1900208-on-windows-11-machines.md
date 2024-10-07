@@ -1,7 +1,7 @@
 ---
 title: "Beat the Update Blues: A Detailed Walkthrough for Correcting Error 0xC1900208 on Windows 11 Machines"
-date: 2024-09-26T22:16:37.652Z
-updated: 2024-10-01T20:27:39.729Z
+date: 2024-10-06T00:39:39.499Z
+updated: 2024-10-07T00:29:06.697Z
 tags:
   - win11
   - win10
@@ -45,10 +45,10 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
  Windows Update troubleshooter will try to fix the issue for you. You can restart your PC and try to perform a Windows update again. If it still doesn’t work, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 2: Restart the Windows Update service**
@@ -62,10 +62,10 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
  Please paste it in the address bar.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Delete** all the files in the folder **DataStore** .  
@@ -73,32 +73,27 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
  When all the files are deleted, you shall see “This folder is empty”.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open   **File Explorer**  . Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to open the **Download**  folder.**`C:\Windows\SoftwareDistribution\Download`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap400.png)  
  Please paste it in the address bar.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. **Delete** all the files in the folder   **Download** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap401.png)  
  When all the files are deleted, you shall see “This folder is empty”.
  Perform a Windows update again. If it still doesn’t work, try the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Run the DISM tool**
 
@@ -110,6 +105,14 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
     When you run command mentioned above, the DISM tool will scan all the system files and compare them with official system files. The function of this command line is to see if the system file on your PC is consistent with its official source or not. This command line doesn’t fix the corruption.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap403.png)  
     It may take several minutes for this command operation to be completed.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    2. **Dism /Online /Cleanup-Image /CheckHealth**  
     When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image exists corruptions or not. This command line also doesn’t repair the corrupted files.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap404.png)  
@@ -119,21 +122,14 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap405.png)  
     It may take several minutes for this command operation to be completed.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Close Command Prompt when the restore operation completed.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap406.png)
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 4: Running System File Checker**
@@ -142,18 +138,19 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 
 1. On your keyboard, press **the Windows Logo Key**  and then type **cmd**  in the search box. When you see **Command Prompt**  in the list of results, right-click it and then select **Run as administrator** . You will be prompted for permission. Click **OK**  to run **Command Prompt**  .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap407.png)
 2. On your keyboard, type the following command and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **sfc /scannow**  
  It may take some time for the command operation to be completed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap408.png)
 3. When this command operation is completed, close **Command Prompt** .
 Run Windows Update  again to check whether this fix works or not. If you still fail to install updates for your Windows system, don’t worry. Try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 5: Downloading updates from Microsoft Update Catalog manually**
 
@@ -165,6 +162,14 @@ Run Windows Update  again to check whether this fix works or not. If you still f
    1. On your keyboard, press **the Windows Logo key**  and **R**  at the same time to open the Run dialog. Type **cmd**  and press **Enter**  to open the Command Prompt.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap409.png)  
    2. Type the command line **systeminfo**  and press **Enter**  to view your system type.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap410.png)  
     “**X64-based PC** ” indicates that your Windows OS is**64-bit** ; “**X86-based PC** ” means that your Windows OS is**32-bit** .
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Visit **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)** .
 5. Type the update number that you want to download. In this example, type KB  3006137 and then click **Search** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap411.png)
 6. In the list of search results, select right update for your operating system and click **Download** .  
@@ -172,13 +177,6 @@ Run Windows Update  again to check whether this fix works or not. If you still f
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap412.png)
 7. In the pop-up window, click the link to start downloading the updates.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap413.png)
 8. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 See if the error code 0xc1900208 reappears. If this error persists, try the next fix.
 
@@ -208,21 +206,16 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-gigabyte-totals-for-extended-video-playback/"><u>[New] Gigabyte Totals for Extended Video Playback</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-huawei-p10-analysis-unveiling-performance-and-design-for-2024/"><u>[Updated] Huawei P10 Analysis Unveiling Performance & Design for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-how-to-record-your-screen-on-windows-8/"><u>[Updated] In 2024, How To Record Your Screen On Windows 8</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-lightning-fast-lore-resurrecting-reddit-articles-lost/"><u>[Updated] Lightning-Fast Lore Resurrecting Reddit Articles Lost</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208069021-enhance-windows-7-launch-speed-top-solutions-to-combat-delays/"><u>Enhance Windows 7 Launch Speed: Top Solutions to Combat Delays</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-malfunctioning-microphone-on-your-laptop-step-by-step-guide/"><u>Fixing a Malfunctioning Microphone on Your Laptop - Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-overcoming-errors-when-steams-vac-cant-validate-your-match/"><u>Guide: Overcoming Errors when Steam's VAC Can’t Validate Your Match</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-xiaomi-14-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Xiaomi 14 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-get-your-laptop-running-again-fast-charging-solutions/"><u>How to Get Your Laptop Running Again: Fast Charging Solutions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-real-time-recorder-battle-go-obs-vs-shadowplay/"><u>In 2024, Real-Time Recorder Battle Go OBS! Vs. ShadowPlay</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-error-resolution-eliminate-code-0x800f0831-with-ease-using-windows-update-features/"><u>Mastering Error Resolution: Eliminate Code 0X800^F0831 with Ease Using Windows Update Features</u></a></li>
-<li><a href="https://win-blog.techidaily.com/msi-afterburner-and-windows-compatibility-solving-gpu-non-detection-problems-in-w10w11/"><u>MSI Afterburner and Windows Compatibility: Solving GPU Non-Detection Problems in W10/W11</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-for-intermittent-sounds-in-your-logitech-g930-wireless-earphones/"><u>Solution for Intermittent Sounds in Your Logitech G930 Wireless Earphones</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-itel-s23-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-issues-when-opening-geforce-experience/"><u>Troubleshooting Guide: Resolving Issues When Opening GeForce Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harmonic-windows-tunes-hub/"><u>[New] Harmonic Windows Tunes Hub</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-dungeon-dynamics-the-leading-10-rogue-experiences/"><u>[Updated] 2024 Approved Dungeon Dynamics The Leading 10 Rogue Experiences</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-legacy-library-exploring-free-visual-echoes/"><u>2024 Approved The Legacy Library Exploring Free Visual Echoes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beginners-guide-the-ultimate-list-of-5-must-have-mobile-apps-for-learning-code/"><u>Beginner's Guide: The Ultimate List of 5 Must-Have Mobile Apps for Learning Code</u></a></li>
+<li><a href="https://common-error.techidaily.com/correcting-the-missing-sound-driver-issue-in-windows-11-tips-and-tricks/"><u>Correcting the Missing Sound Driver Issue in Windows 11 - Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-cannot-install-updates-message-error-0x8007001f-explained/"><u>How To Overcome The 'Cannot Install Updates' Message - Error 0X8007001F Explained!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/identifying-group-managed-settings-within-your-windows-configuration/"><u>Identifying Group-Managed Settings Within Your Windows Configuration</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-is-it-possible-to-use-miracast-with-apple-iphone-7-drfone-by-drfone-ios/"><u>In 2024, Is it Possible to Use Miracast with Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/streamline-fixing-missing-dll-on-pc-games/"><u>Streamline Fixing Missing DLL on PC Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubled-update-process-on-windows-10-version-1607/"><u>Troubled Update Process on Windows 10 (Version 1607)</u></a></li>
 </ul></div>
 

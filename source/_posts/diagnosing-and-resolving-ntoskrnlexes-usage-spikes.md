@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Resolving ntoskrnl.exe's Usage Spikes
-date: 2024-09-27T03:00:48.160Z
-updated: 2024-10-02T02:07:37.237Z
+date: 2024-09-30T19:57:12.496Z
+updated: 2024-10-06T22:49:27.483Z
 tags:
   - win11
   - win10
@@ -47,19 +47,6 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Remove browser extensions
 
  Extensions are small software programs that customize the browsing experience. They can let users set up Chrome functions according to the individual’s needs and preferences.  
@@ -82,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Turn off the**Help improve Chrome’s features and performance** option
 
  Google Chrome has a default setting that will automatically send diagnostic information to Google when your Chrome is crashed. Google uses this information to release a better Chrome version in the future.  
@@ -100,27 +80,20 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.10-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Sync and Google Services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/turn-off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Scroll down to the bottom, disable**Help improve Chrome’s features and performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Restart Chrome and open a URL in the third-party app to check if the error appears or not.
 
@@ -135,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
 2) Hit the three dots button in the upper right corner, then click**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.10-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Scroll down to the bottom and click**Advanced** .
 
@@ -160,17 +140,51 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the open Window, click**Clear browsing data** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Clear data** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Relaunch Chrome and open a URL in the third-party app to check the error will appear or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Add`“--process-per-site”` parameter
 
@@ -187,18 +201,18 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Restart Chrome and open a URL in the third-party app to check whether the error will appear or not.
 
 **Note** : If this method works for you, you should start Chrome with this shortcut every time.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 6: Rename the Google Chrome profile
 
@@ -216,19 +230,6 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.12-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Rename Default folder into_Default backup_ .
 
  5) Relaunch your Google Chrome. It’s now reset. Open a URL in the third-party app to check the error will appear or not.
@@ -243,13 +244,6 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 8: Reinstall your Google Chrome
 
  The error could be caused by corrupted installation. So you can reinstall the program to solve this problem.
@@ -258,13 +252,6 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/control-1024x626.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Set Control Panel view by**Category** . Then click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap821-1024x665.jpg)
@@ -272,6 +259,13 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
  3) Right-click on Google Chrome and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/uninstall-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Use another browser to download the latest version of Google Chrome from the[Google Chrome official website](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI0sLo0YH%5F4QIVksJkCh1jiw8SEAAYASAAEgIDF%5FD%5FBwE&gclsrc=aw.ds) .  
 
@@ -298,24 +292,24 @@ thumbnail: https://thmb.techidaily.com/9d8448293885018e42ea0c2c618da231bf75f85bd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-pro-tips-making-your-ipad-screen-capture-faster-and-hassle-free-for-2024/"><u>[Updated] Pro Tips Making Your iPad Screen Capture Faster and Hassle-Free for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-xiaomi-redmi-note-12-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Xiaomi Redmi Note 12 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-solution-for-dealing-with-failed-attempts-at-accessing-a-remote-server/"><u>Comprehensive Solution for Dealing With Failed Attempts at Accessing a Remote Server</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-strategies-to-overcome-recurring-freezing-errors-on-windows-or-mac-systems/"><u>Comprehensive Strategies to Overcome Recurring Freezing Errors on Windows or Mac Systems</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/discovering-the-best-our-full-scrutiny-of-inshot-app-for-2024/"><u>Discovering the Best - Our Full Scrutiny of InShot App for 2024</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/download-high-quality-songs-from-jango-in-various-formats-mp3-wav-aac-m4a-using-jango-downloader/"><u>Download High-Quality Songs From Jango in Various Formats (MP3, WAV, AAC, M4A) Using Jango Downloader</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-motorola-moto-g73-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Moto G73 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-game-crashes-effective-ways-to-keep-metro-exodus-running-smoothly-on-windows/"><u>No More Game Crashes: Effective Ways to Keep Metro Exodus Running Smoothly on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-when-your-pc-mouse-gets-stuck-a-complete-solution/"><u>Quick Fixes for When Your PC Mouse Gets Stuck – A Complete Solution</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/quick-windows-data-assessment-tutorial-for-2024/"><u>Quick Windows Data Assessment Tutorial for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-the-non-working-print-screen-button-on-pcs-with-windows-10-or-11/"><u>Step-by-Step Solutions for the Non-Working Print Screen Button on PCs with Windows 10 or 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tips-to-restore-keyboard-functionality-on-login/"><u>Step-by-Step Tips to Restore Keyboard Functionality on Login</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-making-bluetooth-appear-in-your-computers-device-manager/"><u>Troubleshooting Tips for Making Bluetooth Appear in Your Computer's Device Manager</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/leshooting-tips-for-the-mystery-of-hidden-shorts-thumbnails-for-2024/"><u>Troubleshooting Tips for the Mystery of Hidden Shorts Thumbnails for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcome-the-hurdle-of-error-0x800f0831-using-windows-update-features/"><u>Troubleshooting Tips: Overcome the Hurdle of Error 0X800f0831 Using Windows Update Features</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/type-effortlessly-on-the-go-discover-sanwa-supplys-new-usb-foot-pedals-for-hands-free-typing/"><u>Type Effortlessly on the Go: Discover Sanwa Supply's New USB Foot Pedals for Hands-Free Typing</u></a></li>
-<li><a href="https://common-error.techidaily.com/usb-device-not-recognized-keeps-popping-up-solved/"><u>USB Device Not Recognized Keeps Popping Up [SOLVED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-against-windows-11-keyboard-lag-effective-fixes-revealed/"><u>Winning Against Window's 11 Keyboard Lag - Effective Fixes Revealed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-insiders-blueprint-for-commanding-attention-with-posts/"><u>[New] The Insider's Blueprint for Commanding Attention with Posts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-boosting-obs-streams-direct-to-facebook-feed/"><u>2024 Approved Boosting OBS Streams Direct to Facebook Feed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/a-detailed-look-at-successful-valheim-sowing/"><u>A Detailed Look at Successful Valheim Sowing</u></a></li>
+<li><a href="https://common-error.techidaily.com/brightening-difficulty-windows-update-issue/"><u>Brightening Difficulty: Windows Update Issue</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/broadcast-without-breaks-2023-guides-to-overcoming-livestream-disruptions-on-fb/"><u>Broadcast Without Breaks 2023 Guides to Overcoming Livestream Disruptions on FB</u></a></li>
+<li><a href="https://win-dash.techidaily.com/epson-v600-scanner-drivers-free-download/"><u>Epson V600 Scanner Drivers - Free Download</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-overwatch-chatter-breakdowns-effortlessly-with-these-tricks/"><u>Fix Your Overwatch Chatter-Breakdowns Effortlessly with These Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-reactivate-your-quick-search-solving-the-problem-with-windows-plus-shift-plus-s-on-pcs/"><u>Guide to Reactivate Your Quick Search: Solving the Problem with Windows + Shift + S on PCs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-audience-attracting-innovations-in-fb-video-ad-design/"><u>In 2024, Audience-Attracting Innovations in FB Video Ad Design</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-remastered-romans-say-goodbye-to-game-crashes-with-this-definitive-guide/"><u>Master the Remastered Romans: Say Goodbye to Game Crashes with This Definitive Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-pip-feature-in-youtube-app-for-iphones-for-2024/"><u>Mastering PIP Feature in YouTube App for iPhones for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-connection-blizzard-inactive/"><u>No Connection: Blizzard Inactive</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-vanished-bluetooth-symbol-in-windows-11/"><u>Resolving the Vanished Bluetooth Symbol in Windows 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/seamless-sonic-connector-a-casters-companion/"><u>Seamless Sonic Connector A Caster's Companion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/speedy-visual-scan-of-your-pictures-on-win11-for-2024/"><u>Speedy Visual Scan of Your Pictures on Win11 for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-eliminating-windows-11-flicker-effect/"><u>Step-by-Step Guide: Eliminating Window's 11 Flicker Effect</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-ps4-mic-repair-overcoming-common-audio-problems/"><u>Step-by-Step PS4 Mic Repair: Overcoming Common Audio Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-dealing-with-sudden-blackouts-in-windows-interface/"><u>Step-by-Step Solutions for Dealing with Sudden Blackouts in Windows Interface</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-future-of-computer-cooling-unveiled-a-pc-engineered-for-air-circulation-using-centrifugal-force-not-just-fans/"><u>The Future of Computer Cooling Unveiled: A PC Engineered for Air Circulation Using Centrifugal Force, Not Just Fans</u></a></li>
 </ul></div>
 

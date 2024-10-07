@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: Attempted Write Operation on Read-Only Reference in Memory Address"
-date: 2024-09-17T19:25:33.457Z
-updated: 2024-09-20T18:24:36.018Z
+date: 2024-10-03T18:57:36.369Z
+updated: 2024-10-07T09:29:36.885Z
 tags:
   - win11
   - win10
@@ -46,6 +46,19 @@ thumbnail: https://thmb.techidaily.com/e72d3325cc82dd8ab836962e9def246da610dd4ef
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Update graphics card driver
 
  The LiveKernelEvent 144 error is, in many cases, related to a faulty or missing graphics card driver. So making sure that you have the latest and the correct graphics card driver installed is one of the first things you should do.
@@ -62,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/e72d3325cc82dd8ab836962e9def246da610dd4ef
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -85,6 +105,14 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -107,10 +135,10 @@ To do so, first visit the website of your GPU manufacturer:
 4. Double-click the expand the category**Universal Serial Bus controllers** . There should be some grey-out devices there.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-14.png)
@@ -119,21 +147,16 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-15.png)
 6. Click**Uninstall** to confirm.  
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-16.png)
 7. Repeat the same to remove all the other grey-out devices you see here.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Restart your computer afterward.
 9. Then plug the USB devices back into your computer one by one, preferably into the USB outputs on your computer rather than USB hubs or docks.
 10. Pay extra attention to any computer glitches you notice with your computer after plugging each USB device back in.
@@ -153,10 +176,10 @@ To do so, first visit the website of your GPU manufacturer:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update your computer BIOS and system firmware
@@ -169,6 +192,19 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Repair damaged system files
 
 **Corrupted or damaged system files** could also relate to problems like LiveKernelEvent with code 144 error. By repairing the core Windows system files, it may resolve conflicts, missing DLL issues, registry errors, and other problems that contribute to the instability of your computer performance. Tools like **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  can automate the repair process by scanning system files and replacing corrupted ones.
@@ -178,13 +214,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -205,13 +234,6 @@ To do so, first visit the website of your GPU manufacturer:
 Then see if the LiveKernelEvent 144 error is still seen.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Seek help from a hardware technician
 
@@ -238,5 +260,21 @@ Then see if the LiveKernelEvent 144 error is still seen.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-digital-footprint-how-to-share-your-short-videos-on-computers-and-phones/"><u>[New] In 2024, Digital Footprint How to Share Your Short Videos on Computers & Phones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revolutionary-techniques-for-chronological-categorization-of-photographs/"><u>[New] Revolutionary Techniques for Chronological Categorization of Photographs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-essential-6-apps-elevating-your-instagram-reels-for-2024/"><u>[Updated] Essential 6 Apps Elevating Your Instagram Reels for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-following-scrutiny-unorthodox-ideas/"><u>2024 Approved Following Scrutiny Unorthodox Ideas</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-techniques-for-creating-videos-on-windows-10/"><u>Cutting-Edge Techniques for Creating Videos on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-when-windows-cant-recognize-wd-my-passport-ultra-external-drive/"><u>How To Resolve When Windows Can't Recognize WD My Passport Ultra External Drive</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-choreography-of-audio-and-visuals-a-guide-to-editing-videos/"><u>In 2024, The Choreography of Audio and Visuals A Guide to Editing Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/miracast-compatibility-issues-update-your-graphics-driver-now/"><u>Miracast Compatibility Issues? Update Your Graphics Driver Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-guide-to-diagnose-and-solve-astro-a40-headset-mic-failures/"><u>Quick Guide to Diagnose and Solve Astro A40 Headset Mic Failures</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/rediscovering-demons-souls-with-next-gen-graphics-a-fusion-of-old-charm-and-modern-visual-excellence/"><u>Rediscovering Demon's Souls with Next-Gen Graphics: A Fusion of Old Charm & Modern Visual Excellence</u></a></li>
+<li><a href="https://common-error.techidaily.com/regain-bluetooth-connectivity-in-windows-10-fast-and-straightforward-methods/"><u>Regain Bluetooth Connectivity in Windows 10: Fast & Straightforward Methods!</u></a></li>
+<li><a href="https://common-error.techidaily.com/tutorial-eradicating-the-frustrating-windows-update-error-code-0x8007001f/"><u>Tutorial: Eradicating the Frustrating Windows Update Error Code 0X8007001f</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-destiny-2-server-unreachable-problems/"><u>Ultimate Guide: Resolving Destiny 2 Server Unreachable Problems</u></a></li>
+</ul></div>
 

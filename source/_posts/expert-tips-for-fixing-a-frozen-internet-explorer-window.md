@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Fixing a Frozen Internet Explorer Window
-date: 2024-09-18T16:30:44.117Z
-updated: 2024-09-20T18:09:46.009Z
+date: 2024-10-05T04:32:33.774Z
+updated: 2024-10-06T16:47:17.667Z
 tags:
   - win11
   - win10
@@ -37,6 +37,14 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 * On your Windows desktop,**right-click** the Internet Explorer icon and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97657a9ffb1.jpg)
 * If you can’t find the IE icon on your Desktop, you can type**internet explorer** in the search box,**right click** on the matching result and select**Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b973b893efd1.jpg)
 * **Windows 7** users can simply click the**Start** button >**All Programs** \> right-click**Internet Explorer** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9743f37f2ea.jpg)
@@ -54,6 +62,14 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 4. Under**Reset Internet Explorer settings** , click the**Reset** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976cde69f2c.jpg)
 5. Click**Reset** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976c49cc984.jpg)
 6. Click**Close** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976c985acfc.png)
@@ -62,6 +78,13 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
  If it isn’t successful, there may be something wrong with the Internet Explorer files.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 3: Run System File Checker
 
@@ -74,13 +97,6 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97754fa8fce.jpg)
 3. Click **Yes**  at the **User Account Control** prompt.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97756bba070.jpg)
 4. Once Command Prompt is open, type the **sfc /scannow**  command and press **Enter**  on your keyboard.  
 **Note:**  There’s a space between **sfc**  and **/scannow**  .  
@@ -92,6 +108,13 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 4: Disable your security software
 
  It could also be possible that some piece of your security or antivirus software, say,Trusteer Rapport,  is causing the problem. Try disabling or uninstalling it to fix the issue, as it worked for some users. Here’s how to disable security software:
@@ -99,6 +122,20 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 1. Right-click on the Taskbar and select**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977d9f3f6d2.jpg)
 2. Click the**Startup** tab.  
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977dc8cdc2e.png)
 3. Select the program(s) you want to disable and click the**Disable** button in the bottom right corner. Then, IE should open normally.
 
@@ -113,30 +150,31 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 2. When the **System Restore**  window pops up, select **Choose a different restore point**  and click **Next**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977bc3e7e53.jpg)
 3. **Check**  the box beside **Show more restore points**  , and select a point in time when you remember IE was last working properly, then click   **Next.**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977be68701e.jpg)
 4. Save any open files on your PC, then click   **Finish.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977bff6dfa0.jpg)
 5. Click **Yes**  , and your PC will restart.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977c223e7c1.png)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977c223e7c1.png)
 
 Hopefully this can help you out.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -154,21 +192,14 @@ Hopefully this can help you out.
 3. Click the **Update** button next to your network adapter driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _**all**_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9785e720824.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -189,5 +220,19 @@ Please do reply if you got your problem fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/pubg-no-more-misfires-dxgidll-secured/"><u>[PUBG] No More Misfires - Dxgi.dll Secured</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-adjusting-settings-for-audible-obs-broadcasts/"><u>[Updated] 2024 Approved Adjusting Settings for Audible OBS Broadcasts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-free-software-leaders-in-chromebook-screen-recording-for-2024/"><u>[Updated] Free Software Leaders in Chromebook Screen Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebook-cover-video-widthheight-guide/"><u>2024 Approved Facebook Cover Video Width/Height Guide</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discovering-excellence-top-cable-modem-picks-for-2eplus24/"><u>Discovering Excellence: Top Cable Modem Picks for 2E+24</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-sem-custo-transformar-videos-em-formato-wtv-usando-o-movaviconverter/"><u>Download Sem Custo: Transformar Vídeos Em Formato WTV Usando O MovaviConverter</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-mend-corrupted-files-in-windows-11-using-system-file-check-sfc-and-deployment-image-servicing-dism/"><u>Effective Strategies to Mend Corrupted Files in Windows 11 Using System File Check (SFC) & Deployment Image Servicing (DISM)</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhanced-efficiency-after-resolving-inadequate-system-resources-warning/"><u>Enhanced Efficiency After Resolving Inadequate System Resources Warning</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-eliminating-cod-wwii-error-4220-the-ultimate-fix-checklist/"><u>Expert Tips for Eliminating COD WWII Error 4220 - The Ultimate Fix Checklist</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-detailed-methods-for-seamless-wirecast-livestreams-on-youtube/"><u>In 2024, Detailed Methods for Seamless WireCast Livestreams on YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-stuck-huion-pen-problems-in-a-flash-5-essential-troubleshooting-steps/"><u>Resolve Your Stuck Huion Pen Problems in a Flash: 5 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://network-issues.techidaily.com/restoring-missing-wi-fi-support-in-win10-environment/"><u>Restoring Missing Wi-Fi Support in Win10 Environment</u></a></li>
+</ul></div>
 

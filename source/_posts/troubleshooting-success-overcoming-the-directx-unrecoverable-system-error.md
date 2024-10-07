@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Success: Overcoming the DirectX Unrecoverable System Error"
-date: 2024-09-26T20:24:10.324Z
-updated: 2024-10-02T03:41:21.587Z
+date: 2024-10-03T20:09:01.152Z
+updated: 2024-10-07T04:40:27.293Z
 tags:
   - win11
   - win10
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/605a2b60dd4e570dfd22e876f19c59deb3b2c2bba
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
@@ -55,10 +55,16 @@ thumbnail: https://thmb.techidaily.com/605a2b60dd4e570dfd22e876f19c59deb3b2c2bba
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
@@ -70,35 +76,37 @@ thumbnail: https://thmb.techidaily.com/605a2b60dd4e570dfd22e876f19c59deb3b2c2bba
 1. Type **media**  in the search box from Start. Then click **Windows Media Player**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
-3. Click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. Click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
@@ -108,10 +116,16 @@ thumbnail: https://thmb.techidaily.com/605a2b60dd4e570dfd22e876f19c59deb3b2c2bba
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
@@ -151,17 +165,24 @@ thumbnail: https://thmb.techidaily.com/605a2b60dd4e570dfd22e876f19c59deb3b2c2bba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-notable-industry-players-driving-vr-growth/"><u>[New] 2024 Approved Notable Industry Players Driving VR Growth</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-download-youtube-icons-quickly-web-os-specific-options-explained/"><u>[New] In 2024, Download YouTube Icons Quickly Web, OS-Specific Options Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ins-and-outs-of-firefox-picture-in-picture/"><u>2024 Approved The Ins and Outs of Firefox Picture-in-Picture</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-moto-g13-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola Moto G13 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/die-17-beste-orte-fur-kostenlose-textverlangerung-verwandle-mit-movavi/"><u>Die 17 Beste Orte Für Kostenlose Textverlängerung: Verwandle Mit Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-device-or-resource-unavailable-on-windows-systems/"><u>Effective Fixes for 'Device or Resource Unavailable' On Windows Systems</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-15-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 15 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellars-guide-essential-advice-on-securely-wiping-digital-information/"><u>Stellar's Guide: Essential Advice on Securely Wiping Digital Information</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-getting-your-windows-1011-night-mode-back-on-track/"><u>Step-by-Step: Getting Your Windows 10/11 Night Mode Back on Track</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-overcome-ppt-save-blunders-6-quick-fixes-windows-users-need/"><u>Swiftly Overcome PPT Save Blunders: 6 Quick Fixes Windows Users Need</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-3d-rendering-errors-fixing-d3derrnotavailable-issues/"><u>Troubleshooting 3D Rendering Errors: Fixing D3DERR_NOTAVAILABLE Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/x3daudio17dll-glitch-a-simple-guide-to-fixes/"><u>X3DAudio1_7.dll Glitch: A Simple Guide to Fixes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-openplayclip-your-free-pass-to-perfect-gamers-recordings-for-2024/"><u>[New] OpenPlayClip Your Free Pass to Perfect Gamers' Recordings for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-google-meet-mastery-for-free-hostparticipants-ultimate-handbook/"><u>[Updated] 2024 Approved Google Meet Mastery for Free Host/Participant's Ultimate Handbook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-how-do-we-experience-realities-in-a-virtual-sense/"><u>[Updated] In 2024, How Do We Experience Realities in a Virtual Sense?</u></a></li>
+<li><a href="https://common-error.techidaily.com/arrow-key-issues-on-your-keyboard-fix-them-with-these-expert-methods/"><u>Arrow Key Issues on Your Keyboard? Fix Them With These Expert Methods!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/designers-delight-incorporating-fonts-into-ae-projects/"><u>Designer's Delight Incorporating Fonts Into AE Projects</u></a></li>
+<li><a href="https://common-error.techidaily.com/failed-system-enhancement-windows-10-version-1607-installation-woes/"><u>Failed System Enhancement: Windows 10 Version 1607 Installation Woes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-corsair-k70-peripherals-up-and-running-free-downloads/"><u>Get Your Corsair K70 Peripherals Up and Running – Free Downloads!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-11-proplus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 11 Pro+ to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-innovative-mac-image-recording-the-top-5-cutting-edge-techniques/"><u>In 2024, Innovative Mac Image Recording The Top 5 Cutting-Edge Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-honor-x9b-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Honor X9b Location | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211399277-master-the-fix-successful-steps-to-resolve-error-code-1-new-best-seo-titles-for-google-search-fatal-installer-glitch-error-1603-solved/"><u>Master the Fix: Successful Steps to Resolve Error Code 1 # New Best SEO Titles for Google Search - Fatal Installer Glitch (Error 1603) Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-through-troublesome-steam-setup-processes-tips-to-correct-common-problems/"><u>Navigating Through Troublesome Steam Setup Processes: Tips to Correct Common Problems</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-s-most-popular-free-4k-video-conversion-software-for-2024/"><u>New S Most Popular Free 4K Video Conversion Software for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-gameplay-disruptions-optimizing-stutter-and-reducing-lag-in-naraka-bladepoint/"><u>Overcoming Gameplay Disruptions: Optimizing Stutter & Reducing Lag in Naraka: Bladepoint</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-guide-for-non-responsive-windows-11-start-menu/"><u>Resolved: Troubleshooting Guide for Non-Responsive Windows 11 Start Menu</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solutions-for-the-openal32dll-error-message/"><u>Troubleshooting and Solutions for The openal32.dll Error Message</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-your-windows-computers-non-functional-built-in-camera/"><u>Troubleshooting Steps: Resolving Your Windows Computer's Non-Functional Built-In Camera</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-certain-monitors-dont-accept-current-input-specifications-a-technical-insight/"><u>Why Certain Monitors Don't Accept Current Input Specifications: A Technical Insight</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-touchpad-woes-heres-how-to-keep-your-cursor-visible/"><u>Windows 11 Touchpad Woes? Here's How to Keep Your Cursor Visible</u></a></li>
 </ul></div>
 

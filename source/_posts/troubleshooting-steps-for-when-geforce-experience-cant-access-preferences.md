@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for When GeForce Experience Can't Access Preferences
-date: 2024-09-13T18:54:24.666Z
-updated: 2024-09-20T19:24:31.562Z
+date: 2024-10-06T10:18:19.435Z
+updated: 2024-10-07T11:43:34.582Z
 tags:
   - win11
   - win10
@@ -48,10 +48,25 @@ No game can be immune to bugs and glitches, and this is particularly true with**
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
 5. Launch Apex Legends and check to see if the error has been fixed. If yes, then great! If the issue persists, please try**Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Repair Apex Legends in Origin
 
@@ -65,13 +80,6 @@ Here are the steps to repair Apex Legends in Origin:
 3. Wait until the repair process finishes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-5.png)
 4. Once done, run Apex Legends and see if the Easy Anti-Cheat error has been resolved. If it’s no joy, please continue with**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Run Apex Legends and Origin as Administrator
 
@@ -100,6 +108,13 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run.png)
 2. In the window that pops up, click**Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-13.png)
 3. Browse through the list of Allowed apps and features to see if Easy Anti-Cheat and Apex Legends are included. If not, click**Change settings** , click**Allow another app…** , then follow the on-screen instructions to add the apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Snap5.png)
@@ -118,14 +133,28 @@ Here are the steps to repair Apex Legends in Origin:
 3. Wait until you see the following message. Then click **Close** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-2.png)
 4. Open Apex Legends and hopefully the error is resolved. If not, please try**Fix 7** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends and Origin
 
@@ -146,37 +175,17 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-15.png)
 2. View Control Panel by **Category** , and then click **Uninstall a program** .  
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-14.png)
 3. Double-click **Origin** to uninstall it.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-6.png)
 4. Restart your Windows system when it is completed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. **[Download](https://www.dm.origin.com/download)**  the latest version of Origin and then double-click the file you downloaded to reinstall it.
@@ -201,5 +210,24 @@ Here are the steps to repair Apex Legends in Origin:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-proven-methods-for-conducting-outstanding-interviews/"><u>[New] 2024 Approved Proven Methods for Conducting Outstanding Interviews</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-reducing-volume-stealthily-on-computers-os-x-and-windows/"><u>[New] In 2024, Reducing Volume Stealthily on Computers (OS X & Windows)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-seamless-transition-from-smartphones-to-pc-and-mac-videos-for-2024/"><u>[New] Seamless Transition From Smartphones to PC & Mac Videos for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-optimal-viewing-verticalhorizontal-in-fb-videos/"><u>[Updated] 2024 Approved Optimal Viewing - Vertical/Horizontal in FB Videos?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-beginners-guide-to-zoom-webinars-for-2024/"><u>[Updated] Beginner’s Guide to Zoom Webinars for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-to-resolve-monitor-projecting-error-on-windows-computers/"><u>Effortless Fixes To Resolve Monitor Projecting Error On Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-eradicating-the-errcachemiss-problem-in-google-chrome/"><u>Expert Solutions: Eradicating the ERR_CACHE_MISS Problem in Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-and-solutions-how-to-resolve-nier-automata-pc-game-crash-issues/"><u>Fixes and Solutions: How to Resolve Nier: Automata PC Game Crash Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-why-your-number-keys-on-the-keyboard-arent-responding/"><u>Fixing the Issue: Why Your Number Keys on the Keyboard Aren't Responding</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-dell-laptop-solutions-for-unresponsive-keyboard/"><u>Fixing Your Dell Laptop: Solutions for Unresponsive Keyboard</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-oppo-reno-9a-by-fonelab-android-recover-video/"><u>How to recover old videos from your Oppo Reno 9A</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/seamless-streaming-how-to-fix-mp4-file-errors-on-popular-smart-tv-brands/"><u>Seamless Streaming: How to Fix MP4 File Errors on Popular Smart TV Brands</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-dual-boot-revolution-on-your-steam-deck-device/"><u>The Dual Boot Revolution on Your Steam Deck Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-hitch-free-guide-to-restoring-your-mac-webcam-functionality/"><u>The Hitch-Free Guide to Restoring Your Mac Webcam Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-strategies-for-troubleshooting-windows-10s-unresponsive-bluetooth-pairing/"><u>Top Strategies for Troubleshooting Windows 10'S Unresponsive Bluetooth Pairing</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-thawing-your-screen-resolving-pc-freeze-issues/"><u>Ultimate Guide: Thawing Your Screen – Resolving PC Freeze Issues</u></a></li>
+</ul></div>
 

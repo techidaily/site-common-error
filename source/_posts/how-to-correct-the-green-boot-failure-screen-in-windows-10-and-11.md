@@ -1,7 +1,7 @@
 ---
 title: How to Correct the Green Boot Failure Screen in Windows 10 & 11
-date: 2024-09-13T19:33:52.866Z
-updated: 2024-09-20T17:30:57.059Z
+date: 2024-10-06T05:49:29.150Z
+updated: 2024-10-07T01:08:02.893Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. **[Change Boot Order in BIOS](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Update Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your drivers
 
  This problem may occur if you are using the wrong device driver or it’s out of date. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -46,6 +53,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -64,25 +78,20 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -94,15 +103,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -119,15 +129,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
 ---
@@ -149,5 +160,19 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-eco-friendly-visual-effect-systems-a-beginners-guide/"><u>[New] In 2024, Top Eco-Friendly Visual Effect Systems A Beginner's Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-magix-music-maker-2024-revolutionizing-home-recording-experience/"><u>[New] Magix Music Maker 2024 Revolutionizing Home Recording Experience</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-guide-to-respecting-musicians-rights-on-ig/"><u>[Updated] The Ultimate Guide to Respecting Musicians' Rights on IG</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-unifying-your-musical-journey-converting-spotify-plays-into-youtube-music-lists-for-2024/"><u>[Updated] Unifying Your Musical Journey Converting Spotify Plays Into YouTube Music Lists for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-reducing-wudfhostexes-high-resource-demand-on-windows-11/"><u>Effective Solutions for Reducing wudfhost.exe's High Resource Demand on Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-selfie-sticks-for-iphone-users/"><u>In 2024, Ideal Selfie Sticks for iPhone Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/shockwave-flash-now-works-smoothly-in-google-chrome-after-latest-patch/"><u>Shockwave Flash Now Works Smoothly in Google Chrome After Latest Patch</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-fix-typing-incorrect-characters-on-your-keyboard/"><u>Solved: How to Fix Typing Incorrect Characters on Your Keyboard</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/speedy-views-on-vimeo-how/"><u>Speedy Views on Vimeo How?</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-tips-resolving-issues-with-non-downloading-torrent-files/"><u>Top Tips: Resolving Issues with Non-Downloading Torrent Files</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/transform-your-pdf-documents-into-flip-books-online-convert-files-seamlessly-and-personalize-them-with-a-range-of-design-options-flipbuildercom/"><u>Transform Your PDF Documents Into Flip Books Online: Convert Files Seamlessly and Personalize Them with a Range of Design Options [FlipBuilder.com]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-troubleshooting-and-fixing-error-code-130-on-steam/"><u>Ultimate Guide to Troubleshooting and Fixing Error Code 130 on Steam</u></a></li>
+</ul></div>
 

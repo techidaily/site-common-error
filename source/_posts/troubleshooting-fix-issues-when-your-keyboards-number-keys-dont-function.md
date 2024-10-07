@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fix Issues When Your Keyboard's Number Keys Don't Function"
-date: 2024-09-30T18:28:42.993Z
-updated: 2024-10-02T00:22:09.331Z
+date: 2024-09-30T04:50:00.928Z
+updated: 2024-10-06T22:03:52.928Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/78f06b81f7c57e1e88ac6a7fa4601f5ae07cf7d31
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -50,16 +43,16 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -82,15 +75,22 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -116,13 +116,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -130,10 +123,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -160,6 +159,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -199,19 +205,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-best-global-music-stream-service/"><u>[New] In 2024, Best Global Music Stream Service</u></a></li>
-<li><a href="https://common-error.techidaily.com/breeze-through-the-process-of-correcting-double-display-mishaps-in-pc-systems/"><u>Breeze Through The Process of Correcting Double Display Mishaps in PC Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-network-failures-a-user-manual-to-restore-ethernet-functionality-in-windows-10-and-7-systems/"><u>Fix Network Failures: A User Manual to Restore Ethernet Functionality in Windows 10 & 7 Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-artificial-intelligence-chatbots-revolutionize-the-world-of-content-writing/"><u>How Artificial Intelligence Chatbots Revolutionize the World of Content Writing</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-the-wwe-2k-battlegrounds-directx-11-version-10-error/"><u>How to Overcome the WWE 2K Battlegrounds DirectX 11 Version 10 Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-safely-eliminate-google-chromes-critical-error-scam/"><u>How To Safely Eliminate Google Chrome's Critical Error Scam</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-audiences-take-gopro-hero5-footage/"><u>In 2024, Audience's Take GoPro Hero5 Footage</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximize-your-apple-vision-pro-experience-with-the-ultimate-guide-to-in-store-testing-learn-how-and-schedule-now/"><u>Maximize Your Apple Vision Pro Experience with the Ultimate Guide to In-Store Testing - Learn How & Schedule Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-systemic-resource-clashes-in-technology/"><u>Resolving Systemic Resource Clashes in Technology</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformez-votre-fichier-video-mp4mpeg-en-animation-flash-swf-gratuitement-sur-le-site-de-conversion-de-movavi/"><u>Transformez Votre Fichier Vidéo MP4/MPEG en Animation Flash SWF Gratuitement Sur Le Site De Conversion De Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-overcome-errors-during-steam-game-updates/"><u>Troubleshooting Guide: How To Overcome Errors During Steam Game Updates</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-mov-video-stitching-5-best-software-for-windows-mac-and-online/"><u>Updated Free MOV Video Stitching 5 Best Software for Windows, Mac, and Online</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-auditory-storytelling-in-cinematic-openings-for-2024/"><u>[New] Auditory Storytelling in Cinematic Openings for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-open-broadcasters-versus-shadowreplay-for-2024/"><u>[New] Open Broadcasters Versus ShadowReplay for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-the-power-of-split-window-on-netflix-platform/"><u>[New] Unleash the Power of Split Window on Netflix Platform</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-culmination-of-day-blackout-effects/"><u>[Updated] Culmination of Day - Blackout Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-future-in-flight-hubsan-h501s-hovering-highlights/"><u>[Updated] The Future in Flight Hubsan H501S Hovering Highlights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-turn-back-the-tape-on-twitch-broadcasting/"><u>[Updated] Turn Back the Tape on Twitch Broadcasting</u></a></li>
+<li><a href="https://common-error.techidaily.com/5-effective-methods-to-repair-your-windows-10-touchscreen-a-step-by-step-guide/"><u>5 Effective Methods to Repair Your Windows 10 Touchscreen: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-repair-for-non-functioning-skype-camera-on-windows-10-devices/"><u>Effortless Repair for Non-Functioning Skype Camera on Windows 10 Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-video-audio-mastering-the-srt-mp4-duo/"><u>Enhancing Video Audio Mastering the SRT-MP4 Duo</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-strategies-to-correct-opengl-glitches-in-your-minecraft-gameplay/"><u>Expert Strategies to Correct OpenGL Glitches in Your Minecraft Gameplay</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-machine-that-gets-stuck-on-its-boot-interface-expert-advice/"><u>How To Fix A Machine That Gets Stuck On Its Boot Interface: Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-microphone-on-your-laptop-a-step-by-step-guide/"><u>How to Fix a Non-Responsive Microphone on Your Laptop: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-casting-issues-to-devices-from-your-windows-11-pc/"><u>How to Fix Casting Issues to Devices From Your Windows 11 PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prepare-for-acemagic-x1s-early-bird-discount-pre-launch-and-pricing-announcement-soon/"><u>Prepare for AceMagic X1's Early Bird Discount – Pre-Launch and Pricing Announcement Soon!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-widevine-content-decryption-module-out-of-date-problem-on-pc/"><u>Resolving 'Widevine Content Decryption Module' Out-of-Date Problem on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-typing-problems-on-your-pc-windows-11-7-and-8/"><u>Solving Typing Problems on Your PC (Windows 11, 7 & 8)</u></a></li>
+<li><a href="https://common-error.techidaily.com/tango-evdo-rev-a-6-mbits-download/"><u>Tango – EVDO Rev A, 6 Mbit/S Download</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-bordered-ig-posts-using-best-apps/"><u>The Ultimate Guide to Bordered IG Posts Using Best Apps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/versatile-moko-compact-bluetooth-keyboard-portable-and-lightweight-design/"><u>Versatile MoKo Compact Bluetooth Keyboard: Portable & Lightweight Design</u></a></li>
 </ul></div>
 

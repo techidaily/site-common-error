@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: How To Troubleshoot and Repair Your PS4 Microphone Issues"
-date: 2024-09-18T18:24:32.660Z
-updated: 2024-09-20T16:46:49.737Z
+date: 2024-09-30T04:22:26.380Z
+updated: 2024-10-06T18:38:45.888Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
 
@@ -65,18 +72,27 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -87,6 +103,14 @@ To do so:
 1. Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 3. Click on **your microphone device again** and click**Properties** .  
@@ -96,10 +120,10 @@ To do so:
 5. Click **OK**  to apply the changes in the windows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
@@ -137,5 +161,22 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-11-pros-window-secrets/"><u>[New] Unlocking 11 Pro's Window Secrets</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-tech-tutorial-exporting-and-storing-your-snaps-safely/"><u>[Updated] 2024 Approved Tech Tutorial Exporting and Storing Your Snaps Safely</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-dealing-with-internet-explorer-has-been-forced-to-close-alert/"><u>Comprehensive Fixes: Dealing With 'Internet Explorer Has Been Forced to Close' Alert</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminating-opengl-glitches-in-minecraft-comprehensive-tips-for-gamers/"><u>Eliminating OpenGL Glitches in Minecraft - Comprehensive Tips for Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-1603-unravelled-diagnosing-and-correcting-installation-faults-successfully/"><u>Error 1603 Unravelled: Diagnosing & Correcting Installation Faults Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-non-responsive-mouse-on-macbook-and-windows-pc-expert-advice/"><u>Fixing a Non-Responsive Mouse on MacBook and Windows PC – Expert Advice</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oneplus-11r-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus 11R Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-screen-and-webcam-recording-made-easy-top-10-windows-10-software/"><u>New In 2024, Screen and Webcam Recording Made Easy Top 10 Windows 10 Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-problems-with-the-night-light-feature-in-windows-11-systems/"><u>Overcoming Problems with the Night Light Feature in Windows 11 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-for-fixing-ring-of-elysiums-persistent-crash-problem/"><u>Quick Solutions for Fixing Ring of Elysium's Persistent Crash Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-elevated-cpu-consumption-caused-by-wudfhostexe-on-windows-10/"><u>Resolving Elevated CPU Consumption Caused by wudfhost.exe on Windows 10</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/subtitle-edit-for-mac-download-alternatives/"><u>Subtitle Edit for Mac Download Alternatives</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-pubgs-network-errors-for-a-smoother-gaming-experience/"><u>Troubleshooting PUBG's Network Errors for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-gpt-4-an-in-depth-look-at-7-integrated-apps/"><u>Understanding GPT-4: An In-Depth Look at 7 Integrated Apps</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Sluggishness in Google Chrome – Prompt Techniques to Restart and Refresh
-date: 2024-09-17T17:06:25.703Z
-updated: 2024-09-20T16:48:18.451Z
+date: 2024-09-30T05:43:08.833Z
+updated: 2024-10-07T00:17:36.891Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Remove browser extensions
 
  Extensions are small software programs that customize the browsing experience. They can let users set up Chrome functions according to the individual’s needs and preferences.  
@@ -69,6 +76,19 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Turn off the**Help improve Chrome’s features and performance** option
 
  Google Chrome has a default setting that will automatically send diagnostic information to Google when your Chrome is crashed. Google uses this information to release a better Chrome version in the future.  
@@ -80,9 +100,29 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.10-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Sync and Google Services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/turn-off.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Scroll down to the bottom, disable**Help improve Chrome’s features and performance** .
 
@@ -91,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
  5) Restart Chrome and open a URL in the third-party app to check if the error appears or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Reset Google Chrome to default settings
 
@@ -109,18 +142,18 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.10-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down to the bottom and click**Advanced** .
 
  4) Scroll down to the bottom and click**Restore settings to their original defaults** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click**Reset settings** to reset Google Chrome.
 
@@ -144,13 +177,34 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Clear data** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Relaunch Chrome and open a URL in the third-party app to check the error will appear or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Add`“--process-per-site”` parameter
 
@@ -161,25 +215,11 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.5-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the**Shortcut** tab, add`“--process-per-site”` in the Target box and then click**Apply** .  
  Next, a window will appear. Click**Continue** , then click**OK** .  
 **Note** : There’s a space before`“--process-per-site”` .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Restart Chrome and open a URL in the third-party app to check whether the error will appear or not.
 
@@ -216,13 +256,6 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
  Or, open Chrome and you can click the three dots button in the upper right corner in Chrome. Then click**Help** \>**About Google Chrome** to update your Google Chrome.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 8: Reinstall your Google Chrome
 
@@ -263,5 +296,16 @@ thumbnail: https://thmb.techidaily.com/0e8b59a0a7e5a9b9173ae5feaad5ddb56b135eee3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unlock-creative-potential-top-methods-for-green-screen-filming/"><u>[New] 2024 Approved Unlock Creative Potential Top Methods for Green Screen Filming</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-quick-alteration-youtube-vids-fit-mac-displays/"><u>[Updated] In 2024, Quick Alteration YouTube Vids Fit Mac Displays</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unleash-potential-superior-strategies-for-personalized-facebook-profiles-for-2024/"><u>[Updated] Unleash Potential Superior Strategies for Personalized Facebook Profiles for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-sound-absence-in-acer-computers-effectively/"><u>How to Fix Sound Absence in Acer Computers Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-speed-up-your-windows-pertinent-boot-process/"><u>How to Speed Up Your Windows Pertinent Boot Process</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-playing-life-is-strange-true-colors-without-crashes-expert-tips-and-solutions/"><u>Master Playing Life Is Strange: True Colors Without Crashes - Expert Tips and Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-response-from-your-corsair-keyboard-try-these-proven-fixes/"><u>No Response From Your Corsair Keyboard? Try These Proven Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/speed-up-your-typing-experience-easy-fixes-for-a-slow-keyboard/"><u>Speed Up Your Typing Experience: Easy Fixes for a Slow Keyboard</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-looking-beyond-adobe-10-premiere-elements-alternatives-for-mac-and-pc-users/"><u>Updated 2024 Approved Looking Beyond Adobe 10 Premiere Elements Alternatives for Mac and PC Users</u></a></li>
+</ul></div>
 

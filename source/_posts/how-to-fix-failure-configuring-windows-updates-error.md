@@ -1,7 +1,7 @@
 ---
 title: How to Fix “Failure Configuring Windows Updates” Error
-date: 2024-09-15T18:30:39.158Z
-updated: 2024-09-20T17:58:08.262Z
+date: 2024-10-03T04:08:53.078Z
+updated: 2024-10-06T21:35:50.124Z
 tags:
   - win11
   - win10
@@ -50,13 +50,37 @@ thumbnail: https://thmb.techidaily.com/06b4f561e77b6da888e1e3e26d3fff8eafe69267e
 2. Click Download to download the latest version of IE 11.  
 ![download the latest version of IE 11](https://images.drivereasy.com/wp-content/uploads/2018/09/download-the-latest-version-of-IE-11.jpg)
 3. Install the latest version of IE 11 on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then Type **control** and press **Enter** to open the Control Panel.  
 ![step 4](https://images.drivereasy.com/wp-content/uploads/2018/09/step-4.jpg)
 5. In the search box in the upper-right corner, type **installed update** . Click **View installed updates** under **Programs and Features**  to view installed updates on your PC.  
 ![View installed updates](https://images.drivereasy.com/wp-content/uploads/2018/09/View-installed-updates.jpg)
 6. Delete **Hotfix for Microsoft Windows (KB2534111)** and **Hotfix for Microsoft Windows (KB2639308)** .   **If you don’t find these two hot fixes, please skip this step.**  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![step 6](https://images.drivereasy.com/wp-content/uploads/2018/09/step-6.jpg)
 7. Restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Open IE and go through the welcome screen. Then close all the tabs to close IE.
 9. Restart your PC.
 
@@ -90,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/06b4f561e77b6da888e1e3e26d3fff8eafe69267e
 ![Fix 3 step 2](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-3-step-2.jpg)
 3. On your keyboard, press **the Windows Logo Key** and **E** at the same time to open **File Explorer** . Copy the path below and paste it in the address bar, then press **Enter** on your keyboard to go to the **DataStore**  folder.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **C:\\Windows\\SoftwareDistribution\\DataStore**  
 
 ![Fix 3 step 3](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-3-step-3.jpg)
@@ -102,21 +133,14 @@ thumbnail: https://thmb.techidaily.com/06b4f561e77b6da888e1e3e26d3fff8eafe69267e
 6. Delete all the files in the folder **Download** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. In the Services window, right-click **Windows Update**  and select **Start** .  
 ![Fix 3 step 7](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-3-step-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Go and check Windows Update again to see whether you can perform the Windows update or not. If it still doesn’t work, please try the next fix.
 
@@ -136,38 +160,27 @@ thumbnail: https://thmb.techidaily.com/06b4f561e77b6da888e1e3e26d3fff8eafe69267e
 ![DISM CheckHealth](https://images.drivereasy.com/wp-content/uploads/2018/09/DISM-CheckHealth.jpg)  
 **Note:** When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image exists corruptions or not. This command line also doesn’t repair the corrupted files.  
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Dism /Online /Cleanup-Image /RestoreHealth**  
 ![DISM RestoreHealth](https://images.drivereasy.com/wp-content/uploads/2018/09/DISM-RestoreHealth.jpg)  
  Note: The command line **Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official source online.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Close Command Prompt when the restore operation completed.  
 ![Fix 4 step 3](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-4-step-3.jpg)
 
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Run System File Checker
@@ -194,6 +207,13 @@ thumbnail: https://thmb.techidaily.com/06b4f561e77b6da888e1e3e26d3fff8eafe69267e
 2. Type the command line **systeminfo** and press **Enter** to view your system type.  
 ![view system type](https://images.drivereasy.com/wp-content/uploads/2018/09/view-system-type.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
 
 **To download and install Windows updates manually:**
@@ -204,13 +224,6 @@ thumbnail: https://thmb.techidaily.com/06b4f561e77b6da888e1e3e26d3fff8eafe69267e
 4. Type the update number that you want to download. In this example, type KB3006137 and then click **Search** .  
 ![Fix 6 step 4](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-6-step-4.jpg)
 5. In the list of search results, select right update for your operating system and click **Download** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.
 6. In the pop-up window, click the link to start downloading the updates.  
@@ -244,5 +257,21 @@ thumbnail: https://thmb.techidaily.com/06b4f561e77b6da888e1e3e26d3fff8eafe69267e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-find-your-fit-understanding-basic-to-pro-plans-at-vimeo/"><u>[New] Find Your Fit Understanding Basic to Pro Plans at Vimeo</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-creative-vanguard-audio-visual-convergence/"><u>[Updated] Creative Vanguard Audio-Visual Convergence</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/benefits-of-hulu-a-must-watch-list-top-5/"><u>Benefits of Hulu - A Must-Watch List, Top 5</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/flip-the-like-ratio-with-squared-up-social-media-content-for-2024/"><u>Flip the Like Ratio with Squared-Up Social Media Content for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-all-inclusive-list-best-downloader-software-for-vimeo/"><u>In 2024, All-Inclusive List Best Downloader Software for Vimeo</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-audio-advantage-elevating-sound-quality-in-youtube-productions/"><u>In 2024, The Audio Advantage Elevating Sound Quality in YouTube Productions</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-common-problems-with-unsuccessful-torrent-downloads/"><u>Resolving Common Problems with Unsuccessful Torrent Downloads</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-driver-conflicts-restoring-memory-shields-on-the-ftdibus-bus-system/"><u>Resolving Driver Conflicts: Restoring Memory Shields on the Ftdibus Bus System</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-usb-port-not-supporting-hdmi-signal-transfer/"><u>Step by Step Solution for USB Port Not Supporting HDMI Signal Transfer</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-troubleshooting-absence-of-audio-hardware-on-windows/"><u>Step-by-Step Guide: Troubleshooting Absence of Audio Hardware on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-fixes-to-restore-your-windows-10-touchscreen-functionality-today/"><u>Top 5 Fixes to Restore Your Windows 10 Touchscreen Functionality Today</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/transforming-hours-at-the-keyboard-the-ergonomic-advantages-of-the-mavix-m9-chair/"><u>Transforming Hours at the Keyboard: The Ergonomic Advantages of the Mavix M9 Chair</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1726026507757-youtube/"><u>YouTubeビデオの音声取り出し手順</u></a></li>
+</ul></div>
 

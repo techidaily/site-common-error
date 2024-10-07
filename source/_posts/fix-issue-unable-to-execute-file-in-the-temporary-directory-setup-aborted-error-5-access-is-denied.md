@@ -1,7 +1,7 @@
 ---
 title: "Fix Issue: “Unable to Execute File in the Temporary Directory. Setup Aborted. Error 5: Access Is Denied.”"
-date: 2024-09-15T18:55:14.551Z
-updated: 2024-09-20T18:41:15.397Z
+date: 2024-10-01T19:57:31.079Z
+updated: 2024-10-07T10:21:55.821Z
 tags:
   - win11
   - win10
@@ -34,11 +34,25 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 4. **[Change the power option](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check for hardware issues](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Enter Safe Mode with Networking
 
  1) Make sure your computer is **off** .
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/12/img_5c14d3952414d-300x224.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Press **the power button** to turn on your PC. Then when Windows displays a login screen (i.e. Windows has fully booted), long press **the power button** to turn it off.  
 
@@ -70,9 +84,23 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b59ade459478.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  10) Now you’ve successfully booted up in **Safe Mode with Networking** , continue with **Fix 2**   to troubleshoot the**Windows 10 stuck in endless restart loop** problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable auto-restart
 
@@ -80,9 +108,23 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612ab2f0c2c.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Settings…** under the **Startup and Recovery** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612b02ca5c0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check**the box** before **Write an event to the system log** and uncheck**the box** before**Automatically restart** . Then click**OK** .
 
@@ -91,13 +133,6 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
  4) Now check if your**computer keeps restarting** problem has been resolved. If yes, then great! But if it still restarts for no reason, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -133,16 +168,16 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Double-click on **Processor power management** \> **Minimum processor state** . Type**5** in**Setting (%)** . Then click**Apply** \>**OK** .
 
@@ -155,16 +190,10 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
 ---
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Check for hardware issues
@@ -198,5 +227,24 @@ If you run into the**Windows 10 keeps restarting** issue, you’re not alone. Lu
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/solved-loadlibrary-failed-with-error-87-the-parameter-is-incorrect/"><u>[SOLVED] Loadlibrary Failed with Error 87: The Parameter Is Incorrect</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-a-deep-dive-into-yis-4k-capabilities-for-action-filmmaking-for-2024/"><u>[Updated] A Deep Dive Into Yi's 4K Capabilities for Action Filmmaking for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/10-most-retweeted-tiktok-sensations/"><u>10 Most Retweeted TikTok Sensations</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-and-resolving-the-critical-error-code-0x8024401c-on-your-windows-11-computer-expert-tips-and-techniques/"><u>Addressing and Resolving the Critical Error Code 0X802^4401c on Your Windows 11 Computer: Expert Tips & Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-resolving-windows-11-display-flicker-problems/"><u>Comprehensive Guide: Resolving Windows 11 Display Flicker Problems</u></a></li>
+<li><a href="https://solve-news.techidaily.com/comprehensive-tutorial-for-transforming-vpb-videos-into-mp4-format/"><u>Comprehensive Tutorial for Transforming VPB Videos Into MP4 Format.</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-guide-repairing-function-key-issues-on-a-dell-laptop/"><u>DIY Guide: Repairing Function Key Issues on a Dell Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-navigation-tips-and-tricks-for-windows-10s-file-explorer/"><u>Effortless Navigation: Tips and Tricks for Windows 10'S File Explorer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-online-assistance-troubleshooting-and-tips-for-winx-dvd-ripping-and-video-conversion-suite/"><u>Expert Online Assistance: Troubleshooting & Tips for WinX DVD Ripping & Video Conversion Suite</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-lenovo-thinkphone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-ai-powered-image-processing-hub/"><u>In 2024, AI-Powered Image Processing Hub</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-from-voice-to-verse-a-novices-guide-to-creating-a-polished-podcast-masterpiece/"><u>In 2024, From Voice to Verse A Novices Guide to Creating a Polished Podcast Masterpiece</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/kodi-stream-smoother-how-to-eliminate-pauses-and-buffering-issues/"><u>Kodi Stream Smoother: How to Eliminate Pauses and Buffering Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-for-logildadll-gone/"><u>Quick Fix for LogiLDA.dll Gone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-unknown-usb-hardware-issues-device-descriptor-request-fails/"><u>Resolving Unknown USB Hardware Issues: Device Descriptor Request Fails</u></a></li>
+</ul></div>
 

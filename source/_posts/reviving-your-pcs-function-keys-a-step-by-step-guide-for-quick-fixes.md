@@ -1,7 +1,7 @@
 ---
 title: "Reviving Your PC’s Function Keys: A Step-by-Step Guide for Quick Fixes"
-date: 2024-09-16T19:09:13.055Z
-updated: 2024-09-20T16:42:04.976Z
+date: 2024-10-03T20:00:50.027Z
+updated: 2024-10-06T22:11:05.545Z
 tags:
   - win11
   - win10
@@ -49,9 +49,23 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -65,6 +79,14 @@ Here’s how to do it:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
@@ -82,21 +104,14 @@ To do so:
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
@@ -106,6 +121,13 @@ To do so:
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest SteelSeries Engine software
 
@@ -136,5 +158,26 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-efficient-obs-adjustments-on-cost-effective-computers/"><u>[New] Efficient OBS Adjustments on Cost-Effective Computers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-quick-hands-turning-photos-into-compelling-youtube-thumbnails/"><u>[New] Quick Hands Turning Photos Into Compelling YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-strategic-approaches-for-creating-impactful-youtubes-finality/"><u>[New] Strategic Approaches for Creating Impactful Youtubes' Finality</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-streamlining-tiktok-posts-for-facebook-exposure-for-2024/"><u>[New] Streamlining TikTok Posts for Facebook Exposure for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-a-deeper-dive-into-vsdc-plus-its-top-alternatives/"><u>[Updated] In 2024, A Deeper Dive Into VSDC, Plus Its Top Alternatives</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-master-fast-sharing-youtube-playlists-made-simple/"><u>[Updated] Master Fast Sharing YouTube Playlists Made Simple</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-amd-radeon-rx-590-drivers-on-windows-step-by-step-guide/"><u>Download & Install AMD Radeon RX 590 Drivers on Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-devices-unplugged-but-wont-charge-on-windows-710/"><u>Fixes for Devices Unplugged but Won't Charge on Windows 7/10</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-malfunctioning-mic-troubleshooting-microphone-issues-in-windows-11/"><u>Fixing a Malfunctioning Mic: Troubleshooting Microphone Issues in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-black-screen-on-dell-laptop-full-guide/"><u>How to Fix Black Screen on Dell Laptop [Full Guide]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-malfunctioning-usb-connections-in-windows-11/"><u>How to Repair Malfunctioning USB Connections in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chuckle-chronicles-hilarious-meme-crafting-simplified/"><u>In 2024, Chuckle Chronicles Hilarious Meme Crafting Simplified</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-13-pro-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 13 Pro Lock Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-remedies-to-address-dns-server-not-responding-a-guide-to-4-essential-steps/"><u>Quick Remedies to Address 'DNS Server Not Responding': A Guide to 4 Essential Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-common-crashes-and-bugs-in-call-of-duty-black-ops-4/"><u>Resolving Common Crashes and Bugs in Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210067648-say-goodbye-to-noise-troubles-forza-horizon-4-sound-glitch-solved/"><u>Say Goodbye to Noise Troubles: Forza Horizon 4 Sound Glitch Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-when-your-laptops-trackpad-fails-to-work/"><u>Step-by-Step Solution for When Your Laptop's TrackPad Fails to Work</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/streamline-your-gameplay-memory-with-these-6-steps/"><u>Streamline Your Gameplay Memory with These 6 Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-how-to-troubleshoot-and-repair-sony-ps4-microphone-issues/"><u>Ultimate Guide: How To Troubleshoot and Repair Sony PS4 Microphone Issues</u></a></li>
+</ul></div>
 

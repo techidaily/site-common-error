@@ -1,7 +1,7 @@
 ---
 title: HP Laptop USB Connection Issues? Expert Solutions to Get Your Port Working Again
-date: 2024-09-29T23:58:03.145Z
-updated: 2024-10-01T18:59:41.839Z
+date: 2024-10-01T09:54:01.506Z
+updated: 2024-10-06T19:54:10.493Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/a0697447c3ea6b08edc7929364d24aaff9babf439
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Disconnect ALL USB devices and re-seat your battery
@@ -66,14 +66,28 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 2. Double-click on **Universal Serial Bus controllers**   \>  **the first**   item of **USB Root Hub** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
@@ -95,22 +109,21 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -142,22 +155,18 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-veiled-viewer-in-the-social-sphere-for-2024/"><u>[New] Veiled Viewer in the Social Sphere for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-marketing-boosted-by-free-downloadable-templates/"><u>[New] YouTube Marketing Boosted by Free Downloadable Templates</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-quickmemes-your-meme-toolkit/"><u>2024 Approved QuickMemes Your Meme Toolkit</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-artificial-intelligence-truly-humor-us-like-chatgpts-comedic-skills/"><u>Can Artificial Intelligence Truly Humor Us Like ChatGPT's Comedic Skills?</u></a></li>
-<li><a href="https://common-error.techidaily.com/from-frustration-to-fulfillment-in-nvidia-fixed/"><u>From Frustration to Fulfillment in NVIDIA Fixed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/gadget-guidance-getting-into-googles-video-conference/"><u>Gadget Guidance Getting Into Google's Video Conference</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-sound-back-restarting-audio-services-on-windows-7-explained/"><u>Get Your Sound Back! Restarting Audio Services on Windows 7 Explained</u></a></li>
-<li><a href="https://common-error.techidaily.com/handling-delayed-service-starts-mastering-the-resolution-of-error-1053/"><u>Handling Delayed Service Starts: Mastering the Resolution of Error 1053</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-gt-3-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Realme GT 3 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-repair-an-unresponsive-microphone-expert-tips-and-tricks/"><u>How to Repair an Unresponsive Microphone - Expert Tips & Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/huion-pen-problems-discover-five-fast-fixes-to-restore-its-functionality/"><u>Huion Pen Problems? Discover Five Fast Fixes to Restore Its Functionality</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-the-ins-and-outs-of-podcasting-with-powerpoint/"><u>In 2024, The Ins and Outs of Podcasting with PowerPoint</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-issues-solved-repairing-dell-laptop-typing-problems-easily/"><u>Keyboard Issues Solved: Repairing Dell Laptop Typing Problems Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/lenovo-trackpad-not-responding-heres-how-to-repair-it-across-different-windows-versions/"><u>Lenovo Trackpad Not Responding? Here's How to Repair It Across Different Windows Versions</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-overcome-resolving-windows-update-issues/"><u>Successfully Overcome: Resolving Windows Update Issues</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/tinyvid-recorder-examination-and-reviews-for-2024/"><u>TinyVid Recorder Examination & Reviews for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/wheres-the-windows-display-brightness-tool/"><u>Where's the Windows Display Brightness Tool?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-trends-top-10-instagram-tags-to-elevate-your-presence/"><u>[Updated] Mastering Trends Top 10 Instagram Tags to Elevate Your Presence</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-rapid-rendering-sounds-with-visuals/"><u>2024 Approved Rapid Rendering Sounds with Visuals</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-steam-api-file-gap-error/"><u>Addressing Steam API File Gap Error</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-7-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 7</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-trending-pictures-life-stories-uncovered/"><u>In 2024, Trending Pictures Life Stories Uncovered</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-paced-fortnite-visual-artistry/"><u>Quick-Paced Fortnite Visual Artistry</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-device-detection-issues-in-windows-11s-bluetooth-feature/"><u>Resolved: Troubleshooting Device Detection Issues in Windows 11'S Bluetooth Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-drive-is-locked-errors-in-windows-10/"><u>Resolving 'Drive Is Locked' Errors in Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-y78t-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo Y78t ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-techniques-for-restoring-functionality-to-a-non-working-ps4-microphone/"><u>Top Techniques for Restoring Functionality to a Non-Working PS4 Microphone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-monitor-issues-non-compatible-screen-refresh-rates/"><u>Troubleshooting Monitor Issues: Non-Compatible Screen Refresh Rates</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unseen-navigators-of-fb-moments/"><u>Unseen Navigators of FB Moments</u></a></li>
+<li><a href="https://solve-news.techidaily.com/windows-10-dvds-dvd/"><u>ドライブ・アップ! Windows 10 で DVDS 書き込み技術：異なるDVDフォーマットの概要と再生ガイド</u></a></li>
 </ul></div>
 

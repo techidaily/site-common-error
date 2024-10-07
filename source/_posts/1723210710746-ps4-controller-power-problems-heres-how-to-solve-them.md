@@ -1,7 +1,7 @@
 ---
 title: PS4 Controller Power Problems? Here's How to Solve Them!
-date: 2024-09-13T18:39:09.467Z
-updated: 2024-09-20T16:51:10.392Z
+date: 2024-09-30T11:17:49.006Z
+updated: 2024-10-07T01:52:36.893Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ Two options to update your graphics card driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-778.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to your flagged graphics card to automatically download the latest correct driver (you can do this with the**Free** **version** ), then manually install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
@@ -97,6 +104,13 @@ Now play Minecraft and see if it works.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Disable Show GL Errors
 
  There is an option in Minecraft that decides whether to show OpenGL errors. It’s ON by default, which shows OpenGL errors in the chat. You can disable that option when there’s a known conflict.
@@ -110,10 +124,10 @@ To do so, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-781.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Save the change and restart Minecraft.
@@ -121,6 +135,13 @@ To do so, follow the steps below:
 Hopefully OpenGl errors stop happening again.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Temporarily disable Mods
 
@@ -144,13 +165,6 @@ You can modify graphics settings by following steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-782.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Modify each setting one by one and check if Minecraft error stops.
 
  If you can’t access Minecraft video settings, you can modify these options in the configuration file under Minrcraft folder.
@@ -160,13 +174,6 @@ You can modify graphics settings by following steps below:
  If you’re not sure which option can be edited, check **[this post](https://minecraft.gamepedia.com/Options.txt)**  on Minecraft for more details.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-785.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Still no luck? Don’t give up hope. Move on to the next fix.
 
@@ -201,5 +208,20 @@ So there you have it – six fixes for Minecraft OpenGL errors.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-imaginefx-editor/"><u>[New] 2024 Approved ImagineFX Editor</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-definitive-guide-to-srt-editing-on-mac/"><u>[New] The Definitive Guide to SRT Editing on Mac</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-image-marketing-dos-vs-donts-explained/"><u>2024 Approved YouTube Image Marketing Dos vs Don'ts Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-malfunctioning-alphabetic-keys-in-microsoft-windows-1er-11-environment/"><u>Fix Malfunctioning Alphabetic Keys in Microsoft Windows 1Er 11 Environment</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-solution-eliminate-your-pcs-pitch-black-predicament-on-windows-11/"><u>Mastering the Solution: Eliminate Your PC's Pitch-Black Predicament on Windows 11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/online-marketplaces-for-partnering-with-youtube-content-makers/"><u>Online Marketplaces for Partnering With YouTube Content Makers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/skys-palette-explored-top-websites-showcasing-hd-imagery-for-2024/"><u>Sky's Palette Explored - Top Websites Showcasing HD Imagery for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205856724-solved-couldnt-load-plugin-chrome-error-on-windows-10/"><u>Solved: Couldn't Load Plugin Chrome Error on Windows 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/speedy-solution-obtain-your-brother-hl-3170cdw-drivers-today/"><u>Speedy Solution: Obtain Your Brother HL-3170CDW Drivers Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-popscrackling-sounds-on-your-speakers-for-win-10-or-7/"><u>Troubleshooting and Fixing Pops/Crackling Sounds on Your Speakers for Win 10 or 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-bluetooth-capabilities-on-windows-7-easy-fixes-for-users/"><u>Unlocking Bluetooth Capabilities on Windows 7: Easy Fixes for Users</u></a></li>
+</ul></div>
 

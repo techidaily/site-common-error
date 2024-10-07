@@ -1,7 +1,7 @@
 ---
 title: "Mastery in Minutes: Repair Techniques for 'Remote Server Not Reachable' Error"
-date: 2024-09-15T19:26:05.042Z
-updated: 2024-09-20T17:52:21.579Z
+date: 2024-10-04T16:48:01.556Z
+updated: 2024-10-06T18:56:23.629Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
 * [Fix 4 – Reset TCP/IP Configuration](#h-fix-4-reset-tcp-ip-configuration)
 * [Fix 5 – Disable IPv6 on your active connection](#h-fix-5-disable-ipv6-on-your-active-connection)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1 – Is it a driver issue?
 
  The network adapter driver, which works as an interpreter between your network adapter and your PC, is essential to the proper functioning of the network adapter. Depending on different situations, you may encounter the **Unable to Contact DHCP Server** error when your network driver is outdated or new and problematic (hence requiring a rollback). There are ways you can do it manually, but if you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -50,6 +57,14 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update network driver with driver easy](https://images.drivereasy.com/wp-content/uploads/2021/03/de-update-network-driver.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -68,22 +83,17 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/tools.png)
 3. Click**Driver Backup** , then tick the box for**Network Adapter** , then click**Start Backup** .
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Wait around until the backup is complete. Then click**OK** to close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/backup.png)
 5. In the Tools pane, click**Driver** **Restore** \>**Browse…** , then choose the backup file you’re going to restore from, then click **Open** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/12.png)
 6. Select the driver you’re going to restore, then click **Continue** .
 7. Wait until the restore is successful, and click**OK** .
@@ -103,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
 5. Click the **Start** button.
 6. Click **Apply > OK**  to save changes.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3 – Register your DNS
 
  According to some users, registering their DNS has helped recovered the situation. You can try to see if it helps in your case.
@@ -112,13 +129,6 @@ Here’s how:
 1. On your keyboard, press the**Windows logo** key and type**cmd** . Right-click on**Command Prompt** as it pops up as a result, and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cmd-1.png)
 2. Type **ipconfig /registerdns** and press**Enter** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Click Close to exit the window.
 4. Restart your PC.
@@ -138,10 +148,10 @@ Here’s how:
 4. Run the**ipconfig /renew** command and see if the Unable to contact your dhcp server error is solved. If it’s still no joy, please continue with**Fix 5** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5 –**Disable IPv6 on your active connection**
@@ -154,21 +164,20 @@ Here’s how:
 3. Under the **Networking** tab, uncheck the box next to **Internet Protocol version 6 (IPv6)** , then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/sharing12.jpg)
 4. Restart your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Check to see if the error message still occurs when you perform rge ipconfig command.
 
@@ -189,5 +198,20 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ocial-media-showdown-youtubes-shorts-versus-tiktoks-short-forms/"><u>[New] Social Media Showdown YouTubes Shorts Versus TikToks Short Forms</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hat-is-filmora-certified-creative-program-and-how-to-become-an-fcc/"><u>[New] What Is Filmora Certified Creative Program and How to Become an FCC</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-hp-deskjet-d1360-printer-drivers-wont-install-in-windows-7-8-8110/"><u>[Resolved] HP Deskjet D1360 Printer Drivers Won’t Install in Windows 7, 8, 8.1,10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-bridging-the-gap-between-standard-and-superior-video-quality-techniques/"><u>[Updated] 2024 Approved Bridging the Gap Between Standard and Superior Video Quality Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-error-8007000e-effortless-solutions-for-windows-users/"><u>Bypassing Error 8007000E: Effortless Solutions for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-fixing-not-found-problems-with-your-realtek-network-card/"><u>Expert Solutions: Fixing 'Not Found' Problems with Your Realtek Network Card</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-resource-protection-failed-tips-and-tricks-to-restore-system-stability/"><u>Fixing 'Windows Resource Protection Failed' - Tips and Tricks to Restore System Stability</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hacks-to-dodge-digital-lessons-at-home-for-2024/"><u>Hacks to Dodge Digital Lessons at Home for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-realme-12plus-5g-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Realme 12+ 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204126689-quick-fixes-for-unresponsive-keyboard-on-your-hp-laptop-solved/"><u>Quick Fixes for Unresponsive Keyboard on Your HP Laptop - Solved</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/speed-up-your-storytelling-time-lapse-video-creation-in-final-cut-pro-for-2024/"><u>Speed Up Your Storytelling Time Lapse Video Creation in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-fixing-the-system-event-notification-connection-issue-in-windows/"><u>Troubleshooting Guide for Fixing the System Event Notification Connection Issue in Windows</u></a></li>
+</ul></div>
 

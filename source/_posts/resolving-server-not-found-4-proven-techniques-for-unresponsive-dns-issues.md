@@ -1,7 +1,7 @@
 ---
 title: "Resolving 'Server Not Found': 4 Proven Techniques for Unresponsive DNS Issues"
-date: 2024-09-29T21:00:16.562Z
-updated: 2024-10-02T04:21:37.159Z
+date: 2024-09-30T03:19:58.252Z
+updated: 2024-10-06T23:46:23.617Z
 tags:
   - win11
   - win10
@@ -52,18 +52,24 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Clear Exceptions box if there were any content in it.
 
  Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Exit Internet Explorer and run Command Prompt.
 
@@ -80,13 +86,6 @@ Find and click to open Command Prompt from Start menu.
  c) Type **net start wuauserv**  and hit **Enter** .
 
 Now try to install Windows Updates now.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3\. Change DNS Servers
 
@@ -106,6 +105,13 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Locate Use the following DNS server addresses.
 
  Set**Preferred DNS server** to be**8.8.8.8**
@@ -115,6 +121,13 @@ Double-click on your active Network Adapter.
  **Note:** That’s Google’s public DNS server addresses.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -131,10 +144,10 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
@@ -156,10 +169,10 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
@@ -167,13 +180,6 @@ If the fixes above didn’t serve you, try this one.
  And name the new key**A** **U** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
@@ -202,20 +208,22 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-icy-innovations-on-ice-olympic-edition/"><u>[New] Icy Innovations on Ice - Olympic Edition</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-brand-awakening-on-reddit-7-easy-steps-to-market-mastery/"><u>[Updated] Brand Awakening on Reddit 7 Easy Steps to Market Mastery</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-capture-save-and-share-mastering-playstation-4-recordings/"><u>[Updated] In 2024, Capture, Save & Share Mastering PlayStation 4 Recordings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-churning-charts-todays-1-backdrop-music-for-youtube-shorts/"><u>[Updated] In 2024, Churning Charts Today's #1 Backdrop Music for YouTube Shorts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-unlock-the-power-of-persuasion-perfecting-your-shorts-visual-hook-for-2024/"><u>[Updated] Unlock the Power of Persuasion Perfecting Your Shorts' Visual Hook for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-heaviest-heroes-in-the-air-drone-power-list/"><u>2024 Approved Heaviest Heroes in the Air Drone Power List</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-skys-boldest-workhorses-top-10-drones/"><u>2024 Approved The Sky's Boldest Workhorses - Top 10 Drones</u></a></li>
-<li><a href="https://blog-min.techidaily.com/windows-11-dvd-shrink-dvd/"><u>對於 Windows 11 用户而言，如何在當前系統不支持 DVD Shrink時進行 DVD 資料庫備份？</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/brief-basslines-and-rhythms-video-soundscapes-for-2024/"><u>Brief Basslines & Rhythms Video Soundscapes for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-to-fix-the-windows-update-failed-with-code-0x8024002e/"><u>Effective Solutions to Fix the 'Windows Update Failed with Code 0X8024002E'</u></a></li>
-<li><a href="https://common-error.techidaily.com/from-broken-to-secure-fixing-problematic-windows-update-processes/"><u>From Broken to Secure: Fixing Problematic Windows Update Processes</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-undetected-bluetooth-gadgets-in-windows-10/"><u>How to Resolve Undetected Bluetooth Gadgets in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-windows-entry-point-missing-error-fix/"><u>Step-by-Step Solution for Windows 'Entry Point Missing' Error Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-non-responsive-lenovo-mouse-pad-in-windows-operating-systems/"><u>Troubleshooting Non-Responsive Lenovo Mouse Pad in Windows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-for-valorant-how-to-stop-screen-tearing-once-and-for-all/"><u>Ultimate Troubleshooting for Valorant: How To Stop Screen Tearing Once and For All</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-reimagine-virtual-engagements-with-customized-video-filters-in-zoom-for-2024/"><u>[New] Reimagine Virtual Engagements with Customized Video Filters in Zoom for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-setup-made-simple-installing-vrecorder-for-2024/"><u>[New] Setup Made Simple Installing VRecorder for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-showcasing-design-brilliance-best-10-text-setups-in-ae/"><u>[New] Showcasing Design Brilliance Best 10 Text Setups in AE</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/androids-finest-moba-battles-compilation-10-edition/"><u>Android's Finest MOBA Battles Compilation (#10 Edition)</u></a></li>
+<li><a href="https://common-error.techidaily.com/brighten-your-display-fix-blurry-screen-on-windows-10-with-these-simple-tweaks/"><u>Brighten Your Display: Fix Blurry Screen on Windows 10 with These Simple Tweaks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-best-no-entry-price-voice-transformation-for-valorant-gamers/"><u>In 2024, Best No-Entry Price Voice Transformation for Valorant Gamers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy XCover 6 Pro Tactical Edition to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719579855799-mondlys-lifetime-plan-zero-price/"><u>Mondly's Lifetime Plan: Zero Price!</u></a></li>
+<li><a href="https://common-error.techidaily.com/quickly-restore-bluetooth-functionality-on-your-windows-11-pc-easy-methods-inside/"><u>Quickly Restore Bluetooth Functionality on Your Windows 11 PC: Easy Methods Inside!</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolve-your-black-screen-woes-with-simple-tricks-for-win11/"><u>Resolve Your Black Screen Woes with Simple Tricks for Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-cannot-access-device-pathfile-in-windows-fix-guide/"><u>Solving 'Cannot Access Device Path/File' In Windows - Fix Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-repairing-common-werfaultexe-windows-issues-with-minimal-hassle/"><u>Step-by-Step Guide: Repairing Common werFault.exe Windows Issues with Minimal Hassle</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-repair-tips-for-a-broken-fingerprint-reader-on-lenovo-devices/"><u>Step-by-Step Repair Tips for a Broken Fingerprint Reader on Lenovo Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/stuck-on-a-pdf-not-printing-heres-how-you-can-solve-the-problem-fast/"><u>Stuck on a PDF Not Printing? Here's How You Can Solve the Problem Fast</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-a-malfunctioning-torrent-download/"><u>Troubleshooting Steps for a Malfunctioning Torrent Download</u></a></li>
+<li><a href="https://common-error.techidaily.com/usb-connection-issues-beat-device-descriptor-request-failed-with-our-expert-tips/"><u>USB Connection Issues? Beat 'Device Descriptor Request Failed' With Our Expert Tips!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/visionmaster-vs-screencapturer-for-2024/"><u>VisionMaster vs ScreenCapturer for 2024</u></a></li>
 </ul></div>
 

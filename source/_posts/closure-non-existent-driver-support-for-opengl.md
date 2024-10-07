@@ -1,7 +1,7 @@
 ---
 title: "Closure: Non-Existent Driver Support for OpenGL"
-date: 2024-09-13T19:46:06.392Z
-updated: 2024-09-20T16:48:33.996Z
+date: 2024-09-30T02:35:51.259Z
+updated: 2024-10-07T04:16:00.174Z
 tags:
   - win11
   - win10
@@ -29,6 +29,19 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 3. [**Run System File Checker**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Disable your security software**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Restore your system to a restore point**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 1: Run Internet Explorer as administrator
 
@@ -59,6 +72,13 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b976c985acfc.png)
 7. Try to launch Internet Explorer, and it should respond normally now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If it isn’t successful, there may be something wrong with the Internet Explorer files.
 
 ---
@@ -75,16 +95,17 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 3. Click **Yes**  at the **User Account Control** prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b97756bba070.jpg)
 4. Once Command Prompt is open, type the **sfc /scannow**  command and press **Enter**  on your keyboard.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:**  There’s a space between **sfc**  and **/scannow**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977592dab5b.jpg)
 5. When the verification reaches 100%, you’ll see something like this if issues were found and corrected:  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **Windows Resource Protection found corrupt files and successfully repaired them.**  
  If that’s the case, restart your PC.
@@ -103,10 +124,10 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 3. Select the program(s) you want to disable and click the**Disable** button in the bottom right corner. Then, IE should open normally.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -120,42 +141,37 @@ If you find**Internet Explorer won’t open** in Windows, here are some trouble-
 2. When the **System Restore**  window pops up, select **Choose a different restore point**  and click **Next**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977bc3e7e53.jpg)
 3. **Check**  the box beside **Show more restore points**  , and select a point in time when you remember IE was last working properly, then click   **Next.**  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977be68701e.jpg)
 4. Save any open files on your PC, then click   **Finish.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977bff6dfa0.jpg)
 5. Click **Yes**  , and your PC will restart.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b977c223e7c1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hopefully this can help you out.
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus tip
@@ -176,6 +192,13 @@ Hopefully this can help you out.
  Or click **Update All** to automatically download and install the correct version of _**all**_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9785e720824.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 Please do reply if you got your problem fixed.
@@ -195,5 +218,21 @@ Please do reply if you got your problem fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-building-a-better-movie-utilizing-windows-11s-movie-maker/"><u>[Updated] In 2024, Building a Better Movie Utilizing Windows 11'S Movie Maker</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/amplify-focus-on-the-little-things-with-videoleap-zoom-for-2024/"><u>Amplify Focus on the Little Things with VideoLeap Zoom for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/controller-error-signal-at-idedevice/"><u>Controller Error Signal at Idedevice</u></a></li>
+<li><a href="https://media-tips.techidaily.com/diy-guide-setting-up-your-computer-as-a-cost-free-digital-media-hub/"><u>DIY Guide: Setting Up Your Computer as a Cost-Free Digital Media Hub</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-print-to-pdf-issues-on-windows-11-troubleshooting-guide/"><u>Fixing 'Print to PDF' Issues on Windows 11 – Troubleshooting Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-lava-yuva-3-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Lava Yuva 3 Pro Quickly? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-continuous-reboots-in-windows-11-and-10-systems-efficiently/"><u>How to Resolve Continuous Reboots in Windows 11 and 10 Systems Efficiently</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-direct-connectivity-ios-and-android-file-relay/"><u>In 2024, Direct Connectivity IOS & Android File Relay</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-no-cost-solutions-for-modern-photography-enhancements/"><u>Innovative No-Cost Solutions for Modern Photography Enhancements</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/method-for-transforming-your-spotify-listening-queue-into-written-format/"><u>Method for Transforming Your Spotify Listening Queue Into Written Format</u></a></li>
+<li><a href="https://common-error.techidaily.com/reinstating-lost-xinput13dll-a-step-by-step-approach/"><u>Reinstating Lost XINPUT1_3.dll: A Step-by-Step Approach</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-media-driver-issues-on-your-pc-essential-guide/"><u>Resolving Media Driver Issues on Your PC - Essential Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-remedies-for-when-your-laptops-usb-mouse-wont-work-restore-functionality-today/"><u>Top Remedies for When Your Laptop's USB Mouse Won't Work – Restore Functionality Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlock-the-power-of-windows-11-maintenance-with-system-file-checker-and-dism-solutions/"><u>Unlock the Power of Windows 11 Maintenance with System File Checker and DISM Solutions</u></a></li>
+</ul></div>
 

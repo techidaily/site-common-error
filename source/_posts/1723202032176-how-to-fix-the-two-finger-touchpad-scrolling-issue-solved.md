@@ -1,7 +1,7 @@
 ---
 title: How To Fix The Two-Finger Touchpad Scrolling Issue - Solved!
-date: 2024-09-26T04:01:42.786Z
-updated: 2024-10-01T23:03:45.340Z
+date: 2024-10-05T06:13:34.977Z
+updated: 2024-10-07T07:58:53.689Z
 tags:
   - win11
   - win10
@@ -64,13 +64,6 @@ Recommended System Requirements
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Turn off Shot Feedback
 
  Many players have tested that turning off the**Shot Feedback** fixed the green glitch. So it’s worth a shot. To do so, you can:
@@ -79,27 +72,20 @@ Recommended System Requirements
 
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Scroll down and switch**Shot Feedback** to**Off** .
 
 ![turn off Shot Feedback NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-shot-feedback-2-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After applying the changes, relaunch your game and check if the problem is fixed. If not, try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update your graphics drivers
 
@@ -124,6 +110,13 @@ Here’s how to update drivers with Driver Easy:
 
  4) Restart your computer and start the game again to check if the issue persists.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Fixes on different gaming platforms
 
  There are some fixes that really worked for gamers. You can try the ones based on the platform you’re using.
@@ -146,7 +139,21 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-game-settings-3-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you’ve done all of these, you need to load back to your game. If it says**high school** when you load it, then you wouldn’t have the green glitch.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steam
 
@@ -157,6 +164,13 @@ Here’s how to update drivers with Driver Easy:
  1) Click on the**LIBRARY** tab, right-click on your game**NBA 2K21,** and select Properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Under the**GENERAL** section, uncheck**Enable the Steam Overlay while in-game** .
 
@@ -174,31 +188,18 @@ To do this, simply follow the instructions below:
 
 ![verify game files NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-the-steam-overlay-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) When the window pops up, click**LOCAL FILES** \>**VERIFY INTEGRITY OF GAME FILES** . Till then, the verification process will be starting.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-your-game-files-Steam-4.png)
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) When the process is completed, restart Steam and launch your game again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Xbox One: make sure the language is set to English
 
@@ -209,22 +210,15 @@ To do this, simply follow the instructions below:
 ![set the language into English NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/set-the-language-into-English-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**SETTINGS** and scroll down to**Menu Language** and make sure the language is set to**English** .
 
 ![set the language into English NBA 2K21 Green Glitch](https://images.drivereasy.com/wp-content/uploads/2020/09/language-set-to-English-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -248,21 +242,16 @@ To do this, simply follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-optimizing-social-media-interaction-with-automatic-youtube-video-playback-for-2024/"><u>[Updated] Optimizing Social Media Interaction with Automatic Youtube Video Playback for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-propella-7s-40-inflatable-boards-top-review-for-budget-friendly-fun-on-water/"><u>Affordable Propella 7S 4.0 Inflatable Boards - Top Review for Budget-Friendly Fun on Water</u></a></li>
-<li><a href="https://common-error.techidaily.com/best-fixes-for-audio-services-not-responding-windows-11/"><u>Best Fixes for Audio Services Not Responding Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/critical-windows-update-features-now-fixed-and-operational/"><u>Critical Windows Update Features Now Fixed and Operational</u></a></li>
-<li><a href="https://extra-information.techidaily.com/dissecting-the-syma-x5c-why-its-prime-for-first-time-flyers/"><u>Dissecting the Syma X5C Why It’s Prime for First-Time Flyers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-enhance-your-audio-experience-with-official-behringer-drivers/"><u>Download and Enhance Your Audio Experience with Official Behringer Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhanced-gaming-experience-with-fixed-xbox-one-console/"><u>Enhanced Gaming Experience with Fixed Xbox One Console</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-cbt-practices-via-ai-driven-dialogue/"><u>Enhancing CBT Practices via AI-Driven Dialogue</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-11-sound-settings-how-to-restore-volume-control/"><u>Fixing Windows 11 Sound Settings: How To Restore Volume Control</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-0xc000012f-error-in-windows-easily/"><u>How to Fix 0Xc000012f Error in Windows Easily</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-vivo-v29-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Vivo V29</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Realme V30? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-process-for-shaping-photos/"><u>In 2024, Streamlined Process for Shaping Photos</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207374264-persistent-mouse-disconnection-woes-heres-how-to-keep-your-cursor-steady/"><u>Persistent Mouse Disconnection Woes? Here's How to Keep Your Cursor Steady</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-the-problem-of-automatic-mouse-shifting/"><u>Tackling the Problem of Automatic Mouse Shifting</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-boosting-your-instagram-aesthetics-implementing-borders-on-photos-for-2024/"><u>[Updated] Boosting Your Instagram Aesthetics Implementing Borders on Photos for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-honor-play-7t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Honor Play 7T without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-essential-rotation-tips-for-windows-11-photos/"><u>6 Essential Rotation Tips for Windows 11 Photos</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-newfound-windows-11-update-data-glitch-with-easy-fixes-for-users/"><u>Bypassing the Newfound Windows 11 Update Data Glitch with Easy Fixes for Users</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-flashy-windows-7-visuals/"><u>Correcting Flashy Windows 7 Visuals</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fifteen-methods-to-reset-a-twitch-stream-in-real-time-for-2024/"><u>Fifteen Methods to Reset a Twitch Stream in Real-Time for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-deep-dive-into-the-world-of-high-dynamic-range-portraits/"><u>In 2024, A Deep Dive Into the World of High Dynamic Range Portraits</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205547961-miracast-troubles-beat-the-unsupported-receiving-device-error-this-year/"><u>Miracast Troubles? Beat the 'Unsupported Receiving Device' Error This Year</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-your-windows-1nstallation-hurdles-quick-fix-guide-for-error-0x800f0922/"><u>Overcome Your Windows 1Nstallation Hurdles: Quick Fix Guide for Error 0X800f0922</u></a></li>
+<li><a href="https://common-error.techidaily.com/surprise-key-silence/"><u>Surprise Key Silence</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-why-your-apps-exe-file-crashes/"><u>Troubleshooting Guide: Why Your App's Exe File Crashes</u></a></li>
 </ul></div>
 

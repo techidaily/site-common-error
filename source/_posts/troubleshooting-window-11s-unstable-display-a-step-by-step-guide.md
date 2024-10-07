@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Window 11'S Unstable Display: A Step-by-Step Guide"
-date: 2024-09-28T19:24:12.136Z
-updated: 2024-10-02T03:35:42.773Z
+date: 2024-10-03T07:29:45.411Z
+updated: 2024-10-07T00:03:46.610Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 3. [**Adjust your audio settings**](#F3)
 4. [**Install the latest SteelSeries Engine software**](#F4)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
  If your **SteelSeries Arctis 5 microphone is not working** , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -41,6 +48,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
@@ -49,16 +63,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -74,16 +88,17 @@ Here’s how to do it:
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -95,22 +110,8 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
@@ -122,10 +123,10 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Install the latest SteelSeries Engine software
@@ -159,16 +160,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-pro-techs-picks-the-most-excellent-screen-recorder-apps-for-2024/"><u>[New] Pro Tech's Picks The Most Excellent Screen Recorder Apps for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-breaking-down-instagrams-hashtag-system-tips-and-techniques-for-2024/"><u>[Updated] Breaking Down Instagram's Hashtag System Tips and Techniques for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/beam-into-collaborative-spaces-within-tiktok-for-2024/"><u>Beam Into Collaborative Spaces Within TikTok for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/elevate-windows-11-performance-with-streamlined-wmi-handling/"><u>Elevate Windows 11 Performance with Streamlined WMI Handling</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-tailored-preferences-setting-issues-unresponsive-mode/"><u>Fix: Tailored Preferences Setting Issues - Unresponsive Mode</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-hubs-for-finding-googles-ad-sponsors-on-video/"><u>In 2024, Hubs for Finding Google's Ad Sponsors on Video</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-s17-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo S17 Pro Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-unrecoverable-error-in-directx-a-comprehensive-guide/"><u>Resolving 'Unrecoverable Error' In DirectX: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-a-broken-laptop-mousepad-compatibility-with-windows-1187/"><u>Step-by-Step Solutions for a Broken Laptop Mousepad Compatibility with Windows 11/8/7</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-5-pinnable-planner-tools-to-boost-engagement/"><u>The Ultimate List of 5 Pinnable Planner Tools to Boost Engagement</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-resolving-the-dreaded-error-28-on-your-pc-a-step-by-step-guide/"><u>Troubleshooting and Resolving the Dreaded Error 28 on Your PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-a-step-by-step-breakdown-creating-your-best-yt-shorts/"><u>[New] 2024 Approved A Step-by-Step Breakdown Creating Your Best YT Shorts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cinematic-dialogue-assembler/"><u>[New] 2024 Approved Cinematic Dialogue Assembler</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-affordable-wide-angle-vr-cameras-for-filmmaking/"><u>[Updated] In 2024, Affordable Wide-Angle VR Cameras for Filmmaking</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-the-low-on-memory-problem-on-windows-10/"><u>Effective Solutions for the 'Low On Memory' Problem on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/epson-scanner-communication-fix-guide/"><u>Epson Scanner Communication Fix Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-silent-streets-solving-the-no-audio-issue-in-forza-horizon-4/"><u>Fixing the Silent Streets: Solving the 'No Audio' Issue in Forza Horizon 4</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-elite-roundup-best-tools-mimicking-3ds-on-pc/"><u>In 2024, Elite Roundup Best Tools Mimicking 3Ds on PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-photographic-edge-cutting-edge-editing-strategies/"><u>In 2024, The Photographic Edge Cutting-Edge Editing Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/logitechs-lifeline-solved-pairing-problems/"><u>Logitech's Lifeline: Solved Pairing Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-critical-41-in-winkernel/"><u>Resolving CRITICAL #41 in WinKernel</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207933932-solve-window-10s-unresponsive-spacebar-problem-with-ease-solutions-inside/"><u>Solve Window 10'S Unresponsive Spacebar Problem with Ease - Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-when-your-lenovos-webcam-wont-work/"><u>Step-by-Step Solutions: When Your Lenovo's Webcam Won't Work</u></a></li>
+<li><a href="https://driver-install.techidaily.com/synchronize-uart-and-ftdi-devices/"><u>Synchronize UART and FTDI Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-diagnosing-and-repairing-recurring-mouse-connectivity-problems/"><u>The Ultimate Guide to Diagnosing and Repairing Recurring Mouse Connectivity Problems</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/time-saving-approaches-to-turn-whatsapp-audios-into-mp3-format-for-2024/"><u>Time-Saving Approaches to Turn WhatsApp Audios Into MP3 Format for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-performing-nvme-ssds-enhance-your-steam-deck-gaming-experience-with-lightning-fast-storage-solutions/"><u>Top-Performing NVMe SSDs: Enhance Your Steam Deck Gaming Experience with Lightning-Fast Storage Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-10s-resource-hungry-antivirus-agent-msmpengine/"><u>Troubleshooting Windows 10’S Resource-Hungry Antivirus Agent (MsMpEngine)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/visionary-tech-that-cares-for-the-earth-for-2024/"><u>Visionary Tech That Cares for the Earth for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/windowsmac-interface-for-srt-file-access/"><u>Windows/Mac Interface for SRT File Access</u></a></li>
 </ul></div>
 

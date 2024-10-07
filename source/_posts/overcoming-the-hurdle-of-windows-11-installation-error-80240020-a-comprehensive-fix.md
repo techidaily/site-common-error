@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Hurdle of Windows 11 Installation Error 80240020 - A Comprehensive Fix
-date: 2024-09-30T17:43:49.020Z
-updated: 2024-10-01T17:37:21.960Z
+date: 2024-09-29T21:24:29.790Z
+updated: 2024-10-07T06:16:36.903Z
 tags:
   - win11
   - win10
@@ -58,13 +58,6 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6) Exit Internet Explorer and run Command Prompt.
 
 Find and click to open Command Prompt from Start menu.
@@ -81,13 +74,6 @@ Find and click to open Command Prompt from Start menu.
 
 Now try to install Windows Updates now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3\. Change DNS Servers
 
  If there were any issue of your ISP(Internet service provider), it could also lead to Error 0x8024402c. Change DNS Servers into public one can solve it.
@@ -97,13 +83,6 @@ Now try to install Windows Updates now.
  Then type **ncpa.cpl**  in it and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Now Internet Connection window is open.
 
@@ -123,14 +102,14 @@ Double-click on your active Network Adapter.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now try to install Windows Updates now.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4\. Configure Updates Client
 
@@ -144,6 +123,13 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
@@ -153,6 +139,13 @@ If the fixes above didn’t serve you, try this one.
  Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
 
@@ -168,6 +161,13 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
  Name the new value **UseWUServer** .
@@ -175,10 +175,10 @@ If the fixes above didn’t serve you, try this one.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
@@ -202,24 +202,18 @@ After the fixes above, Windows Update should be good to go now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/solved-minecraft-wont-launch-in-windows/"><u>[SOLVED] Minecraft Won’t Launch in Windows</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-2023-how-to-share-twitter-videos-on-whatsapp/"><u>[Updated] 2024 Approved 2023 | How to Share Twitter Videos on WhatsApp?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-convenient-viewing-setting-up-youtube-on-large-tv-panels/"><u>[Updated] 2024 Approved Convenient Viewing Setting Up YouTube on Large TV Panels</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-inside-the-new-windows-11-innovations/"><u>[Updated] In 2024, Inside the New Windows 11 Innovations</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211671450-airpods-wont-pair-with-windows-11-master-the-fixes-you-need/"><u>AirPods Won't Pair with Windows 11? Master the Fixes You Need</u></a></li>
-<li><a href="https://common-error.techidaily.com/battleye-setup-successfully-resolved-ensure-smooth-integration-in-games/"><u>BattlEye Setup Successfully Resolved – Ensure Smooth Integration in Games</u></a></li>
-<li><a href="https://network-issues.techidaily.com/direct-fix-for-aspect-ratio-skew-on-pcs/"><u>Direct Fix for Aspect Ratio Skew on PCs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/essential-handbook-for-j-alphabets-and-symbols/"><u>Essential Handbook for J-Alphabets and Symbols</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-cyclic-redundancy-check-failures-in-your-system/"><u>How to Resolve Cyclic Redundancy Check Failures in Your System</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-realme-gt-3-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Realme GT 3</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-understanding-the-upside-to-asmrs-sensory-experience/"><u>In 2024, Understanding the Upside to ASMR's Sensory Experience</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-trick-to-eliminate-constant-usb-not-detected-pop-ups-for-good/"><u>Master the Trick to Eliminate Constant 'USB Not Detected' Pop-Ups for Good!</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-errors-a-comprehensive-step-by-step-fix-for-lenovos-broken-fingerprint-access/"><u>Overcoming Errors: A Comprehensive Step-by-Step Fix for Lenovo's Broken Fingerprint Access</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-the-problem-unstuck-and-get-your-windows-pressentational-bar-working-again/"><u>Solve the Problem: Unstuck and Get Your Windows Pressentational Bar Working Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-dilemma-effective-tips-for-resolving-windows-11s-black-display-problem/"><u>Solving the Dilemma: Effective Tips for Resolving Windows 11'S Black Display Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/successful-fix-for-windows-n-error-in-updating-or-refreshing-your-computer/"><u>Successful Fix for Windows N Error in Updating or Refreshing Your Computer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-10-subtitle-converters-no-cost-for-srt-files/"><u>Top 10 Subtitle Converters, No Cost for SRT Files</u></a></li>
-<li><a href="https://common-error.techidaily.com/unexpected-shutdowns-in-windows-10/"><u>Unexpected Shutdowns in Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-under-attack-unraveling-the-mystery/"><u>ChatGPT Under Attack: Unraveling the Mystery</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-moto-g24-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola Moto G24 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-the-glitch-a-step-by-step-guide-to-overcoming-stops-in-tw3/"><u>Eliminate the Glitch: A Step-by-Step Guide to Overcoming Stops in TW3</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-enjoy-barcelona-2024-olympiad-from-home-a-comprehensive-guide-to-live-streaming/"><u>How to Enjoy Barcelona 2024 Olympiad From Home - A Comprehensive Guide to Live Streaming</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-x9a-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor X9a FRP</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-screen-capture-central-apowsort-vs-alternatives-explored/"><u>In 2024, Screen Capture Central Apowsort vs Alternatives Explored</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-teredos-disqualification-hurdles-for-successful-implementation/"><u>Overcoming Teredo's Disqualification Hurdles for Successful Implementation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/sid-meiers-civilization-vi-crash-woes-expert-fixes-to-get-you-back-in-action/"><u>Sid Meier’s Civilization VI Crash Woes? Expert Fixes to Get You Back in Action!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-cs-go-game-crashes-instantly-and-simply/"><u>Solving CS: GO Game Crashes Instantly and Simply</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-reducing-svchostexe-cpu-impact-on-your-windows-10-pc/"><u>Step-by-Step Tutorial: Reducing svchost.exe CPU Impact on Your Windows 10 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-to-fix-the-power-state-driver-failure-issue/"><u>Troubleshooting Tips to Fix the Power State Driver Failure Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-usb-mouse-working-expert-tips-for-quick-laptop-fixes/"><u>Why Isn't My USB Mouse Working? Expert Tips for Quick Laptop Fixes!</u></a></li>
 </ul></div>
 

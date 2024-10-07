@@ -1,7 +1,7 @@
 ---
 title: "Solving the RPC Server Unavailable (Error Code 0xC0000098) in Windows: A Step-by-Step Guide"
-date: 2024-09-15T18:41:15.088Z
-updated: 2024-09-20T19:22:52.858Z
+date: 2024-10-02T18:07:50.230Z
+updated: 2024-10-07T10:07:54.898Z
 tags:
   - win11
   - win10
@@ -58,6 +58,19 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a01819233c7d.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Change date and time** to make sure that the date and time is correct on your Windows, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181cc9eb3f.jpg)
@@ -66,9 +79,23 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181f1e2bac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the**Internet Time** tab at the top, then click**Change Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018705735c3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Make sure to check the box next to**Synchronize with an Internet time server** , and click**Update now** , then click**OK** .
 
@@ -83,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
  1) Type**cmd** in the search box, and right click**Command Prompt**  to click**Run as administrator** , then click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018c0f66b68.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Respectively type**time** ,**date** , and **w32tm/resync**  in the window, and press**Enter** after each command. If the time and date are incorrect after running, you can type the correct time and date in the window and press**Enter** .
 
@@ -146,13 +180,6 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 3: Try Windows Update Troubleshooter**
 
  The Windows Update Troubleshooter is always a method to consider when you have any problems running Windows Update.
@@ -170,6 +197,13 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
  4) Then it will run and try to fix the problem. After completing, restart your computer and try Windows Update again to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 4: Modify Registry Editor**
 
@@ -189,13 +223,6 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7817546e624.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Right-click the newly created**NewValue#1** and select**Modify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a78180511caf.png)
@@ -204,15 +231,28 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a781900ea1c1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7) Restart your computer and try again to see if it works.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Bonus Tip: Update device drivers**
@@ -234,10 +274,10 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged device to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
@@ -245,13 +285,6 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) After updating, restart your computer and try the Windows Update again.
 
@@ -274,5 +307,26 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-enhancing-conversion-rates-with-twitter-ads-for-2024/"><u>[New] Enhancing Conversion Rates with Twitter Ads for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-vr-movie-might-change-the-world/"><u>2024 Approved How VR Movie Might Change the World</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-headset-mic-wont-work-heres-how-to-restore-your-hs50-audio-output/"><u>Corsair Headset Mic Won't Work? Here's How to Restore Your HS50 Audio Output</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeating-pubgs-launch-error-a-step-by-step-tutorial/"><u>Defeating PUBG's Launch Error : A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-moto-g-stylus-2023-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola Moto G Stylus (2023) Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-high-performance-components-with-toms-gear-insights/"><u>Discover High-Performance Components with Tom's Gear Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-overcome-the-0x80072efd-failure-message-on-windows-10-machines/"><u>Effective Solutions to Overcome the 0X80072EFD Failure Message on Windows 10 Machines</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-free-communication-restored-tackling-the-crc-error-effectively/"><u>Error-Free Communication Restored: Tackling the CRC Error Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-addressing-the-missing-devices-warning-in-icue/"><u>Expert Guide: Addressing the Missing Devices Warning in ICUE</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guide-to-resolve-windows-11-c1900101-installation-error/"><u>Guide to Resolve Windows 11 C1900101 Installation Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-a-disrupted-vpn-session-with-hamachi-errors/"><u>How to Overcome a Disrupted VPN Session with Hamachi Errors?</u></a></li>
+<li><a href="https://common-error.techidaily.com/nba-2k21-eco-friendly-bug-fixes-and-updates/"><u>NBA 2K21 Eco-Friendly Bug Fixes and Updates</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-free-mov-video-editor-reviews-top-6-cutting-solutions-for-2024/"><u>New Free MOV Video Editor Reviews Top 6 Cutting Solutions for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/stellar-quickbooks-repair-help/"><u>Stellar QuickBooks Repair Help</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-essential-guide-to-muting-intruders-on-google-video-chats-for-2024/"><u>The Essential Guide to Muting Intruders on Google Video Chats for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/transform-your-video-output-tubebuddys-methodology-for-2024/"><u>Transform Your Video Output - TubeBuddy's Methodology for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-80240020-error-during-windows-10-setup-solutions-revealed/"><u>Troubleshooting the 80240020 Error During Windows 10 Setup - Solutions Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-unresponsive-touchpad-windows-10-solutions/"><u>Troubleshooting the Unresponsive Touchpad: Windows 10 Solutions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Oppo K11 5G? | Dr.fone</u></a></li>
+</ul></div>
 

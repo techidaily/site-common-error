@@ -1,7 +1,7 @@
 ---
 title: "Error Code 0X80070426 on Windows 11: Quick Fix Guide and Common Causes"
-date: 2024-09-28T18:46:57.956Z
-updated: 2024-10-02T03:53:33.151Z
+date: 2024-10-01T00:10:50.380Z
+updated: 2024-10-07T01:13:50.519Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 4. [**Modify Registry Editor**](#Method5)
 5. **[Bonus Tip](#b1)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Why does the error 0x80070002 occur?
 
  This error code may vary from different Windows versions. In Windows XP, you will see the error code **0x80070002** . While in Windows 10/8/7, you will see the error code **80070002** .
@@ -50,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
  This problem happens when some files in the Windows Update are missing or corrupted, even though the update is downloaded and extracted successfully, or the driver faulty issue. So you can work it through by these methods until it solves your problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 1: Check the Date and Time settings**
 
@@ -71,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
  1) Click the**Date and Time** button at the bottom right, then click**Change date and time settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a01819233c7d.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click **Change date and time** to make sure that the date and time is correct on your Windows, then click**OK** .
 
@@ -105,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018c0f66b68.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Respectively type**time** ,**date** , and **w32tm/resync**  in the window, and press**Enter** after each command. If the time and date are incorrect after running, you can type the correct time and date in the window and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0266f185a5c.jpg)
@@ -129,22 +115,16 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017383ddfcc.png)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Double click**Windows Update** (if you are using Windows XP, double click**Automatic Updates** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a780f0e4842e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Change the**Startup type** to**Automatic** . Then, make sure the Service status is set to**Stopped** . If it’s**Running** , click**Stop** then click**Apply** , and**OK** to save the changes.
 
@@ -172,20 +152,33 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017371df6a8.png)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click Windows Update (if you are using Windows XP, right-click**Automatic Updates** ), and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Windows-update-Start-1200x690.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Restart your Windows and try Windows Update again to see if it solves the problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 3: Try Windows Update Troubleshooter**
 
@@ -195,22 +188,35 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0177a875597.png)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Run the downloaded file.
 
  3) Click**Windows Update** , and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0175eea504b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Then it will run and try to fix the problem. After completing, restart your computer and try Windows Update again to see if it works.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 4: Modify Registry Editor**
 
@@ -224,13 +230,6 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7816a3da385.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Go to   _**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade** ._
 
  4) Select**OSUpgrade** key, then right-click the empty area on the right pane of Registry Editor, and click**New** , then c lick **DWORD (32-bit) Value** .
@@ -238,10 +237,10 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7817546e624.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Right-click the newly created**NewValue#1** and select**Modify** .
@@ -280,6 +279,13 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) After updating, restart your computer and try the Windows Update again.
 
 ---
@@ -303,22 +309,20 @@ thumbnail: https://thmb.techidaily.com/8443124490dd4d26d174966fed147fd5721a95723
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-video-chatcall-on-snapchat-with-3-steps/"><u>[New] How to Video Chat/Call on Snapchat with 3 Steps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-boosting-youtube-engagement-top-11-seo-strategies-revealed/"><u>[Updated] In 2024, Boosting YouTube Engagement Top 11 SEO Strategies Revealed</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-top-9-windows-gif-capture-tools-perfect-animation-preservation/"><u>[Updated] Top 9 Windows GIF Capture Tools Perfect Animation Preservation</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-insights-troubleshooting-and-repairing-the-black-screen-on-your-dell-device/"><u>Complete Insights: Troubleshooting and Repairing the Black Screen on Your Dell Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-to-launch-the-hosted-network-feature-on-windows-10-systems/"><u>Effective Fixes to Launch the Hosted Network Feature on Windows 10 Systems</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/explore-our-favorite-minecraft-houses-layouts-for-2024/"><u>Explore Our Favorite Minecraft Houses Layouts for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-steam-services-not-responding-to-unlock-digital-purchases-again/"><u>Overcoming 'Steam Services Not Responding' To Unlock Digital Purchases Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/prompt-protocols-for-power-puzzles-eliminating-missing-battery-alerts-quickly/"><u>Prompt Protocols for Power Puzzles: Eliminating 'Missing Battery' Alerts Quickly</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issue-troubleshooting-unwritable-segment-at-memory-reference-point-x/"><u>Resolved Issue: Troubleshooting Unwritable Segment at Memory Reference Point X</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-sticky-keys-on-windows-11/"><u>Resolved: Fixing Sticky Keys on Windows 11</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/speech-to-text-device-review/"><u>Speech-to-Text Device Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-troubleshooting-tips-to-overcome-red-screen-issues-in-windows-11/"><u>The Ultimate Troubleshooting Tips to Overcome Red Screen Issues in Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-6s-plus-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-a-non-responsive-huion-pen-with-these-5-effective-techniques/"><u>Troubleshoot a Non-Responsive Huion Pen with These 5 Effective Techniques</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-full-potential-the-benefits-of-equipping-every-controller-with-custom-thumbstick-covers/"><u>Unlocking Full Potential: The Benefits of Equipping Every Controller with Custom Thumbstick Covers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-truth-the-most-common-misconceptions-about-ai-chatbots/"><u>Unveiling the Truth: The Most Common Misconceptions About AI Chatbots</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-remedying-an-inactive-connection-to-your-obs-cam-for-2024/"><u>[New] Remedying an Inactive Connection to Your OBS Cam for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unheard-voices-on-youtube-livestream-success-beyond-1000-supporters-for-2024/"><u>[New] Unheard Voices on YouTube Livestream Success Beyond 1000 Supporters for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-breaking-down-barriers-combining-obs-with-zoom/"><u>[Updated] In 2024, Breaking Down Barriers Combining OBS with Zoom</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-iphone-photography-techniques-for-clear-mirror-captures/"><u>[Updated] IPhone Photography Techniques for Clear Mirror Captures</u></a></li>
+<li><a href="https://fox-that.techidaily.com/addressing-lone-airpod-troubleshooting-for-optimal-sound-quality/"><u>Addressing Lone AirPod Troubleshooting for Optimal Sound Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-dealing-with-applicationexe-has-halted-execution-errors-effectively/"><u>Expert Advice: Dealing with 'Application.exe Has Halted Execution' Errors Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-improve-gaming-performance-on-windows-11/"><u>How to Improve Gaming Performance on Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-battlefront-iis-pc-shutdown-problems-a-step-by-step-guide/"><u>Resolving Battlefront II's PC Shutdown Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-quick-guide-on-resolving-steam-disk-write-errors/"><u>Simple Solutions: Quick Guide on Resolving Steam Disk Write Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/streamline-your-workflow-with-advanced-file-explorer-techniques-for-windows-11/"><u>Streamline Your Workflow with Advanced File Explorer Techniques for Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-fix-is-in-navigating-past-a-stuck-windows-setup-process/"><u>The Fix Is In: Navigating Past a Stuck Windows Setup Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/total-war-rome-remastered-stability-improvements-crash-problems-solved/"><u>Total War: Rome Remastered Stability Improvements - Crash Problems Solved</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978702111-wacom-cintiq-driver-download-and-update-easily/"><u>Wacom Cintiq Driver Download & Update Easily!</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-update-error-0x8024002e-fixed/"><u>Windows Update Error 0X8024002e [FIXED]</u></a></li>
 </ul></div>
 
