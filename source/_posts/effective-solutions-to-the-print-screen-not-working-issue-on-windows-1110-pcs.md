@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions to the Print Screen Not Working Issue on Windows 11/10 PCs
-date: 2024-09-29T18:47:58.199Z
-updated: 2024-10-07T11:20:42.567Z
+date: 2024-10-10T18:45:37.093Z
+updated: 2024-10-12T17:36:06.151Z
 tags:
   - win11
   - win10
@@ -47,20 +47,27 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
 
@@ -71,10 +78,25 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -86,32 +108,11 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Restart** .
 6. Go to the **Boot** tab.
@@ -120,6 +121,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 9. Hopefully your**computer won’t shut down** problem has been sorted. But if it doesn’t, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
 
@@ -130,13 +138,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -161,18 +162,15 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-capture-mac-scenery-screen-and-microphone-feature/"><u>[New] 2024 Approved Capture Mac Scenery Screen and Microphone Feature</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-maximizing-facebook-favorites-perfecting-square-video-crafting/"><u>[Updated] Maximizing Facebook Favorites Perfecting Square Video Crafting</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-wizardry-cure-kernel32-fails/"><u>[Windows Wizardry] Cure Kernel32 Fails</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-peek-at-all-shared-images-and-videos-in-chats/"><u>2024 Approved Peek at All Shared Images & Videos in Chats</u></a></li>
-<li><a href="https://common-error.techidaily.com/boost-your-gameplay-expert-tips-to-overcome-minecraft-lag-issues/"><u>Boost Your Gameplay: Expert Tips to Overcome Minecraft Lag Issues</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/boosting-your-wireless-range-a-comprehensive-review-of-the-netgear-nighthawk-x4/"><u>Boosting Your Wireless Range: A Comprehensive Review of the Netgear Nighthawk X4</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnose-and-solve-the-shadow-play-not-installed-issue-on-geforce-gpus/"><u>Diagnose and Solve the Shadow Play Not Installed Issue on Geforce GPUs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-androidios-video-cutting-edge-8-top-montage-tools-revealed/"><u>In 2024, Android/iOS Video Cutting-Edge 8 Top Montage Tools Revealed</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/level-up-your-gaming-rig-how-to-achieve-peak-performance-in-windows-11-games/"><u>Level Up Your Gaming Rig: How to Achieve Peak Performance in Windows 11 Games</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-fixes-for-persistent-error-code-0x800f0922-on-your-windows-10-machine/"><u>Master the Fixes for Persistent Error Code 0X800f0922 on Your Windows 10 Machine</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/openai-unveils-revolutionary-gpt-4-ai-transforming-the-tech-landscape/"><u>OpenAI Unveils Revolutionary GPT-4 AI: Transforming the Tech Landscape</u></a></li>
-<li><a href="https://article-tips.techidaily.com/typhoon-h-unveiled-yuneecs-aerial-marvel/"><u>Typhoon H Unveiled Yuneec's Aerial Marvel</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-spectacular-indulgent-pc-pastimes/"><u>[New] In 2024, Spectacular Indulgent PC Pastimes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-starters-journey-mastering-video-quality-and-resolution/"><u>[Updated] In 2024, Starter's Journey Mastering Video Quality and Resolution</u></a></li>
+<li><a href="https://common-error.techidaily.com/aoc-monitor-malfunction-on-windows-10-solutions-for-a-fixed-display-issue/"><u>AOC Monitor Malfunction on Windows 10 - Solutions for a Fixed Display Issue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-list-of-8-outstanding-ai-mobile-apps-for-both-android-and-iphone-users/"><u>Discover the Ultimate List of 8 Outstanding AI Mobile Apps for Both Android and iPhone Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-advice-on-how-to-achieve-perfect-camera-placement-with-your-ps4/"><u>Expert Advice on How to Achieve Perfect Camera Placement with Your PS4</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-error-0xc00000e9/"><u>How to Fix Windows Error 0Xc00000e9</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to Simulate GPS Movement in AR games On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oppo-reno-11f-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Oppo Reno 11F 5G FRP Without Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-connecting-your-microsoft-wireless-display-adapter-with-windows-10-a-comprehensive-guide/"><u>Resolved! Connecting Your Microsoft Wireless Display Adapter With Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-check-needed-confirming-your-gpus-support-for-d3d11-is-crucial-for-running-the-software/"><u>System Check Needed: Confirming Your GPU's Support for D3D11 Is Crucial for Running the Software</u></a></li>
 </ul></div>
 

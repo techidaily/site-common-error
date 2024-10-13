@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Corsair Keyboards That Won't Illuminate Properly
-date: 2024-10-03T09:00:10.440Z
-updated: 2024-10-06T16:37:05.370Z
+date: 2024-10-09T21:06:41.510Z
+updated: 2024-10-12T18:11:28.307Z
 tags:
   - win11
   - win10
@@ -49,16 +49,16 @@ thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b
 * Also, make sure that the keyboard receiver is well-connected as well.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Check for possible viruses
@@ -84,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-50.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged keyboard to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -95,17 +95,29 @@ thumbnail: https://thmb.techidaily.com/e4a8d7447e854c2de99b048e14a9c3d2b9315b35b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-45.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Clean the keyboard
@@ -135,24 +147,20 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-seamless-integration-of-snap-camera-in-video-conferencing-tools/"><u>[Updated] In 2024, Seamless Integration of Snap Camera in Video Conferencing Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-hassles-simple-repair-techniques-for-winodws-error-ebd-c0fe3897-b4f0-4aa5-a8e1-2dd5d3cbcefa/"><u>Bypassing the Hassles: Simple Repair Techniques for Winodws Error Ebd-C0fe3897-B4f0-4aa5-A8e1-2dd5d3cbcefa</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-radpower-radcity-5plus-bike-assessment-performance-and-weight-analysis/"><u>Comprehensive RadPower RadCity 5+ Bike Assessment: Performance & Weight Analysis</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-correcting-issues-with-your-dell-laptops-usb-interface/"><u>Diagnosing and Correcting Issues with Your Dell Laptop's USB Interface</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-setup-freshest-intel-wireless-ac-3160-driver-download-steps/"><u>Easy Setup: Freshest Intel Wireless AC 3160 Driver Download Steps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/enhancing-video-performance-on-the-social-platform/"><u>Enhancing Video Performance on the Social Platform</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-it-missing-radeon-software-suite-options/"><u>How to Fix It: Missing Radeon Software Suite Options</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-wont-connect-a-step-by-step-guide-for-bluetooth-on-windows-10/"><u>How to Fix Won't Connect: A Step-by-Step Guide for Bluetooth on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-malfunctioning-function-keys-on-laptops-and-desktops/"><u>How to Resolve Malfunctioning Function Keys on Laptops and Desktops</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oneplus-open-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on OnePlus Open</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/incorporating-your-own-generative-models-into-chatgpt-sessions-a-how-to-approach/"><u>Incorporating Your Own Generative Models Into ChatGPT Sessions: A How-To Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-correct-office-365-problem-code-30015-26/"><u>Methods to Correct Office 365 Problem Code 30015-26</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fix-guide-to-speedy-shutdown-on-windows-10-systems/"><u>Quick Fix Guide to Speedy Shutdown on Windows 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-the-feature-update-failure-in-windows-11-build-1803/"><u>Resolved: Troubleshooting the Feature Update Failure in Windows 11 Build 1803</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-oculus-display-malfunctions-due-to-gpu-problems/"><u>Step-by-Step Solutions for Oculus Display Malfunctions Due to GPU Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-how-to-turn-off-defender-firewall/"><u>Step-by-Step: How to Turn Off Defender Firewall</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-a-broken-astro-a40-headset-mic/"><u>The Ultimate Fix for a Broken Astro A40 Headset Mic</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-aw-snap-issue-in-google-chrome/"><u>Troubleshooting the 'Aw, Snap!' Issue in Google Chrome</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/weave-audio-threads-through-powerpoint-slides/"><u>Weave Audio Threads Through PowerPoint Slides</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-vision-companion-ranking-of-best-11-bridge-cams/"><u>[New] 2024 Approved The Ultimate Vision Companion Ranking of Best 11 Bridge Cams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-assessing-the-right-level-of-luminosity-in-creative-hdr-ventures/"><u>[New] In 2024, Assessing the Right Level of Luminosity in Creative HDR Ventures</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-blissful-movie-moments-your-summertime-classic-list/"><u>[Updated] Blissful Movie Moments Your Summertime Classic List</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-combining-camera-action-in-iphone-recording/"><u>[Updated] Combining Camera Action in iPhone Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-kids-car-clubbing-capers-for-2024/"><u>[Updated] Kids' Car Clubbing Capers for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-face-editing-tools-for-iphones-and-samsungs/"><u>[Updated] Prime Face-Editing Tools for iPhones and Samsungs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-the-process-for-free-pictured-frame-files/"><u>[Updated] Streamlining the Process for Free Pictured Frame Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-overcoming-reset-failed-messages-in-windows-10/"><u>Effective Solutions for Overcoming 'Reset Failed' Messages in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-access-to-systemprofiledesktop-on-windows-systems/"><u>Expert Tips for Restoring Access to Systemprofile Desktop on Windows Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x9b-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Honor X9b Phone without Google Account?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mastering-linux-a-comprehensive-guide-to-complex-topics/"><u>Mastering Linux: A Comprehensive Guide to Complex Topics</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-overcoming-loadlibrary-issue-fixing-error-87-incorrect-parameter/"><u>Resolved: Overcoming 'LoadLibrary' Issue - Fixing Error 87: Incorrect Parameter</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-minecraft-performance-problems-ultimate-guide/"><u>Solving Minecraft Performance Problems: Ultimate Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-fixing-the-critical-error-code-0xc0000098-on-your-pc/"><u>Step-by-Step Solution for Fixing the Critical Error Code 0Xc0000098 on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/what-to-try-when-windows-10-ignores-logitech-keyboard-input/"><u>What to Try When Windows 10 Ignores Logitech Keyboard Input</u></a></li>
 </ul></div>
 

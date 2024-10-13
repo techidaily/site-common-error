@@ -1,7 +1,7 @@
 ---
 title: Unlocking System Performance via CPU Management
-date: 2024-10-06T10:38:04.085Z
-updated: 2024-10-06T16:27:56.187Z
+date: 2024-10-06T19:11:54.717Z
+updated: 2024-10-12T22:46:25.111Z
 tags:
   - win11
   - win10
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 8. **[Check the crash log](#fix8)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Check for incompatible hardware
@@ -57,6 +57,13 @@ Docking Station
  If Windows 11 stops crashing, chances are the issue is driver-related. You can jump to[**this section**](#fix3) to scan and repair your drivers.
 
  If you’re sure it’s not your hardware, simply move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Get the latest system updates
 
@@ -74,10 +81,10 @@ Here’s how:
 If Windows 11 keeps crashing, you can move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Scan and repair your drivers
@@ -113,12 +120,27 @@ If the issue persists, move on to the next fix.
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
  If Windows stops crashing after the clean boot, you can repeat these steps and enable part of the services so as to root out the offender.
 
 If a clean boot doesn’t help, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Check for corrupted system files
 
@@ -127,10 +149,10 @@ If a clean boot doesn’t help, take a look at the next fix below.
  There’re 2 ways you can scan and repair your system:[manually](https://uperfect.sjv.io/g1jgba) or[automatically (Recommended)](#option2) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Scan & repair manually
@@ -143,22 +165,8 @@ If a clean boot doesn’t help, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/windows-11-cmd-run.jpg)
 2. In Command Prompt, type**sfc /scannow** and hit **Enter** . Allow System File Check to scan your system. It could take up to 5 minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/sfc-1.jpg)
 3. You may see something like the followings after the verification:  
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    1. no errors  
    2. it fixed some errors  
@@ -192,10 +200,10 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 Once completed, restart your computer and check if Windows crashes again.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Scan & repair automatically
@@ -211,10 +219,16 @@ Once completed, restart your computer and check if Windows crashes again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -226,13 +240,6 @@ Once completed, restart your computer and check if Windows crashes again.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-featured.jpg)
 
 If you’re not overclocking, simply continue to the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Increase the virtual memory
 
@@ -288,20 +295,24 @@ Here’s how to check the crash log:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-find-your-perfect-tiktok-video-explore-the-best-10-free-mac-compatible-editing-apps/"><u>[New] 2024 Approved Find Your Perfect TikTok Video - Explore the Best 10 Free, Mac-Compatible Editing Apps</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discover-variety-50-complimentary-youtube-banners-available/"><u>[New] In 2024, Discover Variety – 50 Complimentary YouTube Banners Available</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-lone-earbud-problem-resolution-guide/"><u>[Updated] Lone Earbud Problem Resolution Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205937467-bluetooth-troubles-on-windows-11-discover-quick-and-simple-fixes-now/"><u>Bluetooth Troubles on Windows 11? Discover Quick & Simple Fixes Now</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ive-camerawork-innovative-techniques-for-video-savvy-youtubers/"><u>Creative Camerawork Innovative Techniques for Video-Savvy YouTubers</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-optimize-your-pc-lowering-dwms-impact-on-graphics-performance-windows-10-and-11/"><u>How to Optimize Your PC: Lowering DWM's Impact on Graphics Performance (Windows 10 & 11)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-6s-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 6s Plus Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 mini Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204336445-mastering-the-red-screen-dilemma-expert-tips-and-tricks-unveiled/"><u>Mastering the Red Screen Dilemma: Expert Tips and Tricks Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208950577-quick-and-simple-solutions-stop-your-csgo-game-from-crashing-now/"><u>Quick and Simple Solutions: Stop Your CSGO Game From Crashing Now</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-to-get-your-huion-pen-tablet-ready-in-windows/"><u>Step-by-Step Instructions to Get Your Huion Pen Tablet Ready in Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-f15-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy F15 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://common-error.techidaily.com/total-war-rome-remastered-crashing-no-more-discover-the-fix-here/"><u>Total War: Rome Remastered Crashing No More? Discover The Fix Here</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-the-0x80070002-issue-in-windows-update-seamlessly/"><u>Troubleshoot and Resolve the 0X80070002 Issue in Windows Update Seamlessly!</u></a></li>
-<li><a href="https://common-error.techidaily.com/video-signal-conflicts-how-to-match-your-monitor-with-the-right-timing-parameters/"><u>Video Signal Conflicts: How to Match Your Monitor with the Right Timing Parameters</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-horizon-haven-the-leading-5-cloud-platforms-to-consider/"><u>[Updated] Horizon Haven The Leading 5 Cloud Platforms to Consider</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-your-youtube-livestream-game-plan/"><u>[Updated] In 2024, Elevate Your YouTube Livestream Game Plan</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/10-exciting-neural-network-options-for-your-phone-beyond-gpt/"><u>10 Exciting Neural Network Options for Your Phone Beyond GPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-missing-opencl-dynamic-link-library/"><u>Addressing Missing OpenCL Dynamic Link Library</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-fix-missing-binkw32dll-on-your-pc/"><u>Comprehensive Solutions to Fix Missing binkw32.dll on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-remedies-for-restoring-your-dells-broken-usb-interface/"><u>Effective Remedies for Restoring Your Dell's Broken USB Interface</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-repairing-internet-explorer-has-stopped-working-issues/"><u>Effective Solutions for Repairing 'Internet Explorer Has Stopped Working' Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-curb-excessive-cpu-consumption-by-microsofts-anti-malware-engine-in-windows-10-issue-solved/"><u>How to Curb Excessive CPU Consumption by Microsoft's Anti-Malware Engine in Windows 10 (ISSUE SOLVED)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-redmi-note-12-pro-5g-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Redmi Note 12 Pro 5G Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-wacom-tablet-when-it-stops-responding-or-wont-turn-on/"><u>How to Repair a Wacom Tablet When It Stops Responding or Won't Turn On</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-of-mobile-8-ranked-free-and-premium-apps-for-androids-video-tiles/"><u>In 2024, Best of Mobile #8 Ranked Free & Premium Apps for Android's Video Tiles</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unseen-navigators-of-fb-moments/"><u>In 2024, Unseen Navigators of FB Moments</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723964489630-memorable-memorial-day-offer-premium-roccat-pyro-full-sized-mechanical-keyboard-at-only-34/"><u>Memorable Memorial Day Offer: Premium Roccat Pyro Full-Sized Mechanical Keyboard at Only $34</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/outpace-the-windowed-wired-limit-transcending-100mbps-on-windows-pcs/"><u>Outpace the Windowed Wired Limit: Transcending 100Mbps on Windows PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-a-defective-laptop-mic-effective-troubleshooting-techniques/"><u>Overcoming the Challenge of a Defective Laptop Mic: Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-no-playable-sources-detected-errors-in-windows-gaming-a-comprehensive-guide/"><u>Resolving 'No Playable Sources Detected' Errors in Windows Gaming - A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/spotting-hidden-usage-in-your-tech-environment/"><u>Spotting Hidden Usage in Your Tech Environment</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-your-graphics-driver-to-activate-seamless-screen-mirroring-via-miracast/"><u>Update Your Graphics Driver to Activate Seamless Screen Mirroring via Miracast</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-are-facebooks-recommendations-permanent/"><u>Why Are Facebook's Recommendations Permanent?</u></a></li>
 </ul></div>
 

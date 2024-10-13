@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unresponsive Fn Keys in Your ASUS Laptop - A Step by Step Guide
-date: 2024-10-04T11:50:50.903Z
-updated: 2024-10-07T01:46:19.861Z
+date: 2024-10-09T16:58:18.218Z
+updated: 2024-10-12T17:39:59.240Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -43,13 +50,6 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -59,13 +59,6 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -81,16 +74,16 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -116,6 +109,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -132,10 +132,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
@@ -150,13 +150,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -164,6 +157,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -199,18 +199,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-lightrooms-ultimate-guide-to-premium-luts/"><u>[New] LightRoom's Ultimate Guide to Premium LUTs</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-fix-cursor-blinking/"><u>[Solved] How to Fix Cursor Blinking</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/behind-the-headset-todays-vr-tomorrows-trials-for-2024/"><u>Behind the Headset Today's VR, Tomorrow's Trials for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-stuck-mouse-issues-on-your-windows-or-mac-device/"><u>Fixing Stuck Mouse Issues on Your Windows or Mac Device</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-get-your-paradox-game-launcher-running-again-quick-fixes-inside/"><u>How To Get Your Paradox Game Launcher Running Again - Quick Fixes Inside</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-10-prime-free-images-hosts-ensure-picture-longevity/"><u>In 2024, 10 Prime Free Images Hosts, Ensure Picture Longevity</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-samsung-galaxy-s24plus-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Samsung Galaxy S24+ without App | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/installation-complete-critical-audiovideo-driver-found-and-installed/"><u>Installation Complete: Critical Audio/Video Driver Found & Installed</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-airpod-pc-sync-overcoming-connection-issues-in-windows-for-beginners/"><u>Mastering AirPod-PC Sync: Overcoming Connection Issues in Windows for Beginners</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-stability-problems-in-total-war-rome-remastered-tips-and-tricks/"><u>Resolving Stability Problems in Total War: Rome Remastered - Tips and Tricks</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-nokia-c12-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Nokia C12 Pro without backup.</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-tips-for-repairing-your-overwatch-voice-chat-issues-effortlessly/"><u>Ultimate Tips for Repairing Your Overwatch Voice Chat Issues Effortlessly</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-essential-guide-incorporating-visual-annotations-in-edits/"><u>[New] 2024 Approved Essential Guide Incorporating Visual Annotations in Edits</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-xiaomi-redmi-note-13-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Xiaomi Redmi Note 13 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-seal-of-credibility-writing-journalisms-finale/"><u>2024 Approved Seal of Credibility Writing Journalism's Finale</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208152521-beat-the-change-rendering-api-glitch-dota-2-error-2024-with-this-quick-guide/"><u>Beat the Change Rendering API Glitch (Dota 2 Error 2024) with This Quick Guide!</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-fixes-for-dvd-compatibility-issues-with-your-windows-pc/"><u>Common Fixes for DVD Compatibility Issues with Your Windows PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-tips-fixing-broken-or-damaged-system-files-in-modern-windows-os/"><u>Comprehensive Tips: Fixing Broken or Damaged System Files in Modern Windows OS</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/essential-information-for-successful-tiktok-use-on-macos-for-2024/"><u>Essential Information for Successful TikTok Use on macOS for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-wallpaper-engine-software-issues-in-windows-11-and-10/"><u>Fixes for 'Wallpaper Engine' Software Issues in Windows 11 and 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-poco-x5-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Poco X5 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-analysis-from-truthgpts-introduction-through-police-investigations-of-mullvad-vpn-navigate-the-best-free-gaming-experience-on-pc-and-mastering-mech50/"><u>In-Depth Analysis: From TruthGPT's Introduction Through Police Investigations of Mullvad VPN, Navigate the Best Free Gaming Experience on PC and Mastering Mechanical Keyboard Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-minecraft-problems-on-windows-a-guide-to-updating-video-card-drivers/"><u>Solve Your Minecraft Problems on Windows: A Guide to Updating Video Card Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-capturing-screen-images-on-hp-devices/"><u>Step-by-Step Tutorial: Capturing Screen Images on HP Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/tips-for-troubleshooting-and-fixing-slow-shutdown-on-windows-10/"><u>Tips for Troubleshooting and Fixing Slow Shutdown on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-your-networks-dns-server-here-are-4-efficient-remedies/"><u>Trouble With Your Network's DNS Server? Here Are 4 Efficient Remedies!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-digital-touch-messaging-a-comprehensive-guide-for-iphone-users/"><u>Understanding Digital Touch Messaging: A Comprehensive Guide for iPhone Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-the-current-inaccessibility-of-your-pcs-windows-smartscreen-defense/"><u>Understanding the Current Inaccessibility of Your PC's Windows SmartScreen Defense</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-update-error-resolving-the-kb4056892-setbacks-solution/"><u>Windows 11 Update Error: Resolving the KB4056892 Setbacks (SOLUTION)</u></a></li>
 </ul></div>
 

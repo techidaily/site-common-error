@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] 100%% Disk Usage in Windows 11"
-date: 2024-09-14T16:06:03.972Z
-updated: 2024-09-15T16:01:32.416Z
+date: 2024-10-11T00:41:29.787Z
+updated: 2024-10-12T22:38:28.862Z
 tags:
   - win11
   - win10
@@ -50,12 +50,35 @@ thumbnail: https://thmb.techidaily.com/0925fc779f0843944465c330e0533d47cac4851d5
 1. Click the Start menu (the Windows logo) at the bottom left of your screen. Then click **Settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_59819ff0e68f7.png)
 2. Click **Ease of Access** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a118a26bf.png)
 3. Click **Keyboard** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a1f8bb7c8.png)
 4. Disable the Filter Keys function (switch off**Filter Keys** or uncheck**Turn on Filter Keys** ).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a38f0341d.png)
 5. Try your keyboard and see if disabling Filter Keys can restore your keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Windows 11
 
@@ -64,21 +87,14 @@ thumbnail: https://thmb.techidaily.com/0925fc779f0843944465c330e0533d47cac4851d5
 3. Toggle**Off** Filter keys.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Filter-keys-Off.jpg)
 4. Now try using your keyboard and see if disabling Filter Keys can restore your keyboard.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Update your keyboard driver
 
@@ -95,16 +111,22 @@ thumbnail: https://thmb.techidaily.com/0925fc779f0843944465c330e0533d47cac4851d5
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/hid-keyboard-device.png)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  If your keyboard still refuses to work properly, please move on.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Troubleshoot the hardware issues
 
@@ -129,5 +151,21 @@ thumbnail: https://thmb.techidaily.com/0925fc779f0843944465c330e0533d47cac4851d5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-prosperity-through-streaming-a-youtube-money-blueprint/"><u>[New] 2024 Approved Prosperity Through Streaming A YouTube Money Blueprint</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-close-up-meetings-in-ms-teams/"><u>[New] The Art of Close-Up Meetings in MS Teams</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-tackling-tricky-feed-issues-hidden-youtubefacebook-videos/"><u>[Updated] Tackling Tricky Feed Issues Hidden YouTube/Facebook Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-future-of-technology-samsung-unpacked-2025-insights-latest-news-and-gossip-compilation/"><u>Decoding the Future of Technology: Samsung Unpacked 2025 Insights, Latest News & Gossip Compilation</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/digital-diving-into-youtubes-veiled-video-vaults-for-2024/"><u>Digital Diving Into YouTube’s Veiled Video Vaults for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/elevate-your-viewing-with-4k-quality-downloading-and-watching-in-true-hd/"><u>Elevate Your Viewing with 4K Quality - Downloading & Watching in True HD</u></a></li>
+<li><a href="https://common-error.techidaily.com/hear-the-joy-headphones-now-recognized-by-laptops/"><u>Hear the Joy: Headphones Now Recognized by Laptops</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-fix-the-dreaded-minecraft-error-code-amoeba/"><u>How to Troubleshoot and Fix the Dreaded Minecraft Error Code Amoeba</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-simplified-social-syncing-from-instagram-to-facebook/"><u>In 2024, Simplified Social Syncing From Instagram To Facebook</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-non-hdcp-enabled-video-outputs-on-screens/"><u>Overcoming the Challenge of Non-HDCP Enabled Video Outputs on Screens</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208785516-reclaim-missing-touchpad-from-device-manager/"><u>Reclaim Missing Touchpad From Device Manager</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/rising-through-the-rankings-adding-highlight-channels-to-youtube/"><u>Rising Through the Rankings Adding Highlight Channels to YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-troubleshooting-guide-resolving-issues-with-your-lenovos-fingerprint-scanner/"><u>Simple Troubleshooting Guide: Resolving Issues with Your Lenovo's Fingerprint Scanner</u></a></li>
+</ul></div>
 

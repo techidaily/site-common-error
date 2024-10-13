@@ -1,7 +1,7 @@
 ---
 title: "Error 80#0020 During Windows 11 Installation: Understanding and Solutions for a Smooth Update"
-date: 2024-09-09T16:02:00.205Z
-updated: 2024-09-15T16:02:39.032Z
+date: 2024-10-11T01:10:44.065Z
+updated: 2024-10-13T04:26:16.661Z
 tags:
   - win11
   - win10
@@ -74,6 +74,14 @@ This time uncheck **Safe boot** to reboot your Windows 10.
 
 When it finish rebooting, run System Restore again.  
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Fix Two. Rename the WindowsApps folder in WinRE**
 
 1)  
@@ -86,17 +94,47 @@ Then click **Update & security**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/6.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 b)  
 Click **Recovery**.  
 Then scroll down on the right side and click **Restart now** under **Advanced startup** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/7-2.jpg)
   
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 c)  
 Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/11.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2)  
 
 Type the following commands and hit **Enter**  to run them one by one:  
@@ -125,12 +163,19 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-ultimate-guide-canvas-hidden-tips-and-tricks/"><u>[New] 2024 Approved The Ultimate Guide Canva's Hidden Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-connectivity-issues-in-wacom-drawing-tablets/"><u>Diagnosing and Fixing Connectivity Issues in Wacom Drawing Tablets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/direct-pathways-moving-iphone-content-to-pc-efficiently/"><u>Direct Pathways Moving iPhone Content to PC Efficiently</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-asus-vg248qe-graphics-card-driver-simple-steps/"><u>Download & Update Asus VG248QE Graphics Card Driver - Simple Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-blue-screen-error-0xc00000e9-on-windows-computers/"><u>Expert Tips for Repairing Blue Screen Error 0Xc00000e9 on Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-x3daudio17dll-error-play-games-smoothly/"><u>Fix X3DAudio1_7.dll Error, Play Games Smoothly</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-asus-laptops-malfunctioning-fn-control-keys-a-step-by-step-guide/"><u>Fixing ASUS Laptop's Malfunctioning FN Control Keys – A Step by Step Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-m34-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy M34 FRP</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-unidentified-usb-complications-with-port-resets-failures-on-windows-10/"><u>Overcoming Unidentified USB Complications with Port Resets Failures on Windows 10</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-compatibility-telemetry-excessive-storage-use-in-windows-10/"><u>Resolving Microsoft Compatibility Telemetry Excessive Storage Use in Windows 10</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/selecting-superior-capture-cards-switch-style/"><u>Selecting Superior Capture Cards, Switch Style</u></a></li>
+</ul></div>
 

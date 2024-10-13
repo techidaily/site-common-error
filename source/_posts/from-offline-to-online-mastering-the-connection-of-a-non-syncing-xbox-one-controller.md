@@ -1,7 +1,7 @@
 ---
 title: "From Offline to Online: Mastering the Connection of a Non-Syncing Xbox One Controller"
-date: 2024-10-06T11:03:49.389Z
-updated: 2024-10-07T00:49:48.726Z
+date: 2024-10-09T20:38:11.813Z
+updated: 2024-10-13T03:16:16.150Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -58,13 +58,6 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
@@ -73,10 +66,10 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
@@ -87,13 +80,6 @@ You can also try these steps to rebuild the icon cache:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -103,13 +89,6 @@ start explorer.exe
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -118,21 +97,35 @@ If your desktop icons still don’t show up, you can perform a system restore to
 2. At Recovery, click **Open System Restore**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -160,8 +153,23 @@ OR
 2. Run Driver Easy and click **Scan Now**. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -186,14 +194,24 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-deep-dive-into-du-recorders-design-and-functionality/"><u>[New] Deep Dive Into Du Recorder's Design and Functionality</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-from-conference-call-to-online-showcase-google-meet-on-youtube/"><u>[New] From Conference Call to Online Showcase Google Meet on YouTube</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-crafting-virtual-laughter-the-metaverse-meme-journey/"><u>[Updated] In 2024, Crafting Virtual Laughter The Metaverse Meme Journey</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnostics-policy-service-is-not-running-solved/"><u>Diagnostics Policy Service Is Not Running [Solved]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/elevate-your-mac-usage-with-the-hidden-path-bar-a-comprehensive-activation-guide/"><u>Elevate Your Mac Usage with the Hidden Path Bar - A Comprehensive Activation Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-port-reset-failed-when-your-usb-isnt-working-on-windows-11/"><u>Fixing 'Port Reset Failed' When Your USB Isn’t Working on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-get-past-the-never-ending-startup-loop-in-valorant-tips-and-solutions/"><u>How to Get Past the Never-Ending Startup Loop in Valorant: Tips and Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-error-loading-player-without-found-sources-for-windows-users/"><u>Troubleshooting Error Loading Player Without Found Sources for Windows Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/21-edition-synopsis-unraveling-the-future-of-online-betting-with-vegas-pro/"><u>'21 Edition Synopsis – Unraveling the Future of Online Betting with Vegas Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-the-ideal-playlist-video-integration-on-youtube-platform/"><u>[New] Crafting the Ideal Playlist Video Integration on YouTube Platform</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-essential-blueprint-for-effortless-avatar-creation-in-vr/"><u>[New] In 2024, The Essential Blueprint for Effortless Avatar Creation in VR</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-audfreemasterclass-deciphering-extraction-features/"><u>[Updated] AudFreeMasterclass Deciphering Extraction Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-chapter-insertion-in-youtube-videos-an-all-inclusive-handbook/"><u>2024 Approved Mastering Chapter Insertion in YouTube Videos An All-Inclusive Handbook</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-tech-fixes-for-pcs-stalled-on-the-windows-installation-screen/"><u>DIY Tech Fixes for PCs Stalled on the Windows Installation Screen</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-top-android-video-editor-apps-for-chromebook-for-2024/"><u>Edit Like a Pro Top Android Video Editor Apps for Chromebook for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-microsoft-wi-fi-display-adapter-connection-issues-in-windows-11-a-complete-guide/"><u>Fixing Microsoft Wi-Fi Display Adapter Connection Issues in Windows 11 - A Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fix-non-functional-camera-on-microsoft-surface-book-pro-4-under-windows-11-operating-system/"><u>Guide to Fix Non-Functional Camera on Microsoft Surface Book (Pro 4) Under Windows 11 Operating System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp3m4a/"><u>MP3ファイルを効率よく無料でM4Aに変換するためのベストソフトウェアリスト【お取りも参考まで】</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/photoshop-simplified-beginner-friendly-editing-secrets-for-2024/"><u>Photoshop Simplified Beginner-Friendly Editing Secrets for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-hdcp-unsupported-monitors-and-tvs/"><u>Resolving Issues with HDCP Unsupported Monitors and TVs</u></a></li>
+<li><a href="https://common-error.techidaily.com/set-your-origin-games-right-fixing-configuration-hitches-easily/"><u>Set Your Origin Games Right: Fixing Configuration Hitches Easily</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/smoothmoves-recordwatcher-study-for-2024/"><u>SmoothMoves RecordWatcher Study for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-keeps-disconnecting-usb-headache-a-comprehensive-guide/"><u>Solve Your Keeps Disconnecting USB Headache: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-oculus-hardware-issues-effectively/"><u>Solving Oculus Hardware Issues Effectively</u></a></li>
+<li><a href="https://facebook.techidaily.com/streamline-social-syncing-integrate-facebook-storage-with-top-services/"><u>Streamline Social Syncing: Integrate Facebook Storage with Top Services.</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-resolving-common-issues-when-netflix-fails-to-load/"><u>Understanding and Resolving Common Issues When Netflix Fails to Load</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstick-windows-update-from-100-expert-strategies-and-fixes-revealed/"><u>Unstick Windows Update From 100%: Expert Strategies and Fixes Revealed</u></a></li>
 </ul></div>
 

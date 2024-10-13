@@ -1,7 +1,7 @@
 ---
 title: Windows 10 File Explorer – Scroll Bar Jumps to Top when Scrolling [Solved]
-date: 2024-10-05T17:45:36.182Z
-updated: 2024-10-06T16:46:20.423Z
+date: 2024-10-07T17:02:46.109Z
+updated: 2024-10-12T22:05:36.643Z
 tags:
   - win11
   - win10
@@ -45,19 +45,6 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tip 2: Check your desktop icon settings
 
 1. Right-click your desktop and click **Personalize**.  
@@ -69,10 +56,10 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -104,26 +91,32 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -132,24 +125,25 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 1. Click the **Start** button > the **Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -167,6 +161,13 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -191,24 +192,21 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-compassionate-3d-action-best-android-emulators-for-2024/"><u>[New] Compassionate 3D Action Best Android Emulators for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-how-to-delete-messages-on-discord-in-bulk/"><u>2024 Approved How to Delete Messages On Discord In Bulk</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-top-20-best-twitter-unfollowers-and-tools/"><u>2024 Approved Top 20 Best Twitter Unfollowers & Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/como-unir-clips-en-windows-10-descubre-las-7-recomendaciones-mas-eficaces/"><u>Cómo Unir Clips en Windows 10: Descubre Las 7 Recomendaciones Más Eficaces</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-vlogging-skills-with-pro-gopro-tips/"><u>Elevate Your Vlogging Skills with Pro GoPro Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-fixing-the-update-error-in-windows-11-code-0x80240034/"><u>Expert Advice on Fixing the 'Update Error' In Windows 11 (Code 0X80240034)</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-windows-10-version-1903-upgrade-problems-successfully/"><u>Fixing the Windows 10 Version 1903 Upgrade Problems Successfully</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1726026484083-gif/"><u>GIFからフルビデオへの変換テクニック集</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-essential-screenshot-and-recording-tools-for-learning-environments/"><u>In 2024, Essential Screenshot & Recording Tools for Learning Environments</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-max-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro Max Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-microphone-issues-on-laptops-effective-solutions-unveiled/"><u>Mastering Microphone Issues on Laptops - Effective Solutions Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-the-common-windows-update-error-code-0x80070652/"><u>Quick Solutions: Resolving the Common Windows Update Error Code 0X80070652</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-media-player-failures-on-windows-11-os/"><u>Resolving Media Player Failures on Windows 11 OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-found-for-electric-spike-in-connector-junction/"><u>Solution Found for Electric Spike in Connector Junction</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-incompatible-signal-issues-between-input-devices-and-displays/"><u>Solving Incompatible Signal Issues Between Input Devices and Displays</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-edge-40-neo-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Edge 40 Neo Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-usb-issues-resolved-tips-for-restoring-port-functionality/"><u>Windows 11 USB Issues Resolved: Tips for Restoring Port Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-failing-windows-updates-now-fixed/"><u>Winning the Battle Against Failing Windows Updates - Now Fixed!</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-svchostexes-heavy-load-on-your-windows-11-pc-detailed-strategies/"><u>Winning the Battle Against svchost.exe's Heavy Load on Your Windows 11 PC [Detailed Strategies]</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-best-webcams-elevating-podcast-aesthetics/"><u>[New] Best Webcams Elevating Podcast Aesthetics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-explore-androids-leading-music-video-watching-tools-for-2024/"><u>[New] Explore Android's Leading Music Video Watching Tools for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-three-budget-friendly-solutions-incorporating-sound-into-your-iphone-videos-for-2024/"><u>[New] Three Budget-Friendly Solutions Incorporating Sound Into Your iPhone Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-question-in-cameras-can-a-dslr-surpass-a-hero-4/"><u>2024 Approved The Ultimate Question in Cameras Can a DSLR Surpass a Hero 4?</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/coding-stalled-command-refused/"><u>Coding Stalled: Command Refused</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-resolving-the-persistent-reboot-problem-in-windows-10/"><u>Effortless Fixes: Resolving the Persistent Reboot Problem in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/getting-your-hands-on-the-apple-vision-pro-early-navigating-pre-order-challenges-zdnet-insights/"><u>Getting Your Hands on the Apple Vision Pro Early: Navigating Pre-Order Challenges | ZDNet Insights</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-exceptional-advice-premium-ios-tone-makers/"><u>In 2024, Exceptional Advice Premium iOS Tone Makers</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-error-systemprofiledesktop-unavailable-message-on-windows/"><u>Overcoming the Error: Systemprofile Desktop Unavailable Message on Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/practical-methods-for-instagram-story-capture/"><u>Practical Methods for Instagram Story Capture</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-obs-game-captures-persistent-black-screen-challenge/"><u>Resolving OBS Game Capture's Persistent Black Screen Challenge</u></a></li>
+<li><a href="https://common-error.techidaily.com/surprise-restarts-in-win11-systems/"><u>Surprise Restarts in Win11 Systems</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-strategies-in-drone-filmmaking/"><u>Top Strategies in Drone Filmmaking</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-a-non-responsive-laptop-mouse-a-step-by-step-guide/"><u>Troubleshooting a Non-Responsive Laptop Mouse: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-you-cant-access-the-microsoft-store/"><u>Troubleshooting Steps When You Can’t Access the Microsoft Store</u></a></li>
 </ul></div>
 

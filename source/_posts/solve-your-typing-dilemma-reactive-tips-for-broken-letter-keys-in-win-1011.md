@@ -1,7 +1,7 @@
 ---
 title: "Solve Your Typing Dilemma: Reactive Tips for Broken Letter Keys in Win 10/11"
-date: 2024-09-12T16:03:33.432Z
-updated: 2024-09-15T16:03:51.042Z
+date: 2024-10-07T20:12:40.818Z
+updated: 2024-10-13T02:18:33.379Z
 tags:
   - win11
   - win10
@@ -74,6 +74,13 @@ If you’re a laptop user, you could follow these steps:
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your keyboard driver
 
  Your letter keys may not be working properly because you’re using the wrong keyboard driver or it’s out of date. You should update your keyboard driver to see if this fixes your keyboard.
@@ -104,16 +111,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -128,8 +135,6 @@ OR
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
-4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
@@ -138,17 +143,20 @@ OR
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Tips: Keyboard maintenance
 
@@ -175,5 +183,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-creativecanvas-blend-online-design-spectacle-for-2024/"><u>[New] CreativeCanvas Blend Online Design Spectacle for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-effortless-presentation-recording-with-modern-webcams/"><u>[New] In 2024, Effortless Presentation Recording with Modern Webcams</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-practices-for-hospitals-social-media-health-promos/"><u>2024 Approved Best Practices for Hospitals' Social Media Health Promos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-social-network-videos-downloaded-for-audio-conversion/"><u>2024 Approved Social Network Videos Downloaded for Audio Conversion</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-dead-dns-servers-here-are-4-effortless-fixes/"><u>Dealing with Dead DNS Servers? Here Are 4 Effortless Fixes!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/echoes-of-the-past-understanding-sound-overlaps/"><u>Echoes of the Past Understanding Sound Overlaps</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-windows-resource-protection-could-not-start-the-repair-service-sfc-error/"><u>Fixed: Windows Resource Protection Could Not Start the Repair Service - Sfc Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/google-chrome-crash-course-overcoming-the-not-responding-dilemma/"><u>Google Chrome Crash Course: Overcoming the Not Responding Dilemma</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-mgmt-error-45-resolved/"><u>Hardware Mgmt: Error #45 Resolved</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-easily-install-and-upgrade-amd-radeon-rx-590-drivers-on-your-windows-pc/"><u>How to Easily Install and Upgrade AMD Radeon RX 590 Drivers on Your Windows PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/immediate-solutions-for-printer-error-on-your-pdf-documents/"><u>Immediate Solutions for Printer Error on Your PDF Documents</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-selection-of-affordable-cams-for-action-sports/"><u>In 2024, Prime Selection of Affordable Cams for Action Sports</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-path-to-profitable-fb-animation-ad-success-stories/"><u>In 2024, The Path to Profitable FB Animation Ad Success Stories</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-mystery-of-a-vanished-bluetooth-icon-on-windows-10-machines-expert-tips-and-tricks/"><u>Solving the Mystery of a Vanished Bluetooth Icon on Windows 10 Machines: Expert Tips and Tricks</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/step-by-step-guide-opening-and-enjoying-your-sony-ereader-books-with-adobes-digital-editions/"><u>Step-by-Step Guide: Opening and Enjoying Your Sony eReader Books with Adobe's Digital Editions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solutions-for-svchostexe-high-resource-consumption-on-windows-11/"><u>Troubleshooting and Solutions for svchost.exe High Resource Consumption on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-driverpowerstateerror-on-your-computer/"><u>Troubleshooting DRIVER_POWER_STATE_ERROR on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-update-failure-messages-in-warframe/"><u>Troubleshooting Guide: Overcoming 'Update Failure' Messages in Warframe</u></a></li>
+<li><a href="https://common-error.techidaily.com/unplugged-and-confused-heres-why-your-laptop-turned-off-randomly-solved/"><u>Unplugged and Confused? Here's Why Your Laptop Turned Off Randomly (Solved)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Fix of Error Code 5 on Your Minecraft Game
-date: 2024-10-04T22:36:34.608Z
-updated: 2024-10-06T18:22:09.956Z
+date: 2024-10-05T16:23:00.345Z
+updated: 2024-10-13T03:16:47.343Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/4b87d391cf12a5ae13597110e648fd93c3ae44253
 
  _Error Code**0xc0000098**_  o_n Windows 10, 8, 8.1_
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Below you will get to know all possible fixes to solve your boot error 0xc0000098\. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -60,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/4b87d391cf12a5ae13597110e648fd93c3ae44253
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download-win-10-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Download the installation media and save it on your computer.
@@ -137,13 +144,6 @@ bootrec /rebuildbcd
 
  4) If it fails, you can run Startup Repair again.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: CHKDSK
 
  CHKDSK, short for “check disk”, aims to check disk and verify system files for any errors.
@@ -162,13 +162,6 @@ chkdsk C: /f /r /x
 
 4) Close Command Prompt and restart your device to check if the Windows system can load up again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: System File Checker
 
  The error 0xc0000098 can also be caused by missing or corrupt system files. System File Checker (SFC) can help you to restore the missing files and repair any problematic ones.
@@ -182,10 +175,10 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 2) Wait for the scan to finish.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Use a Windows Fortect Tool
@@ -205,10 +198,10 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean install of Windows
@@ -268,15 +261,22 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all essential and peripheral drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ . You get**full support** and a no-questions-asked**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note: You can do it for free if you like, but it’s partly manual.
 
@@ -302,24 +302,22 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-expertise-in-ease-simplifying-complex-snapchat-filters/"><u>[New] Expertise in Ease Simplifying Complex Snapchat Filters</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-securely-sharing-visuals-learn-the-art-of-screencast-with-ezvid-for-2024/"><u>[New] Securely Sharing Visuals Learn the Art of Screencast with Ezvid for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-dream-of-flight-check-out-these-top-kid-friendly-drones-for-2024/"><u>[Updated] Dream of Flight? Check Out These Top Kid-Friendly Drones for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-a-newcomers-primer-to-av1-codecs/"><u>[Updated] In 2024, A Newcomer’s Primer to AV1 Codecs</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-elevate-your-video-visibility-11-secrets-of-successful-seo/"><u>2024 Approved Elevate Your Video Visibility 11 Secrets of Successful SEO</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehve-steps-to-revive-your-acers-audio-no-more-quiet-computers/"><u>Comprehve Steps to Revive Your Acer's Audio – No More Quiet Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/destiny-2-initialization-fixes-unstuck-from-the-boot-sequence-hurdle/"><u>Destiny 2 Initialization Fixes: Unstuck From the Boot Sequence Hurdle</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-the-windows-camera-error-code-0xa00f4292/"><u>Diagnosing and Repairing the Windows Camera Error Code 0xA00F4292</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-repairing-google-chromes-unwanted-black-display-problem/"><u>Expert Advice on Repairing Google Chrome's Unwanted Black Display Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-prevent-your-usb-from-keep-dropping-out/"><u>Expert Advice: Prevent Your USB From Keep Dropping Out</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-your-laptops-trackpad-issues-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Fixing Your Laptop's Trackpad Issues on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-motorola-g54-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Motorola G54 5G Phone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-mobile-efficiency-an-in-depth-review-of-the-hp-omnibook-xs-extended-snapdragon-x-power-and-long-lasting-battery/"><u>Mastering Mobile Efficiency: An In-Depth Review of the HP OmniBook X's Extended Snapdragon X Power and Long-Lasting Battery</u></a></li>
-<li><a href="https://blog-min.techidaily.com/movavi-transformez-votre-ram-en-une-ligne-connectee-gratuite/"><u>Movavi: Transformez Votre RAM en Une Ligne Connectée Gratuite</u></a></li>
-<li><a href="https://common-error.techidaily.com/pubg-troubleshooting-tips-overcoming-in-game-building-loading-problems/"><u>PUBG Troubleshooting Tips - Overcoming In-Game Building Loading Problems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resuscitating-silent-windows-headset-mic/"><u>Resuscitating Silent Windows Headset Mic</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-address-invalid-profile-on-windows-11-systems/"><u>Steps to Address Invalid Profile on Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-frozen-tailored-settings-on-accounts/"><u>Troubleshooting Frozen Tailored Settings on Accounts</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-high-performance-gaming-in-windows-11-strategies-for-gamers/"><u>Unlocking High-Performance Gaming in Windows 11: Strategies for Gamers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-plug-in-proweries-expert-analysis/"><u>[New] 2024 Approved PLUG-IN PROWERIES Expert Analysis</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-step-by-step-guide-to-using-bandicam-insights-users/"><u>[New] In 2024, Step-by-Step Guide to Using Bandicam – Insights Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-whats-going-wrong-sideways-videos-on-instagram/"><u>[New] What's Going Wrong Sideways Videos on Instagram</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enjoy-endless-creativity-discover-the-best-in-cheap-online-video-downloading/"><u>2024 Approved Enjoy Endless Creativity Discover the Best in Cheap, Online Video Downloading</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-unveiling-techniques-for-pace-modification-on-snapchat-videos/"><u>2024 Approved Unveiling Techniques for Pace Modification on Snapchat Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/arma-3-tarkov-error-resolution-understanding-and-fixing-code-1n03003/"><u>Arma 3 Tarkov Error Resolution: Understanding and Fixing Code 1N03003</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207691717-cracking-the-code-to-successfully-register-classes-on-windows-10-detailed-fixes-revealed/"><u>Cracking the Code to Successfully Register Classes on Windows 10 - Detailed Fixes Revealed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/deep-dive-into-instagrams-daily-narrative-components/"><u>Deep Dive Into Instagram's Daily Narrative Components</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-getting-minecraft-back-running-on-windows-after-launch-problems/"><u>Expert Advice: Getting Minecraft Back Running on Windows After Launch Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-issues-with-unsuccessful-torrent-downloads/"><u>How to Fix Issues with Unsuccessful Torrent Downloads</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-perfect-playback-top-strategies-for-gameplay-videos/"><u>In 2024, The Perfect Playback Top Strategies for Gameplay Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-restarting-non-starting-windows-drivers/"><u>Mastering the Art of Restarting Non-Starting Windows Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-pdf-print-troubles-effective-remedies-for-immediate-relief/"><u>No More PDF Print Troubles - Effective Remedies for Immediate Relief</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-blue-screen-a-step-by-step-guide-to-correcting-system-error-code-c00000e9/"><u>Resolving the Blue Screen: A Step-by-Step Guide to Correcting System Error Code C00000e9</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-persistent-computer-hibernation-issues-with-easy-solutions/"><u>Troubleshoot Persistent Computer Hibernation Issues with Easy Solutions!</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexpectedly-turned-off-computers-diagnosis-and-repair-techniques/"><u>Unexpectedly Turned Off Computers: Diagnosis and Repair Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/unreal-engine-hangs-in-balance-with-d3d-status/"><u>Unreal Engine Hangs in Balance with D3D Status</u></a></li>
 </ul></div>
 

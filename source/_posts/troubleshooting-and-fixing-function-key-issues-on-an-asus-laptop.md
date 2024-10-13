@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting & Fixing Function Key Issues on an ASUS Laptop
-date: 2024-10-04T20:42:55.328Z
-updated: 2024-10-07T02:32:25.216Z
+date: 2024-10-11T04:41:37.749Z
+updated: 2024-10-13T02:41:56.909Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/9009e7502f48b6a7260ab49e34d5c0ede3d2f18aa
 5. [**Disable the USB selective suspend feature**](#m5)
 6. **[Adjust your system settings](#m6)**
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Connect your USB device directly to your computer
 
  If your USB device connected to your computer is misconfigured, the USB device not recognized error may keep popping up. The following simple steps could help you fix it:
@@ -47,6 +54,19 @@ thumbnail: https://thmb.techidaily.com/9009e7502f48b6a7260ab49e34d5c0ede3d2f18aa
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Run the built-in Hardware and Devices troubleshooter
 
  The**built-in Hardware and Devices troubleshooter** can help you fix problems with devices connected to your computer. Run it to try to solve your USB device not recognized problem.
@@ -58,6 +78,14 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c8665b788.png)
 3. Click**Troubleshooting** when**View by Large icons** are selected.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d76732d97.jpg)
 4. Select **Configure a device** under the**Hardware and sound** section.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c946c14d2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c97b74c34.jpg)
 
@@ -76,6 +104,14 @@ See how to do it:
 1. On your keyboard, hold down the**Windows logo key** , then press**Pause** .
 2. Click**Device Manager** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99ca5f07100.jpg)
 3. Double-click**Universal Serial Bus controllers** . Proceed to click**View** , then select**Show hidden devices** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99cadab69f6.jpg)
 4. **Right-click** on your first USB controller driver under the Universal Serial Bus controllers section to select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99cb4721f1b.jpg)
@@ -84,6 +120,19 @@ See how to do it:
  Once you uninstall all your USB controller drivers,**restart your computer** to let Windows reinstall the USB controller drivers automatically. Then check if the error still pops up.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Update your USB device and motherboard chipset drivers
 
@@ -104,13 +153,6 @@ Restart your computer to see if the error disappears.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 5: Disable the USB selective suspend feature
 
  The**USB selective suspend** feature helps conserve battery power which is useful in portable computers. But with it enabled, some problems sometimes might occur including your USB device not recognized problem. So disable the feature to try to solve your problem.
@@ -122,53 +164,33 @@ Restart your computer to see if the error disappears.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c8665b788.png)
 3. Click**Power Options** when**View by Large icons** are selected.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7437b4c8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select **Change plan settings** of**Balanced(recommended)** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7c4b1d80.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Change advanced power settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7b2da294.jpg)
 6. Double-click**USB settings** \>**USB selective suspend setting** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d80c3c948.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Click**Enabled** , then select**Disabled** from the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d845a8cb9.jpg)  
 **Note:** If you’re on a laptop, there might be two Enable options to change,**On battery** and**Plugged in** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Be sure to**set both to Disabled** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da409c8a5.jpg)
 8. Click**Apply** \>**OK** to save your settings.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da698818c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da698818c.jpg)
 
 Check if the error disappears.
 
@@ -189,13 +211,6 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e389af4af.jpg)
 3. Select USB, then un-check **Notify me if there are issues connecting to USB devices.** ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e3bbc5732.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **If you’re using Windows 7:**
 
 1. On your keyboard, press the**Windows logo key** , then press**Pause** .
@@ -203,14 +218,15 @@ See how to do it:
 3. Double-click**Universal Serial Bus Controllers** .
 4. Right-click on your first USB controller driver to select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e45a3304f.jpg)
 5. Click **Advanced** , then tick on **Don’t tell me about USB errors** . Click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e4addd848.jpg)
-6. Repeat Steps 4 & 5 for all your other USB controller drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6. Repeat Steps 4 & 5 for all your other USB controller drivers.
 
  The **USB device not recognized**  error message will not be shown any longer on your system.
 
@@ -236,22 +252,20 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-enhance-stories-interaction-with-custom-queries-design/"><u>[Updated] In 2024, Enhance Stories Interaction with Custom Queries Design</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-top-video-professionals/"><u>2024 Approved Navigating Top Video Professionals</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-premier-ranking-of-outstanding-stop-motion-films/"><u>2024 Approved The Premier Ranking of Outstanding Stop-Motion Films</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-persistent-starvation-issues-prevent-game-from-crashing-on-your-pc/"><u>Fix Persistent Starvation Issues: Prevent Game From Crashing on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-frustrating-0x80072efd-issue-on-your-windows-10-pc/"><u>Fixing the Frustrating 0X80072EFD Issue on Your Windows 10 PC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/flash-frame-filmmakers-plan-for-2024/"><u>Flash Frame Filmmaker's Plan for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-acid-pro-overview-plus-best-software-match-ups/"><u>In 2024, ACID Pro Overview + Best Software Match-Ups</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-motorola-moto-g24-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Motorola Moto G24 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/noise-problem-heres-how-to-bring-back-sound-to-your-acer-system/"><u>Noise Problem? Here's How to Bring Back Sound to Your Acer System</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-issue-why-your-bluetooth-keyboard-wont-pair-with-computer/"><u>Solving the Issue: Why Your Bluetooth Keyboard Won't Pair with Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/steam-application-addressing-dll-absence/"><u>Steam Application: Addressing Dll Absence</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-approach-to-overcome-windows-11-kb4056892-installation-challenges/"><u>Step-by-Step Approach to Overcome Windows 11 KB4056892 Installation Challenges</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/taming-the-cpu-hogging-beast-in-windows-tips-for-managing-the-module-installer-process/"><u>Taming the CPU Hogging Beast in Windows: Tips for Managing the Module Installer Process</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-6-best-capture-cards-for-nintendo-switch-you-can-find-for-2024/"><u>Top 6 Best Capture Cards for Nintendo Switch You Can Find for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205158907-unraveling-the-mystery-behind-google-chrome-critical-error-solutions-at-hand/"><u>Unraveling The Mystery Behind Google Chrome Critical Error - Solutions at Hand</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211077303-wacom-pen-wont-connect-to-windows-1110-heres-how-you-can-solve-it/"><u>Wacom Pen Won't Connect to Windows 11/10? Here's How You Can Solve It</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-does-my-wireless-mouse-stop-working-on-windows-troubleshooting-tips-for-win10win11-users/"><u>Why Does My Wireless Mouse Stop Working on Windows? Troubleshooting Tips for Win10/Win11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/alert-paste-problematic-windows-11-feature/"><u>[ALERT] Paste Problematic Windows 11 Feature</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/levating-video-revenue-youtubes-path-for-2024/"><u>[New] Elevating Video Revenue YouTube's Path for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-premium-software-selection-upload-videos-for-twitter-for-2024/"><u>[New] Premium Software Selection Upload Videos for Twitter for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-quick-start-guide-to-arranging-engaging-google-sessions/"><u>[New] Quick Start Guide to Arranging Engaging Google Sessions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-video-sectioning-mastery-in-vimeo-videos/"><u>[Updated] In 2024, Video Sectioning Mastery in Vimeo Videos</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-storytelling-revolution-free-cross-platform-social-sensations-for-2024/"><u>[Updated] Storytelling Revolution FREE, Cross-Platform Social Sensations for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-disrupted-beats-best-mobile-music-distortors/"><u>2024 Approved Disrupted Beats Best Mobile Music Distortors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-learn-iphone-collage-techniques-like-a-pro/"><u>2024 Approved Learn iPhone Collage Techniques Like a Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-speaker-noise-on-your-pc-top-fixes-for-windows-11-and-7-systems/"><u>Eliminate Speaker Noise on Your PC: Top Fixes for Windows 11 and 7 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-computer-freezes-when-playing-games-easily/"><u>Fix Computer Freezes when Playing Games [Easily]</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-and-tips-troubleshooting-a-non-functional-mic-on-windows-10/"><u>Fixes & Tips: Troubleshooting a Non-Functional Mic on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-illumination-on-a-non-responsive-corsair-keyboard/"><u>How to Restore Illumination on a Non-Responsive Corsair Keyboard</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/safeguard-or-simplify-how-to-remove-pin-protection-on-windows-11-easily/"><u>Safeguard or Simplify? How to Remove PIN Protection on Windows 11 Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-launching-the-hosted-network-feature-in-windows-11-after-common-hurdles/"><u>Successfully Launching the Hosted Network Feature in Windows 11 After Common Hurdles</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-5-methods-for-securing-your-pc-windows-edition/"><u>Top 5 Methods for Securing Your PC: Windows Edition</u></a></li>
 </ul></div>
 

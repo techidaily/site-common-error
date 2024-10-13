@@ -1,7 +1,7 @@
 ---
 title: Simple Techniques to Correct 'DNS Server Not Found' Mishaps Quickly
-date: 2024-10-04T11:30:30.665Z
-updated: 2024-10-06T17:52:15.651Z
+date: 2024-10-08T19:21:03.322Z
+updated: 2024-10-12T16:58:00.514Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
 5. [**Disable the USB selective suspend feature**](#m5)
 6. **[Adjust your system settings](#m6)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Connect your USB device directly to your computer
 
  If your USB device connected to your computer is misconfigured, the USB device not recognized error may keep popping up. The following simple steps could help you fix it:
@@ -55,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/cc0866b80e38550ff25e3009719b526ea4484f9d3
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Run the built-in Hardware and Devices troubleshooter
@@ -71,25 +64,33 @@ Here’s how you can do it:
 2. Type**control** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c8665b788.png)
 3. Click**Troubleshooting** when**View by Large icons** are selected.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d76732d97.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select **Configure a device** under the**Hardware and sound** section.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c946c14d2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99c97b74c34.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The troubleshooter would then be running automatically to detect and repair problems.
 
@@ -115,6 +116,13 @@ See how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 4: Update your USB device and motherboard chipset drivers
 
  If your**USB device** and**motherboard chipset drivers** are outdated or corrupted, you might also keep getting the error. We highly recommend you update your USB device driver (if your USB device has the driver) and motherboard chipset driver to make your USB device work well.
@@ -128,13 +136,6 @@ See how to do it:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d645eaf39.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99dd433fd12.jpg)
 
@@ -156,39 +157,27 @@ Restart your computer to see if the error disappears.
 5. Click**Change advanced power settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d7b2da294.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Double-click**USB settings** \>**USB selective suspend setting** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d80c3c948.jpg)
 7. Click**Enabled** , then select**Disabled** from the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99d845a8cb9.jpg)  
-**Note:** If you’re on a laptop, there might be two Enable options to change,**On battery** and**Plugged in** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Note:** If you’re on a laptop, there might be two Enable options to change,**On battery** and**Plugged in** .  
 
  Be sure to**set both to Disabled** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da409c8a5.jpg)
 8. Click**Apply** \>**OK** to save your settings.  
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99da698818c.jpg)
 
@@ -210,6 +199,13 @@ See how to do it:
 2. Click **Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e389af4af.jpg)
 3. Select USB, then un-check **Notify me if there are issues connecting to USB devices.** ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b99e3bbc5732.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **If you’re using Windows 7:**
 
@@ -244,19 +240,21 @@ See how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-soundwaves-compreeved-websites-for-skype-audio/"><u>[New] The Soundwaves Compreeved Websites for Skype Audio</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-melody-in-motion-iphones-role-in-making-music-videos/"><u>[Updated] Melody in Motion IPhone's Role in Making Music Videos</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722978306736-get-the-latest-top-performing-killer-e2500-nic-driver-software-suite-available-now/"><u>Get the Latest: Top-Performing Killer E2500 NIC Driver Software Suite Available Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-a-keyboard-that-wont-respond-on-your-windows-machine-solutions-inside/"><u>How to Resolve a Keyboard That Won't Respond on Your Windows Machine - Solutions Inside</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-to-economical-high-performance-asmr-microphones/"><u>In 2024, Ultimate Guide to Economical, High-Performance ASMR Microphones</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/insider-secrets-macs-top-rated-snipping-software-list-for-2024/"><u>Insider Secrets Mac's Top-Rated Snipping Software List for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/lost-your-iphone-password-step-by-step-guide-on-how-to-perform-a-factory-reset/"><u>Lost Your iPhone Password? Step-by-Step Guide on How to Perform a Factory Reset</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/optimizing-fade-infade-out-routines-for-2024/"><u>Optimizing Fade-In/Fade-Out Routines for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-access-denied-issues-in-windows-files-and-folders-quickly/"><u>Resolve 'Access Denied' Issues in Windows Files & Folders Quickly</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-resolution-to-fix-svchostexes-abnormal-cpu-usage-on-your-windows-11-pc/"><u>Step-by-Step Resolution to Fix svchost.exe’s Abnormal CPU Usage on Your Windows 11 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-windows-10-unresponsive-behavior-at-first-boot/"><u>Step-by-Step Solutions for Windows 10 Unresponsive Behavior at First Boot</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-resolving-windows-10-brightness-settings-problems/"><u>Step-by-Step: Resolving Windows 10 Brightness Settings Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-resolving-audioservice-issues-on-windows-7-fixed/"><u>Troubleshooting & Resolving 'AudioService' Issues on Windows 7 ([Fixed])</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-methods-for-fixing-application-failure-on-pc-messages/"><u>Troubleshooting Methods for Fixing 'Application Failure on PC' Messages</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-leading-virtual-reality-titles-for-your-smartphone/"><u>[Updated] 2024 Approved The Leading Virtual Reality Titles for Your Smartphone</u></a></li>
+<li><a href="https://common-error.techidaily.com/accelerating-response-time-a-guide-to-fixing-slow-keyboards-instantly/"><u>Accelerating Response Time: A Guide to Fixing Slow Keyboards Instantly</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-blockade-8-steps-to-resolving-windows-10s-error-code-0x800f0922-during-updates/"><u>Bypassing the Blockade: 8 Steps to Resolving Windows 10'S Error Code 0X800F0922 During Updates</u></a></li>
+<li><a href="https://win-popular.techidaily.com/convert-deezer-playlists-into-high-quality-flac-audio-files-including-album-artwork/"><u>Convert Deezer Playlists Into High-Quality FLAC Audio Files Including Album Artwork</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-chatgpt-copilot-an-in-depth-look-at-its-capabilities/"><u>Exploring ChatGPT Copilot: An In-Depth Look at Its Capabilities</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-could-not-complete-action-on-file-due-to-rpc-server-unavailable-or-timeout-in-windows/"><u>How to Fix 'Could Not Complete Action on File Due To RPC Server Unavailable or Timeout' In Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-malfunction-in-windows-11-a-step-by-step-repair-manual-for-faulty-letters/"><u>Keyboard Malfunction in Windows 11 – A Step-by-Step Repair Manual for Faulty Letters</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-quick-fixes-remedies-for-your-tvs-typical-snags/"><u>Mastering the Art of Quick Fixes: Remedies for Your TV's Typical Snags</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/perfecting-your-virtual-sessions-with-best-screen-recorders-freepaid-for-2024/"><u>Perfecting Your Virtual Sessions with Best Screen Recorders (Free/Paid) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-print-screen-malfunctions-in-windows-operating-systems-a-step-by-step-approach/"><u>Solving Print Screen Malfunctions in Windows Operating Systems: A Step-by-Step Approach</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-a-non-charging-laptop-in-no-time/"><u>Solving the Problem of a Non-Charging Laptop in No Time</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-shorter-path-cutting-video-duration-on-youtube-for-2024/"><u>The Shorter Path Cutting Video Duration on YouTube for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-non-working-mic-on-steelseries-arctis-5-a-step-by-step-solution/"><u>Troubleshooting Guide for Non-Working Mic on SteelSeries Arctis 5: A Step-by-Step Solution</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-realtek-hd-audio-issues-why-it-wont-launch-and-how-to-fix-it/"><u>Troubleshooting Realtek HD Audio Issues: Why It Won't Launch and How to Fix It</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-blaze-curve-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Blaze Curve 5G</u></a></li>
 </ul></div>
 

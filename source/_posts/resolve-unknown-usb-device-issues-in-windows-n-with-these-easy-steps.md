@@ -1,7 +1,7 @@
 ---
 title: Resolve 'Unknown USB Device' Issues in Windows N with These Easy Steps!
-date: 2024-09-13T16:04:49.736Z
-updated: 2024-09-15T16:06:10.728Z
+date: 2024-10-06T23:51:38.539Z
+updated: 2024-10-13T03:43:52.196Z
 tags:
   - win11
   - win10
@@ -62,27 +62,30 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Change boot order in BIOS
 
@@ -92,23 +95,30 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18b55bb2129.jpg)
 2. Click**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
 3. Click **Recovery** \>**Restart now** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Restart** .
@@ -118,6 +128,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 9. Hopefully your**computer won’t shut down** problem has been sorted. But if it doesn’t, don’t worry. There’s one more fix for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Windows Update Troubleshooter
 
@@ -149,5 +166,22 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/approved-step-by-step-guide-to-free-youtube-downloads-without-apps/"><u>2024 Approved Step-by-Step Guide to Free YouTube Downloads Without Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211598045-display-enables-pen-and-finger-input-after-recent-fixes-no-more-keyboard-limitations/"><u>Display Enables Pen & Finger Input After Recent Fixes – No More Keyboard Limitations</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-and-solutions-how-to-repair-a-malfunctioning-corsair-keyboard/"><u>Fixes and Solutions: How to Repair a Malfunctioning Corsair Keyboard</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-s23-fe-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy S23 FE to Mac? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-remove-iphone-11-sim-lock-by-drfone-ios/"><u>How to Remove iPhone 11 SIM Lock?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-solve-the-frustrating-error-code-5-in-minecraft/"><u>How to Solve the Frustrating Error Code 5 in Minecraft</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y78t-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y78t To Phone | Dr.fone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/mastering-the-solutions-overcoming-challenges-with-your-microsoft-account-login/"><u>Mastering the Solutions: Overcoming Challenges with Your Microsoft Account Login</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-bad-image-problems-tips-for-windows-11-and-10-users/"><u>Resolving 'Bad Image' Problems: Tips for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-error-87-in-dynamic-link-libraries-dll/"><u>Resolving Error 87 in Dynamic Link Libraries (DLL)</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-non-functional-toshiba-keyboard-fixed-now/"><u>Solution Found: Non-Functional Toshiba Keyboard Fixed Now</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620256256-struggling-with-your-iphones-screen-top-solutions-inside/"><u>Struggling With Your iPhone's Screen? Top Solutions Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207832660-tackling-windows-troubles-heres-how-you-can-resolve-error-0x8024402c-on-your-pc/"><u>Tackling Windows Troubles? Here's How You Can Resolve Error 0X8024402C on Your PC!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-strategy-for-crafting-engaging-presentations-using-chatgpt/"><u>The Ultimate Strategy for Crafting Engaging Presentations Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-top-7-thrilling-new-capabilities-of-bard-ai-showcased-at-google-io-2023/"><u>Unveiling Top 7 Thrilling New Capabilities of BARD AI Showcased at Google I/O 2023</u></a></li>
+</ul></div>
 

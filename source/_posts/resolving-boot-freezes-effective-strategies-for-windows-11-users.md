@@ -1,7 +1,7 @@
 ---
 title: "Resolving Boot Freezes: Effective Strategies for Windows 11 Users"
-date: 2024-09-30T05:06:54.645Z
-updated: 2024-10-07T10:31:19.689Z
+date: 2024-10-07T17:56:02.394Z
+updated: 2024-10-12T22:05:40.507Z
 tags:
   - win11
   - win10
@@ -81,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
@@ -104,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -112,11 +112,25 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 
 ``
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
@@ -125,10 +139,10 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ``
@@ -138,23 +152,9 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Open the app again to see if it goes fine.
 
 ``
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
@@ -181,10 +181,16 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ``
@@ -232,20 +238,18 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-innovative-interviews-fans-magnetism-in-audio/"><u>[New] Innovative Interviews Fans' Magnetism in Audio</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-figmas-bg-elimination-mastery/"><u>[New] Unveiling Figma's BG Elimination Mastery</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-kernel-power-41-critical-error-on-windows-1110/"><u>[Solved] Kernel Power 41 Critical Error on Windows 11/10</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-windows-could-not-connect-to-the-system-event-notification-service-service/"><u>[SOLVED] Windows Could Not Connect to the System Event Notification Service Service</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-boost-brand-awareness-with-selective-marketing-vernacular/"><u>2024 Approved Boost Brand Awareness with Selective Marketing Vernacular</u></a></li>
-<li><a href="https://win-able.techidaily.com/2024pc9/"><u>2024年度の人気無料PCスクリーンレコーダー9種: ベストリスト</u></a></li>
-<li><a href="https://common-error.techidaily.com/cutdown-high-cpu-usage-in-windows-wmis/"><u>Cutdown High CPU Usage in Windows WMIs</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/discover-top-ios-video-downloads-facebook-edition/"><u>Discover Top iOS Video Downloads Facebook Edition</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/elevating-performance-a-step-by-step-guide-to-enhancing-frames-per-second-fps-in-tainted-grail-conquest/"><u>Elevating Performance: A Step-by-Step Guide to Enhancing Frames Per Second (FPS) in Tainted Grail: Conquest</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-common-errors-when-installing-or-updating-on-steam-platform/"><u>How to Fix Common Errors When Installing or Updating on Steam Platform</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-resolve-and-prevent-disk-read-issues-on-windows-solved-guide/"><u>How to Successfully Resolve and Prevent Disk Read Issues on Windows ([Solved] Guide)</u></a></li>
-<li><a href="https://common-error.techidaily.com/in-depth-guide-to-restoring-response-in-stuck-l2r2-pads-a-gamers-resource/"><u>In-Depth Guide to Restoring Response in Stuck L2/R2 Pads: A Gamer’s Resource</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/navigating-the-best-hardware-options-tips-from-toms-domain/"><u>Navigating the Best Hardware Options - Tips From Tom's Domain</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-nokia-c12-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Nokia C12.</u></a></li>
-<li><a href="https://common-error.techidaily.com/win-11-and-chrome-woes-heres-how-you-can-overcome-the-plugin-loading-error-effortlessly/"><u>Win 11 and Chrome Woes? Here’s How You Can Overcome the Plugin Loading Error Effortlessly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-a-guide-to-effective-video-capture-methods-for-playstation-4/"><u>[New] 2024 Approved A Guide to Effective Video Capture Methods for PlayStation 4</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-amplify-pictorial-points-using-rings-of-radial-focus/"><u>[New] Amplify Pictorial Points Using Rings of Radial Focus</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-crystal-crisp-playback-ps5s-favorite-hdmi-21-displays-for-2024/"><u>[New] Crystal Crisp Playback PS5's Favorite HDMI 2.1 Displays for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722896217771-choose-your-next-binge-worthy-watch-with-these-top-picks-for-instant-streaming/"><u>Choose Your Next Binge-Worthy Watch with These Top Picks for Instant Streaming!</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-your-battleye-setup-challenges-a-step-by-step-solution/"><u>Conquer Your BattlEye Setup Challenges – A Step-by-Step Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-workspace-aesthetics-animated-backdrops-for-windows-11/"><u>Elevate Workspace Aesthetics: Animated Backdrops for Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/gain-admin-rights-to-fix-operation-requires-elevation-message-on-windows-11107/"><u>Gain Admin Rights to Fix 'Operation Requires Elevation' Message on Windows 11/10/7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205830871-hp-accelerometer-not-working-on-windows-heres-how-to-solve-it/"><u>HP Accelerometer Not Working on Windows? Here's How to Solve It</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-13-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 13 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-unavailability-of-steam-game-servers-a-step-by-step-fix/"><u>Overcoming Unavailability of Steam Game Servers – A Step-by-Step Fix</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-media-maker-error-x8007043c-fix-guide/"><u>Windows' Media Maker Error X.8007043C Fix Guide</u></a></li>
 </ul></div>
 

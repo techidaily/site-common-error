@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Resolve Sudden Computer Hibernation Problems
-date: 2024-10-03T16:46:34.913Z
-updated: 2024-10-06T18:38:19.473Z
+date: 2024-10-11T17:36:03.072Z
+updated: 2024-10-13T01:15:55.034Z
 tags:
   - win11
   - win10
@@ -85,31 +85,17 @@ thumbnail: https://thmb.techidaily.com/630a8388d901bab3eaa306301375077a09bba0fad
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1372f5918cd.jpg)
 3. Click**Screen saver settings** at the bottom of the window.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **For Windows 7:**
@@ -118,6 +104,20 @@ thumbnail: https://thmb.techidaily.com/630a8388d901bab3eaa306301375077a09bba0fad
 2. **View by Category** , and click**Appearance and Personalization** (In some cases, this could be**Appearance** .).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373fd30172.jpg)
 3. Click the**Change screen saver** button.  
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
@@ -126,16 +126,10 @@ thumbnail: https://thmb.techidaily.com/630a8388d901bab3eaa306301375077a09bba0fad
 ---
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 4: Change the System unattended sleep timeout to a longer time
@@ -159,14 +153,22 @@ thumbnail: https://thmb.techidaily.com/630a8388d901bab3eaa306301375077a09bba0fad
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Exit the Registry Editor.
 
 **Secondly, reset the System unattended sleep timeout period.**
@@ -175,16 +177,17 @@ thumbnail: https://thmb.techidaily.com/630a8388d901bab3eaa306301375077a09bba0fad
 2. **View by Large icons** , and click**Power Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
 
@@ -213,19 +216,16 @@ thumbnail: https://thmb.techidaily.com/630a8388d901bab3eaa306301375077a09bba0fad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-reality-beyond-boundaries-grasping-the-metaverse-through-6-models/"><u>[New] Reality Beyond Boundaries Grasping the Metaverse Through 6 Models</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-9-powerful-youtube-video-downloader-for-android-for-2024/"><u>[Updated] 9 Powerful YouTube Video Downloader for Android for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-mastering-youtube-trailer-creation-with-filmora/"><u>2024 Approved Mastering YouTube Trailer Creation with Filmora</u></a></li>
-<li><a href="https://fox-info.techidaily.com/elevate-your-photos-decoding-the-best-canva-tips/"><u>Elevate Your Photos Decoding the Best Canva Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-it-tips-for-resolving-issues-with-a-broken-hdmi-connector-through-usb-ports/"><u>Fix It! Tips for Resolving Issues with a Broken HDMI Connector Through USB Ports</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-silent-system-restore-audio-on-your-windows-10-pc-instantly/"><u>Fix Silent System: Restore Audio on Your Windows 10 PC Instantly</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-successfully-cast-media-from-your-pc-to-another-device-in-windows-10/"><u>Fixing the Issue: How to Successfully Cast Media From Your PC to Another Device in Windows 10</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-f54-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy F54 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-new-tech-ai-meets-realistic-gaming-with-dlss-35/"><u>Nvidia's New Tech: AI Meets Realistic Gaming with DLSS 3.5</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-connection-hurdles-effective-methods-to-connect-your-airpods-to-windows-11-a-2024-update/"><u>Overcoming Connection Hurdles: Effective Methods to Connect Your AirPods to Windows 11 - A 2024 Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-missing-battery-indicator-on-windows-10-with-these-simple-fixes/"><u>Resolve Your Missing Battery Indicator on Windows 10 with These Simple Fixes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sync-your-emails-setting-up-gmail-on-the-apple-watch/"><u>Sync Your Emails: Setting up Gmail on the Apple Watch</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-windows-10-error-understanding-and-solving-code-80240020/"><u>Ultimate Fixes for Windows 10 Error: Understanding and Solving Code 80240020</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-critical-picks-the-5-most-accessible-harmonics-adjuster-tools/"><u>Updated 2024 Approved Critical Picks The 5 Most Accessible Harmonics Adjuster Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-freshflicks-app-overview-and-score/"><u>[Updated] FreshFlicks App Overview & Score</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-resolving-application-launch-errors-code-0xc000007b-in-windows-os/"><u>Expert Solutions for Resolving Application Launch Errors (Code 0Xc000007b) in Windows OS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/make-western-digital-my-passport-ultra-visible-again-on-your-windows-system/"><u>Make Western Digital My Passport Ultra Visible Again on Your Windows System</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/e-video-resources-for-enhanced-learning-experiences-for-2024/"><u>Online Video Resources for Enhanced Learning Experiences for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-unresponsive-volume-control-in-windows-11/"><u>Solving the Problem of Unresponsive Volume Control in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-resolve-windows-camera-error-code-0xa00f4292-efficiently/"><u>Step-by-Step Guide to Resolve Windows Camera Error Code 0xA00F4292 Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexpected-auto-startup-diagnosing-why-windows-11-turns-on-by-itself/"><u>Unexpected Auto Startup: Diagnosing Why Windows 11 Turns On by Itself</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unraveling-visual-clarity-for-the-new-digital-age/"><u>Unraveling Visual Clarity for the New Digital Age</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-ambient-weather-ws-1002-wifi-thermometer-is-quality-worth-its-price/"><u>Unveiling the Ambient Weather WS-1002 WiFi Thermometer: Is Quality Worth Its Price?</u></a></li>
 </ul></div>
 

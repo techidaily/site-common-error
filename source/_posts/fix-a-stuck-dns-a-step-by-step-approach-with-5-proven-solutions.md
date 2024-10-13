@@ -1,7 +1,7 @@
 ---
 title: "Fix a Stuck DNS: A Step-by-Step Approach with 5 Proven Solutions"
-date: 2024-09-19T18:04:39.704Z
-updated: 2024-09-20T16:49:35.518Z
+date: 2024-10-07T17:09:51.697Z
+updated: 2024-10-12T17:01:24.228Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ If that didn’t help, try the next fix below.
 
 ![how to chear cache on Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/make-sure-Origin-is-fully-closed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On your keyboard, press the**Windows + R keys** simultaneously to invoke the Run box.
 
  3) Type or paste**%ProgramData%/Origin** and press Enter.  
@@ -81,6 +88,13 @@ If that didn’t help, try the next fix below.
   
 ![open AppData using command](https://images.drivereasy.com/wp-content/uploads/2021/05/appdata.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Look for the**Origin** folder. Right-click it and select**Delete** .  
   
 ![delete the Origin folder](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder.jpg)
@@ -92,6 +106,13 @@ If that didn’t help, try the next fix below.
  9) Open the**Local** folder and delete the**Origin** folder in here.  
   
 ![delete Origin folder inside LocalData](https://images.drivereasy.com/wp-content/uploads/2021/05/delete-Origin-folder-inside-LocalData.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 10) Restart your PC and log back into Origin.
 
@@ -118,6 +139,13 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-device-drivers.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. Then resume your installation or launch your game from Origin to check if that error message still appears.
@@ -132,28 +160,28 @@ Here’s how to update drivers with Driver Easy:
   
 ![Run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you want to make Origin always run as administrator, take these steps:
 
 * Right-click the Origin client icon on your desktop (or in the Origin directory if not on your desktop and click**Properties** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/always-run-Origin-as-an-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
 
 ![always run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2021/05/run-Origin-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Resume your installation and check if it helped you fix the issue. If your problem persists, try the next fix below.
@@ -171,16 +199,10 @@ If that didn’t help, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/download-media-feature-pack-1200x715.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Not sure which Windows version you’re running? No worries! Follow the steps below to check it out:
@@ -192,6 +214,13 @@ If that didn’t help, move on to the next fix.
  2) Select**About** . Then in the**Windows specifications** section, you’ll find your edition.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/my-windows-version.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -210,5 +239,26 @@ If that didn’t help, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-capturing-sound-in-windows-11-explained/"><u>[Updated] Capturing Sound in Windows 11 Explained</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-the-art-of-snapchat-sponsored-content/"><u>2024 Approved Mastering the Art of Snapchat Sponsored Content</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-step-by-step-crafting-and-uploading-360-vids-for-fb/"><u>2024 Approved Step-by-Step Crafting & Uploading 360 Vids for FB</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/diy-tech-guide-advanced-upgrades-for-intel-intel-imac-units/"><u>DIY Tech Guide: Advanced Upgrades for Intel Intel iMac Units</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-lag-to-speed-the-simple-technique-for-resetting-your-unresponsive-keyboard/"><u>From Lag to Speed: The Simple Technique for Resetting Your Unresponsive Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/harmonizing-display-and-timing-monitor-support-now-restored/"><u>Harmonizing Display and Timing - Monitor Support Now Restored</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-and-prevent-forceful-restart-after-system-failure-bugcheck/"><u>How to Fix and Prevent Forceful Restart After System Failure (Bugcheck)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-gt-3-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme GT 3 online without jailbreak</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-a-sluggish-keyboard-response/"><u>Quick Solutions: Resolving a Sluggish Keyboard Response</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-class-not-found-errors-in-windows-10-applications/"><u>Resolving 'Class Not Found' Errors in Windows 10 Applications</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-elevated-memory-use-by-microsoft-compatibility-telemetry-in-windows-10/"><u>Resolving Elevated Memory Use by Microsoft Compatibility Telemetry in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-error-code-31-on-your-pc-a-step-by-step-guide/"><u>Resolving Error Code 31 on Your PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-overcoming-issues-with-unresponsive-numeric-keypad-on-keyboard/"><u>Solution Guide: Overcoming Issues with Unresponsive Numeric Keypad on Keyboard</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-complete-guide-to-essential-uav-upgrades-and-parts-for-2024/"><u>The Complete Guide to Essential UAV Upgrades & Parts for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-destiny-2-get-your-game-up-and-running-again/"><u>Troubleshooting Destiny 2: Get Your Game Up and Running Again!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steams-controller-recognition-problem-on-windows-machines/"><u>Troubleshooting Steam's Controller Recognition Problem on Windows Machines</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-overcome-win11-update-issue-error-0xc1900208/"><u>Troubleshooting Steps to Overcome Win11 Update Issue - Error 0xC1900208</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-dell-xps-13-2-in-1-notebook-analysis-top-performing-laptop-unleashed/"><u>Ultimate Guide: Dell XPS 13 2-in-1 Notebook Analysis – Top Performing Laptop Unleashed</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-7-airsync-setup-instantly/"><u>Windows 7 AirSync Setup Instantly</u></a></li>
+</ul></div>
 

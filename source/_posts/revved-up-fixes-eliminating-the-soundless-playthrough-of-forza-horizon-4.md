@@ -1,7 +1,7 @@
 ---
 title: "Revved Up Fixes: Eliminating the Soundless Playthrough of Forza Horizon 4"
-date: 2024-10-05T19:31:58.536Z
-updated: 2024-10-06T20:20:25.529Z
+date: 2024-10-11T21:50:23.837Z
+updated: 2024-10-13T02:44:07.776Z
 tags:
   - win11
   - win10
@@ -41,21 +41,14 @@ When you launch the game you can hear the intro music but right after that, all 
 3. In the**Playback** tab, choose the device you’re using and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio1-1.jpg)
 4. In the**Enhancements** tab, uncheck “**Disable all sound effects** “.![](https://images.drivereasy.com/wp-content/uploads/2019/07/audio-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**Apply > OK** .
 6. Reboot your computer and check then your game sound.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Run the Windows audio troubleshooter
@@ -66,6 +59,14 @@ When you launch the game you can hear the intro music but right after that, all 
 1. On the right-bottom of the taskbar, right-click on the volume icon.
 2. Click**Troubleshoot sound problems** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2-4.jpg)
 3. Choose**Yes, Open Audio Enhancements** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Follow the on-screen instructions.
 5. Reboot your computer and check whether the problem is solved or not.
 
@@ -83,6 +84,13 @@ There are two ways you can update your audio drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-515.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **Option 2 – Automatically update your audio drivers**
 
  If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with Driver Easy.
@@ -96,19 +104,20 @@ There are two ways you can update your audio drivers.
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version).  
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/driver1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  . Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -122,21 +131,14 @@ There are two ways you can update your audio drivers.
 4. Click**Scan for hardware changes** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/3.1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Use Method 3 to install the driver.
 6. Reboot your computer to check whether the problem is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Update your Windows system
 
@@ -145,13 +147,6 @@ There are two ways you can update your audio drivers.
 1. Press the**Windows logo key + I** together. Click**Update & Security** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/4.1.jpg)
 2. In the Windows Update tab, click**Check for updates** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/4-3.jpg)
 3. Install the updates.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Reboot your computer and check the problem is solved or not.
 
@@ -174,14 +169,18 @@ There are two ways you can update your audio drivers.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-step-by-step-premiere-pro-for-softening-soundtracks/"><u>[New] A Step-by-Step Premiere Pro for Softening Soundtracks</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-how-to-check-your-videos-legal-status-before-tiktok-upload/"><u>[New] In 2024, How to Check Your Video's Legal Status Before TikTok Upload</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-ideal-additions-to-maximize-gopro-potential/"><u>[New] In 2024, Ideal Additions to Maximize GoPro Potential</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-listings-photoplustune-recording-software-innovations/"><u>[Updated] Prime Listings Photo+Tune Recording Software Innovations</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-your-pathway-to-youtube-live-success-stories-for-2024/"><u>[Updated] Your Pathway to YouTube Live Success Stories for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-solutions-resolving-overwatchs-voice-chat-problems/"><u>Effortless Solutions: Resolving Overwatch's Voice Chat Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/pubg-bug-solved-steps-to-ensure-all-buildings-load-correctly-now/"><u>PUBG Bug Solved: Steps to Ensure All Buildings Load Correctly Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/quiet-your-console-effective-strategies-for-resolving-loud-playstation-4/"><u>Quiet Your Console: Effective Strategies for Resolving Loud PlayStation 4</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-failed-intel-realsense-services-on-microsofts-latest-os/"><u>Troubleshooting Failed Intel Realsense Services on Microsoft's Latest OS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-definitive-playbook-enhancing-your-videos-first-impression/"><u>[New] 2024 Approved The Definitive Playbook Enhancing Your Video's First Impression</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitters-space-best-practices-for-tiktok-videos/"><u>[New] 2024 Approved Twitter's Space Best Practices for TikTok Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-mindful-meandering-leisurely-pc-games/"><u>[Updated] 2024 Approved Mindful Meandering Leisurely PC Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/binkw32dll-absent-error-remedies-how-to-restore-functionality-on-windows/"><u>Binkw32.dll Absent Error Remedies - How to Restore Functionality on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207857121-code-28-in-windows-device-manager-heres-how-to-fix-it-quickly/"><u>Code 28 in Windows Device Manager? Here's How to Fix It Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-windows-11-update-code-0x800f0922-your-ultimate-guide-to-8-solutions/"><u>Conquer Windows 11 Update Code 0X800f0922 - Your Ultimate Guide to 8 Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208122953-discover-hidden-touchpad-in-device-manager/"><u>Discover Hidden Touchpad in Device Manager</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ient-audio-extraction-from-youtube-top-picks-for-your-favorite-free-crackers-for-2024/"><u>Efficient Audio Extraction From YouTube Top Picks for Your Favorite Free Crackers for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-correcting-no-signal-display-problem-without-fuss/"><u>Expert Advice: Correcting 'No Signal' Display Problem Without Fuss</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-i-fixed-my-dead-corsair-hs50-mic-sharing-the-effective-method/"><u>How I Fixed My Dead Corsair HS50 Mic: Sharing the Effective Method</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-xs-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your iPhone XS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-tips-for-converting-cr2-photos-into-windows-friendly-jpeg/"><u>Quick Tips for Converting CR2 Photos Into Windows-Friendly JPEG</u></a></li>
+<li><a href="https://driver-install.techidaily.com/swift-driver-download-for-gtx-750-ti-graphics/"><u>Swift Driver Download: For GTX 750 Ti Graphics</u></a></li>
 </ul></div>
 

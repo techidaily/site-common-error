@@ -1,7 +1,7 @@
 ---
 title: Fixing the Persistent Screen Shimmer on Windows 11
-date: 2024-09-19T18:28:41.167Z
-updated: 2024-09-20T18:31:48.283Z
+date: 2024-10-11T20:50:29.952Z
+updated: 2024-10-12T20:29:04.896Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ It’s very easy to tether your phone on Windows 10, do these:
 
  2) Tap Settings ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a786756399a.png) on your phone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Tap **More networks**  \> **Tethering and portable hotspot** .
 
 **Note:**  You may also find the tethering option under the **Mobile Data**  or **Personal Hotspot**  sections based on different phones.
@@ -60,6 +67,13 @@ It’s very easy to tether your phone on Windows 10, do these:
  4) Tap to check **USB tethering** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a78f68dcbb1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) If your Windows 10 is in a no wired and no wireless network place, it should then be used this network adapter automatically: **Remote NDIS based Internet Sharing Device** . It’s your USB tethering connection in the Windows 10.
 
@@ -97,10 +111,10 @@ Or click **Update All**  to automatically download and install the correct versi
  4) Restart your laptop. Then check to see if you can access the Internet on your Windows 10 via USB tethering.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Replace the driver with the built-in one on your Windows 10 manually
@@ -111,64 +125,51 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79a86b4b0e.png)
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Expand **Network adapters**  and right-click **Remote NDIS based Internet Sharing Device** . Then click **Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79bee367fe.png)
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click**Browse my computer for driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79e6f2a6c1.png)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click **Let me pick from a list of device drivers on my computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a79fa25a97b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Click the small box beside the **Show compatible hardware** . Note: It’s ticked on by default. When you click it, it will get blank.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7a0b38a645.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Wait for a few seconds, you should then see the screen shown below. Select **Microsoft**  \> **USB RNDIS6 Adapter** . Then click **Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a7e3c685fdf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8) Click **Yes** .
@@ -178,6 +179,13 @@ Or click **Update All**  to automatically download and install the correct versi
  Wait for a while, Microsoft will install the driver for you. Then you should see this screen
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59a8b9b8df3ac.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check to see if you can access the Internet on your Windows 10 via USB tethering.
 
@@ -196,5 +204,22 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-upload-horizontal-videos-to-igtv-for-2024/"><u>[New] How to Upload Horizontal Videos to IGTV for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-dvd-wont-play-on-windows/"><u>[SOLVED] DVD Won't Play on Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-live-viewers-choice-obs-or-shadowtoolkit/"><u>[Updated] 2024 Approved Live Viewers' Choice OBS or ShadowToolkit</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-inside-track-to-superior-srt-upgrades-for-2024/"><u>[Updated] Inside Track to Superior SRT Upgrades for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-the-switch-making-your-graphic-style-a-sticker-on-every-platform/"><u>[Updated] Master the Switch Making Your Graphic Style a Sticker on Every Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212365734-astro-a40-microphone-not-working-heres-how-you-can-get-it-up-and-running-again/"><u>Astro A40 Microphone Not Working? Here's How You Can Get It Up and Running Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-sleep-issues-easy-remedies-for-continuous-computer-operation/"><u>Banish Sleep Issues: Easy Remedies for Continuous Computer Operation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/convert-avi-videos-into-high-impact-gifs-using-filmora-for-windowsmacos-for-2024/"><u>Convert AVI Videos Into High Impact GIFs Using Filmora for Windows/MacOS for 2024</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/festplattenklonierung-von-microsoft-windows-server-201/"><u>Festplattenklonierung Von Microsoft Windows Server 201</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-cannot-launch-errors-for-your-amd-catalyst-control-center-easily/"><u>Fixing 'Cannot Launch' Errors for Your AMD Catalyst Control Center Easily</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-online-conversion-transforming-3gp-files-into-high-quality-wav-audio/"><u>Free Online Conversion: Transforming 3GP Files Into High-Quality WAV Audio</u></a></li>
+<li><a href="https://common-error.techidaily.com/logitech-scroll-wheel-stuck-heres-how-you-can-repair-it/"><u>Logitech Scroll Wheel Stuck? Here's How You Can Repair It!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-discover-the-best-video-blur-tools-for-iphone-and-android-users-for-2024/"><u>New Discover the Best Video Blur Tools for iPhone and Android Users for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-hurdle-restoring-functionality-of-a-faulty-igfx-em-component/"><u>Overcoming the Hurdle: Restoring Functionality of a Faulty iGFX EM Component</u></a></li>
+<li><a href="https://article-helps.techidaily.com/unleashing-wit-within-walls-a-guide-to-crafting-metaverse-jokes/"><u>Unleashing Wit Within Walls – A Guide to Crafting Metaverse Jokes</u></a></li>
+</ul></div>
 

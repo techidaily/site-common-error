@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fixing the 'Google Chrome Not Responding' Issue"
-date: 2024-10-06T02:15:16.772Z
-updated: 2024-10-06T22:25:33.104Z
+date: 2024-10-05T16:07:34.067Z
+updated: 2024-10-12T19:04:10.353Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 2. **[Update the Corsair Keyboard driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update and configure the iCUE software](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Reset your keyboard
 
  Most Corsair keyboards have a reset function to fix unexpected issues, including the lighting failure. Depending on the type of Corsair keyboard you’re using, here’s how to reset it:
@@ -44,13 +37,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 #### Wired keyboard
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Corsair_K100_Gaming_Keyboard_16.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Unplug your keyboard from your computer.
 2. Press and hold the**ESC** key (or the**FN + F4** keys).
@@ -67,13 +53,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
  If your keyboard still doesn’t light up after the resetting, don’t give up and try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Update the Corsair keyboard driver
 
  This lighting problem may occur if you are using**the wrong keyboard driver or it’s out of date** . So you should check if there’s any updated version of your Corsair keyboard driver and upgrade to it to see if the backlight problem can be fixed.
@@ -84,7 +63,21 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
  To update your drivers with Driver Easy, just click the**Scan Now** button, then when it lists the drivers you need to update, click**Update** . The correct drivers will be downloaded, and you can install them – either manually through Windows or all automatically with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/DE-scan-rtx-3090-driver-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update and configure the iCUE software
 
@@ -95,6 +88,14 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 1. Open iCUE and click the**Settings** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
@@ -102,10 +103,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -130,18 +131,16 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-host-an-engaging-online-livestream-event/"><u>[New] How to Host an Engaging Online Livestream Event</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-navigating-social-traction-afb-insiders-guide/"><u>[New] Navigating Social Traction AFB Insider's Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-utilize-youtubes-prominent-slot-a-compreenhensive-strategy-guide/"><u>[Updated] In 2024, Utilize YouTube's Prominent Slot A Compreenhensive Strategy Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-find-x6-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo Find X6 PC | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/conquer-windows-10s-persistent-update-error-0x800f0922-with-these-techniques/"><u>Conquer Windows 10’S Persistent Update Error 0X800F0922 with These Techniques</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-tecno-spark-10-5g-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Tecno Spark 10 5G</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-blackout-glitch-when-launching-monster-hunter-world/"><u>Effective Solutions for Blackout Glitch When Launching Monster Hunter: World</u></a></li>
-<li><a href="https://extra-information.techidaily.com/explore-unlimited-access-to-fcp/"><u>Explore Unlimited Access to FCP</u></a></li>
-<li><a href="https://common-error.techidaily.com/getting-it-right-why-your-graphics-card-must-be-d3d11-ready-to-operate-the-engine/"><u>Getting It Right: Why Your Graphics Card Must Be D3D11 Ready to Operate the Engine</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-touchpad-visibility-and-fix-cursor-disappearances-on-windows-11/"><u>How to Restore Touchpad Visibility and Fix Cursor Disappearances on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/investigating-windows-n-editions-for-business-purposes/"><u>Investigating Windows N Editions: For Business Purposes</u></a></li>
-<li><a href="https://common-error.techidaily.com/restoring-sounds-on-windows-asterisk-7-a-comprehensive-guide/"><u>Restoring Sounds on Windows Asterisk -7: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-overcome-windows-update-error-0x80070002-effortlessly/"><u>Troubleshoot and Overcome Windows Update Error 0X80070002 Effortlessly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-earn-extra-bucks-maximizing-youtubes-mobile-revenue-opportunities/"><u>[Updated] In 2024, Earn Extra Bucks Maximizing YouTube's Mobile Revenue Opportunities</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207770097-effortless-methods-to-revive-charging-on-your-laptop-battery/"><u>Effortless Methods to Revive Charging on Your Laptop Battery</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x8024002e-explained-a-comprehensive-guide-to-successfully-update-windows-without-issues/"><u>Error 0X8024002E Explained: A Comprehensive Guide to Successfully Update Windows Without Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-reasons-behind-youtubes-occasional-performance-glitches/"><u>Exploring Reasons Behind YouTube's Occasional Performance Glitches</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratuite-absolue-convertissez-vos-fichiers-wmv-en-mp3-sur-le-web-avec-lediteur-de-video-movavi/"><u>Gratuité Absolue : Convertissez Vos Fichiers WMV en MP3 Sur Le Web Avec L'éditeur De Vidéo Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-the-youtube-audio-processor-failure-on-your-windows-10-device/"><u>How to Correct the Youtube Audio Processor Failure on Your Windows 10 Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-error-when-your-app-wont-launch-resolving-application-failed-to-initialize-properly-error-code-0xc000007b/"><u>How to Fix the Error When Your App Won't Launch: Resolving 'Application Failed to Initialize Properly (Error Code 0xC000007B)'</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-g2-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo G2?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-motorola-g24-power-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Motorola G24 Power FRP Bypass</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-directx-initialization-troubleshooting-tips-for-a-smooth-launch/"><u>Mastering DirectX Initialization: Troubleshooting Tips for a Smooth Launch</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oneplus-11-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your OnePlus 11 5G Device</u></a></li>
 </ul></div>
 

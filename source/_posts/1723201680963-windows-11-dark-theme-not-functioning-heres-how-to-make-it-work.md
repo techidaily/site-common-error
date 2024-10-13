@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Dark Theme Not Functioning? Here’s How to Make It Work!
-date: 2024-10-06T04:46:15.154Z
-updated: 2024-10-07T02:34:56.976Z
+date: 2024-10-08T22:52:32.517Z
+updated: 2024-10-12T16:39:45.030Z
 tags:
   - win11
   - win10
@@ -47,32 +47,26 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-221.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-222.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Test your PC to see if it shuts down normally. If yes, then congrats! If the issue remains, please move on to**Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable fast startup
@@ -82,27 +76,21 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key**   and**R** at the same time, then copy & paste **powercfg.cpl** into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a767ca59d.png)
 2. Click **Choose what the power buttons do** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -117,6 +105,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 3. Click **Recovery** \>**Restart now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cbd3abfd3.jpg)
 4. Click**Troubleshoot** \> **Advanced options** \> **UEFI Firmware Settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Restart** .
 6. Go to the **Boot** tab.
 7. Select**The Default** or**HDD** at the top of the boot order.
@@ -125,13 +121,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -139,6 +128,14 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
 3. Follow the on-screen instructions to fix any lurking problems.
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
@@ -164,14 +161,17 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://games-able.techidaily.com/a-look-at-steam-vs-gog-digital-storefront-divergences/"><u>A Look at Steam vs GOG: Digital Storefront Divergences</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fixes-for-non-responsive-keys-on-your-hp-laptop/"><u>Effortless Fixes for Non-Responsive Keys on Your HP Laptop</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/simplified-techniques-for-correcting-profile-ages-for-2024/"><u>Simplified Techniques for Correcting Profile Ages for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-tier-ai-driven-online-research-tools/"><u>Top-Tier AI-Driven Online Research Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-access-errors-for-your-documents-and-directories-on-windows-systems/"><u>Troubleshooting Access Errors for Your Documents and Directories on Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-unexpected-termination-of-service-code-1067-on-your-pc/"><u>Troubleshooting Guide for Unexpected Termination of Service (Code 1067) on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-windows-update-failure-error-0x8007001f/"><u>Troubleshooting Guide for Windows Update Failure (Error 0X8007001f)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-xs-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone XS</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-lava-blaze-2-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Lava Blaze 2 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-pajama-plots-and-prose-critical-review-of-childrens-videos-for-2024/"><u>[Updated] Pajama Plots and Prose Critical Review of Children's Videos for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-monetization-the-new-rules-everyone-hates-for-2024/"><u>[Updated] YouTube Monetization The New Rules Everyone Hates for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-from-daily-use-to-extraordinary-experiences-phones-into-vr/"><u>2024 Approved From Daily Use to Extraordinary Experiences Phones Into VR</u></a></li>
+<li><a href="https://fox-that.techidaily.com/7-easy-ways-to-fix-imessage-not-working-on-an-iphone-ipad-or-mac/"><u>7 Easy Ways to Fix iMessage Not Working on an iPhone, iPad, or Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ejecucion-paso-a-paso-implantacion-duradera-de-titulos-en-el-reproductor-vlc/"><u>Ejecución Paso a Paso: Implantación Duradera De Títulos en El Reproductor VLC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reduce-wudfhostexes-impact-on-your-pcs-processor-in-windows-10/"><u>How to Reduce WUDFHost.exe's Impact on Your PC's Processor in Windows 10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-magic-6-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor Magic 6? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-realme-11-proplus-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Realme 11 Pro+ Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/rectify-unseen-windows-1011-window-2/"><u>Rectify Unseen Windows 10/11 Window #2</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-microsoft-store-doesnt-start-up/"><u>Troubleshooting Steps When Microsoft Store Doesn't Start Up</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-the-astro-a40-microphone-issue/"><u>Troubleshooting Tips: Fixing the Astro A40 Microphone Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstuck-with-a-broken-dell-camera-heres-how-to-fix-it-in-windows/"><u>Unstuck with a Broken Dell Camera? Here's How to Fix It in Windows</u></a></li>
 </ul></div>
 

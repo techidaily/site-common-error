@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Disconnected External Drives on a Windows Operating System
-date: 2024-09-12T16:07:03.005Z
-updated: 2024-09-15T16:06:42.975Z
+date: 2024-10-07T00:36:10.585Z
+updated: 2024-10-12T23:55:55.819Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ The good news is, you can fix it easily!
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your sound driver
 
  Your volume control not working issue is most likely caused by the outdated/corrupted sound driver, which might very well develop further issues like sound crackling/stuttering or no sound at all if unattended. So we should always make sure to**have the latest sound driver installed on our system** for the good health of our PC.
@@ -50,11 +57,34 @@ The good news is, you can fix it easily!
 1. **Download**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
 
@@ -73,6 +103,13 @@ To do so:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Run SFC
 
  Another fix you can try is to run the SFC(a built-in Windows file check & repair tool) scan since the missing/corrupted system files can be the culprit for the volume control not working problem.
@@ -84,39 +121,19 @@ To run SFC:
  Click **Yes**   when prompted to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
 
@@ -151,5 +168,26 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-command-the-stage-of-youtube-with-studio-skills/"><u>[New] 2024 Approved Command the Stage of YouTube with Studio Skills</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-a-step-by-step-guide-to-mastering-magix-video-pro-x/"><u>[New] A Step-by-Step Guide to Mastering Magix Video Pro X</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-advanced-screen-recording-techniques-for-enhanced-productivity-in-adobe-captive/"><u>[New] Advanced Screen Recording Techniques for Enhanced Productivity in Adobe Captive</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-unlocking-youtube-potential-editing-after-the-upload-process/"><u>[New] In 2024, Unlocking YouTube Potential Editing After the Upload Process</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-smooth-transition-uploading-imovie-films-into-vimeo/"><u>[Updated] 2024 Approved Smooth Transition Uploading iMovie Films Into Vimeo</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-panoramapro-x7-zoom-and-refine-photos-effortlessly/"><u>[Updated] PanoramaPro X7 Zoom & Refine Photos Effortlessly</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-cutting-edge-tools-free-youtube-intro-creators/"><u>2024 Approved Cutting-Edge Tools Free YouTube Intro Creators</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-poco-c65-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Poco C65 Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-apps-for-taking-notes-on-ipads-a-selection-of-our-top-picks/"><u>Best Apps for Taking Notes on iPads: A Selection of Our Top Picks</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-common-hiccups-with-skypes-video-chat-on-windows-10-devices/"><u>Bypassing Common Hiccups with Skype's Video Chat on Windows 10 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-device-not-found-error-code-24-for-windows-users-version-11-8-and-7-guides/"><u>Fix 'Device Not Found' Error Code 24 for Windows Users: Version 11, 8 and 7 Guides</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-solution-for-service-failed-window-11-sign-in-a-guide-to-mend-user-profile-services/"><u>Mastering the Solution for 'Service Failed' Window 11 Sign-In - A Guide to Mend User Profile Services</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-pubgs-building-error-update-and-tips-for-seamless-loading/"><u>Overcome PUBG's Building Error - Update and Tips for Seamless Loading</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-copy-and-paste-failure-in-windows-11-with-these-simple-solutions/"><u>Resolve 'Copy & Paste' Failure in Windows 11 with These Simple Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-minecrafts-instability-the-impact-of-defective-video-drivers-on-windows-machines/"><u>Resolving Minecraft's Instability: The Impact of Defective Video Drivers on Windows Machines</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/simplified-review-tp-link-re305-ac1200-wi-fi-signal-booster-assessment/"><u>Simplified Review: TP-Link RE305 AC1200 Wi-Fi Signal Booster Assessment</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-dell-usb-issues-effective-methods-to-restore-connectivity/"><u>Solving Dell USB Issues: Effective Methods to Restore Connectivity</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-apex-legends-resolving-the-simple-anti-cheat-issue/"><u>Troubleshooting Apex Legends: Resolving the Simple Anti-Cheat Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-systemprofile-desktop-missing-from-cwindowssystem32config-path/"><u>Troubleshooting SystemProfile Desktop Missing From C: Windows system32 config Path</u></a></li>
+</ul></div>
 

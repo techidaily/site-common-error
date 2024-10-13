@@ -1,7 +1,7 @@
 ---
 title: "Reviving Your Lenovo Keyboard: Solutions for Unresponsive Keys"
-date: 2024-09-16T16:33:56.668Z
-updated: 2024-09-20T17:52:49.636Z
+date: 2024-10-10T20:46:25.198Z
+updated: 2024-10-12T23:34:42.643Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
@@ -78,10 +85,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -103,10 +110,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
@@ -124,22 +131,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -152,6 +159,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
@@ -189,5 +203,20 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fix-bluetooth-issues-battery-dead-in-logitech/"><u>[Fix] Bluetooth Issues, Battery Dead in Logitech</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ollect-free-image-resources-via-top-4-online-stock-hubs/"><u>[New] Collect Free Image Resources Via Top 4 Online Stock Hubs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-gradient-goes-night-premieres-trick/"><u>[New] Gradient Goes Night Premiere's Trick</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-smiling-photos-and-videos-iphones/"><u>[New] Smiling Photos & Videos (iPhones)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-live-broadcast-over-the-internet-via-vlc-media-player/"><u>[Updated] Mastering Live Broadcast Over the Internet via VLC Media Player</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-hs50-headset-microphone-repairs-troubleshooting-tips-and-solutions/"><u>Corsair HS50 Headset Microphone Repairs: Troubleshooting Tips & Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-lenovos-ideapad-series-sturdy-build-and-essential-functionality/"><u>In-Depth Analysis of Lenovo's Ideapad Series: Sturdy Build and Essential Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-for-when-your-hamachi-session-ends-unexpectedly/"><u>Mastering the Fix for When Your Hamachi Session Ends Unexpectedly</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-when-minecraft-fails-to-open-in-windows-environment/"><u>Step-by-Step Solution for When Minecraft Fails to Open in Windows Environment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-wishlist-of-visionos-functions-for-apples-latest-reveal-at-this-years-worldwide-developers-conference/"><u>The Ultimate Wishlist of VisionOS Functions for Apple's Latest Reveal at This Year's Worldwide Developers Conference</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-9-fantastic-locations-for-enjoying-no-cost-preschool-games/"><u>Top 9 Fantastic Locations for Enjoying No-Cost Preschool Games</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-infinix-note-30-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Infinix Note 30 FRP Bypass</u></a></li>
+</ul></div>
 

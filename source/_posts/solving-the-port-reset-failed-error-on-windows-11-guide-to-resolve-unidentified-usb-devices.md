@@ -1,7 +1,7 @@
 ---
 title: "Solving the Port Reset Failed Error on Windows 11: Guide to Resolve Unidentified USB Devices"
-date: 2024-10-03T20:16:26.726Z
-updated: 2024-10-06T16:35:57.683Z
+date: 2024-10-08T21:52:30.042Z
+updated: 2024-10-12T18:58:14.440Z
 tags:
   - win11
   - win10
@@ -66,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181f1e2bac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the**Internet Time** tab at the top, then click**Change Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018705735c3.jpg)
@@ -84,15 +91,22 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018c0f66b68.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Respectively type**time** ,**date** , and **w32tm/resync**  in the window, and press**Enter** after each command. If the time and date are incorrect after running, you can type the correct time and date in the window and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0266f185a5c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) After the commands complete, restart your computer and try Windows Update again to see if it works.
@@ -115,6 +129,13 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017383ddfcc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Double click**Windows Update** (if you are using Windows XP, double click**Automatic Updates** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a780f0e4842e.jpg)
@@ -124,10 +145,10 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-10_11-51-40-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 2: Delete the Software Distribution Folder
@@ -137,6 +158,13 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
  2) Go to folders:**Windows > SoftwareDistribution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0174add00e1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Delete the folder named**SoftwareDistribution** .  (If you’re prompted for an administrator password or confirmation, type your password or provide confirmation.)
 
@@ -152,13 +180,6 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017371df6a8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click Windows Update (if you are using Windows XP, right-click**Automatic Updates** ), and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Windows-update-Start-1200x690.jpg)
@@ -166,19 +187,6 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
  4) Restart your Windows and try Windows Update again to see if it solves the problem.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 3: Try Windows Update Troubleshooter**
 
@@ -193,13 +201,6 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
  3) Click**Windows Update** , and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0175eea504b.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Then it will run and try to fix the problem. After completing, restart your computer and try Windows Update again to see if it works.
 
@@ -223,13 +224,6 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7817546e624.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Right-click the newly created**NewValue#1** and select**Modify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a78180511caf.png)
@@ -238,16 +232,16 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a781900ea1c1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7) Restart your computer and try again to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Bonus Tip: Update device drivers**
 
@@ -267,18 +261,18 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to a flagged device to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
   
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Update-All.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) After updating, restart your computer and try the Windows Update again.
 
@@ -303,22 +297,16 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-choosing-a-font-for-impactful-youtube-credits/"><u>[New] Choosing a Font for Impactful YouTube Credits</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-prime-hash-monitoring-apps-for-social-media-giants-fb-tweetinsta/"><u>[New] Prime Hash Monitoring Apps for Social Media Giants (FB, Tweet/Insta)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-charting-out-youtubes-financial-strategy-for-nurturing-short-videos/"><u>[Updated] 2024 Approved Charting Out YouTube's Financial Strategy for Nurturing Short Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-sonic-journey-top-pick-free-apps-downloading-youtube-tunes-to-mobile/"><u>[Updated] 2024 Approved Sonic Journey Top Pick Free Apps Downloading YouTube Tunes to Mobile</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-guide-to-fix-oddworld-soulstorm-pc-game-crashes/"><u>Complete Guide to Fix Oddworld: Soulstorm PC Game Crashes</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-fix-for-ps4-nat-problems-in-depth-step-by-step-strategies/"><u>DIY Fix for PS4 NAT Problems: In-Depth, Step-by-Step Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212500464-guide-activating-bluetooth-connectivity-in-windows-7-resolved/"><u>Guide: Activating Bluetooth Connectivity in Windows 7 - Resolved</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-htc-u23-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on HTC U23</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-a54-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Samsung Galaxy A54 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-uncharted-mmo-adventures-ranking-the-10-best-free-games/"><u>In 2024, Uncharted MMO Adventures Ranking the 10 Best Free Games</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-frustrating-freeze-frame-situations-on-your-desktop-or-laptop/"><u>Overcoming Frustrating Freeze-Frame Situations on Your Desktop or Laptop</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-overwatch-voice-communication-problems/"><u>Quick Fixes for Overwatch Voice Communication Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-specified-module-missing-errors-a-step-by-step-guide/"><u>Resolving 'Specified Module Missing' Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/simplifying-the-process-how-to-guide-for-booking-meets/"><u>Simplifying the Process How-To Guide for Booking Meets</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-failed-initializer-issues-the-ultimate-guide-updated-with-2021-fixes/"><u>Solving Failed Initializer Issues: The Ultimate Guide (Updated with 2021 Fixes)</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-overcome-the-hamachi-connection-halt-error/"><u>Step-by-Step Guide to Overcome the Hamachi Connection Halt Error</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/voice-chatting-basics-creating-and-dispatching-oral-texts-from-your-iphone/"><u>Voice Chatting Basics: Creating & Dispatching Oral Texts From Your iPhone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-taking-your-instagram-game-up-a-notch-advanced-tracking-tools-overview-for-2024/"><u>[New] Taking Your Instagram Game Up a Notch Advanced Tracking Tools Overview for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-of-captivating-imagery-puzzles/"><u>[New] Unveiling the Secrets of Captivating Imagery Puzzles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-earning-novice-navigators-essential-guide/"><u>[New] YouTube Earning Novice Navigator's Essential Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-final-touch-youtube-outro-essentials-plus-premier-creator-list/"><u>[Updated] The Final Touch YouTube Outro Essentials + Premier Creator List</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-login-troubles-heres-how-to-correctly-resolve-the-error/"><u>ChatGPT Login Troubles? Here's How to Correctly Resolve the Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-80240020-resolved-step-by-step-solution-for-successful-windows-11-setup/"><u>Error Code 80240020 Resolved: Step-by-Step Solution for Successful Windows 11 Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211335088-microsoft-surface-pro-4-touchscreen-malfunction-heres-how-to-get-it-working-again/"><u>Microsoft Surface Pro 4 Touchscreen Malfunction? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/pasting-difficulty-on-microsofts-win-11/"><u>Pasting Difficulty on Microsoft's Win 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211279072-restore-and-repair-bluetooth-functionality-in-windows-11-instant-fixes/"><u>Restore and Repair Bluetooth Functionality in Windows 11 - Instant Fixes!</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-elite-comprehensive-review-of-the-top-tier-gmmk-pro-mechanical-keyboard-kit-zdnet-insights/"><u>Unveiling the Elite: Comprehensive Review of the Top-Tier GMMK Pro Mechanical Keyboard Kit | ZDNET Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208676014-windows-11-shut-down-woes-discover-the-ultimate-guide-to-overcoming-power-off-problems/"><u>Windows 11 Shut Down Woes? Discover the Ultimate Guide to Overcoming Power Off Problems.</u></a></li>
 </ul></div>
 

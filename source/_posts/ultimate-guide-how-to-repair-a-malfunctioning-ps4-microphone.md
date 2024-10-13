@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: How to Repair a Malfunctioning PS4 Microphone"
-date: 2024-10-05T18:20:16.504Z
-updated: 2024-10-07T07:34:56.266Z
+date: 2024-10-11T23:11:24.916Z
+updated: 2024-10-13T00:48:16.213Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 4. [**Tweak your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reinstall Skype**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow Skype to access your microphone
 
  The first step to approaching the**microphone not working on Skype** problem would be to check if you’ve granted Skype access to your microphone.
@@ -45,10 +52,10 @@ Here’s how:
 2. Under the**Allow apps to access your microphon** e section, make sure the toggle is**On** so that you can allow apps access to your microphone.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21ddde2a88.jpg)
@@ -59,10 +66,10 @@ Here’s how:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Adjust audio settings in Skype
@@ -73,22 +80,8 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf275aa63d91.png)
 2. Click**Audio & Video** and make sure the toggle for**Automatically adjust microphone settings** is turn**Off** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276685aa61.jpg)
 3. Close the window and check if your**Skype microphone not working** issue has been resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -109,10 +102,10 @@ Here’s how:
 4. Restart your computer and check to see if **microphone on Skype not working** problem has been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -127,23 +120,31 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf2868dc7336.jpg)
 2. Click the **Recording**   tab, then click on **your microphone device**   and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286a2af01f.jpg)  
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 3. Click on **your microphone device**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286af0375c.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286b610643.png)
 5. Click **OK**   to apply the changes in the windows.
 6. Now that with microphone set as default device and the volume turned up, test in Skype to see if your buddy on the other end of Skype can hear you.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Skype
 
@@ -171,14 +172,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-data-driven-decision-making-in-your-youtube-shorts-strategy/"><u>[Updated] In 2024, Data-Driven Decision Making in Your YouTube Shorts Strategy</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-church-streaming-services-for-the-digital-age/"><u>[Updated] In 2024, Top Church Streaming Services for the Digital Age</u></a></li>
-<li><a href="https://common-error.techidaily.com/avoid-update-failure-decode-and-solve-error-code-0x800f0922-on-windows-11-with-these-steps/"><u>Avoid Update Failure: Decode and Solve Error Code 0X800F0922 on Windows 11 with These Steps</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/build-your-brands-success-on-top-business-youtube-channels/"><u>Build Your Brand's Success on Top Business YouTube Channels</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-0x80004005-explained-how-to-fix-the-unspecified-error-on-your-computer/"><u>Error Code 0X80004005 Explained - How to Fix the 'Unspecified Error' On Your Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-use-different-wallpapers-for-each-monitor-in-windows-10-and-11/"><u>How to Use Different Wallpapers for Each Monitor in Windows 10 and 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/reflex-toolbox-bundle/"><u>Reflex Toolbox Bundle</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-incompatible-device-drivers-on-your-system/"><u>Resolved: Fixing Incompatible Device Drivers on Your System</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-class-not-registered-errors-in-windows-10-a-comprehensive-guide/"><u>Resolving 'Class Not Registered' Errors in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-identifying-and-understanding-touchless-technologies/"><u>[New] Identifying and Understanding Touchless Technologies</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-unleashing-your-device-writers-step-by-step-tutorial-for-custom-ringtones-and-sounds-on-android/"><u>[New] In 2024, Unleashing Your Device' Writers Step-by-Step Tutorial for Custom Ringtones and Sounds on Android</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-11-keeps-crashing/"><u>[SOLVED] Windows 11 Keeps Crashing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-how-to-watch-deleted-youtube-videos-online-in-2-ways-ultimate-guide/"><u>[Updated] In 2024, How to Watch Deleted YouTube Videos Online in 2 Ways | Ultimate Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-tips-for-dealing-with-a-non-functioning-notebook-touchpad/"><u>Comprehensive Tips for Dealing with a Non-Functioning Notebook Touchpad</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-control-set-active-hours-to-avoid-surprises-on-windows-11/"><u>Cutting Edge Control: Set Active Hours to Avoid Surprises on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-solutions-for-players-facing-launch-difficulties-in-pubgs-latest-edition-your-ultimate-guide/"><u>DIY Solutions for Players Facing Launch Difficulties in PUBG's Latest Edition - Your Ultimate Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202427841-expert-tips-to-optimize-and-fast-track-your-windows-the-boot-sequence-for-a-smoother-start-every-time/"><u>Expert Tips to Optimize and Fast-Track Your Windows the Boot Sequence for a Smoother Start Every Time.</u></a></li>
+<li><a href="https://article-files.techidaily.com/smile-spark-planner/"><u>Smile Spark Planner</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/superior-alternatives-to-discord-services/"><u>Superior Alternatives to Discord Services</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-zte-nubia-flip-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track ZTE Nubia Flip 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-common-errors-when-installingupdating-on-steam-platform/"><u>Troubleshooting Common Errors When Installing/Updating on Steam Platform</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-the-class-registration-error-on-your-pc-expert-tips-and-tricks/"><u>Troubleshooting the 'Class Registration Error' On Your PC: Expert Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-disk-is-unclean-issue-fixing-error-0x80071ac3/"><u>Troubleshooting the 'Disk Is Unclean' Issue – Fixing Error 0X80071AC3</u></a></li>
+<li><a href="https://common-error.techidaily.com/unblocking-the-path-expert-tips-for-fixing-steams-failed-downloads/"><u>Unblocking the Path: Expert Tips for Fixing Steam's Failed Downloads</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-1011-how-to-eliminate-your-bluetooth-headsets-audio-skips-and-pauses/"><u>Windows 10/11 How-To: Eliminate Your Bluetooth Headset's Audio Skips and Pauses</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-cannot-locate-a-suitable-printer-driver-solved/"><u>Windows Cannot Locate a Suitable Printer Driver [SOLVED]</u></a></li>
 </ul></div>
 

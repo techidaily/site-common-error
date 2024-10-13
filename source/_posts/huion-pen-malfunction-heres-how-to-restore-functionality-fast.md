@@ -1,7 +1,7 @@
 ---
 title: Huion Pen Malfunction? Here's How to Restore Functionality Fast
-date: 2024-10-05T10:55:55.083Z
-updated: 2024-10-07T04:06:07.595Z
+date: 2024-10-10T18:08:33.251Z
+updated: 2024-10-12T20:29:39.978Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 **[Fix 3: Update your chipset/keyboard drivers](#fix3)**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Modify BIOS settings
 
@@ -96,15 +89,22 @@ In another version of BIOS, the procedure may go like this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In Device Manager, double-click on the**System devices** node to expand its drop-down list. Next, locate**Lenovo PM Device** and right-click on it. From the context menu, select**Properties** .
 
 ![This image has an empty alt attribute; its file name is image-128.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-140.png)
 
@@ -114,19 +114,6 @@ In another version of BIOS, the procedure may go like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-142.png)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the option appears dimmed, that means there’s no previous driver for you to roll back to. In this case, you should try out the next method instead.
 
  4) Follow the onscreen instructions to roll back your driver. Don’t forget to reboot your computer for the changes to take effect.
@@ -134,13 +121,6 @@ In another version of BIOS, the procedure may go like this:
  Now it’s time to check whether your function keys have gone back to normal. If not, proceed to the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your chipset/keyboard drivers
 
@@ -164,6 +144,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the pop-up Device Manager window, double-click on the**Keyboards** node to expand its drop-down list. Then right-click on your keyboard device and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-122.png)
@@ -171,19 +158,6 @@ OR
  3) Click**Search automatically for updated driver software** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-126.png)
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Follow the onscreen instructions to download and install your keyboard drivers.
 
@@ -196,19 +170,33 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Scroll through the list to locate the items related to your motherboard chipsets, as illustrated below. (Your devices may not be exactly the same as those shown in the following screenshot. In this case, simply update the items of similar titles.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-129.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Right-click on each of these devices and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-130.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) Repeat**Step3 through Step 4** to update your chipset driver.
 
@@ -261,16 +249,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/solved-microsoft-compatibility-telemetry-high-disk-usage-on-windows-10/"><u>[Solved] Microsoft Compatibility Telemetry High Disk Usage on Windows 10</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-the-art-of-insta-top-gadgets-for-success/"><u>[Updated] Mastering the Art of Insta Top Gadgets for Success</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-expert-tips-for-effective-pip-use-on-edge-browser/"><u>2024 Approved Expert Tips for Effective PIP Use on Edge Browser</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-oversight-4-tech-savvy-checkpoints-for-professionals/"><u>ChatGPT Oversight: 4 Tech-Savvy Checkpoints for Professionals</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-the-invalid-registry-problem-blocking-photos-app-launch-in-windows-10/"><u>Effective Solutions for the Invalid Registry Problem Blocking Photos App Launch in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-airpods-connectivity-problems-with-windows-1011-updated-guide/"><u>Fixing AirPods Connectivity Problems with Windows 10/11 - Updated Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-obtaining-no-cost-photo-frames/"><u>In 2024, Step-by-Step Obtaining No-Cost Photo Frames</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigate-past-opengl-problems-in-minecraft-practical-strategies-and-fixes/"><u>Navigate Past OpenGL Problems in Minecraft: Practical Strategies and Fixes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/perfecting-zoom-on-snapchat-for-better-snaps/"><u>Perfecting Zoom on Snapchat for Better Snaps</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204557189-steelseries-arctis-5-microphone-not-working-heres-how-you-can-fix-it/"><u>SteelSeries Arctis 5 Microphone Not Working? Here's How You Can Fix It</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-realme-12plus-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Realme 12+ 5G FRP Bypass</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-best-offline-android-games-dive-into-the-fun-without-a-network/"><u>[New] 2024 Approved Best Offline Android Games - Dive Into the Fun Without a Network</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-leading-8-screenshot-solutions-without-hesitation/"><u>[New] Leading 8 Screenshot Solutions Without Hesitation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-complete-seo-strategy-for-podcast-growth/"><u>[New] The Complete Seo Strategy for Podcast Growth</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-decoding-the-mystery-of-laptop-video-editing-with-inshot/"><u>[Updated] Decoding the Mystery of Laptop Video Editing With Inshot</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-streamline-your-virtual-sessions-with-these-top-10-tools/"><u>[Updated] Streamline Your Virtual Sessions with These Top 10 Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2023-how-to-share-twitter-videos-on-whatsapp/"><u>2023 | How to Share Twitter Videos on WhatsApp?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-distinctive-shadowing-via-outer-radial-fuzz-on-pics-cs/"><u>2024 Approved Distinctive Shadowing via Outer Radial Fuzz on Pics CS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/claude-2-unpacked-how-it-can-benefit-you/"><u>Claude 2 Unpacked: How It Can Benefit You</u></a></li>
+<li><a href="https://common-error.techidaily.com/definitive-fixes-for-non-responsive-print-screen-on-pcs-running-windows-11-or-10/"><u>Definitive Fixes for Non-Responsive Print Screen on PCs Running Windows 11 or 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-administrator-privileges-needed-errors-in-windows-11-10-and-7/"><u>Resolving 'Administrator Privileges Needed' Errors in Windows 11, 10 & 7</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolving-frame-rate-drops-in-dying-light-a-comprehensive-guide/"><u>Resolving Frame Rate Drops in Dying Light: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-functionality-to-your-directional-keypad-proven-remedies-for-broken-arrows/"><u>Restore Functionality to Your Directional Keypad: Proven Remedies for Broken Arrows!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-strategies-for-diagnosing-and-repairing-driverpowerstatefailure-issues-on-computers/"><u>Step-by-Step Strategies for Diagnosing & Repairing DRIVER_POWER_STATE_FAILURE Issues on Computers</u></a></li>
 </ul></div>
 

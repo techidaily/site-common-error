@@ -1,7 +1,7 @@
 ---
 title: "Fixing Windows Update Service: A Comprehensive Guide"
-date: 2024-09-29T19:26:41.732Z
-updated: 2024-10-06T22:49:00.210Z
+date: 2024-10-06T19:12:20.831Z
+updated: 2024-10-13T02:39:34.402Z
 tags:
   - win11
   - win10
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
@@ -55,28 +55,15 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
 
@@ -84,16 +71,32 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 3. Click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click **OK** .  
@@ -101,20 +104,19 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Close the Windows Media Player window.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Try the Cast to Device feature again to see if it succeeds.
 
@@ -157,14 +159,24 @@ thumbnail: https://thmb.techidaily.com/5497305e7ede52ac11b29b1b9923a18c5f2da5c48
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ree-10-best-intro-maker-apps-for-iphone-and-android/"><u>[New] FREE 10 Best Intro Maker Apps for iPhone and Android</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-path-to-professional-pictures-with-video-enhance-v22/"><u>2024 Approved The Path to Professional Pictures with Video Enhance V2.2</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/cinematiccapture-easy-screen-recorder-for-win11-pcs/"><u>CinematicCapture Easy Screen Recorder for Win11 PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/dxgidll-woes-now-a-thing-of-past-in-pubg/"><u>Dxgi.dll Woes: Now a Thing of Past in PUBG</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-application-startup-problems-a-guide-for-built-in-admin-accounts/"><u>Fixing Application Startup Problems: A Guide for Built-In Admin Accounts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mac-screen-alignment-rapid-video-format-changes/"><u>In 2024, Mac Screen Alignment Rapid Video Format Changes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/openai-gpt-4-and-google-palm-2-faceoff-analyzing-the-contrasts-in-ai-innovations/"><u>OpenAI GPT-4 and Google PaLM 2 Faceoff - Analyzing the Contrasts in AI Innovations</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-missing-opencl-dynamic-library-errors/"><u>Resolving Missing OpenCL Dynamic Library Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-integrity-of-windows-os-file-system/"><u>Step-by-Step Guide: Restoring Integrity of Windows OS File System</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-reducing-loudness-gradually-techniques-for-logic-pro-users/"><u>[New] Reducing Loudness Gradually Techniques for Logic Pro Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-mastering-youtube-video-illumination-techniques/"><u>[Updated] In 2024, Mastering YouTube Video Illumination Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-obs-alternatives-reviewed-by-experienced-broadcinas/"><u>2024 Approved OBS Alternatives Reviewed by Experienced Broadcinas</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comprehensive-review-of-top-ranking-mkv-video-players-for-multiplatform-use-in-macos-win-11-ios-and-android-devices/"><u>Comprehensive Review of Top-Ranking MKV Video Players for Multiplatform Use in macOS, Win 11, iOS & Android Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/creating-stunning-3d-text-with-ps/"><u>Creating Stunning 3D Text with PS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-set-up-corsair-k70-mouse-software-and-driver-download/"><u>Effortless Set-Up: Corsair K70 Mouse Software & Driver Download</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-sound-back-restarting-audio-services-on-windows-7-explained/"><u>Get Your Sound Back! Restarting Audio Services on Windows 7 Explained</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-issues-solved-repairing-dell-laptop-typing-problems-easily/"><u>Keyboard Issues Solved: Repairing Dell Laptop Typing Problems Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204294201-kodi-continuous-playback-restored-no-more-buffering-issues/"><u>Kodi Continuous Playback Restored - No More Buffering Issues!</u></a></li>
+<li><a href="https://common-error.techidaily.com/lenovo-trackpad-not-responding-heres-how-to-repair-it-across-different-windows-versions/"><u>Lenovo Trackpad Not Responding? Here's How to Repair It Across Different Windows Versions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/linkedin-premium-is-the-added-value-worth-it/"><u>LinkedIn Premium: Is the Added Value Worth It?</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-11-top-tips-for-enhanced-gaming-performance-and-speed/"><u>Mastering Windows 11: Top Tips for Enhanced Gaming Performance and Speed</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202007587-resolved-incompatible-device-drivers-on-your-system-detected-solutions/"><u>Resolved: Incompatible Device Drivers on Your System Detected - Solutions</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-guide-resetting-your-iphone-without-a-known-password/"><u>Step-by-Step Guide: Resetting Your iPhone Without a Known Password</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-overcome-resolving-windows-update-issues/"><u>Successfully Overcome: Resolving Windows Update Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-windows-update-error-code-0x802e402c/"><u>Ultimate Guide: Resolving the Windows Update Error Code 0X802e402C</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-to-formulate-your-balanced-meal-strategy/"><u>Utilizing ChatGPT to Formulate Your Balanced Meal Strategy</u></a></li>
+<li><a href="https://common-error.techidaily.com/wheres-the-windows-display-brightness-tool/"><u>Where's the Windows Display Brightness Tool?</u></a></li>
 </ul></div>
 

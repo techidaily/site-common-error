@@ -1,7 +1,7 @@
 ---
 title: Resolving Elevated Memory Use by Microsoft Compatibility Telemetry in Windows 10
-date: 2024-10-03T20:43:11.257Z
-updated: 2024-10-06T19:29:26.356Z
+date: 2024-10-06T21:18:03.449Z
+updated: 2024-10-12T22:59:33.624Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 3. **[Set the Bluetooth support service to automatic](#c)**
 4. **[Update your Bluetooth driver](#d)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Remove all Bluetooth devices
 
  If you’ve connected multiple Bluetooth devices to your PC, chances are that one or more of your devices are preventing your PC from detecting other Bluetooth devices.
@@ -50,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_15-06-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Under**View by** , select**Category** , then click**View devices and printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-02-15.jpg)
@@ -58,23 +58,9 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-12-48.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Click**Add a device** to see if your Bluetooth works properly now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_18-13-19.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If your problem persists, then move on and try the fix below.
 
@@ -86,22 +72,16 @@ If your problem persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-35-46-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Select**Bluetooth** , then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-48-23.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Wait for this process to be complete. Then, try pairing your Bluetooth devices to your PC again.
 
@@ -115,20 +95,34 @@ If your problem persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-56-30.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type**services.msc** , then hit the**Enter key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_11-56-23.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Right-click**Bluetooth Support Service** . If the service is running, click**Restart** ; if the service isn’t running, click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_12-00-47.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Right-click**Bluetooth Support Service** and select**Properties** .
 
@@ -158,18 +152,18 @@ If your issue continues to occur, then try the next solution, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-09-57.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update**  button next to the Bluetooth driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-03_17-07-08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Restart your PC, then try reconnecting your Bluetooth devices to test your issue.
 
@@ -193,18 +187,19 @@ If your issue continues to occur, then try the next solution, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ey-steps-to-tag-your-youtube-video-effectively/"><u>[New] Key Steps to Tag Your YouTube Video Effectively</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-economical-drones-reviewed-best-under-a-hundred-bucks/"><u>[Updated] In 2024, Economical Drones Reviewed Best Under a Hundred Bucks</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-innovative-naming-strategies-elevating-your-filmora-channels-identity/"><u>2024 Approved Innovative Naming Strategies Elevating Your Filmora Channels' Identity</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-thorough-examination-of-hero5-video-content/"><u>A Thorough Examination of Hero5 Video Content</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-solutions-how-to-charge-your-laptop-battery-faster-and-easier/"><u>Effortless Solutions: How to Charge Your Laptop Battery Faster and Easier!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-of-sticky-keyboard-buttons-in-windows-a-comprehensive-guide/"><u>Fixing the Issue of Sticky Keyboard Buttons in Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-your-dell-laptops-unresponsive-keyboard-step-by-step-solutions/"><u>How to Repair Your Dell Laptop's Unresponsive Keyboard - Step-by-Step Solutions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-to-use-itop-recorder-a-compelling-case/"><u>In 2024, To Use ITop Recorder A Compelling Case?</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-this-device-is-absent-error-code-24-across-various-windows-versions/"><u>Resolve This Device Is Absent Error (Code 24) Across Various Windows Versions</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-devices-plugged-in-but-wont-charge-on-pcs-running-windows-710/"><u>Resolved: Devices Plugged In But Won't Charge on PCs Running Windows 7/10</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-laptop-trackpad-issues-on-windows-10-8-and-7-a-comprehensive-guide/"><u>Solving Laptop Trackpad Issues on Windows 10, 8 & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/velocity-victories-olympics-year-2022/"><u>Velocity Victories Olympics, Year 2022</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-enthralling-narratives-discover-the-top-8-story-centric-universities-for-2024/"><u>[New] Enthralling Narratives Discover the Top 8 Story-Centric Universities for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-solving-problems-missing-facebook-video-suggestions/"><u>[New] In 2024, Solving Problems Missing Facebook Video Suggestions</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-mellow-music-playlist-20-tiktok-country-tracks-to-relax-with-for-2024/"><u>[New] Mellow Music Playlist 20 TikTok Country Tracks to Relax With for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/easier-display-customization-solved-on-windows-11/"><u>Easier Display Customization - Solved on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-how-to-troubleshoot-when-your-keyboards-number-keys-stop-responding/"><u>Fixed: How To Troubleshoot When Your Keyboard's Number Keys Stop Responding</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/getting-acquainted-with-picsarts-latest-a-comprehensive-guide-and-review-for-2024/"><u>Getting Acquainted with PicsArt's Latest - A Comprehensive Guide and Review for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-and-rectify-a-failed-directx-device-initialization/"><u>How to Address and Rectify a Failed DirectX Device Initialization</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-call-of-duty-wwii-error-code-4220-a-comprehensive-guide/"><u>How to Fix Call of Duty WWII Error Code 4220 – A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/install-necessary-media-controller-drivers-a-comprehhavisive-guide/"><u>Install Necessary Media Controller Drivers: A Comprehhavisive Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/loves-anthem-top-10-songs-that-define-proposal-moments/"><u>Love's Anthem Top 10 Songs That Define Proposal Moments</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-issue-unfreezing-your-mouse-on-a-computer/"><u>Solving the Issue: Unfreezing Your Mouse on a Computer</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-essential-review-of-speed-and-style-the-gotrax-gxl-v2-commuter-e-scooter-unveiled/"><u>The Essential Review of Speed and Style: The Gotrax GXL V2 Commuter E-Scooter Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-vegas-pros-latest-features-in-21/"><u>The Ultimate Guide to Vegas Pro's Latest Features in '21</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-overcoming-the-xerox-update-error-0x800f020b-on-pcs/"><u>Troubleshooting Tips for Overcoming the Xerox Update Error: 0X800F020B on PCs</u></a></li>
 </ul></div>
 

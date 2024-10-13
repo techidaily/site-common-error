@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting a Malfunctioning Touchpad – Solutions and Tips for Seamless Operation
-date: 2024-10-05T07:37:33.435Z
-updated: 2024-10-07T04:09:44.022Z
+date: 2024-10-07T19:01:55.814Z
+updated: 2024-10-12T22:32:17.222Z
 tags:
   - win11
   - win10
@@ -42,9 +42,24 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 1. On your keyboard, press**Ctrl** ,**Alt** and**Del** keys at the same time.
 2. In the bottom right of your screen, click **the Power button![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a02279b2c.png)**  
   and choose**Restart** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Hopefully your desktop comes up normally this time. If not, continue with**Fix 2** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Switch the network connection
 
@@ -52,17 +67,26 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 2. In the bottom right of your screen, click **the airplane mode icon![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a54a1f6ef.png)**  
  (or**the computer network icon** ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d23f72604.png) ). T hen click **Airplane mode** whether it’s On or Off to switch the network connection.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28d2934707d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the middle of your computer screen, click**Sign out** .
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Log in your computer and see if you get your desktop back this time. If the**Personalized Settings (Not Responding)** still lingers on, you should try **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Re-launch Windows explorer
 
@@ -73,13 +97,6 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8edaee0c.jpg)
 4. Type**explorer** into the box, tick**the box** before**Create this task with administrative privileges** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a9de42ba1.png)  
 
  Now you should have your desktop back.
@@ -88,23 +105,22 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run SFC Command
 
 1. On your keyboard, press the **Windows logo key**  and type**cmd** . Then right click on**Command Prompt** and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click**Yes** when prompted to confirm.
 2. In the command prompt window, type**sfc /scannow** and press**Enter** .  
@@ -121,13 +137,6 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 1. On your keyboard, press the **Windows logo key**  and type**regedit** , then right-click on**regedit** and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b3d238270.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click**Yes** when prompted to confirm.
 2. Locate and double-click on **HKEY\_LOCAL\_MACHINE** \> **SOFTWARE** \> **Microsoft** \> **Active Setup** \> **Installed Components** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28b61a4971d.jpg)
@@ -140,10 +149,10 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
@@ -171,24 +180,22 @@ If you’re greeted with a dark screen with this **Personalized Settings (Not Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-excellence-unveiled-discords-finest-emoji-designers-and-software/"><u>2024 Approved Excellence Unveiled Discord's Finest Emoji Designers and Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-blur-apps-for-clear-portraits/"><u>2024 Approved Mastering Blur Apps for Clear Portraits</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-ultimate-selection-of-superior-hexadrones/"><u>2024 Approved Ultimate Selection of Superior HexaDrones</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-aerial-precision-mavic-pro-analysis/"><u>2024 Approved Unveiling Aerial Precision - Mavic Pro Analysis</u></a></li>
-<li><a href="https://common-error.techidaily.com/activated-safeguard-alert-enable-all-security-measures-immediately/"><u>Activated Safeguard Alert: Enable All Security Measures Immediately!</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-resolution-activating-high-level-graphics-in-wwe-2k-battlegrounds-using-directx-11/"><u>Error Resolution: Activating High-Level Graphics in WWE 2K Battlegrounds Using DirectX 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-fixes-for-your-oculus-devices-comprehve-2024-edition/"><u>Essential Fixes for Your Oculus Devices - Comprehve 2024 Edition</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-the-latest-nexiq-usb-link-2-driver-software-setup/"><u>How to Get the Latest Nexiq USB-Link 2 Driver Software Setup</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-m6-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Poco M6 5G Phone without PIN</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastery-in-motion-correcting-your-unity-graphic-setup-failure-instantly/"><u>Mastery in Motion: Correcting Your Unity Graphic Setup Failure Instantly</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-7-performance-hiccups-proven-fixes-for-random-lockups-and-lags/"><u>Overcoming Windows 7 Performance Hiccups: Proven Fixes for Random Lockups and Lags</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-server-not-found-4-proven-techniques-for-unresponsive-dns-issues/"><u>Resolving 'Server Not Found': 4 Proven Techniques for Unresponsive DNS Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/svchostexe-and-its-impact-on-network-performance-tips-for-managing-netsvcs-overload/"><u>svchost.exe and Its Impact on Network Performance: Tips for Managing Netsvcs Overload</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-essential-guide-for-cost-free-google-meet-management/"><u>The Essential Guide for Cost-Free Google Meet Management</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-repair-your-lenovos-nonfunctional-function-fn-key/"><u>Troubleshooting: How to Repair Your Lenovo's Nonfunctional Function (Fn) Key</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-hardware-secrets-with-tomcuoinsider-tips/"><u>Unveiling Hardware Secrets with Tom'cuoinsider Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-file-explorer-scroll-bar-jumps-to-top-when-scrolling-solved/"><u>Windows 10 File Explorer - Scroll Bar Jumps to Top when Scrolling [Solved]</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/be-live-pro-tips-outfitting-with-excellent-webcams-for-2024/"><u>YouTube Live Pro Tips Outfitting with Excellent Webcams for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-expert-picks-our-1-10-list-of-camera-lenses-for-the-best-shots/"><u>[New] 2024 Approved Expert Picks Our #1-10 List of Camera Lenses for the Best Shots</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-outshine-others-expert-tips-on-making-youtube-shorts-pop/"><u>[New] In 2024, Outshine Others Expert Tips on Making YouTube Shorts Pop</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-photo-text-editing-made-simple-tools-and-techniques/"><u>[New] Photo Text Editing Made Simple Tools & Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-authenticity-audit-filtering-out-pretend-facebook-fans/"><u>[Updated] 2024 Approved Authenticity Audit Filtering Out Pretend Facebook Fans</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-budget-friendly-hd-video-capturing-for-home-studios/"><u>[Updated] Budget-Friendly HD Video Capturing for Home Studios</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionizing-your-fpv-flight-with-optimal-blades/"><u>2024 Approved Revolutionizing Your FPV Flight with Optimal Blades</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-to-correct-file-or-device-path-unavailable-on-pc-with-windows/"><u>Easy Steps to Correct File or Device Path Unavailable on PC With Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-script-to-soundscape-using-chatgpt-in-podcast-production/"><u>From Script to Soundscape: Using ChatGPT in Podcast Production</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-mastering-the-art-of-incorporating-soundtracks-into-videos-using-filmora/"><u>In 2024, Mastering the Art of Incorporating Soundtracks Into Videos Using Filmora</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-device-not-found-effortless-fixes-to-connect-your-usb-storage-device-again/"><u>Overcoming 'Device Not Found': Effortless Fixes to Connect Your USB Storage Device Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-detected-audio-enhancement-glitches-easily/"><u>Overcoming Windows Detected Audio Enhancement Glitches Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-how-to-resolve-amd-catalyst-control-center-wont-launch/"><u>Quick Solutions: How to Resolve 'AMD Catalyst Control Center Won't Launch'</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-non-responsive-keyboard-typing/"><u>Resolved Issue: Non-Responsive Keyboard Typing</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-installation-error-fixing-error-code-80240020-once-and-for-all/"><u>Resolving Windows 11 Installation Error: Fixing Error Code 80240020 Once and for All</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-for-mic-problems-on-windows-10-computers-quick-fixes-inside/"><u>Solution for Mic Problems on Windows 10 Computers - Quick Fixes Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fix-silent-netflix-episodes-without-hitches/"><u>Step-by-Step Guide to Fix Silent Netflix Episodes Without Hitches</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719146826714-the-final-say-awaits-facebooks-oversight-board-reviewing-the-ban/"><u>The Final Say Awaits: Facebook's Oversight Board Reviewing the Ban.</u></a></li>
 </ul></div>
 

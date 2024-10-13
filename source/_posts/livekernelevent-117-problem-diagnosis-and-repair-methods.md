@@ -1,7 +1,7 @@
 ---
 title: "LiveKernelEvent 117 Problem: Diagnosis and Repair Methods"
-date: 2024-10-02T07:56:48.121Z
-updated: 2024-10-07T07:30:02.623Z
+date: 2024-10-10T04:51:45.377Z
+updated: 2024-10-12T21:01:37.673Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check for hardware issues
 
 1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
@@ -54,10 +47,23 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
@@ -67,10 +73,10 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
@@ -78,10 +84,10 @@ You might also need to do this for **Bluetooth HID Device** and **Microsoft Hard
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
@@ -124,18 +130,18 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-pro-editors-picks-optimal-after-effects-plugin-choices/"><u>[New] Pro Editor's Picks Optimal After Effects Plugin Choices</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-perpetual-screen-snapshot/"><u>[Updated] 2024 Approved Perpetual Screen Snapshot</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-intuitive-podcast-beginnings-charismatic-hooks/"><u>[Updated] Intuitive Podcast Beginnings Charismatic Hooks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-chatbot-skills-gpt-versus-huggingface/"><u>Assessing Chatbot Skills: GPT Versus HuggingFace</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-the-glitch-latest-tricks-for-a-smooth-fortnite-experience/"><u>Beat the Glitch: Latest Tricks for a Smooth Fortnite Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/billmire-l-et-al-2016-environmental-fate-of-the-herbicide-glyphosate-and-its-degradation-product-ampa-in-a-small-agricultural-watershed-following-simulated-370/"><u>Billmire, L., Et Al (2016). Environmental Fate of the Herbicide Glyphosate and Its Degradation Product AMPA in a Small Agricultural Watershed Following Simulated Rainfall Events. J Environ Qual, 45(3), 973-84.</u></a></li>
-<li><a href="https://common-error.techidaily.com/eliminating-latency-in-your-windows-11-keyboard-fixes-and-best-practices/"><u>Eliminating Latency in Your Windows 11 Keyboard – Fixes and Best Practices</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-thaw-a-frozen-taskbar-in-windows-10-best-practices/"><u>How to Thaw a Frozen Taskbar in Windows 10 - Best Practices</u></a></li>
-<li><a href="https://common-error.techidaily.com/kodi-streaming-stutter-no-more-tips-for-overcoming-buffering-issues/"><u>Kodi Streaming Stutter No More - Tips for Overcoming Buffering Issues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-samsung-galaxy-a34-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Samsung Galaxy A34 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-lenovo-mouse-pad-functionality-on-your-computer-fixes-for-win-1187-users/"><u>Restore Lenovo Mouse Pad Functionality on Your Computer - Fixes for Win 11/8/7 Users.</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repairing-bluetooth-connectivity-problems-for-windows-11-users/"><u>Step-by-Step Guide to Repairing Bluetooth Connectivity Problems for Windows 11 Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-slapstick-selection-twitters-funny-threads/"><u>[Updated] In 2024, Slapstick Selection Twitter's Funny Threads</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-follow-up-formula-climbing-to-1k-monthly-instagram-likes/"><u>[Updated] In 2024, The Follow-Up Formula Climbing to 1K Monthly Instagram Likes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chrome-plug-ins-for-productivity-the-best-8-ai-tools/"><u>Chrome Plug-Ins for Productivity: The Best 8 AI Tools</u></a></li>
+<li><a href="https://fox-within.techidaily.com/creative-tims-premium-horizon-ai-pro-enhanced-developer-experience-using-nextjs-and-figma-featuring-secure-stripe-and-supabase-integration-plus-comprehensiv1/"><u>Creative Tim's Premium Horizon AI PRO: Enhanced Developer Experience Using NextJS & Figma - Featuring Secure Stripe and Supabase Integration + Comprehensive OAuth Boilerplate</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-permanent-windows-10-update-freeze-at-99-percent/"><u>Fixing the Permanent Windows 10 Update Freeze at 99 Percent</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-drivers-for-your-lenovo-ideapad-100-on-windows-10-complete-guide/"><u>How to Get the Latest Drivers for Your Lenovo IdeaPad 100 on Windows 10: Complete Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-c51-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme C51 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-overwatch-server-connection-error-quickly-and-easily/"><u>How to Resolve the Overwatch Server Connection Error Quickly and Easily</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-no-supported-devices-detected-fixes-and-tips-for-windows-7-setup/"><u>Resolve 'No Supported Devices Detected': Fixes & Tips for Windows 7 Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209897455-resolve-your-windows-10-bluetooth-disappearance-troubles-with-simple-fixes/"><u>Resolve Your Windows 10 Bluetooth Disappearance Troubles with Simple Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-restoring-webcam-functionality-on-hp-devices-with-windows-11/"><u>Step-by-Step Solution: Restoring Webcam Functionality on HP Devices with Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-the-error-dealing-with-non-compatible-entries-on-visual-outputs/"><u>Understanding the Error: Dealing with Non-Compatible Entries on Visual Outputs</u></a></li>
 </ul></div>
 

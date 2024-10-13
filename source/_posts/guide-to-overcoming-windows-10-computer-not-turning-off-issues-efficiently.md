@@ -1,7 +1,7 @@
 ---
 title: Guide To Overcoming Windows 10 Computer Not Turning Off Issues Efficiently
-date: 2024-09-11T16:00:22.750Z
-updated: 2024-09-15T16:01:23.694Z
+date: 2024-10-11T16:05:53.659Z
+updated: 2024-10-12T20:27:24.947Z
 tags:
   - win11
   - win10
@@ -55,24 +55,62 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 1. Type **media**  in the search box from Start. Then click **Windows Media Player**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 6. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Close the Windows Media Player window.
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
@@ -91,10 +129,10 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 4. Reboot your Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
@@ -118,5 +156,22 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-everlasting-deactivation-tactics-against-youtubes-sneaky-snack/"><u>[New] 2024 Approved Everlasting Deactivation Tactics Against YouTube's Sneaky Snack</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-mastering-video-best-practices-in-game-recording-and-streaming/"><u>[New] 2024 Approved Mastering Video Best Practices in Game Recording & Streaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-giggles-galore-celebrating-the-funniest-web-content-creators/"><u>[New] In 2024, Giggles Galore Celebrating the Funniest Web Content Creators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-quick-save-techniques-for-snapchat-memories-for-2024/"><u>[New] Quick Save Techniques for Snapchat Memories for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-smartphone-photographers-guide-to-top-5-android-editors/"><u>[Updated] Smartphone Photographers' Guide to Top 5 Android Editors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-immersive-metaverse-adventures-for-group-play/"><u>10 Immersive Metaverse Adventures for Group Play</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/bring-life-to-stills-motion-blur-technique-for-2024/"><u>Bring Life to Stills Motion Blur Technique for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/playstation-4-user-manual-correcting-the-ce-34878-0-malfunction/"><u>PlayStation 4 User Manual: Correcting the CE-34878-0 Malfunction</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-and-easy-guide-to-usb-tethering-with-windows-10/"><u>Quick & Easy Guide to USB Tethering with Windows 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolved-the-issue-with-the-igfx-em-module-no-longer-functioning/"><u>Resolved: The Issue with the iGFX EM Module No Longer Functioning</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-successfully-repairing-the-unable-to-initialize-application-error-0xc000007b/"><u>Step-by-Step Guide: Successfully Repairing the 'Unable to Initialize Application' Error [0xC000007B]</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-when-windows-struggles-to-identify-your-printer-driver/"><u>Step-by-Step Solution for When Windows Struggles to Identify Your Printer Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-restoring-right-click-capability-for-your-mouse-under-windows-11/"><u>Step-by-Step Solution: Restoring Right-Click Capability for Your Mouse Under Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-keyboard-letter-issues-solved-fix-stuck-or-non-functioning-buttons-now/"><u>Windows 11 Keyboard Letter Issues Solved – Fix Stuck or Non-Functioning Buttons Now</u></a></li>
+</ul></div>
 

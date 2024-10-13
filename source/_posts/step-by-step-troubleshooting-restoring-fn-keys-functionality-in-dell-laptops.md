@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Troubleshooting: Restoring Fn Keys Functionality in Dell Laptops"
-date: 2024-10-04T16:54:48.255Z
-updated: 2024-10-07T08:27:34.780Z
+date: 2024-10-09T17:37:17.112Z
+updated: 2024-10-13T01:19:01.220Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Change power management settings for USB Root Hub
 
 Tweaking the properties in **USB Root Hub** devices is another proven effective way to solve our mouse keeps disconnecting and reconnecting issue. To do this:
@@ -47,26 +54,13 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
@@ -77,16 +71,10 @@ You might also need to do this for **Bluetooth HID Device** and **Microsoft Hard
 ---
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
@@ -102,15 +90,16 @@ You can update your drivers automatically with either the [**Free**](https://too
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
 
@@ -137,19 +126,18 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-best-bargain-scene-for-no-cost-video-capturing-on-chromebooks/"><u>[New] 2024 Approved Best Bargain Scene for No-Cost Video Capturing on Chromebooks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-transform-your-video-content-using-story-remix-on-windows-photos/"><u>[New] Transform Your Video Content Using Story Remix on Windows Photos</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-adaptive-gaming-techniques-by-pros/"><u>[Updated] Adaptive Gaming Techniques by Pros</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-blank-canvas-a-guide-to-overcoming-laptop-white-screens/"><u>Fixing the Blank Canvas: A Guide to Overcoming Laptop White Screens</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27-4g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo Y27 4G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-the-ultimate-list-of-live-chat-apps-for-shopify/"><u>In 2024, The Ultimate List of Live Chat Apps for Shopify</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/los-15-mejores-programas-de-captura-de-pantalla-de-windows-recomendados-por-movavi/"><u>Los 15 Mejores Programas De Captura De Pantalla De Windows Recomendados Por Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-art-of-fast-paced-minecraft-by-conquering-game-lags-once-and-for-all/"><u>Master the Art of Fast-Paced Minecraft by Conquering Game Lags Once and for All</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-shopping-spree-videography-for-2024/"><u>Mastering the Art of Shopping Spree Videography for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-proven-winners-the-best-7-audio-transitions-you-can-download-at-zero-price/"><u>New In 2024, Proven Winners The Best 7 Audio Transitions You Can Download at Zero Price</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-frustrating-ce-34878-0-problem-in-your-ps4-effective-strategies-revealed/"><u>Overcoming the Frustrating CE-34878-0 Problem in Your PS4 – Effective Strategies Revealed</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-repairing-issues-with-windows-store-caching-system/"><u>Resolved: Repairing Issues with Windows Store Caching System</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-aoc-display-problems-on-windows-10-easy-steps-for-users/"><u>Solve AOC Display Problems on Windows 10 - Easy Steps for Users</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sustainable-economics-for-your-empire-the-ultimate-offworld-trading-company-critique/"><u>Sustainable Economics for Your Empire: The Ultimate Offworld Trading Company Critique</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-perfecting-sound-on-snapchat-master-your-vocal-effects-in-minutes/"><u>[New] 2024 Approved Perfecting Sound on Snapchat Master Your Vocal Effects in Minutes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-edit-uploaded-published-youtube-videos-for-2024/"><u>[New] How to Edit Uploaded/ Published YouTube Videos for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-radiant-photography-with-lightrooms-hdr-magic-merge/"><u>[New] In 2024, Radiant Photography with Lightroom's HDR Magic Merge</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-csgo-crashes-with-easy-fixes-get-back-to-gameplay-instantly/"><u>Bypassing CS:GO Crashes with Easy Fixes – Get Back to Gameplay Instantly</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/command-center-at-your-fingertips-powerdirector-2024-guide/"><u>Command Center at Your Fingertips PowerDirector 2024 Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/elevate-your-systems-efficiency-quick-fix-for-excessive-cpu-usage-by-shell-infrastructures/"><u>Elevate Your System's Efficiency – Quick Fix for Excessive CPU Usage by Shell Infrastructures!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-your-tiktok-unboxing-video-popularity-a-guide/"><u>Elevating Your TikTok Unboxing Video Popularity A Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-dolby-home-theater-not-working-issue-in-windows-11/"><u>Fix Dolby Home Theater Not Working Issue in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-usb-connections-on-windows-11-computers/"><u>How to Fix Unresponsive USB Connections on Windows 11 Computers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pushing-creative-boundaries-with-these-top-7-film-color-techniques/"><u>In 2024, Pushing Creative Boundaries with These Top 7 Film Color Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-to-connect-a-non-responsive-xbox-one-controller/"><u>Step-by-Step Tutorial to Connect a Non-Responsive Xbox One Controller</u></a></li>
 </ul></div>
 

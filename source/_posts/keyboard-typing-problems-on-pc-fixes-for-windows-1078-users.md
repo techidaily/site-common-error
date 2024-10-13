@@ -1,7 +1,7 @@
 ---
 title: Keyboard Typing Problems on PC? Fixes for Windows 10/7/8 Users
-date: 2024-10-03T02:28:53.332Z
-updated: 2024-10-07T03:35:51.811Z
+date: 2024-10-07T17:26:13.809Z
+updated: 2024-10-12T22:20:07.906Z
 tags:
   - win11
   - win10
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
  After confirming that your hardware is not the problem, check out the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your keyboard driver
@@ -73,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Update your keyboard driver
 
  If you’re using a faulty or outdated keyboard driver, you’re likely to encounter the arrow keys not working issue. To see if that’s the case, you should update your keyboard driver to the latest version. If you don’t have the time, patience, or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -84,14 +91,21 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-06-29-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All)  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -99,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
  After updating your keyboard driver, restart your PC for the changes to take effect.
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable the Scroll Lock key
 
@@ -117,20 +124,14 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 2. When the On-Screen Keyboard appears, click the**ScrLk** button to disable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this method didn’t work for you, check out the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Run Keyboard Troubleshooter
 
@@ -142,21 +143,16 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
 
@@ -168,13 +164,6 @@ If this method didn’t work for you, check out the last fix.
 3. Click**Other troubleshooters** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -197,18 +186,16 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-ultimate-choice-of-childhood-flying-fun-toys/"><u>[New] 2024 Approved The Ultimate Choice of Childhood Flying Fun Toys</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unleash-creativity-the-best-9-gif-recorders-to-preserve-windows-animation/"><u>[New] 2024 Approved Unleash Creativity The Best 9 GIF Recorders to Preserve Windows Animation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-maximize-your-iphones-capture-potential/"><u>[New] Maximize Your iPhone's Capture Potential</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-virtuscreen-clear-plastic-sheeting/"><u>2024 Approved VirtuScreen Clear Plastic Sheeting</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-initializing-phase-in-destiny-2-proven-tips-and-tricks/"><u>Bypassing the 'Initializing' Phase in Destiny 2 - Proven Tips & Tricks</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-install-hp-laserjet-p1006-printer-drivers-downloaded/"><u>Easy Install: HP LaserJet P1006 Printer Drivers Downloaded</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/managing-contact-alerts-on-your-iphone-when-do-not-disturb-is-active-8-essential-tricks/"><u>Managing Contact Alerts on Your iPhone When Do Not Disturb Is Active - 8 Essential Tricks</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-15-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/see-event-october-29-1929-the-wall-street-crash-marks-the-start-of-the-great-depression-showing-a-massive-drop-in-stock-values-and-global-economic-turmoil-r133/"><u>See Event [October 29, 1929]: The Wall Street Crash Marks the Start of the Great Depression, Showing a Massive Drop in Stock Values and Global Economic Turmoil, Relating to 'Equities' As an Example Where Market Confidence Plummeted.</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/simplify-your-video-sharing-with-our-youtube-upload-strategy-for-2024/"><u>Simplify Your Video Sharing with Our YouTube Upload Strategy for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-for-correcting-parameter-is-incorrect-error-message/"><u>Solutions for Correcting 'Parameter Is Incorrect' Error Message</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-complete-graphics-driver-update-resolves-miracast-not-working-error/"><u>Troubleshooting Complete: Graphics Driver Update Resolves Miracast Not Working Error</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-gold-class-selection-of-unseen-video-extractors/"><u>[New] Gold-Class Selection of Unseen Video Extractors</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-superb-simple-countdown-apps-for-free/"><u>[New] In 2024, Superb Simple Countdown Apps for Free</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-updating-asus-pce-ac56-drivers-for-windows-1087-issues-fixed/"><u>Comprehensive Guide to Updating ASUS PCE-AC56 Drivers for Windows 10/8/7 [ISSUES FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-repairing-and-getting-your-non-working-igfxem-module-back-online/"><u>Expert Tips on Repairing and Getting Your Non-Working IgfxEM Module Back Online</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-f14-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/netflix-sound-not-working-heres-how-you-can-fix-it-fast/"><u>Netflix Sound Not Working? Here's How You Can Fix It Fast!</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-how-to-get-safari-to-open-pages-without-errors/"><u>Quick Fixes: How to Get Safari to Open Pages Without Errors</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-ultimate-compilation-of-15-most-engaging-youtube-themes/"><u>The Ultimate Compilation of 15 Most Engaging YouTube Themes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-failed-secure-connections-in-firefox-browser/"><u>Troubleshooting Failed Secure Connections in Firefox Browser</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-kernel-event-141-resolving-hw-errors/"><u>Troubleshooting Kernel Event 141: Resolving HW Errors</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-realme-c51-by-fonelab-android-recover-data/"><u>Undelete lost data from Realme C51</u></a></li>
 </ul></div>
 

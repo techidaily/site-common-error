@@ -1,7 +1,7 @@
 ---
 title: Remedy Poor Connection Performance Between Epson Scan & Printer
-date: 2024-09-19T18:39:22.966Z
-updated: 2024-09-20T19:38:18.292Z
+date: 2024-10-07T18:58:10.970Z
+updated: 2024-10-12T23:26:10.937Z
 tags:
   - win11
   - win10
@@ -32,6 +32,19 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 2. **[Check the power management setting of your wireless network adapter](#Solution2)**
 3. **[Update your wireless network adapter driver](#Solution3)**
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1:  Make sure your wireless option is turned on
 
 **If you’re using a laptop** , you can probably find a function key available for turning wireless on/off on your laptop’s keyboard. It could be **F12** , varying from different laptops. Just find the key with a wireless symbol.  
@@ -56,9 +69,30 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 1. Type **network**  in the search box from Start. Then click **Network and Sharing Center** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-12.jpg)
 2. Click**Change adapter settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-10.jpg)
 3. Right-click on your wireless network adapter and choose **Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-14.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Check the power management setting of your wireless network adapter
 
@@ -66,16 +100,17 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 2. Type**devmgmt.msc**  and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e4171905b49.png)
 3. Double-click your wireless network adapter device in **Network adapters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c26efc44c4f4.jpg)
 4. Make sure   **Allow the computer to turn off this device to save power**  is unchecked in **Power Management** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your wireless network adapter driver
 
@@ -90,14 +125,15 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975bf182a016.jpg)
 3. Click the **Update** button next to a flagged network adapter driver to automatically download it， then you can install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-25.jpg)
-4. Restart your computer and try to connect to Wi-Fi to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Restart your computer and try to connect to Wi-Fi to see if it works.
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
 
@@ -114,5 +150,18 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-inverting-video-order-on-snapchat/"><u>[Updated] Inverting Video Order on Snapchat</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-top-quality-screen-recording-for-windows-10-pro/"><u>2024 Approved Top Quality Screen Recording for Windows 10 Pro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-instant-converting-from-flac-to-wav-formats-via-movavi-onlinelogik/"><u>Gratis Instant Converting From FLAC to WAV Formats via Movavi - Onlinelogik</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-at-home-productivity-in-6-simple-steps-with-chatgpt/"><u>Maximize At-Home Productivity in 6 Simple Steps with ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/seek-hidden-tool-for-brightness-levels-on-windows/"><u>Seek: Hidden Tool for Brightness Levels on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-insufficient-system-resources-error-fix-guide/"><u>Solving 'Insufficient System Resources' Error – Fix Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fix-continuous-reboots-on-your-windows-11-pc/"><u>Step-by-Step Guide to Fix Continuous Reboots on Your Windows 11 PC</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unexpected-print-hiccup-discovered/"><u>Unexpected Print Hiccup Discovered</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201680963-windows-11-dark-theme-not-functioning-heres-how-to-make-it-work/"><u>Windows 11 Dark Theme Not Functioning? Here’s How to Make It Work!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix 'This Device Is Not Present' (Code 24) in Windows 11, 8 & 7 Systems
-date: 2024-09-30T02:45:20.252Z
-updated: 2024-10-06T20:49:37.532Z
+date: 2024-10-10T22:20:36.584Z
+updated: 2024-10-13T01:58:57.778Z
 tags:
   - win11
   - win10
@@ -72,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
 ``
@@ -93,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -119,11 +105,25 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 
 ``
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
 ``
 
  1) On your keyboard, press the **Windows** **logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png) +**R** key at the same time to invoke the run command.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Type **services.msc**  in the box and press**Enter** to open**Windows Services** .
 
@@ -138,29 +138,22 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Open the app again to see if it goes fine.
 
 ``
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -189,10 +182,10 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
@@ -204,6 +197,13 @@ thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475
  2) On Task Manager window, tap on the **Startup** pane. Then find and right-click on **iCloud Services** . Click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Open the app again to see if it goes fine.
 
@@ -232,20 +232,15 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-case-study-how-to-grow-on-youtube-to-have-millions-of-subs/"><u>[New] 2024 Approved Case Study How to Grow on YouTube to Have Millions of Subs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fixed-most-effective-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/"><u>[Updated][Fixed] Most-Effective 4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-mirrored-moments-with-iphone-photography-expertise/"><u>2024 Approved Mirrored Moments with iPhone Photography Expertise</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-smoothing-out-aerial-footage-pulsation/"><u>2024 Approved Smoothing Out Aerial Footage Pulsation</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-solutions-for-a-malfunctioning-notebook-touchpad/"><u>DIY Solutions for a Malfunctioning Notebook Touchpad</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/how-to-generate-custom-tables-of-contents-in-your-ebooks-using-flipbuilder/"><u>How to Generate Custom Tables of Contents in Your eBooks Using FlipBuilder</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-recover-when-your-computer-gets-held-up-during-windows-initialization-process/"><u>How to Recover When Your Computer Gets Held Up During Windows Initialization Process</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-exploring-popularly-highlighted-video-remarks/"><u>In 2024, Exploring Popularly Highlighted Video Remarks</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-tecno-spark-20-proplus-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Tecno Spark 20 Pro+ to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-realme-12plus-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Realme 12+ 5G Phone? Unlock It Now</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-lava-yuva-3-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Lava Yuva 3 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-internet-connectivity-issues-how-to-resolve-errinternetdisconnected-mistakes-quickly-and-safely/"><u>Overcoming Internet Connectivity Issues: How to Resolve ERR_INTERNET_DISCONNECTED Mistakes Quickly and Safely</u></a></li>
-<li><a href="https://common-error.techidaily.com/renderer-initialization-errors-resolved-latest-update/"><u>Renderer Initialization Errors Resolved - Latest Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fix-application-startup-failure-error-0xc000007b/"><u>Step-by-Step Guide to Fix 'Application Startup Failure' (Error 0xC000007B)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-inactive-windows-10-microphone-issues-effectively/"><u>Troubleshoot Inactive Windows 10 Microphone Issues Effectively</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-snapchat-incorporating-songs-into-your-videos/"><u>[New] 2024 Approved Mastering Snapchat Incorporating Songs Into Your Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-how-to-start-participating-in-google-webinars/"><u>[Updated] In 2024, How To Start Participating in Google Webinars</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-screen-snatching-made-easy-analyzing-no-cost-recording-apps/"><u>[Updated] Screen Snatching Made Easy – Analyzing No-Cost Recording Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-and-complete-guide-to-screen-record-videos-across-multiple-electronics/"><u>Easy and Complete Guide to Screen Record Videos Across Multiple Electronics</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-steelseries-arctis-5-mic-back-on-track-troubleshooting-solutions-for-better-sound-quality/"><u>Get Your SteelSeries Arctis 5 Mic Back on Track: Troubleshooting Solutions for Better Sound Quality</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-best-drones-that-enhance-your-gopro-cinematic-experience/"><u>In 2024, Best Drones That Enhance Your GoPro Cinematic Experience</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-dns-communication-breakdowns-using-these-4-strategies/"><u>Overcome DNS Communication Breakdowns Using These 4 Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/shift-key-issues-discover-effective-fixes-and-solutions/"><u>Shift Key Issues? Discover Effective Fixes and Solutions!</u></a></li>
+<li><a href="https://common-error.techidaily.com/uncovering-your-touchpad-steps-to-reveal/"><u>Uncovering Your Touchpad: Steps to Reveal</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: WinUpdate Failure No More! Overcoming Error 0X80240017 with Ease
-date: 2024-09-15T19:12:52.221Z
-updated: 2024-09-20T18:36:24.091Z
+date: 2024-10-07T01:44:04.859Z
+updated: 2024-10-13T00:34:07.421Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/f57a9586a5db5cbabd97e9f5c59c1d3f3c5f47509
 
 Now try to install Windows Updates now.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Fix 2\. Remove Invalid Characters in Proxy Exception List**
 
  Keep your proxy settings clean can prevent your system from navigating to many different and unresourceful servers. Go with the steps below to clean your proxy settings.
@@ -52,11 +59,25 @@ Now try to install Windows Updates now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Clear Exceptions box if there were any content in it.
 
  Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/4-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Exit Internet Explorer and run Command Prompt.
 
@@ -116,19 +137,6 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10.png)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On Regedit Editor window, head to **HKEY\_LOCAL\_MACHINE**  \> **SOFTWARE** \> **Policies**  \>**Microsoft**  \> **Windows**  \> **WindowsUpdate**  \> **AU**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/14.png)
@@ -139,6 +147,13 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/15.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** If you can’t find WindowsUpdate, you should create one. Follow the steps below.
 
  a) Right-click on**Windows**  folder, then choose **New**  \> **Key** .
@@ -147,31 +162,24 @@ If the fixes above didn’t serve you, try this one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  b) Right-click on**WindowUpdate**  folder, then choose **New**  \> **Key** .
 
  And name the new key**A** **U** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  c) Right-click on the right pane of AU key, choose**New** \> **DWORD (32-bit) Value**
 
  Name the new value **UseWUServer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/13.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now try to install Windows Updates now.
 
@@ -192,5 +200,24 @@ After the fixes above, Windows Update should be good to go now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-turn-off-chatter-secrets-for-muting-users-on-gomeet-for-2024/"><u>[New] Turn Off Chatter Secrets for Muting Users on GoMeet for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-high-speed-video-snapshots-avoid-technical-hurdles/"><u>[Updated] High-Speed Video Snapshots - Avoid Technical Hurdles</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-transforming-facebook-watchlists-implementing-autoplay-for-youtube-content/"><u>[Updated] In 2024, Transforming Facebook Watchlists Implementing Autoplay for YouTube Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-invisible-pointers-heres-how-you-can-restore-it-on-windows/"><u>Dealing with Invisible Pointers? Here's How You Can Restore It on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-for-overcoming-minecraft-wont-open-in-windows-problems/"><u>Expert Advice for Overcoming 'Minecraft Won't Open in Windows' Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-resolving-xbox-one-headset-connectivity-issues/"><u>Expert Advice: Resolving Xbox One Headset Connectivity Issues</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/gain-massive-audience-on-youtube-in-minutes-2-ways-for-2024/"><u>Gain Massive Audience on YouTube in Minutes (2 Ways) for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Location Changers for Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-tecno-pop-8-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Tecno Pop 8 PC | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-samsung-galaxy-xcover-7-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Samsung Galaxy XCover 7 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-lowering-sound-gradually-a-logic-pro-method/"><u>In 2024, Lowering Sound Gradually A Logic Pro Method</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-fixing-critical-installation-failure-error-code-1603/"><u>Solved: Fixing Critical Installation Failure (Error Code 1603)</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-printer-problems-why-you-cant-print-without-the-right-driver/"><u>Solving Printer Problems: Why You Can't Print Without the Right Driver</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fix-a-broken-dvd-or-cd-reader-on-windows-computers/"><u>Step-by-Step Guide to Fix a Broken DVD or CD Reader on Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-touchpad-solutions-for-nonfunctional-scroll-buttons/"><u>Troubleshooting Windows 11 Touchpad: Solutions for Nonfunctional Scroll Buttons</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209826247-windows-11-hangs-and-cant-turn-off-here-are-five-effective-solutions/"><u>Windows 11 Hangs and Can't Turn Off? Here Are Five Effective Solutions</u></a></li>
+</ul></div>
 

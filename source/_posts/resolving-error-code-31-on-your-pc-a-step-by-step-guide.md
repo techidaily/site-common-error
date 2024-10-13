@@ -1,7 +1,7 @@
 ---
 title: "Resolving Error Code 31 on Your PC: A Step-by-Step Guide"
-date: 2024-10-04T01:45:43.919Z
-updated: 2024-10-07T04:05:05.224Z
+date: 2024-10-08T05:11:45.651Z
+updated: 2024-10-12T16:32:05.638Z
 tags:
   - win11
   - win10
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
  If resetting doesn’t work, you can try slightly underclocking your CPU. Lower the clock speed of your CPU a bit, and then check to see if your game runs fine.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Method 3: Make sure the SuperFetch service is enabled
@@ -64,16 +64,10 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81509d94eeb.png)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Check the**Status** of the service**Superfetch** and make sure it is**Running** .
@@ -89,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a8154d5f16b3.png)
 
 **6)** Restart your computer. Then open your game and see if the error has gone.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Method 4: Update your device drivers
 
@@ -113,24 +100,25 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713a84159a4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update** button next to your graphics driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a81601f758c1.jpg)
 
-**4)** Restart your computer and check to see if this fixes your game crash error.
-
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**4)** Restart your computer and check to see if this fixes your game crash error.
 
 ##  Method 5: Turn on “GPU Scaling”
 
@@ -164,22 +152,22 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-simple-approach-to-youtube-statistics-review/"><u>[Updated] In 2024, A Simple Approach to YouTube Statistics Review</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-age-of-empires-unleashed-exploring-the-7-greatest-battles/"><u>[Updated] In 2024, Age of Empires Unleashed Exploring the 7 Greatest Battles</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/beginners-blueprint-capturing-the-world-of-pokemon-go/"><u>Beginners' Blueprint: Capturing the World of Pokémon Go</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-techniques-for-fixing-the-error-code-0x80070643-in-windows-updatesinstallations/"><u>Effective Techniques for Fixing the Error Code 0X80070643 in Windows Updates/Installations</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficient-wmi-host-management-for-windows-11-upgrades/"><u>Efficient WMI Host Management for Windows 11 Upgrades</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/essential-camera-techniques-for-novice-filmmakers-for-2024/"><u>Essential Camera Techniques for Novice Filmmakers for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-resolving-task-manager-not-responding-problems-successfully/"><u>Expert Advice: Resolving Task Manager Not Responding Problems Successfully</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-free-up-iphone-12-pro-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up iPhone 12 Pro Space | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-install-or-update-nvidia-geforce-rtx-3070-drivers-on-windows-11-and-10-systems/"><u>How to Install or Update NVIDIA GeForce RTX 3070 Drivers on Windows 11 & 10 Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/kodi-playback-troubles-heres-how-you-can-overcome-buffering-issues/"><u>Kodi Playback Troubles? Here's How You Can Overcome Buffering Issues!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-windows-update-issues-understanding-and-fixing-error-code-0x800705b4-on-windows-11/"><u>Resolve Windows Update Issues: Understanding and Fixing Error Code 0X800705b4 on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-keyboard-malfunctions-a-comprehensive-fixers-manual/"><u>Resolving Windows Keyboard Malfunctions: A Comprehensive Fixer's Manual</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-approach-to-resolve-the-windows-update-malfunction-error-code-0x8024401c-in-windows-1011/"><u>Step-by-Step Approach to Resolve the Windows Update Malfunction (Error Code 0X8024401C) in Windows 10/11</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-handling-windows-error-1067-the-termination-issue-explained/"><u>Successfully Handling Windows Error 1067: The Termination Issue Explained</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-guide-to-a-smooth-upgrade-your-mac-and-catalina/"><u>The Guide to a Smooth Upgrade: Your Mac and Catalina</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-crafting-the-perfect-ringtone-for-your-ios-device/"><u>[Updated] Crafting the Perfect Ringtone for Your iOS Device</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-direct-linking-of-youtube-content-to-facebook-feeds-via-autoplay-settings-for-2024/"><u>[Updated] Direct Linking of YouTube Content to Facebook Feeds via Autoplay Settings for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-outshine-xsplit-with-these-cutting-edge-alternatives/"><u>[Updated] Outshine Xsplit with These Cutting-Edge Alternatives</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/criar-e-salvaguardar-fotos-raw-cr2-ferramentas-livres-e-pesquisa-web-do-movavi/"><u>Criar E Salvaguardar Fotos RAW CR2: Ferramentas Livres E Pesquisa Web Do Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-the-graphics-problem-in-wwe-2k-battlegrounds-dx11-fl-100/"><u>Diagnosing and Fixing the Graphics Problem in WWE 2K Battlegrounds (DX11, FL 10.0)</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211794587-keyboard-arrow-keys-not-working-try-these-fixes/"><u>Keyboard Arrow Keys Not Working? Try These Fixes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-persistent-windows-update-problem-clear-instructions-for-handling-error-0x8024402c/"><u>Overcoming the Persistent Windows Update Problem: Clear Instructions for Handling Error 0X8024402c</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectified-gdx-creation-failure-in-oswin/"><u>Rectified GDX Creation Failure in OS/Win</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-issue-of-a-non-responsive-touchpad-and-invisible-cursor-in-windows-11/"><u>Resolve the Issue of a Non-Responsive Touchpad and Invisible Cursor in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-driver-failed-to-load-issue-with-proper-user-settings/"><u>Resolving the 'Driver Failed to Load' Issue with Proper User Settings</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-bluetooth-functionality-on-windows-10-fast-and-straightforward-fixes-inside/"><u>Revive Your Bluetooth Functionality on Windows 10: Fast and Straightforward Fixes Inside</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-6s-plus-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone 6s Plus from iCloud</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/tiga-teknik-kuat-untuk-menyebarkan-file-terlindungi-ke-hapusan-dan-memulai-rekonstruksi/"><u>Tiga Teknik Kuat Untuk Menyebarkan File Terlindungi Ke Hapusan Dan Memulai Rekonstruksi</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-strategies-for-overcoming-hyperx-cloud-mic-issues-no-more-silence-in-your-setup/"><u>Top Strategies for Overcoming HyperX Cloud Mic Issues: No More Silence in Your Setup!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-easily-fixing-steams-disk-writing-challenges/"><u>Troubleshooting Tips: Easily Fixing Steam's Disk Writing Challenges</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-correcting-windows-rpc-communication-failures/"><u>Ultimate Guide: Correcting Windows RPC Communication Failures</u></a></li>
 </ul></div>
 

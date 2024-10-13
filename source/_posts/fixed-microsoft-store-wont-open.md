@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Microsoft Store Won't Open"
-date: 2024-10-06T03:27:57.751Z
-updated: 2024-10-07T11:56:37.261Z
+date: 2024-10-10T00:28:35.782Z
+updated: 2024-10-12T23:10:03.878Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 5. **[Delete Manifest txt files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Check for network connection
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 2. **Try using a LAN cable** instead if you’re using**Wi-Fi** connection**.** Convenient as it is, yet most of the time**Wi-Fi** is not stable enough for computer games. A wired connection would be a better option for your network stability.
 
  If network connection is not where the problem is, try the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Run your game as administrator
 
@@ -99,10 +106,10 @@ OR
 If this doesn’t solve your problem, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Reinstall Valorant
@@ -118,21 +125,14 @@ If this doesn’t solve your problem, move on to the next fix.
 4. Click**Uninstall** again in the pop-up window.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/app-uninstall.jpg)
 5. After the Valorant application is successfully uninstalled. Reinstall it from the[**Valorant download page**](https://playvalorant.com/zh-tw/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this reinstalling process still doesn’t work for you, you may give the last fix a try.
 
@@ -146,10 +146,10 @@ If this doesn’t solve your problem, move on to the next fix.
 3. Open Valorant to see if this fix helps you load in the game successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -174,14 +174,16 @@ If this doesn’t solve your problem, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/bluetooth-woes-fixing-connectivity-problems-on-windows-11-computers/"><u>[Bluetooth Woes ] Fixing Connectivity Problems on Windows 11 Computers</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-exploring-adsense-revenue-streams-on-youtube-for-every-1k-watcher/"><u>[New] Exploring AdSense Revenue Streams on YouTube for Every 1K Watcher</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-transform-photos-and-videos-with-these-androidiphone-montage-apps/"><u>[New] Transform Photos & Videos with These Android/iPhone Montage Apps</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-discover-powerful-tagging-tactics-a-guide-to-amplifying-freegame-content/"><u>[Updated] Discover Powerful Tagging Tactics A Guide to Amplifying FreeGame Content</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-annoying-screen-fluttering-issue-on-windows-11-solutions-found/"><u>How to Fix the Annoying Screen Fluttering Issue on Windows 11 - Solutions Found!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-liveaction-gaming-diary/"><u>In 2024, LiveAction Gaming Diary</u></a></li>
-<li><a href="https://common-error.techidaily.com/restored-mic-functionality-in-discord/"><u>Restored Mic Functionality in Discord</u></a></li>
-<li><a href="https://common-error.techidaily.com/securing-windows-hello-with-right-camera/"><u>Securing Windows Hello with Right Camera</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-perfecting-your-videos-narrative-integrating-timestamps-smartly/"><u>[New] 2024 Approved Perfecting Your Video's Narrative Integrating Timestamps Smartly</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-essential-tips-and-tricks-for-powerdirector-24-mastery/"><u>[Updated] In 2024, Essential Tips and Tricks for PowerDirector '24 Mastery</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-step-by-step-instructions-to-fix-a-blank-screen-on-your-monitor/"><u>Expert Advice: Step-by-Step Instructions to Fix a Blank Screen on Your Monitor</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-fallout-76-low-fps-2023-tips/"><u>How to Fix Fallout 76 Low FPS – 2023 Tips</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-dive-into-digital-fandom-top-6-interactive-questionnaires-to-identify-your-youtube-spirituality/"><u>In 2024, Dive Into Digital Fandom Top 6 Interactive Questionnaires to Identify Your YouTube Spirituality</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-infinix-note-30-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Infinix Note 30 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-malfunctioning-keyboard-backlights-on-pcmac-systems/"><u>Step-by-Step Solution for Malfunctioning Keyboard Backlights on PC/Mac Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-tell-if-netflix-isnt-working-and-solutions/"><u>Troubleshooting Guide: How to Tell If Netflix Isn't Working and Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-disconnected-printer-resolving-error-code-30-successfully/"><u>Troubleshooting Your Disconnected Printer: Resolving Error Code -30 Successfully</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrade-or-not-a-detailed-analysis-of-ipad-air-4-versus-ipad-air-5-features-and-performance-digital-world-insights/"><u>Upgrade or Not? A Detailed Analysis of iPad Air 4 Versus iPad Air 5 Features and Performance | Digital World Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/winkernel-power-failure-error-41-fixed/"><u>WinKernel Power Failure: Error #41 Fixed</u></a></li>
 </ul></div>
 

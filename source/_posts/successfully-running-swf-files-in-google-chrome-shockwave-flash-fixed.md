@@ -1,7 +1,7 @@
 ---
 title: Successfully Running SWF Files in Google Chrome – Shockwave Flash Fixed!
-date: 2024-10-05T19:28:45.745Z
-updated: 2024-10-06T16:23:11.000Z
+date: 2024-10-10T22:51:31.132Z
+updated: 2024-10-12T22:23:10.616Z
 tags:
   - win11
   - win10
@@ -46,20 +46,13 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 4. Run Chrome and hopefully the**Google Chrome not responding** problem has been sorted. If yes, then great! But if the issue persists, you should try**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Turn off Chrome add-ons
 
@@ -75,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 4. **Restart**  your computer and check if**Google Chrome**  now works:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * If Google Chrome does respond after disabling all your add-ons, it’s likely one of your add-ons was the problem. Now you just need to figure out which one. To do this, enable the first add-on in the list, then see if Google Chrome still works. If it doesn’t, then you’ve found the cause of the problem. If Google Chrome works fine after enabling the first add-on, enable the second and test again. Continue testing each add-on in this way until you find the one that stops Internet Explorer from working. Once you find it, disable it again. If you need it, contact the vendor for support.
@@ -100,16 +93,16 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432efcb9088.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b1daa19ee7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -119,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Allow Chrome**through Windows Defender Firewall**
 
  Sometimes the denied access to the Internet is another culprit for our**Chrome locked up** problem. To**allow Chrome through** **Windows Defender Firewall** :
@@ -126,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc8
  1) On your keyboard, press **the Windows logo key**  and **R** at the same time. Then copy & paste**control firewall.cpl** into the box and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4322c4421a9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click **Allow an app or feature through Windows Defender Firewall** .
 
@@ -151,13 +158,6 @@ To do so:
 2. In the top right, click on **the three vertical dots** button > **help** \>**About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    * If yes, follow the on-screen instruction to finish the update.  
    * If no, delete Chrome and re-install it on Windows store or other trustworthy third-party website. (**NOTE** : This will erase your Chrome browser settings and data)
@@ -186,20 +186,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-affordable-accessible-top-10-budget-friendly-mobile-viewing-apps/"><u>[Updated] Affordable, Accessible Top 10 Budget-Friendly Mobile Viewing Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-iphone-videography-strategies-to-elevate-your-work-top-8-for-2024/"><u>Expert iPhone Videography Strategies to Elevate Your Work (Top 8) for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-network-change-noted-alert-on-your-device/"><u>How to Resolve 'Network Change Noted' Alert on Your Device</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-collect-premium-audio-for-video-editors/"><u>In 2024, Collect Premium Audio for Video Editors</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-navigating-the-world-of-file-conversion-in-vlc-starting-with-mp4/"><u>In 2024, Navigating the World of File Conversion in VLC, Starting with MP4</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-obs-gaming-screens-blackout-issue-solutions-and-best-practices/"><u>Mastering OBS Gaming Screens - Blackout Issue Solutions and Best Practices</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-and-effective-solutions-to-your-ps4-nat-error-woes-complete-walkthrough/"><u>Quick and Effective Solutions to Your PS4 NAT Error Woes - Complete Walkthrough</u></a></li>
-<li><a href="https://blog-min.techidaily.com/resize-avi-videos-to-smaller-sizes-with-enhanced-quality-using-avi-video-resizer/"><u>Resize AVI Videos to Smaller Sizes with Enhanced Quality Using AVI Video Resizer</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repairing-the-usb-device-not-recognized-and-port-reset-failure-in-windows-11/"><u>Step-by-Step Guide to Repairing the USB Device Not Recognized and Port Reset Failure in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-resetting-your-laptops-orientation-after-accidental-rotation/"><u>Step-by-Step Solution: Resetting Your Laptop's Orientation After Accidental Rotation</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-reconnecting-your-media-on-windows-devices/"><u>Step-by-Step Solutions: Reconnecting Your Media on Windows Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tips-and-tricks-to-attract-product-sponsors-to-your-youtube-channel-for-2024/"><u>Tips and Tricks to Attract Product Sponsors to Your Youtube Channel for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-windows-11-and-10s-troublesome-error-code-0x80amooragef/"><u>Ultimate Fixes for Windows 11 and 10'S Troublesome Error Code 0X80amooragef</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/windows-1011-pc-4/"><u>Windows 10/11 PC用の高性能音声記録ソフトウェア 上位4推薦</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-premier-manual-leveraging-mobizens-full-potential-for-mobile-capture/"><u>[New] In 2024, Premier Manual Leveraging Mobizen's Full Potential for Mobile Capture</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-worldwide-top-earners-in-the-streaming-sphere/"><u>[Updated] Worldwide Top Earners in the Streaming Sphere</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-windows-file-glance-fast-assessment-technique/"><u>2024 Approved Window's File Glance Fast Assessment Technique</u></a></li>
+<li><a href="https://common-error.techidaily.com/combat-high-cpu-load-from-desktop-window-manager-with-these-5-powerful-windows-1110-tweaks/"><u>Combat High CPU Load From Desktop Window Manager with These 5 Powerful Windows 11/10 Tweaks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/discover-the-ultimate-selection-of-freeware-for-dvd-extraction-and-playback-zero-wraps-full-features/"><u>Discover the Ultimate Selection of Freeware for DVD Extraction and Playback – Zero Wraps, Full Features!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-updated-windows-11-interface-for-2024/"><u>Exploring the Updated Windows 11 Interface for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-geforce-experience-error-how-to-restore-missing-configuration/"><u>Fixing GeForce Experience Error: How to Restore Missing Configuration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-an-artificial-intelligence-recommended-my-latest-reading-adventure/"><u>How an Artificial Intelligence Recommended My Latest Reading Adventure</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-microsoft-print-to-pdf-problem-on-windows-11-devices/"><u>How To Troubleshoot 'Microsoft Print to PDF' Problem on Windows 11 Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-iphone-sewindowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your iPhone SE/Windows/Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/is-d3d-device-loss-causing-unreal-to-exit/"><u>Is D3D Device Loss Causing Unreal to Exit?</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-digital-connections-strategies-for-facebook-twitter-instagram-and-youtube-success/"><u>Mastering Digital Connections: Strategies for Facebook, Twitter, Instagram, and Youtube Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-update-alert-do-you-need-a-d3d11-compatible-graphics-card-for-optimal-performance/"><u>System Update Alert: Do You Need a D3D11 Compatible Graphics Card for Optimal Performance?</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-expert-solution-when-your-tablet-is-plugged-in-but-not-charging-now-fixed/"><u>The Expert Solution: When Your Tablet Is Plugged In But Not Charging - Now Fixed!</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-restoring-windows-11s-corrupt-data-files/"><u>The Ultimate Guide to Restoring Windows 11'S Corrupt Data Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-how-to-resolve-driverpowerstatefailure-malfunctions/"><u>Troubleshooting Tips: How to Resolve DRIVER_POWER_STATE_FAILURE Malfunctions</u></a></li>
 </ul></div>
 

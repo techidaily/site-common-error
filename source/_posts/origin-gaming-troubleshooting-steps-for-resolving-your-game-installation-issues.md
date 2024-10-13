@@ -1,7 +1,7 @@
 ---
 title: "Origin Gaming: Troubleshooting Steps for Resolving Your Game Installation Issues"
-date: 2024-10-01T02:22:13.613Z
-updated: 2024-10-06T23:56:05.585Z
+date: 2024-10-08T21:18:09.856Z
+updated: 2024-10-12T18:43:53.082Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run Warframe as an administrator
 
  Running the launcher as an administrator can fix anything related to the file-write permission issues.
@@ -65,22 +58,15 @@ To do this:
 ![run as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-administrator-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Under the**Settings** section, click**Run this program as an administrator** . Then click**Apply** .  
   
 ![run Warframe as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-administrator-3-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After applying the changes, try relaunching Warframe.
 
@@ -111,13 +97,6 @@ After applying the changes, try relaunching Warframe.
  You can type**ethernet** on the**Search** box, and click**Ethernet settings** from the result.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/ethernet-settings-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Under the**Ethernet** section, you can see if it’s connected or not.  
   
@@ -154,6 +133,13 @@ ethernet
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Repair/ Update Microsoft Visual C++ Redistributable
 
  If the internet connection isn’t your problem, having your Microsoft Visual C++ Redistributable fixed might work for you.
@@ -169,6 +155,13 @@ Both the repairing and updating might work. So just choose one of them.
 
 ![open control panel ](https://images.drivereasy.com/wp-content/uploads/2020/09/open-control-panel-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Programs and Features**
 
 ![repair download packages; Warframe update failed](https://images.drivereasy.com/wp-content/uploads/2020/09/program-and-features.jpg)
@@ -177,26 +170,40 @@ Both the repairing and updating might work. So just choose one of them.
 
 ![repair Microsoft Visual C++; update failed; Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/click-Microsoft-Visual-C.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right-click on it and click**Change** .
 
 ![repair Microsoft Visual C++](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) When the**Modify Setup** window pops up, click**Repair** .
 
 ![repair Microsoft Visual C++; update failed; Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) When you’re asked “Do you want to allow this app to make changes to your device?”, click**Yes** .
 
  7) Click**Close** when the repairing is finished.
 
 ![repair Microsoft Visual C++; update failed; Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/repair-Microsoft-Visual-C-3-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### **Update Microsoft Visual** **C++**
 
@@ -228,14 +235,20 @@ Both the repairing and updating might work. So just choose one of them.
 
 ![change settings Warframe](https://images.drivereasy.com/wp-content/uploads/2020/09/change-the-launcher-settings.jpg)
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 7: Verify the download cache
 
@@ -249,22 +262,15 @@ Both the repairing and updating might work. So just choose one of them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-Warframe-download-cache-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Till then, relaunch your game and update it to check if the issue still occurs.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Other fixes
@@ -306,20 +312,24 @@ To use a VPN service, you need to download a VPN application.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-10-pivotal-tactics-for-striking-podcast-covers/"><u>[New] 10 Pivotal Tactics for Striking Podcast Covers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-best-practice-animation-series-for-2024/"><u>[New] Best Practice Animation Series for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-foremost-gallery-storage-solutions/"><u>[New] Foremost Gallery Storage Solutions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unlocking-tv-potential-with-social-medias-facebook-live-streams-for-2024/"><u>[New] Unlocking TV Potential with Social Media's Facebook Live Streams for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-microsoft-compatibility-telemetry-high-disk-usage-on-windows-11/"><u>[Solved] Microsoft Compatibility Telemetry High Disk Usage on Windows 11</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-the-easy-guide-to-enhancing-images-via-iphone-cropping/"><u>2024 Approved The Easy Guide to Enhancing Images via iPhone Cropping</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhance-windows-7-boot-speed-with-proven-strategies-overcome-system-lags-easily/"><u>Enhance Windows 7 Boot Speed with Proven Strategies: Overcome System Lags Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/ensuring-smooth-gameplay-how-to-address-steam-download-problems-efficiently/"><u>Ensuring Smooth Gameplay: How to Address Steam Download Problems Efficiently</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-oneplus-open-by-drfone-android/"><u>How To Fix OEM Unlock Missing on OnePlus Open?</u></a></li>
-<li><a href="https://win-able.techidaily.com/immortals-fenyx-rising-the-delay-is-over-adventure-awaits/"><u>Immortals Fenyx Rising - The Delay Is Over, Adventure Awaits</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/no-more-interruptions-back-4-blood-stops-crashing-on-your-computer/"><u>No More Interruptions: Back 4 Blood Stops Crashing on Your Computer!</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-window-speaker-distortion-issues-on-windows-11-and-7-systems/"><u>Solving Window Speaker Distortion Issues on Windows 11 and 7 Systems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/speedy-shots-for-immersive-narratives/"><u>Speedy Shots for Immersive Narratives</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tips-for-solving-persistent-usb-device-unplugging-issues/"><u>Step-by-Step Tips for Solving Persistent USB Device Unplugging Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-your-microsoft-store-refuses-to-start-up/"><u>Troubleshooting Tips for When Your Microsoft Store Refuses to Start Up</u></a></li>
+<li><a href="https://common-error.techidaily.com/pc-prowess-solving-dll-errors-in-win/"><u>[PC Prowess] Solving DLL Errors in Win</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-enhancing-social-media-visibility-with-quality-livestreams-on-wirecast/"><u>[Updated] 2024 Approved Enhancing Social Media Visibility with Quality Livestreams on Wirecast</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-elevating-your-nba-experience-with-advanced-streaming-for-2024/"><u>[Updated] Elevating Your NBA Experience with Advanced Streaming for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-guide-how-to-refresh-lenovo-chipset-and-cpu-drivers/"><u>Effortless Guide: How to Refresh Lenovo Chipset & CPU Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/experience-seamless-updates-your-ultimate-solution-for-fixing-error-0x80070002-on-windows/"><u>Experience Seamless Updates: Your Ultimate Solution for Fixing Error 0X80070002 on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-how-to-eliminate-the-infamous-error-0x80072efd-on-your-windows-11-machine/"><u>Expert Advice: How to Eliminate the Infamous 'Error 0X80072EFD' On Your Windows 11 Machine</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-unknown-usb-device-and-port-reset-failed-errors-in-windows-10-easily/"><u>Fixing the 'Unknown USB Device' And 'Port Reset Failed' Errors in Windows 10 Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reactivate-disabled-internet-connection-on-your-pc-or-mobile-step-by-step-solution/"><u>How to Reactivate Disabled Internet Connection on Your PC or Mobile - Step by Step Solution!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-moto-g24-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Moto G24</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-reactivate-video-playback-in-sony-a6400/"><u>In 2024, How to Reactivate Video Playback in Sony A6400</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-your-potential-with-these-influential-biz-video-hubs/"><u>In 2024, Unlock Your Potential with These Influential Biz Video Hubs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-the-newest-graphics-card-software-nvidias-geforce-nv-210-drivers-on-windows-11/"><u>Installing the Newest Graphics Card Software: NVIDIA's GeForce Nv 210 Drivers on Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/large-studiofx-lighting-kit-reliability-and-brilliance/"><u>Large StudioFX Lighting Kit: Reliability & Brilliance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-correcting-dysfunctional-amazon-prime-video-subtitles/"><u>Mastering the Art of Correcting Dysfunctional Amazon Prime Video Subtitles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/next-gen-display-top-5-hdmi-21-infinity-refresh-monitors-ps5-for-2024/"><u>Next-Gen Display Top 5 HDMI 2.1 Infinity Refresh Monitors [PS5] for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-the-errsslprotocol-message-on-google-chrome/"><u>Resolved: Fixing the 'Err_SSL_Protocol' Message on Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-hardware-anomaly-livekernelevent-141/"><u>Solving Hardware Anomaly: LiveKernelEvent 141</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-optimizing-slow-boots-in-windows-7-systems/"><u>Troubleshooting and Optimizing Slow Boots in Windows 7 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-a-broken-laptop-microphone-guides-and-tips/"><u>Troubleshooting and Repairing a Broken Laptop Microphone - Guides & Tips</u></a></li>
 </ul></div>
 

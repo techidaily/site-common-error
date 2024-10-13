@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: How To Get Non-Responsive Chrome Working Again"
-date: 2024-10-02T23:59:43.982Z
-updated: 2024-10-07T10:28:00.750Z
+date: 2024-10-09T23:16:01.908Z
+updated: 2024-10-12T23:05:39.052Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
 5. **[Give administrator privileges to Steam](#F5)**
 6. **[Want us to fix the problem for you?](#F6)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: End  igfxEm Module in Task Manager
 
  Killing **igfxEm Module** , as reported by most users, is one of the most effective methods in solving this **Steam missing file privileges** problem. To do so:
@@ -46,10 +53,16 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/igfxem-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Re-launch Steam, download/update the game again, and see if it works.
@@ -73,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/c2838348b746990136e05e229d4b40bfea769dde8
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 3: Repair Steam Library Folder**
@@ -122,10 +135,10 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Give administrator privileges to Steam
@@ -135,16 +148,10 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)  and **R** at the same time. Then copy & paste **%ProgramFiles(x86)%** into the box and click **OK** .
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/programfile.jpg)
@@ -152,22 +159,16 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
  2) Right-click on**Steam** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/steam2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Security** \>**Advanced** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44509268b60.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Make sure**the first two rows** are granted**Full control** . If not, click edit to change accordingly.
 
@@ -178,28 +179,15 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Want us to fix the problem for you?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10e3465cf33.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the fix above didn’t work, and you don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you. All you need to do is[**buy a 1-year subscription to Driver Easy**](https://tools.techidaily.com/drivereasy/download/)   (just $29.95) and you get free technical support as part of your purchase. This means you can contact our computer technicians directly and explain your problem, and they’ll investigate to see if they can resolve it remotely.
 
@@ -225,18 +213,22 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-capture-your-pc-hp-laptop-screen-recording-guide/"><u>[Updated] Capture Your PC HP Laptop Screen Recording Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-narzo-60-pro-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme Narzo 60 Pro 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-repair-techniques-for-nonfunctioning-multi-touch-swipe-options/"><u>DIY Repair Techniques for Nonfunctioning Multi-Touch Swipe Options</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-nvidia-rtx-2060-super-drivers-for-smooth-performance-on-windows-11-free-download/"><u>Get the Latest NVIDIA RTX 2060 Super Drivers for Smooth Performance on Windows 11 – Free Download</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hdr-techniques-for-photoshop-pros-a-step-by-step-guide-for-2024/"><u>HDR Techniques for Photoshop Pros A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to Fix Life360 Shows Wrong Location On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-15-pro-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 15 Pro without Passcode or Face ID</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-introduction-to-basic-storytelling-constructs/"><u>In 2024, Introduction to Basic Storytelling Constructs</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-when-your-overwatch-microphone-fails-solutions-inside/"><u>Quick Fixes for When Your Overwatch Microphone Fails - Solutions Inside!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixes-for-unresponsive-google-chrome-issues/"><u>Resolved: Fixes for Unresponsive Google Chrome Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-loadlibrary-failure-error-understanding-and-fixing-code-1114/"><u>Solving the LoadLibrary Failure Error - Understanding and Fixing Code 1114</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-when-your-keyboard-lights-wont-turn-on/"><u>Troubleshooting Guide: When Your Keyboard Lights Won't Turn On</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-videodxgkrnl-crashes-in-windows-environments/"><u>Troubleshooting Tips for Fixing 'Video_Dxgkrnl' Crashes in Windows Environments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-tips-for-producing-engaging-educational-content-for-youtube/"><u>[New] In 2024, Essential Tips for Producing Engaging Educational Content for YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-safe-methods-transforming-youtube-audio-into-mp3-files-efficiently/"><u>[New] Safe Methods Transforming YouTube Audio Into MP3 Files Efficiently</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-dji-phantom-3-standard-vs-advanced-vs-professional-vs-4k/"><u>[Updated] In 2024, DJI Phantom 3 Standard Vs. Advanced Vs. Professional Vs. 4K</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-journey-just-beginning-how-to-unlock-ifunny-memes/"><u>[Updated] In 2024, Journey Just Beginning How to Unlock iFunny Memes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-liberty-cam-studios-features-and-functionality-for-2024/"><u>[Updated] Liberty Cam Studio's Features and Functionality for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/behind-chatgpt-revolutionizing-creativity-through-ai/"><u>Behind ChatGPT: Revolutionizing Creativity Through AI</u></a></li>
+<li><a href="https://common-error.techidaily.com/clarified-response-handling-non-writable-memory-situations-in-location-x/"><u>Clarified Response: Handling Non-Writable Memory Situations in Location X</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-tips-seamless-migration-to-macos-ventura/"><u>Expert Tips: Seamless Migration to macOS Ventura</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcoming-device-not-present-errors-with-windows-operating-systems-code-24-fix/"><u>Guide to Overcoming 'Device Not Present' Errors with Windows Operating Systems (Code 24 Fix)</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-your-gaming-experience-tips-for-increasing-frames-per-second-fps-in-rust/"><u>Optimize Your Gaming Experience: Tips for Increasing Frames Per Second (FPS) in Rust</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-step-by-step-guide-to-repairing-the-red-screen-error/"><u>Resolved: Step-by-Step Guide to Repairing the Red Screen Error</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/screen-recorder-no-time-limits/"><u>Screen Recorder No Time Limits</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-disabling-wireless-capability-on-electronics/"><u>Solving the Problem of Disabling Wireless Capability on Electronics</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210166882-solving-the-ps4s-notorious-ce-34878-0-glitch-steps-and-tips-inside/"><u>Solving the PS4's Notorious CE-34878-0 Glitch – Steps & Tips Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-step-by-step-get-your-airpods-working-with-windows/"><u>Troubleshooting Step-by-Step: Get Your AirPods Working with Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-the-lack-of-pen-and-touch-input-on-your-screen/"><u>Troubleshooting: Fixing the Lack of Pen and Touch Input on Your Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-the-causes-behind-a-non-starting-personal-computer/"><u>Understanding the Causes Behind a Non-Starting Personal Computer</u></a></li>
 </ul></div>
 

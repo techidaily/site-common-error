@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Restoring Functionality for Broken Login Keyboards"
-date: 2024-09-13T16:03:46.495Z
-updated: 2024-09-15T16:04:30.964Z
+date: 2024-10-11T02:36:04.003Z
+updated: 2024-10-13T01:14:42.061Z
 tags:
   - win11
   - win10
@@ -76,8 +76,24 @@ Now you’ve reset your keyboard language.
 1. Click the Apple icon on the topper left corner and click**System Preferences** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Snap841.jpg)
 2. Click**Keyboard** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/keyboard.jpg)
 3. Click**Modifier Keys** in the bottom right corner.  
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/modi.jpg)
 4. Click**Restore Defaults** and then click**OK** .
 
@@ -88,8 +104,24 @@ Your keyboard should be back in the default settings.
 1. Click the Apple icon on the topper left corner and click**System Preferences** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/Snap841.jpg)
 2. Click**Language and Region** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/lugange.jpg)
 3. Select the language you want.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Wait for the computer to reboot.
 
 ## Hard Reset
@@ -123,12 +155,24 @@ Your keyboard should be reset successfully.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/rofessional-choice-high-quality-laptops-for-media-workers-for-2024/"><u>[New] Professional Choice High-Quality Laptops for Media Workers for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-engagement-the-list-of-todays-hot-instagram-hashtags/"><u>[Updated] Elevate Engagement The List of Today's Hot Instagram Hashtags</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-precision-recording-gopro-5-against-sj7/"><u>[Updated] Precision Recording GoPro 5 Against SJ7</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-easy-to-remember-chrome-os-snapshot-tips/"><u>2024 Approved Easy-to-Remember Chrome OS Snapshot Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-first-steps-in-av1-coders/"><u>2024 Approved First Steps in AV1 Coders</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-methods-how-to-disassociate-all-songs-from-your-playlist-history-on-spotify/"><u>Comprehensive Methods: How To Disassociate All Songs From Your Playlist History On Spotify</u></a></li>
+<li><a href="https://common-error.techidaily.com/dell-webcam-wont-work-on-windows-heres-how-to-fix-it/"><u>Dell Webcam Won't Work on Windows? Here's How to Fix It!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-network-issues-a-guide-to-dealing-with-unavailable-dhcp-servers/"><u>Fixing Network Issues: A Guide to Dealing with Unavailable DHCP Servers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/gaming-gain-graph-finns-financial-flux/"><u>Gaming Gain Graph Finn's Financial Flux</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/microsoft-store-opens-successfully-after-previous-problems-corrected/"><u>Microsoft Store Opens Successfully After Previous Problems Corrected</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-high-system-host-process-svchostexe-cpu-use-in-windows-11/"><u>Step-by-Step Solutions for High System Host Process (svchost.exe) CPU Use in Windows 11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers/"><u>Streamline Your Cloud Strategy Expert Recommendations for Top 20 Free Providers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-unresponsive-space-bar-key-in-windows-10/"><u>Troubleshooting the Unresponsive Space Bar Key in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208764067-win-10-high-cpu-drain-by-svchostexe-heres-how-to-optimize-it/"><u>Win 10 High CPU Drain by svchost.exe? Here’s How to Optimize It</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209586910-windows-10-blurry-text-heres-how-to-fix-it/"><u>Windows 10 Blurry Text? Here’s How to Fix It.</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-users-solve-your-youtube-sound-error-for-seamless-video-streaming/"><u>Windows 10 Users! Solve Your YouTube Sound Error for Seamless Video Streaming</u></a></li>
+</ul></div>
 

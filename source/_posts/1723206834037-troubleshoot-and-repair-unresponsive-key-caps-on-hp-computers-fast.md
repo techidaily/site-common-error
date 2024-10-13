@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot & Repair Unresponsive Key Caps on HP Computers - Fast!
-date: 2024-09-11T16:01:20.112Z
-updated: 2024-09-15T16:02:30.654Z
+date: 2024-10-06T01:53:52.882Z
+updated: 2024-10-13T01:23:02.279Z
 tags:
   - win11
   - win10
@@ -36,6 +36,19 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 4. [**Update your audio driver**](#F4)
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
 
@@ -72,33 +85,19 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd832a7341af.jpg)
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
@@ -120,9 +119,23 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -154,5 +167,24 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-download-vimeo-videos-2024/"><u>[New] How to Download Vimeo Videos 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-bring-back-the-sparkle-applying-instagram-effects-retro-style-for-2024/"><u>[Updated] Bring Back the Sparkle Applying Instagram Effects Retro Style for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-15-tips-for-accessing-nba-games-online/"><u>[Updated] In 2024, Top 15 Tips for Accessing NBA Games Online</u></a></li>
+<li><a href="https://facebook.techidaily.com/driving-growth-with-a-robust-list-of-work-clients-via-facebook/"><u>Driving Growth with a Robust List of Work Clients via Facebook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eradicate-the-persistent-asus-screen-squirm/"><u>Eradicate the Persistent ASUS Screen Squirm</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-224003-no-more-unblock-your-videos-for-seamless-viewing/"><u>Error Code 224003 No More! Unblock Your Videos for Seamless Viewing</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-message-1603-explained-fixing-deadly-installation-issues-for-good/"><u>Error Message 1603 Explained: Fixing Deadly Installation Issues for Good</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-lost-wireless-connectivity-a-comprehensive-solution-guide/"><u>Fixing Lost Wireless Connectivity: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-the-sound-back-fixing-inactive-mics-in-oculus-quest-2-headsets/"><u>Getting the Sound Back: Fixing Inactive Mics in Oculus Quest 2 Headsets</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-hazy-days-no-more-ensuring-clean-gopro-images/"><u>In 2024, Hazy Days No More Ensuring Clean GoPro Images</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-stream-on-the-go-youtube-via-mobile-for-understaffed-creators/"><u>In 2024, Stream on the Go YouTube via Mobile for Understaffed Creators</u></a></li>
+<li><a href="https://common-error.techidaily.com/missing-microsoft-c-runtime-library/"><u>Missing Microsoft C Runtime Library</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/nvidia-geforce-rtx-2070-updated-driver-download-for-windows-11-8-and-earlier-versions/"><u>NVIDIA GeForce RTX 2070: Updated Driver Download for Windows 11, 8 & Earlier Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-to-minecraft-delays-expert-tips-for-optimizing-your-play-experience/"><u>Say Goodbye to Minecraft Delays - Expert Tips for Optimizing Your Play Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-techniques-to-overcome-windows-update-stuck-on-0/"><u>Simple Techniques to Overcome Windows Update Stuck on 0%</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-the-persistent-windows-0x80eb0490-update-error/"><u>Troubleshooting and Solving the Persistent Windows 0X80eb0490 Update Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functioning-laptop-mousepad-on-windows-11-8-and-7/"><u>Troubleshooting Guide: How to Fix a Non-Functioning Laptop Mousepad on Windows 11, 8 & 7</u></a></li>
+</ul></div>
 

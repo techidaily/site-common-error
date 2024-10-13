@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fix Guide to the Frustrating 0X80070490 Windows Update Bug
-date: 2024-09-18T18:09:33.469Z
-updated: 2024-09-20T16:43:37.311Z
+date: 2024-10-09T04:19:45.722Z
+updated: 2024-10-13T04:29:46.417Z
 tags:
   - win11
   - win10
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181cc9eb3f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Change time zone** to make sure that the time zone is correct, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181f1e2bac.jpg)
@@ -69,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
  4) Click the**Internet Time** tab at the top, then click**Change Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018705735c3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Make sure to check the box next to**Synchronize with an Internet time server** , and click**Update now** , then click**OK** .
 
@@ -87,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
  2) Respectively type**time** ,**date** , and **w32tm/resync**  in the window, and press**Enter** after each command. If the time and date are incorrect after running, you can type the correct time and date in the window and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0266f185a5c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) After the commands complete, restart your computer and try Windows Update again to see if it works.
 
@@ -116,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-10_11-51-40-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2: Delete the Software Distribution Folder
 
  1) Double-click the drive where your Windows is installed, generally in**C drive** .
@@ -139,10 +167,10 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017371df6a8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click Windows Update (if you are using Windows XP, right-click**Automatic Updates** ), and click**Start** .
@@ -167,13 +195,6 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0175eea504b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Then it will run and try to fix the problem. After completing, restart your computer and try Windows Update again to see if it works.
 
 ---
@@ -191,10 +212,10 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7816a3da385.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Go to   _**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade** ._
@@ -203,31 +224,31 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7817546e624.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Right-click the newly created**NewValue#1** and select**Modify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a78180511caf.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Change the value name to **AllowOSUpgrade** , after which you can double-click the number under Value data and enter**1** . Select **Hexadecimal** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a781900ea1c1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7) Restart your computer and try again to see if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Bonus Tip: Update device drivers**
 
@@ -274,5 +295,26 @@ thumbnail: https://thmb.techidaily.com/fa8c86c87f3c1271d21091d603f6092e646d5c6b0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2023-fb-live-recorder-for-2024/"><u>[New] 2023 FB Live Recorder for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-hdr-vs-sdr-a-visual-spectrum-showdown-for-2024/"><u>[New] HDR vs SDR A Visual Spectrum Showdown for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715939130037-new-in-2024-how-to-record-audio-with-audacity-on-mac/"><u>[New] In 2024, How to Record Audio with Audacity on Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-clearing-up-blackouts-in-facebook-live-streams-using-top-browsers/"><u>[Updated] Clearing Up Blackouts in Facebook Live Streams Using Top Browsers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-craft-a-memorable-youtube-channel-brand-for-more-viewers/"><u>[Updated] In 2024, Craft a Memorable YouTube Channel Brand for More Viewers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pursuing-perfection-in-lengthy-iphone-photography/"><u>[Updated] Pursuing Perfection in Lengthy iPhone Photography</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-connectivity-issues-in-wacom-drawing-tablets/"><u>Diagnosing and Fixing Connectivity Issues in Wacom Drawing Tablets</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-netflix-connectivity-problems-tips-for-smooth-viewing/"><u>Diagnosing Netflix Connectivity Problems – Tips for Smooth Viewing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-task-execution-with-these-4-powerful-chatgpt-methods/"><u>Enhance Task Execution with These 4 Powerful ChatGPT Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-blue-screen-error-0xc00000e9-on-windows-computers/"><u>Expert Tips for Repairing Blue Screen Error 0Xc00000e9 on Windows Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-x3daudio17dll-error-play-games-smoothly/"><u>Fix X3DAudio1_7.dll Error, Play Games Smoothly</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-asus-laptops-malfunctioning-fn-control-keys-a-step-by-step-guide/"><u>Fixing ASUS Laptop's Malfunctioning FN Control Keys – A Step by Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-graphics-device-not-available-d3derr-in-your-software/"><u>How to Fix 'Graphics Device Not Available' (D3DERR) in Your Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-spectre-x360-driver-software-for-optimal-windows-performance/"><u>HP Spectre X360 Driver Software for Optimal Windows Performance</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-master-pip-feature-while-consuming-youtube-videos-on-iphones/"><u>In 2024, Master PIP Feature While Consuming YouTube Videos on iPhones</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/jolly-juvenile-auto-antics-for-2024/"><u>Jolly Juvenile Auto Antics for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-unidentified-usb-complications-with-port-resets-failures-on-windows-10/"><u>Overcoming Unidentified USB Complications with Port Resets Failures on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-audio-outputs-how-to-bring-back-sounds-to-an-acer-laptop/"><u>Restoring Audio Outputs: How to Bring Back Sounds to an Acer Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/usb-woes-no-more-fix-your-unknown-device-port-reset-failed-on-windows-11-with-these-expert-tips/"><u>USB Woes No More! Fix Your 'Unknown Device (Port Reset Failed)' On Windows 11 with These Expert Tips</u></a></li>
+</ul></div>
 

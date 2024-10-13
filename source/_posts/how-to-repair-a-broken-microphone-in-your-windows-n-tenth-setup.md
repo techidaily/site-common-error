@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Broken Microphone in Your Windows N-Tenth Setup
-date: 2024-10-04T00:52:54.992Z
-updated: 2024-10-07T07:55:24.123Z
+date: 2024-10-09T22:26:32.101Z
+updated: 2024-10-13T02:14:17.543Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/223b2cd84b554fcba98d5372ea1d3dd821fdb509b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 6. After the scanning process is completed, Fortect will provide you with the PC scan summary.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there’s any issue, then click the START REPAIR button on the lower-right corner, and with just one click, Fortect will start repairing the Windows OS on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)  
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
@@ -86,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/223b2cd84b554fcba98d5372ea1d3dd821fdb509b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-check-for-updates.jpg)
 3. Wait until Windows downloads and installs all the updates.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart Windows to see if your PC will get stuck on the screen of “Preparing to configure Windows” again. It’s recommended that you**plug in your PC** and give your Windows system a whole night to configure all the updates. Normally, a whole night is enough for your Windows system to handle all these updates.
 
  If your PC still gets stuck when you wake up, you should **follow the instruction above to perform a hard reboot and then try the next fix** .
@@ -106,37 +106,24 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 2. Select the **Services**  tab, check   **Hide all Microsoft services**  and then click **Disable all**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-4.jpg)
 3. Select the **Startup**  tab and click **Open Task Manager**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8-4.jpg)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-4.jpg)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-5.jpg)
 6. Click **Restart**  to restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-4.jpg)
 7. Perform a Windows update again after restarting Windows.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    1. On your keyboard, press**the Windows logo key** and type**windows update** . In the list of search results, select**Check for updates** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/check-for-updates.jpg)  
@@ -145,10 +132,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
    3. Wait until Windows downloads and installs all the updates.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Restart your PC when Windows installed all the updates to see if this issue persists.
@@ -166,30 +153,52 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 2. Ensure **the Protection status** of the local disk drive that has your Windows system installed on is**On** . Then click**System Restore…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap13-1.jpg)  
  If**the Protection status** of the local drive that has your Windows system installed on is**Off** , it indicates that you have**disabled** the system restore feature on this drive.
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select**Choose a different restore point**  and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap14-4.jpg)
 4. Check the box next to **Show more restore points** . Select the restore point that is created just**before you run into this issue** and then click**Next** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap16-4.jpg)
 5. Click**Finish** to confirm your restore point.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap17-3.jpg)
 6. Click**Yes** to start restoring your Windows system.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap18-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After restoring your Windows system, this annoying issue should be resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Bonus tip: Update your driver to the latest version**
@@ -209,14 +218,14 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap19-2.jpg)
 3. Click **Update**  next to your device to automatically download the correct version of this driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All**  ).
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap20-3.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap20-3.jpg)
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -243,19 +252,24 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-nocturnal-tales-on-the-silver-screen/"><u>[New] In 2024, Nocturnal Tales on the Silver Screen</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-best-10-customizable-filters-for-personalized-videos/"><u>[Updated] Best 10 Customizable Filters for Personalized Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-quest-for-superior-video-playback-software/"><u>2024 Approved The Quest for Superior Video Playback Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723862817622-alienware-aw2725df-360hz-the-ultimate-battlefield-companion-unleashed-on-an-eye-popping-oled-screen/"><u>Alienware AW2725DF 360Hz: The Ultimate Battlefield Companion Unleashed on an Eye-Popping OLED Screen!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-xr-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone XR After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-best-note-taking-solutions-our-expert-picks/"><u>Discover the Best Note Taking Solutions : Our Expert Picks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/end-the-woes-of-ntdlldll-dilemma-your-definitive-solution-for-windows-1112/"><u>End the Woes of ntdll.dll Dilemma – Your Definitive Solution for Windows 11/12</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-print-driver-host-service-failure-in-32-bit-applications/"><u>How to Repair 'Print Driver Host Service Failure' In 32 Bit Applications</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-rejuvenate-windows-icon-cache/"><u>Methods to Rejuvenate Windows Icon Cache</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-unwrite-permission-errors-in-targeted-memory-segment-reference-point-0x/"><u>Overcoming Unwrite Permission Errors in Targeted Memory Segment - Reference Point 0X</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-why-windows-11-isnt-displaying-your-wi-fi-options-and-what-to-do/"><u>Resolved: Why Windows 11 Isn't Displaying Your Wi-Fi Options and What To Do</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-randomly-disappearing-connectivity-of-wireless-mice-on-recent-windows-versions/"><u>Ultimate Fixes for Randomly Disappearing Connectivity of Wireless Mice on Recent Windows Versions</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-xml-demystified-unlocking-fcpxs-full-potential/"><u>Updated 2024 Approved XML Demystified Unlocking FCPXs Full Potential</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-upgrade-stuck-at-99-solved/"><u>Windows 10 Upgrade Stuck at 99% [Solved]</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-win10-screen-grabbing-top-quality-captures/"><u>[New] 2024 Approved Win10 Screen Grabbing - Top Quality Captures</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-best-free-youtube-ending-creators-top-6-picks/"><u>[New] In 2024, Best Free YouTube Ending Creators - Top 6 Picks!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-elevating-brand-presence-a-guide-to-influencer-marketing-on-instagram/"><u>[Updated] In 2024, Elevating Brand Presence A Guide to Influencer Marketing on Instagram</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-ultimate-guide-7-preferred-android-ad-blocking-tools/"><u>[Updated] Ultimate Guide 7 Preferred Android Ad Blocking Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-kodi-streaming-service-windows-media-replacement/"><u>2024 Approved Kodi Streaming Service Windows Media Replacement</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-a25-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy A25 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/1728505667395-microsoft-word/"><u>迅速修正：Microsoft Word無法保存文件之疑問</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-diagnosis-addressing-applicationexe-has-stopped-working-issues-successfully/"><u>Error Diagnosis - Addressing 'Application.exe Has Stopped Working' Issues Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-persistent-windows-update-error-code-0x80070490/"><u>How to Resolve the Persistent Windows Update Error (Code 0X80070490)</u></a></li>
+<li><a href="https://common-error.techidaily.com/local-safeguard-protocols-need-activation-action-steps-inside/"><u>Local Safeguard Protocols Need Activation – Action Steps Inside.</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-prolonged-exit-time-for-a-swift-windows-10-shutdown/"><u>Overcoming Prolonged Exit Time for a Swift Windows 10 Shutdown</u></a></li>
+<li><a href="https://win11.techidaily.com/revealing-windows-11s-system-tray-secrets/"><u>Revealing Windows 11'S System Tray Secrets</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/splitscreen-proeditor-for-2024/"><u>SplitScreen ProEditor for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/tear-free-gaming-achieved-fixing-screen-ripples-in-the-battle-of-champions-valorant/"><u>Tear-Free Gaming Achieved: Fixing Screen Ripples in the Battle of Champions, VALORANT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-resolving-401-unauthorized-issues-on-your-website/"><u>Troubleshooting and Resolving '401 Unauthorized' Issues on Your Website</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-issues-with-your-hp-laptops-webcam-on-windows-10/"><u>Troubleshooting Guide: Resolving Issues with Your HP Laptop's Webcam on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207365148-troubleshooting-runtime-brokers-overuse-of-resources-on-windows-10-solved/"><u>Troubleshooting Runtime Broker's Overuse of Resources on Windows 10 - Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-windows-device-path-and-file-accessibility-problems/"><u>Troubleshooting Steps for Windows Device Path and File Accessibility Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-sound-issues-on-your-acer-laptop/"><u>Troubleshooting Steps: Resolving Sound Issues on Your Acer Laptop</u></a></li>
 </ul></div>
 

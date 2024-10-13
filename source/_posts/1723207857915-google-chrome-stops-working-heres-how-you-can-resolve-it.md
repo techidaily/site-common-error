@@ -1,7 +1,7 @@
 ---
 title: Google Chrome Stops Working? Here's How You Can Resolve It!
-date: 2024-09-18T18:40:37.882Z
-updated: 2024-09-20T19:26:28.171Z
+date: 2024-10-07T04:15:25.633Z
+updated: 2024-10-12T21:20:51.404Z
 tags:
   - win11
   - win10
@@ -45,6 +45,19 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df83c76d86.jpg)
 4. Run Chrome and hopefully the**Google Chrome not responding** problem has been sorted. If yes, then great! But if the issue persists, you should try**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ### Fix 2: Turn off Chrome add-ons
@@ -65,6 +78,19 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your drivers
 
  This problem may occur if you are using the wrong or outdated device drivers. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -79,15 +105,22 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b432efcb9088.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b1daa19ee7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
@@ -98,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Allow Chrome**through Windows Defender Firewall**
 
  Sometimes the denied access to the Internet is another culprit for our**Chrome locked up** problem. To**allow Chrome through** **Windows Defender Firewall** :
@@ -114,10 +140,10 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4322c4421a9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Allow an app or feature through Windows Defender Firewall** .
@@ -170,5 +196,22 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-auroras-role-in-enhancing-image-contrast/"><u>[New] Aurora's Role in Enhancing Image Contrast</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-beyond-brand-promotion-real-insights-into-instagram-reels/"><u>[New] In 2024, Beyond Brand Promotion Real Insights Into Instagram Reels</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-reloading-the-dead-ranking-eminent-zombie-games/"><u>[Updated] 2024 Approved Reloading the Dead Ranking Eminent Zombie Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-captureking-high-definition-edition/"><u>[Updated] In 2024, CaptureKing High Definition Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-spark-creativity-get-to-know-windows-11s-movie-maker-app/"><u>[Updated] Spark Creativity Get to Know Windows 11'S Movie Maker App</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203896037-bypassing-trouble-with-windows-network-issue-fix-error-code-0x800704cf-now/"><u>Bypassing Trouble with Windows Network Issue - Fix Error Code 0X800704CF Now</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/deciphering-the-language-of-haptic-interaction/"><u>Deciphering the Language of Haptic Interaction</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-resolution-of-error-code-0x80070002-during-windows-patching-process/"><u>Effortless Resolution of Error Code 0X80070002 During Windows Patching Process</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-7-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 7 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-updates-solving-failure-problems-effectively/"><u>Mastering Windows Updates: Solving Failure Problems Effectively</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-ntoskrnlexe-high-utilization-issues/"><u>Resolving ntoskrnl.exe High Utilization Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-repairing-a-malfunctioning-corsair-keyboard/"><u>Step-by-Step Guide: Repairing a Malfunctioning Corsair Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-for-fixing-no-video-output-errors/"><u>Step-By-Step Troubleshooting for Fixing No Video Output Errors</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-instagrams-magnifying-functions/"><u>The Ultimate Guide to Instagram's Magnifying Functions</u></a></li>
+</ul></div>
 

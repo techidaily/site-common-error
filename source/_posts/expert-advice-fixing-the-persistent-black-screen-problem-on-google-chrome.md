@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Fixing the Persistent Black Screen Problem on Google Chrome"
-date: 2024-09-13T16:02:51.072Z
-updated: 2024-09-15T16:05:22.822Z
+date: 2024-10-06T02:56:54.424Z
+updated: 2024-10-12T22:54:54.568Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 2. **[Update your tablet driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Disable Windows Ink Workspace](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Turn off Sleep Mode
 
  If you have trouble using the XP-Pen pen after waking the computer from the Sleep Mode, try to disable this mode. Here’s how:
@@ -48,11 +55,26 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 2. Select**Small icons** from the drop-down menu next to View by, and click**Power Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2-7.jpg)
 3. Click**Change plan settings** next to your preferred plan.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-3-8.jpg)
 4. Set the time to put the computer to sleep as**Never** and click**Save changes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-4-5.jpg)
 
  After turning off the Sleep Mode, reboot your PC and test if your XP Pen works properly. If not, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your tablet driver
 
@@ -77,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-3.jpg)
 3. Click the**Update** button next to the flagged_Pentablet HID driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/udpate-tablet-driver-de.jpg)
 
@@ -94,10 +123,16 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 2. Navigate to the following path on the left pane:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\WindowsInkWorkspace** .  
@@ -106,28 +141,8 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-3-2.jpg)
 3. On the right pane, double-click the**AllowWindowsInkWorkspace** and set the value data to**0** . Then, click**OK** .  
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2-7.jpg)  
  As above, if you don’t see this setting, right-click any empty space on the right pane and select**New** \>**DWORD (32-bit) Value** . Then name the new key as**AllowWindowsInkWorkspace** and set its value data to**0** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-4-1.jpg)
 4. Restart your PC to apply the changes.
@@ -155,5 +170,26 @@ thumbnail: https://thmb.techidaily.com/7e858d7102e5ef6f6137f0acdeeba112d7b0daf0c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-transform-speech-into-text-the-accurate-google-method/"><u>[New] 2024 Approved Transform Speech Into Text The Accurate Google Method</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-clearing-tactics-for-youtubes-stored-video-queue-for-2024/"><u>[Updated] Clearing Tactics for YouTube's Stored Video Queue for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-top-picks-for-discord-romantic-connections/"><u>[Updated] In 2024, Top Picks for Discord Romantic Connections</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-blueprint-for-youtube-educational-video-success-stories-for-2024/"><u>[Updated] The Blueprint for YouTube Educational Video Success Stories for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-connectivity-errors-with-your-microsoft-wireless-display-on-the-latest-windows-11-update/"><u>Bypass Connectivity Errors with Your Microsoft Wireless Display on the Latest Windows 11 Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/compare-and-conquer-why-ios-chatgpt-wins-over-web/"><u>Compare & Conquer: Why iOS ChatGPT Wins Over Web</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-free-updates-your-ultimate-fix-for-the-notorious-0x80240017-windows-problem/"><u>Error-Free Updates: Your Ultimate Fix for the Notorious 0X80240017 Windows Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-lenovo-keyboard-when-it-stops-responding/"><u>How To Repair Your Lenovo Keyboard When It Stops Responding</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-oppo-a18-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Oppo A18?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-lava-blaze-2-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Lava Blaze 2 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-adsense-potential-in-youtube-content-creation/"><u>In 2024, Unlocking AdSense Potential in YouTube Content Creation</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-typing-hurdles-fixes-for-when-your-backspace-key-fails-to-work/"><u>Overcoming Typing Hurdles: Fixes for When Your 'Backspace' Key Fails to Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-update-glitches-with-ease/"><u>Overcoming Windows Update Glitches with Ease</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/overcooked-2-analysis-gourmet-havoc-unleashed/"><u>Overcooked! 2 Analysis: Gourmet Havoc Unleashed</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-common-crashes-in-call-of-duty-black-ops-4/"><u>Solving the Common Crashes in Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-repairing-a-malfunctioning-corsair-keyboard/"><u>Step-by-Step Guide: Repairing a Malfunctioning Corsair Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-for-fixing-no-video-output-errors/"><u>Step-By-Step Troubleshooting for Fixing No Video Output Errors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tech-savvy-approach-to-downloading-apods-content/"><u>Tech-Savvy Approach to Downloading APods Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-what-to-do-when-your-pc-cant-launch-windows/"><u>Troubleshooting Tips: What To Do When Your PC Can't Launch Windows</u></a></li>
+</ul></div>
 

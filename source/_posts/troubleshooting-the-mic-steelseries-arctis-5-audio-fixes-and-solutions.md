@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting the Mic: SteelSeries Arctis 5 Audio Fixes and Solutions"
-date: 2024-09-13T16:00:04.334Z
-updated: 2024-09-15T16:04:03.712Z
+date: 2024-10-09T21:12:35.111Z
+updated: 2024-10-12T23:14:57.272Z
 tags:
   - win11
   - win10
@@ -45,10 +45,32 @@ Here’s how:
 2. Under the**Allow apps to access your microphon** e section, make sure the toggle is**On** so that you can allow apps access to your microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf21ddde2a88.jpg)
 3. Scroll down to**Choose which apps can access your microphone** and make sure the toggle for Skype is**On** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276d2d207f.jpg)
 4. Check the mic on Skype and see if it works properly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Adjust audio settings in Skype
 
@@ -57,6 +79,14 @@ Here’s how:
 1. In Skype, Click**the three-dot button** and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf275aa63d91.png)
 2. Click**Audio & Video** and make sure the toggle for**Automatically adjust microphone settings** is turn**Off** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf276685aa61.jpg)
 3. Close the window and check if your**Skype microphone not working** issue has been resolved.
 
@@ -78,20 +108,14 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf27e508edd4.jpg)
 4. Restart your computer and check to see if **microphone on Skype not working** problem has been fixed.
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Tweak your audio settings
 
@@ -103,28 +127,22 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf2868dc7336.jpg)
 2. Click the **Recording**   tab, then click on **your microphone device**   and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286a2af01f.jpg)  
  If **no microphone devices shows up in the device list** , then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Click on **your microphone device**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286af0375c.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf286b610643.png)
 5. Click **OK**   to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now that with microphone set as default device and the volume turned up, test in Skype to see if your buddy on the other end of Skype can hear you.
 
 ---
@@ -153,5 +171,18 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-navigating-the-world-of-youtube-titling-and-tagging/"><u>[New] 2024 Approved Navigating the World of YouTube Titling and Tagging</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-3-techniques-to-retrieve-and-save-youtubes-iconic-images/"><u>[Updated] 2024 Approved 3 Techniques to Retrieve & Save YouTube's Iconic Images</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-vac-was-unable-to-verify-the-game-session/"><u>Fix: VAC Was Unable to Verify the Game Session</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-your-camera-back-to-work-on-surface-book-pro-4-after-upgrading-to-windows-11-a-solution-guide/"><u>Getting Your Camera Back to Work on Surface Book (Pro 4) After Upgrading to Windows 11 - A Solution Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-step-by-step-successful-uploads-on-google-podcast/"><u>In 2024, Step-by-Step Successful Uploads on Google Podcast</u></a></li>
+<li><a href="https://common-error.techidaily.com/operation-denied-execution-stopped/"><u>Operation Denied: Execution Stopped</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-windows-update-error-0x80070002-effective-fixes-for-hassle-free-updating/"><u>Overcome Windows Update Error 0X80070002: Effective Fixes for Hassle-Free Updating</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/soundbots-newest-creation-the-sb210-top-notch-winter-audio-experience-when-active/"><u>Soundbot's Newest Creation, The SB210 - Top Notch Winter Audio Experience When Active</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-lenovo-special-characters-key-with-ease/"><u>Troubleshoot Lenovo Special Characters Key with Ease</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncovering-the-calculator-a-windows-11-primer/"><u>Uncovering the Calculator: A Windows 11 Primer</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-local-video-streaming-made-easy-chromecast-setup-for-windows-mac-android-and-ios/"><u>Updated In 2024, Local Video Streaming Made Easy Chromecast Setup for Windows, Mac, Android, and iOS</u></a></li>
+</ul></div>
 

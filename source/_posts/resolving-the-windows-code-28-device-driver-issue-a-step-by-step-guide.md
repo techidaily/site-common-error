@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Windows Code 28 Device Driver Issue: A Step-by-Step Guide"
-date: 2024-09-16T19:25:41.531Z
-updated: 2024-09-20T17:06:45.829Z
+date: 2024-10-06T21:31:28.734Z
+updated: 2024-10-12T17:13:57.366Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
 
  Hope this worked for you. If Windows fails to detect your issue, read on the try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Restart your audio services
 
  This problem is probably caused by the improper status of the audio-related services. To fix it, follow the instructions below:
@@ -65,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-428.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Set the**Startup type** to**Automatic** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-427.png)
@@ -73,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-431.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Back to**step 3 to 5** to set the Startup type of these two services to**Automatic** , then restart them respectively.
 
 **Windows Audio Endpoint Builder**
@@ -80,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/bb9b7157cde51ae69f835473474384e7538166f29
 **Multimedia Class Scheduler**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-436.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Reboot your computer.
 
@@ -120,22 +148,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -161,5 +182,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-viewers-delight-discovering-top-6-engaging-content-formats-for-2024/"><u>[New] Viewer's Delight Discovering Top 6 Engaging Content Formats for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-driven-solutions-unveiled-your-guide-to-understanding-winxvideo-technologies-through-faqs-and-answers/"><u>AI-Driven Solutions Unveiled: Your Guide to Understanding Winxvideo Technologies Through FAQs and Answers</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-port-reset-failures-comprehensive-troubleshooting-for-unidentified-usb-devices-in-windows/"><u>Bypassing Port Reset Failures: Comprehensive Troubleshooting for Unidentified USB Devices in Windows 지급</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-hp-laptops-unresponsive-usb-port-a-step-by-step-guide/"><u>Fixing HP Laptop's Unresponsive USB Port - A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-6s-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 6s Plus Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://common-error.techidaily.com/in-depth-analysis-of-unexpected-shutdown-issues-during-gaming-across-all-windows-versions/"><u>In-Depth Analysis of Unexpected Shutdown Issues During Gaming Across All Windows Versions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-control-center-not-responding-try-these-8-fixes-to-restore-functionality/"><u>IPhone Control Center Not Responding? Try These 8 Fixes to Restore Functionality</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/pathway-to-profitability-with-the-new-youtube-premium-program/"><u>Pathway to Profitability with the New YouTube Premium Program</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-mouse-issues-the-definitive-fix-for-a-broken-right-click/"><u>Resolving Windows 10 Mouse Issues: The Definitive Fix for a Broken Right Click</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-12-complimentary-disk-defragmentation-applications-july-2024-edition/"><u>Top 12 Complimentary Disk Defragmentation Applications - July 2024 Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-reno-9a-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo Reno 9A Screen | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-woes-a-guide-to-fixing-non-detectable-wi-fi/"><u>Win11 Woes: A Guide to Fixing Non-Detectable Wi-Fi</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209256710-windows-10-users-rejoice-comprehensive-guide-to-fixing-your-keyboard-responsiveness-issues/"><u>Windows 10 Users Rejoice: Comprehensive Guide to Fixing Your Keyboard Responsiveness Issues.</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving 'RDR2 Out of Memory' - How to Expand Your Page File Size
-date: 2024-10-05T17:15:00.488Z
-updated: 2024-10-06T19:51:37.877Z
+date: 2024-10-07T00:04:31.722Z
+updated: 2024-10-13T03:40:30.833Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/a2e90f9c59ddfc76d24d52ddf99c58f1453c310ce
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your video card drivers
@@ -71,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/a2e90f9c59ddfc76d24d52ddf99c58f1453c310ce
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using**Driver Easy Pro** to update your drivers, please feel free to drop us an email at**<support@drivereasy.com>** .
@@ -78,19 +85,6 @@ thumbnail: https://thmb.techidaily.com/a2e90f9c59ddfc76d24d52ddf99c58f1453c310ce
  Now launch the game and check whether it runs smoothly. Hopefully it does; but if not, read on and try out the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Modify your video card settings
 
@@ -106,6 +100,13 @@ To modify your video card settings, use the following procedure:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-210.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Now you’re able to modify the settings of this program.
 
  3) Pay attention to the list below**Specify the settings for this program:** . Scroll through the list to locate these items and make the tweaks accordingly:
@@ -117,14 +118,14 @@ Now you’re able to modify the settings of this program.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-209.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-216.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After modifying your graphics card settings, it’s time to check whether these tweaks have solved your lag problem in Fallout 4\. If not, please proceed to the next fix.
 
@@ -139,19 +140,6 @@ Now you’re able to modify the settings of this program.
  2) Set**Resolutions** to the same value as your monitor uses. After that, make sure you check these two boxes:**Windowed Mode** and**Borderless** . Click**OK** to save the changes.
 
 ![This image has an empty alt attribute; its file name is image-215.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-215.png)
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re not sure about the exact resolution of your monitor, you can right-click an empty area on your desktop and select**Display settings** from the context menu. In the pop-up window, take note of the recommended option under**Resolution** , the one that best suits your monitor size.
 
@@ -172,6 +160,13 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
  3) After the file is opened, press**Ctrl + F** on your keyboard to invoke the**Find** dialog box. Then, type in**iPresentInterval** and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-217.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you find out the line, change**iPresentInterval=1** to**iPresentInterval=0** .
 
@@ -196,13 +191,6 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
  Do not close the processes that you’re not familiar with in case you mistakenly stop the important ones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-13_10-51-43.png)
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Disable your antivirus software temporarily. This is optional to you but you can give it a try and see if that mitigates your problem.
 
@@ -230,18 +218,17 @@ C:\Users\YourWindowsName\Documents\My Games\Fallout4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-enigmatic-engagements-in-top-escape-venues/"><u>[New] Enigmatic Engagements in Top Escape Venues</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-navigating-music-production-with-magix-boom-3d-for-2024/"><u>[New] Navigating Music Production with Magix Boom 3D for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-capturemaster-x-overview-evaluation/"><u>[Updated] CaptureMaster X Overview Evaluation</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fixes-for-when-minecraft-wont-start-up-on-a-windows-computer/"><u>Easy Fixes for When Minecraft Won't Start Up on a Windows Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-power-state-failure-in-your-driver-essential-tips-and-solutions/"><u>Fixing Power State Failure in Your Driver: Essential Tips & Solutions</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-honor-90-gt-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor 90 GT Without Password | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-filmora-vs-democreator-a-guide-to-the-best-video-editor/"><u>In 2024, Filmora Vs. Democreator A Guide to the Best Video Editor</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-vcruntime140dll-error-a-step-by-step-troubleshooting-tutorial/"><u>Resolving VCRUNTIME140.dll Error: A Step-by-Step Troubleshooting Tutorial</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-on-safely-downgrading-from-ios-17-to-ios-16-without-data-loss/"><u>Step-by-Step Tutorial on Safely Downgrading From iOS 17 to iOS 16 Without Data Loss</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-definitive-guide-resolving-the-d3derrnotavailable-error-on-your-pc/"><u>The Definitive Guide: Resolving the D3DERR_NOTAVAILABLE Error on Your PC</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722963051877-troubleshoot-your-connection-latest-wireless-driver-fixes-and-downloads/"><u>Troubleshoot Your Connection: Latest Wireless Driver Fixes & Downloads</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-resolving-incorrect-parameter-mistakes-causing-error-87-in-loadlibrary-operations/"><u>Understanding and Resolving Incorrect Parameter Mistakes Causing Error 87 in LoadLibrary Operations</u></a></li>
+<li><a href="https://win-webster.techidaily.com/effiziente-methoden-mehrfach-computer-synchronisation-mit-google-drive/"><u>Effiziente Methoden: Mehrfach-Computer-Synchronisation Mit Google Drive</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-call-of-duty-world-war-ii-error-4220-quickly-and-easily/"><u>Fixing Call of Duty World War II Error 4220 Quickly and Easily</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/from-surviving-to-conquering-top-zombie-games-decoded-for-2024/"><u>From Surviving to Conquering Top Zombie Games Decoded for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-light-functionality-on-your-malfunctioning-corsair-led-keypad/"><u>How to Restore Light Functionality on Your Malfunctioning Corsair LED Keypad</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-file-type-alteration/"><u>Navigating Windows File Type Alteration</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208507104-overcome-missing-bluetooth-feature-problems-in-windows-10-with-easy-fixes/"><u>Overcome Missing Bluetooth Feature Problems in Windows 10 with Easy Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/seamless-viewing-eliminating-the-buffer-interruptions-on-kodi-platform/"><u>Seamless Viewing: Eliminating the Buffer Interruptions on Kodi Platform</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/step-by-step-tutorial-exceeding-the-47gb-limit-for-burning-dvds-on-windows-11-with-images/"><u>Step-by-Step Tutorial: Exceeding the 4.7GB Limit for Burning DVDs on Windows 11 with Images</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207259541-sticky-keyboard-issues-in-windows-heres-how-you-can-get-them-working-smoothly-again/"><u>Sticky Keyboard Issues in Windows? Here's How You Can Get Them Working Smoothly Again!</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/trampas-comunes-y-facil-recuperacion-supera-el-error-del-99-durante-la-configuracion-de-windows-11/"><u>Trampas Comunes Y Fácil Recuperación: Supera El Error Del 99% Durante La Configuración De Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-cod-warzone-pacific-server-crashes-tips-and-fixes/"><u>Troubleshooting Cod: Warzone Pacific Server Crashes – Tips and Fixes</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
 </ul></div>
 

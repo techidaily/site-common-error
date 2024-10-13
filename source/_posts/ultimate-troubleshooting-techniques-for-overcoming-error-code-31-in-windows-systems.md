@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Techniques for Overcoming Error Code 31 in Windows Systems
-date: 2024-10-04T04:04:48.359Z
-updated: 2024-10-07T05:40:54.656Z
+date: 2024-10-08T04:31:10.868Z
+updated: 2024-10-12T18:01:32.176Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 
  _Error Code**0xc0000098**_  o_n Windows 10, 8, 8.1_
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Below you will get to know all possible fixes to solve your boot error 0xc0000098\. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -58,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
  1) Go to **[Windows 10 download](https://www.microsoft.com/en-us/software-download/windows10)**  page. (Or **[Windows 11](https://www.microsoft.com/software-download/windows11) ,** [Windows 8](https://www.microsoft.com/en-us/software-download/windows8ISO) ,[**Windows 7**](https://www.microsoft.com/en-us/software-download/windows7) )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/download-win-10-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Download the installation media and save it on your computer.
 
@@ -92,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/keyboard-bios-keys.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Once in BIOS, go to the**Boot** sector and set**Removable Devices** or**CD-Rom Drive** as the first boot device.
@@ -113,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 4) Go to**Troubleshoot** \>**Advanced Options** \>**Command Prompt** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/command-prompt.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) In Command Prompt, type the following command lines and hit Enter after each command. (There’s a space between**bootrec** and**/** .)
 
@@ -140,16 +147,22 @@ bootrec /rebuildbcd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-repair.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Startup Repair will begin scanning your installation for known issues and will attempt a repair if it finds any.
 
  4) If it fails, you can run Startup Repair again.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: CHKDSK
 
@@ -170,10 +183,16 @@ chkdsk C: /f /r /x
 4) Close Command Prompt and restart your device to check if the Windows system can load up again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: System File Checker
@@ -188,13 +207,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 2) Wait for the scan to finish.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Use a Windows Fortect Tool
 
 **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  Windows repair works by replacing system files automatically. It’s like a clean Windows reinstallation in one hour, without losing any programs, settings, or user data. It can fix the 0xc0000098 error code without a computer restart.
@@ -208,13 +220,6 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
  3) Click**Start Repair** to restore any corrupted files. You will need to purchase a license key to do so and don’t have pressure on it, for it has a 60-day money-back guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Enter your license key and the restoration will begin automatically. Reimage handles all.
 
@@ -251,6 +256,19 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 ##### 2\. Device Manager
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-driver.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In Device Manager, right-click your device and select**Update Driver** then choose search automatically.
 
@@ -302,15 +320,21 @@ sfc /scannow /offbootdir=c:\ /offwindir=c:\windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-cutest-drone-companions-for-little-ones-for-2024/"><u>[New] Cutest Drone Companions for Little Ones for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boosting-viewership-with-animated-subscribe-buttons-in-filmora-easy-guide/"><u>[New] In 2024, Boosting Viewership with Animated Subscribe Buttons in Filmora (Easy Guide)</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-0x80070426-on-windows-11-quick-fix-guide-and-common-causes/"><u>Error Code 0X80070426 on Windows 11: Quick Fix Guide and Common Causes</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208737870-hp-laptop-usb-connection-issues-expert-solutions-to-get-your-port-working-again/"><u>HP Laptop USB Connection Issues? Expert Solutions to Get Your Port Working Again</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722879815248-keyboard-troubles-find-out-how-to-restore-typing-functionality-in-minutes/"><u>Keyboard Troubles? Find Out How to Restore Typing Functionality in Minutes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-razer-book-13-unveiled-a-small-gadget-with-giant-capabilities/"><u>The Razer Book 13 Unveiled: A Small Gadget with Giant Capabilities</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-guide-solving-problems-with-the-realtek-rtl8811au-network-card/"><u>Troubleshooting Guide: Solving Problems with the Realtek RTL8811AU Network Card</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-nonresponsive-fn-keys-in-dell-laptops-what-you-can-do/"><u>Troubleshooting Nonresponsive FN Keys in Dell Laptops - What You Can Do</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fix-issues-when-your-keyboards-number-keys-dont-function/"><u>Troubleshooting: Fix Issues When Your Keyboard's Number Keys Don't Function</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-boost-your-brand-visibility-mastering-instagram-hashtags/"><u>[New] Boost Your Brand Visibility – Mastering Instagram Hashtags</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-easy-techniques-perfect-your-idevice-screen-shots/"><u>[New] Easy Techniques Perfect Your iDevice Screen Shots</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-fresh-set-of-interview-points-for-captivated-ears/"><u>[New] In 2024, Fresh Set of Interview Points for Captivated Ears</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/avigating-youtube-success-through-strategic-studio-use/"><u>[New] Navigating YouTube Success Through Strategic Studio Use</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-photo-to-film-adding-melodies-for-emotion/"><u>[New] Photo to Film Adding Melodies for Emotion</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-reclaiming-gone-reddit-content-a-time-saving-guide-for-2024/"><u>[Updated] Reclaiming Gone-Reddit Content A Time-Saving Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-to-correct-the-windows-11-update-failure-error-0x80070541/"><u>Easy Solutions to Correct the Windows 11 Update Failure (Error 0X80070541)</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-fix-successfully-completing-your-windows-installation/"><u>Fast Fix: Successfully Completing Your Windows Installation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/mastering-drone-flight-optimal-lipo-battery-selection/"><u>Mastering Drone Flight Optimal LiPo Battery Selection</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-repair-overcoming-opengl-hurdles-in-minecraft-gaming/"><u>Mastering the Art of Repair: Overcoming OpenGL Hurdles in Minecraft Gaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-your-inbox-a-step-by-step-tutorial-on-creating-and-managing-labels-in-gmail/"><u>Mastering Your Inbox: A Step-by-Step Tutorial on Creating and Managing Labels in Gmail</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-persistent-issues-in-call-of-duty-black-ops-iv/"><u>Overcoming Persistent Issues in Call of Duty: Black Ops IV</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-fixing-errors-encountered-when-refreshing-your-pc-on-windows-10/"><u>Step-by-Step Guide: Fixing Errors Encountered When Refreshing Your PC on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-your-aoc-display-failures-in-windows-11-setup/"><u>Step-by-Step Solutions for Your AOC Display Failures in Windows 11 Setup</u></a></li>
+<li><a href="https://fox-within.techidaily.com/successful-steps-to-cloning-drives-with-macrium-reflect-despite-size-variations/"><u>Successful Steps to Cloning Drives with Macrium Reflect Despite Size Variations</u></a></li>
+<li><a href="https://common-error.techidaily.com/zero-in-on-solving-error-code-0x887a0006-your-quick-start-guide-to-recovery/"><u>Zero In On Solving Error Code 0X887A0006 - Your Quick-Start Guide to Recovery</u></a></li>
 </ul></div>
 

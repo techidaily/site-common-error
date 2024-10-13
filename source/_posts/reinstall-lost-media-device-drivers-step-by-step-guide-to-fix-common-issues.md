@@ -1,7 +1,7 @@
 ---
 title: Reinstall Lost Media Device Drivers - Step-by-Step Guide to Fix Common Issues
-date: 2024-09-30T01:40:09.161Z
-updated: 2024-10-07T11:47:12.087Z
+date: 2024-10-08T19:24:46.568Z
+updated: 2024-10-12T16:00:39.266Z
 tags:
   - win11
   - win10
@@ -72,6 +72,19 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 
 ``
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
 ``
@@ -80,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 ` ``
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `` Click **Yes**  when prompted by User Account Control.
 
@@ -104,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -111,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 `` 3) Open the app again to see if it goes fine.
 
 ``
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
@@ -143,10 +149,10 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 ``
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
@@ -155,13 +161,6 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``
 
  2) Click **System** .
@@ -169,13 +168,6 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -187,6 +179,13 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -194,6 +193,13 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 4) Open the app again to see if it goes fine.
 
  Note: If you’ve installed iCloud on your Windows 10, you can try the fix below if all the fixes above don’t help.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable iCloud
 
@@ -232,22 +238,22 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-unlocking-content-easy-downloads-of-vimeo-hd-videos-mp4/"><u>[New] Unlocking Content Easy Downloads of Vimeo HD Videos (MP4)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-cross-media-content-flow-from-youtube-to-thirtyplus-others-for-2024/"><u>[Updated] Cross-Media Content Flow From YouTube to Thirty+ Others for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-cam-cover-selection/"><u>[Updated] In 2024, The Ultimate Guide to Cam Cover Selection</u></a></li>
-<li><a href="https://common-error.techidaily.com/astro-a40-mic-troubles-discover-how-to-restore-its-functionality/"><u>Astro A40 Mic Troubles? Discover How to Restore Its Functionality</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/craft-a-customized-calendar-on-your-windows-device-with-outlook/"><u>Craft a Customized Calendar on Your Windows Device with Outlook</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-creative-channel-themes-get-them-for-free/"><u>In 2024, Creative Channel Themes Get Them for Free</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-poco-x6-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Poco X6</u></a></li>
-<li><a href="https://games-able.techidaily.com/insights-into-xbox-casing/"><u>Insights Into Xbox Casing</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-your-non-functioning-hp-laptop-keys-get-back-to-work-now/"><u>Quick Fixes for Your Non-Functioning HP Laptop Keys – Get Back to Work Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-problems-during-feature-update-rollout-for-windows-11-v1607-edition/"><u>Resolving Problems During Feature Update Rollout for Windows 11, v1607 Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-xerox-print-service-windows-update-issue-error-code-0x800f020b/"><u>Resolving the 'Xerox Print Service' Windows Update Issue (Error Code 0X800F020B)</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-issue-step-by-step-guide-to-fixing-error-code-0x8024402c-on-your-pc/"><u>Resolving the Issue: Step-by-Step Guide to Fixing Error Code 0X8024402c on Your PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-file-explorer-from-windows-10-on-your-new-windows-11-pc/"><u>Reviving File Explorer From Windows 10 on Your New Windows 11 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fix-what-to-do-if-your-laptops-touchpad-wont-work/"><u>Step-by-Step Fix: What to Do If Your Laptop's Touchpad Won't Work</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-procedure-to-counteract-the-livekernelevent-144-fault/"><u>Step-by-Step Procedure to Counteract the LiveKernelEvent 144 Fault</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-dark-launch-issue-of-monster-hunter-world/"><u>Troubleshooting Guide: Fixing the Dark Launch Issue of Monster Hunter World</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-get-zoom-on-tv-easy-solutions/"><u>Updated In 2024, How to Get Zoom on TV Easy Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-ultimate-editing-techniques-for-final-cut-pro-professionals-for-2024/"><u>[New] Ultimate Editing Techniques for Final Cut Pro Professionals for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/0x80070490-error-code-in-windows-update-fixed/"><u>0X80070490 Error Code in Windows Update [FIXED]</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-optimal-earnings-scaling-your-youtube-channels-revenue-on-mobile-devices/"><u>2024 Approved Optimal Earnings Scaling Your YouTube Channel's Revenue on Mobile Devices</u></a></li>
+<li><a href="https://article-posts.techidaily.com/a-century-of-sparks-the-10-most-voted-on-reddit-posts-for-2024/"><u>A Century of Sparks The 10 Most Voted on Reddit Posts for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/access-denied-blizzard-network-down/"><u>Access Denied: Blizzard Network Down</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-touchpad-scrolling-that-just-wont-work-an-expert-solution/"><u>Comprehensive Fixes for Touchpad Scrolling That Just Won't Work: An Expert Solution</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-motorola-moto-g73-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Motorola Moto G73 5G?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-recover-from-file-explorer-crashing-on-windows-10-computers/"><u>How to Recover From File Explorer Crashing on Windows 10 Computers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-v27-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo V27 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-macos-sierra-integration-techniques/"><u>In 2024, Seamless MacOS Sierra Integration Techniques</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-top-video-editor-battle-is-inshot-reigning-supreme/"><u>In 2024, Top Video Editor Battle Is InShot Reigning Supreme?</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-malfunctions-on-windows-1011-heres-how-to-get-it-working-again/"><u>Keyboard Malfunctions on Windows 10/11? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-stuck-on-loading-quick-fix-tips-for-windows-users-to-get-it-running-smoothly/"><u>Minecraft Stuck on Loading? Quick Fix Tips for Windows Users to Get It Running Smoothly</u></a></li>
+<li><a href="https://extra-information.techidaily.com/srt-to-txt-mastery-the-2023-guide-for-rapid-changeover/"><u>SRT to TXT Mastery The 2023 Guide for Rapid Changeover</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-lost-desktop-icons-on-windows-10-solved/"><u>Troubleshooting and Fixing Lost Desktop Icons on Windows 10 [SOLVED]</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-f34-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy F34 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-unpairing-woes-bluetooth-troubleshooting-techniques-on-windows/"><u>Winning the Battle Against Unpairing Woes: Bluetooth Troubleshooting Techniques on Windows 지대</u></a></li>
 </ul></div>
 

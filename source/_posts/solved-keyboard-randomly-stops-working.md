@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Keyboard Randomly Stops Working"
-date: 2024-09-13T16:03:44.313Z
-updated: 2024-09-15T16:01:02.574Z
+date: 2024-10-05T21:29:18.770Z
+updated: 2024-10-12T23:25:10.926Z
 tags:
   - win11
   - win10
@@ -84,50 +84,24 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a3b88f3d2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Go to the**Advanced** tab, then click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d4b15900.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go to the **Advanced** tab again, and choose**Change…**  in the Virtual memory section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376d6d0a83c.png)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Ensure the **Automatically manage paging file size for all drives** checkbox is**NOT** ticked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376da7f418e.png)
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Select your windows drive (the hard drive or partition that has Windows installed on it – usually **C:** )**,** and enter an Initial size and Maximum size for your virtual memory:
 
@@ -137,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
  Once you’ve entered your virtual memory values, click **Set** , then click **OK** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596c16f59cf66.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re still having problems with Windows 10 hanging after adjusting your virtual memory, try the next fix.
 
@@ -177,6 +158,13 @@ thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-as-administrator.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If prompted to provide administrator permission, click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/user-account-control.jpg)
@@ -190,10 +178,10 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940aa0c3690c.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Windows will scan your system for corrupted files, and attempt to fix any it finds. The results will display in this window, so please leave it open until the operation is complete.
@@ -236,6 +224,13 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9834949e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Go to the **Tools** tab and click**Check** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9a940e55.png)
@@ -251,10 +246,10 @@ sfc /scannow
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 7: Disable C-States in BIOS**
@@ -271,6 +266,13 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58d3311bb92d6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Both **C1E Function** and**Intel(R) C-STATE tech** should be **Disabled** . If they’re not, use your keyboard up and down arrows to navigate the list of options, highlight the setting you want to change, press Enter on your keyboard, then press the up or down arrow on your keyboard to change the value to Disabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/intelr-c-state-tech.jpg)
@@ -278,6 +280,13 @@ sfc /scannow
  After changing these settings, save and exit the BIOS settings as per the instructions on your screen, then restart your computer again.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 8: Switch to ChromeOS
 
@@ -322,5 +331,19 @@ And that’s just the start of the benefits…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-excellent-free-memes-at-your-fingertips/"><u>[New] Excellent FREE Memes at Your Fingertips</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlock-your-favorites-anytime-anyplace-with-top-6-free-video-downloaders-for-2024/"><u>[New] Unlock Your Favorites Anytime, Anyplace with Top 6 Free Video Downloaders for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-werfaultexe-hurdle-tips-and-tricks-for-stable-windows/"><u>Bypassing the werFault.exe Hurdle: Tips & Tricks for Stable Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/discover-the-top-15-best-supports-for-gopro-hd-video/"><u>Discover the Top 15 Best Supports for GoPro HD Video</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-for-addressing-the-hamachi-service-stopped-trouble-on-your-system/"><u>Effective Techniques for Addressing the 'Hamachi Service Stopped' Trouble on Your System</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-why-your-wireless-mouse-fails-in-windows-11-and-10/"><u>Fixing the Issue: Why Your Wireless Mouse Fails in Windows 11 & 10</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-cutting-edge-video-editing-top-4k-software-solutions-for-2024/"><u>New Cutting-Edge Video Editing Top 4K Software Solutions for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-realme-gt-5-pro-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Realme GT 5 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fix-unsupported-operating-system-warning-and-prevent-exit-during-installation/"><u>Troubleshooting Guide: Fix Unsupported Operating System Warning & Prevent Exit During Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/unmasking-winerror-code-0x800f0831-fix-procedure/"><u>Unmasking WinError Code 0X800f0831: Fix Procedure</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-merge-videos-without-logos-best-7-software-options/"><u>Updated 2024 Approved Merge Videos Without Logos Best 7 Software Options</u></a></li>
+<li><a href="https://video-capture.techidaily.com/44kz44oz44ou44ol44o844k44o85yip55so6icf5zcr44gr44cb5puy6zat6ycj57wq44ov44oq44o844og44kv44ol44od44kv/"><u>コンピューター利用者向け、曲間連結フリーテクニック</u></a></li>
+</ul></div>
 

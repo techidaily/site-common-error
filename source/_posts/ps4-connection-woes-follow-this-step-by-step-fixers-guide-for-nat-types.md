@@ -1,7 +1,7 @@
 ---
 title: PS4 Connection Woes? Follow This Step by Step Fixer's Guide for NAT Types!
-date: 2024-10-02T01:18:20.659Z
-updated: 2024-10-06T23:14:34.320Z
+date: 2024-10-10T17:47:17.060Z
+updated: 2024-10-13T00:30:18.040Z
 tags:
   - win11
   - win10
@@ -45,28 +45,45 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 
 1. On the keyboard of the target computer, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)and **R** at the same time, then copy & paste **devmgmt.msc** into the box and click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
-2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
 You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
@@ -82,28 +99,8 @@ You can update your drivers automatically with either the [**Free**](https://too
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
@@ -131,22 +128,20 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-low-end-pc-visual-recorders/"><u>[New] Low-End PC Visual Recorders</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-watching-the-future-on-screen-androids-2023-update-on-vr-for-2024/"><u>[New] Watching the Future on Screen - Android's 2023 Update on VR for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ps3-playback-a-comprehensible-methodology/"><u>[Updated] In 2024, PS3 Playback A Comprehensible Methodology</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-stream-like-a-pro-3-key-strategies-for-lol-gamers-for-2024/"><u>[Updated] Stream Like a Pro 3 Key Strategies for LOL Gamers for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/abrupt-shutdown-devices-in-crisis/"><u>Abrupt Shutdown: Devices in Crisis</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-a-non-responsive-huion-pen-in-minutes-with-these-effective-strategies/"><u>Fix a Non-Responsive Huion Pen in Minutes with These Effective Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-get-your-mic-working-again-on-a-laptop-running-windows-tenth-edition/"><u>How to Get Your Mic Working Again on a Laptop Running Windows Tenth Edition</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-superior-selection-androids-leading-video-call-for-large-groups/"><u>In 2024, Superior Selection Android's Leading Video Call for Large Groups</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-ultimate-exploration-of-yis-4k-hero-series/"><u>In 2024, The Ultimate Exploration of Yi’s 4K HERO Series</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-sluggish-to-speedy-on-android-vids/"><u>In 2024, Transform Sluggish to Speedy on Android Vids</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-productivity-replace-complex-excel-formulas-with-chatgpt-for-effortless-solutions/"><u>Maximize Productivity: Replace Complex Excel Formulas with ChatGPT for Effortless Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-err-too-many-redirects-no-hassle-solutions-inside/"><u>Quick Fixes for ERR TOO MANY REDIRECTS - No Hassle Solutions Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-typing-troubles-diagnosing-and-repairing-a-defective-backspace-key/"><u>Solving Typing Troubles: Diagnosing and Repairing a Defective Backspace Key</u></a></li>
-<li><a href="https://common-error.techidaily.com/successful-steps-activating-bluetooth-on-your-pc-with-windows-11-or-10/"><u>Successful Steps: Activating Bluetooth on Your PC with Windows 11 or 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-fn-key-problems-in-dell-notebook-computers/"><u>Troubleshoot and Repair FN Key Problems in Dell Notebook Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-repairing-damaged-windows-os-files-in-version-10-and-11/"><u>Ultimate Guide: Repairing Damaged Windows OS Files in Version 10 & 11</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-vs-youtube-vs-dailymotion-which-platform-is-the-one/"><u>Vimeo vs YouTube vs Dailymotion Which Platform Is the One?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-sculptors-of-immersive-digital-universes/"><u>[New] 2024 Approved Sculptors of Immersive Digital Universes</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>10 Best Fake GPS Location Spoofers for Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-reversing-time-retracing-your-steps-for-lost-snaps/"><u>2024 Approved Reversing Time Retracing Your Steps for Lost Snaps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-sightgallery-review-system/"><u>2024 Approved SightGallery Review System</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-windows-update-error-bypassing-error-0x8007001f-easily/"><u>Comprehensive Fixes for Windows Update Error - Bypassing Error 0X8007001F Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-and-restart-overcoming-google-chrome-freeze-scenarios/"><u>Fix and Restart: Overcoming Google Chrome Freeze Scenarios</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-crashes-due-to-insufficient-video-memory-heres-how-to-fix-it/"><u>Fortnite Crashes Due to Insufficient Video Memory? Here's How to Fix It!</u></a></li>
+<li><a href="https://common-error.techidaily.com/lenovo-mouse-pad-failure-a-step-by-step-solution-for-windows-users-11-8-and-abreast-of-the-latest-os-updates/"><u>Lenovo Mouse Pad Failure: A Step-by-Step Solution for Windows Users (11, 8 & Abreast of the Latest OS Updates)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-security-camera-software-reviews-top-10/"><u>New 2024 Approved Free Security Camera Software Reviews Top 10</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/peephole-to-private-facebook-worlds-for-2024/"><u>Peephole to Private Facebook Worlds for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-a-dead-huion-stylus-top-5-speedy-troubleshooting-tips/"><u>Revive a Dead Huion Stylus: Top 5 Speedy Troubleshooting Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-correcting-unresponsive-fn-buttons-on-a-dell-device/"><u>Step-by-Step Guide to Correcting Unresponsive FN Buttons on a Dell Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-hp-laptop-webcam-issues-on-windows-10/"><u>Troubleshooting Guide: Solving HP Laptop Webcam Issues on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-when-your-razer-keyboard-wont-illuminate/"><u>Troubleshooting: Fixes When Your Razer Keyboard Won't Illuminate</u></a></li>
+<li><a href="https://win-web.techidaily.com/wiederherstellung-verlorener-festplattendaten-die-endgultige-losung-mit-myrecover/"><u>Wiederherstellung Verlorener Festplattendaten: Die Endgültige Lösung Mit MyRecover</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding and Repairing Failed Communications with DHCP Servers
-date: 2024-10-02T17:42:57.312Z
-updated: 2024-10-07T04:39:47.356Z
+date: 2024-10-05T19:35:15.993Z
+updated: 2024-10-13T04:36:21.923Z
 tags:
   - win11
   - win10
@@ -46,21 +46,7 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04aae3578ee.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
@@ -77,18 +63,42 @@ Here’s how to do it:
 2. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **mmsys.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
@@ -96,13 +106,6 @@ Here’s how to do it:
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable Exclusive Mode
 
@@ -117,10 +120,10 @@ Here’s how:
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
@@ -162,22 +165,21 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-snippets-to-stars-the-essence-of-video-musical-success/"><u>[New] 2024 Approved From Snippets to Stars The Essence of Video Musical Success</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-transformative-editing-experience-windows-photos-meets-story-remix/"><u>[New] Transformative Editing Experience Windows Photos Meets Story Remix</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unearthing-timeless-treasures-a-classic-lit-exploration/"><u>[New] Unearthing Timeless Treasures A Classic Lit Exploration</u></a></li>
-<li><a href="https://common-error.techidaily.com/bluetooth-troubles-in-windows-11-quick-tips-to-get-it-working-again/"><u>Bluetooth Troubles in Windows 11? Quick Tips to Get It Working Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-solutions-for-unregistered-dll-problems-in-windows-aturin/"><u>Easy Solutions for Unregistered DLL Problems in Windows Aturin</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-tricks-to-revive-your-lenovos-unresponsive-f-key-step-by-step/"><u>Effortless Tricks to Revive Your Lenovo's Unresponsive F Key - Step by Step</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209250416-guide-to-fixing-lost-bluetooth-connectivity-in-windows-11-steps-for-swift-resolution/"><u>Guide to Fixing Lost Bluetooth Connectivity in Windows 11: Steps for Swift Resolution!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-solve-black-screen-glitches-in-your-destiny-2-gameplay/"><u>How To Solve BLACK SCREEN Glitches In Your Destiny 2 Gameplay</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-x100-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo X100 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-x-fold-2-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo X Fold 2</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-g24-power-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola G24 Power to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/in-depth-guide-to-rejuvenate-an-unresponsive-playstation-move-controller/"><u>In-Depth Guide to Rejuvenate an Unresponsive PlayStation Move Controller</u></a></li>
-<li><a href="https://common-error.techidaily.com/tech-tragedy-device-lifespan-ended/"><u>Tech Tragedy: Device Lifespan Ended</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-complete-walkthrough-resolving-your-windows-1er-bluetooth-pairing-glitches/"><u>The Complete Walkthrough: Resolving Your Windows 1Er Bluetooth Pairing Glitches</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-fixing-the-issue-of-windowsplusshiftpluss-malfunction-in-windows-11-and-10/"><u>Troubleshooting Steps: Fixing the Issue of Windows+Shift+S Malfunction in Windows 11 and 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/unraveling-opengl-glitches-effective-techniques-for-a-smooth-minecraft-experience/"><u>Unraveling OpenGL Glitches: Effective Techniques for a Smooth Minecraft Experience</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/oosting-audio-quality-in-social-media-recordings/"><u>[New] Boosting Audio Quality in Social Media Recordings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-expert-tips-for-harnessing-the-power-of-top-9-free-youtube-makers/"><u>[New] Expert Tips for Harnessing the Power of Top 9 Free YouTube Makers</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-11-wont-boot-after-update/"><u>[Solved] Windows 11 Won't Boot After Update</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-illuminating-imagery-mastering-three-key-insta-hits/"><u>[Updated] Illuminating Imagery Mastering Three Key Insta Hits</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/10-popular-cartoon-characters-that-should-top-your-list/"><u>10 Popular Cartoon Characters That Should Top Your List</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-11-pro-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 11 Pro to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/battleye-service-installed-successfully-troubleshooting-guide-updated/"><u>BattlEye Service Installed Successfully - Troubleshooting Guide Updated</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-fujitsu-scansnap-ix1400-assessment-ideal-device-for-personal-workspaces-and-smbs/"><u>Comprehensive Fujitsu ScanSnap iX1400 Assessment: Ideal Device for Personal Workspaces & SMBs</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-strategies-to-reduce-god-of-wars-impact-on-your-pcs-processor-load/"><u>Effective Strategies to Reduce God of War's Impact on Your PC's Processor Load</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-opengl-error-1281-solved/"><u>How to Fix OpenGL Error 1281 [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-your-pc-from-falling-asleep-automatically-simple-fixes/"><u>How to Stop Your PC From Falling Asleep Automatically - Simple Fixes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-nubia-red-magic-8s-proplus-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Nubia Red Magic 8S Pro+ Phone</u></a></li>
+<li><a href="https://common-error.techidaily.com/pubg-development-woes-heres-how-you-can-speed-up-building-loading-times/"><u>PUBG Development Woes? Here's How You Can Speed Up Building Loading Times</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-infinix-hot-30i-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Infinix Hot 30i Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-consumption-by-the-dwm-on-windows-11/"><u>Top 5 Solutions for Reducing GPU Consumption by the DWM on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723200620079-winning-the-battle-against-msmpengexe-reducing-cpu-usage-in-windows-11-effective-strategies-inside/"><u>Winning the Battle Against MsMpEng.exe: Reducing CPU Usage in Windows 11 – Effective Strategies Inside</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Failure in Windows Updates: A Complete Guide to Fixes"
-date: 2024-10-02T16:46:31.510Z
-updated: 2024-10-07T06:58:52.505Z
+date: 2024-10-08T17:50:00.773Z
+updated: 2024-10-12T21:25:13.883Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdbac0739e5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. After finishing the uninstallation, restart your PC then Windows will reinstall the device automatically.
 
 ## **Method 3 : Update the USB Driver**
@@ -78,29 +85,15 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d2f95d64f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5949d31484e2f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 4: Disable Fast Startup**
@@ -118,32 +111,32 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde31f1a636.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4\. Select**Choose what the power buttons do** in the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde37b21df1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5\. Click on**Change settings that are corrently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde3ce2afe1.png)
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6\. Under**Shutdown settings** , uncheck the box next to**Turn on fast startup (recommended)** . Then click on the**Save changes** button.
 
@@ -159,6 +152,13 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde8af2b766.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2\. Click**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb15c69d9.jpg)
@@ -171,6 +171,13 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fde9507f19b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5\. Click on**Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdeb95133af.png)
@@ -180,13 +187,6 @@ Follow these steps:
  7\. Expand**USB selective suspend setting** . Disable both**On battery** and**Plugged in** settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57fdec39ba7fd.png)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  8\. Click the**Apply** button and restart your computer.
 
@@ -207,22 +207,20 @@ Follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-essential-tech-skills-learn-how-to-record-your-mac-display/"><u>[New] Essential Tech Skills Learn How to Record Your Mac Display</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-upgrade-your-whatsapp-experience-with-a-bespokel-ringtones-design/"><u>[New] In 2024, Upgrade Your WhatsApp Experience with a Bespokel Ringtones Design</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-windows-10-stuck-or-not-updating/"><u>[Solved] Windows 10 Stuck or Not Updating</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-expert-advice-on-selecting-the-best-lenses-for-filmmaking/"><u>[Updated] In 2024, Expert Advice on Selecting The Best Lenses For Filmmaking</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unraveling-the-film-reel-how-to-rewind-on-instagram/"><u>2024 Approved Unraveling the Film Reel How to Rewind on Instagram</u></a></li>
-<li><a href="https://common-error.techidaily.com/bust-the-mystery-ps4-dualshock-wont-charge-lets-fix-it/"><u>Bust the Mystery: PS4 Dualshock Won't Charge - Let's Fix It</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-high-resource-consumption-by-svchostexe-on-your-windows-10-machine-efficiently/"><u>How to Fix High Resource Consumption by svchost.exe on Your Windows 10 Machine Efficiently</u></a></li>
-<li><a href="https://common-error.techidaily.com/immediate-fixes-how-to-repair-nonfunctional-keys-on-your-hp-notebook/"><u>Immediate Fixes: How to Repair Nonfunctional Keys on Your HP Notebook</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transition-techniques-decreasing-volume-gradually-in-pp/"><u>In 2024, Transition Techniques Decreasing Volume Gradually in PP</u></a></li>
-<li><a href="https://common-error.techidaily.com/managing-power-settings-how-to-keep-your-windows-10-computer-from-turning-on-alone/"><u>Managing Power Settings: How to Keep Your Windows 10 Computer From Turning On Alone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/navigating-the-maze-of-insta-story-downloads-for-2024/"><u>Navigating the Maze of Insta Story Downloads for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-zero-to-hero-mastering-wax-free-video-editor/"><u>New From Zero to Hero Mastering Wax Free Video Editor</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-your-windows-10-casting-functionality-a-comprehensive-guide/"><u>Restore Your Windows # 10 Casting Functionality - A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/stealth-mode-a-guide-to-living-large-unlabeled/"><u>Stealth Mode A Guide to Living Large, Unlabeled</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-windows-device-manager-error-code-28/"><u>Step-by-Step Guide: Correcting Windows Device Manager Error - Code 28</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-correct-microsoft-error-0x800f0831-using-windows-updates-effortlessly/"><u>Troubleshoot and Correct Microsoft Error 0X8_00F0831 Using Windows Updates Effortlessly</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-exploring-the-best-text-to-speech-online-tools-to-use-for-2024/"><u>Updated Exploring The Best Text-to-Speech Online Tools To Use for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-top-6-strategies-for-mc-village-housebuilding/"><u>[New] In 2024, Top 6 Strategies for MC Village Housebuilding</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-advanced-tactics-preserving-the-integrity-of-whatsapp-talks/"><u>[Updated] Advanced Tactics Preserving the Integrity of WhatsApp Talks</u></a></li>
+<li><a href="https://common-error.techidaily.com/elevate-your-scroll-game-in-win-11/"><u>Elevate Your Scroll Game in Win 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/for-fresh-filmmakers-an-introduction-to-aspect-ratios-and-resolution-for-2024/"><u>For Fresh Filmmakers An Introduction to Aspect Ratios & Resolution for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-poco-m6-5g-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Poco M6 5G Phone | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-windows-update-rolling-again-on-legacy-operating-systems-like-win7-latest-solutions-for-users-seeking-assistance-this-year-with-help-guide-from-e124/"><u>How to Get Windows Update Rolling Again on Legacy Operating Systems Like Win7? - Latest Solutions for Users Seeking Assistance This Year, with Help Guide From Experts of the Field.(Guide & Expert Advice)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-persistent-0x8024401c-windows-update-issue-on-windows-10-and-11/"><u>How to Resolve the Persistent 0X8024401C Windows Update Issue on Windows 10 & 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-agni-2-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-6-plus-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone 6 Plus without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-stop-error-with-32-bit-software-the-end-of-print-driver-host/"><u>Solution Steps: Stop Error with 32-Bit Software - The End Of 'Print Driver Host'</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-disappearing-volume-icon-issue-on-windows-11-an-illustrated-guide/"><u>Solving the Disappearing Volume Icon Issue on Windows 11 – An Illustrated Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-process-to-send-audio-messages-on-apple-iphones/"><u>Step-by-Step Process to Send Audio Messages on Apple iPhones</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-101-comprehensive-fixes-for-devices-showing-a-grey-screen-error/"><u>Troubleshooting 101: Comprehensive Fixes for Devices Showing a Grey Screen Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-invisible-wi-fi-configurations-in-windows-11/"><u>Troubleshooting Invisible Wi-Fi Configurations in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-realme-gt-5-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Realme GT 5</u></a></li>
 </ul></div>
 

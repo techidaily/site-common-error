@@ -1,7 +1,7 @@
 ---
 title: Easy Solutions for When Windows Won't Progress Past 'Configuring Your PC'
-date: 2024-10-05T07:12:17.180Z
-updated: 2024-10-07T09:46:21.948Z
+date: 2024-10-05T21:30:06.626Z
+updated: 2024-10-12T20:02:47.314Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/8b80e339dbd0915bb63a5c4ef4dc3b35128d5a8fe
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Repair corrupted system files
 
  Windows system file corruption often leads to this issue. **If you’d like to repair all the corrupted system files ASAP** , try using **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a powerful tool that specializes in Windows repair.
@@ -56,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/8b80e339dbd0915bb63a5c4ef4dc3b35128d5a8fe
 6. After the scanning process is completed, Fortect will provide you with the PC scan summary.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If there’s any issue, then click the START REPAIR button on the lower-right corner, and with just one click, Fortect will start repairing the Windows OS on your computer.  
@@ -67,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/8b80e339dbd0915bb63a5c4ef4dc3b35128d5a8fe
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Wait until your Windows system installed all the updates**
@@ -112,22 +119,8 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap6-2.jpg)
 2. Select the **Services**  tab, check   **Hide all Microsoft services**  and then click **Disable all**  .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-4.jpg)
 3. Select the **Startup**  tab and click **Open Task Manager**  .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8-4.jpg)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
@@ -137,34 +130,20 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 6. Click **Restart**  to restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-4.jpg)
 7. Perform a Windows update again after restarting Windows.  
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    1. On your keyboard, press**the Windows logo key** and type**windows update** . In the list of search results, select**Check for updates** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/check-for-updates.jpg)  
    2. In the pop-up window, click**Check for updates** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-check-for-updates.jpg)  
    3. Wait until Windows downloads and installs all the updates.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Restart your PC when Windows installed all the updates to see if this issue persists.
 
@@ -179,14 +158,22 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 1. On your keyboard, press**the Windows logo key** and type**restore** , in the list of search results, select **Create a restore** **point** . You will be prompted for permission. Click **Yes**  to open the **System Protection**  settings .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-create-restore-point.jpg)
 2. Ensure **the Protection status** of the local disk drive that has your Windows system installed on is**On** . Then click**System Restore…** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap13-1.jpg)  
  If**the Protection status** of the local drive that has your Windows system installed on is**Off** , it indicates that you have**disabled** the system restore feature on this drive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Select**Choose a different restore point**  and click**Next** .  
@@ -196,9 +183,30 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 5. Click**Finish** to confirm your restore point.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap17-3.jpg)
 6. Click**Yes** to start restoring your Windows system.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap18-3.jpg)
 
  After restoring your Windows system, this annoying issue should be resolved.
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Bonus tip: Update your driver to the latest version**
 
@@ -244,20 +252,24 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-open-markets-close-plans-strategy-inception/"><u>[New] Open Markets, Close Plans Strategy Inception</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-banners-makers-10plus-online-tools-to-create-channel-art/"><u>2024 Approved Youtube Banners Makers 10+ Online Tools to Create Channel Art</u></a></li>
-<li><a href="https://common-error.techidaily.com/avoid-rough-terrain-limit-driving-over-bumpy-or-uneven-surfaces-that-could-cause-additional-stress-on-your-vehiclecuots-suspension-system/"><u>Avoid Rough Terrain: Limit Driving over Bumpy or Uneven Surfaces that Could Cause Additional Stress on Your Vehicle'cuot;s Suspension System</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-shots-for-youtube-filmmakers-for-2024/"><u>Clear Shots for YouTube Filmmakers for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-guide-resolving-dell-laptops-black-display-issue-step-by-step-solutions/"><u>Complete Guide: Resolving Dell Laptop's Black Display Issue - Step-by-Step Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-our-picks-the-7-leading-traffic-control-applications/"><u>Discover Our Picks: The 7 Leading Traffic Control Applications</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-techniques-to-tackle-fatal-system-mishaps-in-black-ops-4/"><u>Effective Techniques to Tackle Fatal System Mishaps in Black Ops 4</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unknown-usb-device-port-reset-failed-issue-for-windows-10/"><u>How to Fix Unknown USB Device (Port Reset Failed) Issue for Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-non-responsive-mousepad-in-windows-operating-systems-guides-for-xpvistawindows-7810-users/"><u>How to Resolve Non-Responsive Mousepad in Windows Operating Systems - Guides for XP/Vista/Windows 7/8/10 Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/no-mail-no-call-secrets-to-unlocking-your-facebook-password-again/"><u>No Mail, No Call - Secrets to Unlocking Your Facebook Password Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-windows-1011-night-mode-wont-turn-on/"><u>Troubleshooting Tips for When Windows 10/11 Night Mode Won't Turn On</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-poco-x5-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unlocking-santa-written-in-many-languages/"><u>Unlocking Santa' Written in Many Languages</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/whats-new-with-meta-quest-3-dive-into-pricing-info-release-timeline-and-hardware-specs/"><u>What's New with Meta Quest 3? Dive Into Pricing Info, Release Timeline & Hardware Specs</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208469743-why-does-my-computer-freeze-with-windows-11-learn-the-fixes/"><u>Why Does My Computer Freeze with Windows 11? Learn the Fixes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ro-selections-best-notebook-models-for-editing-professionals/"><u>[New] Pro Selections Best Notebook Models for Editing Professionals</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-uncomplicated-ways-to-save-vimeo-content-for-2024/"><u>[New] Uncomplicated Ways to Save Vimeo Content for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-artificial-intelligence-for-insights-and-predictions/"><u>2024 Approved Harnessing Artificial Intelligence for Insights and Predictions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/become-a-study-powerhouse-leveraging-chatgpt-for-notes/"><u>Become a Study Powerhouse: Leveraging ChatGPT for Notes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-practices-unveiled-supercharge-wsl-2-with-windows-dev-tools/"><u>Best Practices Unveiled: Supercharge WSL 2 with Windows Dev Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-cast-errors-and-enable-smooth-streaming-from-pc-to-tv-on-windows-11/"><u>Bypass Cast Errors and Enable Smooth Streaming From PC to TV on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-continuous-halt-issues-in-computers-a-users-handbook/"><u>Diagnosing & Repairing Continuous Halt Issues in Computers – A User's Handbook</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-lava-blaze-2-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Lava Blaze 2 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-x50-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor X50 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-new-frontiers-a-guide-to-metaverse-promotion/"><u>Navigating New Frontiers A Guide to Metaverse Promotion</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-missing-bluetooth-feature-problems-in-windows-10-with-easy-fixes/"><u>Overcome Missing Bluetooth Feature Problems in Windows 10 with Easy Fixes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-resolving-winsvr-server-role-failed-smb-signing-requirements-error-x0x800706b7/"><u>Quick Solutions for Resolving WinSvr Server Role Failed: SMB Signing Requirements Error - X0x800706B7</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212019000-solution-to-pubg-structures-failure-now-fixed/"><u>Solution to PUBG Structures Failure - Now Fixed!</u></a></li>
+<li><a href="https://common-error.techidaily.com/speed-up-your-pc-by-reviving-corrupted-hardware-drivers-easily/"><u>Speed Up Your PC by Reviving Corrupted Hardware Drivers Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-minecraft-loading-on-your-windows-machine-heres-the-solution-fixed/"><u>Trouble with Minecraft Loading on Your Windows Machine? Here's the Solution! [FIXED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-resolving-error-0x80004005-unspecified-issue-explained/"><u>Understanding and Resolving Error 0X80004005: Unspecified Issue Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unique-identity-creation-accessible-logo-base-and-personal-customization-for-no-cost-for-2024/"><u>Unique Identity Creation Accessible Logo Base & Personal Customization for No-Cost for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-ultimate-list-of-subtitle-edit-alternatives-for-mac-users/"><u>Updated In 2024, The Ultimate List of Subtitle Edit Alternatives for Mac Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-tutorial-deactivate-touchpad-when-connected-to-a-mouse/"><u>Windows 11 Tutorial: Deactivate Touchpad When Connected to a Mouse</u></a></li>
 </ul></div>
 

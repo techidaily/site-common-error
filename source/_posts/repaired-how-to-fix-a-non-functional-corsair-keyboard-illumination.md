@@ -1,7 +1,7 @@
 ---
 title: "Repaired: How to Fix a Non-Functional Corsair Keyboard Illumination"
-date: 2024-10-04T01:40:13.423Z
-updated: 2024-10-06T21:42:53.294Z
+date: 2024-10-10T19:03:47.298Z
+updated: 2024-10-12T19:22:02.827Z
 tags:
   - win11
   - win10
@@ -31,10 +31,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 3. **[Update and configure the iCUE software](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Reset your keyboard
@@ -44,6 +44,13 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 #### Wired keyboard
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/Corsair_K100_Gaming_Keyboard_16.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Unplug your keyboard from your computer.
 2. Press and hold the**ESC** key (or the**FN + F4** keys).
@@ -55,16 +62,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/WeChat7a797c10615ac4351f0fb3895da7d65e.png)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Turn off your keyboard.
@@ -86,10 +87,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Update and configure the iCUE software
@@ -101,13 +102,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 1. Open iCUE and click the**Settings** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
@@ -137,22 +131,20 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-captivating-video-content-tips-for-pinterest-boards/"><u>[New] 2024 Approved Captivating Video Content Tips for Pinterest Boards</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-navigating-the-new-world-of-facebook-updates/"><u>[Updated] 2024 Approved Navigating the New World of Facebook Updates</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-top-iphones-video-editors-face-off-cameo-vs-filmorago/"><u>[Updated] Top iPhones' Video Editors Face-Off Cameo Vs. FilmoraGo</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-innovative-flying-selecting-the-best-drone-gimbals-today/"><u>2024 Approved Innovative Flying Selecting the Best Drone Gimbals Today</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cutting-edge-microphones-synergy-with-4k-cameras/"><u>Cutting-Edge Microphones Synergy with 4K Cameras</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-windows-10-system-crashes/"><u>Effective Fixes for When Your Windows 10 System Crashes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-top-10-photo-keeping-websites-never-a-missed-shot/"><u>Essential Top 10 Photo-Keeping Websites, Never a Missed Shot</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-dota-2-changerenderingapierror-2024-quickly-and-easily/"><u>Fix Dota 2 'ChangeRenderingAPI:Error 2024' Quickly and Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/hidden-sd-trouble-break-free-now/"><u>Hidden SD Trouble, Break Free Now</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-motorola-moto-g14-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Motorola Moto G14 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211608220-resolved-when-screens-wont-accept-pen-or-touch-heres-what-to-do/"><u>Resolved: When Screens Won't Accept Pen or Touch, Here’s What to Do</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-unreachable-desktop-message-for-windows-system-accounts/"><u>Resolving the 'Unreachable Desktop' Message for Windows System Accounts</u></a></li>
-<li><a href="https://common-error.techidaily.com/shift-key-malfunctions-heres-how-you-can-get-it-fixed-now/"><u>Shift Key Malfunctions? Here's How You Can Get It Fixed Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repair-a-malfunctioning-laptop-touchpad/"><u>Step-by-Step Guide to Repair a Malfunctioning Laptop Touchpad</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-common-steam-error-code-80-problems/"><u>Troubleshooting the Common Steam Error Code 80 Problems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-steps-to-perform-a-cmos-or-bios-restore/"><u>Ultimate Guide: Steps to Perform a CMOS or BIOS Restore</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-igtv-mastery-best-video-editors-for-social-media-for-2024/"><u>[Updated] IGTV Mastery Best Video Editors for Social Media for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-next-big-thing-10-games-that-inspire-gta-v-for-2024/"><u>[Updated] Next Big Thing 10 Games That Inspire GTA V for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-essence-of-interactive-virtuality/"><u>[Updated] The Essence of Interactive Virtuality</u></a></li>
+<li><a href="https://common-error.techidaily.com/accelerate-your-typing-remedy-slow-keyboard-lags-with-these-fixes/"><u>Accelerate Your Typing: Remedy Slow Keyboard Lags with These Fixes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-online-cinema-top-youtube-essentials-for-2024/"><u>Curated Online Cinema Top YouTube Essentials for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-free-gaming-experience-a-step-by-step-origin-setup-guide/"><u>Error-Free Gaming Experience: A Step-by-Step Origin Setup Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-6-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone SE (2020)?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-honor-90-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Honor 90 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://common-error.techidaily.com/logitech-g930-cutting-out-heres-how-to-restore-full-functionality/"><u>Logitech G930 Cutting Out? Here's How to Restore Full Functionality!</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-laptop-compatibility-hurdles-get-your-usb-mouse-working-now/"><u>Overcoming Laptop Compatibility Hurdles – Get Your USB Mouse Working Now!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-non-responsive-hp-wireless-keyboard-problems-effective-solutions-inside/"><u>Resolving Non-Responsive HP Wireless Keyboard Problems - Effective Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-laptop-charger-problems-swiftly/"><u>Troubleshoot and Resolve Laptop Charger Problems Swiftly</u></a></li>
+<li><a href="https://common-error.techidaily.com/usb-mouse-not-responding-discover-how-to-get-it-working-again/"><u>USB Mouse Not Responding? Discover How to Get It Working Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/what-causes-err-internet-disconnected-expert-solutions-for-constant-connectivity/"><u>What Causes 'ERR: Internet Disconnected'? Expert Solutions for Constant Connectivity</u></a></li>
 </ul></div>
 

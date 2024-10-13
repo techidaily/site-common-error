@@ -1,7 +1,7 @@
 ---
 title: How To Resolve High Network Activity Caused by svchost.exe (Net Svcs)
-date: 2024-10-05T17:54:14.036Z
-updated: 2024-10-06T19:07:18.845Z
+date: 2024-10-10T20:40:25.756Z
+updated: 2024-10-12T17:11:56.051Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ There are 3 types of NAT in your PS4:
 
  The PS4 NAT type failed issue can be caused by the incorrect network setting in your PS4, so you can check if your PS4 IP address changed or not. Furthermore, you can manually configure the network settings in your PS4 to make it correct.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **How to check your PS4 IP address?**
 
  If you don’t know your PS4 IP address, and you want to check your PS4 IP address, follow this steps:
@@ -59,15 +66,22 @@ There are 3 types of NAT in your PS4:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548932a66e2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select**View Connection Status** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a54896526c3a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) You will see the information about the network your PS4 are connecting, including the**IP address** .
@@ -81,6 +95,19 @@ There are 3 types of NAT in your PS4:
  2) Type**cmd** in the Run box, and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548aaf1616f.png)
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Copy and paste the following**command** in the Command Prompt, and press**Enter** .
 
@@ -99,10 +126,10 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548ba2959d7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Select**Custom** , then**enter the network information** you just noted down.
@@ -145,13 +172,6 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548dc97186b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Click**Apply/Save** to save your settings.
 
  7)**Reboot** your router and wait for it to connect.
@@ -161,10 +181,16 @@ ipconfig/all
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5488dd7df5a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 3: Make your PS4 the DMZ server**
@@ -183,13 +209,6 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Go to**Advanced** \>**Forwarding** , and you’ll see**DMZ** on the left. (Or you can find the DMZ section in other tab according to the different routers.)
 
  5) Click**Enable** to**enable DMZ** .
@@ -199,6 +218,13 @@ ipconfig/all
  6) Change the**IP address** to match with the IP address in your PS4\. (If you don’t know your PS4 IP address, click[**here**](#Step1) to know how to check.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548e65a013a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) If you are using routers that has the**NAT Filtering** option, such as NETGEAR router, you can also click to**open NAT filtering** . (You can skip to the next step if you don’t have this option.)
 
@@ -210,14 +236,20 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5488dd7df5a.jpg)
 
- This may get all the network traffic to your PS4 and reduce the network restrictions when using your PS4.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ This may get all the network traffic to your PS4 and reduce the network restrictions when using your PS4.
 
 ## **Method 4: Forward Port for your PS4 network**
 
@@ -235,13 +267,6 @@ ipconfig/all
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Go to the**forward ports section** (or**ports forwarding** ,**Virtual Server** ,**Applications**  according to different routers).
 
  5)**Add the custom forwarding ports** . You can try the following ports recommended by Sony:
@@ -255,13 +280,6 @@ ipconfig/all
  7) Go to PS4**Settings** \>**Network** \>**Test Internet Connection** , and check your**NAT Type** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5488dd7df5a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  These are the 4 easy methods to solve PS4 NAT type failed. Feel free to comment below to share your ideas. If you have any further questions, please let us know and we’ll see what more we can do to help.
 
@@ -283,22 +301,18 @@ ipconfig/all
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-top-edge-video-editing-programs-for-instagram-on-android-for-2024/"><u>[New] Top Edge Video Editing Programs for Instagram on Android for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-proven-ways-to-enhance-fidelity-in-your-virtual-reality-captures/"><u>[Updated] 2024 Approved Proven Ways to Enhance Fidelity in Your Virtual Reality Captures</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-uncovering-the-top-8-genuine-video-advancement-solutions/"><u>2024 Approved Uncovering the Top 8 Genuine Video Advancement Solutions</u></a></li>
-<li><a href="https://win-info.techidaily.com/convertidor-mp3-a-m4a-sin-costo-herramienta-rapida-y-facil-descubra-el-movavi/"><u>Convertidor MP3 a M4A Sin Costo: Herramienta Rápida Y Fácil, Descubra El Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/dell-wireless-keyboard-problems-discover-proven-fixes-and-tricks/"><u>Dell Wireless Keyboard Problems? Discover Proven Fixes & Tricks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/filters-through-windows-10-photos-extracting-picture-moments-for-2024/"><u>Filters Through Windows 10 Photos Extracting Picture Moments for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-no-sound-on-netflix-effective-techniques-for-a-quiet-stream/"><u>Fixing No Sound on Netflix: Effective Techniques for a Quiet Stream</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722957672689-instant-access-to-your-arduino-mega-2560-drivers-download-now/"><u>Instant Access to Your Arduino Mega 2560 Drivers – Download Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-monitor-support-issues-understanding-discontinued-display-standards/"><u>Navigating Monitor Support Issues: Understanding Discontinued Display Standards</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-the-issue-of-unrecognized-wd-my-passport-ultra-by-windows-os/"><u>Resolved: Fixing the Issue of Unrecognized WD My Passport Ultra by Windows OS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-the-riot-games-league-of-legends-backlog-issue/"><u>Resolving the Riot Games League of Legends Backlog Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-airdrop-problems-fast-a-beginners-guide-to-troubleshooting/"><u>Solve Your AirDrop Problems Fast: A Beginner's Guide to Troubleshooting</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-up-to-professional-level-gaming-on-a-budget-with-the-asus-rog-strix-xg27wcs-featuring-27-inches-va-technology-and-rapid-180hz-refresh-rate/"><u>Step Up to Professional-Level Gaming on a Budget With The Asus ROG Strix XG27WCS – Featuring 27 Inches, VA Technology, and Rapid 180Hz Refresh Rate</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-power-surge-issues-in-windows-11-usb-ports/"><u>Troubleshooting Guide: Resolving 'Power Surge' Issues in Windows 11 USB Ports</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-reviving-your-unresponsive-flash-drive-easily/"><u>Troubleshooting Guide: Reviving Your Unresponsive Flash Drive Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-random-system-failures-in-windows-7-solutions-and-prevention-methods/"><u>Troubleshooting Random System Failures in Windows 7 – Solutions & Prevention Methods</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-saving-your-itunes-media-three-simple-steps/"><u>[New] 2024 Approved Saving Your iTunes Media Three Simple Steps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-enhancing-your-social-presence-facebook-bios-101/"><u>[New] Enhancing Your Social Presence Facebook Bios 101</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-spectrum-analysis-of-vsco-editing-features/"><u>[New] Full Spectrum Analysis of VSCO Editing Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-rated-android-soundbanks/"><u>[Updated] Best-Rated Android Soundbanks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-sphere-of-imaging-who-takes-the-crown/"><u>[Updated] Sphere of Imaging Who Takes the Crown?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streamline-your-workflow-with-top-10-free-mac-screen-recorders/"><u>2024 Approved Streamline Your Workflow with Top 10 Free Mac Screen Recorders</u></a></li>
+<li><a href="https://techidaily.com/customizing-content-curation-with-the-help-of-advanced-cookiebot-technologies/"><u>Customizing Content Curation with the Help of Advanced Cookiebot Technologies</u></a></li>
+<li><a href="https://common-error.techidaily.com/haitian/"><u>Haitian</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-i-resolved-the-prolonged-shutdown-problem-on-my-windows-10-pc/"><u>How I Resolved the Prolonged Shutdown Problem on My Windows 10 PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oppo-f23-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Oppo F23 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-error-code-39-on-your-dvd-or-cd-rom-a-comprehensive-guide-to-restoring-functionality/"><u>Quick Solutions for Error Code 39 on Your DVD or CD ROM: A Comprehensive Guide to Restoring Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/rapid-remedy-for-missing-logilda/"><u>Rapid Remedy for Missing LogiLDA</u></a></li>
+<li><a href="https://blog-min.techidaily.com/swift-tips-and-tricks-for-resolving-video-playback-issue-error-asterisk/"><u>Swift Tips & Tricks for Resolving Video Playback Issue - Error Asterisk</u></a></li>
 </ul></div>
 

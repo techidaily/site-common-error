@@ -1,7 +1,7 @@
 ---
 title: Resolve VCRUNTIME140.dll Missing File Alert - Step-by-Step Fix Guide
-date: 2024-09-10T16:03:13.208Z
-updated: 2024-09-15T16:00:55.089Z
+date: 2024-10-05T21:46:00.123Z
+updated: 2024-10-12T21:33:26.061Z
 tags:
   - win11
   - win10
@@ -31,6 +31,19 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -41,9 +54,23 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
@@ -82,36 +109,31 @@ To do so:
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -144,5 +166,26 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-10-best-creative-youtube-video-reaction-ideas-you-should-know/"><u>[Updated] 10 Best Creative YouTube Video Reaction Ideas You Should Know</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-from-novice-to-expert-setting-up-a-sports-channel-on-mac-for-2024/"><u>[Updated] From Novice to Expert Setting up a Sports Channel on Mac for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-most-reliable-external-hdds-for-xbox-users/"><u>[Updated] In 2024, Most Reliable External HDDs for Xbox Users</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-ultimate-resource-for-instagram-livestreams-via-obs-software/"><u>[Updated] In 2024, The Ultimate Resource for Instagram Livestreams via OBS Software</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-integrate-sound-and-filter-magic-into-your-windows-10-photos-app/"><u>2024 Approved Integrate Sound & Filter Magic Into Your Windows 10 Photos App</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solution-to-resolve-ps4-nat-type-failures-guide-with-easy-steps/"><u>Comprehensive Solution to Resolve PS4 NAT Type Failures - Guide with Easy Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-functionality-of-your-hp-laptop-usb-ports/"><u>Expert Tips to Restore Functionality of Your HP Laptop USB Ports</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/explore-and-learn-personalized-tiktok-identifier-creation/"><u>Explore and Learn Personalized TikTok Identifier Creation</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-disconnected-media-streams-in-the-windows-os/"><u>How to Repair Disconnected Media Streams in the Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-11-update-issue-with-error-code-0x800705b4/"><u>How to Resolve Windows 11 Update Issue with Error Code 0X80#0705B4</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-v30-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo V30 Android SIM Unlock APK</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/seamless-hdmi-setup-addressing-the-windows-11-television-connection-glitch/"><u>Seamless HDMI Setup: Addressing the Windows 11 Television Connection Glitch</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-enabling-a-hosted-network-on-your-windows-10-pc/"><u>Solution Steps for Enabling a Hosted Network on Your Windows 10 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-your-ps4-controllers-connection-problem-a-step-by-step-guide/"><u>Solving Your PS4 Controller's Connection Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/surface-charger-malfunction-solved-a-step-by-step-guide/"><u>Surface Charger Malfunction Solved: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-connection-issues-in-minecraft-how-to-fix-unable-to-connect-to-world/"><u>Troubleshooting Connection Issues in Minecraft: How to Fix 'Unable to Connect to World'</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-resolving-failed-distributed-procedures-a-step-by-step-guide/"><u>Understanding and Resolving Failed Distributed Procedures: A Step-by-Step Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-integrating-audio-seamlessly-techniques-for-film-editors-using-magix-movie-editor-2023/"><u>Updated Integrating Audio Seamlessly Techniques for Film Editors Using Magix Movie Editor 2023</u></a></li>
+</ul></div>
 

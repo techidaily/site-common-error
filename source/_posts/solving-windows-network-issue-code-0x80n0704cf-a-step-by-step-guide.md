@@ -1,7 +1,7 @@
 ---
 title: "Solving Windows Network Issue Code 0X80n0704CF: A Step-by-Step Guide"
-date: 2024-10-04T04:18:37.984Z
-updated: 2024-10-06T23:43:29.173Z
+date: 2024-10-08T04:17:26.765Z
+updated: 2024-10-12T18:08:00.660Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
 If your **microphone is not working on laptop**  , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -45,23 +52,9 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
@@ -79,18 +72,33 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -101,6 +109,14 @@ To do so:
 1. Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 3. Click on **your microphone device again** and click**Properties** .  
@@ -109,34 +125,15 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
@@ -172,19 +169,18 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-how-to-use-picture-in-picture-mode-on-youtube-ios/"><u>[New] How to Use Picture-In-Picture Mode on YouTube (iOS)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-master-the-conversion-avi-files-become-gifs-using-filmora-software-windowsmac/"><u>[Updated] Master the Conversion AVI Files Become GIFs Using Filmora Software (Windows/Mac)</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-art-of-crafting-youtube-playlists-for-optimal-listening/"><u>[Updated] The Art of Crafting YouTube Playlists for Optimal Listening</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-guide-restoring-audio-in-non-responsive-stereo-receivers/"><u>Easy Guide: Restoring Audio in Non-Responsive Stereo Receivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficiently-using-windows-10s-file-explorer-a-step-by-step-guide/"><u>Efficiently Using Windows 10'S File Explorer: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-fixes-for-windows-10-unresponsiveness-on-system-startup-and-boot/"><u>Essential Fixes for Windows 10 Unresponsiveness on System Startup and Boot</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-footage-to-film-mastering-the-art-of-cinematic-video-editing/"><u>From Footage to Film Mastering the Art of Cinematic Video Editing</u></a></li>
-<li><a href="https://common-error.techidaily.com/geforce-management-tool-successfully-retrieves-data-after-fixing-setting-extraction-hurdle/"><u>GeForce Management Tool Successfully Retrieves Data After Fixing Setting Extraction Hurdle</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Vivo S18e? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-experts-take-on-vivacut-full-video-editing-review-24/"><u>In 2024, Expert's Take on VivaCut Full Video Editing Review '24</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-polarr-editor-essentials-unlocking-the-potential-of-images/"><u>In 2024, Polarr Editor Essentials Unlocking the Potential of Images</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-resolving-issues-with-a-non-functioning-logitech-mouse-scroll-wheel/"><u>Quick Fixes: Resolving Issues with a Non-Functioning Logitech Mouse Scroll Wheel</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-compatibility-problems-updating-device-drivers-for-seamless-gaming-experience-in-wow/"><u>Troubleshooting Compatibility Problems: Updating Device Drivers for Seamless Gaming Experience in WoW</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-over-error-1067-tackling-sudden-program-endings-on-your-windows-machine/"><u>Winning Over Error 1067: Tackling Sudden Program Endings on Your Windows Machine</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-skyward-file-fortresses-identifying-top-cloud-titans/"><u>[New] 2024 Approved Skyward File Fortresses Identifying Top Cloud Titans</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-ultimate-checklist-for-starting-a-live-feed/"><u>[New] The Ultimate Checklist for Starting a Live Feed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-navigating-the-troubled-waters-of-zombie-army-4-on-your-computer-dead-war-edition/"><u>[SOLVED] Navigating the Troubled Waters of 'Zombie Army 4' On Your Computer - Dead War Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fast-techniques-to-restructure-your-youtube-sequence-for-2024/"><u>[Updated] Fast Techniques to Restructure Your YouTube Sequence for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-welcome-screen-glitch-in-windows-11-quick-fixes/"><u>Bypassing the Welcome Screen Glitch in Windows 11, Quick Fixes!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/can-you-submerge-your-iphone-13-in-water/"><u>Can You Submerge Your iPhone 13 in Water?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/enhance-virtual-presence-mastering-zooms-snaps-for-2024/"><u>Enhance Virtual Presence Mastering Zoom’s Snaps for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/evaluating-nokia-31-why-it-stands-out-as-an-exceptional-entry-level-phone/"><u>Evaluating Nokia 3.1: Why It Stands Out as an Exceptional Entry-Level Phone</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-broken-usb-connections-in-the-latest-windows-operating-systems/"><u>Expert Tips for Repairing Broken USB Connections in the Latest Windows Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-keyboards-locked-function-buttons/"><u>How To Repair Keyboard's Locked Function Buttons</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-unresponsive-number-pad-or-keyboard-buttons/"><u>How to Repair Unresponsive Number Pad or Keyboard Buttons</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-svchostexe-netsvcs-its-functions-and-solutions-for-excessive-bandwidth-use/"><u>Understanding svchost.exe: NETSVCS, Its Functions & Solutions for Excessive Bandwidth Use</u></a></li>
 </ul></div>
 

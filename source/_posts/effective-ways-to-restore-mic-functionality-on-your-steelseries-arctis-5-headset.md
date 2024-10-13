@@ -1,7 +1,7 @@
 ---
 title: Effective Ways to Restore Mic Functionality on Your SteelSeries Arctis 5 Headset
-date: 2024-09-10T16:04:32.098Z
-updated: 2024-09-15T16:02:13.666Z
+date: 2024-10-08T16:46:18.660Z
+updated: 2024-10-12T17:42:54.005Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/1a1e5c2753d0c8947ba30db3ebb53725cfb2d0319
 3. [**Adjust your audio settings**](#F3)
 4. [**Install the latest SteelSeries Engine software**](#F4)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Allow access to microphone
 
  If your **SteelSeries Arctis 5 microphone is not working** , the first thing you want to check is whether you’ve allowed the app you’re using the mic on access to microphone.
@@ -49,6 +56,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
 ---
@@ -65,11 +79,26 @@ Here’s how to do it:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -81,34 +110,22 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
@@ -142,5 +159,26 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/op-8-proven-video-growth-enhancers-for-2024/"><u>[New] Top 8 Proven Video Growth Enhancers for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-filmora-tutorials-simple-steps-to-a-dynamic-youtube-subscribe-button-for-2024/"><u>[Updated] Filmora Tutorials Simple Steps to a Dynamic YouTube Subscribe Button for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/accessing-midjourney-with-ease-a-guide-to-utilizing-the-new-web-interface/"><u>Accessing Midjourney with Ease: A Guide to Utilizing the New Web Interface</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/analyzing-opinions-on-microsofts-surface-duo-2-understanding-why-assessments-vary-for-the-twin-screen-phone-concept/"><u>Analyzing Opinions on Microsoft's Surface Duo 2: Understanding Why Assessments Vary for the Twin-Screen Phone Concept</u></a></li>
+<li><a href="https://common-error.techidaily.com/beating-the-100-hurdle-a-step-by-step-fix-to-complete-windows-updates/"><u>Beating the 100% Hurdle: A Step-by-Step Fix to Complete Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/behind-closed-doors-fixing-fortnites-launch/"><u>Behind Closed Doors: Fixing Fortnite's Launch</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/best-photo-enhancing-apps-for-smartphones-with-overlays-top-10-for-2024/"><u>Best Photo-Enhancing Apps for Smartphones with Overlays (Top 10) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/cross-platform-repair-tactics-event-id-1000-error-on-windows-operating-systems-7-to-10/"><u>Cross-Platform Repair Tactics: Event ID 1000 Error on Windows Operating Systems 7 to 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-and-reactivate-your-bluetooth-mouse-on-a-windows-operating-system/"><u>How to Repair and Reactivate Your Bluetooth Mouse on a Windows Operating System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-utilize-chatgpt-for-tailoring-your-watchlist-choices/"><u>How to Utilize ChatGPT for Tailoring Your Watchlist Choices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/lenovo-thinkpad-z16-gen-2-with-amd-processor-comprehensive-expert-analysis/"><u>Lenovo ThinkPad Z16 Gen 2 with AMD Processor - Comprehensive Expert Analysis</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/perfecting-visual-output-on-newer-windows-11/"><u>Perfecting Visual Output on Newer Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/png-to-jpg-converter-easy-steps-zum-konvertieren-und-backen-von-bildformaten/"><u>PNG-to-JPG Converter - Easy Steps Zum Konvertieren Und Backen Von Bildformaten</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-poco-m6-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Poco M6 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-non-compliant-htc-display-lacks-tap-sensitivity/"><u>Resolved: Non-Compliant HTC Display Lacks Tap Sensitivity</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-camera-problems-in-windows-10-a-step-by-step-solution-for-the-surface-pro-4/"><u>Resolving Camera Problems in Windows 10: A Step-by-Step Solution for the Surface Pro 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-wwe-2k17s-directx-level-100-issue-a-comprehensive-guide/"><u>Resolving WWE 2K17's DirectX Level 10.0 Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-broken-or-stuck-characters-on-your-windows-11-keyboard/"><u>Step-by-Step Solution for Broken or Stuck Characters on Your Windows 11 Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-desktop-inaccessibility-at-cwindowssystem32configsystemprofile-path/"><u>Troubleshooting Desktop Inaccessibility at C: Windows System32 Config SystemProfile Path</u></a></li>
+</ul></div>
 

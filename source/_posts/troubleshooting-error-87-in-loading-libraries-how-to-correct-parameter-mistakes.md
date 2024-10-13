@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Error 87 in Loading Libraries: How to Correct Parameter Mistakes"
-date: 2024-09-14T16:04:30.477Z
-updated: 2024-09-15T16:08:01.701Z
+date: 2024-10-11T00:57:25.652Z
+updated: 2024-10-13T02:15:55.751Z
 tags:
   - win11
   - win10
@@ -47,11 +47,25 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/WeChat7a797c10615ac4351f0fb3895da7d65e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Turn off your keyboard.
 2. Press and hold the**ESC** key.
 3. While holding down the ESC key, turn on your keyboard and wait for a few seconds until the keyboard begins to flash.
 
  If your keyboard still doesn’t light up after the resetting, don’t give up and try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update the Corsair keyboard driver
 
@@ -74,26 +88,27 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 1. Open iCUE and click the**Settings** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/icue-setting.jpg)  
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -115,5 +130,22 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-reels-unlocking-the-ninja-mindset/"><u>[New] 2024 Approved Instagram Reels Unlocking the Ninja Mindset</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-block-automated-youtube-content-triggers/"><u>[New] In 2024, Block Automated YouTube Content Triggers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-leveraging-likeability-for-business-profits-on-fb/"><u>2024 Approved Leveraging Likeability for Business Profits on FB</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-productivity-leverage-less-known-effective-chatgpt-tools-and-tricks/"><u>Boost Productivity: Leverage Less-Known, Effective ChatGPT Tools and Tricks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-ways-to-overcome-error-0x80070091-during-windows-10-system-restore-complete-fix/"><u>Effective Ways to Overcome Error 0X80070091 During Windows 10 System Restore [Complete Fix]</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-message-troubleshooting-how-to-fix-unable-to-open-video-code-224003/"><u>Error Message Troubleshooting: How to Fix 'Unable to Open Video (Code 224003)'</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-the-finest-usb-network-adapters-available/"><u>Expert Picks: The Finest USB Network Adapters Available</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-a-smooth-transition-addressing-common-failures-in-windows-1903-installation/"><u>Expert Tips for a Smooth Transition: Addressing Common Failures in Windows 1903 Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-microsoft-surface-pro-4-touchscreen-issues-with-these-simple-steps/"><u>Fix Your Microsoft Surface Pro #4 Touchscreen Issues with These Simple Steps!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 mini with a Mask On</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-connection-problems-how-to-get-your-airpods-working-on-windows-11-updated-guide/"><u>Overcoming Connection Problems: How to Get Your AirPods Working on Windows 11 - Updated Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964487998-steep-discount-alert-8bitdos-nes-style-retro-keyboard-now-at-just-79-on-amazon-prime-day/"><u>Steep Discount Alert: 8BitDo's NES-Style Retro Keyboard Now at Just $79 on Amazon Prime Day!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-recurring-shutdowns-in-windows-11-quick-and-effective-solutions/"><u>Troubleshooting Recurring Shutdowns in Windows 11: Quick and Effective Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-windows-critical-process-died-error-code-0xc00000e9/"><u>Ultimate Guide: Resolving the Windows Critical Process Died (Error Code 0xC00000E9)</u></a></li>
+</ul></div>
 

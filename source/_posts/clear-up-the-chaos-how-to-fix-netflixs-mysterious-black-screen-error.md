@@ -1,7 +1,7 @@
 ---
 title: "Clear Up the Chaos: How to Fix Netflix's Mysterious Black Screen Error"
-date: 2024-10-01T10:25:28.197Z
-updated: 2024-10-06T21:39:58.105Z
+date: 2024-10-11T04:40:35.119Z
+updated: 2024-10-12T17:53:56.439Z
 tags:
   - win11
   - win10
@@ -34,10 +34,16 @@ Many users are experiencing a**Netflix no sound** issue on their computer. If yo
  Before troubleshooting, please **make sure the volumes on your PC and the Netflix app are both turned up to at least audible levels** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Adjust your audio settings in Netflix
@@ -47,16 +53,16 @@ Many users are experiencing a**Netflix no sound** issue on their computer. If yo
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3816904a78d.jpg)
 3. Check if **surround sound (5.1)** is selected. If yes, then try changing it to a non-5.1 option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. See if you can hear any sound from the video in Netflix. If the**no sound** problem still lingers on, you should try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -71,19 +77,19 @@ Many users are experiencing a**Netflix no sound** issue on their computer. If yo
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c380344efdc2.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c38035854a95.jpg)  
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then play a video in Netflix to see if the**Netflix no sound** issue has been resolved. If yes, then great! But if the problem still persists, move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust the built-in audio settings
 
@@ -96,10 +102,10 @@ Here’s how to do it:
 2. In the**Playback** tab, click**the device** you want to play Netflix through (speakers , headphones, HDMI, or Digital Audio). Then click**Set Default** – **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c380de82d06b.jpg)
@@ -135,20 +141,15 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-chuckle-craft-ranking-the-top-10-memes-by-wow-factor/"><u>[Updated] In 2024, Chuckle Craft Ranking the Top 10 Memes by Wow Factor</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/androids-leading-video-tiles-ranked-8-freepaid-collage-creators/"><u>Android's Leading Video Tiles Ranked #8-Free/Paid Collage Creators</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/aqtime-media-center-diverse-audio-video-options-for-2024/"><u>Aqtime Media Center Diverse Audio, Video Options for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-the-critical-process-died-error-0xc00000e9-on-your-pc/"><u>Diagnosing and Repairing the Critical Process Died Error (0xC00000E9) on Your PC</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/dynamic-color-filters-the-ultimate-15-look-up-table-picks-for-gopro-for-2024/"><u>Dynamic Color Filters The Ultimate 15 Look-Up Table Picks for GOPRO for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204239715-fix-broken-updown-keys-on-your-keyboard-expert-advice-here/"><u>Fix Broken Up/Down Keys on Your Keyboard – Expert Advice Here</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-persistent-windows-10-freezing-issues-when-booting-up/"><u>How to Overcome Persistent Windows 10 Freezing Issues When Booting Up</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-game-not-starting-errors-ensuring-correct-game-setup/"><u>How to Resolve 'Game Not Starting' Errors: Ensuring Correct Game Setup</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expertise-in-visual-communication-a-guide-to-gif-creation/"><u>In 2024, Expertise in Visual Communication A Guide to GIF Creation</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-connection-issues-a-guide-to-fixing-your-airpods-on-windows-11/"><u>Resolving Connection Issues: A Guide to Fixing Your AirPods on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-steps-how-to-quickly-freshen-up-or-restart-your-windows-11-system/"><u>Simple Steps: How to Quickly Freshen Up or Restart Your Windows 11 System</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-apples-tiny-wonder-exploring-music-siri-and-additional-capabilities-of-the-homepod-mini/"><u>The Ultimate Guide to Apple's Tiny Wonder - Exploring Music, Siri & Additional Capabilities of the HomePod Mini</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-iphone-12-mini-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on iPhone 12 mini iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210105106-unstuck-your-touchscreen-on-windows-10-try-these-5-troubleshooting-tactics/"><u>Unstuck Your Touchscreen on Windows 10? Try These 5 Troubleshooting Tactics</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-11-useful-youtube-seo-tips-to-rank-your-video/"><u>[New] 2024 Approved 11 Useful YouTube SEO Tips to Rank Your Video</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-sierras-icloud-drives-the-full-experience/"><u>2024 Approved Comprehensive Sierra's iCloud Drives – The Full Experience</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/6kej5rg65pa55rov77ya5zyo5q2k6jmv5pyq542y5b6x6k6alpluswvqplusasiumzkoeahowvjplusmhjowmgus9lewfiplusacjeplus8nw/"><u>解決方法：在此處未獲得讀/寫權限的問題如何克服？</u></a></li>
+<li><a href="https://common-error.techidaily.com/busting-the-code-comprehensive-guide-to-correcting-nba-2k21s-green-glitch/"><u>Busting the Code: Comprehensive Guide to Correcting NBA 2K21's Green Glitch</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-fix-for-your-lenovo-laptops-camera-problem-a-comprehensive-approach/"><u>DIY Fix for Your Lenovo Laptop's Camera Problem: A Comprehensive Approach</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-resource-protection-failed-error-solutions-and-steps/"><u>Fixing 'Windows Resource Protection Failed' Error: Solutions & Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-brightness-back-overcoming-windows-10s-screen-setting-glitches/"><u>Getting Brightness Back: Overcoming Windows 10'S Screen Setting Glitches</u></a></li>
+<li><a href="https://extra-information.techidaily.com/insights-on-lg-bp350-user-perspectives-and-ratings/"><u>Insights on LG BP350 - User Perspectives and Ratings</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unleash-your-creativity-top-10-cartoon-video-creation-apps/"><u>New 2024 Approved Unleash Your Creativity Top 10 Cartoon Video Creation Apps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-filmora-13-editor-download-for-free/"><u>New In 2024, Filmora 13 Editor Download for Free</u></a></li>
 </ul></div>
 

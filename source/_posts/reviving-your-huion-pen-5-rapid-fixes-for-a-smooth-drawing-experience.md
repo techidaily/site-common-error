@@ -1,7 +1,7 @@
 ---
 title: "Reviving Your Huion Pen: 5 Rapid Fixes for a Smooth Drawing Experience"
-date: 2024-09-08T16:02:52.050Z
-updated: 2024-09-15T16:06:37.382Z
+date: 2024-10-09T01:25:33.036Z
+updated: 2024-10-13T02:58:00.315Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  So this is the quick fix for you. Sometimes it’s just your device driver running into glitches that caused the pen to stop working. In this case, simply shut down your computer and then restart it. The next time you use your pen on a PC, it should work as normal.
@@ -77,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-637.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Expand**Put the computer to sleep:** and select**Never** . Then click**Save changes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-639.png)
@@ -91,6 +105,13 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-When-plugged-in-put-my-device-to-sleep-after-Never-When-plugged-in-turn-off-my-screen-after-Never-1200x771.jpg)
@@ -98,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
  Restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Tick the “Support TabletPC” option
 
@@ -115,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
  2) Check the**Support TabletPC** box, as shown below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
@@ -159,6 +166,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-650.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** you can do it for free if you like, but it’s partly manual.
 
  If you have any problems when using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -182,16 +196,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-657.png)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The folder name can be different based on your tablet model.
@@ -200,6 +208,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-660.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Follow the on-screen wizard to install the driver.
 
 6) When everything’s done, reboot your computer for the changes to take effect.
@@ -207,13 +222,6 @@ OR
  After updating your tablet driver, check to see if the digital pen works properly. In case the problem persists, you should try out the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Uncheck “Enable Windows Ink”
 
@@ -227,6 +235,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then save the file as**PSUserConfig.txt** to the following location:
 
 C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photoshop CC 2018 Settings
@@ -236,13 +251,6 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 **Note** that some of the functions in your drawing software may be unusable if you disable Windows Ink. In that situation, you’ll need to enable Windows Ink again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
 
@@ -267,5 +275,24 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-smb-video-marketing-success-factors/"><u>[New] 2024 Approved SMB Video Marketing Success Factors</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-precision-techniques-for-capturing-the-essence-of-moments-with-gopro/"><u>[New] Precision Techniques for Capturing the Essence of Moments with GoPro</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-videovisionary-toolkit/"><u>[Updated] In 2024, VideoVisionary Toolkit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/directors-diary-filmo-qanda-series/"><u>Director's Diary Filmo Q&A Series</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elite-choices-for-image-capturing/"><u>Elite Choices for Image Capturing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-empathy-through-chatgpt-utilization/"><u>Enhancing Empathy Through ChatGPT Utilization</u></a></li>
+<li><a href="https://facebook.techidaily.com/examining-the-efficiency-and-security-trade-offs-in-social-app-sign-ups-via-facebook/"><u>Examining the Efficiency & Security Trade-Offs in Social App Sign-Ups via Facebook</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-best-15-cost-free-photo-editors/"><u>Explore Best 15 Cost-Free Photo Editors</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-my-surface-wont-charge-problem-expert-tips-for-a-full-battery/"><u>Fix My Surface Won't Charge Problem – Expert Tips for a Full Battery!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-restore-night-light-functionality-in-windows-10-and-11/"><u>Fixing the Issue: How to Restore Night Light Functionality in Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reactivate-user-specific-adjustments-error-resolved/"><u>How to Reactivate User-Specific Adjustments (Error Resolved)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-realme-11-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Realme 11 Pro to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/reactivate-your-devices-inactive-wireless-network-capability-easy-fixes-inside/"><u>Reactivate Your Device's Inactive Wireless Network Capability - Easy Fixes Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solution-solving-the-silent-movie-problem-on-netflix/"><u>Simple Solution: Solving the Silent Movie Problem on Netflix</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-the-vcruntime140dll-could-not-be-located-problem-today/"><u>Solve the 'VCRUNTIME140.dll Could Not Be Located' Problem Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/tab-trouble-typing-restored/"><u>Tab Trouble: Typing Restored</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-windows-11-bluetooth-connection-issues/"><u>Ultimate Guide: Resolving Windows 11 Bluetooth Connection Issues</u></a></li>
+</ul></div>
 

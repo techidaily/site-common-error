@@ -1,7 +1,7 @@
 ---
 title: USB Flash Drive Not Showing Up? Here's How to Make It Work Smoothly!
-date: 2024-10-06T00:26:17.132Z
-updated: 2024-10-07T00:52:49.921Z
+date: 2024-10-10T02:14:03.933Z
+updated: 2024-10-12T23:07:53.653Z
 tags:
   - win11
   - win10
@@ -35,18 +35,24 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 5. **[Turn on Location services](#Fix5)**
 6. **[Check for Windows updates](#Fix6)**
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Sign out of your account and sign back in
 
  Sometimes, the Night Light not working issue could be caused by a temporary glitch. If that’s the case, you can try to fix the problem by signing out of your account and then signing back in.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/windows-sign-out.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Check if the Night Light starts working again. If your issue persists, go ahead and try the next fix.
 
@@ -65,27 +71,14 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click the**Update** button next to the flagged display driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -94,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 
 If your issue remains, check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Reset Night Light settings manually
 
  If the Night Light option on your PC is grayed out, you can try resetting this feature by editing the Windows registry. Here’s how to do it:
@@ -101,8 +101,23 @@ If your issue remains, check out the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** dialog. Then type**regedit** and click**OK** to open**Registry Editor** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/windows-r-regedit.jpg)
 2. Click**Yes** if prompted by User Account Control.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/registry-editor-uac.jpg)
 3. In Registry Editor, paste the following path into the address bar and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **`Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\CloudStore\Store\DefaultAccount\Cloud`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/registry-editor-cloud.jpg)
@@ -116,6 +131,13 @@ If your issue remains, check out the next fix.
 
  If the Night Light still doesn’t work properly, continue with the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Check date and time settings
 
  Windows allows you to set a schedule to turn on and turn off the Night Light feature. If the date and time settings on your PC are set incorrectly, you might be unable to use this feature properly. To check your PC’s date and time settings:
@@ -126,34 +148,8 @@ If your issue remains, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/time-change.jpg)  
  Note: the options for**Set time automatically** and**Set time zone automatically** must be set to**Off** to make this change.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Change the date and time according to your need, then click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/change-date-time.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the date and time are correct and you still encounter the Night Light not working issue, you may need to check Location services.
 
@@ -168,22 +164,15 @@ If your issue remains, check out the next fix.
 3. Make sure the**Location for this device** is**On** . If not, you can click the**Change** button to turn it on. Also, make sure that**Allow apps to access your location** is set to**On** .  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/location-on.jpg)
 
  Now try to use the Night Light feature again and see if it works properly.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for Windows updates
 
@@ -219,19 +208,18 @@ If your issue remains, check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-how-to-reduce-audio-noise-in-video-recording-free-and-paid/"><u>[Updated] 2024 Approved How to Reduce Audio Noise in Video Recording [Free and Paid]</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-advanced-editor-techniques-from-the-experts-at-canva/"><u>[Updated] Advanced Editor Techniques From the Experts at Canva</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-tricks-for-smooth-animation-with-movie-maker/"><u>[Updated] Tricks for Smooth Animation with Movie Maker</u></a></li>
-<li><a href="https://common-error.techidaily.com/address-and-repair-the-infamous-red-screen-error-in-windows-10-system/"><u>Address and Repair the Infamous Red Screen Error in Windows 10 System</u></a></li>
-<li><a href="https://common-error.techidaily.com/bluetooth-not-showing-in-device-manager-fixed/"><u>Bluetooth Not Showing in Device Manager [Fixed]</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-youtube-masterpieces-with-powerful-hashtag-strategies/"><u>Crafting YouTube Masterpieces with Powerful Hashtag Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-when-you-cant-find-binkw32dll-file/"><u>Effective Solutions for When You Can't Find binkw32.dll File</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-laptop-touchpad-functionality-in-windows-operating-systems/"><u>How to Restore Laptop Touchpad Functionality in Windows Operating Systems</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/overcoming-dell-audio-malfunctions-expert-solutions-for-windows-7-users/"><u>Overcoming Dell Audio Malfunctions: Expert Solutions for Windows 7 Users</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-unknown-usb-device-detected-error-port-reset-failure-on-windows-10/"><u>Solving the 'Unknown USB Device Detected' Error: Port Reset Failure on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-graphics-drivers-to-enhance-your-minecraft-adventures-in-windows/"><u>Troubleshooting Graphics Drivers to Enhance Your Minecraft Adventures in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolve-livekernelevent-error-code-117/"><u>Troubleshooting Guide: Resolve LiveKernelEvent Error Code 117</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/shmaia-eyxhs-klismos-gkreman/"><u>Σημαία Ευχής Κλισμός Γκρεμάν</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-sky-high-engagement-optimizing-for-virality-and-visibility/"><u>[New] 2024 Approved Sky High Engagement Optimizing for Virality and Visibility</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-instant-facebook-beat-loader-for-2024/"><u>[New] Instant Facebook Beat Loader for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-embark-on-the-journey-defining-and-developing-style-and-niche-for-2024/"><u>[Updated] Embark on the Journey Defining & Developing Style and Niche for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-crc-how-to-overcome-common-data-verification-issues/"><u>Fixing CRC - How to Overcome Common Data Verification Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-missing-d3dx939dll-errors-on-your-pc-with-easy-fixes/"><u>Fixing Missing d3dX9_39.dll Errors on Your PC with Easy Fixes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-easy-steps-to-record-your-dell-laptops-display/"><u>In 2024, Easy Steps to Record Your Dell Laptop's Display</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-melodies-and-movements-uncovering-three-economical-methods-of-syncing-sound-with-iphone-videos/"><u>In 2024, Melodies and Movements Uncovering Three Economical Methods of Syncing Sound with iPhone Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-inoperative-usb-ports-for-a-smooth-windows-11-experience/"><u>Resolving Inoperative USB Ports for a Smooth Windows 11 Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-error-code-0x80072efd-on-your-windows-10-device-a-step-by-step-guide/"><u>Resolving the 'Error Code 0X80072EFD' On Your Windows 10 Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-casting-problems-to-peripherals-and-tvs/"><u>Resolving Windows 10 Casting Problems to Peripherals and TVs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/screencast-success-stories-lessons-from-industry-experts/"><u>Screencast Success Stories Lessons From Industry Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-windows-11-tips-for-successfully-launching-a-hosted-network/"><u>Solving Windows 11: Tips for Successfully Launching a Hosted Network</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unraveling-the-mystery-behind-visionpro-glitches-a-comprehensive-guide-on-taking-action-insights-from-zdnet/"><u>Unraveling the Mystery Behind VisionPro Glitches: A Comprehensive Guide on Taking Action - Insights From ZDNet</u></a></li>
 </ul></div>
 

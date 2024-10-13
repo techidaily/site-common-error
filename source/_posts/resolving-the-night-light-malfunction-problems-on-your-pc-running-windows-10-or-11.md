@@ -1,7 +1,7 @@
 ---
 title: Resolving the Night Light Malfunction Problems on Your PC Running Windows 10 or 11
-date: 2024-10-06T02:20:49.026Z
-updated: 2024-10-06T17:41:24.186Z
+date: 2024-10-11T18:34:41.442Z
+updated: 2024-10-12T16:36:42.424Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ There are two ways you can update your display driver : manually or automaticall
 Adjust the brightness on your Windows 10 computer to see if it works now. If it works, so great! If it doesn’t, don’t worry, move on to Solution 2.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 2: Use Microsoft Basic Display Adapter software
@@ -48,30 +48,42 @@ Adjust the brightness on your Windows 10 computer to see if it works now. If it 
 3. Click **Browse my computer for driver software** .![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b183012265.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Go on to choose**Let me pick from a list of available drivers on my computer** .![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b1a726a5d9.png)
 5. Click**Microsoft Basic Display Adapter** . Then click**Next** to continue.![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595b306d34eb6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now your Windows 10 computer will install the Microsoft Basic Display Adapter driver. When it’s done, reboot your computer and try again to adjust the brightness, the issue should be fixed now. Hopefully, this article helps you fix the problem. Feel free to comment below with your own experiences.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
@@ -90,19 +102,21 @@ Now your Windows 10 computer will install the Microsoft Basic Display Adapter dr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-keep-track-who-dropped-off-my-insta-feed/"><u>[Updated] 2024 Approved Keep Track Who Dropped Off My Insta Feed?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-optimal-solution-review-prime-action-recorder/"><u>[Updated] Optimal Solution Review Prime Action Recorder</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-altering-meeting-screens-in-microsoft-teams/"><u>2024 Approved Altering Meeting Screens in Microsoft Teams</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/balancing-pace-for-better-snapchat-views-for-2024/"><u>Balancing Pace for Better Snapchat Views for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/cut-the-silence-connect-the-sound-pc-and-headphone-fix/"><u>Cut the Silence, Connect the Sound - PC & Headphone Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-stopped-audio-services-in-windows-7/"><u>Fixing the Stopped Audio Services in Windows 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-repair-key-windows-update-elements/"><u>How To Successfully Repair Key Windows Update Elements</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27e-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo V27e Phone without PIN</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-silent-playstation-4-operation-expert-advice-on-dealing-with-a-loud-fan/"><u>Mastering Silent PlayStation 4 Operation: Expert Advice on Dealing With a Loud Fan</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/optimal-stabilizers-elevate-your-iphoneandroid-videography-for-2024/"><u>Optimal Stabilizers Elevate Your iPhone/Android Videography for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-windows-10-performance-by-managing-high-disk-usage-caused-by-microsoft-compatibility-telemetry/"><u>Optimizing Windows 10 Performance by Managing High Disk Usage Caused by Microsoft Compatibility Telemetry</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-slow-boot-problems-on-windows-7-systems-improve-startup-time-now/"><u>Quick Fixes for Slow Boot Problems on Windows 7 Systems - Improve Startup Time Now!</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-nubia-red-magic-8s-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Nubia Red Magic 8S Pro without backup.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-most-essential-5-earbuds-for-gaming/"><u>[New] The Most Essential 5 Earbuds for Gaming</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-leveraging-teamsnap-for-dynamic-virtual-presentations/"><u>[Updated] In 2024, Leveraging TeamSnap for Dynamic Virtual Presentations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/6-ways-to-restore-missing-windows-time-service/"><u>6 Ways to Restore Missing Windows Time Service</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-infinix-smart-8-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Infinix Smart 8 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Ways to Change Spotify Location On Your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/os-16-mais-excelentes-programas-de-conversao-de-iso-para-windows-and-mac-os-x-opcoes-comparadas/"><u>Os 16 Mais Excelentes Programas De Conversão De ISO Para Windows & Mac OS X - Opções Comparadas!</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-google-chrome-stalling-is-it-time-for-a-fresh-start/"><u>Overcome Google Chrome Stalling: Is It Time for a Fresh Start?</u></a></li>
+<li><a href="https://common-error.techidaily.com/renderer-boot-sequence-issue-corrected-for-enhanced-stability-new-fixes-applied/"><u>Renderer Boot Sequence Issue Corrected for Enhanced Stability - New Fixes Applied</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-failed-connection-to-windows-system-event-notification-service/"><u>Resolved: Troubleshooting Failed Connection to Windows System Event Notification Service</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-crash-in-32-bit-applications-print-driver-host/"><u>Resolving the Crash in 32-Bit Applications' Print Driver Host</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-manual-clean-installation-of-graphics-drivers/"><u>Revamp Manual: Clean Installation of Graphics Drivers</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repair-unresponsive-fn-keys-on-your-pc-or-laptop/"><u>Step-by-Step Guide to Repair Unresponsive Fn Keys on Your PC or Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-call-of-duty-world-war-ii-overcoming-error-4220/"><u>Troubleshooting Guide for Call of Duty World War II - Overcoming Error 4220</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-microsoft-surface-pro-4s-non-responsive-touch-display-complete-solution/"><u>Troubleshooting Microsoft Surface Pro 4'S Non-Responsive Touch Display - Complete Solution</u></a></li>
 </ul></div>
 

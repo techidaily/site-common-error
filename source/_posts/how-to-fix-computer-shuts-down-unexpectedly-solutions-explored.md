@@ -1,7 +1,7 @@
 ---
 title: "How to Fix: Computer Shuts Down Unexpectedly - Solutions Explored"
-date: 2024-09-13T19:38:11.217Z
-updated: 2024-09-20T19:33:01.714Z
+date: 2024-10-11T19:42:55.796Z
+updated: 2024-10-12T17:49:26.224Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -60,6 +67,13 @@ Follow these:
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
@@ -97,11 +111,31 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
 
@@ -120,12 +154,26 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-mac-tips-capturing-class-notes-efficiently/"><u>[New] 2024 Approved Mac Tips Capturing Class Notes Efficiently</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-boundless-memories-archive-instagrams-free-saves/"><u>[Updated] 2024 Approved Boundless Memories Archive Instagram’s Free Saves</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-bridging-gaps-in-communication-automating-story-captions/"><u>2024 Approved Bridging Gaps in Communication Automating Story Captions</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-nokia-g310-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-resolve-your-windows-10-audio-settings-glitches-easily/"><u>DIY: Resolve Your Windows 10 Audio Settings Glitches Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-for-when-windows-wont-progress-past-configuring-your-pc/"><u>Easy Solutions for When Windows Won't Progress Past 'Configuring Your PC'</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-the-role-of-msdia80dll-file-in-your-system-do-you-need-to-retain-it/"><u>Exploring the Role of msdia80.dll File in Your System - Do You Need to Retain It?</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-htc-u23-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from HTC U23 Pro to iPod | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-pricing-guide-youtube-marketing-expenses/"><u>In 2024, Pricing Guide YouTube Marketing Expenses</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-optimization-secrets-revealed-say-goodbye-to-frustrating-lags-for-good/"><u>Minecraft Optimization Secrets Revealed: Say Goodbye to Frustrating Lags for Good</u></a></li>
+<li><a href="https://win-top.techidaily.com/mover-imagenes-webp-a-formato-bmp-sin-costo-utilizando-el-conversor-en-linea-de-movavi/"><u>Mover Imágenes WEBP a Formato BMP Sin Costo Utilizando El Conversor en Línea De Movavi</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/prophetsrishis/"><u>Prophets/Rishis</u></a></li>
+<li><a href="https://win-dash.techidaily.com/realtek-rtl81n8cu-drivers-compatible-with-windows-11-and-7-free-download/"><u>Realtek RTL81n8CU Drivers Compatible with Windows 11 & 7 – Free Download</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-laptop-battery-expert-tips-for-efficient-troubleshooting/"><u>Revive Your Laptop Battery: Expert Tips for Efficient Troubleshooting</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-xerox-update-glitch-error-code-0x800f020b-on-your-windows-pc/"><u>Solve Xerox Update Glitch (Error Code 0X800f020b) on Your Windows PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-complete-guide-solving-the-vanishing-point-windows-win10-mouse-pointer-problems/"><u>The Complete Guide: Solving the Vanishing Point - Windows ([Win|10]) Mouse Pointer Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-ethernet-connection-failed-in-windows-11-and-7/"><u>Troubleshooting Steps: Resolving 'Ethernet Connection Failed' In Windows 11 and 7</u></a></li>
+</ul></div>
 

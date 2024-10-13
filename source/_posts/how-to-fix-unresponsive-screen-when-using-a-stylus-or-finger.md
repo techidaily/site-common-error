@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unresponsive Screen When Using a Stylus or Finger
-date: 2024-10-06T02:17:46.778Z
-updated: 2024-10-07T08:35:14.288Z
+date: 2024-10-11T00:27:04.310Z
+updated: 2024-10-12T23:10:34.031Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ Both fixes below work in Windows 10, 8 and 7.
 1. [**Enable touchpad in settings**](#F1)
 2. [**Update your touchpad driver**](#F2)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Enable touchpad in settings
 
  You laptop-mouse-pad-not-responding issue sometimes happens only because you’ve disabled it unknowingly. To turn it back on:
@@ -44,20 +51,13 @@ Both fixes below work in Windows 10, 8 and 7.
 1. On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
@@ -66,10 +66,10 @@ Both fixes below work in Windows 10, 8 and 7.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your touchpad driver
@@ -91,14 +91,15 @@ Both fixes below work in Windows 10, 8 and 7.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](http://wp.easeware.net/wp-content/uploads/2018/04/img_5ac1a01192ca4.png)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3df9ad3f86c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
-4. Check and see if your Lenovo touchpad is back to life again. ?
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Check and see if your Lenovo touchpad is back to life again. ?
 
 ---
 
@@ -125,24 +126,15 @@ Both fixes below work in Windows 10, 8 and 7.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ringing-the-web-to-reality-embedding-youtube-videos-in-slides/"><u>[New] Bringing the Web to Reality Embedding YouTube Videos in Slides</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-spectacular-visuals-the-power-of-tiktok-effects-for-2024/"><u>[New] Spectacular Visuals The Power of TikTok Effects for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-innovating-visual-identity-with-ae-titles/"><u>[Updated] In 2024, Innovating Visual Identity with AE Titles</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-up-exit-point-not-found-errors/"><u>Clearing Up Exit Point Not Found Errors</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/digital-doppelganger-deliberation-building-caricatured-characters/"><u>Digital Doppelganger Deliberation Building Caricatured Characters</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-backspace-key-on-your-device/"><u>How to Fix a Non-Responsive Backspace Key on Your Device</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-more-silence-win-11-audio-revived/"><u>No More Silence: Win 11 Audio Revived</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-tailored-configuration-options-failure-no-longer-an-issue/"><u>Resolved: Tailored Configuration Options Failure No Longer an Issue</u></a></li>
-<li><a href="https://video-capture.techidaily.com/should-you-consider-itop-for-professional-use-in-2024/"><u>Should You Consider ITop for Professional Use, In 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-net-framework-35-installers-error-message-code-0x800f081f/"><u>Step-by-Step Fix for .NET Framework 3.5 Installer's Error Message, Code 0X800F081F</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-the-windows-11-couldnt-be-installed-issue-solving-error-code-80240020-easily/"><u>Tackling the 'Windows 11 Couldn't Be Installed' Issue - Solving Error Code 80240020 Easily</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-ultimate-guide-to-video-uploads-on-instagram-for-2024/"><u>The Ultimate Guide to Video Uploads on Instagram for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/top-pick-for-family-fun-a-review-of-the-amazing-amazon-fire-hd-10-tablet/"><u>Top Pick for Family Fun - A Review of the Amazing Amazon Fire HD 10 Tablet</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-the-missing-d3dxt9v39dll-file-fix-guide/"><u>Troubleshooting Steps for the 'Missing' d3dxt9_v39.dll File: Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fix-for-windows-11-update-problem-error-code-0x800705b4-complete-guide/"><u>Ultimate Fix for Windows 11 Update Problem (Error Code 0X800705b4) - Complete Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/untangling-error-0x8024401c-comprehensive-troubleshooting-guide-for-updating-your-windows-11-pc/"><u>Untangling Error 0X8024401c: Comprehensive Troubleshooting Guide for Updating Your Windows 11 PC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1725286571446-winxvideo-ai/"><u>Winxvideo AI로 비디오를 개선하여 전반적인 속도와 품짝을 극대화</u></a></li>
-<li><a href="https://common-error.techidaily.com/without-d3d-can-unreal-engine-survive/"><u>Without D3D, Can Unreal Engine Survive?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-insider-guide-to-instagrams-inquiry-emoji/"><u>[New] 2024 Approved The Insider Guide to Instagram's Inquiry Emoji</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-note-12r-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-rapid-share-tactics-for-youtube-lists/"><u>2024 Approved Rapid Share Tactics for YouTube Lists</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-correct-semaphore-timeout-issue-error-0x80l0079/"><u>How to Troubleshoot and Correct Semaphore Timeout Issue (Error 0X80L0079)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-samsung-galaxy-a05s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Samsung Galaxy A05s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-how-to-fix-persistent-keyboard-delay/"><u>Resolving Windows 10: How to Fix Persistent Keyboard Delay</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-self-starting-issues-on-a-windows-n-system-expert-tips-and-fixes/"><u>Solving Self-Starting Issues on a Windows N System - Expert Tips & Fixes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/spectral-footage-innovation-in-cams/"><u>Spectral Footage Innovation in Cams</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fixing-a-slow-reacting-keyboard/"><u>Step-by-Step Guide to Fixing a Slow Reacting Keyboard</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/understanding-the-positives-and-negatives-of-implementing-webex-in-your-business-communications/"><u>Understanding the Positives & Negatives of Implementing WebEx in Your Business Communications</u></a></li>
 </ul></div>
 

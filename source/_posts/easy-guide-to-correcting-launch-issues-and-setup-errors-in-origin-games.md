@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Correcting Launch Issues and Setup Errors in Origin Games
-date: 2024-10-05T22:10:42.350Z
-updated: 2024-10-07T05:23:36.322Z
+date: 2024-10-07T22:30:13.740Z
+updated: 2024-10-12T18:48:30.006Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/5565177be356d6fd1f6d2b58dc2046c46dae91381
 
  You don’t have to try them all; just work down the list until you find the one that works for you.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Possible causes for error code 0x800f0922
 
  There are plenty of potential causes leading to this error code. Here’s a list that might be responsible for triggering 0x800f0922:
@@ -55,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/5565177be356d6fd1f6d2b58dc2046c46dae91381
 
  We provide corresponding solutions below aiming to solve this issue. Read on and have a try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1 Run Windows Update troubleshooter
 
  Windows troubleshooter is a built-in feature to find and fix things not working on your PC. If you get an error code while downloading and installing Windows update, you can always turn to the Update Troubleshooter for help. Here’s how:
@@ -64,6 +64,14 @@ thumbnail: https://thmb.techidaily.com/5565177be356d6fd1f6d2b58dc2046c46dae91381
 2. Click**Additional troubleshooters** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-3.jpg)
 3. Choose**Windows Update** and then**Run the troubleshooter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-2.jpg)
 
  Wait for a while until Windows troubleshooters detect and fix the problems for you. After it finishes, check if the error code 0x800f0922 still persists. If it does, go ahead and try the next method.
@@ -83,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/5565177be356d6fd1f6d2b58dc2046c46dae91381
 
  After resizing the system reserved partition, try to process the Windows update again. If the error code hasn’t been removed, scroll down and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3 Check network connection
 
  Weak network connection and VPN make it slow and unstable to connect to Microsoft Windows Update server. These may get you an update error code. Here we recommend restarting your router and turning off VPN temporarily:
@@ -101,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/5565177be356d6fd1f6d2b58dc2046c46dae91381
 4. **Turn off** your VPN software if you are using any. Then run your Microsoft Windows 10 upgrade again.
 
  If the upgrade runs successfully, restart your computer and turn VPN software back on. If the network and VPN aren’t accountable for the upgrade error, continue to have another try.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4 Check the .NET Framework
 
@@ -121,15 +115,15 @@ thumbnail: https://thmb.techidaily.com/5565177be356d6fd1f6d2b58dc2046c46dae91381
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-17.jpg)
 4. Windows will download the required files and install those features for you.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-18.jpg)
 5. Reboot your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After rebooting, try to run the upgrade again to see if error 0x800f0922 disappears. If not, try the next trick.
 
@@ -142,19 +136,20 @@ thumbnail: https://thmb.techidaily.com/5565177be356d6fd1f6d2b58dc2046c46dae91381
 2. Click**Turn Windows Defender Firewall on or off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-8.jpg)
 3. Turn off Windows Defender Firewall temporarily for**domain** ,**private** and**public** network settings. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-9.jpg)
 4. Try updating now.
 
 **IMPORTANT** : Remember to**turn on** the firewalls after you finish the update. Be extra careful in using the Internet during this period as your security may be endangered.
 
 If the error code is still there, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6 Repair system files
 
@@ -173,21 +168,22 @@ To use Fortect to repair your system files:
 2. Launch Fortect and run a**free scan** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. Once finished, Fortect will generate a detailed report of your computer health, which includes all issues detected.
-4. To automatically fix all the issues, click**Start Repair** (You’ll need to pay for the full version. It comes with a 60-day money-back guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. To automatically fix all the issues, click**Start Repair** (You’ll need to pay for the full version. It comes with a 60-day money-back guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 Restart your computer for the changes to take effect.
 
@@ -206,16 +202,24 @@ Restart your computer for the changes to take effect.
 1. Type**cmd** in the search box and click**Run as administrator** to launch Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/cmd.jpg)
 2. Copy and paste**DISM /Online /Cleanup-Image /RestoreHealth** and hit**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-15.jpg)
 3. Type**sfc /scannow** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-14.jpg)
 4. Wait for the scan to finish and check for any improvement on the Windows update failure issue.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your problem hasn’t been solved yet, continue to the next solution.
@@ -230,15 +234,16 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-10.jpg)
 2. Select**Virus & threat protection** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-12.jpg)
 3. Click**Scan options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-13.jpg)
 4. Select**Full scan** and**Scan now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/0x800f0922-11.jpg)
@@ -280,22 +285,24 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/1723207550094-no-device-drivers-were-found-when-installing-windows-7-solved/"><u>‘No Device Drivers Were Found’ when Installing Windows 7 [Solved]</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-learn-how-to-add-descriptive-texts-to-your-youtube-videos/"><u>[New] 2024 Approved Learn How to Add Descriptive Texts to Your YouTube Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-top-farm-games-for-social-play-with-peers/"><u>[New] Top Farm Games for Social Play with Peers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-8-websites-for-person-finding-services/"><u>Discover the Best 8 Websites for Person Finding Services</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficient-solutions-and-steps-to-correctly-resolve-the-windows-update-error-0x80244022/"><u>Efficient Solutions and Steps to Correctly Resolve the 'Windows Update Error: 0X80244022'</u></a></li>
-<li><a href="https://common-error.techidaily.com/group-policy-client-service-error-at-login-solutions-and-troubleshooting-guide/"><u>Group Policy Client Service Error at Login - Solutions and Troubleshooting Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-solve-the-mystery-of-an-unidentified-usb-gadget-device-descriptor-problems/"><u>How to Solve the Mystery of an Unidentified USB Gadget (Device Descriptor Problems)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-install-net-framework-annoyance-of-error-0x800f081f/"><u>How to Successfully Install .NET Framework Annoyance of Error 0X800F081F?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-11-proplus-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme 11 Pro+ to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-s23-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy S23 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/ineteresourcenotfound-problem-strategies-for-rectification-and-improvement/"><u>INET_E_RESOURCE_NOT_FOUND Problem? Strategies for Rectification and Improvement</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-no-device-found-error-on-your-icu-e-reader-a-step-by-step-guide/"><u>Resolving 'No Device Found' Error on Your ICU E-Reader: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/steps-for-streaming-your-computer-view-to-a-tv-via-the-chrome-cast-device/"><u>Steps for Streaming Your Computer View to a TV via the Chrome Cast Device</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/the-ultimate-instructional-resource-on-navigating-and-customizing-your-settings-tab-preferences/"><u>The Ultimate Instructional Resource on Navigating and Customizing Your Settings Tab Preferences</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-tailored-user-engagement-with-the-help-of-cookiebot/"><u>Unlock Tailored User Engagement with the Help of Cookiebot</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstuck-with-ease-remedying-windows-10-touchpad-scrolling-hiccups-in-minutes/"><u>Unstuck with Ease: Remedying Windows 10 Touchpad Scrolling Hiccups in Minutes!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-x-recorder-your-pcs-audio-capture-companion-for-2024/"><u>[New] X-Recorder Your PC's Audio Capture Companion for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-10-independent-android-games-for-non-networked-natives/"><u>2024 Approved Top 10 Independent Android Games for Non-Networked Natives</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-destiny-2s-not-available-issues-with-these-proven-solutions/"><u>Conquer Destiny 2'S Not Available Issues with These Proven Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-major-flaws-in-openais-chatgpt-platform/"><u>Exploring the Major Flaws in OpenAI's ChatGPT Platform</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-issues-with-microsoft-word-documents-not-opening/"><u>How to Fix Issues with Microsoft Word Documents Not Opening</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-echoes-in-motion-mac-for-sound-artists/"><u>In 2024, Echoes in Motion Mac for Sound Artists</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-how-to-screen-record-on-macbook-air/"><u>In 2024, How to Screen Record on Macbook Air</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/intrepid-selection-best-slow-mo-cameras-for-2024/"><u>Intrepid Selection Best Slow-Mo Cameras for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/los-dias-pasan-aprende-su-nombre-en-espanol/"><u>Los Días Pasan, Aprende Su Nombre en Español</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimize-your-pcs-power-advanced-techniques-for-flawless-gaming-on-windows-11/"><u>Optimize Your PC's Power: Advanced Techniques for Flawless Gaming on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-keyboard-response-issues-expert-tips-and-tricks/"><u>Resolving Windows 10 Keyboard Response Issues: Expert Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-fixing-a-pc-that-gets-stuck-during-startup/"><u>Solutions for Fixing a PC That Gets Stuck During Startup</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-successfully-address-the-error-0x8024401c-during-windows-updates-on-win10win11/"><u>Step-by-Step Solution to Successfully Address the Error 0X8024401C During Windows Updates on Win10/Win11</u></a></li>
+<li><a href="https://win-webster.techidaily.com/step-by-step-tutorial-on-saving-sky-sports-broadcasts-as-mp4-mov-avi-files-for-offline-viewing/"><u>Step-by-Step Tutorial on Saving Sky Sports Broadcasts as MP4, MOV, AVI Files for Offline Viewing</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-effortless-clean-install-of-windows-10/"><u>Step-by-Step Tutorial: Effortless Clean Install of Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-bluetooth-issues-in-windows-7/"><u>Troubleshooting and Solving Bluetooth Issues in Windows 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-repair-windows-11s-malfunctioning-start-menu/"><u>Troubleshooting Guide: How to Repair Windows 11'S Malfunctioning Start Menu</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211411398-troubleshooting-nier-automata-pc-game-freezing-issues-solved/"><u>Troubleshooting Nier: Automata PC Game Freezing Issues - Solved!</u></a></li>
 </ul></div>
 

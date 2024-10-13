@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Non-Functional Dell USB Port - A Complete Guide
-date: 2024-10-04T00:35:25.696Z
-updated: 2024-10-07T07:12:48.845Z
+date: 2024-10-11T18:33:47.167Z
+updated: 2024-10-13T02:54:04.891Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 3. [**Check your power management settings**](#s3)
 4. [**Update your USB driver**](#s4)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Use a different USB port
 
  USB performance issues may occur if the USB port you plug your USB device into is dusty or damaged. You can try switching your USB device to a different USB port.
@@ -54,16 +47,16 @@ If all your USB ports aren’t working, try Step 2, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15c81ad6b3.jpg)
 2. **Restart** your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. **Plug** your USB device into your laptop.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Check your power management settings
 
@@ -75,10 +68,10 @@ If all your USB ports aren’t working, try Step 2, below.
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
@@ -88,14 +81,22 @@ If all your USB ports aren’t working, try Step 2, below.
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Check if your USB port works properly now. If not, try Step 4, below.
 
 ### Step 4: Update your USB driver
@@ -140,16 +141,24 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-silent-symphony-a-compendium-of-top-speech-to-text-tools/"><u>[New] Silent Symphony A Compendium of Top Speech-to-Text Tools</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-beats-and-briefs-music-incorporation-guide-on-fb-stories/"><u>[Updated] In 2024, Beats and Briefs Music Incorporation Guide on FB Stories</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-drivers-best-secret-weapon-for-avoiding-speeding-tickets-the-s55-reviewed-here/"><u>Budget Driver's Best Secret Weapon for Avoiding Speeding Tickets: The S55 Reviewed Here!</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-diagnosing-and-repairing-the-system-access-violation-error-0xc00e0005-in-windows/"><u>Expert Advice: Diagnosing and Repairing the System Access Violation (Error 0xC00e0005) in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-and-solutions-for-monster-hunter-world-continuous-freezing-on-pc/"><u>Fixes and Solutions for 'Monster Hunter: World' Continuous Freezing on PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-brightness-control-glitch-on-windows-11/"><u>Fixing the Issue: Brightness Control Glitch on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-vcruntime140dll-missing-file-issue-comprehensive-solutions/"><u>Fixing the VCRUNTIME140.dll Missing File Issue: Comprehensive Solutions</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-phantom-v-fold-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Phantom V Fold If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-xiaomi-redmi-a2plus-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Xiaomi Redmi A2+ Phone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-system-performance-to-reduce-high-cpu-usage-by-god-of-war/"><u>Optimizing System Performance to Reduce High CPU Usage by God of War</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-windows-media-device-connectivity-failures/"><u>Ultimate Fixes for Windows Media Device Connectivity Failures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-budgetclouds-vault-spaceful-large-data-sanctuary/"><u>[New] BudgetCloud's Vault Spaceful Large Data Sanctuary</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-art-of-hashtagging-strategies-for-maximum-impact-on-facebook/"><u>[New] In 2024, The Art of Hashtagging Strategies for Maximum Impact on Facebook</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-enhancing-classroom-learning-through-recorders/"><u>[Updated] 2024 Approved Enhancing Classroom Learning Through Recorders</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-swift-and-smooth-your-ultimate-guide-to-iphone-podcast-downloading/"><u>[Updated] 2024 Approved Swift & Smooth Your Ultimate Guide to iPhone Podcast Downloading</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-expert-advice-on-archiving-sports-from-live-feeds-for-2024/"><u>[Updated] Expert Advice on Archiving Sports From Live Feeds for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-design-with-confidence-best-free-high-quality-windowsmac-capture-tools/"><u>[Updated] In 2024, Design with Confidence Best Free, High-Quality Windows/Mac Capture Tools</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-elite-ai-companions-for-chat/"><u>[Updated] In 2024, Elite AI Companions for Chat</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-unlock-superior-mac-gif-capture-with-these-apps/"><u>2024 Approved Unlock Superior Mac GIF Capture with These Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-12-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 12 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-fix-no-sound-driver-installed-problem-in-windows-11/"><u>Comprehensive Solutions to Fix ‘No Sound Driver Installed’ Problem in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-and-correct-the-issue-of-vanished-files-in-your-steam-library-solved/"><u>How to Address & Correct the Issue of Vanished Files in Your Steam Library (Solved!)</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-monitor-troubles-how-to-get-your-aoc-screen-up-and-running-on-windows-11/"><u>Mastering Monitor Troubles: How to Get Your AOC Screen Up & Running on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-voice-communication-glitches-in-overwatch-steps-for-swift-repair/"><u>Overcome Voice Communication Glitches in Overwatch - Steps for Swift Repair.</u></a></li>
+<li><a href="https://common-error.techidaily.com/repairing-the-damage-solutions-for-compromised-windows-application-caches/"><u>Repairing the Damage: Solutions for Compromised Windows Application Caches</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-asus-usb-c-webcam-glitch-on-windows-11/"><u>Resolved ASUS USB-C Webcam Glitch on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-directx-critical-errors-a-step-by-step-guide/"><u>Resolving DirectX Critical Errors – A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-guide-to-repairing-windows-update-error-0x80244n2c-proven-solutions-applied/"><u>The Definitive Guide to Repairing Windows Update Error 0X80244n2c - Proven Solutions Applied</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207016283-trouble-with-your-networks-dns-server-here-are-4-efficient-remedies/"><u>Trouble With Your Network's DNS Server? Here Are 4 Efficient Remedies</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-unresponsive-user-configuration-options-easily/"><u>Troubleshooting Unresponsive User Configuration Options Easily</u></a></li>
 </ul></div>
 

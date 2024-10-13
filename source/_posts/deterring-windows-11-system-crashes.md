@@ -1,7 +1,7 @@
 ---
 title: Deterring Windows 11 System Crashes
-date: 2024-10-04T08:42:53.992Z
-updated: 2024-10-07T08:20:05.562Z
+date: 2024-10-08T16:07:03.472Z
+updated: 2024-10-13T00:29:49.206Z
 tags:
   - win11
   - win10
@@ -50,11 +50,26 @@ The good news is, you can fix it easily!
 1. **Download**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**   and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cfcaf3cc0.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual
 4. **Restart** your computer and see if you can adjust the volume on your PC just fine.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart the Windows Audio service and **Windows Audio Endpoint Builder**
 
@@ -65,27 +80,7 @@ To do so:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and  **R**  at the same time. Then type **services.msc**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Locate and double-click on**Windows Audio** .  
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
@@ -93,22 +88,15 @@ To do so:
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Run SFC
 
@@ -119,15 +107,23 @@ To run SFC:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
  Click **Yes**   when prompted to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
@@ -142,16 +138,17 @@ Here’s how:
 
 1. On your keyboard, press   **the Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
@@ -177,18 +174,17 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-enhance-your-channels-voice-dive-into-the-world-of-banner-makers-apps/"><u>[New] In 2024, Enhance Your Channel's Voice Dive Into the World of Banner Makers (Apps)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-best-5-video-recording-software-timelapse-edition/"><u>[Updated] 2024 Approved Best 5 Video Recording Software Timelapse Edition</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-perfect-your-video-calls-essential-10-free-recording-solutions-for-slack/"><u>[Updated] 2024 Approved Perfect Your Video Calls Essential 10 Free Recording Solutions for Slack</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-oppo-a18-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo A18 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-persistent-bootrestart-issues-in-laptopsdesktops/"><u>Diagnosing & Repairing Persistent Boot/Restart Issues in Laptops/Desktops</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-the-latest-and-most-exciting-advancements-googles-io-2023-shines-spotlight-on-bard-ai/"><u>Explore the Latest and Most Exciting Advancements: Google's I/O 2023 Shines Spotlight on BARD AI</u></a></li>
-<li><a href="https://common-error.techidaily.com/finding-the-right-fit-cameras-and-windows-hello/"><u>Finding the Right Fit: Cameras & Windows Hello</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-discord-how-to-fix-a-frozen-stream-that-wont-load/"><u>Mastering Discord: How to Fix a Frozen Stream That Won’t Load</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/miracast-troubles-start-here-correcting-graphics-driver-incompatibilities/"><u>Miracast Troubles? Start Here: Correcting Graphics Driver Incompatibilities</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-ps4-headset-sound-issues-the-best-troubleshooting-strategies/"><u>Resolving PS4 Headset Sound Issues – The Best Troubleshooting Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-non-functional-pad-gestures-make-your-scroll-buttons-work-perfectly-again/"><u>Solving Non-Functional Pad Gestures - Make Your Scroll Buttons Work Perfectly Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-unsuccessful-windows-10-version-1607-enhancement-updates/"><u>Troubleshooting Guide: Unsuccessful Windows 10 Version 1607 Enhancement Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-against-windows-10-unwanted-auto-restart-easy-troubleshooting-steps/"><u>Winning Against Windows 10 Unwanted Auto-Restart: Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-navigating-overwatch-audio-capture-settings/"><u>[New] In 2024, Navigating Overwatch Audio Capture Settings</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-12-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 12</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/dive-deep-into-stardews-heart-with-our-guide-to-ginger-isle-for-2024/"><u>Dive Deep Into Stardew's Heart with Our Guide to Ginger Isle for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-to-overcome-lagging-problems-in-outriders/"><u>Expert Solutions to Overcome Lagging Problems in Outriders</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-frozen-windows-11-issues-during-initial-load-step-by-step-guide/"><u>Fixing Frozen Windows 11 Issues During Initial Load - Step by Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-your-ready-or-not-running-without-hiccups-pro-techniques-to-stop-pc-malfunctions/"><u>Get Your 'Ready or Not' Running Without Hiccups: Pro Techniques to Stop PC Malfunctions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-asus-rog-phone-8-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Asus ROG Phone 8</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-overcome-error-0x8024200d-and-ensure-smooth-windows-update-functionality/"><u>Step-by-Step Solution to Overcome Error 0X8024200d and Ensure Smooth Windows Update Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-for-windows-update-error-0x80240017-solved/"><u>Step-by-Step Troubleshooting for Windows Update Error 0X80240017 [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-fixing-a-non-functional-corsair-hs50-headset-microphone/"><u>Troubleshooting Steps for Fixing a Non-Functional Corsair HS50 Headset Microphone</u></a></li>
+<li><a href="https://common-error.techidaily.com/twitch-error-4000-demystified-quick-fixes-to-get-your-stream-running-smoothly-again/"><u>Twitch Error 4000 Demystified: Quick Fixes to Get Your Stream Running Smoothly Again</u></a></li>
 </ul></div>
 

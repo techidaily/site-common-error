@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Troubleshooting Steps for a Non-Responsive Laptop
-date: 2024-10-05T20:49:45.528Z
-updated: 2024-10-07T09:53:22.981Z
+date: 2024-10-06T17:36:54.378Z
+updated: 2024-10-13T00:51:03.311Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
@@ -60,13 +60,6 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -86,16 +79,10 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -103,19 +90,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -135,11 +109,25 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -149,6 +137,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -161,13 +156,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -211,18 +199,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-step-by-step-guide-to-wirecast-facebook-livestreams/"><u>[New] 2024 Approved Step-by-Step Guide to Wirecast Facebook Livestreams</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/broadcom-gige-controller-drivers-fresh-installation-and-update-processes-for-windows-11-users/"><u>Broadcom GigE Controller Drivers: Fresh Installation & Update Processes for Windows 11 Users</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/digital-recovery-renewing-video-files/"><u>Digital Recovery: Renewing Video Files</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-samsung-galaxy-s23-tactical-edition-frp-bypass-by-drfone-android/"><u>In 2024, About Samsung Galaxy S23 Tactical Edition FRP Bypass</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g34-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Moto G34 5G Phones with/without a PC</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/navigating-the-tech-maze-screen-casting-sessions-for-2024/"><u>Navigating the Tech Maze Screen Casting Sessions for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-connectivity-hurdles-how-to-pair-airpods-with-windows-systems/"><u>Overcoming Connectivity Hurdles - How to Pair AirPods with Windows Systems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/scriptwriting-the-creative-process/"><u>Scriptwriting The Creative Process</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-puzzle-how-to-fix-a-sluggish-loading-league-of-legends-game/"><u>Solving the Puzzle: How to Fix a Sluggish Loading League of Legends Game</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-tecno-phantom-v-flip-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Tecno Phantom V Flip for Streaming | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-the-0x800705b4-setup-problem-in-windows-11-updates/"><u>Troubleshooting and Solving the 0X800705b4 Setup Problem in Windows 11 Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-screen-saver-issues-a-complete-fix-guide/"><u>Troubleshooting Windows 11 Screen Saver Issues: A Complete Fix Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/unmatched-video-capturing-reviews-of-the-best-apps/"><u>Unmatched Video Capturing Reviews of the Best Apps</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-a-step-by-step-guide-implementing-vimeo-end-cuts/"><u>[New] A Step-by-Step Guide Implementing Vimeo End Cuts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-selection-top-voice-recorders-for-macos-for-2024/"><u>[New] The Ultimate Selection Top Voice Recorders for MacOS for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-missing-fb-watch-icon-get-it-fixed-now/"><u>[Updated] Missing FB Watch Icon? Get It Fixed Now</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-six-best-film-alternates-ranked-7-picks/"><u>[Updated] Six Best Film Alternates Ranked #7 Picks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-transformations-unlocked-the-2-most-effective-ways-to-convert-video/"><u>[Updated] Transformations Unlocked The 2 Most Effective Ways to Convert Video</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-ways-to-turn-on-and-use-bluetooth-with-windows-11-and-10-a-complete-fix/"><u>Easy Ways to Turn On & Use Bluetooth with Windows 11 and 10 – A Complete Fix</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-11-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 11 iCloud Bypass</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-0x80071ac3-faulty-disk-mistake-in-your-system/"><u>How to Resolve the 0X80071AC3 Faulty Disk Mistake in Your System</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-valorants-perpetual-loading-problem-for-smooth-gameplay/"><u>How to Resolve Valorant's Perpetual Loading Problem for Smooth Gameplay</u></a></li>
+<li><a href="https://extra-information.techidaily.com/listenleap-escaping-dacasts-grip/"><u>ListenLeap Escaping DaCast's Grip</u></a></li>
+<li><a href="https://games-able.techidaily.com/ranking-processor-and-graphics-card-improvements/"><u>Ranking Processor and Graphics Card Improvements</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-guide-for-fixing-windows-10-system-crashes-during-launch/"><u>Resolved: Troubleshooting Guide for Fixing Windows 10 System Crashes During Launch</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-common-problems-with-cyclic-redundancy-check-data-integrity/"><u>Troubleshooting Common Problems with Cyclic Redundancy Check (Data Integrity)</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-users-rejoice-comprehensive-guide-to-fixing-your-keyboard-responsiveness-issues/"><u>Windows 10 Users Rejoice: Comprehensive Guide to Fixing Your Keyboard Responsiveness Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-build-1607-installation-errors-and-how-to-fix-them/"><u>Windows 11 Build 1607 Installation Errors and How to Fix Them</u></a></li>
 </ul></div>
 

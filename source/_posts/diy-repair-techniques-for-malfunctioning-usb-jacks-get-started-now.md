@@ -1,7 +1,7 @@
 ---
 title: DIY Repair Techniques for Malfunctioning USB Jacks – Get Started Now
-date: 2024-09-30T03:37:58.611Z
-updated: 2024-10-07T06:12:05.205Z
+date: 2024-10-06T22:11:31.351Z
+updated: 2024-10-12T20:35:01.622Z
 tags:
   - win11
   - win10
@@ -50,10 +50,10 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 **IMPORTANT:** You’ll need to use a keyboard or a mouse to try any of below solutions. . If your usb keyboard or mouse stops working, use a PS2 keyboard instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 3: Check your power management settings**
@@ -79,10 +79,10 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
  5) Repeat steps 3-4 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 4: Check your device drivers**
@@ -100,10 +100,16 @@ If one of your USB devices isn’t working on Windows 7, whether it’s a USB ke
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb32c9a931.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -113,10 +119,10 @@ Here take Intel USB 3.0 driverf for example:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bcb3367beb7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -134,20 +140,18 @@ Here take Intel USB 3.0 driverf for example:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-maximizing-the-potential-of-virtual-dialogue-secrets-from-a-pro-zoom-chat-guru/"><u>[Updated] 2024 Approved Maximizing the Potential of Virtual Dialogue Secrets From a Pro ZOOM Chat Guru</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-overcoming-deceptive-user-presentation-on-facebook/"><u>[Updated] Overcoming Deceptive User-Presentation on Facebook</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-easy-win-strategy-clownfish-chatter-on-any-pc-with-windows/"><u>2024 Approved Easy-Win Strategy Clownfish Chatter on Any PC with Windows</u></a></li>
-<li><a href="https://fox-http.techidaily.com/enhanced-4k-viewing-with-our-best-8-free-player-picks-for-2024/"><u>Enhanced 4K Viewing with Our Best 8 Free Player Picks for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-windows-11-taskbar-operability/"><u>Ensuring Windows 11 Taskbar Operability</u></a></li>
-<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-realme-gt-neo-5-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Realme GT Neo 5 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-essential-surface-pro-4-drivers-on-your-windows-device/"><u>Install Essential Surface Pro 4 Drivers on Your Windows Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-when-your-hamachi-connection-drops-unexpectedly/"><u>Quick Solutions for When Your Hamachi Connection Drops Unexpectedly</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-error-code-0x80-in-microsoft-windows-store-troubleshooting-strategies-that-work/"><u>Tackling 'Error Code 0X80# in Microsoft Windows Store: Troubleshooting Strategies That Work</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-fix-to-your-impossible-to-change-monitor-dilemableresolution-success-story/"><u>The Ultimate Fix to Your Impossible-to-Change Monitor Dilemableresolution Success Story</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-loadlibrary-failed-with-error-code-87-parameters-setup/"><u>Troubleshooting Guide: Fixing 'LoadLibrary Failed' With Error Code 87 – Parameters Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-pc-connection-issues-with-your-bluetooth-keyboard/"><u>Troubleshooting Guide: Resolving PC Connection Issues with Your Bluetooth Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-techniques-for-unresponsive-laptop-touchpads-what-you-need-to-know/"><u>Troubleshooting Techniques for Unresponsive Laptop Touchpads: What You Need to Know</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-leading-brands-offering-the-best-steadicams-for-dslr-users/"><u>[New] In 2024, Leading Brands Offering the Best Steadicams for DSLR Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-6-innovative-mc-survival-homes-for-2024/"><u>[Updated] 6 Innovative MC Survival Homes for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tutorial-on-stopping-automatic-youtube-video-prefaces/"><u>[Updated] Tutorial on Stopping Automatic YouTube Video Prefaces</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/brent-archer-explores-innovative-solutions-with-digiarty-software/"><u>Brent Archer Explores Innovative Solutions with Digiarty Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-directx-issues-your-guide-to-seamless-playthroughs-in-anno-1800/"><u>Bypassing DirectX Issues: Your Guide to Seamless Playthroughs in Anno 1800</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-guide-solve-directory-name-invalid-issues-now/"><u>DIY Guide: Solve Directory Name Invalid Issues Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-reactivating-your-automated-health-check-mechanism/"><u>Expert Guide: Reactivating Your Automated Health Check Mechanism</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-pathway-to-popularity-masterful-igtv-video-posts/"><u>In 2024, The Pathway to Popularity Masterful IGTV Video Posts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-5-best-free-mpeg-video-splitters-for-2024/"><u>New Top 5 Best Free MPEG Video Splitters for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-instructions-resolving-constant-usb-disconnection-problems/"><u>Step-by-Step Instructions: Resolving Constant USB Disconnection Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/successful-fixes-overcoming-oddworld-soulstorms-pc-crash-issues/"><u>Successful Fixes: Overcoming Oddworld: Soulstorm's PC Crash Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-windows-autoshrink-habits/"><u>Tackle Window's Autoshrink Habits</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Resolving Non-Functional USB Mouse & Keyboard on Windows 7"
-date: 2024-09-13T19:44:18.725Z
-updated: 2024-09-20T17:25:33.637Z
+date: 2024-10-08T00:29:06.691Z
+updated: 2024-10-13T00:27:23.794Z
 tags:
   - win11
   - win10
@@ -43,11 +43,34 @@ Both fixes below work in Windows 10, 8 and 7.
 
 1. On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Hopefully this turns your touchpad back on and it works propely again. If the problem persists, try**Fix 2** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your touchpad driver
 
@@ -69,6 +92,13 @@ Both fixes below work in Windows 10, 8 and 7.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](http://wp.easeware.net/wp-content/uploads/2018/04/img_5ac1a01192ca4.png)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3df9ad3f86c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Check and see if your Lenovo touchpad is back to life again. ?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -93,12 +123,20 @@ Both fixes below work in Windows 10, 8 and 7.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-5-gaming-chairs-on-a-shoestring-budget/"><u>[Updated] 2024 Approved Top 5 Gaming Chairs on a Shoestring Budget</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-unlocking-next-level-user-targeting-capabilities/"><u>Cookiebot: Unlocking Next-Level User Targeting Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dont-lose-your-progress-retrieving-lost-histories-in-chatgpt-interactions/"><u>Don't Lose Your Progress: Retrieving Lost Histories in ChatGPT Interactions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/essential-tips-for-hp-printer-setup-on-windows-os/"><u>Essential Tips for HP Printer Setup on Windows OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/gaming-related-system-overloads/"><u>Gaming-Related System Overloads</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-freezing-and-patch-problems-in-windows-11-updates/"><u>How to Overcome Freezing and Patch Problems in Windows 11 Updates</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/improving-zoom-video-fidelity-easy-steps/"><u>Improving Zoom Video Fidelity Easy Steps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-nubia-red-magic-9-proplus-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://common-error.techidaily.com/livekernelevent-117-problem-diagnosis-and-repair-methods/"><u>LiveKernelEvent 117 Problem: Diagnosis and Repair Methods</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-strategic-decision-making-behind-companies-choosing-to-restrict-chatgpt-services/"><u>The Strategic Decision-Making Behind Companies Choosing to Restrict ChatGPT Services</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-linking-a-single-telephone-number-across-multiple-platforms/"><u>The Ultimate Guide to Linking a Single Telephone Number Across Multiple Platforms</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-15-melodic-matchmakers-tailoring-audio-to-each-videos-characteristic-mood/"><u>Updated 2024 Approved 15 Melodic Matchmakers Tailoring Audio to Each Videos Characteristic Mood</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-combo-keys-stuck-solving-win-shift-and-s-button-issues-on-pcs-with-w10w11/"><u>Windows Combo Keys Stuck? Solving Win, Shift, and S Button Issues on PCs with W10/W11</u></a></li>
+</ul></div>
 

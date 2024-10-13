@@ -1,7 +1,7 @@
 ---
 title: "Minecraft Optimization Secrets Revealed: Say Goodbye to Frustrating Lags for Good"
-date: 2024-10-02T04:40:26.109Z
-updated: 2024-10-06T18:11:46.590Z
+date: 2024-10-07T04:18:35.247Z
+updated: 2024-10-12T18:42:55.329Z
 tags:
   - win11
   - win10
@@ -50,6 +50,19 @@ thumbnail: https://thmb.techidaily.com/fa14c75d8130ba0e60c04982be06f0a527e7ccaf3
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Adjust the display resolution and refresh rate
 
  If screen tearing keeps occurring, it’s possible that your display resolution is configured to a higher point than what your monitor can handle. Adjusting it might help you fix the issue.
@@ -59,16 +72,32 @@ thumbnail: https://thmb.techidaily.com/fa14c75d8130ba0e60c04982be06f0a527e7ccaf3
 2. Scroll down to the end and select**Advanced display settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced-display-settings.jpg)
 3. Select**Display adapter properties for Display 1** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced-dis-settings.jpg)
 4. On the Adapter tab, click**List All Modes** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/display-adapter.jpg)
 5. A list of different resolutions will show on the screen. Select one according to your hardware specifications.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/list-all-modes.jpg)
@@ -84,6 +113,14 @@ If the problem persists, move on to the next fix.
 1. On your keyboard, press**Win** +**I** (the Windows logo key and the I key) to open Settings. Then select**Gaming** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/windows-settings-gaming.jpg)
 2. On the**Game Mode** tab, move the slider to turn off**Game Mode** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/game-mode-off.jpg)
 3. On your screen or the folder where you put your game, right click the game icon and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-right-click.jpg)
@@ -97,13 +134,6 @@ Restart your PC and launch Valorant again to see if the problem is fixed.
 
 if it is not helping, simply move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3:**Change power settings**
 
  Battery-friendly power settings might reduce graphic processing performance and cause screen tearing. You can change power settings to make sure any graphical processing is not constrained. Follow the steps below:
@@ -112,20 +142,13 @@ if it is not helping, simply move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/runcommand-power.jpg)
 2. In the Power Options menu, click the**Show additional plans** arrow and select**High performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/power-high-perform.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Restart your PC and check if anything changes.
@@ -145,13 +168,6 @@ If nothing changes, you might need to check your graphic drivers.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/de-scan-now-11.jpg)
 3. Click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro** **version**](https://tools.techidaily.com/drivereasy/download/)  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-rtx-2080-pro-update-all.jpg)
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -161,6 +177,13 @@ If nothing changes, you might need to check your graphic drivers.
  After updating your drivers, restart your PC and check if the problem is solved.
 
 If it doesn’t do the trick, simply move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5:**Turn on VSync**
 
@@ -181,28 +204,8 @@ If it doesn’t do the trick, simply move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/AMD-software.jpg)
 2. At the top right corner of the menu, click the settings icon. Then select the**Graphics** tab and navigate to**Wait for Vertical Refresh** . Click the small arrow on its right to open the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
 3. Click**Always on** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-verticle-refresh-on.jpg)
 
@@ -240,14 +243,15 @@ If it doesn’t help, move on to the last fix.
 2. In the left column, click**Display** . Then scroll down to select**Advanced display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/adv-display-settings.jpg)
 3. Scroll down to the**Refresh Rate** section and you will know the refresh rate of your PC.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-rate.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-rate.jpg)
 
 **Now you can set the maximum frame rate.**
 
@@ -285,24 +289,22 @@ For AMD users:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-tecno-spark-10c-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-resolving-system-halt-glitches-in-your-machine/"><u>Expert Advice on Resolving System Halt Glitches in Your Machine</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-apples-breakthrough-artificial-intelligence-presented-at-wwdc-24/"><u>Exploring Apple's Breakthrough Artificial Intelligence Presented at WWDC '24</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-nvidia-share-service-issues-a-complete-guide/"><u>Fix Nvidia Share Service Issues: A Complete Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/guide-correcting-issues-with-unsupported-device-drivers/"><u>Guide: Correcting Issues with Unsupported Device Drivers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-t2x-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Vivo T2x 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-edge-40-neo-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Edge 40 Neo ?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-6-plus-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 6 Plus</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-when-your-steam-shop-wont-load-or-open-correctly/"><u>Quick Solutions for When Your Steam Shop Won't Load or Open Correctly</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/ranking-8-effective-online-marketing-solutions-for-2024/"><u>Ranking 8 Effective Online Marketing Solutions for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resetting-or-reviving-your-windows-11-a-straightforward-guide-to-starting-fresh/"><u>Resetting or Reviving Your Windows 11: A Straightforward Guide to Starting Fresh</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-monitors-unrecognized-timing-settings-for-better-performance/"><u>Resolving Monitors' Unrecognized Timing Settings for Better Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-resolving-diagnostic-monitoring-service-offline-issue/"><u>Successfully Resolving 'Diagnostic Monitoring Service Offline' Issue</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-samsung-galaxy-a05s-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Samsung Galaxy A05s Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-troubleshooting-guide-for-windows-10-touchscreen-malfunctions-5-steps/"><u>The Ultimate Troubleshooting Guide for Windows 10 Touchscreen Malfunctions (5 Steps)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-absent-d3dx939dll-file-solutions-and-tips/"><u>Troubleshooting the Absent d3dx9_39.dll File - Solutions and Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fixes-to-silence-crackling-audio-problems-on-your-windows-pc-or-laptop/"><u>Ultimate Fixes to Silence Crackling Audio Problems on Your Windows PC or Laptop</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-oneplus-12r-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide OnePlus 12R Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/boost-win11-efficiency-smart-wmi-host-management/"><u>Boost Win11 Efficiency: Smart WMI Host Management</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-15-plus-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 15 Plus without the Previous Owner?</u></a></li>
+<li><a href="https://common-error.techidaily.com/combat-automatic-sleep-settings-expert-advice-on-maintaining-constant-connection/"><u>Combat Automatic Sleep Settings: Expert Advice on Maintaining Constant Connection</u></a></li>
+<li><a href="https://facebook.techidaily.com/constructive-methods-for-cultivating-collaborative-communities-fb/"><u>Constructive Methods for Cultivating Collaborative Communities (FB)</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-and-straightforward-fixes-for-windows-perpetual-0-update-problem/"><u>Fast and Straightforward Fixes for Window's Perpetual 0% Update Problem</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-gaming-to-adventure-the-power-of-the-new-polaroid-xs-100i-for-2024/"><u>From Gaming to Adventure, the Power of the New Polaroid XS 100I for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lamptron-accused-of-illegally-distributing-counterfeit-aida64-software-on-lcd-equipment/"><u>Lamptron Accused of Illegally Distributing Counterfeit AIDA64 Software on LCD Equipment</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-the-removal-of-spotify-from-your-facebook-account/"><u>Navigating the Removal of Spotify From Your Facebook Account</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-understanding-and-fixing-cyclic-redundancy-check-failures/"><u>Resolved: Understanding and Fixing Cyclic Redundancy Check Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-sluggish-closure-problem-on-windows-10/"><u>Resolving the Sluggish Closure Problem on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-new-world-easy-anti-cheat-launch-issues-successfully/"><u>Solving New World Easy Anti-Cheat Launch Issues Successfully</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-tutorial-on-enablingdisabling-hibernate-mode-for-windows-10-users/"><u>Step-by-Step Tutorial on Enabling/Disabling Hibernate Mode for Windows 10 Users</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-v27-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo V27 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-ps4-dualshock-controllers-that-fail-to-charg/"><u>Troubleshooting Guide: Fixing PS4 Dualshock Controllers That Fail To Charg</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-correcting-windows-n-11-sxs-configuration-mistakes/"><u>Troubleshooting Tips for Correcting Windows N 11 SxS Configuration Mistakes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ubuntu-terminal-tactics-initiating-shellgpt-with-gpt/"><u>Ubuntu Terminal Tactics: Initiating ShellGPT with GPT</u></a></li>
 </ul></div>
 

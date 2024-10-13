@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Why Isn’t the '@' Character Functioning?"
-date: 2024-10-03T16:12:35.573Z
-updated: 2024-10-06T17:06:34.699Z
+date: 2024-10-07T21:49:36.703Z
+updated: 2024-10-12T21:08:40.975Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 4. [**Install the latest SteelSeries Engine software**](#F4)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
@@ -48,15 +48,22 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d7eb4645.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphon** e section, make sure the toggle is **On** so that you can allow apps access to your microphone.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
@@ -85,6 +92,13 @@ Here’s how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your audio settings
 
  Ideally Windows can automatically detect your microphone and set it as the default playback device every time it’s plugged into. But that’s not always the case and sometimes we’ll have to set default devices manually and set its sound levels.
@@ -94,39 +108,26 @@ To do so:
 1. Right-click on  **the sound icon**  on the lower-right of your computer screen, then click  **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest SteelSeries Engine software
 
@@ -159,22 +160,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-assessing-64128gbs-video-storing-potential/"><u>[New] Assessing 64/128GB's Video-Storing Potential</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-extracting-youtube-images-online-desktop-tools-and-terminal-tactics/"><u>[Updated] 2024 Approved Extracting YouTube Images Online, Desktop Tools & Terminal Tactics</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-innovation-unleashed-cutting-edge-ar-games/"><u>[Updated] 2024 Approved Innovation Unleashed Cutting-Edge AR Games</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-melody-mixin-adding-tracks-to-snapchat-vids/"><u>[Updated] Melody Mixin' Adding Tracks to Snapchat Vids</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-solutions-to-tackle-the-lost-openal32dll-component-error-on-your-pc/"><u>Easy Solutions to Tackle the Lost openAL32.dll Component Error on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206802457-error-code-31-on-your-pc-heres-how-you-can-solve-it/"><u>Error Code 31 on Your PC? Here's How You Can Solve It</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/free-high-definition-hd-4k-hindi-music-videos-available-now/"><u>Free High-Definition (HD) 4K Hindi Music Videos Available Now!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-itel-p55plus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Itel P55+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-streamlined-steps-easy-recording-on-vimeo/"><u>In 2024, Streamlined Steps Easy Recording on Vimeo</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-fix-for-windows-update-challenge-cracking-error-0x8024402c/"><u>Mastering the Fix for Windows Update Challenge: Cracking Error 0X8024402c</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-silence-shift-a-comprehensive-look-at-how-to-strip-sound-from-digital-videos-on-the-web/"><u>New In 2024, The Silence Shift A Comprehensive Look at How to Strip Sound From Digital Videos on the Web</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/personal-development-and-the-power-of-chatgpt/"><u>Personal Development and the Power of ChatGPT</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-xerox-printer-error-0x800f020b-on-windows-systems/"><u>Resolving Xerox Printer Error 0X800F020B on Windows Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-minecraft-local-network-woes-effective-strategies-and-advice/"><u>Solve Your Minecraft Local Network Woes - Effective Strategies and Advice</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-tips-for-repairing-your-ps4-microphone-issues/"><u>Top Tips for Repairing Your PS4 Microphone Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-non-hdcp-compliant-displays-solutions-and-tips/"><u>Troubleshooting Non-HDCP Compliant Displays - Solutions and Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-windows-failed-to-start-problem/"><u>Ultimate Guide: Resolving the 'Windows Failed to Start' Problem</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-leading-lists-compelling-google-cardboard-vr-game-selections/"><u>[New] 2024 Approved Leading Lists Compelling Google Cardboard VR Game Selections</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-cutting-edge-techniques-for-advanced-hdr-images-in-aps/"><u>[Updated] In 2024, Cutting-Edge Techniques for Advanced HDR Images in APS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-metavision-journey-essential-gear-for-metaverse-visitors/"><u>[Updated] Metavision Journey Essential Gear for Metaverse Visitors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-realme-gt-5-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Realme GT 5 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminating-opengl-glitches-in-minecraft-comprehensive-tips-for-gamers/"><u>Eliminating OpenGL Glitches in Minecraft - Comprehensive Tips for Gamers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-your-approach-to-health-7-compelling-reasons-to-use-chatgpt/"><u>Enhancing Your Approach to Health: 7 Compelling Reasons to Use ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-1603-unravelled-diagnosing-and-correcting-installation-faults-successfully/"><u>Error 1603 Unravelled: Diagnosing & Correcting Installation Faults Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-non-responsive-mouse-on-macbook-and-windows-pc-expert-advice/"><u>Fixing a Non-Responsive Mouse on MacBook and Windows PC – Expert Advice</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oppo-reno-10-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Oppo Reno 10 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-to-your-broken-logitech-mouse-scroll-wheel/"><u>How to Restore Functionality to Your Broken Logitech Mouse Scroll Wheel</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-15-pro-max-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 15 Pro Max With or Without Password</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/legally-capturing-zoom-conversations-top-5-methods/"><u>Legally Capturing Zoom Conversations: Top 5 Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/mystic-monitor-unsolved-darkness/"><u>Mystic Monitor: Unsolved Darkness</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-problems-with-the-night-light-feature-in-windows-11-systems/"><u>Overcoming Problems with the Night Light Feature in Windows 11 Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfect-picture-pro-the-best-phones-for-uncompromised-4k-video-quality/"><u>Perfect Picture Pro The Best Phones for Uncompromised 4K Video Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-elevated-cpu-consumption-caused-by-wudfhostexe-on-windows-10/"><u>Resolving Elevated CPU Consumption Caused by wudfhost.exe on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-pubgs-network-errors-for-a-smoother-gaming-experience/"><u>Troubleshooting PUBG's Network Errors for a Smoother Gaming Experience</u></a></li>
 </ul></div>
 

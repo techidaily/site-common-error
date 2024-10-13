@@ -1,7 +1,7 @@
 ---
 title: "Navigating and Resolving Server Outages in Destiny 2: Expert Advice"
-date: 2024-10-04T18:00:12.119Z
-updated: 2024-10-06T21:23:04.511Z
+date: 2024-10-10T23:44:56.703Z
+updated: 2024-10-12T17:54:43.440Z
 tags:
   - win11
   - win10
@@ -45,10 +45,10 @@ If you’re getting so annoyed with**the** **PUBG lag** issue, you’re not alon
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Close unused apps and set high priority for PUBG
@@ -99,6 +99,13 @@ Running PUBG in a lower resolution can also help in fixing lag:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Change the power option and adjust for best performance
 
  By default, the power plan on our computer is often configured to **Balanced**   or **Power saver**   to conserve battery, which largely compromises the operating capacity of your graphics card and CPU.
@@ -110,40 +117,28 @@ So to tweak the settings:
 1. On your keyboard, press **the Windows logo key**   and **R**   at the same time, then copy & paste **powercfg.cpl**   into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Choose the **High performance** option.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
-3. In the top-right corner of the window, type **advanced**  and click **View advanced system settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4f0b203f9.jpg)
+3. In the top-right corner of the window, type **advanced**  and click **View advanced system settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c503626f65.jpg)
 4. Click **Adjust for best performance** \> **Apply** \> **OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c50b65a2ed.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -167,18 +162,24 @@ So to tweak the settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-top-7-android-ad-blockers-your-choice-comparison/"><u>[Updated] In 2024, Top 7 Android Ad Blockers Your Choice Comparison</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-screen-casting-in-vlc-reviewed-for-2024/"><u>[Updated] Screen Casting in VLC Reviewed for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/activatedeactivate-your-pcs-display-keyboard-in-windows-11-with-ease/"><u>Activate/Deactivate Your PC's Display Keyboard in Windows 11 with Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-resolving-freezing-issues-in-computers-and-mobile-devices/"><u>Expert Advice on Resolving Freezing Issues in Computers and Mobile Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guide-streaming-videos-from-vlc-player-to-your-chromecast-device-on-smart-television/"><u>Guide: Streaming Videos From VLC Player to Your Chromecast Device on Smart Television</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208731117-microsoft-wireless-display-not-working-on-windows-11-heres-how-you-can-solve-it/"><u>Microsoft Wireless Display Not Working on Windows 11? Here’s How You Can Solve It!</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-your-gaming-experience-fixing-valorants-persistent-screen-tear-issue/"><u>Optimizing Your Gaming Experience: Fixing Valorant’s Persistent Screen Tear Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-10-audio-dysfunction-a-comprehensive-fix-guide/"><u>Overcoming Windows 10 Audio Dysfunction: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/premium-soft-ui-dashboard-the-ultimate-laravel-solution-by-creative-tim-and-updivision/"><u>Premium Soft UI Dashboard: The Ultimate Laravel Solution by Creative Tim and UPDIVISION</u></a></li>
-<li><a href="https://discover-great.techidaily.com/riprendi-i-tuoi-dvd-con-facilita-un-tutorial-completo-sullutilizzo-dellapp-di-copia-e-ricalco-gratis-2020/"><u>Riprendi I Tuoi DVD Con Facilità: Un Tutorial Completo Sull'utilizzo Dell'App Di Copia E Ricalco Gratis 2020</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tips-to-fix-your-pcs-update-error-code-0x8007001f-explained/"><u>Step-by-Step Tips to Fix Your PC's Update Error: Code 0X8007001f Explained</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/trasforma-i-tuoi-file-mov-in-formato-wma-senza-costi-conversione-online-gratuita-con-movavi/"><u>Trasforma I Tuoi File MOV in Formato WMA Senza Costi - Conversione Online Gratuita Con Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-support-expert-tips-to-get-your-hosted-network-running-smoothly/"><u>Windows 10 Support: Expert Tips to Get Your Hosted Network Running Smoothly</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instaloops-unleashed-the-ultimate-guide-to-engagement/"><u>[New] InstaLoops Unleashed The Ultimate Guide to Engagement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-shooting-in-the-dark-elevating-iphone-photos-with-shadows/"><u>[New] Shooting in the Dark Elevating iPhone Photos with Shadows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-list-top-7-android-apps-blocking-intrusive-ads/"><u>[New] The Ultimate List Top 7 Android Apps Blocking Intrusive Ads</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-effortless-and-accurate-how-to-capture-every-hulu-playback/"><u>[Updated] Effortless and Accurate How To Capture Every Hulu Playback</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-loop-and-relish-youtube-videos-double-the-delight-on-tv/"><u>[Updated] Loop & Relish YouTube Videos, Double the Delight on Tv</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortlessly-overcome-csgo-crashing-issues-with-these-proven-fixes/"><u>Effortlessly Overcome CS:GO Crashing Issues with These Proven Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-message-volume-damaged-0x80071ac3-troubleshooting-steps-for-recovery/"><u>Error Message: Volume Damaged (0X80071AC3) - Troubleshooting Steps for Recovery</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/guide-to-setting-up-your-android-as-a-personal-wi-fi-hotspot/"><u>Guide to Setting Up Your Android as a Personal Wi-Fi Hotspot</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-updates-stalled-on-99-or-100-solved/"><u>How to Fix Windows Updates Stalled on 99 or 100% - Solved!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-v-purse-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor V Purse to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-non-charging-devices-in-windows-7-and-10-systems/"><u>How to Troubleshoot Non-Charging Devices in Windows 7 and 10 Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-free-mov-video-stitching-software-top-5-choices/"><u>New In 2024, Free MOV Video Stitching Software Top 5 Choices</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-your-windows-stores-cached-data-a-guide/"><u>Resolving Issues with Your Windows Store's Cached Data – A Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-dealing-with-a-hanging-google-chrome-window/"><u>Solution Guide: Dealing with a Hanging Google Chrome Window</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-dell-camera-problems-quickly-for-windows-users/"><u>Solve Dell Camera Problems Quickly for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210138834-troubleshooting-guide-fixing-minecraft-lan-connection-issues-quick-solutions/"><u>Troubleshooting Guide: Fixing 'Minecraft LAN Connection Issues' - Quick Solutions!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-freezing-issues-during-windows-10-launch/"><u>Troubleshooting Guide: Fixing Freezing Issues During Windows 10 Launch</u></a></li>
 </ul></div>
 

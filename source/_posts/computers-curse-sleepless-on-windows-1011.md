@@ -1,7 +1,7 @@
 ---
 title: "Computer's Curse: Sleepless on Windows 10/11"
-date: 2024-10-05T10:17:40.335Z
-updated: 2024-10-06T23:57:45.060Z
+date: 2024-10-05T21:42:31.461Z
+updated: 2024-10-12T18:54:56.380Z
 tags:
   - win11
   - win10
@@ -37,16 +37,16 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 
  You don’t need to worry too much about the above reasons but just try the methods below to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Before getting started
 
  Before you get started to fix the mouse problem, it is a wise choice to check your wireless mouse first.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Check the power of the wireless mouse
 
@@ -57,13 +57,6 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
  As time goes, your wireless mouse is consumed. As a result, it may be damaged. Especially, a cheap mouse may have a shorter service time. When your mouse doesn’t work, you can check if your mouse has been damaged. You can connect your mouse to another PC and see if the mouse works. Once it doesn’t work, just replace it with a new one.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try these methods
 
@@ -76,13 +69,6 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 5. **[Disable disappearing cursor feature](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Fix missing or corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Fix unknown hard errors](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Change USB port
 
@@ -99,8 +85,24 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 2. Click**Devices** from the menu options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-18-58.jpg)
 3. Click**Bluetooth & other devices** on the left panel and then select**Add Bluetooth or other device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-25-05.jpg)
 4. Click**Bluetooth** on the dialog box below.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-21_08-39-48.jpg)
 5. You have to wait for the mouse to appear in the list and then follow the on-screen instructions to pair the device.
 
@@ -121,6 +123,13 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 
  After updating your device drivers, see if your mouse problem has been solved. If not, move to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 4: Disable the Realtek HD Audio Manager
 
  Realtek HD Audio Manager will start upon each bootup. It may interfere with the functionality of other devices and cause errors. If you disable the**Realtek HD Audio Manager** , it may help you to fix the mouse problem.
@@ -130,25 +139,32 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-32-07.jpg)
 3. Double-click the**Sound, video and game controllers** to view the devices in the category.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-34-07.jpg)  
  Right-click**Realtek High Definition Audio** and then select**Disable device.**  
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-38-50.jpg)
 4. Click**Yes** in the dialog box that pops up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-21_11-05-01.jpg)
 5. After disabling**Realtek High Definition Audio,** you can check if your mouse works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5: Disable disappearing cursor feature
@@ -163,17 +179,17 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-44-09.jpg)
 4. The**Mouse Properties** dialog box will open. Click the**Pointer Options** tab on the upper side of the window.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-24_08-46-17.jpg)
 5. Uncheck the box next to the**Hide pointer while typing** and click the**OK** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-21_11-47-57-1.jpg)
 6. Restart your PC and see if your mouse works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 6: Fix missing or corrupt system files
 
@@ -183,27 +199,14 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-13_11-45-26.jpg)
 2. Right-click**Command Prompt** and then select**Run as administrator** .  
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-21_08-57-46.jpg)
 3. In the black window that pops up, type**sfc/scannow** (you can just copy and paste it) and then press**Enter** . It will take some time to scan system files. For corrupted system files, it will repair them.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-23_19-16-39-1.jpg)
@@ -242,20 +245,16 @@ Your wireless mouse may randomly stop working. This is annoying. But don’t wor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-the-updated-comprehensive-bd-review-s3700/"><u>[Updated] 2024 Approved The Updated Comprehensive BD Review S3700</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-an-in-depth-look-at-basic-and-simplified-hdr-photography/"><u>[Updated] An In-Depth Look at Basic and Simplified HDR Photography</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unravel-time-on-your-screen-fresh-perspectives-to-watch-youtube-backwards/"><u>[Updated] Unravel Time on Your Screen Fresh Perspectives to Watch YouTube Backwards</u></a></li>
-<li><a href="https://techtrends.techidaily.com/detective-guide-resolving-the-non-functional-print-screen-feature-on-windows-11/"><u>Detective Guide: Resolving the Non-Functional Print Screen Feature on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-methods-for-addressing-and-correcting-network-connection-failures-rpc-on-windows-devices/"><u>Effective Methods for Addressing and Correcting Network Connection Failures (RPC) on Windows Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-solutions-for-when-you-encounter-an-invalid-directory-error-message/"><u>Expert Solutions for When You Encounter an Invalid Directory Error Message</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-iphone-x-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From iPhone X?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ps5-models-showdown-slim-version-versus-full-sized-edition/"><u>PS5 Models Showdown: Slim Version versus Full-Sized Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-10-update-error-kb4056892-wont-install-successfully-tips-and-fixes/"><u>Resolving Windows 10 Update Error: KB4056892 Won't Install Successfully - Tips and Fixes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/rgb-to-srgb-transition-what-it-means-for-visual-media-for-2024/"><u>Rgb to Srgb Transition What It Means for Visual Media for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/start-here-how-to-expedite-videos-in-snapchat-for-new-users/"><u>Start Here How to Expedite Videos in Snapchat for New Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-memorable-anime-opens-for-2024/"><u>The Ultimate Guide to Memorable Anime Opens for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-persistent-usb-connection-issues/"><u>Troubleshooting Guide: Resolving Persistent USB Connection Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-windows-error-code-31/"><u>Troubleshooting Guide: Resolving Windows Error Code 31</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-addressing-clipboard-copypaste-glitches/"><u>Windows 10: Addressing Clipboard Copy/Paste Glitches</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-clearscreenstreamer-seamless-easy-w11-screenshots/"><u>[Updated] ClearScreenStreamer Seamless, Easy W11 Screenshots</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-the-art-of-instagram-post-scheduling/"><u>[Updated] Mastering the Art of Instagram Post Scheduling</u></a></li>
+<li><a href="https://common-error.techidaily.com/endgame-interruptions-fixing-pc-pauses-on-the-go/"><u>Endgame Interruptions: Fixing PC Pauses On-the-Go</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unavailable-steamapi64-dll-in-game/"><u>Fixing Unavailable Steam_api64 DLL in Game</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-logitech-driver-set-for-pc-windows-7-8-and-10-support/"><u>Get Your Logitech Driver Set for PC: Windows 7, 8 and 10 Support</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/high-end-illumination-for-every-shooter-speedlite-iv-at-a-bargain-price/"><u>High-End Illumination for Every Shooter: Speedlite IV at a Bargain Price!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-poco-c55-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Poco C55 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726028190203-mp4/"><u>MP4動画再生エラーに対する解決法: 高度なトラブルシューティングの手引き</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-windows-update-failed-with-code-0x80070643/"><u>Step-by-Step Fix for Windows Update Failed with Code 0X80070643</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-rapid-ascension-of-scroll-bars-in-windows-11s-file-explorer-a-complete-guide/"><u>Troubleshooting the Rapid Ascension of Scroll Bars in Windows 11'S File Explorer: A Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/unraveling-the-mystery-understanding-unexpected-auto-boot-in-windows-10-systems/"><u>Unraveling the Mystery: Understanding Unexpected Auto-Boot in Windows 10 Systems</u></a></li>
 </ul></div>
 

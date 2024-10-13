@@ -1,7 +1,7 @@
 ---
 title: "Solution: Gain Admin Privileges Needed for Successful Operations on Windows 11, 10 & 7"
-date: 2024-10-02T09:11:13.275Z
-updated: 2024-10-06T17:07:35.442Z
+date: 2024-10-07T05:13:05.147Z
+updated: 2024-10-12T17:22:44.131Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ Both fixes below work in Windows 10, 8 and 7.
 1. [**Enable touchpad in settings**](#F1)
 2. [**Update your touchpad driver**](#F2)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Enable touchpad in settings
 
  You laptop-mouse-pad-not-responding issue sometimes happens only because you’ve disabled it unknowingly. To turn it back on:
@@ -44,36 +51,16 @@ Both fixes below work in Windows 10, 8 and 7.
 1. On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Hopefully this turns your touchpad back on and it works propely again. If the problem persists, try**Fix 2** .
 
@@ -98,13 +85,21 @@ Both fixes below work in Windows 10, 8 and 7.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](http://wp.easeware.net/wp-content/uploads/2018/04/img_5ac1a01192ca4.png)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3df9ad3f86c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Check and see if your Lenovo touchpad is back to life again. ?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -132,19 +127,22 @@ Both fixes below work in Windows 10, 8 and 7.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-boost-engagement-on-instagram-with-large-post-combinations/"><u>[New] 2024 Approved Boost Engagement on Instagram with Large Post Combinations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-hearthsongs-the-quintessential-playlist-for-engagement/"><u>[New] Hearthsongs The Quintessential Playlist for Engagement</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-xstream-studios-complete-exploration-in-156-words/"><u>[New] Unveiling XStream Studios Complete Exploration in 156 Words</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/anti-monopoly-measures-the-drive-against-tech-goliaths/"><u>Anti-Monopoly Measures: The Drive Against Tech Goliaths</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-solutions-resolving-error-code-0x887a0006-in-a-jiffy/"><u>Effortless Solutions: Resolving Error Code 0X887A0006 in a Jiffy</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ng-it-out-best-tags-to-transform-views-and-profit/"><u>Hashing It Out Best Tags to Transform Views & Profit</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-pairing-problems-with-bluetooth-devices-on-windows-10-tips/"><u>How to Overcome Pairing Problems with Bluetooth Devices on Windows 10 - Tips</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-iphone-xr-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From iPhone XR</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-blade-a73-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock ZTE Blade A73 5G Bootloader Easily</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-audio-skills-using-audacity-professionally/"><u>In 2024, Transforming Audio Skills Using Audacity Professionally</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-repairing-the-functionality-of-windows-plus-shift-plus-s-key-combination-in-modern-os/"><u>Ultimate Guide: Repairing the Functionality of Windows + Shift + S Key Combination in Modern OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-tips-fixing-and-rebooting-your-keyboard/"><u>Ultimate Troubleshooting Tips: Fixing and Rebooting Your Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-solving-steams-troublesome-e80-error-code/"><u>Understanding & Solving Steam's Troublesome E80 Error Code</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-language-of-cinema-writing-as-an-art-for-2024/"><u>[New] The Language of Cinema Writing as an Art for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-visual-treat-discover-these-14-text-animation-delights/"><u>A Visual Treat Discover These 14 Text Animation Delights</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-how-to-get-the-steam-store-running-again/"><u>Expert Advice on How To Get The Steam Store Running Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/green-grief-in-nba-2k21-no-more-expert-advice-on-removing-the-bug/"><u>Green Grief in NBA 2K21 No More: Expert Advice on Removing the Bug!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-infinix-hot-40-pro-is-unlocked-by-drfone-android/"><u>How To Check if Your Infinix Hot 40 Pro Is Unlocked</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-oculus-hardware-error-2024/"><u>How to Fix Oculus Hardware Error – 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-blueprint-for-a-personalized-high-definition-editing-haven/"><u>In 2024, Blueprint for a Personalized, High-Definition Editing Haven</u></a></li>
+<li><a href="https://program-issues.techidaily.com/insider-tips-to-fix-apex-legends-error-leaf-the-ultimate-guide-for-gamers-facing-challenges/"><u>Insider Tips to Fix Apex Legends Error Leaf - The Ultimate Guide for Gamers Facing Challenges</u></a></li>
+<li><a href="https://win-able.techidaily.com/low-frame-rates-no-more-master-the-tips-and-tricks-for-smooth-playthroughs-of-outriders/"><u>Low Frame Rates No More: Master the Tips and Tricks for Smooth Playthroughs of Outriders</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-rated-hand-drawing-animation-tools-for-whiteboard-explainers/"><u>New In 2024, Top-Rated Hand Drawing Animation Tools for Whiteboard Explainers</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimize-your-pc-reducing-high-resource-usage-of-microsoft-compatibility-telemetry-on-windows-11/"><u>Optimize Your PC: Reducing High Resource Usage of Microsoft Compatibility Telemetry on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-startup-errors-how-to-get-your-computer-running-smoothly-again/"><u>Resolving 'Startup Errors': How to Get Your Computer Running Smoothly Again</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reviving-your-windows-10-experience-the-ultimate-guide-to-performing-a-hard-reset-or-refresh/"><u>Reviving Your Windows 10 Experience: The Ultimate Guide to Performing a Hard Reset or Refresh</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-print-screen-not-working-errors-in-modern-windows-operating-systems/"><u>Solving Print Screen Not Working Errors in Modern Windows Operating Systems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/step-by-step-guide-to-youtube-video-enhancement-with-wmm-for-2024/"><u>Step-by-Step Guide to YouTube Video Enhancement with WMM for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-how-to-fix-your-valorant-games-screen-tearing-problem/"><u>Step-by-Step Guide: How To Fix Your Valorant Game's Screen Tearing Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-lenovos-wireless-connectivity-problems-driver-solutions-unveiled/"><u>Troubleshooting Lenovo's Wireless Connectivity Problems: Driver Solutions Unveiled</u></a></li>
 </ul></div>
 

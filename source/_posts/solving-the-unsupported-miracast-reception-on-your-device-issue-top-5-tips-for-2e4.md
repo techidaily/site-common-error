@@ -1,7 +1,7 @@
 ---
 title: "Solving the 'Unsupported Miracast Reception on Your Device' Issue: Top 5 Tips for 2E4"
-date: 2024-10-06T05:39:28.306Z
-updated: 2024-10-06T21:37:11.567Z
+date: 2024-10-08T04:07:15.170Z
+updated: 2024-10-12T23:33:59.679Z
 tags:
   - win11
   - win10
@@ -68,30 +68,24 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 3. Click the**Update** button next to a flagged graphics card driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13728822cca.jpg)
 4. Check to see if your computer keeps going to sleep.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Disable the screen saver
 
@@ -117,34 +111,13 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373fd30172.jpg)
 3. Click the**Change screen saver** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
 4. Set**Screen saver** to**None** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
 5. Check to see if your computer keeps going to sleep.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 4: Change the System unattended sleep timeout to a longer time
 
@@ -158,6 +131,14 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137510499e6.png)  
  1a) On your keyboard, press the`Win+R` (the Windows logo key and the R key) at the same time to invoke the Run box.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  1b) Type**`regedit`** and click**OK** . Then the Registry Editor window will pop up.
 2. Navigate to the following directory:  
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
@@ -165,6 +146,14 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 3. In the right pane, double-click on**Attributes** to modify it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375fa5a5d3.png)
 5. Click the**OK** button.
 6. Exit the Registry Editor.
@@ -175,20 +164,29 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 2. **View by Large icons** , and click**Power Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376290956d.jpg)
 3. Click the **Change plan settings** under your selected power plan.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In my case, the selected settings is Balanced, so I click on Change plan settings next to it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13765cde66b.jpg)
 4. Click on**Change advanced power settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Expand the entry**Sleep** , then expand the entry**System unattended sleep timeout** . The value for this setting will probably be set to 2 minutes –**change it to a longer time** , for example, 30 minutes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1376fc0269a.jpg)
 6. Click**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Check to see if the computer keeps going to sleep.
 
@@ -213,22 +211,18 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-rapid-learning-from-visuals-to-vivid-youtube-channel-thumbnails/"><u>[Updated] Rapid Learning From Visuals To Vivid YouTube Channel Thumbnails</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1726029516265-flvmp33/"><u>最適なFLVからMP3への無料変換ソフトウェアトップ3をご紹介</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-werfaultexe-errors-a-comprehensive-guide-for-windows-users/"><u>Bypassing WerFault.exe Errors: A Comprehensive Guide for Windows Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-radio-broadcasts-for-college-hoops-fans-march-madness-to-final-four-journey/"><u>Exclusive Radio Broadcasts for College Hoops Fans: March Madness to Final Four Journey</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-electric-overload-in-connector-points/"><u>Fixed: Electric Overload in Connector Points</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-safely-retrieve-videos-from-canalplus-using-your-pc-or-mac/"><u>How to Safely Retrieve Videos From Canal+ Using Your PC or Mac</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-be-the-life-of-the-party-uploading-and-sharing-gifs-on-instagram-instant-guide/"><u>In 2024, Be the Life of the Party Uploading & Sharing GIFs on Instagram [Instant Guide]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-smart-8-pro-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Infinix Smart 8 Pro Phone Without Password?</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205367932-microsoft-store-problems-heres-the-guide-to-get-it-working-again/"><u>Microsoft Store Problems? Here’s the Guide to Get It Working Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-connection-problems-a-guide-to-solving-twitch-error-4000/"><u>Overcoming Connection Problems: A Guide to Solving Twitch Error 4000</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/premier-action-cams-for-dynamic-sports-for-2024/"><u>Premier Action Cams for Dynamic Sports for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-vivo-v29-pro-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Vivo V29 Pro has been deleted</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-puzzle-reappearing-desktop-icons-in-windows-11-a-comprehensive-tutorial/"><u>Solving the Puzzle: Reappearing Desktop Icons in Windows 11 – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-by-step-instruction-loading-windows-movie-maker-60/"><u>Step-by-Step Instruction Loading Windows Movie Maker 6.0</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-to-correct-the-livekernel-event-error-117/"><u>Troubleshooting Tips to Correct the LiveKernel Event Error #117</u></a></li>
-<li><a href="https://common-error.techidaily.com/video-not-showing-follow-these-simple-steps-to-solve-the-problem/"><u>Video Not Showing? Follow These Simple Steps to Solve the Problem</u></a></li>
-<li><a href="https://common-error.techidaily.com/yac59n-yamahaaturbosound-ii-sound-module-based-on-the-ymf7a4eymu3x-dsp-plus-midi-synthesader-plus-codec-and-25cubt-lite-in-december-2011/"><u>YAC59N - Yamaha'aturboSound II Sound Module Based on the YMF7A4E/YMU^3X (DSP + MIDI Synthesader + Codec) and 25cuBT-Lite in December 2011</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-covert-videography-the-premier-8-downloader-list-for-2024/"><u>[Updated] Covert Videography The Premier 8 Downloader List for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-disclosure-ricoh-theta-s-inside-and-out/"><u>[Updated] Full Disclosure Ricoh Theta S Inside & Out</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-luts-application-in-movie-post-production-coloring/"><u>2024 Approved Luts Application in Movie Post-Production Coloring</u></a></li>
+<li><a href="https://article-helps.techidaily.com/become-a-pip-expert-enhancing-visual-narratives-on-macos-sierra-for-2024/"><u>Become a PIP Expert Enhancing Visual Narratives on macOS Sierra for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-mysterious-process-abruptly-ended-error-code-1067-in-windows/"><u>Fixing the Mysterious 'Process Abruptly Ended' Error Code 1067 in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fix-lenovo-keyboard-issues-for-smooth-typing-experience/"><u>Guide to Fix Lenovo Keyboard Issues for Smooth Typing Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fixing-and-successfully-deploying-the-battleye-cheating-detection-system/"><u>Guide to Fixing and Successfully Deploying the BattlEye Cheating Detection System</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-the-muted-soundscape-of-windows-7-computers/"><u>Reviving the Muted Soundscape of Windows 7 Computers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-completely-reboot-your-ipad-across-all-versions/"><u>Step-by-Step Instructions: Completely Reboot Your iPad Across All Versions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/uncomplicated-capture-efficient-screenshots-on-dell-for-2024/"><u>Uncomplicated Capture Efficient Screenshots on Dell for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/upgrade-your-wheel-swipe-prowess/"><u>Upgrade Your Wheel Swipe Prowess</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win10-upgrades-no-more-video-lags-or-pauses/"><u>Win10 Upgrades: No More Video Lags or Pauses</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208586031-windows-10-light-dimmer-malfunction-heres-the-solution/"><u>Windows 10 Light Dimmer Malfunction? Here's the Solution!</u></a></li>
 </ul></div>
 

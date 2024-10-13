@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Troubleshooting for the Non-Plugged In Hardware Error (Code 0xC0000098) on Windows Devices
-date: 2024-09-14T16:04:12.668Z
-updated: 2024-09-15T16:04:24.889Z
+date: 2024-10-07T17:27:20.339Z
+updated: 2024-10-13T01:03:12.784Z
 tags:
   - win11
   - win10
@@ -44,12 +44,40 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 3. Click**Apply this fix** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap395.png)
  Windows Update troubleshooter will try to fix the issue for you. You can restart your PC and try to perform a Windows update again. If it still doesn’t work, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 2: Restart the Windows Update service**
 
  You may see the error code 0xc1900208 if there is something wrong with the Windows Update service. Try restarting the Windows Update service to see if you can resolve this problem. Here’s how to do it:
 
 1. On your keyboard, press **the Windows Logo key**   and **R**   at the same time to open the Run dialog, then type **services.msc** and press **Enter**   to open the Services window.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap396.png)
 2. Right-click **Windows Update** and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap397.png)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. On your keyboard, press **the Windows Logo Key**  and **E**  at the same time to open **File Explorer** .  Copy the path below and paste it in the address bar, then press **Enter**  on your keyboard to go to the **DataStore**  folder.**`C:\Windows\SoftwareDistribution\DataStore`**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap398.png)  
  Please paste it in the address bar.
@@ -62,13 +90,27 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
 6. **Delete** all the files in the folder   **Download** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap401.png)  
  When all the files are deleted, you shall see “This folder is empty”.
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Perform a Windows update again. If it still doesn’t work, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 3: Run the DISM tool**
@@ -93,10 +135,10 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
  See if you can perform a Windows update. If this issue persists, try running the System File Checker.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 4: Running System File Checker**
@@ -109,6 +151,14 @@ This is the quickest and easiest fix to try when you’re seeing the error code 
  It may take some time for the command operation to be completed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap408.png)
 3. When this command operation is completed, close **Command Prompt** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Run Windows Update  again to check whether this fix works or not. If you still fail to install updates for your Windows system, don’t worry. Try the next fix.
 
 ### **Fix 5: Downloading updates from Microsoft Update Catalog manually**
@@ -125,32 +175,18 @@ Run Windows Update  again to check whether this fix works or not. If you still f
 5. Type the update number that you want to download. In this example, type KB  3006137 and then click **Search** .![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap411.png)
 6. In the list of search results, select right update for your operating system and click **Download** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your**Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap412.png)
 7. In the pop-up window, click the link to start downloading the updates.![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap413.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 See if the error code 0xc1900208 reappears. If this error persists, try the next fix.
 
@@ -178,5 +214,26 @@ See if the error code 0xc1900208 reappears. If this error persists, try the next
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-how-to-master-gameplay-filming-in-sims-4/"><u>[New] In 2024, How to Master Gameplay Filming in Sims 4</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instaflash-compile-your-pics-fast-for-2024/"><u>[New] InstaFlash Compile Your Pics Fast for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-ultra-hd-lg-27uhd68-4k-fs-display-and-smooth-sync-test/"><u>[New] Ultra HD LG 27UHD68 4K FS Display & Smooth Sync Test</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-secret-behind-crafting-mesmerizing-slow-motion-media-for-instagram/"><u>[Updated] The Secret Behind Crafting Mesmerizing Slow Motion Media for Instagram</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gigglestv-beginners-guide-to-making-videos/"><u>2024 Approved GigglesTV Beginner's Guide to Making Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-port-reset-failures-comprehensive-troubleshooting-for-unidentified-usb-devices-in-windows/"><u>Bypassing Port Reset Failures: Comprehensive Troubleshooting for Unidentified USB Devices in Windows 지급</u></a></li>
+<li><a href="https://facebook.techidaily.com/decline-to-share-your-digital-footprint-with-facebook/"><u>Decline to Share Your Digital Footprint with Facebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-minecraft-lags-with-these-simple-troubleshooting-steps/"><u>Eliminate Minecraft Lags with These Simple Troubleshooting Steps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/experts-secret-for-sticker-less-vids-on-tiktok-for-2024/"><u>Experts' Secret for Sticker-Less Vids on TikTok for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-achieving-financial-freedom-joshis-youtube-tactics/"><u>In 2024, Achieving Financial Freedom Joshi’s YouTube Tactics</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-honor-magic-6-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Honor Magic 6 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-fixing-your-magic-mouses-sensitivity-problem/"><u>Master the Art of Fixing Your Magic Mouse's Sensitivity Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-mouse-issues-the-definitive-fix-for-a-broken-right-click/"><u>Resolving Windows 10 Mouse Issues: The Definitive Fix for a Broken Right Click</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-overcoming-wacom-tablet-not-working-dilemma/"><u>Step-by-Step Guide: Overcoming Wacom Tablet Not Working Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-when-windows-is-stuck-during-setup/"><u>Step-by-Step Solution for When Windows Is Stuck During Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/success-story-restoring-life-to-your-corsair-hs50-microphone-tips-and-tricks/"><u>Success Story: Restoring Life to Your Corsair HS50 Microphone - Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubled-by-logitech-g930-mic-disconnections-heres-the-solution/"><u>Troubled by Logitech G930 Mic Disconnections? Here's the Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-starting-the-hosted-network-in-windows-10-fixed/"><u>Troubleshooting Guide: Starting the Hosted Network in Windows 10 Fixed</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209256710-windows-10-users-rejoice-comprehensive-guide-to-fixing-your-keyboard-responsiveness-issues/"><u>Windows 10 Users Rejoice: Comprehensive Guide to Fixing Your Keyboard Responsiveness Issues.</u></a></li>
+</ul></div>
 

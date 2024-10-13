@@ -1,7 +1,7 @@
 ---
 title: Solution Steps to Rectify VCRUNTIME140.dll Error on Your PC
-date: 2024-10-05T06:32:51.726Z
-updated: 2024-10-07T00:49:42.822Z
+date: 2024-10-06T01:47:47.052Z
+updated: 2024-10-13T02:03:46.281Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/7ba232e21fac78d0bae0e04300e47bac8679a7f9c
 **If you’re using a laptop** , you can probably find a function key available for turning wireless on/off on your laptop’s keyboard. It could be **F12** , varying from different laptops. Just find the key with a wireless symbol.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you cannot find such a key, or you’re using a desktop, enable the wireless function in the network connections window.
 
 **If you’re using Windows 10:**
@@ -52,11 +45,31 @@ thumbnail: https://thmb.techidaily.com/7ba232e21fac78d0bae0e04300e47bac8679a7f9c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c26eeb53565f.jpg)
 2. Make sure your Wi-Fi status is **on** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e4156856f93.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **If you’re using Windows 11:**
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
 2. From the left navigation panel, click**Network and Internet** . Toggle**On Wi-Fi** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/05/win11-Network-and-internet-wifi-on.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **If you’re using Windows 7:**
 
@@ -66,20 +79,19 @@ thumbnail: https://thmb.techidaily.com/7ba232e21fac78d0bae0e04300e47bac8679a7f9c
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-10.jpg)
 3. Right-click on your wireless network adapter and choose **Enable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/4-14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Check the power management setting of your wireless network adapter
@@ -88,16 +100,17 @@ thumbnail: https://thmb.techidaily.com/7ba232e21fac78d0bae0e04300e47bac8679a7f9c
 2. Type**devmgmt.msc**  and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e4171905b49.png)
 3. Double-click your wireless network adapter device in **Network adapters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c26efc44c4f4.jpg)
 4. Make sure   **Allow the computer to turn off this device to save power**  is unchecked in **Power Management** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/7-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your wireless network adapter driver
 
@@ -114,10 +127,10 @@ thumbnail: https://thmb.techidaily.com/7ba232e21fac78d0bae0e04300e47bac8679a7f9c
 3. Click the **Update** button next to a flagged network adapter driver to automatically download it， then you can install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/05/5-25.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer and try to connect to Wi-Fi to see if it works.
@@ -139,22 +152,18 @@ thumbnail: https://thmb.techidaily.com/7ba232e21fac78d0bae0e04300e47bac8679a7f9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-keep-your-creativity-alive-with-insta-content-sharing/"><u>[New] Keep Your Creativity Alive with Insta Content Sharing</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-decoding-the-meaning-behind-fbs-blue-status-indicator/"><u>[Updated] 2024 Approved Decoding the Meaning Behind FB's Blue Status Indicator</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fast-and-easy-filming-techniques-the-best-5-hacks-unveiled/"><u>2024 Approved Fast & Easy Filming Techniques – The Best 5 Hacks Unveiled</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-mac-recording-hub-essential-insights/"><u>2024 Approved Mac Recording Hub Essential Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204693518-effortless-fixes-for-the-stuck-windows-update-problem-zero-percent-not-an-option-anymore/"><u>Effortless Fixes for the Stuck Windows Update Problem - Zero Percent Not an Option Anymore</u></a></li>
-<li><a href="https://driver-download.techidaily.com/expert-guide-resolving-issues-with-a-nonfunctional-logitech-g433-microphone/"><u>Expert Guide: Resolving Issues With A Nonfunctional Logitech G433 Microphone</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-windows-11-keyboard-delay-issues-resolved-techniques/"><u>Fix Windows 11 Keyboard Delay Issues - Resolved Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-enable-miracast-on-systems-with-incompatible-drivers-solutions-and-fixes/"><u>How to Enable Miracast on Systems with Incompatible Drivers – Solutions & Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-unresponsive-keys-on-a-dell-laptop-computer/"><u>How to Repair Unresponsive Keys on a Dell Laptop Computer</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-discover-the-art-of-following-facebook-live-events/"><u>In 2024, Discover the Art of Following Facebook Live Events</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-se-2022-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone SE (2022) With Forgotten Passcode Different Methods You Can Try</u></a></li>
-<li><a href="https://common-error.techidaily.com/miracast-troubleshooting-solutions-for-devices-with-limited-support/"><u>Miracast Troubleshooting : Solutions for Devices With Limited Support</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-graphics-driver-problems-with-d3d-troubleshooting-steps-inside/"><u>Overcome Graphics Driver Problems with D3D: Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-an-issue-occurred-while-restoring-your-pc-message-in-windows-11-comprehensive-fix/"><u>Resolving 'An Issue Occurred While Restoring Your PC' Message in Windows 11 – Comprehensive Fix</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/tactics-and-techniques-for-thriving-in-spotifys-adverse-for-2024/"><u>Tactics and Techniques for Thriving in Spotify's Adverse for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforma-sus-archivos-au-en-versiones-online-gratuitas-utilizando-movavi/"><u>Transforma Sus Archivos AU en Versiones Online Gratuitas Utilizando Movavi</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212481424-what-to-do-when-left-and-right-arrow-keys-stop-responding-quick-remedies/"><u>What to Do When Left and Right Arrow Keys Stop Responding: Quick Remedies</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-maximize-creativity-with-no-investment-explore-these-8-video-editors/"><u>[New] 2024 Approved Maximize Creativity with No Investment Explore These 8 Video Editors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-plotting-your-way-through-successful-instagram-video-marketing/"><u>[New] Plotting Your Way Through Successful Instagram Video Marketing</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-step-by-step-guide-to-correcting-the-unknown-usb-device-failure-on-windows-10-computers/"><u>A Step-by-Step Guide to Correcting the 'Unknown USB Device' Failure on Windows 10 Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/corrective-measures-against-windows-d3dx939dll-missing-errors/"><u>Corrective Measures Against Windows D3DX9_39.dll Missing Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-persistent-problem-how-to-overcome-windows-update-error-code-0x8007001f/"><u>Fixing the Persistent Problem: How to Overcome Windows Update Error Code 0X8007001f</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-dragon-ball-fighterz-network-startup-failures-for-optimal-gaming-experience/"><u>How to Fix Dragon Ball FighterZ Network Startup Failures for Optimal Gaming Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209291210-master-the-fix-how-to-address-the-dreaded-0x80070643-updateinstallation-faults-on-your-pc/"><u>Master the Fix: How To Address The Dreaded 0X80070643 Update/Installation Faults on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-performance-overcoming-graphics-cards-lack-of-alpha-blend-support/"><u>Optimizing Performance: Overcoming Graphics Card's Lack of Alpha Blend Support</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolving-the-kernel-mode-memory-management-bug-a-step-by-step-guide/"><u>Resolving the 'Kernel Mode Memory Management' Bug: A Step-by-Step Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-itel-a70-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Itel A70 Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-what-to-do-when-you-cant-find-msvcrt10dll/"><u>Troubleshooting Steps: What To Do When You Can't Find Msvcrt10.dll</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-tips-for-correcting-rainbow-six-siege-server-connectivity-problems/"><u>Ultimate Troubleshooting Tips for Correcting Rainbow Six Siege Server Connectivity Problems</u></a></li>
 </ul></div>
 

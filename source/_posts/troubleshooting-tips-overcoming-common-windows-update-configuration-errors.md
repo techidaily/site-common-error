@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Overcoming Common Windows Update Configuration Errors"
-date: 2024-09-14T16:04:18.830Z
-updated: 2024-09-15T16:07:01.370Z
+date: 2024-10-05T16:54:19.945Z
+updated: 2024-10-12T16:55:00.570Z
 tags:
   - win11
   - win10
@@ -52,23 +52,18 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Click **Themes** \> **Desktop icon settings**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
 
@@ -95,29 +90,24 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
@@ -131,10 +121,25 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 1. Click the **Start** button > the **Settings** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b790f639.jpg)
 2. Click **Update & security** \> **Recovery**.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -154,10 +159,10 @@ OR
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -181,5 +186,26 @@ If you have any other suggestions, please feel free to leave a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-how-can-you-air-facebook-videos-on-your-television-set-for-2024/"><u>[New] How Can You Air Facebook Videos on Your Television Set for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-get-noticed-on-youtube-the-ultimate-list-of-freefire-tag-tips/"><u>[Updated] In 2024, Get Noticed on YouTube The Ultimate List of FreeFire Tag Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-to-mp3-conversion-process-walkthrough-for-2024/"><u>[Updated] Instagram to MP3 Conversion Process Walkthrough for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-understanding-a-symbol-the-purpose-of-facebooks-blue-emoji/"><u>2024 Approved Understanding a Symbol The Purpose of Facebook's Blue Emoji</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-enabled-successfully-steps-for-displaying-in-windows-device-manager/"><u>Bluetooth Enabled Successfully! Steps for Displaying in Windows Device Manager</u></a></li>
+<li><a href="https://common-error.techidaily.com/bridging-the-gap-reestablishing-connection-with-your-non-syncing-xbox-one-contoller/"><u>Bridging the Gap: Reestablishing Connection with Your Non-Syncing Xbox One Contoller</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-for-dealing-with-repeated-not-recognized-kb310218-get-back-to-using-your-usb-devices-now/"><u>Expert Advice for Dealing with Repeated 'Not Recognized KB310218' - Get Back to Using Your USB Devices Now</u></a></li>
+<li><a href="https://techtrends.techidaily.com/get-ahead-with-verizons-latest-smartphone-trade-in-deals/"><u>Get Ahead with Verizon's Latest Smartphone Trade-In Deals</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-lenovo-trackpad-working-again-under-windows-tips-and-solutions/"><u>Get Your Lenovo Trackpad Working Again Under Windows: Tips & Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-x-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone X Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209359338-laptop-microphone-problems-discover-effective-fixes-and-solutions-here/"><u>Laptop Microphone Problems? Discover Effective Fixes and Solutions Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-update-error-0xc1900208-expert-tips-and-solutions/"><u>Resolving Windows 10 Update Error 0xC1900208: Expert Tips and Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-your-laptop-experience-with-lenovos-newest-windows-10-drivers/"><u>Revamp Your Laptop Experience with Lenovo's Newest Windows 10 Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-halo-4-ue4-deadly-glitch-overcome-game-crashes/"><u>Solved Halo 4 UE4 Deadly Glitch: Overcome Game Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/streamline-your-workflow-with-windows-10-file-explorer-help/"><u>Streamline Your Workflow with Windows 10 File Explorer Help</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-top-free-dual-screen-video-editing-software-web-and-desktop/"><u>Updated 2024 Approved Top Free Dual-Screen Video Editing Software Web & Desktop</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-understanding-the-dynamics-underlying-in-ai-slow-motion-editing/"><u>Updated 2024 Approved Understanding the Dynamics Underlying in AI Slow Motion Editing</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-container-issue-resolution-understanding-and-fixing-the-failed-to-enumerate-objects-error/"><u>Windows 10 Container Issue Resolution: Understanding and Fixing the 'Failed to Enumerate Objects' Error</u></a></li>
+</ul></div>
 

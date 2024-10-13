@@ -1,7 +1,7 @@
 ---
 title: Winning Against Lost Desktop Symbols in Windows 10 – Effective Strategies Applied
-date: 2024-10-02T03:37:48.496Z
-updated: 2024-10-07T06:22:29.652Z
+date: 2024-10-09T20:23:59.576Z
+updated: 2024-10-12T23:09:09.095Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 4) Follow the on-screen instructions to troubleshoot this issue.
 
  Perform Windows update again to see if you can install the update. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Reset Windows Update components
 
@@ -111,13 +118,6 @@ Dism /Online /Cleanup-Image /ScanHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It may take several minutes for this command operation to be completed.
 
 Dism /Online /Cleanup-Image /CheckHealth
@@ -125,13 +125,6 @@ Dism /Online /Cleanup-Image /CheckHealth
  When you run the command line **Dism /Online /Cleanup-Image /CheckHealth** , the DISM tool will check whether your Windows 10 image exists corruptions or not. This command line also doesn’t repair the corrupted files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It may take several minutes for this command operation to be completed.
 
@@ -146,6 +139,13 @@ Dism /Online /Cleanup-Image /RestoreHealth
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap4-6.jpg)
 
  Try performing a Windows update to see if this fixes works. If this issue persists, try running the System File Checker.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run System File Checker
 
@@ -187,6 +187,13 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-5.png)
@@ -196,10 +203,10 @@ _You can do it for free if you like, but it’s partly manual._
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Update Windows from the Windows 10 ISO file
@@ -228,13 +235,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:**  If the installed memory of your PC is less than**4GB** , it’s recommended that you select the 32-bit architecture.
 
  7) Select **ISO file** and click **Next** .
@@ -242,26 +242,26 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-16.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  8) Select the location to save the Windows 10 ISO file. After that, the media creation tool will start to download **Windows 10 ISO file** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  9) Click **Finish** to close the media creation tool.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-18.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 2: Start updating
 
@@ -273,16 +273,22 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-10.png)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) When you see the following window, select**Not right now** then click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-19.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Follow the on-screen instructions to update your Windows 10 OS. During the installation, your computer will restart several times.
 
@@ -308,17 +314,24 @@ _You can do it for free if you like, but it’s partly manual._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-mastering-the-art-of-tiktok-top-7-essential-emojis/"><u>[New] In 2024, Mastering the Art of TikTok Top 7 Essential Emojis</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-ultimate-blueprint-adopting-mobizen-screen-recording-skills/"><u>[Updated] In 2024, The Ultimate Blueprint Adopting Mobizen Screen Recording Skills</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-just-initial-acquisition/"><u>2024 Approved Just Initial Acquisition</u></a></li>
-<li><a href="https://facebook.techidaily.com/deciding-on-social-logins-should-facebook-be-your-gateway-to-apps/"><u>Deciding on Social Logins: Should Facebook Be Your Gateway to Apps?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-8-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-what-to-do-when-you-encounter-a-faulty-directory-name-error/"><u>Expert Advice: What to Do When You Encounter a 'Faulty Directory Name Error'</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-bad-image-files-on-your-pc-a-guide-for-windows-1110-users/"><u>Fix Bad Image Files on Your PC: A Guide for Windows 11/10 Users</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/flamegrab-firefox-add-ons/"><u>FlameGrab Firefox Add-Ons</u></a></li>
-<li><a href="https://common-error.techidaily.com/pdf-wont-print-discover-effective-tricks-immediately/"><u>PDF Won't Print? Discover Effective Tricks Immediately</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-desktop-not-accessible-issue-on-cwindowssystem32configsystemprofile/"><u>Resolving the 'Desktop Not Accessible' Issue on C: Windows System32 Config SystemProfile</u></a></li>
-<li><a href="https://common-error.techidaily.com/solutions-to-restore-backlight-on-your-keyboard-in-macoswindows-environments/"><u>Solutions to Restore Backlight on Your Keyboard in macOS/Windows Environments</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-oppo-reno-9a-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Oppo Reno 9A Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-how-to-use-twitter-archive/"><u>[New] How to Use Twitter Archive?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-enhance-viewing-experience-on-insta-by-modifying-frame-rate/"><u>[New] In 2024, Enhance Viewing Experience on Insta by Modifying Frame Rate</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-how-to-delete-video-posts-android-and-windows-devices/"><u>[Updated] 2024 Approved How to Delete Video Posts Android & Windows Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-the-art-of-finding-influential-voices-in-your-space/"><u>[Updated] Mastering the Art of Finding Influential Voices in Your Space</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rating-7-of-the-ultimate-waterproof-recorder-guide/"><u>[Updated] Rating #7 of the Ultimate Waterproof Recorder Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-decoding-hashtags-role-in-elevating-your-youtube-gaming-experience/"><u>2024 Approved Decoding Hashtags' Role in Elevating Your YouTube Gaming Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204279423-argue-how-problem-solving-leads-to-creative-thinking-innovation-and-progress-in-various-fields-eg-technology-medicine/"><u>Argue How Problem-Solving Leads to Creative Thinking, Innovation, and Progress in Various Fields (E.g., Technology, Medicine).</u></a></li>
+<li><a href="https://common-error.techidaily.com/cure-for-lidadll-absence/"><u>Cure for Lida.dll Absence</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-address-and-fix-livekernelevent-117-issues/"><u>Effective Strategies to Address and Fix LiveKernelEvent #117 Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-failing-remote-procedure-call-comprehensive-guide/"><u>How to Fix a Failing Remote Procedure Call - Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-master-bluetooth-on-windows-11-expert-strategies-for-flawless-device-sync/"><u>How to Master Bluetooth on Windows 11: Expert Strategies for Flawless Device Sync</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-nokia-c210-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Nokia C210 Devices</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-insta-story-hack-for-stealthy-tech-users/"><u>In 2024, Insta Story Hack for Stealthy Tech Users</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-mist-of-talos-extension-fix/"><u>Mastering the Mist of Talos Extension Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimal-cameras-compatible-with-windows-hello/"><u>Optimal Cameras Compatible with Windows Hello</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolved-lack-of-default-printer-and-scanner-support-in-windows-10-operating-system/"><u>Resolved: Lack of Default Printer & Scanner Support in Windows 10 Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-this-device-is-missing-code-24-on-windows-platforms/"><u>Troubleshooting Guide: Fixing the 'This Device Is Missing (Code 24)' On Windows Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208660770-troubleshooting-hp-laptop-usb-connectivity-fixes-and-solutions/"><u>Troubleshooting HP Laptop USB Connectivity: Fixes & Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/win11-and-win10-overcoming-additional-display-problems/"><u>Win11 & Win10: Overcoming Additional Display Problems</u></a></li>
 </ul></div>
 

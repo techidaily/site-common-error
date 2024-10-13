@@ -1,7 +1,7 @@
 ---
 title: System Random Stops on Win11
-date: 2024-09-30T01:48:20.631Z
-updated: 2024-10-07T09:13:41.785Z
+date: 2024-10-05T16:39:27.430Z
+updated: 2024-10-13T00:39:52.169Z
 tags:
   - win11
   - win10
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/6509a41b9c53db282ea10c9960943cd0bc0006742
 2. **[Update your audio driver](#solution2)**  <Try this if Fix 1 didn’t work>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Modify the audio related services settings
@@ -46,34 +46,43 @@ To modify the audio related services settings:
 2. Type **services.msc**  and press **Enter**  to open the **Services**  window:  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a50a818f88a.png)
 3. Click**Windows Audio** , then **Restart** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afc066cd8c7.jpg)
 4. Right-click **Windows Audio** , then select **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afc0cf032c7.jpg)
 5. Set the Startup to**Automatic** . Then click **Apply**  \> **OK** .  
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59afc0ef2b45c.png)
 6. Restart these two services and set the Startup types to**Automatic** through the same method 4) & 5):  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Windows Audio Endpoint Builder**  
 **Multimedia Class Scheduler**
 7. Try to play a music or a video to see if the audio works.
@@ -92,13 +101,6 @@ To modify the audio related services settings:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/DE-scan-now-6.0.jpg)
 3. Click the **Activate & Update** button next to a flagged audio driver to automatically download and install the correct version of this driver. Or click   **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This will prompt an upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy offers a 7-day free trial, providing access to premium features such as high-speed downloads and one-click installs without any charges until the trial period ends.)  
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/de-update-all-realtek.jpg)
 4. Restart your computer and try to play a music or a video to see of the audio works.
@@ -125,20 +127,17 @@ To modify the audio related services settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-12-innovative-online-platforms-to-elevate-your-facebook-cover-pics/"><u>[New] 2024 Approved 12 Innovative Online Platforms to Elevate Your Facebook Cover Pics</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-giggle-factory-gratis-memo-makers-available/"><u>[New] Giggle Factory Gratis Memo Makers Available</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-navigating-your-way-to-the-perfect-4k-lens-purchase/"><u>[New] Navigating Your Way to the Perfect 4K Lens Purchase</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-subtlety-in-volume-the-ableton-way/"><u>[Updated] Subtlety in Volume The Ableton Way</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-endless-viewing-loop-your-iphone-videos-today/"><u>2024 Approved Endless Viewing Loop Your iPhone Videos Today</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-from-chats-to-files-the-methodical-approach-to-downloading-fb-video/"><u>2024 Approved From Chats to Files The Methodical Approach to Downloading FB Video</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208883988-fixes-for-endless-load-time-in-valorant-get-back-into-battle/"><u>Fixes for Endless Load Time in Valorant - Get Back Into Battle!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-bits-and-bytes-to-subtitles-the-zip-to-srt-pathway/"><u>From Bits and Bytes to Subtitles The ZIP To SRT Pathway</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-put-an-end-to-windows-11s-persistent-reboot-issue-efficiently/"><u>How to Put an End to Windows 11'S Persistent Reboot Issue Efficiently</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-green-settings-in-cinematic-production/"><u>In 2024, Green Settings in Cinematic Production</u></a></li>
-<li><a href="https://common-error.techidaily.com/restoring-touch-response-in-windows-11-a-comprehensive-guide-with-5-key-methods/"><u>Restoring Touch Response in Windows 11: A Comprehensive Guide with 5 Key Methods</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-windows-10-sound-settings-expert-tips-on-getting-volume-control-back-online/"><u>Revive Your Windows 10 Sound Settings: Expert Tips on Getting Volume Control Back Online</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-resolution-of-errors-related-to-cyclical-redundancy-in-data-transmission/"><u>Step-by-Step Resolution of Errors Related to Cyclical Redundancy in Data Transmission</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-restore-your-windows-11-start-menu/"><u>Troubleshooting Guide: How To Restore Your Windows 11 Start Menu</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-google-chrome-freezes-or-crashes/"><u>Troubleshooting Steps When Google Chrome Freezes or Crashes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ncrease-video-traffic-key-youtube-seo-strategies/"><u>[New] Increase Video Traffic Key YouTube SEO Strategies</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-macbook-webcam-recording-guide-for-2024/"><u>[New] MacBook Webcam Recording Guide for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-crafting-the-perfect-minecraft-playback-experience/"><u>2024 Approved Crafting the Perfect Minecraft Playback Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-the-solved-camera-hurdle-detailed-fixes-for-error-code-0xa00f4292-on-your-pc/"><u>Bypass the [Solved] Camera Hurdle: Detailed Fixes for Error Code 0Xa00f4292 on Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/facebook-demystified-a-deep-dive-into-its-history-user-fascination-and-essential-features/"><u>Facebook Demystified: A Deep Dive Into Its History, User Fascination & Essential Features</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-fix-a-laptop-trackpad-that-wont-work-anymore/"><u>How To Restore Functionality: Fix A Laptop Trackpad That Won't Work Anymore</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/netflix-streaming-made-better-no-more-pauses-or-lag-fix-your-device-today/"><u>Netflix Streaming Made Better: No More Pauses or Lag – Fix Your Device Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-the-power-of-the-start-menu-repairing-windows-key-glitches-in-windows-11/"><u>Restoring the Power of the Start Menu: Repairing Windows Key Glitches in Windows 11</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/are-the-laws-around-saving-youtube-videos-for-offline-use-in-2024/"><u>What Are the Laws Around Saving YouTube Videos for Offline Use, In 2024</u></a></li>
 </ul></div>
 

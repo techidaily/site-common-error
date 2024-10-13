@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Letter Not Working On Keyboard Win 10/11"
-date: 2024-10-04T18:37:24.963Z
-updated: 2024-10-07T07:42:40.646Z
+date: 2024-10-09T21:20:11.767Z
+updated: 2024-10-12T17:29:59.822Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/45a1460bb3d83c14f6fab217fbb0ba6456c10cd4a
 4. **[Repair system files](#repair-system-files)**
 
 * [**Tips: Keyboard maintenance**](#tips)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
 
@@ -81,13 +74,6 @@ If you’re a laptop user, you could follow these steps:
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your keyboard driver
 
  Your letter keys may not be working properly because you’re using the wrong keyboard driver or it’s out of date. You should update your keyboard driver to see if this fixes your keyboard.
@@ -119,24 +105,37 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
@@ -149,6 +148,14 @@ OR
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -183,20 +190,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-premier-video-breakdown-fifa-analysis-graphs/"><u>[New] 2024 Approved Premier Video Breakdown FIFA Analysis Graphs</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-instagram-stories-secrets-for-success/"><u>[Updated] Instagram Stories Secrets for Success</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-journey-to-mastery-discovering-the-quintessential-5-online-title-makers/"><u>2024 Approved Journey to Mastery Discovering the Quintessential 5 Online Title Makers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-ultimate-affordable-game-controllers-under-100/"><u>2024 Approved Ultimate Affordable Game Controllers Under $100</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-unveiling-top-10-destinations-for-high-end-vectors/"><u>2024 Approved Unveiling Top 10 Destinations for High-End Vectors</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-infinix-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Infinix Phone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/countdown-to-love-top-10-timing-tools-for-your-big-day-for-2024/"><u>Countdown to Love Top 10 Timing Tools for Your Big Day for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-microsoft-store-on-your-pc/"><u>How to Fix a Non-Responsive Microsoft Store on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-continuous-reboots-in-windows-11-and-10-systems-efficiently/"><u>How to Resolve Continuous Reboots in Windows 11 and 10 Systems Efficiently</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/pdf-wont-print-try-these-simple-and-effective-tricks-immediately/"><u>PDF Won't Print? Try These Simple and Effective Tricks Immediately</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-media-driver-issues-on-your-pc-essential-guide/"><u>Resolving Media Driver Issues on Your PC - Essential Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-repair-a-non-responsive-microsoft-store-application/"><u>Troubleshooting Guide: How to Repair a Non-Responsive Microsoft Store Application</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-unknown-usb-devices-a-guide-to-overcoming-device-not-recognized-errors-in-windows-11/"><u>Troubleshooting Unknown USB Devices: A Guide to Overcoming 'Device Not Recognized' Errors in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlock-the-power-of-windows-11-maintenance-with-system-file-checker-and-dism-solutions/"><u>Unlock the Power of Windows 11 Maintenance with System File Checker and DISM Solutions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-rhythmic-revelations-top-15-vlogs-celebrating-music-creators-stories/"><u>[New] 2024 Approved Rhythmic Revelations Top 15 Vlogs Celebrating Music Creators' Stories</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-snapping-and-recording-screen-on-macos/"><u>[New] 2024 Approved Snapping and Recording Screen on macOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-budget-friendly-hd-desktop-recording-tools-roundup/"><u>2024 Approved Budget-Friendly HD Desktop Recording Tools Roundup</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-tecno-spark-go-2024-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Tecno Spark Go (2024) Fingerprint Lock</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exclusive-offers-on-benq-screens-premier-deal-hunts-for-monitor-and-projector-enthusiasts/"><u>Exclusive Offers on BenQ Screens - Premier Deal Hunts for Monitor and Projector Enthusiasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-bloodhunt-from-stuttering-or-crashing-during-gameplay-pc/"><u>How to Prevent Bloodhunt From Stuttering or Crashing During Gameplay (PC)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-13-miniipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 13 mini/iPad Without Computer</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-saturation-savvy-professionals-secrets-revealed/"><u>In 2024, Saturation Savvy Professionals' Secrets Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-resolving-windows-error-651/"><u>Quick Solutions for Resolving Windows Error 651</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-for-failed-to-login-through-user-profile-service/"><u>Step-by-Step Fix for 'Failed to Login Through User Profile Service'</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-instructions-for-syncing-your-xbox-one-controller-when-connected-to-a-pc-or-console/"><u>Step-by-Step Instructions for Syncing Your Xbox One Controller When Connected to a PC or Console</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-restore-five-tips-for-solving-touchscreen-issues-in-windows-10/"><u>Troubleshoot and Restore: Five Tips for Solving Touchscreen Issues in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-missing-bluetooth-devices-in-windows-11-without-hassle/"><u>Troubleshoot Missing Bluetooth Devices in Windows 11 Without Hassle</u></a></li>
 </ul></div>
 

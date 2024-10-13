@@ -1,7 +1,7 @@
 ---
 title: "Revive Your Illuminated Keys: Corsair Keyboard Lighting Fixes"
-date: 2024-09-17T18:05:42.925Z
-updated: 2024-09-20T19:40:23.457Z
+date: 2024-10-10T21:13:04.385Z
+updated: 2024-10-12T20:25:44.601Z
 tags:
   - win11
   - win10
@@ -29,6 +29,19 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 1. **[Reset your keyboard](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Update the Corsair Keyboard driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update and configure the iCUE software](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Reset your keyboard
 
@@ -63,6 +76,13 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
  To update your drivers with Driver Easy, just click the**Scan Now** button, then when it lists the drivers you need to update, click**Update** . The correct drivers will be downloaded, and you can install them – either manually through Windows or all automatically with **[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/)**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/DE-scan-rtx-3090-driver-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ## Fix 3: Update and configure the iCUE software
@@ -76,25 +96,25 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/icue-setting.jpg)  
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -116,5 +136,23 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-way-to-personalize-your-youtube-channel-url/"><u>[New] 2024 Approved Effortless Way to Personalize Your YouTube Channel Url</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-complete-guide-to-preserving-ps4-gameplay-moments/"><u>[New] 2024 Approved The Complete Guide to Preserving PS4 Gameplay Moments</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-mastering-videos-top-windows-phones-video-apps/"><u>[New] Mastering Videos Top Windows Phones Video Apps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-conquering-peaks-and-valleys-comparing-the-mightiest-gopros-b-and-sessions/"><u>[Updated] 2024 Approved Conquering Peaks and Valleys Comparing the Mightiest GoPros, B & Sessions</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-common-hiccups-with-skypes-video-chat-on-windows-10-devices/"><u>Bypassing Common Hiccups with Skype's Video Chat on Windows 10 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-keyboard-malfunctions-in-windows-operating-systems-win-10-and-win-11/"><u>Diagnosing and Resolving Keyboard Malfunctions in Windows Operating Systems (Win 10 & Win 11)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-intel-integrated-hd-graphics-driver-for-windows-1011/"><u>Download & Install Intel Integrated HD Graphics Driver for Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-resolving-charge-problems-with-playstation-4-controllers/"><u>Expert Tips: Resolving Charge Problems with PlayStation 4 Controllers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-combat-excessive-cpu-consumption-by-ravbg64exe-in-your-realtek-hd-audio-setup/"><u>How to Combat Excessive CPU Consumption by Ravbg64.exe in Your Realtek HD Audio Setup</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-interaction-integrating-watch-with-macos/"><u>In 2024, Innovative Interaction Integrating Watch with MacOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-using-gifs-as-responses-on-instagram-posts/"><u>Mastering the Art of Using GIFs as Responses on Instagram Posts</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-fixing-critical-windows-update-error-code-0x8007001f/"><u>Solutions for Fixing Critical Windows Update Error: Code 0X8007001F</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-dell-usb-issues-effective-methods-to-restore-connectivity/"><u>Solving Dell USB Issues: Effective Methods to Restore Connectivity</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-sleeping-sin-system-still-dreaming/"><u>Windows' Sleeping Sin: System Still Dreaming</u></a></li>
+</ul></div>
 

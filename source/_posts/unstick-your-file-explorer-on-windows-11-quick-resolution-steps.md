@@ -1,7 +1,7 @@
 ---
 title: Unstick Your File Explorer on Windows 11 - Quick Resolution Steps
-date: 2024-10-02T04:23:50.091Z
-updated: 2024-10-07T09:08:09.189Z
+date: 2024-10-06T19:30:38.647Z
+updated: 2024-10-12T22:53:54.096Z
 tags:
   - win11
   - win10
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solution 2: Check the status of the Bluetooth service
 
  1) On your keyboard, press the **Windows logo key**   + **R**   key together to invoke the Run box.
@@ -62,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Right-click on the service again, and this time click **Properties** .
 
@@ -76,17 +76,10 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
@@ -97,16 +90,22 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
 
@@ -117,10 +116,10 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
@@ -137,6 +136,13 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
  Alternatively, you can use a driver tool to help you. We highly recommend you use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to  automatically recognize your system and find the correct drivers for you. With its help, you can say goodbye to driver headaches and delays forever.
@@ -150,10 +156,10 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
@@ -162,19 +168,19 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -196,22 +202,18 @@ thumbnail: https://thmb.techidaily.com/da7734e84e246f918bdf5e60b91499ba1ad151293
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-mediamerge-creating-slideshows-on-macsierra/"><u>[Updated] 2024 Approved MediaMerge Creating Slideshows on MacSierra</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-rise-to-success-with-these-essential-15-fb-sales-insights/"><u>[Updated] In 2024, Rise to Success with These Essential 15 FB Sales Insights</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-expert-tips-securing-your-best-gaming-moments-with-4-methods/"><u>2024 Approved Expert Tips Securing Your Best Gaming Moments with 4 Methods</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-winodw-11s-frustrating-0x80072efd-bug-proven-remedies-inside/"><u>Beat Winodw 11'S Frustrating 0X80072EFD Bug: Proven Remedies Inside</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/breaking-down-instagrams-timeframe-per-video/"><u>Breaking Down Instagram's Timeframe Per-Video</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-guide-restoring-functionality-of-non-working-webcam-on-a-lenovo-laptop/"><u>DIY Guide: Restoring Functionality of Non-Working Webcam on a Lenovo Laptop</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hidden-elements-the-photoshop-anonymity-guide-for-2024/"><u>Hidden Elements The Photoshop Anonymity Guide for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-d3dcompiler47dll-error-comprehensive-guide/"><u>How to Fix D3DCOMPILER_47.dll Error - Comprehensive Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-13-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone 13 and iPad</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/seamless-media-adaptation-with-macx-elite-no-cost-quicktime-video-converter-for-macos-ideal-for-all-formats/"><u>Seamless Media Adaptation with MacX: Elite No-Cost QuickTime Video Converter for MacOS, Ideal for All Formats</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/cket-your-youtube-dollars-with-short-video-monetization/"><u>Skyrocket Your YouTube Dollars with Short Video Monetization</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-nonfunctional-at-sign-keyboard-problems/"><u>Step-by-Step Solution for Nonfunctional 'At Sign' Keyboard Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-improve-scanner-printer-conversation-epson/"><u>Steps to Improve Scanner-Printer Conversation (Epson)</u></a></li>
-<li><a href="https://common-error.techidaily.com/total-war-enthusiasts-rejoice-uncrash-your-rome-remastered-experience-here/"><u>Total War Enthusiasts Rejoice: Uncrash Your Rome Remastered Experience Here</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubled-by-cs-go-keep-freezing-or-crashing-heres-how-to-fix-it-quickly/"><u>Troubled by CS: GO Keep Freezing or Crashing? Here's How to Fix It Quickly</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-or-download-amd-vega-radeon-56-drivers-for-windows-comprehensive-tutorial-and-best-practices/"><u>Update or Download AMD Vega Radeon 56 Drivers for Windows - Comprehensive Tutorial & Best Practices</u></a></li>
-<li><a href="https://common-error.techidaily.com/zap-freezes-quickly-enjoy-flawless-games/"><u>Zap Freezes Quickly - Enjoy Flawless Games</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-excellence-squad-selecting-top-7-fps-games/"><u>[New] Excellence Squad Selecting Top 7 FPS Games</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-turn-youtube-shorts-into-a-money-machine-key-requirements-and-income-potential/"><u>[New] How to Turn YouTube Shorts Into a Money Machine Key Requirements & Income Potential</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-edge-in-video-creation-top-10-gadgets/"><u>[New] Leading Edge in Video Creation - Top 10 Gadgets</u></a></li>
+<li><a href="https://common-error.techidaily.com/device-disconnection-amidst-accurate-configuration/"><u>Device Disconnection Amidst Accurate Configuration</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-strategies-to-correct-oculus-equipment-failures-in-the-new-year-2024-edition/"><u>DIY Repair Strategies to Correct Oculus Equipment Failures in the New Year, 2024 Edition</u></a></li>
+<li><a href="https://win-forum.techidaily.com/enhance-your-web-experience-by-flushing-dns-in-windows-1011/"><u>Enhance Your Web Experience by Flushing DNS in Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-restoring-your-lenovos-malfunctioning-camera-feature/"><u>Expert Advice on Restoring Your Lenovo's Malfunctioning Camera Feature</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/get-premium-minecraft-channel-graphics-for-2024/"><u>Get Premium Minecraft Channel Graphics for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-realme-gt-5-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Realme GT 5 to Protect Your Individual Information</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-ace-editing-essential-10-final-cut-pro-extensions/"><u>In 2024, Ace Editing Essential 10 Final Cut Pro Extensions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/master-your-mobile-communications-skype-and-zoom-on-android-for-2024/"><u>Master Your Mobile Communications Skype & Zoom on Android for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-dota-2-2024-rendering-api-mishap-efficiently/"><u>Troubleshooting the Dota 2 2024 Rendering API Mishap Efficiently</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager in Windows 11/10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fix Your Game Crashes with PhysXLoader DLL Not Found Error
-date: 2024-10-06T00:28:18.160Z
-updated: 2024-10-06T21:09:10.343Z
+date: 2024-10-12T00:47:16.758Z
+updated: 2024-10-13T03:08:38.173Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ If you have previously installed the same program (or its earlier version), the 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9bf012d25.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Find and open**Programs and Features**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9c81105c5.png)
@@ -43,10 +50,10 @@ Then you can check if the application is listed here. If it is, uninstall it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9d00544d7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3) Start and re-register Microsoft Installer service
@@ -55,55 +62,48 @@ There may be something going wrong with**Microsoft Installer service**and theref
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca68fd8714.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **b)** Find and double click on**Windows Installer**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca70c399c1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **c)** Hit**Start**button under**Service status**and hit**OK**. (If its service status is**running**, you should click on**Stop**first and then hit**Start**.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca7cbbdf36.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**msiexec /unregister**_” and hit**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9370d810.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)** Press**Win + R** again and enter “ _**msiexec /regserve** **r**_ “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4) Acquire full permissions on the drive for installation
 
 It is possible that the error 1603 occurs because you don’t have**full permissions**on the file location. Try getting the permissions on the drive you are installing your application to and see if this fixes the problem.**a)** Open**File Explorer**, right click on the drive containing the installation location and select**Properties**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **b)** Go to**Security**tab and click on**Edit**.
 
@@ -121,37 +121,31 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb5c235c54.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **f)** On**Permissions**tab, double click on**Administrators**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb67382950.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **g)** Select**This folder, subfolders and files**for**Applies to**field and**tick** **all the available basic permissions**. After that hit**OK**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb7074c180.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **h)** Do the same operation above for**SYSTEM**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb8202ef5a.png)
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **i)** Click on**OK** all the way out. Now you have acquired full permissions on this drive. Try installing your application and see if the issue is fixed.
 
@@ -172,24 +166,20 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-switching-up-your-chromecasts-backdrop-images/"><u>A Comprehensive Guide to Switching Up Your Chromecast's Backdrop Images</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-fix-for-logitech-g930-microphone-cutting-out-problems/"><u>DIY Fix for Logitech G930 Microphone Cutting Out Problems</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/tless-sound-sourcing-the-top-15-freebie-audiosites/"><u>Effortless Sound Sourcing The Top 15 Freebie Audiosites</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-how-to-maintain-crystal-clear-sound-with-cleaned-home-speakers/"><u>Expert Advice: How to Maintain Crystal Clear Sound with Cleaned Home Speakers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-nokia-c22-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Nokia C22 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-when-windows-cant-recognize-wd-my-passport-ultra-external-drive/"><u>How To Resolve When Windows Can't Recognize WD My Passport Ultra External Drive</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-itel-p55-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Itel P55 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-mfc71dll-is-unavailable-or-not-found-strategies-that-work/"><u>Overcoming 'MFC71.DLL' Is Unavailable or Not Found – Strategies That Work</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premier-playwriting-for-podcasts-and-radios/"><u>Premier Playwriting for Podcasts & Radios</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-guide-to-diagnose-and-solve-astro-a40-headset-mic-failures/"><u>Quick Guide to Diagnose and Solve Astro A40 Headset Mic Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/regain-bluetooth-connectivity-in-windows-10-fast-and-straightforward-methods/"><u>Regain Bluetooth Connectivity in Windows 10: Fast & Straightforward Methods!</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-lenovo-mouse-pad-issues-on-windows-11-troubleshooting-guide/"><u>Solved Lenovo Mouse Pad Issues on Windows 11 - Troubleshooting Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-puzzle-of-vanishing-window-panes-a-users-manual/"><u>Solving the Puzzle of Vanishing Window Panes - A User's Manual</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-unresponsive-controllers-expert-tips-for-connecting-your-xbox-one-device/"><u>Solving Unresponsive Controllers: Expert Tips for Connecting Your Xbox One Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-resolve-the-google-chrome-full-blackout-dilemma/"><u>Step-By-Step Guide to Resolve the Google Chrome Full Blackout Dilemma</u></a></li>
-<li><a href="https://common-error.techidaily.com/tutorial-eradicating-the-frustrating-windows-update-error-code-0x8007001f/"><u>Tutorial: Eradicating the Frustrating Windows Update Error Code 0X8007001f</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ultimate-methods-for-android-video-preservation/"><u>Ultimate Methods for Android Video Preservation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-7-issues-with-generative-ai-for-chats/"><u>Unveiling 7 Issues with Generative AI for Chats</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-streamlining-screen-shots-efficiently-documenting-your-roblox-adventures-on-macos/"><u>[New] Streamlining Screen Shots Efficiently Documenting Your Roblox Adventures on MacOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-for-beyond-sharex-review-for-2024/"><u>[New] The Ultimate Guide for Beyond-ShareX Review for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-your-full-viewing-experience-with-these-3-strategies-to-download-youtube-srt/"><u>[New] Unlock Your Full Viewing Experience with These 3 Strategies to Download YouTube SRT</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-editors-edge-advanced-techniques-in-chromatic-manipulation/"><u>[Updated] The Editor's Edge Advanced Techniques in Chromatic Manipulation</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-the-shadows-expert-tips-to-restore-your-game-after-monster-hunter-worlds-startup-screens-are-swallowed-by-darkness/"><u>Banish the Shadows: Expert Tips to Restore Your Game After Monster Hunter: World's Startup Screens Are Swallowed by Darkness</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210596431-dells-usb-port-problem-discover-proven-strategies-to-get-it-working-again/"><u>Dell's USB Port Problem? Discover Proven Strategies to Get It Working Again!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratuito-converter-de-audio-de-aac-para-ogg-online-com-o-movavi/"><u>Gratuito Converter De Audio: De AAC Para OGG Online Com O Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-process-abruptly-ended-error-code-1067-on-your-pc/"><u>How To Overcome 'The Process Abruptly Ended' Error Code 1067 on Your PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-cache-miss-errors-errcachemiss-in-google-chrome-easily/"><u>Overcoming Cache Miss Errors (ERR_CACHE_MISS) in Google Chrome Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-issues-with-broken-function-keys-on-your-asus-portable-computer/"><u>Overcoming Issues with Broken Function Keys on Your ASUS Portable Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-error-messages-in-kodi-a-comprehensive-guide-to-smooth-streaming/"><u>Resolving Error Messages in Kodi - A Comprehensive Guide to Smooth Streaming</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-a-nonfunctional-hp-laptop-camera-in-windows-11-tips-and-solutions/"><u>Solving the Problem of a Nonfunctional HP Laptop Camera in Windows 11 – Tips and Solutions</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-guide-cloning-a-disk-onto-an-ssd-for-optimal-performance-using-secure-boot-in-windows-10/"><u>Step-by-Step Guide: Cloning a Disk Onto an SSD for Optimal Performance Using Secure Boot in Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valheim-pc-stability-guide-overcoming-frequent-game-shutdowns-and-crashes/"><u>Valheim PC Stability Guide: Overcoming Frequent Game Shutdowns and Crashes</u></a></li>
 </ul></div>
 

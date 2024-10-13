@@ -1,7 +1,7 @@
 ---
 title: Efficient Solutions to Overcome the 0X800705b4 Windows Update Glitch in Windows 10
-date: 2024-10-03T02:34:31.761Z
-updated: 2024-10-07T02:14:47.220Z
+date: 2024-10-12T00:42:41.112Z
+updated: 2024-10-12T20:44:12.540Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/d3785013298563f1830795a92fde8d1efce201ea3
 6. **[Pro tip: Want us to fix the problem for you?](#p)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Remove any USB peripherals and wait for the update process to finish
@@ -63,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/d3785013298563f1830795a92fde8d1efce201ea3
 
  If you still cannot access the desktop, you can try starting your PC in safe mode with the network. When you sign into your Windows system in safe mode with the network, try the next fix below to run the Windows Update troubleshooter.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Run Windows Update troubleshooter
 
  Windows Update troubleshooter is a built-in tool that can help you analyze and resolve issues related to Windows updates. Try running Windows Update troubleshooter to see if you can resolve this issue. Here is how to do it:
@@ -72,20 +79,34 @@ thumbnail: https://thmb.techidaily.com/d3785013298563f1830795a92fde8d1efce201ea3
 1. On your keyboard, press **the Windows logo key** and type **troubleshoot** . In the list of search results, select **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap465-1.png)
 2. In the pop-up window, select **Windows Update** and click **Run the troubleshooter** . You’ll be prompted for permission. Click **Yes** to run Windows Update troubleshooter.  
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap466-1.png)
 3. Click **Apply this fix** to continue.  
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap467-1.png)
@@ -98,31 +119,11 @@ thumbnail: https://thmb.techidaily.com/d3785013298563f1830795a92fde8d1efce201ea3
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Windows Update. Then wait for it to troubleshoot your issues.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-run-Windows-Update-troubleshooter.jpg)
 
  Perform a Windows update again to see if you can install the update. If this issue reappears, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reset Windows Update components
 
@@ -133,10 +134,10 @@ thumbnail: https://thmb.techidaily.com/d3785013298563f1830795a92fde8d1efce201ea3
 2. In Command Prompt, type the command lines below and press Enter on your keyboard after typing each:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  net stop bits  
@@ -174,13 +175,6 @@ thumbnail: https://thmb.techidaily.com/d3785013298563f1830795a92fde8d1efce201ea3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap471-1.png)
 2. Type the command line **systeminfo** and press **Enter** to view your system type.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472-1.png)  
 
  Note: “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
@@ -192,13 +186,6 @@ Now, you can follow the steps below to download Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap470-1.png)
 3. Visit **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Type the update number that you want to download. In this example, type KB3006137 and then click **Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473-1.png)
 5. In the list of search results, select the correct update for your operating system and click **Download** .  
@@ -207,10 +194,25 @@ Now, you can follow the steps below to download Windows updates manually:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap474-1.png)
 6. In the pop-up window, click the link to start downloading the updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap475-1.png)
 7. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
  Restart your PC to see if this issue persists. If not, congratulations! You’ve resolved this annoying issue! But if this issue reappears, you can try the last fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Pro tip: Want us to fix the problem for you?
 
@@ -238,18 +240,16 @@ Now, you can follow the steps below to download Windows updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-screen-capture-showdown-obs-vs-shadow/"><u>[New] 2024 Approved Screen Capture Showdown OBS vs Shadow</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-accessing-social-network-videos-seamlessly-on-apple-tv/"><u>[New] In 2024, Accessing Social Network Videos Seamlessly on Apple TV</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-creative-tactics-for-medical-ad-success-on-facebook/"><u>[Updated] In 2024, Creative Tactics for Medical Ad Success on Facebook</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209459527-acer-quiet-mode-dilemma-solved-bring-back-the-boom-with-easy-fixes/"><u>Acer Quiet Mode Dilemma Solved: Bring Back the Boom with Easy Fixes!</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/avatar-assembly-the-no-frills-guide-to-virtual-realms-for-2024/"><u>Avatar Assembly The No-Frills Guide to Virtual Realms for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/easy-install-mfc-9330cdw-driver-download/"><u>Easy Install: MFC-9330CDW Driver Download</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/expert-choice-list-ultimate-streaming-audio-gear/"><u>Expert Choice List Ultimate Streaming Audio Gear</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-stop-msmpengineexe-from-hogs-your-cpu-in-windows-10/"><u>Fixing the Issue: Stop MsMpEngine.exe From Hogs Your CPU in Windows 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-s23-ultra-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy S23 Ultra to Another | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-pcs-windows-10-blue-screen-error/"><u>Resolve Your PC's Windows 10 Blue Screen Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-connection-issues-with-your-airpods-on-windows-11-updated-guide/"><u>Resolving Connection Issues with Your AirPods on Windows 11 (Updated Guide )</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-when-your-system-cant-load-the-hardware-monitoring-software/"><u>Solution Steps for When Your System Can't Load the Hardware Monitoring Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instavideo-magic-crafting-a-plan-to-capture-your-audiences-attention-for-2024/"><u>[New] InstaVideo Magic Crafting a Plan to Capture Your Audience's Attention for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/trategic-synergy-in-streams-dissecting-your-videos-from-rivals/"><u>[New] Strategic Synergy in Streams Dissecting Your Videos From Rivals'</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eaching-techniques-with-youtube-a-practical-approach/"><u>[New] Teaching Techniques with YouTube A Practical Approach</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-click-worthy-chronicles-shaping-successful-meme-videos-for-instafb-for-2024/"><u>[Updated] Click-Worthy Chronicles Shaping Successful Meme Videos for Insta/FB for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-unlock-video-editing-mastery-using-lut-filters-in-obs-studio/"><u>[Updated] In 2024, Unlock Video Editing Mastery Using LUT Filters in OBS Studio</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/illumination-for-impact-essential-headlight-improvements/"><u>Illumination for Impact: Essential Headlight Improvements</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-techniques-resolving-werfaultexe-windows-hiccups-5plus-tips/"><u>Master the Techniques: Resolving werFault.exe Windows Hiccups (5+ Tips)</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-effortless-solutions-for-broken-overwatch-audio-calls/"><u>Mastering the Fix: Effortless Solutions for Broken Overwatch Audio Calls</u></a></li>
+<li><a href="https://common-error.techidaily.com/smooth-sailing-again-overcoming-google-chromes-not-responding-hurdle/"><u>Smooth Sailing Again! Overcoming Google Chrome's 'Not Responding' Hurdle</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-compatibility-making-your-wacom-pen-functional-again-on-windows-11-and-10/"><u>Solving Compatibility: Making Your Wacom Pen Functional Again on Windows 11 & 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-instructions-enabling-bluetooth-features-in-windows-7/"><u>Step-by-Step Instructions: Enabling Bluetooth Features in Windows 7</u></a></li>
 </ul></div>
 

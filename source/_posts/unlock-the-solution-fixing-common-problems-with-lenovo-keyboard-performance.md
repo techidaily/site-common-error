@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Solution: Fixing Common Problems with Lenovo Keyboard Performance"
-date: 2024-10-04T17:37:54.925Z
-updated: 2024-10-07T05:51:06.399Z
+date: 2024-10-10T03:50:50.115Z
+updated: 2024-10-13T04:40:40.913Z
 tags:
   - win11
   - win10
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
  After confirming that your hardware is not the problem, check out the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your keyboard driver
@@ -65,35 +65,21 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
@@ -111,18 +97,18 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
  Or click the**Update** button next to the flagged keyboard driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/2020-03-20_17-07-46.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
  After updating your keyboard driver, restart your PC for the changes to take effect.
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable the Scroll Lock key
 
@@ -136,19 +122,6 @@ thumbnail: https://thmb.techidaily.com/1d8d4d66e7cc9a5877fb43968732d769c13ca22c3
 
 If this method didn’t work for you, check out the last fix.
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Run Keyboard Troubleshooter
 
  If your keyboard isn’t working properly, running a built-in troubleshooter might help find and fix the problem for you. To do so:
@@ -158,10 +131,25 @@ If this method didn’t work for you, check out the last fix.
 1. On your keyboard, press the**Window logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-security.jpg)
 2. In the left panel, select**Troubleshoot** . Then click**Additional troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/additional-troubleshooters.jpg)
 3. Scroll down the page, locate and click**Keyboard** . Then click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### on Windows 11
 
@@ -169,6 +157,20 @@ If this method didn’t work for you, check out the last fix.
 2. Select**System** . Scroll down and click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
 
@@ -193,24 +195,18 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-elevating-brand-awareness-with-tailored-engaging-youtube-banners/"><u>[New] 2024 Approved Elevating Brand Awareness with Tailored, Engaging YouTube Banners</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-efficiently-removing-youtube-channels-a-device-centric-approach-for-2024/"><u>[Updated] Efficiently Removing Youtube Channels A Device-Centric Approach for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/adapting-to-unusual-video-compression-tech/"><u>Adapting to Unusual Video Compression Tech</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhancing-wdf-efficiency-to-reduce-high-cpu-consumption-problems/"><u>Enhancing WDF Efficiency to Reduce High CPU Consumption Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-why-teredo-qualification-fails-and-how-to-fix-it/"><u>Expert Guide: Why Teredo Qualification Fails and How to Fix It</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/fading-out-the-art-of-ebbing-audio-energy-in-fl-studio/"><u>Fading Out The Art of Ebbing Audio Energy in FL Studio</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-sound-hiccups-heres-how-to-address-the-cut-out-issue-with-your-logitech-g930/"><u>Fixing Sound Hiccups? Here's How to Address the Cut-Out Issue with Your Logitech G930</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fixing-synaptic-mouse-and-touchpad-driver-issues-in-windows-11-a-complete-guide/"><u>Fixing Synaptic Mouse & Touchpad Driver Issues in Windows 11: A Complete Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Oppo A78? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-k11x-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo K11x FRP Without Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/netflix-silence-no-more-effortless-solutions-to-restore-sounds/"><u>Netflix Silence No More: Effortless Solutions to Restore Sounds</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-buggy-fcpx-learn-how-to-reset-and-reboot-for-2024/"><u>New Buggy FCPX? Learn How to Reset and Reboot for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-issues-with-geforce-experience-not-opening-an-easy-fix/"><u>Overcoming Issues with GeForce Experience Not Opening: An Easy Fix</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-honor-x9b-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Honor X9b</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-guide-turning-off-a-non-responsive-windows-11-system/"><u>Resolved Guide: Turning Off a Non-Responsive Windows 11 System</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-windows-networking-issue-code-0x80n0704cf-explained-and-resolved/"><u>Solving Windows Networking Issue: Code 0X80n0704CF Explained and Resolved</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723201318600-steelseries-arctis-5-audio-trouble-heres-how-to-fix-the-mic-problem-permanently/"><u>SteelSeries Arctis 5 Audio Trouble? Here's How to Fix the Mic Problem Permanently!</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshoot-your-way-through-windows-application-hiccups-7-tips/"><u>Troubleshoot Your Way Through Windows Application Hiccups (7 Tips)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-triumph-how-to-successfully-address-the-red-error-message/"><u>Troubleshooting Triumph: How to Successfully Address the Red Error Message</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-inshots-playlist-prowess-adding-external-music/"><u>[New] 2024 Approved InShot's Playlist Prowess Adding External Music</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-dealing-with-youtubes-challenging-earnings-model-for-2024/"><u>[New] Dealing with YouTube's Challenging Earnings Model for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-easy-anti-cheat-failed-to-start-in-new-world-issue/"><u>[RESOLVED] How to Fix 'Easy Anti-Cheat Failed to Start in New World' Issue</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-leading-call-customization-applications/"><u>[Updated] 2024 Approved Leading Call Customization Applications</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-insights-troubleshooting-and-repairing-the-black-screen-on-your-dell-device/"><u>Complete Insights: Troubleshooting and Repairing the Black Screen on Your Dell Device</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-logitech-c930e-webcam-drivers-compatible-with-windows-10-and-11/"><u>Download Logitech C930e Webcam Drivers Compatible with Windows 10 and 11</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/effortlessly-pinning-friends-on-snapchat-with-confidence/"><u>Effortlessly Pinning Friends on Snapchat with Confidence</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-stability-monster-hunter-world-on-pc-connections/"><u>Fixing Stability: Monster Hunter World on PC Connections</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-print-screen-functionality-on-your-windows-11-or-10-computer/"><u>How to Restore Print Screen Functionality on Your Windows 11 or 10 Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-steam-services-not-responding-to-unlock-digital-purchases-again/"><u>Overcoming 'Steam Services Not Responding' To Unlock Digital Purchases Again</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rust-graphics-glitch-patched-what-you-need-to-know/"><u>Rust Graphics Glitch Patched – What You Need to Know</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-eradicating-screen-tear-glitch-in-your-favorite-shooter-valorant/"><u>Ultimate Guide: Eradicating Screen Tear Glitch in Your Favorite Shooter, Valorant</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-list-the-10-highest-ranking-crypto-questions-for-chatgpt/"><u>Ultimate List: The 10 Highest-Ranking Crypto Questions for ChatGPT</u></a></li>
 </ul></div>
 

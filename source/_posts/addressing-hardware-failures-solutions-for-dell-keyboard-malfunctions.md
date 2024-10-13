@@ -1,7 +1,7 @@
 ---
 title: "Addressing Hardware Failures: Solutions for Dell Keyboard Malfunctions"
-date: 2024-10-02T16:32:13.707Z
-updated: 2024-10-07T00:35:01.883Z
+date: 2024-10-11T21:51:22.979Z
+updated: 2024-10-12T21:00:01.976Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 3. [**Reseat your laptop battery**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
@@ -46,33 +46,34 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 1. On your keyboard, press **the Windows logo key** **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and **R**  at the same time, then copy & paste **devmgmt.msc** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2. Locate and double-click on **Keyboards** , then right-click on your keyboard and click **Uninstall device** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 3. Wait until the uninstall finishes and **Restart**   your computer so that your computer can auto-install the keyboard driver.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Type on your laptop keyboard again and see if it works properly.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -91,16 +92,17 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Type on your keypad and test if the**laptop keypad not working** problem has been fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3:  Reseat your laptop battery
 
@@ -136,22 +138,24 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-bite-sized-to-detailed-converting-shorts-to-editable-mp4/"><u>[New] 2024 Approved From Bite-Sized to Detailed Converting Shorts to Editable MP4</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-blueprinting-a-buzz-creating-movie-snippet/"><u>[New] Blueprinting a Buzz-Creating Movie Snippet</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-kick-starting-a-captivating-instagram-live-for-2024/"><u>[New] Kick-Starting a Captivating Instagram Live for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-capturing-youtube-videos-subtitles-in-srt-format/"><u>[Updated] The Ultimate Guide to Capturing YouTube Videos' Subtitles in SRT Format</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-jpgpng-images-transformation-iphones-pdf-creation-guide/"><u>2024 Approved JPG/PNG Images Transformation IPhone's PDF Creation Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/a-comprehensive-walkthrough-to-turn-on-bluetooth-in-windows-operating-systems/"><u>A Comprehensive Walkthrough to Turn On Bluetooth in Windows Operating Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/best-of-the-best-the-7-leading-software-tools-for-animating-meme-videos/"><u>Best of the Best: The 7 Leading Software Tools for Animating Meme Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/directx-device-initialization-problem-solved-successful-setup-tips/"><u>DirectX Device Initialization Problem Solved - Successful Setup Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-solutions-for-a-broken-corsair-keyboard-now-working-perfectly/"><u>Expert Solutions for a Broken Corsair Keyboard - Now Working Perfectly</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-freezing-issues-effective-solutions/"><u>How to Fix Windows 11 Freezing Issues: Effective Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-neo-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 40 Neo Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://common-error.techidaily.com/in-depth-strategies-to-illuminate-troubleshooting-mending-black-screens-on-dell-machines/"><u>In-Depth Strategies to Illuminate Troubleshooting: Mending Black Screens on Dell Machines</u></a></li>
-<li><a href="https://common-error.techidaily.com/msvcr71-dll-resolved-finding-missing-component/"><u>MSVCR71 DLL Resolved: Finding Missing Component</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-address-steam-server-connection-errors-successfully/"><u>Resolved: How to Address Steam Server Connection Errors Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-guide-fixing-video-file-cant-play-error-224003/"><u>Solution Guide: Fixing 'Video File Can't Play, Error 224003'</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ost-crucial-info-for-new-youtube-tv-users/"><u>The Most Crucial Info for New YouTube TV Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unraveling-the-mystery-what-stops-youtube-from-working-properly/"><u>Unraveling the Mystery: What Stops YouTube From Working Properly?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-reviewing-the-unseen-facebooks-privacy-and-security-guide/"><u>[New] Reviewing the Unseen Facebook's Privacy and Security Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-essential-compilation-top-10-budget-friendly-lut-sources/"><u>[New] The Essential Compilation Top 10 Budget-Friendly LUT Sources</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-precision-recording-of-skype-calls-via-obs-network/"><u>[Updated] 2024 Approved Precision Recording of Skype Calls via OBS Network</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-sharing-photos-and-videos-between-android-and-iphone/"><u>[Updated] 2024 Approved Sharing Photos & Videos Between Android & iPhone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unveiling-the-essence-filmoras-top-10-enchanting-features-for-2024/"><u>[Updated] Unveiling the Essence Filmora’s Top 10 Enchanting Features for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/action-camera-faceoff-gopro-hero-vs-sony-dslr-for-adventure-seekers-for-2024/"><u>Action Camera Faceoff GoPro Hero Vs. Sony DSLR for Adventure Seekers for 2024</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/automatiser-la-gestion-des-documents-avec-la-solution-dentreprise-abbyy-capture-une-offre-de-systemes-arvato/"><u>Automatiser La Gestion Des Documents Avec La Solution D'entreprise ABBYY Capture : Une Offre De Systèmes Arvato</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208396097-beat-error-0x887a0006-in-no-time-step-by-step-guide-awaits-you/"><u>Beat Error 0X887A0006 in No Time! Step-by-Step Guide Awaits You.</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-the-0x80070643-glitch-during-windows-updates-or-installs/"><u>Expert Tips for Overcoming the '0X80070643' Glitch During Windows Updates or Installs</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-reactivate-and-fix-turned-off-mobile-internet-connection/"><u>Guide to Reactivate and Fix Turned Off Mobile Internet Connection</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-addressing-unreachable-content-servers-on-your-steam-account-efficiently/"><u>Guide: Addressing Unreachable Content Servers on Your Steam Account Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-address-and-resolve-the-user-profile-service-failure-in-windows-11/"><u>How to Successfully Address and Resolve the User Profile Service Failure in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-launch-oddworld-soulstorm-on-your-computer-common-glitches-resolved/"><u>How to Successfully Launch Oddworld: Soulstorm on Your Computer - Common Glitches Resolved</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-unpacking-online-influence-your-channel-versus-competitors-strategies/"><u>In 2024, Unpacking Online Influence Your Channel Versus Competitors' Strategies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-win7-display-jitter/"><u>Overcoming Win7 Display Jitter</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-windows-cant-find-an-appropriate-printer-driver/"><u>Resolved: How to Fix 'Windows Can't Find an Appropriate Printer Driver'</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-touchpad-problems-get-your-scrolling-back-on-track/"><u>Resolving Windows 11 Touchpad Problems – Get Your Scrolling Back on Track!</u></a></li>
+<li><a href="https://common-error.techidaily.com/scroll-jumps-a-windows-users-guide/"><u>Scroll Jumps: A Windows User's Guide</u></a></li>
 </ul></div>
 

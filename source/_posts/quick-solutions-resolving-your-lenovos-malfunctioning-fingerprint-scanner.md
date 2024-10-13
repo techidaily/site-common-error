@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: Resolving Your Lenovo's Malfunctioning Fingerprint Scanner"
-date: 2024-10-05T18:24:15.201Z
-updated: 2024-10-06T23:43:25.181Z
+date: 2024-10-10T18:38:14.784Z
+updated: 2024-10-13T02:56:54.651Z
 tags:
   - win11
   - win10
@@ -67,6 +67,19 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -78,10 +91,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -102,13 +115,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -116,10 +122,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -143,33 +149,27 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -205,17 +205,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-understanding-vr-limitations/"><u>[New] Understanding VR Limitations</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-2023s-top-rated-vr-game-engines-exposed/"><u>2024 Approved 2023'S Top-Rated VR Game Engines Exposed</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-transforming-tiktok-to-pop-with-top-gif-tools/"><u>2024 Approved Transforming TikTok to Pop with Top GIF Tools</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-zte-axon-40-lite-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset ZTE Axon 40 Lite Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-4000-on-twitch-heres-the-definitive-solution-you-need/"><u>Error 4000 on Twitch? Here's the Definitive Solution You Need!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-google-pixel-8-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Google Pixel 8 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-your-pc-when-windows-11-refuses-to-power-off-a-simple-solution/"><u>How to Fix Your PC when Windows 11 Refuses to Power Off: A Simple Solution</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Others Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/prognostic-factors-such-as-age-performance-status-and-comorbid-conditions-also-impact-treatment-decisions-and-outcomes/"><u>Prognostic Factors Such as Age, Performance Status, and Comorbid Conditions Also Impact Treatment Decisions and Outcomes</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-how-to-resolve-uncontrolled-mouse-activity/"><u>Quick Solutions: How to Resolve Uncontrolled Mouse Activity</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-boosting-views-on-tiktok-unboxings-for-2024/"><u>The Ultimate Guide to Boosting Views on TikTok Unboxings for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/tutorial-reducing-microsofts-compatibility-telemetry-impact-on-hard-drive-space-usage-for-windows-10-users/"><u>Tutorial: Reducing Microsoft's Compatibility Telemetry Impact on Hard Drive Space Usage for Windows 10 Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-instalment-insight-getting-vrecord-running/"><u>[Updated] In 2024, Instalment Insight Getting VRecord Running</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-prototyping-perfection-the-best-vector-software-of-the-year/"><u>[Updated] In 2024, Prototyping Perfection The Best Vector Software of the Year</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-thumbnail-artistry-for-engaging-youtube-channels/"><u>[Updated] Thumbnail Artistry for Engaging YouTube Channels</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-the-timeout-expired-semaphore-problem-0x80070079/"><u>Comprehensive Fixes for the 'Timeout Expired' Semaphore Problem (0X80070079)</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-eliminate-delay-in-your-computer-keyboard-input-instantly/"><u>Expert Advice: Eliminate Delay in Your Computer Keyboard Input Instantly</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-speaker-distortion-issue-a-comprehensive-guide/"><u>Fixing Window's Speaker Distortion Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/google-meet-screen-record-tips-for-iphoneandroid-users-for-2024/"><u>Google Meet Screen Record Tips for iPhone/Android Users for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/grow-to-1k-per-month-master-the-art-of-ig-popularity-for-2024/"><u>Grow to 1K Per Month Master the Art of IG Popularity for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206802848-how-to-successfully-repair-windows-update-glitches-now/"><u>How To Successfully Repair Windows Update Glitches, Now!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Methods to Change GPS Location On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecti-top-photo-and-video-display-programming/"><u>In 2024, Perfecti Top Photo & Video Display Programming</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-media-drives-troubleshooting-tips-for-the-persistent-error-39-on-your-cddvd-drive/"><u>Mastering Media Drives: Troubleshooting Tips for the Persistent Error 39 on Your CD/DVD Drive</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-disk-usage-by-curtailing-microsofts-telemetry-features-in-windows-11/"><u>Optimizing Disk Usage by Curtailing Microsoft's Telemetry Features in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-system-performance-by-reducing-msmpengineexe-cpu-drainage-in-windows-10/"><u>Optimizing System Performance by Reducing MsMpEngine.exe CPU Drainage in Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pinnacle-photo-the-leading-6-4k-dslr-cameras-of-the-year/"><u>Pinnacle Photo The Leading 6 4K DSLR Cameras of the Year</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-correcting-keyboard-typos-practical-tips-and-advice/"><u>Understanding and Correcting Keyboard Typos - Practical Tips & Advice</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Easy Troubleshooting: How To Resolve 'Battery Not Charging' Prompt Fast"
-date: 2024-10-06T00:03:49.314Z
-updated: 2024-10-06T21:02:15.044Z
+date: 2024-10-07T19:48:33.628Z
+updated: 2024-10-12T17:43:16.162Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 5. [**Change processor affinity**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 1: Check if your PC meets the minimum system requirements for Nier Automata**
 
@@ -83,6 +76,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 3: Update or reinstall your drivers**
 
 #### A. Update your driver
@@ -102,13 +102,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
  Or you can click the**Update** button next to the graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-3.jpg)
 4. Restart your computer, and see if the problem is fixed or not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Option 2–Manually**
 
 1. On your keyboard, press the**Windows logo key** and **R** together to invoke the Run box.
@@ -121,10 +114,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 4. Follow the on-screen instructions to finish the process.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Restart your computer, and see if the problem is fixed or not.
@@ -138,15 +131,16 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer, and see if the problem is fixed or not.
 
 ---
@@ -159,6 +153,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Change processor affinity
 
  According to practice and some users experiences, processor affinity can help users get rid of the crash. You can try this method, but if it works for you, you have to repeat it every time when you launch the game.
@@ -166,15 +167,22 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 1. Run the game, then press the**Windows logo key** +**R** together to open the run box.
 2. Type “taskmgr” and press**Enter** to open the Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/task.jpg)
 3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
-4. Select only**Core 0** and**Core 2** then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
+4. Select only**Core 0** and**Core 2** then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
@@ -200,16 +208,17 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-discreetly-conceal-identity-photo-edit-tip/"><u>[New] Discreetly Conceal Identity Photo Edit Tip</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-achieve-unprecedented-image-quality-via-av1-on-youtube/"><u>[New] In 2024, Achieve Unprecedented Image Quality via AV1 on YouTube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-storing-image-frames-from-videos-on-windows-11/"><u>[Updated] Storing Image Frames From Videos on Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-collection-no-cost-ae-template-gold/"><u>2024 Approved Ultimate Collection No-Cost AE Template Gold</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-overcoming-issues-with-remote-server-connection-failures/"><u>Comprehensive Guide: Overcoming Issues with Remote Server Connection Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-restoring-windows-system-file-integrity-for-version-10-and-11/"><u>Expert Advice on Restoring Windows System File Integrity for Version 10 & 11</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/giggle-fest-on-the-twittersphere-for-2024/"><u>Giggle Fest on the Twittersphere for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-overcoming-server-access-problems-in-steam-games-and-media-streaming/"><u>Guide to Overcoming Server Access Problems in Steam Games and Media Streaming</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-v27-pro-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo V27 Pro? Try These Fixes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-samsung-galaxy-a24-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Samsung Galaxy A24?</u></a></li>
-<li><a href="https://common-error.techidaily.com/resetting-keyboards-made-simple-tips-and-tricks/"><u>Resetting Keyboards Made Simple - Tips and Tricks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-enhance-discoverability-with-effective-video-tags/"><u>[New] 2024 Approved Enhance Discoverability with Effective Video Tags</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-simplifying-the-process-of-enabling-virtual-screen-on-meet/"><u>[New] 2024 Approved Simplifying the Process of Enabling Virtual Screen on Meet</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-step-by-step-process-for-screening-web-tv-episodes/"><u>[New] 2024 Approved The Step-by-Step Process for Screening Web TV Episodes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-android-screencasting-methods-unveiled/"><u>[New] In 2024, Android Screencasting Methods Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-for-repairing-error-0x802n4401c-that-hampers-update-process-on-windows-10-and-11-machines/"><u>Expert Advice for Repairing Error 0X802n4401C That Hampers Update Process on Windows 10 & 11 Machines</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-a-broken-internet-explorer-connection/"><u>Expert Tips for Repairing a Broken Internet Explorer Connection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guia-facil-de-cargar-dvds-en-la-nube-mediante-google-drive-e-icloud/"><u>Guía Fácil De Cargar DVDs en La Nube Mediante Google Drive E iCloud</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or Apple iPhone SE (2022)?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-storytelling-through-total-environmental-capture/"><u>In 2024, Immersive Storytelling Through Total Environmental Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/low-end-pc-visual-data-harvesters/"><u>Low-End PC Visual Data Harvesters</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-the-non-working-print-screen-button-on-pcs-with-windows-10-or-11/"><u>Step-by-Step Solutions for the Non-Working Print Screen Button on PCs with Windows 10 or 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-making-bluetooth-appear-in-your-computers-device-manager/"><u>Troubleshooting Tips for Making Bluetooth Appear in Your Computer's Device Manager</u></a></li>
 </ul></div>
 

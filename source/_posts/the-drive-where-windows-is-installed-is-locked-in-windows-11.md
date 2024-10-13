@@ -1,7 +1,7 @@
 ---
 title: The Drive Where Windows Is Installed Is Locked in Windows 11
-date: 2024-09-09T16:01:06.169Z
-updated: 2024-09-15T16:05:22.983Z
+date: 2024-10-05T21:43:20.393Z
+updated: 2024-10-13T01:37:23.658Z
 tags:
   - win11
   - win10
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/cb9e2ddf28e5428496f53b353379d173f81be07c3
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)  
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Wait until your Windows system installed all the updates**
 
  If your PC seems to get stuck on the screen of “Preparing to configure Windows”, it may indicate that your**Windows system is installing and configuring the updates** .
@@ -66,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/cb9e2ddf28e5428496f53b353379d173f81be07c3
  If you haven’t installed Windows updates for a long time, it may take some time to install all the updates. So just give enough time to your Windows system to handle all the updates.
 
  The time it may take depends on your hardware specifications. It is recommended that you wait for**2 hours** . 2 hours later, if the your PC still gets stuck on the screen of “Preparing to configure Windows”, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Disconnect all the external devices and perform a hard reboot**
 
@@ -84,15 +98,15 @@ thumbnail: https://thmb.techidaily.com/cb9e2ddf28e5428496f53b353379d173f81be07c3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/check-for-updates.jpg)
 2. In the pop-up window, click**Check for updates** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-check-for-updates.jpg)
 3. Wait until Windows downloads and installs all the updates.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart Windows to see if your PC will get stuck on the screen of “Preparing to configure Windows” again. It’s recommended that you**plug in your PC** and give your Windows system a whole night to configure all the updates. Normally, a whole night is enough for your Windows system to handle all these updates.
 
@@ -105,10 +119,34 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 1. On your keyboard, press the **Windows logo key**  and **R**  at the same time to open the Run Dialog. Type **msconfig**  and press **Enter**  to open the   **System Configuration**  window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap6-2.jpg)
 2. Select the **Services**  tab, check   **Hide all Microsoft services**  and then click **Disable all**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-4.jpg)
 3. Select the **Startup**  tab and click **Open Task Manager**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8-4.jpg)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-4.jpg)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10-5.jpg)
@@ -119,25 +157,11 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/check-for-updates.jpg)  
    2. In the pop-up window, click**Check for updates** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-check-for-updates.jpg)  
    3. Wait until Windows downloads and installs all the updates.
 8. Restart your PC when Windows installed all the updates to see if this issue persists.
 
  If your PC won’t get stuck on the screen of “Preparing to configure Windows”, you’ve resolve this issue. Then go to the**System Configuration** window to enable the services you disabled before. After enabling each service, you need to **restart your PC to apply the changes** . If this annoying issue reappears, you may need to**restore your system** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Restore your Windows system**
 
@@ -150,6 +174,14 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 2. Ensure **the Protection status** of the local disk drive that has your Windows system installed on is**On** . Then click**System Restore…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap13-1.jpg)  
  If**the Protection status** of the local drive that has your Windows system installed on is**Off** , it indicates that you have**disabled** the system restore feature on this drive.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select**Choose a different restore point**  and click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap14-4.jpg)
 4. Check the box next to **Show more restore points** . Select the restore point that is created just**before you run into this issue** and then click**Next** .  
@@ -160,13 +192,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap18-3.jpg)
 
  After restoring your Windows system, this annoying issue should be resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Bonus tip: Update your driver to the latest version**
 
@@ -186,10 +211,10 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 3. Click **Update**  next to your device to automatically download the correct version of this driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All**  ).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap20-3.jpg)
@@ -217,5 +242,24 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-premier-church-live-streaming-services-revealed/"><u>[Updated] Premier Church Live Streaming Services Revealed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-url-scanning-in-microsoft-offices-spellcheck-a-step-by-step-guide/"><u>Bypassing URL Scanning in Microsoft Office's Spellcheck: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-to-address-windows-11-microphone-malfunctions-expert-advice/"><u>Effective Fixes to Address Windows 11 Microphone Malfunctions: Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unresponsive-touchpad-scroll-functionality-on-windows-10-systems/"><u>Fixing Unresponsive Touchpad Scroll Functionality on Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-connect-an-xbox-one-controller-when-its-not-syncing/"><u>How to Connect an Xbox One Controller (When It’s Not Syncing)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/masterful-scrolling-techniques/"><u>Masterful Scrolling Techniques</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-video-editing-for-mac-users-avs-editor-software-for-2024/"><u>New Video Editing for Mac Users AVS Editor Software for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-streaming-hurdles-a-guide-to-fixing-paused-netflix-titles/"><u>Overcoming Streaming Hurdles: A Guide to Fixing Paused Netflix Titles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/premium-video-capturing-for-digital-screens-for-2024/"><u>Premium Video Capturing for Digital Screens for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206399903-pubg-structural-glitches-corrected-enjoy-seamless-gaming-now/"><u>PUBG Structural Glitches Corrected, Enjoy Seamless Gaming Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-revive-your-huion-pen-top-5-faulty-pen-fixes/"><u>Quick Solutions: Revive Your Huion Pen - Top 5 Faulty Pen Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-tricks-for-enabling-lost-bluetooth-functionality-in-windows-11-systems/"><u>Quick Tricks for Enabling Lost Bluetooth Functionality in Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-full-network-connectivity-on-windows/"><u>Regaining Full Network Connectivity on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/simplifying-your-connection-ultimate-usb-tethering-tips-for-windows-10/"><u>Simplifying Your Connection: Ultimate USB Tethering Tips for Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-powerhouses-of-online-platforms-an-insight-into-facebook-twitter-instagram-youtube/"><u>The Powerhouses of Online Platforms: An Insight Into Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-stop-fifa-20-from-crashing-your-pc-complete-step-by-step-guide/"><u>Ultimate Fix: Stop FIFA 20 From Crashing Your PC - Complete Step-by-Step Guide</u></a></li>
+</ul></div>
 

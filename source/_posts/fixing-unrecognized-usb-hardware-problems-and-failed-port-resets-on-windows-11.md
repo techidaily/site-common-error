@@ -1,7 +1,7 @@
 ---
 title: Fixing Unrecognized USB Hardware Problems and Failed Port Resets on Windows 11
-date: 2024-09-08T16:04:31.457Z
-updated: 2024-09-15T16:02:19.427Z
+date: 2024-10-09T21:58:29.324Z
+updated: 2024-10-12T22:58:24.491Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 
  Unplugged the external devices you don’t need out of your PC, such as Logitech, Razer, PlayStation, Xbox etc. See if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ````   **2: Check screen saver settings**
 
 ```` Faulty screen saver settings could render it unusable. To fix it:
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58492ca22a4c0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click **Change screen saver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_58492d59e849d-600x332.jpg)
@@ -56,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
  4) In this window, you can choose which screen saver you’d like to use, and then customize it and set the time before it appears. Click **Apply** and **OK** to make it work.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/12/img_584933b0e0509.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ````   **3: Update Windows and device drivers**
 
@@ -88,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5979a40b981b3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ````   **Other options**
@@ -116,5 +137,24 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-dos-and-donts-of-youtube-video-logging/"><u>[New] 2024 Approved The Do's and Don'ts of YouTube Video Logging</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pioneer-productions-with-your-mac-for-viral-youtube-videos/"><u>[Updated] Pioneer Productions with Your Mac for Viral Youtube Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-15-cinematic-tools-for-gopro-videos-and-films/"><u>[Updated] Top 15 Cinematic Tools for GoPro Videos and Films</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/deepcool-assassin-4s-cooler-evaluation-silent-and-powerful-performance/"><u>DeepCool Assassin 4S Cooler Evaluation: Silent and Powerful Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fix-for-system-error-0x887a0006-detailed-walkthrough/"><u>Effortless Fix for System Error 0X887A0006 Detailed Walkthrough</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-repairing-a-malfunctioning-logitech-mouse-wheel/"><u>Expert Tips on Repairing a Malfunctioning Logitech Mouse Wheel</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-quickly-address-the-werfaultexe-application-failure-on-your-pc-6-methods-unveiled/"><u>How to Quickly Address the werFault.exe Application Failure on Your PC: 6 Methods Unveiled</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y56-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y56 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-a-freezing-windows-11-system/"><u>How to Troubleshoot a Freezing Windows 11 System</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-practices-in-converting-images-to-videos/"><u>In 2024, Best Practices in Converting Images to Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-uac-messages-for-system-changes-on-windows-11107/"><u>Overcome UAC Messages for System Changes on WIndows 11/10/7</u></a></li>
+<li><a href="https://common-error.techidaily.com/simplified-processes-connecting-with-bluetooth-technology-on-windows-7/"><u>Simplified Processes: Connecting with Bluetooth Technology on Windows 7</u></a></li>
+<li><a href="https://fox-links.techidaily.com/thankful-exploration-templates-from-free-to-paid/"><u>Thankful Exploration Templates From FREE to PAID</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-insightful-breakdown-of-windows-11-arm-based-computing-vs-conventional-windows-experiences/"><u>The Insightful Breakdown of Windows 11 ARM-Based Computing Vs. Conventional Windows Experiences</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-improper-side-by-side-assembly-settings-in-windows-10/"><u>Troubleshooting & Fixing Improper Side-by-Side Assembly Settings in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/unfreeze-gameplay-easy-steps-to-smooth-computer-gaming/"><u>Unfreeze Gameplay: Easy Steps to Smooth Computer Gaming</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y100-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y100 | Dr.fone</u></a></li>
+</ul></div>
 

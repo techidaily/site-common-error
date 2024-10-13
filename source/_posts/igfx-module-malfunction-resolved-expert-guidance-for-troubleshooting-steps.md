@@ -1,7 +1,7 @@
 ---
 title: IGFX Module Malfunction Resolved - Expert Guidance for Troubleshooting Steps
-date: 2024-09-30T06:33:43.402Z
-updated: 2024-10-07T03:30:24.943Z
+date: 2024-10-10T23:08:00.364Z
+updated: 2024-10-12T22:12:04.059Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
@@ -50,29 +50,22 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -93,10 +86,10 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -142,6 +135,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -154,16 +154,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -199,16 +199,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-capturing-attention-from-content-creation-to-commerce-for-2024/"><u>[Updated] Capturing Attention From Content Creation to Commerce for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-ideas-to-life-top-hand-drawn-whiteboard-animation-makers-for-2024/"><u>Bring Your Ideas to Life Top Hand-Drawn Whiteboard Animation Makers for 2024</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/creative-tims-laravel-paper-admin-ui-top-rated-and-free-bootstrap-framework-compatible-dashboard/"><u>Creative Tim's Laravel Paper Admin UI: Top-Rated & FREE Bootstrap Framework Compatible Dashboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-to-overcome-in-game-lag-in-world-of-warcraft/"><u>Effective Strategies to Overcome In-Game Lag in World of Warcraft</u></a></li>
-<li><a href="https://common-error.techidaily.com/enhance-your-gaming-experience-effective-solutions-for-fixing-fallout-4-lag-issues/"><u>Enhance Your Gaming Experience: Effective Solutions for Fixing Fallout 4 Lag Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-windows-update-error-code-0x80070002-step-by-step-guide/"><u>Fix Windows Update Error Code 0X80070002 - Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-error-in-building-a-d3d-rendering-pipeline/"><u>How to Fix the Error in Building a D3D Rendering Pipeline</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-infinix-note-30-vip-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Infinix Note 30 VIP</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719149918094-protect-your-conversations-with-facebooks-newly-secured-dms-and-calls/"><u>Protect Your Conversations with Facebook’s Newly Secured DMs & Calls.</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/uilding-a-brand-on-youtube-navigating-through-top-video-marketing-methods/"><u>[New] Building a Brand on YouTube Navigating Through Top Video Marketing Methods</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-building-a-strong-online-presence-with-attractive-video-thumbnails/"><u>[New] Building a Strong Online Presence with Attractive Video Thumbnails</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-android-toolset-for-3d-video-players/"><u>[Updated] Ultimate Android Toolset for 3D Video Players</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-social-media-sync-integrating-multiple-photographsvideos-into-your-ig-feed/"><u>2024 Approved Social Media Sync Integrating Multiple Photographs/Videos Into Your IG Feed</u></a></li>
+<li><a href="https://media-tips.techidaily.com/diy-mp3-ringtone-creator-easy-guide-to-personalize-your-phone-sounds/"><u>DIY MP3 Ringtone Creator: Easy Guide to Personalize Your Phone Sounds</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-strategies-to-overcome-the-persistent-0x80070490-problem-in-microsofts-windows-updates/"><u>Expert Strategies to Overcome the Persistent 0X80070490 Problem in Microsoft's Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-correcting-class-registration-failures-on-windows-11-systems/"><u>Guide to Correcting Class Registration Failures on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-i-eliminated-skyrims-eternal-load-screens-forever-guide/"><u>How I Eliminated Skyrim's Eternal Load Screens Forever (Guide)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-corrupted-windows-store-cache-steps-and-solutions/"><u>How to Repair a Corrupted Windows Store Cache: Steps and Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-achieving-cinematic-color-in-final-cut-pro/"><u>In 2024, Achieving Cinematic Color in Final Cut Pro</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-your-xiaomi-redmi-note-12-pro-4g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Xiaomi Redmi Note 12 Pro 4G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restoring-broken-keys-on-a-laptop-under-windows-operating-systems/"><u>Step-by-Step Guide to Restoring Broken Keys on a Laptop Under Windows Operating Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/tackling-silent-skirmishes-comprehensive-solutions-to-fix-no-sound-in-fortnites-battle-royale-2024-update/"><u>Tackling Silent Skirmishes: Comprehensive Solutions to Fix No-Sound in Fortnite's Battle Royale - 2024 Update</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-clone-yourself-in-videos-with-filmora/"><u>Updated How to Clone Yourself in Videos with Filmora?</u></a></li>
+<li><a href="https://common-error.techidaily.com/upgraded-system-how-to-enable-directx-11-on-incompatible-gpu/"><u>Upgraded System: How To Enable DirectX 11 on Incompatible GPU</u></a></li>
 </ul></div>
 

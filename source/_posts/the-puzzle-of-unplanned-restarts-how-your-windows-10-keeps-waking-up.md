@@ -1,7 +1,7 @@
 ---
 title: "The Puzzle of Unplanned Restarts: How Your Windows 10 Keeps Waking Up"
-date: 2024-09-10T16:03:23.213Z
-updated: 2024-09-15T16:00:48.354Z
+date: 2024-10-12T02:11:17.442Z
+updated: 2024-10-13T02:43:08.009Z
 tags:
   - win11
   - win10
@@ -97,6 +97,19 @@ net start cryptsvc
 
  Check to see if this resolved your Windows Update problem. Hopefully it did. But if not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Run the DISM tool
 
  This issue is probably caused by the corrupted Windows update files. In this case, running   **the Deployment Image Servicing and Management (DISM) tool** may resolve this issue. Just follow the step-by-step instructions to run the DISM tool:
@@ -134,10 +147,10 @@ Dism /Online /Cleanup-Image /RestoreHealth
  Try performing a Windows update to see if this fixes works. If this issue persists, try running the System File Checker.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run System File Checker
@@ -157,6 +170,13 @@ It may take some time for the command operation to be completed.
  3) When this command operation is completed, close **Command Prompt** .
 
  Perform a Windows update to check whether this fix works or not. If you still fail to install updates for your Windows system, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your drivers
 
@@ -184,6 +204,13 @@ It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _You can do it for free if you like, but it’s partly manual._
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -207,15 +234,22 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Select   **Create installation media (USB flash drive, DVD, or ISO file) for another PC**  and click**Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-14.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Select the language and architecture of your Windows 10 ISO file and click **Next** .
 
@@ -231,29 +265,9 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-17.png)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  9) Click **Finish** to close the media creation tool.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-18.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 2: Start updating
 
@@ -261,16 +275,22 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-8.png)
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the pop-up window, double-click the file**setup** .**exe** . You’ll be prompted for permission. Click**Yes** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/image-10.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) When you see the following window, select**Not right now** then click**Next** .
 
@@ -298,5 +318,18 @@ _You can do it for free if you like, but it’s partly manual._
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-maximizing-your-tiktok-content-with-advanced-voice-controls-via-siri/"><u>[Updated] 2024 Approved Maximizing Your TikTok Content with Advanced Voice Controls via Siri</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-are-you-prepared-for-the-changed-facebook-algorithm-for-2024/"><u>[Updated] Are You Prepared for the Changed Facebook Algorithm for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-building-a-billion-view-empire-your-step-by-step-youtube-strategy/"><u>[Updated] In 2024, Building a Billion-View Empire Your Step-by-Step Youtube Strategy</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-dynamic-focus-enhanced-handheld-shot-quality/"><u>2024 Approved Dynamic Focus Enhanced Handheld Shot Quality</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-screen-recorders-face-off-determining-superiority-of-bandicam-and-camtasia/"><u>2024 Approved Screen Recorders Face-Off Determining Superiority of Bandicam & Camtasia</u></a></li>
+<li><a href="https://common-error.techidaily.com/faulty-finality-critical-hardware-error/"><u>Faulty Finality: Critical Hardware Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/five-effective-methods-for-repairing-a-malfunctioning-touchscreen-on-windows-10/"><u>Five Effective Methods for Repairing a Malfunctioning Touchscreen on Windows 10</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-12-pro-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone 12 Pro The Right Way</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-the-elevated-permissions-required-error-for-critical-operations-on-windows-versions-11-10-and-7/"><u>Solve the 'Elevated Permissions Required' Error for Critical Operations on Windows Versions 11, 10 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206897795-usb-connection-woes-fixing-unknown-device-issues-and-port-resets-on-windows-10-made-easy/"><u>USB Connection Woes? Fixing Unknown Device Issues & Port Resets on Windows 10 Made Easy!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/windows-11clipchampmtsmovmp4/"><u>Windows 11でClipchampを活用した高効率な動画フォーマット変換：MTS・MOVからMP4へ</u></a></li>
+</ul></div>
 

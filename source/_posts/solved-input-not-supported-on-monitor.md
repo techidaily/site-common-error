@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Input Not Supported on Monitor"
-date: 2024-10-01T19:54:51.436Z
-updated: 2024-10-07T08:47:02.941Z
+date: 2024-10-05T20:14:36.258Z
+updated: 2024-10-12T21:58:35.414Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ Your**Windows Store** has been acting up recently.
 2. **[Create a new Windows Store cache folder](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Microsoft store](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reset the Windows Store cache
 
  As the error message suggests, the problem often happens when the  Windows Store cache  is damaged. By**resetting the Windows Store cache** , we can clear the cache of the apps and hopefully solve the problem.
@@ -41,10 +48,10 @@ Your**Windows Store** has been acting up recently.
  1) On your keyboard, press**the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type**R** at the same time, then type**wsreset.exe** and press**Enter** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
@@ -56,6 +63,13 @@ Your**Windows Store** has been acting up recently.
 3) Once completed, Windows Store will pop open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -71,16 +85,16 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae96c7d1dc08.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Copy & paste **windowsstore** into the search box and double-click on **Microsoft.WindowsStore\_8wekyb3d8bbwe** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aebb40074eaa.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Double-click on **LocalState** , see if there’s a folder named**cache** in it:
 
@@ -92,10 +106,10 @@ Your**Windows Store** has been acting up recently.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Microsoft Store
@@ -108,13 +122,6 @@ Your**Windows Store** has been acting up recently.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5ae979accdd62.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Copy & paste **Microsoft store** into the box. Then click **Microsoft store** \->**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeaacc5c8df4.jpg)
@@ -122,19 +129,6 @@ Your**Windows Store** has been acting up recently.
  3) Click**Reset** , and you’ll receive a confirmation button. Click **Reset** and close the window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5aeace26d970e.png)
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Restart your computer and check if the problem has been sorted out.
 
@@ -163,19 +157,21 @@ Your**Windows Store** has been acting up recently.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/randing-in-videos-incorporating-logoswatermarks-for-youtube-content/"><u>[New] Branding in Videos Incorporating Logos/Watermarks for YouTube Content</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-mastering-the-art-of-content-distribution-startup/"><u>[New] In 2024, Mastering the Art of Content Distribution Startup</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-vivo-v27-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Vivo V27 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-windows-10-0x800f0922-update-failure-5-effective-fixes/"><u>Bypassing Windows 10 0X800F0922 Update Failure – 5 Effective Fixes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nubia-red-magic-8s-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nubia Red Magic 8S Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-honor-magic-6-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Honor Magic 6</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-the-windows-update-error-code-0x8007001f/"><u>Resolved: How to Fix the Windows Update Error Code 0X8007001F</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-google-chrome-lagging-effective-methods-to-restart-and-optimize-performance/"><u>Resolving Google Chrome Lagging: Effective Methods to Restart & Optimize Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-win32-app-crash-a-guide-to-troubleshooting-the-0xc0000005-exception/"><u>Resolving the Win32 App Crash: A Guide to Troubleshooting the 0xC0000005 Exception</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/speaking-shifts-a-guide-to-free-fire-voices-for-2024/"><u>Speaking Shifts A Guide to Free Fire Voices for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-actions-to-take-when-windows-10-becomes-unresponsive/"><u>Step-by-Step Actions to Take When Windows 10 Becomes Unresponsive</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fixes-to-restore-your-hp-laptops-camera-functionality-in-windows-elekjen1/"><u>Step-by-Step Fixes to Restore Your HP Laptop's Camera Functionality in Windows ˈeleɪkjən(1) -</u></a></li>
-<li><a href="https://win11.techidaily.com/triggering-printer-commands-using-windows-11-edge-shield-mode/"><u>Triggering Printer Commands Using Windows 11 Edge Shield Mode</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-se-2020-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone SE (2020) to PC | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/21-vegas-pro-roundup-from-beginner-to-expert-tips-for-2024/"><u>'21 Vegas Pro Roundup – From Beginner to Expert Tips for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-vida-app-review-cutting-edge-video-editing-at-your-fingertips-for-2024/"><u>[New] Vida App Review Cutting-Edge Video Editing at Your Fingertips for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-unlocking-success-youtubes-keyword-research-secrets-revealed/"><u>[Updated] 2024 Approved Unlocking Success YouTube's Keyword Research Secrets Revealed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-reimagined-ultrahd-2023s-samsung-bdplus-k850/"><u>[Updated] Reimagined UltraHD 2023'S Samsung BD+ K850</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-30-metaverse-meme-creation-tips-and-trends-for-2024/"><u>[Updated] Top 30 Metaverse Meme Creation Tips & Trends for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-chronos-mastering-phantoms-time-extension-feature/"><u>2024 Approved Capturing Chronos Mastering Phantom's Time Extension Feature</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-monetizing-video-how-much-does-a-single-streamer-earn/"><u>2024 Approved Monetizing Video How Much Does a Single Streamer Earn?</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-update-blues-fixing-error-code-0x8024002e-on-your-windows-system-solved/"><u>Beat the Update Blues: Fixing Error Code 0X8024002e on Your Windows System [SOLVED]</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-install-of-epson-wf-2750-printer-driver-download-now/"><u>Easy Install of Epson WF-2750 Printer Driver - Download Now!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/experience-why-the-2018-apple-ipad-pro-11-inch-version-continues-to-lead-in-performance-and-quality/"><u>Experience Why the 2018 Apple iPad Pro (11-Inch Version) Continues to Lead in Performance and Quality!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-overcoming-secure-socket-layer-ssl-issues-on-firefox-platforms/"><u>Expert Solutions for Overcoming Secure Socket Layer (SSL) Issues on Firefox Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-display-after-it-stops-responding-and-recovers/"><u>Expert Tips to Restore Display After It Stops Responding and Recovers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-an-io-device-error/"><u>How to Fix an I/O Device Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-speaking-gear-solutions-for-non-functional-mics-on-microsofts-latest-os/"><u>Revive Your Speaking Gear: Solutions for Non-Functional Mics on Microsoft's Latest OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-solutions-fixing-the-frozen-taskbar-on-windows-11/"><u>Top Solutions: Fixing the Frozen Taskbar on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-warframe-update-failed-error/"><u>Troubleshooting Steps for 'Warframe Update Failed' Error</u></a></li>
 </ul></div>
 

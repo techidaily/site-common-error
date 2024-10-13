@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide: Overcoming Windows 10 Upgrades That Won't Finish at 99%%"
-date: 2024-09-29T18:13:37.338Z
-updated: 2024-10-07T04:39:00.046Z
+date: 2024-10-10T22:43:03.694Z
+updated: 2024-10-13T02:00:11.785Z
 tags:
   - win11
   - win10
@@ -55,13 +55,6 @@ You should first uninstall the printer from your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155dae8d27.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3)**Confirm** to delete the printer.
 
 4) Restart your computer.
@@ -74,16 +67,16 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae155061b9aa.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Add a printer** in the menu bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16c4e6d68c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Wait for your Windows to search your printer.
 
@@ -91,27 +84,27 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16cce058a8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Your computer will automatically connect to your printer and install it in your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16d03d720a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6) Try to have a test print to see if your error disappears.
 
  This should resolve the issue. If not, we have something else you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2\. Reinstall your printer driver
 
@@ -119,9 +112,23 @@ Now you should reinstall your printer to your computer.
 
  1) On your keyboard, press the **Windows logo key![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0b16974940.png)**  and**R** at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae16dab47de2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Double click**Printers** to expand it, and right click on your printer (it may show as**Unknown device** ), and select**Uninstall device** .
 
@@ -155,13 +162,6 @@ Now you should reinstall your printer to your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdd74d18191.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**   button next to the flagged printer device to automatically download the latest driver (you can do this with the **FREE**   version), then install it in your computer.
 
  Or click **Update**  **All**   to automatically download and install the all the latest correct drivers that is missing or outdated in your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click _**Update All**_ ).
@@ -189,17 +189,22 @@ Now you should reinstall your printer to your computer.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-digital-game-chronicles-snappy-screenshots-for-every-moment/"><u>[New] 2024 Approved Digital Game Chronicles Snappy Screenshots for Every Moment</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-seamless-incorporation-of-virtual-boards-in-web-conferencing-mobiledesktop-methods/"><u>[New] In 2024, Seamless Incorporation of Virtual Boards in Web Conferencing Mobile/Desktop Methods</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-cutting-edge-method-quick-erasure-of-youtube-comments/"><u>2024 Approved Cutting-Edge Method Quick Erasure of Youtube Comments</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-conversational-magic-how-to-write-podcast-scripts-for-2024/"><u>Crafting Conversational Magic How to Write Podcast Scripts for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-logitech-c27n-hd-webcam-driver-installers-for-win10win11-computers-free-and-secure-downloads/"><u>Get Logitech C27n HD Webcam Driver Installers for Win10/Win11 Computers - Free & Secure Downloads</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-fix-the-audiorenderer-error-when-watching-youtube-on-windows-11-machines/"><u>How To Correctly Fix the AudioRenderer Error When Watching Youtube on Windows 11 Machines</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-quick-recovery-of-twitch-broadcasts/"><u>In 2024, The Quick Recovery of Twitch Broadcasts</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-the-unforeseen-shutdown-of-programs-error-1067-in-windows/"><u>Resolved: Fixing the Unforeseen Shutdown of Programs (Error 1067) in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-a-non-functional-windows-internal-camera-expert-guidance/"><u>Reviving a Non-Functional Windows Internal Camera - Expert Guidance</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-fixing-microsofts-screen-mirroring-glitches-on-windows-11/"><u>The Ultimate Guide to Fixing Microsoft's Screen Mirroring Glitches on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-system-error-code-5-in-windows-1178-expert-solutions/"><u>Troubleshooting and Fixing System Error Code 5 in Windows 11/7/8 – Expert Solutions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-splice-video-editor-mac-version-download-and-install-today/"><u>Updated In 2024, Splice Video Editor Mac Version Download and Install Today</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-top-9-camera-extras-for-professional-level-vlogging-on-smartphones/"><u>[Updated] 2024 Approved Top 9 Camera Extras for Professional-Level Vlogging on Smartphones</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-illustrator-wizards-guide-to-3d-text/"><u>[Updated] In 2024, The Illustrator Wizard's Guide to 3D Text</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-videopie-interpretation-platform/"><u>[Updated] VideoPie Interpretation Platform</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-samsung-galaxy-s8-setting-new-standards-for-4k-video/"><u>2024 Approved Samsung Galaxy S8 Setting New Standards for 4K Video</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/blending-beats-fusion-studios-guide-to-cohesive-sound/"><u>Blending Beats Fusion Studio's Guide to Cohesive Sound</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-vivo-x-fold-2-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Vivo X Fold 2</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-methods-to-revive-charging-on-your-laptop-battery/"><u>Effortless Methods to Revive Charging on Your Laptop Battery!</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-error-5-tackling-unable-to-perform-file-operation-in-temp-folder-and-completing-setup-successfully/"><u>Eliminate Error 5 - Tackling 'Unable to Perform File Operation' In Temp Folder and Completing Setup Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-stuck-disk-error-on-windows-10-a-step-by-step-guide/"><u>Fix Your Stuck Disk Error on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-red-screen-of-error-a-step-by-step-guide/"><u>Fixing the Red Screen of Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-motorola-edgeplus-2023-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Motorola Edge+ (2023) using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-huawei-p60-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Huawei P60 Phone that is Locked?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-sony-xperia-10-v-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Sony Xperia 10 V to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-unrecognized-usb-flash-drives/"><u>Quick Solutions: Resolving Unrecognized USB Flash Drives</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-issues-with-your-windows-11-start-menu-easy-fixes-and-solutions/"><u>Solving Issues with Your Windows 11 Start Menu - Easy Fixes and Solutions!</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-windows-troubles-heres-how-you-can-resolve-error-0x8024402c-on-your-pc/"><u>Tackling Windows Troubles? Here's How You Can Resolve Error 0X8024402C on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-touchpad-woes-heres-how-to-fix-sluggish-or-nonfunctional-scroll-buttons/"><u>Windows 10 Touchpad Woes? Here's How to Fix Sluggish or Nonfunctional Scroll Buttons</u></a></li>
 </ul></div>
 

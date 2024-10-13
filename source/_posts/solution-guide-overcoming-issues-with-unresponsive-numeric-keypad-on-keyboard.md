@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Overcoming Issues with Unresponsive Numeric Keypad on Keyboard"
-date: 2024-10-04T10:52:50.986Z
-updated: 2024-10-07T01:06:40.920Z
+date: 2024-10-07T01:27:20.617Z
+updated: 2024-10-12T22:46:48.833Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/17e9bdf0ca4901af161680238bb761b46415b8f3d
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -53,6 +46,13 @@ Here’s how to reinstall the keyboard driver:
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -85,10 +85,16 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
@@ -109,11 +115,25 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -124,23 +144,9 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -150,6 +156,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -157,13 +170,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -199,19 +205,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/1723207975204-solved-ps4-controller-wont-charge/"><u>[SOLVED] PS4 Controller Won't Charge</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-new-horizons-top-5-samsung-gear-vr-games/"><u>2024 Approved Exploring New Horizons - Top 5 Samsung Gear VR Games</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-streamlined-approach-to-virtual-meeting-setup-zooming-on-android-devices-for-2024/"><u>A Streamlined Approach to Virtual Meeting Setup Zooming on Android Devices for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oppo-find-n3-flip-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Oppo Find N3 Flip? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-correct-dota-2-graphics-api-error-2027-fast-and-simple-fixes/"><u>Expert Tips to Correct 'Dota 2 Graphics API' Error 2027: Fast and Simple Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-input-type-not-accepted-when-using-visual-output-devices/"><u>Fixes for 'Input Type Not Accepted' When Using Visual Output Devices</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-14-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 14 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-choosing-high-quality-hdr-cameras/"><u>Mastering the Art of Choosing High-Quality HDR Cameras</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-resolution-of-livekernelevent-error-number-117/"><u>Mastering the Resolution of LiveKernelEvent Error Number 117</u></a></li>
-<li><a href="https://games-able.techidaily.com/score-a-bargain-exclusive-offer-on-high-quality-85-tcl-tv-for-less-than-1k-during-the-holiday-weekend-insider-info-from-zdnet/"><u>Score a Bargain! Exclusive Offer on High-Quality 85 TCL TV for Less Than $1K During the Holiday Weekend – Insider Info From ZDNET.</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-6-free-online-tools-for-downloading-youtube-shorts-for-2024/"><u>Top 6 Free, Online Tools for Downloading YouTube Shorts for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-dealing-with-the-fixed-windows-update-error-in-windows-11-error-0x8024401c/"><u>Troubleshoot and Repair: Dealing with the Fixed Windows Update Error in Windows 11 (Error 0X8024401C)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-why-cant-i-complete-the-feature-upgrade-on-windows-11-version-1607/"><u>Troubleshooting Steps: Why Can't I Complete the Feature Upgrade on Windows 11 (Version 1607)?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-effortless-strategies-for-facebook-stories-seamless-uploads-for-2024/"><u>[New] Effortless Strategies for Facebook Stories' Seamless Uploads for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-taking-your-tweets-public-on-facebook/"><u>[New] Taking Your Tweets Public on Facebook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-picks-of-engaging-click-based-pc-gaming-for-2024/"><u>[Updated] Top Picks of Engaging Click-Based PC Gaming for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leap-into-action-how-to-craft-slow-motion-videos-using-gopro-hero-10/"><u>2024 Approved Leap Into Action How to Craft Slow-Motion Videos Using GoPro Hero 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/errtoomanyredirects-fixed-fast-solutions/"><u>ERR_TOO_MANY_REDIRECTS Fixed: Fast Solutions!</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-1000-troubleshooting-for-windows-operating-systems-win7win8win10/"><u>Error 1000 Troubleshooting for Windows Operating Systems (Win7/Win8/Win10)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-fix-a-stuck-cddvd-player-with-error-message-39-expert-advice/"><u>How to Diagnose and Fix a Stuck CD/DVD Player with Error Message 39 – Expert Advice</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-a23-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy A23 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-7-fixes-to-no-gps-showing-approximate-location-on-apple-iphone-6s-waze-drfone-by-drfone-virtual-ios/"><u>In 2024, 7 Fixes to No GPS - Showing Approximate Location on Apple iPhone 6s Waze | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-v27e-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo V27e</u></a></li>
+<li><a href="https://common-error.techidaily.com/laptop-touchpad-malfunctioning-here-are-fixes-for-windows-users/"><u>Laptop Touchpad Malfunctioning? Here Are Fixes for Windows Users!</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-refresh-and-reset-for-optimal-windows-11-performance/"><u>Mastering the Art of Refresh and Reset for Optimal Windows 11 Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-your-windows-11s-elusive-trackpad-arrow-issue/"><u>Resolving Your Windows 11'S Elusive Trackpad Arrow Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/silent-no-more-how-to-restore-speaker-function-on-an-acer-laptop/"><u>Silent No More: How to Restore Speaker Function on an Acer Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/simplified-repair-methods-for-fixing-boot-selection-issues-in-windows-systems/"><u>Simplified Repair Methods for Fixing Boot Selection Issues in Windows Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722872982469-step-by-step-guide-disabling-the-security-pin-on-windows-11/"><u>Step-by-Step Guide: Disabling the Security Pin on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/taming-the-beast-reducing-microsoft-malicious-software-removal-tools-cpu-usage-in-windows-10-issue-resolved/"><u>Taming the Beast: Reducing Microsoft Malicious Software Removal Tool's CPU Usage in Windows 10 [ISSUE RESOLVED]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-top-travel-experts-on-twitter-discounts-guidance-and-journeys/"><u>Ultimate List of Top Travel Experts on Twitter: Discounts, Guidance, and Journeys</u></a></li>
 </ul></div>
 

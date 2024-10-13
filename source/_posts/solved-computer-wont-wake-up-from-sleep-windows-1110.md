@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Computer Won't Wake Up From Sleep Windows 11/10"
-date: 2024-09-16T18:10:54.284Z
-updated: 2024-09-20T16:23:35.001Z
+date: 2024-10-12T01:32:34.518Z
+updated: 2024-10-12T19:40:28.391Z
 tags:
   - win11
   - win10
@@ -52,16 +52,30 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 2. Click **Ease of Access** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a118a26bf.png)
 3. Click **Keyboard** .  
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a1f8bb7c8.png)
 4. Disable the Filter Keys function (switch off**Filter Keys** or uncheck**Turn on Filter Keys** ).  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a38f0341d.png)
 5. Try your keyboard and see if disabling Filter Keys can restore your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Windows 11
@@ -70,15 +84,15 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 2. Go to**Accessibility > Keyboard** .![Windows 11 - disable filter keys via Settings](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle**Off** Filter keys.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Filter-keys-Off.jpg)
 4. Now try using your keyboard and see if disabling Filter Keys can restore your keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Update your keyboard driver
 
@@ -91,15 +105,22 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/hid-keyboard-device.png)
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -129,5 +150,17 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-escalate-your-content-reach-leveraging-synergistic-youtube-outros/"><u>[New] 2024 Approved Escalate Your Content Reach Leveraging Synergistic YouTube Outros</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-selecting-superior-free-online-srt-translation-services-tips-and-tricks/"><u>[New] Selecting Superior Free Online SRT Translation Services Tips & Tricks</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/architecting-a-stellar-tiktok-closing-segment-for-2024/"><u>Architecting a Stellar TikTok Closing Segment for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-enabled-successfully-steps-for-displaying-in-windows-device-manager/"><u>Bluetooth Enabled Successfully! Steps for Displaying in Windows Device Manager</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715701095120-discovering-androids-premier-mobas-ranked/"><u>Discovering Android's Premier MOBAs Ranked!</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-resolving-constant-restarts-in-your-windows-10-device/"><u>Easy Fixes for Resolving Constant Restarts in Your Windows 10 Device</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/repair-guide-dealing-with-dell-speaker-issues/"><u>Repair Guide: Dealing with Dell Speaker Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-halo-4-ue4-deadly-glitch-overcome-game-crashes/"><u>Solved Halo 4 UE4 Deadly Glitch: Overcome Game Crashes</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mp4-to-mp3-converter-reviews-find-the-best-tool-for-your-needs/"><u>Updated In 2024, MP4 to MP3 Converter Reviews Find the Best Tool for Your Needs</u></a></li>
+</ul></div>
 

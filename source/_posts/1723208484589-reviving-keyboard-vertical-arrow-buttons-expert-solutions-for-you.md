@@ -1,7 +1,7 @@
 ---
 title: "Reviving Keyboard Vertical Arrow Buttons: Expert Solutions for You!"
-date: 2024-09-14T17:37:09.376Z
-updated: 2024-09-20T18:57:11.004Z
+date: 2024-10-05T18:03:37.529Z
+updated: 2024-10-13T02:54:03.734Z
 tags:
   - win11
   - win10
@@ -43,18 +43,18 @@ thumbnail: https://thmb.techidaily.com/05fdbf7e0ba6723060a8e38727f66904571eb715b
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Solution 2: Disconnect the power cable for a while**
 
  First, shut down your computer. Then disconnect the power cable (If you are using a laptop computer, you can also remove the battery.). Then hold the power button down for about 10 seconds. After that, restart your computer and see if the issue resolves. This method has worked for other users who run into this problem like you.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Solution 3: Disable driver signature enforcement**
 
@@ -65,6 +65,13 @@ Follow the steps below:
  2) When the Advanced Boot Options screen displays, use the arrow key to select**Disable Driver Signature Enforcement** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8de9b459b5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Press the **Enter** key on your keyboard then Windows will restart.
 
@@ -84,9 +91,23 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e209798c0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Expand the category “Universal Serial Bus controllers” and locate the device USB 3.0 eXtensible Host Controller (The name could be different in your case. Just locate a USB device). If you can’t find the USB device under this category, expand the category of Other devices. You may find the device with a yellow mark there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e2b99785c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) On your keyboard, press the **Del** key (It could be**Delete** on some keyboards).
 
@@ -95,19 +116,6 @@ Follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8e3212f01c.png)
 
  6) Click the **OK** button to confirm the uninstall.
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **After uninstalling the drivers, update the drivers.**
 
@@ -129,20 +137,13 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a5c7eb6058aa.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Solution 5: Disable the Third Party services**
@@ -181,16 +182,16 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8d3383654c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Find Legacy USB Support or a similar USB option. If it is**Disabled** , enable it. Exit after saving the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58c8d4218d51d.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note if you don’t find  Legacy USB Support in BIOS, it is possible that the BIOS does not provide this option and this solution does not work for you. If you are still not sure how to do this, contact the PC manufacturer for further assistance.
 
@@ -211,5 +212,24 @@ Follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-exploring-many-youtube-courses-together/"><u>[New] 2024 Approved Exploring Many YouTube Courses Together</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-is-the-smoothing-effect-in-photoshop-a-game-changer-or-not/"><u>[New] 2024 Approved Is the Smoothing Effect in Photoshop a Game Changer or Not?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-achieve-peaceful-nights-with-expert-recommended-asmr/"><u>[Updated] Achieve Peaceful Nights with Expert-Recommended ASMR</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-lagging-chrome-a-guide-to-refresh-and-continue-browsing-seamlessly/"><u>Dealing with Lagging Chrome: A Guide to Refresh & Continue Browsing Seamlessly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-successfully-update-and-fix-amd-rx-560-drivers-for-various-windows-os/"><u>How to Successfully Update and Fix AMD RX 560 Drivers for Various Windows OS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a34-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A34 5Gwith/without a PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/ps4-connection-woes-follow-this-step-by-step-fixers-guide-for-nat-types/"><u>PS4 Connection Woes? Follow This Step by Step Fixer's Guide for NAT Types!</u></a></li>
+<li><a href="https://common-error.techidaily.com/reinstall-lost-media-device-drivers-step-by-step-guide-to-fix-common-issues/"><u>Reinstall Lost Media Device Drivers - Step-by-Step Guide to Fix Common Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-bad-image-errors-a-guide-to-correcting-side-by-side-configuration-issues-on-windows-10/"><u>Resolving ‘Bad Image’ Errors: A Guide to Correcting Side-By-Side Configuration Issues on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-gain-admin-privileges-needed-for-successful-operations-on-windows-11-10-and-7/"><u>Solution: Gain Admin Privileges Needed for Successful Operations on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/spacecraft-data-salvage-hub/"><u>Spacecraft Data Salvage Hub</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-non-responsive-keys/"><u>Troubleshooting Guide: Fixing Non-Responsive Keys</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-corsair-keyboards-that-wont-illuminate-properly/"><u>Troubleshooting Tips for Corsair Keyboards That Won't Illuminate Properly</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-how-to-fix-persistent-reboot-cycles-in-windows-10/"><u>Troubleshooting Tips: How To Fix Persistent Reboot Cycles in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-the-google-chrome-not-responding-issue/"><u>Troubleshooting: Fixing the 'Google Chrome Not Responding' Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-hidden-taskbar-while-running-full-screen-edges/"><u>Unveiling Hidden Taskbar While Running Full Screen Edges</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+</ul></div>
 

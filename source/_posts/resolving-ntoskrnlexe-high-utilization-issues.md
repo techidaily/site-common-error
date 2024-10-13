@@ -1,7 +1,7 @@
 ---
 title: Resolving ntoskrnl.exe High Utilization Issues
-date: 2024-10-05T04:23:11.447Z
-updated: 2024-10-07T00:34:03.628Z
+date: 2024-10-05T23:09:27.006Z
+updated: 2024-10-13T00:38:38.598Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 
  If this happens a lot, you should see if there is something wrong with certain application settings or files in your system.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How do I fix it?
 
  Here are 4 methods for you to try. You may not have to try them all; just work your way down until you find the one that works for you.
@@ -59,18 +52,18 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 1: Disable Windows Search service
 
@@ -81,27 +74,49 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 2. Expand**Services and Applications** and click**Services** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/services-and-applications.jpg)
 3. Double-click**Windows Search** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/windwos-search-6101.jpg)
 4. In the**General** tab, click **Stop** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/stop-button.jpg)
 5. Wait for the service to stop, then press**OK** to save the change and exit.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/ok-to-save-the-change-6104.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Check incompatible programs
 
@@ -118,10 +133,10 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click**Yes** when prompted for permission to make changes to your device.
@@ -133,6 +148,13 @@ sfc /scannow
  3) System File Checker will then scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3.2\. Run dism.exe
 
@@ -171,24 +193,10 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to the following location: `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\TimeBroker`  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker.png)
 4. On the right side, double-click**Start** , and change its value to**4** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker-4.png)
 5. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 See if the ntoskrnl.exe high CPU or disk usage problem remains.
 
@@ -207,16 +215,16 @@ See if the ntoskrnl.exe high CPU or disk usage problem remains.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-get-started-with-streamlabs-on-mac-using-obs-instantly/"><u>[New] 2024 Approved Get Started with Streamlabs on Mac Using OBS Instantly</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pros-and-cons-of-syma-x8c/"><u>[Updated] Pros and Cons of Syma X8C</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-the-latest-rumored-sony-virtual-reality-headset/"><u>All You Need to Know About the Latest Rumored Sony Virtual Reality Headset</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-the-0x80072efd-blues-easy-repairs-for-windows-10-users/"><u>Beat the 0X80072EFD Blues: Easy Repairs for Windows 10 Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-ai-conversations-what-sets-claude-pro-apart-from-chatgpt-plus/"><u>Decoding AI Conversations: What Sets Claude Pro Apart From ChatGPT Plus?</u></a></li>
-<li><a href="https://common-error.techidaily.com/fec-codes-like-reed-solomon-can-correct-detected-errors-without-retransmission/"><u>FEC Codes Like Reed-Solomon Can Correct Detected Errors without Retransmission.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-15-plus-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 15 Plus Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-connectivity-hurdles-with-steams-servers-a-fix-guide/"><u>Overcoming Connectivity Hurdles with Steam's Servers: A Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-screen-stuttering-and-flickering-problems-on-windows-11-devices/"><u>Troubleshooting Screen Stuttering and Flickering Problems on Windows 11 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlit-display-random-outage/"><u>Unlit Display: Random Outage</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-capturing-moments-with-precision-the-mycam-reviewed/"><u>[Updated] 2024 Approved Capturing Moments with Precision The MyCam Reviewed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-channel-name-wizardry-brainstorm-and-create/"><u>[Updated] Channel Name Wizardry Brainstorm & Create</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-companion-for-podcast-name-crafting-top-10-tools/"><u>[Updated] The Ultimate Companion for Podcast Name Crafting Top 10 Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beijing-bid-wins-2022-winter-olympics-highlights-for-2024/"><u>Beijing Bid Wins 2022 Winter Olympics Highlights for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-modify-your-login-info-on-the-rebranded-x-service-a-comprehensive-tutorial/"><u>How To Modify Your Login Info On The Rebranded X Service - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-backspace-capability-on-your-device/"><u>How to Restore Backspace Capability on Your Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-ultimate-vision-companion-ranking-of-best-11-bridge-cams/"><u>In 2024, The Ultimate Vision Companion Ranking of Best 11 Bridge Cams</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-icues-missed-device-detection-a-step-by-step-guide/"><u>Overcoming ICUE's Missed Device Detection - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-dx11-feature-level-100-issue-in-wwe-2k-battlegrounds/"><u>Resolving DX11 Feature Level 10.0 Issue in WWE 2K Battlegrounds</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-to-overcome-typing-latency-in-windows-10-systems/"><u>Solutions to Overcome Typing Latency in Windows 10 Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/superior-video-capture-systems-the-1-to-18-list-for-2024/"><u>Superior Video Capture Systems - The #1 to #18 List for 2024</u></a></li>
 </ul></div>
 

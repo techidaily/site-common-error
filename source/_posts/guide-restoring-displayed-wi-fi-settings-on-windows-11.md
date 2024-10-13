@@ -1,7 +1,7 @@
 ---
 title: "Guide: Restoring Displayed Wi-Fi Settings on Windows 11"
-date: 2024-09-10T16:02:10.535Z
-updated: 2024-09-15T16:02:25.462Z
+date: 2024-10-07T20:54:39.006Z
+updated: 2024-10-13T03:46:29.368Z
 tags:
   - win11
   - win10
@@ -81,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
@@ -97,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ``
 
 ``
@@ -104,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 `` 3) Open the app again to see if it goes fine.
 
 ``
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Start the Internet Explorer ETW Collector Service
 
@@ -128,18 +149,18 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -148,6 +169,13 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -158,19 +186,6 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-11.png)
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -215,5 +230,21 @@ That’s it!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-diy-4k-edits-assembling-a-powerhouse-pc-for-high-res-video-for-2024/"><u>[New] DIY 4K Edits Assembling a Powerhouse PC for High-Res Video for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-download-instagram-videos-on-pc-and-mac/"><u>[New] In 2024, How to Download Instagram Videos on PC and Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-macs-choice-of-capture-an-in-depth-look-at-premium-software/"><u>2024 Approved Mac's Choice of Capture An In-Depth Look at Premium Software</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-lava-storm-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Lava Storm 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/benefits-and-drawbacks-enhancing-your-online-gameplay-with-a-virtual-private-network/"><u>Benefits & Drawbacks: Enhancing Your Online Gameplay with a Virtual Private Network</u></a></li>
+<li><a href="https://common-error.techidaily.com/contribution-margin-cm-750000/"><u>Contribution Margin (CM) = $750,000</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-synaptics-touchpad-not-scrolling-issue-in-windows-10/"><u>Fix Synaptics Touchpad Not Scrolling Issue in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-resolve-alt-plus-tab-functionality-failure/"><u>Fixing the Issue: How to Resolve 'Alt + Tab' Functionality Failure</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-phantom-v-fold-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Tecno Phantom V Fold Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-honor-magic-5-pro-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Honor Magic 5 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamless-streaming-tips-for-uninterrupted-broadcasts/"><u>In 2024, Seamless Streaming Tips for Uninterrupted Broadcasts</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-vivo-s18-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo S18 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-warframes-stability-issues-on-your-computer-system/"><u>Resolving Warframe's Stability Issues on Your Computer System</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-overcoming-loadlibrary-failure-due-to-erroneous-parameters-error-code-87-explained/"><u>Step-by-Step Solutions for Overcoming 'Loadlibrary Failure Due to Erroneous Parameters' - Error Code 87 Explained</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows 10 Installation Hiccups When Updates Won't Progress
-date: 2024-10-02T06:54:49.330Z
-updated: 2024-10-07T04:50:43.569Z
+date: 2024-10-11T00:31:49.052Z
+updated: 2024-10-13T01:02:53.482Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 5. **[Download updates from Microsoft Update Catalog manually](#f5)**
 6. **[Pro tip: Want us to fix the problem for you?](#p)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Remove any USB peripherals and wait for the update process to finish
 
  If you seldom check for Windows updates, it may take a long time for Windows to complete the update process. Maybe your PC is not “stuck” at Windows update, and Windows is just configuring and installing update packages.
@@ -49,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
  If you temporarily don’t need to use your PC, you can just wait for 2 to 3 hours to see if the update process can be completed. If there are any USB devices (like printers, USB flash drives, etc.) connected to your PC, you can try removing them from your PC. Some Windows users reported that after they disconnect all the USB peripherals from their PCs, the update process completes quickly.
 
  See if this issue persists after you wait for 2 to 3 hours. If it persists, try the next fix below to force restart your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Force restart your PC
 
@@ -82,21 +68,14 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap466-1.png)
 3. Click **Apply this fix** to continue.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap467-1.png)
 4. Follow the on-screen instructions to troubleshoot this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### If you’re using Windows 11
@@ -105,11 +84,33 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 2. From the left navigation panel, select**System** . Find**Troubleshoot** and click on it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Windows Update. Then wait for it to troubleshoot your issues.  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-run-Windows-Update-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Perform a Windows update again to see if you can install the update. If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reset Windows Update components
 
@@ -118,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to invoke the Run dialog. Type **cmd** and press **Ctrl** , **Shift** and **Enter** at the same time to **run Command Prompt as administrator** . You’ll be prompted for permission. Click **Yes** to open the Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap468-1.png)
 2. In Command Prompt, type the command lines below and press Enter on your keyboard after typing each:  
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  net stop bits  
  net stop wuauserv  
@@ -163,10 +157,16 @@ thumbnail: https://thmb.techidaily.com/1015d95938322524d6bc75ebe9eaf3943bcb8d4c9
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap472-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
@@ -177,6 +177,14 @@ Now, you can follow the steps below to download Windows updates manually:
 2. Click **View update history** to check the updates you failed to install. For example, if you fail to install update KB3006137, you can download that update and install it manually.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap470-1.png)
 3. Visit **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Type the update number that you want to download. In this example, type KB3006137 and then click **Search** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473-1.png)
 5. In the list of search results, select the correct update for your operating system and click **Download** .  
@@ -189,10 +197,16 @@ Now, you can follow the steps below to download Windows updates manually:
 7. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart your PC to see if this issue persists. If not, congratulations! You’ve resolved this annoying issue! But if this issue reappears, you can try the last fix, below.
@@ -223,22 +237,22 @@ Now, you can follow the steps below to download Windows updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-astute-selection-of-12-motion-cameras-with-onboard-positioning/"><u>[Updated] In 2024, Astute Selection of 12 Motion Cameras With Onboard Positioning</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-build-funny-images-kapwings-meme-studio/"><u>2024 Approved Build Funny Images Kapwing’s Meme Studio</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-persistent-windows-10-performance-issues-at-system-initialization-a-step-by-step-guide/"><u>Addressing Persistent Windows 10 Performance Issues at System Initialization - A Step-by-Step Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/eliminate-hurdle-video-playback-issue-in-chrome/"><u>Eliminate Hurdle Video Playback Issue in Chrome</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-overcoming-windows-11-hdmi-and-tv-pairing-challenges/"><u>Expert Tips for Overcoming Windows 11 HDMI and TV Pairing Challenges</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fashion-memes-for-social-sharing-via-adobe-for-2024/"><u>Fashion Memes for Social Sharing via Adobe for 2024</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/guide-facilite-graver-un-dvd-sur-une-cle-usb-pour-les-systemes-dexploitation-windows-et-macintosh/"><u>Guide Facilité : Graver Un DVD Sur Une Clé USB Pour Les Systèmes D'Exploitation Windows Et Macintosh</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-your-pc-is-out-of-memory-error-in-windows-1-groovy/"><u>How to Fix the 'Your PC Is Out of Memory' Error in Windows 1 Groovy</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-your-laptops-battery-life-effortless-fixes-for-rapid-results/"><u>How To Restore Your Laptop’s Battery Life: Effortless Fixes for Rapid Results</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-stand-out-strategies-a-step-by-step-guide-to-reddit-success/"><u>In 2024, Stand Out Strategies A Step-By-Step Guide to Reddit Success</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-persistent-delays-on-the-windows-11-keyboard/"><u>Resolved: Fixing Persistent Delays on the Windows 11 Keyboard</u></a></li>
-<li><a href="https://app-tips.techidaily.com/step-by-step-tutorial-on-implementing-send-later-option-in-thunderbird-mail-clients-zdnet/"><u>Step-by-Step Tutorial on Implementing 'Send Later' Option in Thunderbird Mail Clients (ZDNet)</u></a></li>
-<li><a href="https://common-error.techidaily.com/stop-and-fix-windows-11-overheats/"><u>Stop and Fix: Windows 11 Overheats</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-steam-cloud-functionality/"><u>Streamlining Steam Cloud Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-accessing-the-start-button-on-windows-10-devices/"><u>The Ultimate Guide to Accessing the Start Button on Windows 10 Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/transform-imaging-expertise-in-adobes-high-dynamic-range/"><u>Transform Imaging Expertise in Adobe's High Dynamic Range</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-the-windows-11-bluetooth-not-detected-problem-fast-solutions/"><u>Troubleshoot the Windows 11 Bluetooth Not Detected Problem - Fast Solutions!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-maximize-your-online-presence-with-these-5-streaming-techniques/"><u>[New] In 2024, Maximize Your Online Presence with These 5 Streaming Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-tools-for-transforming-your-spotify-mixes-into-youtube-channels/"><u>[Updated] In 2024, Best Tools for Transforming Your Spotify Mixes Into YouTube Channels</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-must-see-hd-video-snaps-for-mac-users-char-limit-156/"><u>[Updated] Must-See HD Video Snaps for Mac Users (Char Limit 156)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/driver-installation-failure-intel-card-missing/"><u>Driver Installation Failure - Intel Card Missing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminate-surreptitious-software-without-tools/"><u>Eliminate Surreptitious Software Without Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/execution-barred/"><u>Execution Barred</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-a-non-responsive-huion-pen-in-minutes-with-these-5-techniques/"><u>Fix a Non-Responsive Huion Pen in Minutes with These 5 Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-y17s-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo Y17s Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-troubleshooting-seamless-bluetooth-pairings-with-your-windows-10/"><u>Mastering the Art of Troubleshooting: Seamless Bluetooth Pairings with Your Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-voice-chat-hurdles-in-overwatch-simple-solutions-inside/"><u>Overcoming Voice Chat Hurdles in Overwatch - Simple Solutions Inside</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/sicherung-von-abgehorten-disney-filmen-auf-einem-mac-schritt-fur-schritt-anleitung/"><u>Sicherung Von Abgehörten Disney-Filmen Auf Einem Mac: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://common-error.techidaily.com/silent-blackout-visual-quirk/"><u>Silent Blackout: Visual Quirk</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-worrying-about-your-huion-device-discover-these-5-quick-pen-repair-tips/"><u>Stop Worrying About Your Huion Device; Discover These 5 Quick Pen Repair Tips!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/transform-photos-create-masterpieces-with-leading-apps/"><u>Transform Photos, Create Masterpieces with Leading Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-non-supported-display-reaction-times-on-your-device/"><u>Troubleshooting Steps for Non-Supported Display Reaction Times on Your Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-repair-guide-getting-your-xbox-one-controller-xp-back-online/"><u>Ultimate Repair Guide: Getting Your Xbox One Controller (XP) Back Online</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-5-popular-linux-audio-recorder-and-linux-audio-recording-tips-for-2024/"><u>Updated 5 Popular Linux Audio Recorder and Linux Audio Recording Tips for 2024</u></a></li>
 </ul></div>
 

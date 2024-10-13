@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Restoring Connectivity Between a Nonfunctional Bluetooth Keyboard and PC
-date: 2024-09-30T06:24:35.067Z
-updated: 2024-10-07T11:13:27.652Z
+date: 2024-10-07T02:02:12.220Z
+updated: 2024-10-12T17:04:56.297Z
 tags:
   - win11
   - win10
@@ -66,15 +66,31 @@ If your computer is running Windows 10:
 1. On the taskbar of your desktop, click the**Start** button. Then click the**Settings icon** to bring up the Settings window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665088706c.jpg)
 2. Click**Ease of Access** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76653d6e392.jpg)
 3. Click**Keyboard.** Then look at the status of**Use Sticky Keys** ,**Use Toggle Keys** ,**Use Filter Keys** . If any of them is On, switch to Off. Then move on to the next step. If all of them stay Off, move on to the next method.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665bdbd9d8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your computer is running Windows 11:
@@ -83,13 +99,21 @@ If your computer is running Windows 11:
 2. From the left navigation panel, select **Accessibility** , then click **Keyboard**  from the right.  
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle **Off**  Sticky keys, Filter keys, and Toggle keys.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your computer is running Windows 7:
@@ -102,18 +126,18 @@ If your computer is running Windows 7:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766866a67e4.jpg)
 4. Make sure the three items **Turn on Sticky Keys** , **Turn on Toggle Keys** , and **Turn on Filter Keys**  are unchecked.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Try to type some words using your keyboard to see if it works.
 
  If you could type using your keyboard, great! If your keyboard keeps not typing, don’t worry, try something else below…
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Reinstall your keyboard driver
 
@@ -131,13 +155,6 @@ See how to do it:
  Try to type some words using your keyboard to see if it works. If you type successfully, great! If you still aren’t able to type on your keyboard, don’t feel frustrated, move on to the next method.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Update your keyboard driver
 
@@ -157,39 +174,19 @@ See how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766e1dcd420.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Try this fix if you’re using a USB keyboard
 
  If unfortunately, all the fixes above fail to help you and you’re using a USB keyboard, You can try to connect the keyboard with**another USB port** to check if it works as an old, shabby USB port could cause your Keyboard not to work.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 6: Try this fix if you’re using a wireless keyboard
 
@@ -228,19 +225,20 @@ Try to type some words using your keyboard to see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/alking-heads-visual-techniques-to-engage-audiences-for-2024/"><u>[New] Talking Heads Visual Techniques to Engage Audiences for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-mastering-close-up-cinematography-through-zooming/"><u>2024 Approved Mastering Close-Up Cinematography Through Zooming</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-navigating-the-nuances-of-ps4-live-gaming-recordings/"><u>2024 Approved Navigating the Nuances of PS4 Live Gaming Recordings</u></a></li>
-<li><a href="https://common-error.techidaily.com/bluetooth-paired-but-not-connected-on-windows-11/"><u>Bluetooth Paired but Not Connected on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-guide-on-correcting-compromised-system-data-structures-within-windows-10-or-11/"><u>Complete Guide on Correcting Compromised System Data Structures Within Windows 10 or 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-solution-for-resolving-the-error-0x887a0006-issue/"><u>Effortless Solution for Resolving the 'Error 0X887A0006' Issue</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-s17-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo S17 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win-dash.techidaily.com/instant-downloads-for-brother-hl-easy-3170cdw-printing-drivers/"><u>Instant Downloads for Brother HL-Easy-3170cdw Printing Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimize-your-pc-with-easy-windows-11-rejuvenation-methods-refresh-and-reset-tips-inside/"><u>Optimize Your PC with Easy Windows 11 Rejuvenation Methods – Refresh & Reset Tips Inside</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/predicting-the-unpredictable-chatgpt-vs-astrology/"><u>Predicting the Unpredictable: ChatGPT Vs. Astrology</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/preserving-gaming-history-the-benefits-of-retaining-vintage-video-game-systems/"><u>Preserving Gaming History: The Benefits of Retaining Vintage Video Game Systems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-update-issues-in-windows-10-resolve-error-code-0x800f0922/"><u>Solving Update Issues in Windows 10: Resolve Error Code 0X800f0922</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-13-easy-to-master-revenue-strategies-on-reddit/"><u>Top 13 Easy-to-Master Revenue Strategies on Reddit</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-a-non-responsive-or-dark-laptop-screen/"><u>Troubleshooting Tips for Fixing a Non-Responsive or Dark Laptop Screen</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-instant-movie-magician/"><u>[New] Instant Movie Magician</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-speech-capture-device-scrutiny-for-2024/"><u>[New] Speech Capture Device Scrutiny for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-loom-chronicles-crafting-visual-stories/"><u>[New] The Loom Chronicles Crafting Visual Stories</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-what-are-instagrams-daily-story-snapshots/"><u>[Updated] In 2024, What Are Instagram's Daily Story Snapshots?</u></a></li>
+<li><a href="https://common-error.techidaily.com/code-blocked-operation-on-hold/"><u>Code Blocked: Operation on Hold</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/command-the-stage-of-youtube-with-studio-skills/"><u>Command the Stage of YouTube with Studio Skills</u></a></li>
+<li><a href="https://common-error.techidaily.com/cursor-that-wont-quit-learn-how-to-make-it-stop-blinking/"><u>Cursor that Won't Quit? Learn How to Make It Stop Blinking</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-bluetooth-troubles-visible-now-in-device-manager/"><u>Fix Your Bluetooth Troubles: Visible Now in Device Manager</u></a></li>
+<li><a href="https://common-error.techidaily.com/nvidia-web-helper-no-disk-issue-comprehensive-solutions-and-fixes/"><u>Nvidia Web Helper 'No Disk' Issue: Comprehensive Solutions and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-graphic-glitches-in-valorant-a-step-by-step-fix-for-screen-anomalies/"><u>Overcome Graphic Glitches in VALORANT - A Step-by-Step Fix for Screen Anomalies</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-failed-creation-of-a-d3d-vertex-shader-context/"><u>Resolving Failed Creation of a D3D Vertex Shader Context</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-pc-issues-in-scavengers-a-comprehensive-guide/"><u>Resolving PC Issues in Scavengers - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10s-persistent-problem-unsuccessful-shutdown-followed-by-unexpected-reboot/"><u>Resolving Windows 10'S Persistent Problem: Unsuccessful Shutdown, Followed by Unexpected Reboot</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-s17e-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo S17e Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-mastering-your-meta-quest-microphone/"><u>Ultimate Guide: Mastering Your Meta Quest Microphone</u></a></li>
 </ul></div>
 

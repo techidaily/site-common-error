@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting FTDI Communication Failure Due to Unsuitable Driver Pairing
-date: 2024-10-04T11:22:29.389Z
-updated: 2024-10-06T17:58:18.239Z
+date: 2024-10-05T20:11:49.843Z
+updated: 2024-10-12T20:35:44.403Z
 tags:
   - win11
   - win10
@@ -45,14 +45,15 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04aae3578ee.jpg)
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
@@ -70,13 +71,6 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
@@ -84,21 +78,14 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
@@ -114,18 +101,34 @@ Here’s how:
 1. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **mmsys.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Check your in-game audio settings
@@ -162,20 +165,19 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-infuse-style-in-vids-3-proven-methods-for-instagram-borders/"><u>[New] In 2024, Infuse Style in Vids 3 Proven Methods for Instagram Borders</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-clear-youtubes-obscured-visual-field/"><u>[Updated] In 2024, Clear Youtube's Obscured Visual Field</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-synchronize-your-video-with-instagrams-aesthetics-for-2024/"><u>[Updated] Synchronize Your Video with Instagram's Aesthetics for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-acknowledgment-series-free-vs-paid-template-choices/"><u>2024 Approved Acknowledgment Series Free vs Paid Template Choices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-rapid-display-changes-in-windows-11-step-by-step-guide/"><u>Fixing Rapid Display Changes in Windows 11: Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-shockwave-flash-compatibility-with-google-chrome/"><u>Fixing the Issue: Shockwave Flash Compatibility with Google Chrome</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-secure-connection-could-not-be-established-message-in-firefox-browser/"><u>How to Fix 'Secure Connection Could Not Be Established' Message in Firefox Browser</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-get-your-printscreen-back-working-in-windows-1110-solution-found/"><u>How to Get Your PrintScreen Back Working in Windows 11/10 (Solution Found)</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-powerdirector-unveiled-a-detailed-24-review-and-tutorial/"><u>In 2024, PowerDirector Unveiled A Detailed '24 Review & Tutorial</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/master-high-quality-hd-viewing-a-step-by-step-tutorial-for-playing-hevch265-content-on-android-phones-and-tablets/"><u>Master High-Quality HD Viewing: A Step-by-Step Tutorial for Playing HEVC/H.265 Content on Android Phones and Tablets</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/revolutionizing-os-upgrades-microsofts-new-approach-to-rolling-out-windows-enhancements-essential-insights-techinsider/"><u>Revolutionizing OS Upgrades: Microsoft's New Approach to Rolling Out Windows Enhancements - Essential Insights | TechInsider</u></a></li>
-<li><a href="https://common-error.techidaily.com/taming-microsofts-compatibility-telemetry-to-reduce-hard-drive-usage-on-windows-11-systems/"><u>Taming Microsoft's Compatibility Telemetry to Reduce Hard Drive Usage on Windows 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-unresponsive-buttons-in-windows-operating-systems-win-10-11/"><u>Troubleshooting Unresponsive Buttons in Windows Operating Systems (Win 10, 11)</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-gamers-guide-overcoming-unsupported-gpu-issues-with-fortnite/"><u>Windows Gamers Guide: Overcoming Unsupported GPU Issues with Fortnite</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-critically-acclaimed-top-8-oculus-rift-games-for-2024/"><u>[New] Critically Acclaimed Top 8 Oculus Rift Games for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-achieve-balance-and-vitality-top-10-premium-yoga-streams/"><u>[Updated] Achieve Balance & Vitality - Top 10 Premium Yoga Streams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-digital-detailing-expert-tips-for-attaching-dates-in-photography/"><u>2024 Approved Digital Detailing Expert Tips for Attaching Dates in Photography</u></a></li>
+<li><a href="https://common-error.techidaily.com/computer-conundrum-why-does-gaming-halt/"><u>Computer Conundrum: Why Does Gaming Halt?</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/cut-to-the-chase-download-fb-videos-as-mp4-for-2024/"><u>Cut to the Chase - Download FB Videos as MP4 for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-unsupported-platform-detected-error-while-installing-your-intel-serial-io-driver/"><u>Fixing the 'Unsupported Platform Detected' Error While Installing Your Intel Serial IO Driver</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-tackle-fps-decrease-in-lost-ark-a-comprehensive-guide/"><u>How To Tackle FPS Decrease in Lost Ark - A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/integrating-mixer-with-macos-for-smooth-streaming-for-2024/"><u>Integrating Mixer with macOS for Smooth Streaming for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-connection-settings-to-enable-smooth-access-to-party-chat-services/"><u>Mastering Connection Settings to Enable Smooth Access to Party Chat Services</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/navigating-networked-video-streaming-with-vlc-for-2024/"><u>Navigating Networked Video Streaming with VLC for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-pause-predicament-in-gameplay-ease/"><u>Overcome Pause Predicament in Gameplay Ease</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-why-windows-10-cant-find-your-bluetooth-gadgets-and-how-to-fix-it/"><u>Troubleshooting: Why Windows 10 Can't Find Your Bluetooth Gadgets and How to Fix It</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unmatched-setups-top-quality-4k-shoulder-mounts-guide-for-2024/"><u>Unmatched Setups Top-Quality 4K Shoulder Mounts Guide for 2024</u></a></li>
 </ul></div>
 

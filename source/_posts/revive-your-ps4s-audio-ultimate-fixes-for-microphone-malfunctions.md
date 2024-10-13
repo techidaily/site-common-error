@@ -1,7 +1,7 @@
 ---
 title: "Revive Your PS4's Audio: Ultimate Fixes for Microphone Malfunctions"
-date: 2024-10-03T06:01:35.561Z
-updated: 2024-10-06T16:19:01.053Z
+date: 2024-10-08T23:09:12.386Z
+updated: 2024-10-12T17:02:35.621Z
 tags:
   - win11
   - win10
@@ -64,27 +64,21 @@ Here’s how to do it:
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
-5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
+5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
 
@@ -99,27 +93,42 @@ Here’s how:
 1. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **mmsys.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 2. In the**Playback** tab, right-click on**your default device** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cc544ea24.jpg)
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
 4. Check the voice chat in Overwatch and hopefully the problem has been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check your in-game audio settings
 
@@ -130,13 +139,6 @@ Here’s how:
 3. Make sure**GROUP VOICE CHAT** and**TEAM VOICE CHAT** are set to**AUTO JOIN, the right device selected** for**VOICE CHAT DEVICES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04c7f097042.jpg)  
  If your voice chat is set to**Push To Talk** , try changing the keybind for Voice Chat:**Push To Talk** to a different key in the Controls menu.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Join in the team chat, test to see if the**Overwatch voice chat not working** issue has been resolved.
 
@@ -163,22 +165,24 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-visual-virtuosity-enhancement-no-money-more-magic/"><u>[New] 2024 Approved Visual Virtuosity Enhancement No Money, More Magic</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-list-10-prime-video-cameras-for-pcs/"><u>[New] Ultimate List 10 Prime Video Cameras for PCs</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-invaluable-resource-for-zero-cost-video-and-photo-providers/"><u>[Updated] In 2024, Invaluable Resource for Zero-Cost Video and Photo Providers</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-11-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 11 Lock Screen</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnose-and-cure-white-monitor-issue-in-laptops-easily/"><u>Diagnose & Cure White Monitor Issue in Laptops Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/display-driver-error-resolved-overcoming-stopped-responding-issues/"><u>Display Driver Error Resolved: Overcoming 'Stopped Responding' Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205935005-fix-0x80070643-windows-update-or-installation-errors-on-windows/"><u>Fix “0X80070643” Windows Update or Installation Errors on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/google-chrome-fixed-how-to-troubleshoot-non-responsiveness-problems/"><u>Google Chrome Fixed: How to Troubleshoot Non-Responsiveness Problems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-x50iplus-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor X50i+ to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-beatwave-visuals-instagram-videos-set-to-soundtracks/"><u>In 2024, Beatwave Visuals Instagram Videos Set to Soundtracks</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-infinix-gt-10-pro-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Infinix GT 10 Pro and Browser | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/navigate-to-recent-fb-views-with-ease-2023-guide/"><u>Navigate to Recent FB Views with Ease, 2023 Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211990213-papillary-carcinoma-is-the-most-common-form-of-thyroid-cancer-and-generally-has-an-excellent-prognosis/"><u>Papillary Carcinoma Is the Most Common Form of Thyroid Cancer and Generally Has an Excellent Prognosis</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-ps4s-ce-34878-0-error-for-a-smooth-gaming-experience-tips-and-fixes/"><u>Troubleshooting PS4's CE-34878-0 Error for a Smooth Gaming Experience: Tips and Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-step-by-step-windows-11-installation-problem-80240020-resolved/"><u>Troubleshooting Step-by-Step: Windows 11 Installation Problem 80240020 Resolved</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-race-against-time-boosting-your-windows-10-pcs-shutdown-speed/"><u>Winning the Race Against Time: Boosting Your Windows 10 PC's Shutdown Speed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gripping-gospels-intros-that-draw-ears/"><u>[New] Gripping Gospels Intros That Draw Ears</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-pinnacle-of-visual-expression-best-mac-drawing-tools/"><u>[Updated] In 2024, The Pinnacle of Visual Expression - Best Mac Drawing Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-effortless-capture-winmac-tools-to-record-desktop-screens/"><u>2024 Approved Effortless Capture Win/Mac Tools to Record Desktop Screens</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breaking-down-youtube-promotion-costs/"><u>Breaking Down Youtube Promotion Costs</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-and-correcting-error-0x80004005-comprehensive-solutions-for-windows-users/"><u>Decoding and Correcting Error 0X80004005: Comprehensive Solutions for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-non-responsive-brightness-control-on-your-windows-10-device/"><u>Easy Fixes for Non-Responsive Brightness Control on Your Windows 10 Device</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-overcoming-sound-outages-on-your-google-chromecast-streamer/"><u>Expert Tips: Overcoming Sound Outages on Your Google Chromecast Streamer</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-keyboard-solutions-when-left-right-and-up-arrow-keys-fail/"><u>Fixing Your Keyboard: Solutions When Left, Right, and Up Arrow Keys Fail</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-apple-iphone-xr-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or Apple iPhone XR Stuck On Activation Lock?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-lower-graphics-card-consumption-from-the-windows-dwm-a-5-step-guide/"><u>How to Lower Graphics Card Consumption From the Windows DWM: A 5-Step Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s23-fefrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S23 FEFRP Lock</u></a></li>
+<li><a href="https://common-error.techidaily.com/lenovo-mouse-pad-woes-fix-your-device-on-windows-10-8-and-7-here/"><u>Lenovo Mouse Pad Woes? Fix Your Device on Windows 10, 8 & 7 Here</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mending-non-pressable-windows-keys/"><u>Mending Non-Pressable Windows Keys</u></a></li>
+<li><a href="https://common-error.techidaily.com/systems-daylight-savings-failure-wont-rise/"><u>System's Daylight Savings Failure: Won't Rise</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-best-budget-motherboards-for-gaming/"><u>The Best Budget Motherboards for Gaming</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-oculus-quest-2-reviewed-superior-virtual-reality-fun-at-an-extraordinary-price/"><u>The Oculus Quest 2 Reviewed: Superior Virtual Reality Fun at an Extraordinary Price</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-consumption-by-the-windows-1110-dwm/"><u>Top 5 Solutions for Reducing GPU Consumption by the Windows 11/10 DWM</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-enabling-bluetooth-on-windows-1110-expert-tips/"><u>Troubleshooting and Enabling Bluetooth on Windows 11/10 - Expert Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-mousepads-for-your-laptop-under-windows-operating-systems-win11win8win7/"><u>Troubleshooting and Repairing Mousepads for Your Laptop Under Windows Operating Systems (Win11/Win8/Win7)</u></a></li>
 </ul></div>
 

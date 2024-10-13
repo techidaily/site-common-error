@@ -1,7 +1,7 @@
 ---
 title: "Fortnite Optimized: Resolving Unsupported GPU Issues on Windows"
-date: 2024-10-03T10:04:47.377Z
-updated: 2024-10-06T20:51:31.011Z
+date: 2024-10-07T02:57:13.101Z
+updated: 2024-10-12T18:21:34.383Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Change your monitor settings
 
  As suggested in the error message, you can change your input timing to the specific resolution and refresh rate (in my case it’s**1920×1080@60Hz** ) or any other monitor listed timing as per monitor specifications. So you should change these monitor settings to match.
@@ -54,38 +61,25 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ad509cbf.jpg)
 2. In the**Display** section, scroll down and find**Resolution** , and change it to the specific resolution (in my case I choose**1080×1920** ).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b258f50a.jpg)
 3. Click**Keep changes** if you see the popup verification dialog.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1914a52c434.png)
 4. Then click**Advanced** **display** **settings** on the same screen.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b6cc8591.jpg)
-5. Click**Display** **adapter** **properties** **for** **Display** .  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3b6cc8591.jpg)
+5. Click**Display** **adapter** **properties** **for** **Display** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3bbd9a183.jpg)
 6. Click the**Monitor** tab in the popup pane, and change**Screen refresh rate** to the one shown in your error message (in my case it’s**60Hz** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d226ff59.jpg)
 7. Click**Apply** and**OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3d5847bb6.jpg)
 
@@ -96,27 +90,21 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 1. Right click on any**empty area** on your desktop, then select**Screen** **resolution** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3de95308b.png)
 2. Change**Resolution** to the specific resolution (in my case I choose**1080×1920** ).  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e3dadb40.jpg)
 3. Click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e7b561b5.jpg)
 4. Click**Keep changes** if you see the verification message.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3e9f1f793.jpg)
 5. On the same screen, click**Advanced** **settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3ebdae214.jpg)
 6. Click the**Monitor** tab, and choose the specific refresh rate shown in your error message (in my case I choose**60Hz** ).  
@@ -125,6 +113,19 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf3f2a18d38.jpg)
 
 Restart your computer in normal mode and see if it works.
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update graphics card driver
 
@@ -164,38 +165,48 @@ Restart your computer in normal mode and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/img_56ebc912c08c2.png)
 3. Click**Advanced** options, then the system will bring up the Windows RE (Recovery environment.) screen.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a15247e3c3cd.jpg)
 4. Click**Troubleshoot** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a151ab96e345.jpg)
 5. Click**Advanced** **options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a180901572a5.jpg)
 6. Click**Startup** **Settings** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18093b2b099.jpg)
 7. Click**Restart** . The computer restarts and another screen opens showing a list of different startup options.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a18096b5adce.jpg)
 8. Press the**number** **key** (normally the**number 3 key** ) next to the option:**Enable low-resolution video** (**mode** ).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5baf40923919f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then your computer will boot into the low-resolution mode and it should fix your error.
@@ -231,22 +242,16 @@ Restart your computer in normal mode and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-identifying-and-understanding-touchless-technologies/"><u>[New] Identifying and Understanding Touchless Technologies</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-how-to-quickly-craft-perfect-subtitles-and-captions-for-facebook-video-feeds/"><u>[New] In 2024, How To Quickly Craft Perfect Subtitles and Captions for Facebook Video Feeds</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-dive-into-design-get-a-complimentary-set-of-50-banner-pieces/"><u>[Updated] 2024 Approved Dive Into Design Get a Complimentary Set of 50 Banner Pieces</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/effective-strategies-for-optimizing-the-reference-section-in-documents/"><u>Effective Strategies for Optimizing the Reference Section in Documents</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-slow-data-transfer-between-your-epson-scanner-and-print-device/"><u>Fixing Slow Data Transfer Between Your Epson Scanner and Print Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-windows-1110-continuously-rebooting-solutions-inside/"><u>How to Stop Windows 11/10 Continuously Rebooting - Solutions Inside!</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211861419-hp-laptop-camera-issues-in-windows-11-heres-how-to-get-it-working-again/"><u>HP Laptop Camera Issues in Windows 11? Here's How to Get It Working Again</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/network-startup-problem-in-dragon-ball-fighterz-now-corrected/"><u>Network Startup Problem in Dragon Ball FighterZ Now Corrected</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-from-words-to-music-audio-conversion-of-textual-content-on-various-platforms/"><u>New In 2024, From Words to Music Audio Conversion of Textual Content on Various Platforms</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-usb-malfunctions-a-comprehensive-guide-to-correcting-descriptor-request-failed-notifications/"><u>Resolving USB Malfunctions: A Comprehensive Guide to Correcting 'Descriptor Request Failed' Notifications</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-connect-and-repair-a-nonfunctional-ps4-controller/"><u>Step-by-Step Troubleshooting: Connect and Repair a Nonfunctional PS4 Controller</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-k70e-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi K70E Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-strategies-to-resolve-windows-11-update-issue-error-0x800f0922/"><u>Top Strategies to Resolve Windows 11 Update Issue: Error 0X800F0922</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-event-id-1000-across-windows-vista-to-10/"><u>Troubleshooting Guide: Fixing Event ID 1000 Across Windows Vista to 10</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitter-tales-creating-gifs-without-charges-for-2024/"><u>Twitter Tales Creating GIFs Without Charges for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/windows-best-video-conferencing-apps-2-1-for-2024/"><u>Windows' Best Video Conferencing Apps, #2-#1 for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-perfect-your-youtube-videos-after-publishing/"><u>[New] 2024 Approved Perfect Your YouTube Videos After Publishing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-androids-leading-image-editing-does-pickup-reign-supreme/"><u>[New] Android's Leading Image Editing Does PickUp Reign Supreme?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-voices-for-change-highlighting-influential-ladies-on-youtube/"><u>[New] In 2024, Voices for Change Highlighting Influential Ladies on YouTube</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-woes-discover-how-to-ensure-flawless-pairing-with-your-windows-11-device-by-2024/"><u>Bluetooth Woes? Discover How to Ensure Flawless Pairing with Your Windows 11 Device by 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/detailed-app-analysis-the-ultimate-az-recorder-guide-for-2024/"><u>Detailed App Analysis - The Ultimate AZ Recorder Guide for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207565069-how-to-overcome-the-persistent-windows-update-error-0x80070002-successfully/"><u>How to Overcome the Persistent Windows Update Error 0X80070002 Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reduce-dwms-gpu-load-five-effective-strategies-for-windows-11-users/"><u>How to Reduce DWM's GPU Load: Five Effective Strategies for Windows 11 Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-nexus-development-summary-pinnacle-studio-audit-2023/"><u>In 2024, Nexus Development Summary Pinnacle Studio Audit, 2023</u></a></li>
+<li><a href="https://driver-install.techidaily.com/operating-systems-latest-fix-hd-audio-support-improved/"><u>Operating System's Latest Fix: HD Audio Support Improved</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-solving-audio-problems-with-windows-11-volume-slider/"><u>Step-by-Step Guide to Solving Audio Problems with Windows 11 Volume Slider</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-capturing-screen-images-on-your-computer/"><u>Step-by-Step Guide: Capturing Screen Images on Your Computer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing 'No Playable Source' Errors in Windows Media Player - Complete Guide
-date: 2024-10-03T02:11:44.550Z
-updated: 2024-10-06T21:50:27.634Z
+date: 2024-10-06T02:50:51.254Z
+updated: 2024-10-12T16:40:53.928Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/7fab9a6185158d097b206408c1b02e98fd2b514b0
 
  The following screenshots are from Windows 10\. But you can also follow the steps if you’re having the problem on Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the setting of System Event Notification Service on your computer
 
  You may have the problem due to the incorrect setting of System Event Notification Service.  
@@ -51,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/7fab9a6185158d097b206408c1b02e98fd2b514b0
 2. Type**services.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf596c06c.jpg)
 3. Right-click**System Event Notification Service** , then select**Restart** . If Restart grayed out, click**Start** instead.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7bf9e2c9b8.jpg)
 4. Right-click System Event Notification Service again, this time select**Properties** .  
@@ -79,6 +79,14 @@ Follow these steps to reset your Winsock Catalog:
 2. Type**cmd** , then press**Shift + Ctrl + Enter** keys together.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c0804d3b9.jpg)
 3. An elevated Command Prompt would be open. Type the following command and press Enter.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **netsh winsock reset**
 
  Restart your computer to see if the error has gone. If you still see the error, don’t worry, move onto the next methods.  
@@ -87,10 +95,10 @@ Follow these steps to reset your Winsock Catalog:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your video card driver
@@ -108,23 +116,9 @@ Follow these steps to reset your Winsock Catalog:
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2297ff06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart your computer to see if the error has gone. If the error persists, don’t give up hope, see if the last method could help you…
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Uninstall the KB2952664 update
 
@@ -138,10 +132,10 @@ Follow these steps to reset your Winsock Catalog:
 4. Click View installed updates.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf7c2f3ae739.jpg)
@@ -150,13 +144,6 @@ Follow these steps to reset your Winsock Catalog:
 Restart your computer to see if the error has gone.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Remove klhkum.dll
 
@@ -169,8 +156,23 @@ Restart your computer to see if the error has gone.
 2. Click the**Startup** tab and find**klhkum.dll** process.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-52-10.jpg)
 3. Right-click on it and choose**Disable** . You can also open its file location and delete it permanently.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/2020-03-31_18-55-36.jpg)
 4. Restart your computer to see if the error has gone.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One more tip: If you’re using Kaspersky security software and possibly on Windows 7, you need to turn off Kaspersky manually to fix the issue.
 
@@ -196,22 +198,17 @@ Restart your computer to see if the error has gone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-from-beginner-to-pro-your-guide-to-mac-audio-with-audacity-for-2024/"><u>[New] From Beginner to Pro Your Guide to Mac Audio with Audacity for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-inside-the-innovative-world-of-intova-x-for-2024/"><u>[New] Inside the Innovative World of Intova X for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-failed-usb-recognition-port-reset-in-your-windows-10-system/"><u>Diagnosing & Repairing Failed USB Recognition (Port Reset) in Your Windows 10 System</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-solving-sims-grope-wont-open-error-on-pcmac/"><u>Diagnosing and Solving Sims Grope Won't Open Error on PC/Mac</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/discover-over-30-premium-free-ae-template-packs-for-2024/"><u>Discover Over 30 Premium Free AE Template Packs for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-immersive-world-of-cinematic-brilliance-with-the-lg-smart-tv-oled-c9-review/"><u>Exploring the Immersive World of Cinematic Brilliance with the LG Smart TV - OLED C9 Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-effectively-address-msvcp140dll-gap/"><u>How to Effectively Address MSVCP140.dll Gap</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-huawei-nova-y91-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Huawei Nova Y91</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-ultimate-manual-for-opting-into-youtube-premium/"><u>In 2024, Your Ultimate Manual for Opting Into YouTube Premium</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/maximize-visual-and-auditory-impact-in-windows-10-photos-app-for-2024/"><u>Maximize Visual & Auditory Impact in Windows 10 Photos App for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-mysterious-0x80004005-error-proven-solutions-for-your-email-woes/"><u>Resolving the Mysterious 0X80004005 Error - Proven Solutions for Your Email Woes</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-unfreezing-your-laptops-mouse-control/"><u>Step-by-Step Solutions for Unfreezing Your Laptop's Mouse Control</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computer-insights-and-expert-analysis/"><u>Tom's Computer Insights & Expert Analysis</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-updating-fixing-the-windows-11-v1n607-deployment-hitches/"><u>Trouble Updating? Fixing the Windows 11 V1n607 Deployment Hitches</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-ps4-console-noise-issues-causes-and-solutions/"><u>Troubleshooting PS4 Console Noise Issues: Causes and Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/unraveling-the-mystery-understanding-automatic-boot-up-in-windows-10/"><u>Unraveling the Mystery: Understanding Automatic Boot-Up in Windows 10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-clearing-up-distorted-web-media-playback/"><u>[New] Clearing Up Distorted Web Media Playback</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-sony-xperia-1-v-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-pinterest-video-downloads-no-cost-and-fast-access-online/"><u>5 Pinterest Video Downloads – No Cost & Fast Access Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-top-ai-companion-claude-or-chatgpt-for-daily-assistance/"><u>Choosing the Top AI Companion: Claude or ChatGPT for Daily Assistance?</u></a></li>
+<li><a href="https://common-error.techidaily.com/decrease-your-computers-workload-combating-high-resource-demand-by-wudfhostexe-on-windows-fixed/"><u>Decrease Your Computer's Workload: Combating High Resource Demand by WUDFHost.exe on Windows ([Fixed])</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-for-overcoming-the-windows-update-error-0x80070002/"><u>Effortless Solutions for Overcoming the Windows Update Error 0X80070002</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-d3derr-notavailable/"><u>How To Fix D3DERR NOTAVAILABLE</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-15-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 15 Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-5-homemade-shot-strategies-the-fastest-hacks-you-need/"><u>In 2024, Top 5 Homemade Shot Strategies – The Fastest Hacks You Need</u></a></li>
+<li><a href="https://common-error.techidaily.com/oddworld-soulstorm-crashing-on-pc-solved/"><u>Oddworld: Soulstorm Crashing On PC [SOLVED]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-unresponsive-chrome-on-windows-10-devices/"><u>Quick Fixes for Unresponsive Chrome on Windows 10 Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-cropping-videos-like-a-pro-tips-tricks-and-techniques-using-avidemux/"><u>Updated In 2024, Cropping Videos Like a Pro Tips, Tricks, and Techniques Using Avidemux</u></a></li>
 </ul></div>
 

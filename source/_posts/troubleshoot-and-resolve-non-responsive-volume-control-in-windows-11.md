@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Resolve Non-Responsive Volume Control in Windows 11
-date: 2024-09-13T16:12:16.098Z
-updated: 2024-09-20T18:27:02.440Z
+date: 2024-10-09T20:08:42.208Z
+updated: 2024-10-12T22:56:48.682Z
 tags:
   - win11
   - win10
@@ -35,6 +35,19 @@ thumbnail: https://thmb.techidaily.com/c5954b26aae847d226df8714f23c02a4ef32990ac
 3. [**Change your mouse pointer**](#t3)
 4. [**Update your touchpad driver**](#t4)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 1: Enable your touchpad
 
  If your touchpad isn’t working at all, it may be disabled. You can connect an external mouse to your computer, and follow these steps to enable your touchpad:
@@ -43,8 +56,24 @@ thumbnail: https://thmb.techidaily.com/c5954b26aae847d226df8714f23c02a4ef32990ac
 2. Type**control** and press**Enter** to go to Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf297e71ab26.png)
 3. In the view of**Category** , click**Hardware and Sound** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298111eba5.jpg)
 4. Under**Devices and Printers** , click**Mouse** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29836c37da.jpg)
 5. Select the last tab. (The last tab is usually for touchpad configuration if you have a touchpad. And its name varies with different models of computer.) Then you can select a checkbox or click a button to enable your touchpad.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c061bc83.jpg)
@@ -74,29 +103,9 @@ thumbnail: https://thmb.techidaily.com/c5954b26aae847d226df8714f23c02a4ef32990ac
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298ab89d01.jpg)
 3. Click**Apply** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Check if your touchpad now works properly. If not, try Tip 4, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 4: Update your touchpad driver
 
@@ -115,6 +124,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf22faf2a3c4.jpg)
 4. Restart your computer and check if your touchpad now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -137,5 +153,22 @@ Hopefully, this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-enabling-hearing-in-twitter-video-links-for-2024/"><u>[New] Enabling Hearing in Twitter Video Links for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-transform-into-an-instagram-icon-embrace-the-magic-of-9-techniques/"><u>[New] In 2024, Transform Into an Instagram Icon Embrace the Magic of #9 Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-streaming-into-the-future-a-review/"><u>[Updated] 2024 Approved Streaming Into the Future A Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-top-picks-streaming-tunes-directly-from-youtuberingtones/"><u>[Updated] 2024 Approved Top Picks Streaming Tunes Directly From YoutubeRingtones</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-choreographing-a-memorable-tiktok-fade-out/"><u>2024 Approved Choreographing a Memorable TikTok Fade-Out</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-supplements-for-superior-gopro-performance/"><u>2024 Approved Superior Supplements for Superior Gopro Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-issues-with-unresponsive-dell-wireless-keyboards/"><u>Diagnosing and Repairing Issues with Unresponsive Dell Wireless Keyboards</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-guide-solving-not-connected-errors-with-your-pcs-ethernet-on-windows-11-and-7/"><u>Easy Guide: Solving 'Not Connected' Errors with Your PC's Ethernet on Windows 11 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-for-optimizing-your-file-explorer-experience-in-windows-11/"><u>Effortless Solutions for Optimizing Your File Explorer Experience in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortlessly-enjoy-videos-again-your-guide-to-correcting-error-code-224003/"><u>Effortlessly Enjoy Videos Again - Your Guide to Correcting Error Code 224003</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-windows-1night-light-failure-in-windows-11-with-easy-steps/"><u>Fix Windows 1Night Light Failure in Windows 11 with Easy Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-vanishing-mouse-pointer-in-windows-11-a-complete-guide/"><u>Fixing the Vanishing Mouse Pointer in Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/improving-nonworking-diagnostics-for-win10win11/"><u>Improving Nonworking Diagnostics for Win10/Win11</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-best-ios-and-android-apps-you-can-use-to-create-animoji-and-memoji-videos/"><u>New 2024 Approved Best iOS and Android Apps You Can Use to Create Animoji and Memoji Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-why-isnt-the-character-functioning/"><u>Solution Guide: Why Isn’t the '@' Character Functioning?</u></a></li>
+</ul></div>
 

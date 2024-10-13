@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Character Errors in Keyboard Input: Effective Techniques and Tips"
-date: 2024-09-10T16:08:22.480Z
-updated: 2024-09-15T16:05:05.404Z
+date: 2024-10-06T01:43:47.483Z
+updated: 2024-10-12T16:11:52.113Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/5bcf8cebc4ec75a2f2c5443679e92acacca4bb84e
 5. **[Check for Windows updates](#e)**
 6. **[Reconnect your keyboard to your computer](#f)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable Num Lock
 
  If your keyboard starts typing numbers instead of letters, you probably enable Num Lock by mistake. In this case, disabling Num Lock can fix your problem. Here is how to do it:
@@ -41,11 +48,25 @@ thumbnail: https://thmb.techidaily.com/5bcf8cebc4ec75a2f2c5443679e92acacca4bb84e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/keyboard-162134_1280-1024x512.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **If you don’t have a NUM key** (if you’re using a laptop), you’ll need to press the**FN key** and the**CAPS Lock key** instead.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/keyboard-311803_1280-1-1024x512.png)
 
  Hope your keyboard is back to normal now. If not, read on and try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Switch between your keyboard layouts
 
@@ -62,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/5bcf8cebc4ec75a2f2c5443679e92acacca4bb84e
  If your keyboard map still won’t match the letters on your keys, move on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Run the keyboard troubleshooter
@@ -78,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/5bcf8cebc4ec75a2f2c5443679e92acacca4bb84e
 **1)** On your keyboard, press the**Windows logo** key and type**troubleshoot** . Then, select**Troubleshoot settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-534.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Click**Keyboard** , then click**Run the troubleshooter** .
 
@@ -130,6 +144,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-229.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -148,16 +169,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Restart your computer after the update is complete. Then, check if your keyboard is able to function properly.
 
 If your problem persists, check the fix 6, below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Reconnect your keyboard to your PC
 
@@ -190,19 +211,6 @@ If your problem persists, check the fix 6, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-246.png)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Wait for 3 minutes, then connect the receiver either into the back or front of your computer.
 
 **4)** Restart your computer to test your issue.
@@ -227,5 +235,18 @@ If your problem persists, check the fix 6, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-comprehensive-guide-for-high-quality-presentation-capture/"><u>[Updated] In 2024, Comprehensive Guide for High-Quality Presentation Capture</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-analysis-of-best-no-fee-livestream-options-on-all-devices/"><u>2024 Approved In-Depth Analysis of Best No-Fee LiveStream Options on All Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-perfect-your-presence-masterful-morphvox-techniques/"><u>2024 Approved Perfect Your Presence Masterful MorphVOX Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fix-for-missing-desktop-icons-on-microsofts-latest-os/"><u>Comprehensive Fix for Missing Desktop Icons on Microsoft's Latest OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-restore-your-keyboards-functionality/"><u>How to Successfully Restore Your Keyboard's Functionality</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/pro-tools-pro-results-elevating-video-quality-in-youtube-editing/"><u>Pro Tools, Pro Results Elevating Video Quality in YouTube Editing</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-touchpad-navigation-failures-a-comprehensive-guide/"><u>Resolving Windows 11 Touchpad Navigation Failures: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/troubleshooting-ea-app-issues-effective-solutions-to-restore-functionality/"><u>Troubleshooting EA App Issues: Effective Solutions to Restore Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-right-click-issues-on-windows-11/"><u>Troubleshooting Guide: Fixing Right-Click Issues on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-restoring-your-keyboard-back-to-default-settings/"><u>Troubleshooting Tips: Restoring Your Keyboard Back to Default Settings</u></a></li>
+</ul></div>
 

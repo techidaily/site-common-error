@@ -1,7 +1,7 @@
 ---
 title: Simple Fixes for When Your USB Stick Isn't Working
-date: 2024-10-01T09:39:44.486Z
-updated: 2024-10-06T22:44:56.793Z
+date: 2024-10-10T18:53:16.266Z
+updated: 2024-10-12T18:09:35.136Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your audio driver
@@ -54,20 +54,19 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
@@ -91,21 +90,20 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
@@ -128,6 +126,13 @@ Here’s how:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Check your in-game audio settings
 
  If the fixes above didn’t help, then you might want to adjust your in-game audio settings to see if it works. To do so:
@@ -137,6 +142,14 @@ Here’s how:
 3. Make sure**GROUP VOICE CHAT** and**TEAM VOICE CHAT** are set to**AUTO JOIN, the right device selected** for**VOICE CHAT DEVICES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04c7f097042.jpg)  
  If your voice chat is set to**Push To Talk** , try changing the keybind for Voice Chat:**Push To Talk** to a different key in the Controls menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Join in the team chat, test to see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
@@ -162,24 +175,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-cutting-edge-recording-nintendo-switch-edition/"><u>[New] In 2024, Cutting-Edge Recording Nintendo Switch Edition</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-visual-vibes-top-story-filter-rankings/"><u>[Updated] In 2024, Visual Vibes Top Story Filter Rankings</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-commencing-shoot-critical-overview/"><u>2024 Approved Commencing Shoot Critical Overview</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-discover-the-potential-detailed-look-at-showmore-as-your-recording-companion/"><u>2024 Approved Discover the Potential Detailed Look at ShowMore as Your Recording Companion</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209054213-easy-ways-to-fix-error-code-0x80070002-during-windows-system-updates-now/"><u>Easy Ways to Fix Error Code 0X80070002 During Windows System Updates - Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-remedies-for-the-failed-to-initialize-directx-problem/"><u>Effective Remedies for the 'Failed to Initialize DirectX' Problem</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/eliminated-visual-glitches-in-dell-ultrabook/"><u>Eliminated Visual Glitches in Dell Ultrabook</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-a-blinking-cursor-simple-troubleshooting-steps/"><u>Fix a Blinking Cursor: Simple Troubleshooting Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-address-and-rectify-red-screen-malfunctions/"><u>How to Successfully Address and Rectify Red Screen Malfunctions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-motorola-moto-g84-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Motorola Moto G84 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-leveraging-cloud-based-voice-storage-a-closer-look-at-vocaroos-capabilities-for-2024/"><u>New Leveraging Cloud-Based Voice Storage A Closer Look at Vocaroos Capabilities for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/privacy-first-approach-timeline-for-end-to-end-encryption-in-fb-messenger/"><u>Privacy-First Approach: Timeline for End-to-End Encryption in FB Messenger</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-minecraft-error-code-5-a-step-by-step-guide/"><u>Resolving Minecraft Error Code 5: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-network-connection-issues-in-dragon-ball-fighterz-gameplay/"><u>Resolving Network Connection Issues in Dragon Ball FighterZ Gameplay</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackle-error-code-0x887a0006-easy-fixes-for-immediate-relief/"><u>Tackle Error Code 0X887A0006: Easy Fixes for Immediate Relief!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-misuse-of-ai-for-cybercrimes-discovering-5-key-tactics/"><u>The Misuse of AI for Cybercrimes - Discovering 5 Key Tactics</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-inability-of-application-to-launch-correctly-error-0xc000007b/"><u>Troubleshooting and Fixing the Inability of Application to Launch Correctly [Error 0XC000007B]</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-nonfunctioning-camera-on-lenovo-computers-expert-advice/"><u>Troubleshooting the Nonfunctioning Camera on Lenovo Computers - Expert Advice</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/uncovering-8-affordable-platform-agnostic-virtual-communication-tools-for-2024/"><u>Uncovering 8 Affordable, Platform-Agnostic Virtual Communication Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-facebooks-high-def-download-routes/"><u>[New] Navigating Facebook's High-Def Download Routes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-best-8-platforms-for-professional-linux-editing/"><u>[Updated] Best 8 Platforms for Professional Linux Editing</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-repairing-your-oculus-devices-technical-glitches-this-year/"><u>Expert Guide: Repairing Your Oculus Device's Technical Glitches This Year</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-moto-g73-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Moto G73 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-endless-loop-resolving-your-windows-11-or-10-continuous-reboot-issue/"><u>Fixing the Endless Loop: Resolving Your Windows 11 or 10 Continuous Reboot Issue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-access-the-high-level-command-prompt-in-w11-os/"><u>How to Access the High-Level Command Prompt in W11 OS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-asus-rog-phone-7-ultimate-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Asus ROG Phone 7 Ultimate Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-y100t-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo Y100t to Roku | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-pro-iphone-hdr-photos-made-easy/"><u>In 2024, Pro iPhone HDR Photos Made Easy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-stream-controls-netflix-edition/"><u>Mastering the Art of Stream Controls - Netflix Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-unspecified-error-0x80004005-in-outlook-a-comprehensive-troubleshooting-manual/"><u>Overcoming 'Unspecified Error' (0X8^_^0004005) in Outlook: A Comprehensive Troubleshooting Manual</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-lack-of-sound-in-windows-11-a-comprehensive-fix-for-the-no-audio-device-error/"><u>Overcoming the Lack of Sound in Windows 11: A Comprehensive Fix for the No Audio Device Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/screen-fades-out-unsolved-mystery/"><u>Screen Fades Out: Unsolved Mystery</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repair-tips-when-your-usb-mouse-fails-on-laptop/"><u>Troubleshooting and Repair Tips When Your USB Mouse Fails on Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-step-by-step-guide-to-mastering-file-explorer-on-windows-10-systems/"><u>Ultimate Step-by-Step Guide to Mastering File Explorer on Windows 10 Systems</u></a></li>
 </ul></div>
 

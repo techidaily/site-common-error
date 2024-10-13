@@ -1,7 +1,7 @@
 ---
 title: "Solved: How To Restore Functionality in Windows 11 Sound Volume Buttons"
-date: 2024-09-13T16:00:32.424Z
-updated: 2024-09-15T16:02:53.067Z
+date: 2024-10-11T22:19:05.117Z
+updated: 2024-10-13T02:52:35.174Z
 tags:
   - win11
   - win10
@@ -68,6 +68,14 @@ If your computer is running Windows 10:
 2. Click**Ease of Access** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b76653d6e392.jpg)
 3. Click**Keyboard.** Then look at the status of**Use Sticky Keys** ,**Use Toggle Keys** ,**Use Filter Keys** . If any of them is On, switch to Off. Then move on to the next step. If all of them stay Off, move on to the next method.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7665bdbd9d8.jpg)
 
 If your computer is running Windows 11:
@@ -76,6 +84,14 @@ If your computer is running Windows 11:
 2. From the left navigation panel, select **Accessibility** , then click **Keyboard**  from the right.  
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle **Off**  Sticky keys, Filter keys, and Toggle keys.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off.jpg)
 
 If your computer is running Windows 7:
@@ -85,6 +101,14 @@ If your computer is running Windows 7:
 2. Click **Ease of Access** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766794641a7.jpg)
 3. Click **Change how your keyboard works** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766866a67e4.jpg)
 4. Make sure the three items **Turn on Sticky Keys** , **Turn on Toggle Keys** , and **Turn on Filter Keys**  are unchecked.
 
@@ -93,6 +117,13 @@ Try to type some words using your keyboard to see if it works.
  If you could type using your keyboard, great! If your keyboard keeps not typing, don’t worry, try something else below…
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Reinstall your keyboard driver
 
@@ -108,16 +139,10 @@ See how to do it:
 4. Once you do, restart your computer. Windows should then reinstall the driver for your keyboard automatically.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try to type some words using your keyboard to see if it works. If you type successfully, great! If you still aren’t able to type on your keyboard, don’t feel frustrated, move on to the next method.
@@ -138,30 +163,25 @@ See how to do it:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766c7750279.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b766e1dcd420.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Try this fix if you’re using a USB keyboard
 
@@ -204,5 +224,23 @@ Try to type some words using your keyboard to see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-tactics-resolving-cod-warzone-bug-6328-with-pro-players-insights-latest-update/"><u>Call of Duty Tactics: Resolving Cod Warzone Bug #6328 with Pro Players' Insights (Latest Update)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/driver-upgrade-for-scansnap-s1500/"><u>Driver Upgrade for Scansnap S1500</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-when-your-geforce-experience-cant-access-its-configurations-anymore/"><u>Expert Tips for When Your GeForce Experience Can't Access Its Configurations Anymore</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-seamlessly-transform-mov-videos-into-mp4-on-macos-the-7-best-methods/"><u>How To Seamlessly Transform MOV Videos Into MP4 on macOS - The 7 Best Methods</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-iphone-and-android-gopro-apps-cutting-edge-edits/"><u>Ideal iPhone & Android GoPro Apps Cutting-Edge Edits</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-6s-5-ways-to-get-into-a-locked-apple-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 6s? 5 Ways to get into a Locked Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-nokia-g42-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Nokia G42 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-minecraft-problems-eradicate-error-code-5-once-and-for-all/"><u>Mastering Minecraft Problems: Eradicate Error Code 5 Once & For All</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-mystery-of-muted-steam-titles-fast-and-effective-tips/"><u>Solving the Mystery of Muted Steam Titles - Fast and Effective Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-fixing-error-0xc1900208-during-windows-10-updates/"><u>Step-by-Step Solution for Fixing Error 0xC1900208 During Windows 10 Updates</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/0-vr-videos-on-youtube-to-have-immersive-experience/"><u>Top 10 VR Videos on YouTube to Have Immersive Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-airpods-connectivity-problems-with-windows-1011-latest-fixes/"><u>Troubleshoot and Repair AirPods Connectivity Problems with Windows 10/11 - Latest Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-elevated-cpu-consumption-in-wdf-environments-for-optimal-operation/"><u>Troubleshooting Elevated CPU Consumption in WDF Environments for Optimal Operation</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-service-registry-missing-issue-in-windows-11/"><u>Troubleshooting the 'Service Registry Missing' Issue in Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Infinix Note 30 5G? | Dr.fone</u></a></li>
+</ul></div>
 

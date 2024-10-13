@@ -1,7 +1,7 @@
 ---
 title: Keyboard Not Working? Here's How You Can Fix It on Windows 11, 7, or 8!
-date: 2024-10-03T18:52:39.584Z
-updated: 2024-10-07T08:20:53.357Z
+date: 2024-10-12T02:25:29.918Z
+updated: 2024-10-12T16:29:06.622Z
 tags:
   - win11
   - win10
@@ -41,15 +41,22 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 4. Plug the power cable and the battery back into your laptop.
 5. Power on your computer. Then check to see if this fixes your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Disable Filter Keys
 
 **Filter Keys** is a feature that makes your keyboard ignore brief or repeated keystrokes. It sometimes leads to the issue of the laptop keyboard not working. You can try**disabling Filter Keys** to sort this issue out.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Windows 10
@@ -60,25 +67,18 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a118a26bf.png)
 3. Click **Keyboard** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a1f8bb7c8.png)
 4. Disable the Filter Keys function (switch off**Filter Keys** or uncheck**Turn on Filter Keys** ).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a38f0341d.png)
 5. Try your keyboard and see if disabling Filter Keys can restore your keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Windows 11
 
@@ -86,15 +86,15 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 2. Go to**Accessibility > Keyboard** .![Windows 11 - disable filter keys via Settings](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle**Off** Filter keys.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Filter-keys-Off.jpg)
 4. Now try using your keyboard and see if disabling Filter Keys can restore your keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Update your keyboard driver
 
@@ -112,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -147,20 +147,22 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-crafting-exceptional-freefire-content-on-youtube-platforms/"><u>[New] 2024 Approved Crafting Exceptional FreeFire Content on YouTube Platforms</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-expert-techniques-for-superior-quality-in-zoom-meetings-for-2024/"><u>[New] Expert Techniques for Superior Quality in Zoom Meetings for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-enhancing-on-screen-appeal-essential-tips-for-talking-head-shots/"><u>[New] In 2024, Enhancing On-Screen Appeal Essential Tips for Talking-Head Shots</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-harmony-hub-tech-evolution/"><u>[New] In 2024, Harmony Hub Tech Evolution</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-a-comprehensive-overview-of-adding-roles-in-discord/"><u>[Updated] In 2024, A Comprehensive Overview of Adding Roles in Discord</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-adobe-storage-manual-and-beyond-options/"><u>2024 Approved Comprehensive Adobe Storage Manual & Beyond Options</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-a-non-charging-plugged-in-surface-pc-easy-tips-and-solutions/"><u>Dealing with a Non-Charging Plugged In Surface PC: Easy Tips and Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-no-playable-source-error-in-windows-a-comprehensive-guide/"><u>Fixing the 'No Playable Source' Error in Windows - A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-11-startup-freezing-problems-effectively/"><u>How to Resolve Windows 11 Startup Freezing Problems Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-persistent-screen-shaking-problems-within-windows-tenth-generation/"><u>Overcoming the Persistent Screen Shaking Problems Within Windows Tenth Generation</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-installation-issue-error-code-0x800f081f-during-net-framework-35-setup/"><u>Resolving Installation Issue: Error Code 0X800F081F During .NET Framework 3.5 Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-escaping-from-windows-10s-never-ending-restart-cycle/"><u>Step-by-Step Troubleshooting: Escaping From Windows 10'S Never-Ending Restart Cycle</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-top-picks-and-performance-reviews/"><u>Tom's Tech Hub: Top Picks and Performance Reviews</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-binkw32dll-errors-for-smooth-computer-operation/"><u>Troubleshooting binkw32.dll Errors for Smooth Computer Operation</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-best-bokeh-effects-apps/"><u>Updated Best Bokeh Effects Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-how-to-upload-without-rt-video-tweets/"><u>[New] 2024 Approved How to Upload Without RT Video Tweets</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-navigating-to-the-best-10-affordable-online-channels-for-graphic-design/"><u>[New] In 2024, Navigating to the Best 10 Affordable Online Channels for Graphic Design</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unleash-the-potential-of-your-gopro-streaming-made-easy-on-facebookperiscope/"><u>[Updated] Unleash the Potential of Your Gopro Streaming Made Easy on Facebook/Periscope</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-darkness-expert-tips-for-solving-obs-game-capturing-issues/"><u>Beat the Darkness: Expert Tips for Solving OBS Game Capturing Issues</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/best-15-luts-for-enhanced-gopro-footage-quality-for-2024/"><u>Best 15 LUTs for Enhanced GoPro Footage Quality for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205038782-breeze-through-windows-11s-persistent-restart-issue-easy-solutions-inside/"><u>Breeze Through Windows 11'S Persistent Restart Issue - Easy Solutions Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-and-tips-for-resolving-the-ce-34878-code-on-your-ps4-console/"><u>Effective Fixes and Tips for Resolving the 'CE-34878' Code on Your PS4 Console</u></a></li>
+<li><a href="https://common-error.techidaily.com/feature-update-to-windows-10-version-1803-failed-solved/"><u>Feature Update to Windows 10 Version 1803 Failed [SOLVED]</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-pc-restart-overcoming-trouble-with-windows-10-power-down/"><u>Mastering PC Restart: Overcoming Trouble with Windows 10 Power Down</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavicr2png/"><u>Movaviで簡単にCR2画像をPNGに自由許可で変換:無料オンラインツール</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/shadow-flight-new-camera-frontier/"><u>Shadow Flight New Camera Frontier</u></a></li>
+<li><a href="https://common-error.techidaily.com/steam-game-installation-woes-fixing-disk-write-problems-made-simple/"><u>Steam Game Installation Woes? Fixing Disk Write Problems Made Simple</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-downfall-critical-error-detected/"><u>System Downfall: Critical Error Detected</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-tecno-pova-6-pro-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Tecno Pova 6 Pro 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-pcs-wireless-adapter-realtek-rtl8188cu-driver-for-windows-versions/"><u>Update Your PC's Wireless Adapter: Realtek RTL8188CU Driver for Windows Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-arent-the-function-keys-responding-solving-problems-with-your-asus-laptop/"><u>Why Aren't the Function Keys Responding? Solving Problems with Your Asus Laptop</u></a></li>
 </ul></div>
 

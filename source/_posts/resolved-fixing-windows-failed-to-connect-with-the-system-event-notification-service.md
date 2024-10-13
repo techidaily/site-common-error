@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing 'Windows Failed to Connect with the System Event Notification Service'"
-date: 2024-10-03T21:44:00.855Z
-updated: 2024-10-07T05:04:24.384Z
+date: 2024-10-05T22:29:07.552Z
+updated: 2024-10-12T17:21:21.072Z
 tags:
   - win11
   - win10
@@ -39,16 +39,10 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 ---
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
@@ -57,26 +51,26 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 
 1. Type **network**  in the search box from Start. Then click **Network status**  from the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be292e88d6b9.jpg)
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
-3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
 
@@ -85,24 +79,37 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 3. Click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
@@ -113,10 +120,10 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
@@ -131,6 +138,14 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0e8904a209.jpg)
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
 5. Try the Cast to Device feature again to see if it succeeds.
@@ -156,18 +171,19 @@ thumbnail: https://thmb.techidaily.com/58350f5e2ca7fe4c9025e8f16557c12c6fe252de2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-from-light-to-shadow-premiere-pro-transitions/"><u>[Updated] From Light to Shadow Premiere Pro Transitions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-pros-pathway-to-professionalism-making-videos-using-a-phone/"><u>[Updated] The Pro's Pathway to Professionalism Making Videos Using a Phone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-12-selection-of-smart-flip-screen-vlog-cameras/"><u>[Updated] The Ultimate 12 Selection of Smart Flip-Screen Vlog Cameras</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-comprehensive-lookup-experience-the-world-in-virtual-reality/"><u>2024 Approved Comprehensive Lookup Experience the World in Virtual Reality</u></a></li>
-<li><a href="https://common-error.techidaily.com/dispelling-the-gloom-expert-tips-for-resolving-black-screens-on-launch-in-monster-hunter-world/"><u>Dispelling the Gloom: Expert Tips for Resolving Black Screens on Launch in Monster Hunter: World</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-overwatch-voice-communication-problems-quickly-and-effortlessly/"><u>Fix Your Overwatch Voice Communication Problems Quickly & Effortlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-nonfunctional-brightness-settings-on-windows-11/"><u>Fixing Nonfunctional Brightness Settings on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-unfreeze-your-pc-during-windows-11-launch-sequence/"><u>How to Unfreeze Your PC During Windows 11 Launch Sequence</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-direct-conversion-of-spotify-music-5-tools-for-youtube-streaming/"><u>In 2024, Direct Conversion of Spotify Music 5 Tools for YouTube Streaming</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-xiaomi-14-ultra-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Xiaomi 14 Ultra Phone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-mouse-scroll-dysfunctionality-on-your-laptops-touchpad-windows-10/"><u>Resolving Mouse Scroll Dysfunctionality on Your Laptop's Touchpad (Windows 10)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-resolving-windows-ebyten-10-touchscreen-issues-a-step-by-step-guide/"><u>Troubleshooting and Resolving Windows Ebyten 10 Touchscreen Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/m-waves-prime-ed-channels-online-for-2024/"><u>Wisdom Waves Prime Ed Channels Online for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfecting-narrative-scripts-dialogue-excellence/"><u>2024 Approved Perfecting Narrative Scripts Dialogue Excellence</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-tecno-pova-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-mousepad-driver-download-guide-for-windows-users/"><u>ASUS Mousepad Driver Download Guide for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-back-in-the-game-solving-common-issues-with-minecrafts-lan-setup/"><u>Get Back in the Game: Solving Common Issues with Minecraft's LAN Setup</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-asus-ac68-usb-wifi-driver-for-seamless-connectivity/"><u>Get the Newest ASUS AC68 USB WiFi Driver for Seamless Connectivity</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-audio-problems-in-windows-107-fix-crackling-sounds/"><u>How to Troubleshoot Audio Problems in Windows 10/7 – Fix Crackling Sounds</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/introducing-the-new-modular-laptop-with-advanced-intel-core-processors/"><u>Introducing the New Modular Laptop with Advanced Intel Core Processors</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-your-screens-brightness-blues-fixes-for-windows-10-problems/"><u>Overcome Your Screen’s Brightness Blues: Fixes for Windows 10 Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-windows-11-touchscreen-problems-quickly-using-this-5-part-strategy/"><u>Resolve Windows 11 Touchscreen Problems Quickly Using This 5-Part Strategy</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-premier-choice-in-iphones-thorough-review-and-cost-evaluation-of-the-iphone-xs-max/"><u>The Premier Choice in iPhones – Thorough Review & Cost Evaluation of the iPhone XS Max</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-night-light-doesnt-work-on-windows-10-and-11-systems/"><u>Troubleshooting: Night Light Doesn't Work on Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unboxing-t5s-capability-as-a-sports-recorder/"><u>Unboxing T5's Capability as a Sports Recorder</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unstuck-from-silence-effective-fixes-for-non-responsive-voice-chat-in-destiny-2/"><u>Unstuck From Silence: Effective Fixes for Non-Responsive Voice Chat in Destiny 2</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-bluetooth-problems-a-step-by-step-guide-to-detecting-devices-easily/"><u>Windows 10 Bluetooth Problems? A Step-by-Step Guide to Detecting Devices Easily</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Unresponsive Audio Devices in Windows with Easy Tips
-date: 2024-10-04T19:53:28.988Z
-updated: 2024-10-07T01:49:26.356Z
+date: 2024-10-09T17:57:44.255Z
+updated: 2024-10-13T00:26:45.380Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/f07aba0aa676c9e76b44feb60efd0a45624266536
 If the issue remains, continue to the advanced fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -55,14 +55,22 @@ To do so, first you need to uninstall the Bluetooth driver:
 1. On your keyboard, press **Win+R** (the Windows logo key and the R key) at the same time to invoke the Run box. Type or paste **devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/devmgmt-msc-ok.jpg)
 2. In the pop-up window, double-click **Bluetooth** to expand the category. Then right-click your Bluetooth adapter and select **Uninstall device** . (If you don’t see a Bluetooth adapter, try using [Driver Easy](https://tools.techidaily.com/drivereasy/download/) to scan for missing drivers.)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/device-manager-uninstall-bluetooth-driver.jpg)  
  To identify the Bluetooth adapter, one common method is to look for the name that**starts with a manufacturer** (e.g. Intel, Qualcomm or Realtek) and**ends with a “Bluetooth”** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. In the pop-up window, check the box next to **Delete the driver software for this device** . Then click **Uninstall** .  
@@ -106,6 +114,14 @@ To do so, first you need to uninstall the Bluetooth driver:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -118,10 +134,10 @@ To do so, first you need to uninstall the Bluetooth driver:
 3. Then click**Check for updates** . Windows will then check if there are any newly released updates. If so, it will automatically download and install the updates for you. It might take some time.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-2.jpg)
@@ -140,43 +156,35 @@ To do so, first you need to uninstall the Bluetooth driver:
 2. In address bar of the pop-up window, type or paste **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class{e0cbf06c-cd8b-4647-bb8a-263b43f0f974}** and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods.jpg)
 3. At the empty area, right-click and move your cursor to**New** to expand the list. Select**String Value** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods-2.jpg)
 4. Rename the new entry to**PnPCapabilities** . Right click it and select**Modify…**  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods-4.jpg)
 5. In the pop-up window, click the input area under**Value data** :, then type or paste**24** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods-5.jpg)
 6. Now restart your computer and test your AirPods.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -199,18 +207,22 @@ To do so, first you need to uninstall the Bluetooth driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-rise-above-reach-heights-5-tips-to-skyrocket-your-visibility/"><u>[Updated] 2024 Approved Rise Above, Reach Heights 5 Tips to Skyrocket Your Visibility</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/20plus-hashes-to-skyrocket-your-short-films-popularity-for-2024/"><u>20+ Hashes to Skyrocket Your Short Film's Popularity for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-enhance-your-page-posts-amidst-facebooks-shift/"><u>2024 Approved How to Enhance Your Page Posts Amidst Facebook's Shift</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-link-it-up-sharing-youtube-on-ig-snapshots/"><u>2024 Approved Link It Up! Sharing YouTube on IG Snapshots</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-samsung-galaxy-z-fold-5-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Samsung Galaxy Z Fold 5 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/efficiently-producing-quality-videos-on-the-latest-windows-os/"><u>Efficiently Producing Quality Videos on the Latest Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-address-event-id-1solved-1000-malfunctioning-on-different-windows-platforms/"><u>How to Correctly Address Event ID 1([Solved] 1000) Malfunctioning on Different Windows Platforms</u></a></li>
-<li><a href="https://common-error.techidaily.com/hp-laptop-usb-connection-issues-expert-solutions-to-get-your-port-working-again/"><u>HP Laptop USB Connection Issues? Expert Solutions to Get Your Port Working Again!</u></a></li>
-<li><a href="https://common-error.techidaily.com/reignite-touchpad-visibility-in-device-listings/"><u>Reignite Touchpad Visibility in Device Listings</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-typical-gpt-car-related-setup-glitches-and-fixes/"><u>Top 6 Typical GPT Car-Related Setup Glitches & Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-non-functional-usb-ports-on-windows-10-and-11/"><u>Troubleshooting Non-Functional USB Ports on Windows 10 and 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-tutorial-loading-and-enjoying-dvd-movies-with-nintendos-wii-and-wii-u-systems/"><u>Ultimate Tutorial: Loading & Enjoying DVD Movies with Nintendo's Wii & Wii U Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-5-best-snipping-tools-for-mac/"><u>[New] 2024 Approved 5 Best Snipping Tools for Mac</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-precision-in-sound-cutting-out-unwanted-volume/"><u>[New] In 2024, Precision in Sound Cutting Out Unwanted Volume</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-vision-and-flavor-shooting-the-best-food-videos/"><u>[Updated] 2024 Approved Vision and Flavor Shooting the Best Food Videos</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005130802-destiny-nix-launch-hitches-on-desktops-heres-your-step-by-step-solution/"><u>Destiny Nix Launch Hitches on Desktops? Here's Your Step-by-Step Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-correcting-error-code-d3derrnotavailable-on-your-device/"><u>Expert Advice: Correcting Error Code D3DERR_NOTAVAILABLE on Your Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unresponsive-keyboard-buttons-in-windows-10-and-11-a-step-by-step-guide/"><u>Fixing Unresponsive Keyboard Buttons in Windows 10 and 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-past-the-stuck-screen-initialization-issues-in-destiny-2-solved/"><u>Get Past the Stuck Screen: Initialization Issues in Destiny 2 Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-switch-on-bluetooth-for-windows-7-systems-successfully-comprehensive-fixes-inside/"><u>How to Switch On Bluetooth for Windows 7 Systems Successfully - Comprehensive Fixes Inside</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-autofocus-plus-next-gen-hdr-image-processing-explained/"><u>In 2024, Autofocus Plus Next-Gen HDR Image Processing Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/instant-remedies-to-stop-your-division-2-crashes-in-their-tracks/"><u>Instant Remedies to Stop Your Division 2 Crashes in Their Tracks</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-the-crimson-crash-simple-solutions-for-red-screen-troubleshooting/"><u>Overcome the Crimson Crash: Simple Solutions for Red Screen Troubleshooting</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211607285-pdf-printing-problems-solved-top-5-instant-fixes-revealed/"><u>PDF Printing Problems Solved: Top 5 Instant Fixes Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-repair-your-nonfunctional-huion-pen-in-under-5-minutes/"><u>Quick Solutions: Repair Your Nonfunctional Huion Pen in Under 5 Minutes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-2024-smartphone-mounts-ranking-for-perfect-video-shooting-experience/"><u>Ultimate 2024 Smartphone Mounts Ranking for Perfect Video Shooting Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-turing-test-how-close-are-we-to-outsmarting-ai/"><u>Understanding the Turing Test - How Close Are We to Outsmarting AI?</u></a></li>
+<li><a href="https://common-error.techidaily.com/variable-rate-inflow-control-structures-can-help-maintain-consistent-detention-times-and-optimize-sedimentation-conditions-during-peak-flow-events/"><u>Variable-Rate Inflow Control Structures Can Help Maintain Consistent Detention Times and Optimize Sedimentation Conditions During Peak Flow Events.</u></a></li>
 </ul></div>
 

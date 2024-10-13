@@ -1,7 +1,7 @@
 ---
 title: Diagnose and Correct Inactive Microphone Issues in Windows 10
-date: 2024-09-30T23:06:03.892Z
-updated: 2024-10-06T20:55:25.829Z
+date: 2024-10-06T23:33:24.482Z
+updated: 2024-10-12T21:32:16.823Z
 tags:
   - win11
   - win10
@@ -138,22 +138,15 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84e855e5ac.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, click**Manage your account** or**User Accounts** in the list of results. Then in the window popping up, you will see your account name and the account type.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84fe1ae64a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e84ff74c632.jpg)
 
@@ -165,9 +158,23 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e6d7b9e5fd1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click the**Security** tab, and then the**Edit** button. This will open the Permissions dialog for this file or folder, which allows you to change the permissions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e822552e434.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** In the**Group or users names** box, click your name (the name you use to log into this computer). Then, in the Permissions for Users box, select the**Allow** check box of**Full control** (this will allow you to have full control to access and modify this file or folder). After that, click**OK** to apply the changes and exit this dialog.
 
@@ -177,27 +184,14 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e8249a9c44d.png)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  If this method works for you, you won’t get the access denied error when you try to open or modify the file or folder.  
   
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Recover your data
@@ -221,18 +215,20 @@ thumbnail: https://thmb.techidaily.com/cf1ae4b3cdb5debdafe3b02949517a45048f6142d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-heimdalls-eye-the-watchers-of-ragnarok/"><u>[New] 2024 Approved Heimdall's Eye The Watchers of Ragnarok</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-seamless-online-media-dissemination-on-vimeo/"><u>[New] 2024 Approved Seamless Online Media Dissemination on Vimeo</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-transforming-video-conferencing-with-zoom-and-youtube-for-impactful-live-events/"><u>[Updated] 2024 Approved Transforming Video Conferencing with Zoom and YouTube for Impactful Live Events</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-vimeo-video-on-instagram-feed/"><u>2024 Approved Mastering Vimeo Video on Instagram Feed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/avchd-on-htc-u23-convert-mts-for-htc-u23-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD on HTC U23-convert MTS for HTC U23</u></a></li>
-<li><a href="https://common-error.techidaily.com/conquering-gpu-overuse-by-the-dwm-a-guide-to-5-strategies-for-better-efficiency-in-windows-operating-systems/"><u>Conquering GPU Overuse by the DWM: A Guide to 5 Strategies for Better Efficiency in Windows Operating Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-for-repairing-session-error-messages-in-palworld-searches/"><u>Expert Tips for Repairing Session Error Messages in Palworld Searches</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-the-absent-vcruntime140dll-error-in-your-pc-easily/"><u>How to Resolve the Absent VCRuntime140.dll Error in Your PC Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/minecraft-not-working-update-your-video-card-drivers-for-a-smooth-gaming-experience-on-windows/"><u>Minecraft Not Working? Update Your Video Card Drivers for a Smooth Gaming Experience on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-file-not-found-errors-effective-solutions-unveiled/"><u>Resolving 'File Not Found' Errors: Effective Solutions Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-dead-usb-to-display-link-steps-to-get-that-hdmi-connection-up-and-running/"><u>Revive Your Dead USB to Display Link: Steps to Get That HDMI Connection Up and Running</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-microphone-and-sound-card-problems-on-microsofts-latest-windows-systems-win7-win10-and-win11/"><u>Solving Microphone and Sound Card Problems on Microsoft's Latest Windows Systems (Win7, Win10 & Win11)</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-on-repairing-a-failed-remote-server-link/"><u>Step-by-Step Tutorial on Repairing a Failed Remote Server Link</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-crafting-compelling-podcast-intros-tips-and-samples/"><u>[New] Crafting Compelling Podcast Intros Tips & Samples</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-video-insights-top-7-free-easy-to-use-tag-extraction-software-reviewed/"><u>[Updated] Unlock Video Insights Top 7 Free, Easy-to-Use Tag Extraction Software Reviewed</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-smart-7-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix Smart 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dive-into-digital-devices-with-toms-hardware-insider-tips/"><u>Dive Into Digital Devices with Tom's Hardware Insider Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-solutions-to-restore-your-laptops-touchpad-functionality-expert-advice-and-tips/"><u>Efficient Solutions To Restore Your Laptop's Touchpad Functionality – Expert Advice & Tips</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/gps-or-cellular-understanding-differences-in-apple-watch-connectivity-options/"><u>GPS or Cellular? Understanding Differences in Apple Watch Connectivity Options</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-vanished-desktop-icons-in-windows-11-a-complete-guide/"><u>How to Restore Vanished Desktop Icons in Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-honor-x50iplus-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Honor X50i+ to New Phone | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210658486-no-show-on-sd-recognition-lets-fix-it/"><u>No-Show on SD Recognition? Let's Fix It</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-to-reactivate-your-frozen-google-chrome-browser/"><u>Quick Solutions to Reactivate Your Frozen Google Chrome Browser</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015627116-resolve-bluetooth-audio-delay-in-no-time-with-these-simple-fixes/"><u>Resolve Bluetooth Audio Delay in No Time with These Simple Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-eliminating-deadly-bugs-in-black-ops-4/"><u>Step-by-Step Solution: Eliminating Deadly Bugs in Black Ops 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-with-win-10s-long-lasting-goodbyes-here-are-the-fixes-you-need/"><u>Trouble with Win 10'S Long-Lasting Goodbyes? Here Are the Fixes You Need!</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/ultimate-tutorial-how-to-perform-a-perfect-wd-ssd-cloning-process-in-windows-11/"><u>Ultimate Tutorial: How to Perform a Perfect WD SSD Cloning Process in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstick-your-unresponsive-usb-mouse-laptop-troubleshooting-steps-for-immediate-relief/"><u>Unstick Your Unresponsive USB Mouse: Laptop Troubleshooting Steps for Immediate Relief</u></a></li>
 </ul></div>
 

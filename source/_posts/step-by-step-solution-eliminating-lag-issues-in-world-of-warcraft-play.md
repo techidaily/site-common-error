@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Eliminating Lag Issues in World of Warcraft Play"
-date: 2024-09-17T16:35:14.699Z
-updated: 2024-09-20T17:30:13.768Z
+date: 2024-10-05T16:25:18.453Z
+updated: 2024-10-12T23:14:51.096Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -56,6 +63,13 @@ Follow these:
 #### on Windows 10
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click **Ease of Access** .
 
@@ -74,6 +88,13 @@ Follow these:
  2) From the left navigation panel, select**Accessibility** , then click**Keyboard** from the right.
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
@@ -96,6 +117,13 @@ Follow these:
  2) Run Driver Easy and click the **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers. Your keyboard driver is no exception.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
@@ -120,12 +148,20 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-hearthsongs-the-quintessential-playlist-for-engagement/"><u>[Updated] Hearthsongs The Quintessential Playlist for Engagement</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-curated-list-of-top-20-prison-jail-memes-boosting-morale-on-social-platforms/"><u>[Updated] In 2024, Curated List of Top 20 Prison Jail Memes, Boosting Morale on Social Platforms</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-effortlessly-connect-vlc-for-networked-video-streaming/"><u>[Updated] In 2024, Effortlessly Connect VLC for Networked Video Streaming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionizing-the-music-creation-process-through-magix-mentor-x/"><u>2024 Approved Revolutionizing the Music Creation Process Through Magix Mentor X</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-correcting-common-white-black-or-blank-laptop-display-issues/"><u>Diagnosing and Correcting Common White, Black, or Blank Laptop Display Issues</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-zte-nubia-flip-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass ZTE Nubia Flip 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-microsoft-wireless-display-adapter-not-working-on-windows-10-step-by-step-solution/"><u>How to Fix Microsoft Wireless Display Adapter Not Working on Windows 10 (Step-by-Step Solution)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-become-a-tiktok-trendsetter-perfecting-reactions-with-filmoras-advanced-techniques/"><u>In 2024, Become a TikTok Trendsetter Perfecting Reactions with Filmora’s Advanced Techniques</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-stunning-whiteboard-animations-with-these-top-5-tools/"><u>New Create Stunning Whiteboard Animations with These Top 5 Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210888050-reactivate-your-windows-11-bluetooth-connection-quick-fixes-inside/"><u>Reactivate Your Windows 11 Bluetooth Connection - Quick Fixes Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-your-pdf-printing-issues-in-seconds/"><u>Solving Your PDF Printing Issues in Seconds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-showdown-in-conversational-ai-google-bard-against-bing-chat-who-takes-the-crown/"><u>The Ultimate Showdown in Conversational AI - Google Bard Against Bing Chat, Who Takes the Crown?</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-windows-11-0xc19update-issue-successfully/"><u>Troubleshooting and Fixing Windows 11 0xC19#Update Issue Successfully</u></a></li>
+</ul></div>
 

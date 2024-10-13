@@ -1,7 +1,7 @@
 ---
 title: "How To Manually Power Off a Non-Responsive Windows 11 System: A Step-by-Step Solution"
-date: 2024-09-10T16:02:40.234Z
-updated: 2024-09-15T16:01:48.922Z
+date: 2024-10-10T01:45:52.259Z
+updated: 2024-10-13T04:18:47.608Z
 tags:
   - win11
   - win10
@@ -64,9 +64,23 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-43-47.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Select**Windows Update,** and then click **Run the troubleshooter.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-43-55.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Wait for the troubleshooter to detect your problem, and then follow the on-screen instructions to fix it automatically.
 
@@ -80,22 +94,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_14-10-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type**services** , then press the**Enter key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-44-18.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Double-click**Windows Update** .
 
@@ -110,10 +118,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-47-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Type**%windir%\\SoftwareDistribution** and click**OK** .
@@ -130,27 +138,20 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-47-34.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **9)** On your keyboard, press the**Windows logo** key and**R** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_14-10-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **10)** Type**services** , then press the**Enter key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-44-18.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **11)** Right-click**Windows Update** and select**Start** .
 
@@ -168,15 +169,22 @@ If not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-50-59.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Type **cmd,** then press the **Ctrl, Shift**  and **Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-51-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Type **sfc.exe /scannow** , then press the **Enter**  key on your keyboard.
@@ -192,6 +200,13 @@ If not, check the fix below.
 **5)** Type **dism.exe /online /cleanup-image /restorehealth** , then press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-31_16-51-33.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Wait for the process to be complete. Then, try updating your system again to see if this method worked.
 
@@ -213,5 +228,22 @@ If not, check the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-best-of-the-best-top-facebook-memes-to-find/"><u>[Updated] In 2024, The Best of the Best – Top Facebook Memes to Find</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-90-lite-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor 90 Lite to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-high-cpu-usage-due-to-wudfhostexe-in-windows-11-a-step-by-step-guide/"><u>Dealing with High CPU Usage Due to wudfhost.exe in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-of-your-dells-built-in-camera-on-windows-systems/"><u>How to Restore Functionality of Your Dell's Built-In Camera on Windows Systems</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-lava-agni-2-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-xr-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone XR Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-y27-4g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo Y27 4G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/pro-tip-fixing-the-common-battleye-install-issues-easily/"><u>Pro Tip: Fixing the Common BattlEye Install Issues Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-and-recovering-lost-steam-icons/"><u>Resetting and Recovering Lost Steam Icons</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-lenovo-mouse-pad-in-windows-systems-win-1187-with-these-simple-repair-tips/"><u>Revive Your Lenovo Mouse Pad in Windows Systems (Win 11/8/7) with These Simple Repair Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-fixes-for-when-your-usb-stick-isnt-working/"><u>Simple Fixes for When Your USB Stick Isn't Working</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-process-for-activating-usb-wifi-hotspot-feature-in-windows-11/"><u>Step-by-Step Process for Activating USB WiFi Hotspot Feature in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-stuck-drives-in-windows-10-with-ease/"><u>Troubleshoot and Repair Stuck Drives in Windows 10 with Ease</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-the-top-10-webm-to-mp4-convertors-for-pc-and-mac-enthusiasts/"><u>Ultimate Guide: The Top 10 WebM to MP4 Convertors for PC and Mac Enthusiasts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Execution Denied: Compliance Not Met"
-date: 2024-10-04T00:55:31.884Z
-updated: 2024-10-07T10:07:04.093Z
+date: 2024-10-11T02:11:11.148Z
+updated: 2024-10-12T19:05:08.618Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 2. **[Roll back your graphics card driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update your graphics card driver](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Download DirectX End-User Runtime Web Installer
 
  As the error message indicated, the issue is related with the DirectX function, so one of the possible solutions is to download the DirectX End-User Runtime Web Installer in your computer. Here’s how to do it:
@@ -50,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 5. Restart your computer, and open your program or game again to see if it works.
  If you can launch the game (Warframe) without problems, then you should have found the fixed the DirectX device creation failed error in your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Roll back your graphics card driver
 
  Roll Back Driver is the built-in Windows feature that helps uninstall the current driver of the hardware device and automatically install the previous driver for that device.  So you can perform a driver roll back to fix the error DirectX device creation failed.
@@ -65,24 +51,32 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 2. Type**devmgmt.msc** and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b289c67eacce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Double click**Display adapters** to expand it, then double click your graphics card device.![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a06ec5a66.jpg)
 4. In the graphics card properties pane, click the**Driver** tab, and click**Roll Back Driver** .![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b289e0309263.jpg) Kindly note that if the Roll Back Driver button is greyed out and unavailable to click, that means that your Windows computer doesn’t have the previous driver to install, so you can skip this fix and head to[Fix 3](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Follow the on-screen instructions to finish.
 6. Restart your computer and open Warframe (or other programs that gave the error) to see if the error is removed.
  Still no luck? OK. There’s one more thing to try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -92,6 +86,14 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
 3. Click the**Update** button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the**FREE** version).Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click_**Update All**_ ).![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b166616338a7.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
   That’s it. Hope this post helps remove the**DirectX device creation failed** error and fix your problem.  If you have any questions, feel free to add a comment below and join us for discussion.
 
 * [error](https://tools.techidaily.com/drivereasy/download/)
@@ -112,24 +114,17 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-boost-your-snaps-to-new-heights-with-expert-snapchat-tips-for-2024/"><u>[New] Boost Your Snaps to New Heights with Expert Snapchat Tips for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-complete-pathway-to-success-with-your-first-facebook-live/"><u>[New] In 2024, The Complete Pathway to Success with Your First Facebook Live</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-creativity-pivotal-pixlr-editing-strategies/"><u>[New] Unleash Creativity Pivotal Pixlr Editing Strategies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-law-a-conversational-overview/"><u>ChatGPT & Law: A Conversational Overview</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/download-the-latest-macx-pro-the-ultimate-free-video-transcoder-for-mac-users/"><u>Download the Latest MacX Pro: The Ultimate Free Video Transcoder for Mac Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-unrecognized-flash-drive-errors-understanding-and-solving-device-descriptor-request-failed-issues/"><u>Fixing Unrecognized Flash Drive Errors: Understanding and Solving 'Device Descriptor Request Failed' Issues</u></a></li>
-<li><a href="https://os-tips.techidaily.com/guide-retrieving-your-location-history-from-an-iphone-or-ipad/"><u>Guide: Retrieving Your Location History From an iPhone or iPad</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-8-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 8 Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-conundrum-solved-reviving-your-unresponsive-dell-laptop-keys/"><u>Keyboard Conundrum Solved: Reviving Your Unresponsive Dell Laptop Keys</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fix-techniques-for-when-your-laptop-wont-respond/"><u>Quick Fix Techniques for When Your Laptop Won’t Respond</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-secure-socket-layer-ssl-failed-on-your-firefox-browser/"><u>Resolving 'Secure Socket Layer (SSL) Failed' On Your Firefox Browser</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-a-non-charging-laptop-battery-without-hassle-masterful-diy-fixes-here/"><u>Revive a Non-Charging Laptop Battery Without Hassle – Masterful DIY Fixes Here!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-guide-for-persistent-problems-of-dragon-age-origins-freezing-on-windows-10-pcs/"><u>Solution Guide for Persistent Problems of Dragon Age: Origins Freezing on Windows 10 PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-windows-update-error-code-0x802n401c-on-your-windows-11-pc/"><u>Solving the 'Windows Update Error Code 0X802n401c' On Your Windows 11 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-troubleshooting-and-fixing-critical-windows-update-error-0x8007001f/"><u>Step-by-Step Guide: Troubleshooting and Fixing Critical Windows Update Error 0X8007001f</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-origin-gaming-issues-resolving-setup-errors-smoothly/"><u>Troubleshoot Origin Gaming Issues: Resolving Setup Errors Smoothly</u></a></li>
-<li><a href="https://common-error.techidaily.com/update-complete-overcoming-the-halt-in-32-bit-applications-printer-connection/"><u>Update Complete: Overcoming the Halt in 32-Bit Application's Printer Connection</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-screensaver-not-working-solved/"><u>Windows 10 Screensaver Not Working [Solved]</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-essential-3d-toolkit-creating-engaging-video-beginnings/"><u>[New] Essential 3D Toolkit Creating Engaging Video Beginnings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-insta-vids-dissecting-the-relevance-of-self-image-authenticity/"><u>[Updated] 2024 Approved Insta Vids Dissecting the Relevance of Self-Image Authenticity</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-why-your-pc-wont-boot-up/"><u>Fixing the Issue: Why Your PC Won't Boot Up</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-unavailable-windows-hello-feature-on-windows-10-devices/"><u>Fixing Unavailable Windows Hello Feature on Windows 10 Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-overcoming-unnatural-motion-blur-in-uav-videos/"><u>In 2024, Overcoming Unnatural Motion Blur in UAV Videos</u></a></li>
+<li><a href="https://facebook.techidaily.com/preserving-page-harmony-the-art-of-excluding-profiles/"><u>Preserving Page Harmony: The Art of Excluding Profiles</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-with-windows-unable-to-access-system-event-notification-service/"><u>Resolved: Issue with Windows Unable to Access System Event Notification Service</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-not-initialized-issue-a-guide-for-valorant-players/"><u>Solving the Not Initialized Issue - A Guide for Valorant Players</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-problem-of-uncoordinated-youtube-media-continuous-audio-with-intermittent-video-on-popular-browsers/"><u>Solving the Problem of Uncoordinated Youtube Media: Continuous Audio with Intermittent Video on Popular Browsers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-quintessential-guide-to-facebook-twitter-instagram-and-youtube-for-branding-success/"><u>The Quintessential Guide to Facebook, Twitter, Instagram and YouTube for Branding Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-solution-for-when-windows-update-fails-to-launch/"><u>The Ultimate Solution for When Windows Update Fails to Launch</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-issues-with-steam-store-connectivity/"><u>Troubleshooting Tips: Resolving Issues with Steam Store Connectivity</u></a></li>
 </ul></div>
 

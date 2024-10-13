@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Resolving Win10 Update Error Code 0X800705B4
-date: 2024-09-13T16:00:42.148Z
-updated: 2024-09-15T16:05:10.869Z
+date: 2024-10-08T16:29:47.317Z
+updated: 2024-10-13T00:27:37.064Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your device drivers
 
  One of the most common causes of this error is corrupted or outdated device drivers. So you should definitely try updating your drivers before trying anything more complicated. You can do this manually, if you like, by visiting each manufacturer’s download page, finding the right drivers, etc. But that takes time and computer skills. If you’re not comfortable playing with device drivers, we recommend using[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It’s a tool that detects, downloads and installs any driver updates your computer needs.
@@ -51,9 +58,23 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap32-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable your proxy
 
@@ -64,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
 **2)** Type “inetcpl.cpl” in the box and click the**OK** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap43.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Go to “Connections” tab and click**LAN Settings** .
 
@@ -88,22 +116,15 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap37-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Under**Troubleshoot** tab click**Windows Update** and then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap39-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** After finishing the troubleshooting process, restart your computer and check the error is fixed or not.
 
@@ -120,15 +141,28 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap37-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click**Check for updates** first, then click**Install Now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap83.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Follow the instructions and then check whether the error is fixed.
 
@@ -155,13 +189,6 @@ thumbnail: https://thmb.techidaily.com/37d4ae187da74466ba527c2a86e17302882825cfe
 **1)** Click the Windows start button, type**command prompt** in the search bar and click “Run as administrator”.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap47.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Type (or copy-paste) the below commands into the Command Prompt window**one by one** . After typing one line, press the**Enter** key and then go next.  
 
@@ -192,13 +219,6 @@ Now check to see if your Windows Store is working normally.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -226,5 +246,24 @@ Now check to see if your Windows Store is working normally.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/op-earning-youtube-star-globally-for-2024/"><u>[New] Top Earning YouTube Star Globally for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apple-ipad-air-4-vs-samsung-galaxy-tab-s7plus-the-uncompromising-duel-between-leading-tablets/"><u>Apple iPad Air 4 Vs. Samsung Galaxy Tab S7+: The Uncompromising Duel Between Leading Tablets</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-steps-for-repairing-unrecognized-external-hard-drives-in-windows-1087/"><u>Easy Steps for Repairing Unrecognized External Hard Drives in Windows 10/8/7</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205996325-fix-error-there-is-a-problem-with-your-games-setup-origin-games/"><u>Fix Error “There Is a Problem with Your Game’s Setup” | Origin Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-set-user-settings-to-driver-failed-issue-a-step-by-step-guide/"><u>How to Overcome the 'Set User Settings To Driver Failed' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-turbo-techniques-for-faster-vimeo-views/"><u>In 2024, Turbo Techniques for Faster Vimeo Views</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/is-av1-format-compatible-with-adobe-premiere-pros-import-and-export-features/"><u>Is AV1 Format Compatible with Adobe Premiere Pro's Import and Export Features?</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-startup-issues-how-to-fix-the-critical-error-0xc000007b/"><u>Mastering Startup Issues - How to Fix the Critical Error 0Xc000007b</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-ethernet-challenges-a-users-manual-for-windows-10-and-7-users/"><u>Overcoming Ethernet Challenges: A User's Manual for Windows 10 & 7 Users</u></a></li>
+<li><a href="https://win-web3.techidaily.com/rescuing-lost-data-in-office-365-a-comprehensive-recovery-tutorial-for-users/"><u>Rescuing Lost Data in Office 365: A Comprehensive Recovery Tutorial for Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-destiny-srevz-nt-aevalebe-1ssuz-the-ultimate-troubleshooting-guide/"><u>Resolve Destiny ˈsɪrəvz Nɑt ˌævaɪləbəɫ 1Ssuːz: The Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-diagnostics-policy-service-is-offline-heres-what-to-do/"><u>Resolving 'Diagnostics Policy Service Is Offline – Here’s What To Do!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/steam-store-not-working-heres-how-to-restore-access/"><u>Steam Store Not Working? Here’s How to Restore Access!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-getting-your-dell-camera-up-and-running-in-windows/"><u>Step-by-Step Guide: Getting Your Dell Camera Up and Running in Windows</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/step-by-step-tutorial-securely-preserving-whatsapp-images-and-clips-for-iphone-and-android-users/"><u>Step-by-Step Tutorial: Securely Preserving WhatsApp Images and Clips for iPhone & Android Users</u></a></li>
+<li><a href="https://facebook.techidaily.com/study-most-covid-19-misinformation-was-spread-by-these-12-influencers/"><u>Study: Most Covid-19 Misinformation Was Spread by These 12 Influencers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-secure-sites-for-streaming-your-favorite-tv-series-without-illegal-downloads/"><u>Top 10 Secure Sites for Streaming Your Favorite TV Series Without Illegal Downloads</u></a></li>
+</ul></div>
 

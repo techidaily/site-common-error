@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Fixer's Handbook: How to Swiftly Address and Repair 0xC000012F Fault on Your Computer"
-date: 2024-10-02T20:11:12.680Z
-updated: 2024-10-07T11:55:03.082Z
+date: 2024-10-06T20:19:10.583Z
+updated: 2024-10-12T19:31:40.304Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 2: Update the graphics card driver
 
  The computer keeps going to sleep issue can be caused by the faulty or outdated graphics card driver, especially if you have a high-end graphics card installed. To fix the problem, you can try to update the graphics card driver.
@@ -68,16 +75,10 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 3. Click the**Update** button next to a flagged graphics card driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
@@ -85,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 4. Check to see if your computer keeps going to sleep.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -108,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137342e0dbe.jpg)
 4. Set**Screen saver** to**None** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13739569152.jpg)
 5. Check to see if your computer keeps going to sleep.
 
@@ -124,26 +118,28 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 2. **View by Category** , and click**Appearance and Personalization** (In some cases, this could be**Appearance** .).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1373fd30172.jpg)
 3. Click the**Change screen saver** button.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
-4. Set**Screen saver** to**None** .  
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13747495a4c.jpg)
+4. Set**Screen saver** to**None** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c137497cb6ce.jpg)
 5. Check to see if your computer keeps going to sleep.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 4: Change the System unattended sleep timeout to a longer time
 
@@ -162,13 +158,6 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\238C9FA8-0AAD-41ED-83F4-97BE242C8F20\7bc4a2f9-d8fc-4469-b07b-33eb785aaca0]  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375973d736.jpg)
 3. In the right pane, double-click on**Attributes** to modify it.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1375d052d8f.jpg)
 4. Change the**Value data** to**2** . The default Value data is probably 1\. Whatever the Value data is, just change it to 2.  
@@ -191,10 +180,10 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 6. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Check to see if the computer keeps going to sleep.
@@ -220,20 +209,20 @@ thumbnail: https://thmb.techidaily.com/78af3078c80b8e3712553330740f219cdae8af451
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-unlocking-creative-expression-with-simple-lenses-for-2024/"><u>[New] Unlocking Creative Expression with Simple Lenses for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-dive-into-dynamic-editing-windows-xp-edition-guide/"><u>[Updated] 2024 Approved Dive Into Dynamic Editing Windows XP Edition Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-flip-order-3-easy-steps-to-rewind-youtube-listeners/"><u>[Updated] In 2024, Flip Order 3 Easy Steps to Rewind Youtube Listeners</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-express-yourself-smartly-kapwings-meme-crafting/"><u>2024 Approved Express Yourself Smartly Kapwing's Meme Crafting</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-solutions-for-when-your-device-says-theres-no-battery-fix-now/"><u>Easy Solutions for When Your Device Says There's No Battery – Fix Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-when-right-click-stops-responding-on-windows-10/"><u>Fixing the Issue: When Right-Click Stops Responding on Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-chrome-back-on-track-expert-fixes-for-unresponsiveness/"><u>Get Your Chrome Back on Track: Expert Fixes for Unresponsiveness</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-install-and-use-facetime-features-with-a-windows-device/"><u>How to Install and Use FaceTime Features with a Windows Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-windows-11-display-dilemma-with-this-guide-to-fix-hdmi-tv-recognition/"><u>Resolve Your Windows 11 Display Dilemma with This Guide to Fix HDMI TV Recognition</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-persistent-windows-update-stalling-at-completion/"><u>Resolving Persistent Windows Update Stalling at Completion</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-why-your-pcs-touchpad-scroll-function-fails-in-windows-10/"><u>Troubleshooting Fixes: Why Your PC's Touchpad Scroll Function Fails in Windows 10</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-glitch-your-way-to-creativity-top-free-online-effect-generators-for-2024/"><u>Updated Glitch Your Way to Creativity Top Free Online Effect Generators for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/use-strong-action-verbs-titles-with-strong-action-verbs-eg-resolving-troubleshooting-can-make-your-page-appear-more-helpful-and-engaging-to-users-searching-61/"><u>Use Strong Action Verbs: Titles with Strong Action Verbs (E.g., Resolving, Troubleshooting) Can Make Your Page Appear More Helpful and Engaging to Users Searching for Solutions to Problems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/utorrent-stuck-or-unresponsive-discover-7-reliable-solutions/"><u>Utorrent Stuck or Unresponsive? Discover 7 Reliable Solutions!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/jpeg-pgm-movavi/"><u>무료 JPEG 로드에 적합한 PGM 이미지 전환 - 웹사이트용 Movavi 소프트웨어</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-checklist-for-movie-maker-videos-on-vimeo/"><u>[New] The Ultimate Checklist for Movie Maker Videos on Vimeo</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-elevate-viewing-experience-enable-av1-on-youtube/"><u>[Updated] Elevate Viewing Experience – Enable AV1 on YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-issues-and-solutions-for-logitech-g733-non-functional-mic/"><u>Common Issues and Solutions for Logitech G733 Non-Functional Mic</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-classic-creatures-to-modern-mayhem-a-new-direction-for-zombie-lore-with-7-days-to-die/"><u>From Classic Creatures to Modern Mayhem: A New Direction for Zombie Lore with '7 Days to Die'</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fixing-lost-bluetooth-connectivity-in-windows-11-steps-for-swift-resolution/"><u>Guide to Fixing Lost Bluetooth Connectivity in Windows 11: Steps for Swift Resolution</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-enable-alpha-blending-on-incompatible-video-cards/"><u>How to Enable Alpha Blending on Incompatible Video Cards</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-unlocking-docs-transcription-feature-a-beginners-guide/"><u>In 2024, Unlocking Docs' Transcription Feature A Beginner’s Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-academic-writing-leveraging-chatgpt-for-effective-research-and-essay-creation/"><u>Mastering Academic Writing: Leveraging ChatGPT for Effective Research & Essay Creation</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-windows-update-issues-the-ultimate-solution-unveiled/"><u>Overcome Windows Update Issues - The Ultimate Solution Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-steam-store-access-hurdle-expert-advice-on-restoring-functionality/"><u>Overcoming the Steam Store Access Hurdle: Expert Advice on Restoring Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211227468-solve-your-laptops-usb-mouse-problem-with-these-effective-tips/"><u>Solve Your Laptop's USB Mouse Problem with These Effective Tips!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-repair-windows-11-update-problems-code-0x80240034/"><u>Step-by-Step Solutions to Repair Windows 11 Update Problems: Code 0X80240034</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-windows-1903-update-issues/"><u>Troubleshooting Tips: Resolving Windows 1903 Update Issues</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimate-guide-the-finest-video-restoration-tools-for-pc-and-mac-users/"><u>Ultimate Guide: The Finest Video Restoration Tools for PC and MAC Users</u></a></li>
 </ul></div>
 

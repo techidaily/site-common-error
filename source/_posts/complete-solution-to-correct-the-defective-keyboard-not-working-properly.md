@@ -1,7 +1,7 @@
 ---
 title: Complete Solution to Correct the Defective Keyboard Not Working Properly
-date: 2024-09-08T16:05:37.827Z
-updated: 2024-09-15T16:06:33.459Z
+date: 2024-10-06T20:41:41.075Z
+updated: 2024-10-13T04:38:20.294Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 6. **[Run the Bluetooth troubleshooter](#Fix6)**
 7. **[Test your Bluetooth keyboard on another computer](#Fix7)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Bluetooth keyboard
 
  **Your Bluetooth keyboard can stop working if the batteries are worn out or not installed properly.** To test the batteries, you can simply replace them with brand new ones or recharge the batteries by connecting the charging cable to a power source.
@@ -55,16 +62,16 @@ thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/settings-network-internet.jpg)
 3. Select**Airplane mode** . Make sure**Airplane mode** is turned off, and**Wi-Fi** and**Bluetooth** are turned on.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/airplane-mode-off.jpg)
 
  If airplane mode is already set to Off, try turning off Bluetooth, waiting a few seconds, and then turning it back on.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### in Windows 11
 
@@ -116,10 +123,10 @@ Here’s how it works:
 4. Click**Yes** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/remove-device-yes.jpg)
@@ -133,30 +140,31 @@ Here’s how it works:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Bluetooth-Remove-device.jpg)
 3. After removing your device, click on**Add device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Bluetooth-Add-device.jpg)
 4. Click**Bluetooth** and choose your device.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Add-a-device-Bluetooth.jpg)
 
 Check if your problem has been resolved. If not, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Restart Bluetooth Support Service
@@ -190,7 +198,28 @@ If this method doesn’t work for you, continue to the next fix.
 4. Under**Find and fix other problems** , select**Bluetooth** and click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/bluetooth-troubleshooter.jpg)
 5. Follow the on-screen instructions to complete the troubleshooting.  
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/bluetooth-detecting-problems.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### in Windows 11
 
@@ -198,17 +227,18 @@ If this method doesn’t work for you, continue to the next fix.
 2. From the left navigation panel, select**system** . Then click**Troubleshoot** from the right.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Scroll down and click on the**Run** button next to**Bluetooth** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Bluetooth-Run.jpg)
 5. Wait for the on-screen instructions to troubleshoot your issues.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the process is finished, try to connect your Bluetooth keyboard to your computer. If the issue remains, try the last fix below.
 
@@ -236,5 +266,18 @@ If this method doesn’t work for you, continue to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/solved-how-to-fix-the-0x80072efd-error-in-windows-11/"><u>[Solved] How to Fix the 0X80072EFD Error in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-uncontrolled-energy-bursts-at-primary-connection-junction-a-resolved-case-study/"><u>Addressing Uncontrolled Energy Bursts at Primary Connection Junction: A Resolved Case Study</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-precision-with-the-ambient-weather-station-ws-2902a-osprey-a-detailed-examination/"><u>Affordable Precision with the Ambient Weather Station WS-2902A 'Osprey': A Detailed Examination</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-steelseries-drivers-on-your-windows-pc-step-by-step-guide/"><u>Download & Install SteelSeries Drivers on Your Windows PC – Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-troubleshooting-how-to-resolve-battery-not-charging-prompt-fast/"><u>Easy Troubleshooting: How To Resolve 'Battery Not Charging' Prompt Fast</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-realme-gt-5-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Realme GT 5 Pro FRP Locks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-13-pro-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone 13 Pro or iPad?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-apple-iphone-12-pro-by-drfone-ios/"><u>How to Bypass iCloud Lock on Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-windows-11-audio-troubleshooting-for-crystal-clear-sound/"><u>Mastering Windows 11 Audio Troubleshooting for Crystal Clear Sound</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-and-resolving-server-outages-in-destiny-2-expert-advice/"><u>Navigating and Resolving Server Outages in Destiny 2: Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-rapid-response-fixes-error-code-1053-service-unresponsive-on-time/"><u>Resolved: Rapid Response Fixes Error Code 1053 - Service Unresponsive on Time</u></a></li>
+</ul></div>
 

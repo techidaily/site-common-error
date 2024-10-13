@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Correcting the '0X800705b4' Issue on Windows Update in Windows 11
-date: 2024-10-01T08:36:04.915Z
-updated: 2024-10-07T05:21:36.695Z
+date: 2024-10-09T01:46:44.424Z
+updated: 2024-10-12T19:28:39.824Z
 tags:
   - win11
   - win10
@@ -76,10 +76,10 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745a21077c1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Advanced options** .
@@ -90,6 +90,13 @@ Follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58745b19a3f8e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer.
 
 5) Open the Windows Update Settings window again (If you’re not sure how to open this window, refer the Step 1). Click **Check for updates** .
@@ -99,10 +106,10 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587487b4f0856.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Re-select option   **Give me updates for other Microsoft products when I update Windows**  .
@@ -114,17 +121,17 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_587487e7dd051.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 3: Delete Some Related Files**
@@ -152,10 +159,10 @@ Follow these steps:
  6) Restart your PC and check to see if the error persists.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 4:** Repair system files
@@ -181,6 +188,14 @@ There are 2 ways to solve it. Here’s how:
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -194,15 +209,15 @@ There are 2 ways to solve it. Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Type **sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Restart your computer to check the blue screen issue is fixed or not.
 
@@ -226,25 +241,11 @@ There are 2 ways to solve it. Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-440.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to one driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-441.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully methods here will help you resolve the 0x800705b4 error. If you have any questions, please feel free to leave your comments. I’d love to hear of any suggestions or ideas.
 
@@ -265,18 +266,20 @@ There are 2 ways to solve it. Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-boosting-brand-visibility-essential-insta-highlight-upgrades/"><u>[New] 2024 Approved Boosting Brand Visibility Essential Insta Highlight Upgrades</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-piecing-together-attention-grabbing-channel-snippets/"><u>[New] Piecing Together Attention-Grabbing Channel Snippets</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-how-inauthentic-affection-impacts-your-feeds-credibility/"><u>[Updated] How Inauthentic Affection Impacts Your Feed's Credibility</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-master-your-youtube-empire-with-creator-studio-tools/"><u>2024 Approved Master Your YouTube Empire with Creator Studio Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-to-correct-the-update-failure-error-0x800f0922-on-windows-10-devices/"><u>Effective Strategies to Correct the Update Failure (Error 0X800F0922) on Windows 10 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-unresponsiveness-in-google-chrome-a-comprehensive-guide/"><u>How to Overcome Unresponsiveness in Google Chrome – A Comprehensive Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/instant-screen-grabber-for-chromebooks/"><u>Instant Screen Grabber for Chromebooks</u></a></li>
-<li><a href="https://common-error.techidaily.com/key-trouble-no-more-fixing-inoperative-buttons-on-your-toshiba-laptop/"><u>Key Trouble No More: Fixing Inoperative Buttons on Your Toshiba Laptop!</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-errors-making-microsoft-print-to-pdf-work-smoothly-on-windows-1011/"><u>Overcoming Errors: Making Microsoft Print to PDF Work Smoothly on Windows 10/11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208245107-ultimate-guide-fixing-and-preventing-critical-errors-in-google-chrome-stay-protected/"><u>Ultimate Guide: Fixing and Preventing Critical Errors in Google Chrome - Stay Protected</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-full-spectrum-of-adobe-cloud-storing-and-superior-options/"><u>Unveiling the Full Spectrum of Adobe Cloud Storing and Superior Options</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unveiling-30-preferred-steadicam-models-for-high-quality-dslr-projects/"><u>[New] Unveiling 30 Preferred Steadicam Models for High-Quality DSLR Projects</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-keep-your-snaps-alive-strategies-for-longevity/"><u>[Updated] Keep Your Snaps Alive – Strategies for Longevity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-experts-guide-to-instagrams-licensed-music-posting-policies/"><u>[Updated] The Expert’s Guide to Instagram's Licensed Music Posting Policies</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-block-mastering-minecraft-error-code-5-solutions/"><u>Beat the Block! Mastering Minecraft Error Code 5 Solutions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/capturing-the-action-ps4-to-video-using-obs-for-2024/"><u>Capturing the Action PS4 to Video Using OBS for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-for-the-persistent-restart-problem-in-windows-11/"><u>Effortless Fixes for the Persistent Restart Problem in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restoring-your-lenovo-mouse-pad-functionality-across-all-windows-versions/"><u>Guide to Restoring Your Lenovo Mouse Pad Functionality Across All Windows Versions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-melodic-milestinas-where-to-find-elegant-mobile-alerts/"><u>In 2024, Melodic Milestinas Where to Find Elegant Mobile Alerts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/seamless-mobile-broadcasting-best-budget-streamer-list-for-2024/"><u>Seamless Mobile Broadcasting Best Budget Streamer List for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/speedy-access-to-repair-solutions-customizing-hotkeys-for-win-1011/"><u>Speedy Access to Repair Solutions: Customizing Hotkeys for Win 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-reviving-the-scroll-wheel-in-a-malfunctioning-logitech-mouse/"><u>Step-by-Step Guide: Reviving the Scroll Wheel in a Malfunctioning Logitech Mouse</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-resolution-overcoming-hub-port-electrical-fluctuations/"><u>Step-by-Step Resolution: Overcoming Hub Port Electrical Fluctuations</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-cxfreeze-catastrophic-failures-with-ease/"><u>Troubleshooting Guide: Solving Cx_Freeze Catastrophic Failures with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-rpc-server-availability-problems-in-windows-systems-effectively/"><u>Troubleshooting RPC Server Availability Problems in Windows Systems Effectively</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/turning-photos-into-cartoon-online/"><u>Turning Photos Into Cartoon Online</u></a></li>
 </ul></div>
 

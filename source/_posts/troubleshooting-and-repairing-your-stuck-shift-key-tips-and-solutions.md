@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Repairing Your Stuck Shift Key - Tips & Solutions
-date: 2024-09-18T18:55:57.254Z
-updated: 2024-09-20T17:50:24.622Z
+date: 2024-10-07T22:42:35.331Z
+updated: 2024-10-12T23:47:05.649Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ It’s possible that too many people connect to the Destiny servers during the t
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Disable DHCP for your connection
 
 If you’re connecting via WiFi, you’re more likely to have the servers not available error in Destiny 2\. So you can try disabling DHCP in your computer to fix your problem. To do so:
@@ -56,22 +63,31 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 2. Click**Change adapter** **settings** on the left.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connection** you’re currently using, and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
 6. Restart your computer and open Destiny 2 to see if it works.
 It should have fixed the server issues in Destiny 2\. If not, don’t be upset. You can try the following solutions.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Use the Ethernet connection
 
@@ -81,15 +97,15 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0540f4ac.jpg)  
  You’ll need to repeat this step for any other connections that you’re not using.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Now your computer will only use the connection via WiFi. Restart the game and see if it works.
 Still no luck? Ok, there’s one more thing to try.
@@ -106,10 +122,10 @@ A missing or outdated network card driver will cause connection issues in your c
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
@@ -137,5 +153,20 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ffordable-mcb-theme-images-for-channels/"><u>[New] Affordable MCB Theme Images for Channels</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-effortless-tiktok-sharing-from-mac-and-pc-devices/"><u>[Updated] 2024 Approved Effortless TikTok Sharing From Mac & PC Devices</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-boosting-engagement-from-the-start-premium-paid-free-intra-creators/"><u>[Updated] Boosting Engagement From the Start Premium, Paid-Free Intra Creators</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-picks-for-gameplay-footage-for-2024/"><u>[Updated] The Ultimate Picks for Gameplay Footage for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/complete-guide-to-overcome-windows-11-update-error-0xc1900208-easily/"><u>Complete Guide to Overcome Windows 11 Update Error 0XC1900208 Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-methods-to-reduce-chromes-processor-intensity-a-comprehensive-guide-issue-fixed/"><u>Effective Methods to Reduce Chrome’s Processor Intensity – A Comprehensive Guide (Issue Fixed)</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-the-non-working-mic-on-your-astro-a4n0/"><u>Expert Tips for Fixing the Non-Working Mic on Your Astro A4n0</u></a></li>
+<li><a href="https://common-error.techidaily.com/graphics-driver-compatibility-essential-fixes-for-enabling-miracast-functionality/"><u>Graphics Driver Compatibility: Essential Fixes for Enabling Miracast Functionality</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-samsung-galaxy-m14-4g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Samsung Galaxy M14 4G online without jailbreak</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-ideal-strategies-for-online-video-photo-effects-implementation/"><u>In 2024, Ideal Strategies for Online Video Photo Effects Implementation</u></a></li>
+<li><a href="https://techidaily.com/1723808024449-speed-hacks-supercharge-minecraft-gameplay/"><u>Speed Hacks - Supercharge Minecraft Gameplay</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-ranking-guide-transform-mov-files-to-flv-format-seamlessly-on-your-mac-using-leading-software-tools/"><u>Top-Ranking Guide: Transform MOV Files to FLV Format Seamlessly on Your Mac Using Leading Software Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-error-code-31-solutions-and-tips/"><u>Troubleshooting Windows Error Code 31 - Solutions and Tips</u></a></li>
+</ul></div>
 

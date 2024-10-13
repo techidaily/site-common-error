@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Freezing and Patch Problems in Windows 11 Updates
-date: 2024-10-01T06:58:07.550Z
-updated: 2024-10-06T19:32:42.872Z
+date: 2024-10-08T02:18:16.358Z
+updated: 2024-10-13T00:45:07.958Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
@@ -56,13 +49,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 1. On your keyboard, press **the Windows logo key**  and type **troubleshoot** , then click **Troubleshoot** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
@@ -85,9 +71,29 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -96,10 +102,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run DISM
@@ -111,10 +117,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. Type **the following command** and press **Enter** :  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
@@ -148,20 +154,20 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhance-youtube-views-leveraging-outro-content-partnerships/"><u>[New] In 2024, Enhance YouTube Views Leveraging Outro Content Partnerships</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-uplifting-movies-a-top-10-list-of-inspiration/"><u>[Updated] In 2024, Uplifting Movies A Top 10 List of Inspiration</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-srt-breakdown-for-professionals/"><u>2024 Approved Comprehensive SRT Breakdown for Professionals</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-leaderboard-best-following-drone-technology/"><u>2024 Approved Leaderboard Best-Following Drone Technology</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassed-common-problems-and-solutions-for-windows-unable-to-link-to-event-service/"><u>Bypassed: Common Problems & Solutions for Windows Unable to Link to Event Service</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/bypassing-troublesome-skype-errors-a-guide-to-10-key-solutions/"><u>Bypassing Troublesome Skype Errors: A Guide to 10 Key Solutions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/cambiar-de-formato-swf-a-wav-sin-coste-herramienta-online-inalambrica-por-converter/"><u>Cambiar De Formato SWF a WAV Sin Coste: Herramienta Online Inalámbrica Por Converter</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203946404-cant-send-your-document-to-print-top-tier-tips-for-quick-solutions/"><u>Can't Send Your Document to Print? Top-Tier Tips for Quick Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-common-issues-with-your-usb-mass-storage-devices-a-step-by-step-guide/"><u>How to Fix Common Issues with Your USB Mass Storage Devices: A Step-by-Step Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-v29withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo V29with/without a PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/lock-your-oppo-a2-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Oppo A2 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-frame-rate-issues-in-fallout-4-a-players-handbook/"><u>Resolving Frame Rate Issues in Fallout 4: A Player's Handbook</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/safeguarding-your-snaps-secure-backup-from-phone-to-snapchat/"><u>Safeguarding Your Snaps Secure Backup From Phone to Snapchat</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-self-starting-issues-on-windows-10-computers-a-comprehensive-guide/"><u>Solving Self-Starting Issues on Windows 10 Computers - A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-laptops-microphone-woes-tips-fixes-and-prevention-strategies/"><u>Solving Your Laptop's Microphone Woes: Tips, Fixes & Prevention Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-comprehensive-guide-top-12-websites-for-gratis-photo-libraries/"><u>[New] A Comprehensive Guide Top 12 Websites for Gratis Photo Libraries</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-ultimate-list-6-videos-that-grab-attention/"><u>[New] In 2024, The Ultimate List 6 Videos That Grab Attention</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-navigating-safe-mode-and-pip-features-on-iphone-ipad-and-macos/"><u>[Updated] 2024 Approved Navigating Safe Mode and PIP Features on iPhone, iPad & MacOS</u></a></li>
+<li><a href="https://common-error.techidaily.com/a-majority-of-respondents-say-global-equities-are-now-overbought-and-could-be-vulnerable-to-a-correction-in-coming-months-as-investors-begin-to-price-in-the92/"><u>A Majority of Respondents Say Global Equities Are Now Overbought and Could Be Vulnerable to a Correction in Coming Months as Investors Begin to Price in the Risk of Higher Inflation and Interest Rates.</u></a></li>
+<li><a href="https://fox-within.techidaily.com/efficient-base-service-operation-techniques/"><u>Efficient Base Service Operation Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-hacks-to-combat-minecraft-lag-and-enhance-gaming-experience/"><u>Expert Hacks to Combat Minecraft Lag and Enhance Gaming Experience</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-displayport-no-signal-easily/"><u>Fix DisplayPort No Signal Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-a-stubborn-failed-to-update-warframe-issue/"><u>How to Resolve a Stubborn 'Failed to Update Warframe' Issue</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/identify-and-retrieve-your-internet-ip-address-for-free-today/"><u>Identify and Retrieve Your Internet IP Address for Free Today!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-htc-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked HTC Phone?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/key-approaches-to-elicit-trust-in-product-reviews-through-videography/"><u>Key Approaches to Elicit Trust in Product Reviews Through Videography</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-microsofts-phone-link-app/"><u>Navigating Through Microsoft's Phone Link App</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-the-system-can-not-access-the-specified-device-path-or-file-on-windows/"><u>Resolved: How to Fix 'The System Can Not Access the Specified Device Path or File' On Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-windows-10-crashing-at-boot/"><u>Resolved: How to Fix Windows 10 Crashing at Boot</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-no-audio-output-installation-issue-on-windows-10-and-11/"><u>Resolving the 'No Audio Output' Installation Issue on Windows 10 & 11</u></a></li>
 </ul></div>
 

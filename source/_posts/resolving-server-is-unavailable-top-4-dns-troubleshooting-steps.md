@@ -1,7 +1,7 @@
 ---
 title: "Resolving 'Server Is Unavailable': Top 4 DNS Troubleshooting Steps"
-date: 2024-10-06T05:58:56.397Z
-updated: 2024-10-07T02:46:14.458Z
+date: 2024-10-05T21:57:11.823Z
+updated: 2024-10-12T21:02:40.659Z
 tags:
   - win11
   - win10
@@ -38,16 +38,16 @@ Windows Update Troubleshooter is a tool released by Microsoft that can help you 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7c046d056cc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Method 2: Reset the Windows Update related components
 
 Your Windows Update may fail to update your Windows because its components are corrupted. These components include the services and temporary files and folders associated with Windows Update. You can try resetting these components and see if this can fix your problem. To reset these components:**1)**Click the**Start**button in the lower left corner of your screen, then type “_**cmd**_“. In the list of results, right-click**Command Prompt**and select**Run as administrator**.![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a012175c9a76.png) **2)** In Command Prompt, type the following lines of command and press**Enter**on your keyboard after typing each:
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * _**net stop bits**_
 * _**net stop wuauserv**_
@@ -69,13 +69,6 @@ If Windows Update can’t help you download certain system updates, you can try 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7c0faa09e19.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**In the System Information window, check**System Type**. Its value is usually **x64-based** or **x86-based**(or sometimes**ARM64-based**).
 
  This is an important piece of information and you should note it down. It will be useful when you are looking for the updates that match your Windows later.
@@ -87,13 +80,6 @@ If Windows Update can’t help you download certain system updates, you can try 
  Note down the codes of these updates that start with “**KB** “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fafbba7758.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb0182b995.png)
 
@@ -109,7 +95,21 @@ If Windows Update can’t help you download certain system updates, you can try 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fb79898ae2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)**Open the file you’ve just downloaded and follow the on-screen instructions to install the update.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Run DISM and System File Checker
 
@@ -121,25 +121,31 @@ It’s also possible that your Windows Update can’t work because of the corrup
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fbe8bbd499.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**To run DISM, type “_**dism /online /cleanup-image /restorehealth**_“. and press**Enter**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fbeb602fef.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**Wait for the process to complete, then restart your computer. After that, check to see if your Windows Update recovers.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5: Disable your antivirus
 
@@ -151,33 +157,33 @@ Sometimes your system can’t install new updates due to the interference from y
 
 You may get issues with your Windows Update if you are using wrong or out-of-date device drivers. You should regularly check your device drivers and keep them up to date so as to prevent your computer from many annoying issues. But you may not have the time or patience to check and update your drivers manually. If you want to have this done easily and automatically, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .**Driver Easy**will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee): **1) [Download](https://tools.techidaily.com/drivereasy/download/)** and install Driver Easy.**2)**Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713a84159a4.png) **3)** Click the **Update** button next to each driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a713ba9d0320.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 7: Restore your Windows
 
 Perhaps the issues with your Windows come from some changes you’ve made to your system. You can perform a system restore. This will restore your system from a restore point (you need to have one that has been created before your Windows Update issue occurs) undo those changes made. To do so:**1)**Click the **Start**button in the lower corner of your screen. Then type “_**restore**_“. In the list of results, click “**Create a restore point**“. The System Properties dialog will appear.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fc666d51a9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click**System Restore**. The System Restore wizard will pop up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fc6fa8971e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Follow the on-screen instructions to choose a system restore point and restore your Windows.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7fc712671f3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Wait for the restore process to complete and then check to see if your Windows Update gets back to normal.
 
@@ -199,20 +205,24 @@ Perhaps the issues with your Windows come from some changes you’ve made to you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-discovering-the-ultimate-solution-showmores-recording-mastery/"><u>[Updated] Discovering The Ultimate Solution ShowMore's Recording Mastery</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-and-repairing-undetected-device-errors-via-bluetooth-on-windows-11-platforms/"><u>Addressing and Repairing Undetected Device Errors via Bluetooth on Windows 11 Platforms</u></a></li>
-<li><a href="https://common-error.techidaily.com/aoc-monitor-connection-issues-troubleshooting-and-fixes-for-non-responsive-screen-in-windows-10/"><u>AOC Monitor Connection Issues: Troubleshooting and Fixes for Non-Responsive Screen in Windows 10</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-11-pro-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone 11 Pro without the Previous Owner?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-nokia-g22-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Nokia G22 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-13t-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 13T Pro Bootloader Easily</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-your-income-potential-youtube-studios-global-reach/"><u>In 2024, Unlock Your Income Potential YouTube Studio's Global Reach</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/insights-on-the-affordable-yet-stunning-performance-of-the-samsung-galaxy-s1amobileandroidandplatformios)s10e/"><u>Insights on the Affordable Yet Stunning Performance of the Samsung Galaxy S1amobile=android&platform=ios>S10e</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solution-for-missing-bluetooth-devices-on-your-windows-10-pc/"><u>Quick Solution for Missing Bluetooth Devices on Your Windows 10 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-the-bluetooth-not-found-error-in-windows-10-step-by-step-guide/"><u>Resolve the 'Bluetooth Not Found' Error in Windows 10 - Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-pc-restoration-hiccups-the-ultimate-guide-for-windows-11-users/"><u>Resolve Your PC Restoration Hiccups: The Ultimate Guide for Windows 11 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-could-not-install-windows-cuhild-with-error-code-80240020/"><u>Resolving the 'Could Not Install Windows Cuhild' With Error Code 80240020</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-essential-list-top-7-ai-for-enhanced-talks/"><u>The Essential List: Top 7 AI for Enhanced Talks</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-did-my-warframe-update-fail-common-causes-and-solutions/"><u>Why Did My Warframe Update Fail? Common Causes and Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-graphic-software-showdown-acid-pros-rivalry/"><u>[New] Graphic Software Showdown ACID Pro's Rivalry</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-affiliate-allies-for-small-channels-an-easy-approach/"><u>[New] In 2024, Affiliate Allies for Small Channels An Easy Approach</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-accelerate-your-facebook-video-journey-in-depth-app-and-extension-guide/"><u>[Updated] 2024 Approved Accelerate Your Facebook Video Journey In-Depth App & Extension Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-huawei-mate-and-p-series-phones-activating-built-in-recorders-for-screen-capture/"><u>[Updated] Huawei Mate and P Series Phones Activating Built-In Recorders for Screen Capture</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-essential-guide-to-earnings-monetizing-content-on-vimeo-for-2024/"><u>[Updated] The Essential Guide to Earnings Monetizing Content on Vimeo for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-comprehensive-guide-to-audiovisual-transmitters/"><u>2024 Approved Comprehensive Guide to Audiovisual Transmitters</u></a></li>
+<li><a href="https://common-error.techidaily.com/ace-the-game-rapid-fix-tips-to-elevate-page-file-size-for-uninterrupted-rdr2-fun/"><u>Ace the Game: Rapid Fix Tips to Elevate Page File Size for Uninterrupted RDR2 Fun</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-brightness-functionality-on-your-windows-10-display/"><u>How to Restore Brightness Functionality on Your Windows 10 Display</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-watch-what-you-liked-no-more-unveiling-yt-deletions-online/"><u>In 2024, Watch What You Liked No More Unveiling YT Deletions Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209807541-keyboard-problems-at-boot-up-heres-your-solution/"><u>Keyboard Problems at Boot-Up? Here's Your Solution!</u></a></li>
+<li><a href="https://common-error.techidaily.com/nvidia-share-not-responding-solved/"><u>NVIDIA Share Not Responding [SOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-hdcp-restrictions-for-better-display-performance-a-complete-guide/"><u>Overcoming HDCP Restrictions for Better Display Performance: A Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-overcoming-issues-with-creating-directx-graphics-device-d3d/"><u>Resolved: Overcoming Issues with Creating DirectX Graphics Device (D3D)</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-tips-for-dealing-with-twitch-error-4000/"><u>Step-by-Step Troubleshooting Tips for Dealing with Twitch Error 4000</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-editores-de-video-para-nuevos-creadores-eleccion-perfecta/"><u>Top 10 Editores De Video Para Nuevos Creadores: Elección Perfecta</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-when-your-pc-cant-close-windows-11-properly/"><u>Troubleshooting Tips for When Your PC Can't Close Windows 11 Properly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/twitscam-takedown-with-the-advent-of-metasignature/"><u>TwitScam Takedown with the Advent of MetaSignature</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlocking-instagrams-hidden-qanda-features-for-2024/"><u>Unlocking Instagram’s Hidden Q&A Features for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-updates-not-installing-heres-your-comprehensive-solution-guide/"><u>Windows 10 Updates Not Installing? Here's Your Comprehensive Solution Guide</u></a></li>
 </ul></div>
 

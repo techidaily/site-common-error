@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Repairing Malfunctioning USB Input Devices in Windows 7 Environments"
-date: 2024-10-05T08:47:55.878Z
-updated: 2024-10-07T00:06:09.951Z
+date: 2024-10-09T21:17:12.072Z
+updated: 2024-10-12T18:08:17.530Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/50da58587d7473ccea973193c5c4bacc32476fa35
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  So this is the quick fix for you. Sometimes it’s just your device driver running into glitches that caused the pen to stop working. In this case, simply shut down your computer and then restart it. The next time you use your pen on a PC, it should work as normal.
@@ -73,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/50da58587d7473ccea973193c5c4bacc32476fa35
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-636.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the next window, click**Change plan settings** next to your preferred plan.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-637.png)
@@ -82,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/50da58587d7473ccea973193c5c4bacc32476fa35
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-639.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that you’ve disabled Sleep Mode, restart your computer and check to see if the Huion pen works properly. If not, please move on to the next fix.
@@ -99,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/50da58587d7473ccea973193c5c4bacc32476fa35
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/win11-System-Power-1200x761.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Select**Never** from the drop-down for both**When plugged in, turn off my screen after** and**When plugged in, put my device to sleep after** .
@@ -113,46 +127,26 @@ thumbnail: https://thmb.techidaily.com/50da58587d7473ccea973193c5c4bacc32476fa35
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Tick the “Support TabletPC” option
 
  As mentioned in the user manual of the Huion pen, you should check the**Support TabletPC** box to enable the pressure sensitivity function in a variety of drawing programs. Here’s how:
 
  1) Double-click the**driver tablet icon** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-27_18-52-38.jpg) on your system tray (an area on the right side of your Taskbar) to open the PenTablet control interface.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Check the**Support TabletPC** box, as shown below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-665.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now go on to check whether your pen works properly. If it doesn’t, please proceed to Fix 4.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your tablet driver
 
@@ -181,6 +175,13 @@ OR
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2019-08-19_18-00-07-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or if you just want to update the Huion tablet driver for now, simply click the **Update**  button next to it.
 
@@ -214,13 +215,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-660.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Follow the on-screen wizard to install the driver.
 
 6) When everything’s done, reboot your computer for the changes to take effect.
@@ -241,13 +235,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-662.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then save the file as**PSUserConfig.txt** to the following location:
 
 C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photoshop CC 2018 Settings
@@ -257,6 +244,13 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 **Note** that some of the functions in your drawing software may be unusable if you disable Windows Ink. In that situation, you’ll need to enable Windows Ink again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-666.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The screenshot above comes from the new version of the Huion tablet driver interface. If you’re using the older one, such as the version shown in**[Fix 3](#fix3)** , then you won’t see this**Enable Windows Ink** option.
 
@@ -283,14 +277,21 @@ C:\Users\<username>\AppData\Roaming\Adobe\Adobe Photoshop CC 2018\Adobe Photosho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-transcribe-speech-to-text-seamlessly-using-words-tools-for-2024/"><u>[New] Transcribe Speech to Text Seamlessly Using Word's Tools for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-quick-conversion-at-no-expense-fb-videos-to-mp4-and-hd-now/"><u>[Updated] 2024 Approved Quick Conversion at No Expense - FB Videos to MP4 & HD Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/chinas-welcome-mat-laid-out-as-micron-announces-major-expansion-following-localized-memory-chip-restrictions/"><u>China's Welcome Mat Laid Out as Micron Announces Major Expansion Following Localized Memory Chip Restrictions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/1722991298451-discover-the-best-value-batteries-speed-up-your-electric-vehicle-with-budget-friendly-powerdrive-solutions/"><u>Discover the Best Value Batteries – Speed Up Your Electric Vehicle with Budget-Friendly PowerDrive Solutions!</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-resolving-google-chrome-is-not-responding-problems-instantly/"><u>Expert Guide: Resolving 'Google Chrome Is Not Responding' Problems Instantly</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-laptop-trackpad-issues-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Fixing Laptop Trackpad Issues on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-your-ps4-out-of-nat-trouble-a-sequential-strategy-for-successful-repair/"><u>Guide Your PS4 Out of NAT Trouble: A Sequential Strategy for Successful Repair</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-apple-iphone-6s-plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>How to Fix Apple iPhone 6s Plus Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-excessive-cpu-load-from-wudfhostexe-on-your-windows-10-pc/"><u>How to Resolve Excessive CPU Load From wudfhost.exe on Your Windows 10 PC</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-bringing-bygone-era-filmmaking-to-life-today/"><u>[New] Bringing Bygone Era Filmmaking to Life Today</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-tips-for-game-recording-on-windows-10-for-2024/"><u>[New] Essential Tips for Game Recording on Windows 10 for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-keep-the-curiosity-alive-with-these-6-viewer-friendly-types/"><u>[New] Keep the Curiosity Alive with These 6 Viewer-Friendly Types</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-decoding-and-practicing-with-creative-commons-licenses/"><u>[Updated] Decoding and Practicing with Creative Commons Licenses</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-image-perfection-an-editors-guide/"><u>[Updated] Image Perfection An Editor's Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-critical-review-of-vlcs-capture-tools/"><u>2024 Approved Critical Review of VLC's Capture Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-google-pixel-8-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Google Pixel 8 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-boost-engagement-with-clearly-marked-time-points/"><u>In 2024, Boost Engagement with Clearly Marked Time Points</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-quintessential-list-best-tales-from-youtube-in-23/"><u>In 2024, The Quintessential List Best Tales From YouTube in '23</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-troubles-learn-to-resolve-inactive-letter-buttons-on-win-1011-systems/"><u>Keyboard Troubles? Learn to Resolve Inactive Letter Buttons on Win 10/11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-out-of-memory-in-red-dead-redemption-2-with-a-larger-page-file-solution/"><u>Overcome Out of Memory in Red Dead Redemption 2 with a Larger Page File Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-dxgkrnl-fatal-error-in-videos-on-windows-a-step-by-step-guide/"><u>Solving the Dxgkrnl Fatal Error in Videos on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-eliminating-windows-11-update-failure-error-0x8024401c/"><u>Step-by-Step Solution: Eliminating Windows 11 Update Failure (Error 0X8024401C)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-fixing-shadowplay-setup-failures-on-nvidia-gpus/"><u>Troubleshooting Tips for Fixing ShadowPlay Setup Failures on Nvidia GPUs</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-non-responsive-usb-mouse-solutions-for-laptops/"><u>Troubleshooting Your Non-Responsive USB Mouse: Solutions for Laptops!</u></a></li>
+<li><a href="https://common-error.techidaily.com/yac553-yamahaaturbosound-ii-sound-module-based-on-the-ymf794cymu794c-dsp-plus-midi-synthesader-plus-codec-and-256-mb-of-spiram-for-sample-storage-instead-of18/"><u>YAC553 - Yamaha'aturboSound II Sound Module Based on the YMF794C/YMU794C (DSP + MIDI Synthesader + Codec) and 256 MB of SPIRAM for Sample Storage Instead of ROM. It Also Includes a Second Audio Input Connector</u></a></li>
 </ul></div>
 

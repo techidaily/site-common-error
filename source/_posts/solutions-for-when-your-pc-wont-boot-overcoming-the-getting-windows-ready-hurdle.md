@@ -1,7 +1,7 @@
 ---
 title: "Solutions for When Your PC Won't Boot: Overcoming the 'Getting Windows Ready' Hurdle"
-date: 2024-09-12T16:02:17.246Z
-updated: 2024-09-15T16:03:36.319Z
+date: 2024-10-11T04:30:34.169Z
+updated: 2024-10-12T19:24:32.700Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/2c476a6511fdbc972cd3ba10e08b5da699f589d12
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/cyber-security-1923446_1920-1024x655.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Update the drivers on your computer
 
  The problem “computer repeatedly turns and off” can be caused by faulty drivers. To fix the problem, you can try to update the drivers on your computer.  
@@ -59,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/2c476a6511fdbc972cd3ba10e08b5da699f589d12
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-813.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-817.png)
@@ -72,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/2c476a6511fdbc972cd3ba10e08b5da699f589d12
  Once removing a peripheral, check to see if the problem is resolved, then you can figure out which peripheral is causing the problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-2786081_1920-1024x626.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Reset CMOS to the default settings
 
@@ -101,19 +122,6 @@ For example, many Dell PCs show this key like below at the first screen:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-816.png)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) You can see a function key next to the option. Just press that key on your keyboard to bring up the edit dialog box.  
 
  3) On your keyboard,**use the narrow key** to select**Yes** to save the changes.  
@@ -123,10 +131,10 @@ For example, many Dell PCs show this key like below at the first screen:
  5)**Restart your computer** and check to see if the problem is resolved.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5: Check PSU (Power Supply Unit)
@@ -136,13 +144,6 @@ For example, many Dell PCs show this key like below at the first screen:
  For laptop, you can easily replace the PSU. But for desktop, you need to open the case. This could be technical and dangerous. If you know what you’re doing, that’s fine. But if not, we recommend you to take your computer to the repair store to have it checked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/computer-1168203_1920-1024x681.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 6: Check the fan
 
@@ -161,10 +162,10 @@ For example, many Dell PCs show this key like below at the first screen:
  For desktops, you can open the case and use a soft cloth to wipe the dust. The much easier method is to use a[compressed gas cleaning duster](https://www.amazon.com/Falcon-Compressed-Disposable-Cleaning-DPSXL4T/dp/B002ZB6LZA/&tag=easeware-camillamo-20) to get rid of the dust. For laptops, you’ll need to consult the manual or get technical help there if you haven’t opened one before.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 8: Replace the motherboard
@@ -190,5 +191,24 @@ For example, many Dell PCs show this key like below at the first screen:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mastering-game-capture-windows-11-edition/"><u>[New] 2024 Approved Mastering Game Capture Windows 11 Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-use-google-trends-to-come-up-with-video-ideas-easy-guide-for-2024/"><u>[Updated] How to Use Google Trends to Come up with Video Ideas [Easy Guide] for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-tips-for-tiktok-uploading-videos-on-macpc-for-2024/"><u>[Updated] Tips for TikTok Uploading Videos on Mac/PC for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-guide-to-correcting-launch-issues-and-setup-errors-in-origin-games/"><u>Easy Guide to Correcting Launch Issues and Setup Errors in Origin Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-windows-camera-error-code-0xa00f4292-step-by-step-guide/"><u>Fixing the 'Windows Camera Error: Code 0xA00F4292' - Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-guide-from-raw-images-to-high-quality-youtube-thumbnail-art/"><u>Hasty Guide From Raw Images to High-Quality YouTube Thumbnail Art</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/head-to-head-comparison-samsung-galaxy-s24-ultra-vs-s23-ultra/"><u>Head-to-Head Comparison: Samsung Galaxy S24 Ultra Vs. S23 Ultra</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For OnePlus Nord CE 3 Lite 5G</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-pubg-server-latency-problems-tips-and-tricks-for-optimal-performance/"><u>Overcoming PUBG Server Latency Problems - Tips & Tricks for Optimal Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/prevent-garrys-mod-from-freezing-expert-tips-and-solutions-for-a-smooth-experience/"><u>Prevent Garry's Mod From Freezing: Expert Tips and Solutions for a Smooth Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-windows-failed-to-connect-with-the-system-event-notification-service/"><u>Resolved: Fixing 'Windows Failed to Connect with the System Event Notification Service'</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-unregistered-classes-in-windows-10/"><u>Resolved: How to Fix Unregistered Classes in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-a-malfunctioning-laptop-keyboard-expert-advice/"><u>Resolving Issues with a Malfunctioning Laptop Keyboard - Expert Advice</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/screen-separation-assessing-splitcams-leadership/"><u>Screen Separation Assessing SplitCam's Leadership</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207772235-solving-server-accessibility-problems-in-destiny-2-a-step-by-step-guide/"><u>Solving Server Accessibility Problems in Destiny 2 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-failed-d3d-device-creation-in-windows-applications/"><u>Troubleshooting and Solving Failed D3D Device Creation in Windows Applications</u></a></li>
+</ul></div>
 

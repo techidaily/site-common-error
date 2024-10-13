@@ -1,7 +1,7 @@
 ---
 title: "Lonicera Morrowii (Morrow's Honeysuckle or Northern Bush Honeysuckle): Native to East Asia, It Produces White or Pinkish-White Flowers with Minimal Scent and Is Often Used as Groundcover in Gardens."
-date: 2024-10-01T09:37:50.490Z
-updated: 2024-10-06T22:26:39.002Z
+date: 2024-10-10T22:20:46.164Z
+updated: 2024-10-12T20:52:54.998Z
 tags:
   - win11
   - win10
@@ -31,22 +31,15 @@ Does this look familiar?
  **Method 1:[ Using Group Policy Editor ](<https://www.drivereasy.com/knowledge/windows-10-microsoft-compatibility-telemetry-high-disk-usage-solved/#Way> 1. Using Group Policy Editor) Method 2:[ Using Registry Editor](<https://www.drivereasy.com/knowledge/windows-10-microsoft-compatibility-telemetry-high-disk-usage-solved/#Way> 2. Using Registry Editor)**
  **Method 3:[Updating your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Using Group Policy Editor
 
 1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1bafc786d58.png)**  and **R** at the same time to invoke a **Run** command.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Type **gpedit.msc**  and click**OK** .
@@ -54,10 +47,10 @@ Does this look familiar?
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a279bde5ee8d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:**  If you cannot find gpedit.msc on your Windows 10,[here is the method to got it.](https://tools.techidaily.com/drivereasy/download/)
@@ -86,6 +79,13 @@ Does this look familiar?
  4) Double-click**Allow Telemetry** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a279cc82eec5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 `
 ` `
@@ -129,6 +129,13 @@ Does this look familiar?
 
  1)On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a1bafc786d58.png)**  and **R** at the same time to invoke a **Run** command.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) T ype**regedit**  in the box and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a22807d2e.png)
@@ -143,27 +150,20 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a53baa7f6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **NOTE:** If you can’t find Allow Telemetry, create it manually: Right-click on DataCollection and choose**New** \>**DWORD (32-bit) Value** . Then name the new value **Allow** **Telemetry** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Set**Value date** to **0** (zero) and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a27a576ca320.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) On your keyboard, press **Ctrl**  \+ **Shift**  \+ **Esc**  keys (at the same time) to open your Task Manager, check to see if Microsoft Compatibility Telemetry takes up a normal disk usage.
 
@@ -184,18 +184,18 @@ Does this look familiar?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae696a52856.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next toany flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae6a0c3f690.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Reboot your Windows 10 PC.
 
@@ -229,16 +229,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/inge-watch-with-ease-best-playlist-extractors-reviewed-and-rated/"><u>[New] Binge-Watch With Ease Best Playlist Extractors Reviewed & Rated</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-crystal-clear-comparison-rating-the-best-8k-tvs-of-year/"><u>[New] Crystal Clear Comparison Rating the Best 8K TVs of Year</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-echo-chamber-new-tech-insights-for-2024/"><u>[New] Echo Chamber New Tech Insights for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-event-id-1000-in-windows-7-8-and-10/"><u>[Solved] Event ID 1000 in Windows 7, 8 and 10</u></a></li>
-<li><a href="https://article-files.techidaily.com/bringing-rhythm-to-slides-including-tunes-in-ppt/"><u>Bringing Rhythm to Slides Including Tunes in PPT</u></a></li>
-<li><a href="https://common-error.techidaily.com/ending-windows-11-crashes-immediately/"><u>Ending Windows 11 Crashes Immediately</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-it-now-how-to-resolve-wacom-tablet-functionality-issues-quickly/"><u>Fix It Now: How To Resolve Wacom Tablet Functionality Issues Quickly</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-11-pro-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 11 Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-performance-fixing-excessive-disk-utilization-caused-by-compatibility-telemetry-in-windows-10/"><u>Optimizing Performance: Fixing Excessive Disk Utilization Caused by Compatibility Telemetry in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-errors-how-to-repair-com-surrogate-process-not-responding/"><u>Resolving Errors: How to Repair 'COM Surrogate Process Not Responding'</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/0plus-free-online-youtube-intro-makers/"><u>Top 10+ Free Online YouTube Intro Makers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-seamless-multiplayer-sessions-with-xbox-zoom-support-for-2024/"><u>[Updated] Seamless Multiplayer Sessions with Xbox Zoom Support for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-key-steps-to-perfectly-mix-obs-and-zoom/"><u>[Updated] The Key Steps to Perfectly Mix OBS & Zoom</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-pillars-of-profitable-digital-marketing/"><u>[Updated] The Pillars of Profitable Digital Marketing</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-suspected-errors-in-windows-10s-update-system/"><u>Diagnosing & Repairing Suspected Errors in Windows 10'S Update System</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discovering-performance-excellence-with-the-blade-blh4100-a-detailed-oversight-for-enthusiasts-seeking-flight-freedom/"><u>Discovering Performance Excellence with the Blade BLH4100 - A Detailed Oversight for Enthusiasts Seeking Flight Freedom</u></a></li>
+<li><a href="https://video-capture.techidaily.com/exclusive-insights-unlock-the-secrets-to-screen-capturing-games/"><u>Exclusive Insights Unlock the Secrets to Screen Capturing Games</u></a></li>
+<li><a href="https://win-forum.techidaily.com/find-out-the-version-of-powershell-in-windows-10-with-simple-tricks/"><u>Find Out the Version of PowerShell in Windows 10 with Simple Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/ftdi-bus-issues-system-halts-driver-mismatch-causes-loss-of-data-integrity/"><u>FTDI Bus Issues: System Halts - Driver Mismatch Causes Loss of Data Integrity</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-6-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 6 With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-constant-stream-lag-and-buffering-on-kodi-platform/"><u>How to Fix Constant Stream Lag and Buffering on Kodi Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-quiet-down-an-annoyingly-active-blinking-cursor-on-your-screen/"><u>How To Quiet Down an Annoyingly Active Blinking Cursor on Your Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-tecno-camon-30-pro-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Tecno Camon 30 Pro 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-revitalizing-mobile-cinematic-vision-4-strategies-for-hdr-enhancement-in-premiere/"><u>In 2024, Revitalizing Mobile Cinematic Vision 4 Strategies for HDR Enhancement in Premiere</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210664483-resolve-windows-10-failure-to-shut-down-issues-in-minutes/"><u>Resolve Windows 10 Failure to Shut Down Issues in Minutes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-enabling-hosted-mode-wireless-access-points-on-windows-10-devices/"><u>Solutions for Enabling Hosted Mode Wireless Access Points on Windows 10 Devices</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-future-of-editing-shines-with-magix-video-pro-x-for-2024/"><u>The Future of Editing Shines with Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-destiny-2s-unreachable-servers-tips-and-tricks/"><u>Troubleshooting Destiny 2'S Unreachable Servers: Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tip-successfully-addressed-error-1067-abrupt-termination-of-windows-tasks/"><u>Troubleshooting Tip: Successfully Addressed 'Error #1067': Abrupt Termination of Windows Tasks</u></a></li>
+<li><a href="https://common-error.techidaily.com/unfreezing-slow-moving-window-update-states-on-legacy-oss-latest-techniques-and-solutions-for-better-user-experience-in-the-year-of-our-lord-two-thousand-an59/"><u>Unfreezing Slow-Moving Window Update States On Legacy OSs - Latest Techniques And Solutions For Better User Experience in the Year of Our Lord Two Thousand and Twenty Four (Guide, Helpful Tips & Troubleshooting Steps)</u></a></li>
 </ul></div>
 

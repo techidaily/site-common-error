@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Repair werFault.exe Program Errors
-date: 2024-10-02T23:48:28.874Z
-updated: 2024-10-07T08:00:59.594Z
+date: 2024-10-09T17:57:47.965Z
+updated: 2024-10-13T02:23:32.738Z
 tags:
   - win11
   - win10
@@ -72,6 +72,13 @@ If this issue persists, don’t worry. Try the next fix, below.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Modify your graphics card settings
 
  If this error message reappears after you update your graphics driver to the latest version, try modifying your graphics card settings to see if you can fix this issue. Here is how to do it:
@@ -114,18 +121,19 @@ If this issue persists, don’t worry. Try the next fix, below.
 5. Click **Scan** to add the game to the application list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
  Launch the application that crashed with Error 0x887A0006 to see if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Modify the Registry with Notepad
 
@@ -136,10 +144,10 @@ If this issue persists, don’t worry. Try the next fix, below.
 2. **Copy and paste** the following text into Notepad:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **If you are using a 64-bit system** , copy and paste this:  
@@ -156,33 +164,48 @@ If this issue persists, don’t worry. Try the next fix, below.
 4. Save the file as_fix.reg_ to the desktop. Please make sure you select the Save type as “**All Files** ” and the encoding as “**ANSI** “. Then close Notepad.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/save-as-fix-reg.png)
 5. **Double-click** the .reg file you saved. Click**Yes** when the UAC prompts. Then a prompt from Registry Editor will pop up. Click**Yes** to continue.  
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor.png)
 6. Click**OK** when Windows tells you the keys and values have been successfully added to the registry.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/reg-editor-2.png)
 7. Launch the problematic application again to see if this fix works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this fix doesn’t work, or if you want to undo the change in the registry, do as follows:
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the Run dialog. Type**regedit** and press**Enter** to open**Registry Editor** . You’ll be prompted for permission, click**Yes** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 2. Go to **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\GraphicsDrivers** and locate a key called**TdrDelay** . Right-click on it and select**Delete** to delete it.  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit-tdrdelay.png)
-3. Restart your PC to save the change.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit-tdrdelay.png)
+3. Restart your PC to save the change.
 
 If this fix doesn’t work for you, try the next fix, below.
 
@@ -197,13 +220,6 @@ If this fix doesn’t work for you, try the next fix, below.
 
  See if Error 0x887A0006 reappears after you installed the latest Windows update. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Change the power plan of your PC
 
  Most PCs are configured as **Balanced** , which may limit the operating capacity of your graphics card and CPU. If the power plan of your PC is a **Power saver**  or **Balanced** , the game may not run properly due to limited performance, and it may even crash with Error 0x887A0006.
@@ -215,13 +231,6 @@ If this fix doesn’t work for you, try the next fix, below.
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Adjust your Windows system for the best performance
 
  If Fix 6 fails to resolve this issue, you can also try adjusting your Windows system for the best performance to see if this error message reappears. Here is how to do it:
@@ -229,23 +238,24 @@ If this fix doesn’t work for you, try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **control sysdm.cpl** and press **Enter** to open the**System Properties** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-system-properties.png)
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
-3. Select **Adjust for best performance**  and click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
+3. Select **Adjust for best performance**  and click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Run the game or application that crashed with Error 0x887A0006 again to see if this issue persists. If not, congratulations! You’ve fixed this issue. If this issue remains, try reinstalling the game or the problematic application.
@@ -273,24 +283,24 @@ If this fix doesn’t work for you, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-how-to-trim-video-in-windows-10-photos-easily/"><u>[New] How to Trim Video in Windows 10 Photos Easily</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-infuse-illustration-with-life-techniques-for-motion-in-ai-images/"><u>[New] In 2024, Infuse Illustration with Life Techniques for Motion in AI Images</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unleash-your-potential-with-these-top-12-pc-clickers-for-2024/"><u>[New] Unleash Your Potential with These Top 12 PC Clickers for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-creations-get-free-high-quality-templates-today/"><u>[Updated] Elevate Creations - Get FREE High-Quality Templates Today!</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-enhance-your-music-library-top-6-free-ios-apps-for-audio-conversion-for-2024/"><u>[Updated] Enhance Your Music Library Top 6 Free iOS Apps for Audio Conversion for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-twitchs-error-nigma-code-4000-with-these-simple-repair-techniques/"><u>Beat Twitch's Error Nigma Code 4000 with These Simple Repair Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202561962-combat-the-disappearing-cursor-problem-on-your-windows-11-touchpad-today/"><u>Combat the Disappearing Cursor Problem on Your Windows 11 Touchpad Today!</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-solution-to-overcome-the-pitch-black-display-problem-in-monster-hunter-game/"><u>Complete Solution To Overcome The Pitch-Black Display Problem In Monster Hunter Game</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-refresh-options-for-microsofts-latest-operating-system-windows-11/"><u>Effortless Refresh Options for Microsoft's Latest Operating System, Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/enable-digital-writing-tools-fix-pen-not-detected-or-touch-unresponsive-screen-problems/"><u>Enable Digital Writing Tools: Fix 'Pen Not Detected' Or 'Touch Unresponsive' Screen Problems</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-speed-up-your-pcs-shut-down-process-in-windows-10/"><u>How to Speed Up Your PC's Shut Down Process in Windows # 10</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-realme-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Realme Phone Screen?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-fastest-flip-screen-games-on-desktops-and-phones/"><u>In 2024, Top 10 Fastest Flip-Screen Games on Desktops & Phones</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-12-pro-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 12 Pro in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mitigating-complications-due-to-missing-xinput13dll-file/"><u>Mitigating Complications Due to Missing XINPUT1_3.dll File</u></a></li>
-<li><a href="https://common-error.techidaily.com/origin-gaming-fix-overcoming-common-setup-challenges-for-seamless-play/"><u>Origin Gaming Fix: Overcoming Common Setup Challenges for Seamless Play</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-fixing-corrupted-files-with-windows-system-file-checker-and-deployment-image-service/"><u>Troubleshooting Tips: Fixing Corrupted Files with Windows System File Checker & Deployment Image Service</u></a></li>
-<li><a href="https://common-error.techidaily.com/wolfenstein-ii-stealth-assassin-addressing-crash-dump-writing-challenges/"><u>Wolfenstein II: Stealth Assassin - Addressing Crash Dump Writing Challenges</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-a-step-by-step-guide-to-crafting-an-effective-youtube-watch-later-playlist/"><u>[New] 2024 Approved A Step-by-Step Guide to Crafting an Effective YouTube Watch Later Playlist</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ensuring-audio-clarity-amidst-remote-recording-challenges/"><u>[New] Ensuring Audio Clarity Amidst Remote Recording Challenges</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-maximizing-engagement-in-online-collaboration-with-snap-camera/"><u>[New] In 2024, Maximizing Engagement in Online Collaboration with Snap Camera</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-perfecting-your-podcast-entry-in-apples-catalog/"><u>2024 Approved Perfecting Your Podcast Entry in Apple's Catalog</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/advanced-techniques-to-improve-frame-rate-and-gaming-experience-in-ring-of-elysium/"><u>Advanced Techniques to Improve Frame Rate and Gaming Experience in Ring of Elysium</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-fixing-detached-media-devices-on-your-window-computer/"><u>Comprehensive Solutions for Fixing Detached Media Devices on Your Window Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-fortnite-initial-start-up-problems/"><u>Fixed Fortnite Initial Start-Up Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-freezing-windows-10-system-expert-tips-and-solutions/"><u>How to Fix a Freezing Windows 10 System: Expert Tips and Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-avoidance-manual-how-to-skip-edgenuity-courses-without-penalty/"><u>In 2024, Avoidance Manual How to Skip Edgenuity Courses Without Penalty</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-11-solutions-for-missing-class-registration-issues/"><u>Mastering Windows 11: Solutions for Missing Class Registration Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-failed-directx-graphics-driver-instantiation/"><u>Overcoming the Challenge of Failed DirectX Graphics Driver Instantiation</u></a></li>
+<li><a href="https://common-error.techidaily.com/problem-solved-unresponsive-keyboard-fixed/"><u>Problem Solved: Unresponsive Keyboard Fixed</u></a></li>
+<li><a href="https://common-error.techidaily.com/pwm-alters-pulse-width-while-maintaining-constant-amplitude-and-frequency/"><u>PWM Alters Pulse Width While Maintaining Constant Amplitude and Frequency.</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-restore-corrupt-file-containers-in-windows-11/"><u>Step-by-Step Tutorial: Restore Corrupt File Containers in Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-for-converting-tiktok-sounds-into-practical-phone-alarms/"><u>The Ultimate Guide for Converting TikTok Sounds Into Practical Phone Alarms</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-troubleshooting-tips-for-restoring-microsoft-outlook-functionality-on-latest-windows-versions/"><u>Ultimate Troubleshooting Tips for Restoring Microsoft Outlook Functionality on Latest Windows Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/visual-settings-puzzlingly-absent-from-win-1011/"><u>Visual Settings Puzzlingly Absent From Win 10/11</u></a></li>
 </ul></div>
 

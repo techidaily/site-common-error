@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot HP Laptop Non-Functional Keys with These Simple Steps
-date: 2024-09-14T16:04:53.525Z
-updated: 2024-09-15T16:07:38.454Z
+date: 2024-10-05T20:58:28.492Z
+updated: 2024-10-12T16:19:43.115Z
 tags:
   - win11
   - win10
@@ -43,9 +43,23 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -101,6 +115,13 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -114,13 +135,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -130,26 +144,26 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -183,5 +197,24 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-sensory-storytelling-crafting-engaging-food-videos/"><u>[Updated] Sensory Storytelling Crafting Engaging Food Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/cd-flac/"><u>最強のオーディオソフトウェア選び: 安価なCD FLAC変換手法</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-strategies-for-repairing-common-oculus-tech-problems-this-year/"><u>Comprehensive Strategies for Repairing Common Oculus Tech Problems This Year</u></a></li>
+<li><a href="https://facebook.techidaily.com/crafting-successful-facebook-gatherings-tips-and-tricks/"><u>Crafting Successful Facebook Gatherings: Tips & Tricks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-the-ultimate-list-of-mp3-extractors-for-pcs-and-browsers-ranked-by-movavi/"><u>Discover the Ultimate List of MP3 Extractors for PCs and Browsers, Ranked by Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-picks-top-body-camera-gear-for-police/"><u>Expert Picks: Top Body Camera Gear for Police</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-no-playable-source-errors-in-windows-media-player-complete-guide/"><u>Fixing 'No Playable Source' Errors in Windows Media Player - Complete Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigate-hdri-windows-powered-editing-wonders/"><u>In 2024, Navigate HDRI Windows-Powered Editing Wonders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-unravel-the-mysteries-of-morphvox-the-ultimate-guide-to-voice-modification/"><u>In 2024, Unravel the Mysteries of MorphVOX The Ultimate Guide to Voice Modification</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-and-solving-the-infamous-windows-update-hurdle-code-0x800705b4-in-windows-11/"><u>Navigating and Solving the Infamous Windows Update Hurdle: Code 0X800705B4 in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-windows-11-blue-screen-dilemma-a-comprehensive-guide/"><u>Solving the Windows 11 Blue Screen Dilemma - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-fix-error-code-0x800f020b-during-xerox-updates-in-windows/"><u>Step-by-Step Solution to Fix Error Code 0X800f020b During Xerox Updates in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/success-story-fixing-failed-attempts-at-creating-a-directx-visual-device/"><u>Success Story: Fixing Failed Attempts at Creating a DirectX Visual Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-failed-startup-on-windows-10-a-step-by-step-solution-guide/"><u>Troubleshoot Failed Startup on Windows 10 - A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-boost-your-systems-capacity-beyond-insufficient-resources-errors/"><u>Update: Boost Your System's Capacity Beyond 'Insufficient Resources' Errors</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unresponsive-plugins-in-fcpx-heres-what-you-need-to-do/"><u>Updated Unresponsive Plugins in FCPX? Heres What You Need to Do</u></a></li>
+</ul></div>
 

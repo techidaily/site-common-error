@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solutions for Fatal Mistakes in Call of Duty: Black Ops 4"
-date: 2024-09-30T19:33:30.953Z
-updated: 2024-10-06T18:18:38.822Z
+date: 2024-10-06T22:00:01.103Z
+updated: 2024-10-12T16:37:07.733Z
 tags:
   - win11
   - win10
@@ -54,16 +54,16 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Select**Status** . Then, click**Change adapter options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-3-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Right-click the network you’re currently using, and click**Properties** .
 
@@ -89,6 +89,13 @@ When you fail to access another computer of the same network, or when you cannot
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-3-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** In the command prompt window, type in the following commands and press the **Enter** key after each command.
 
 ipconfig /flushdns
@@ -100,6 +107,13 @@ netsh winsock reset
 netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that the DNS cache is cleared, NetBIOS entries are refreshed, and both the IP settings and Winsock catalog is reset, you should reboot your computer for the changes to take effect. After that, check if the issue persists; if yes, head towards the last fix.
 
@@ -121,6 +135,13 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-3-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Right-click a device and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3-5-1.jpg)
@@ -136,10 +157,10 @@ netsh int ip reset
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Fix 0x800704cf error when accessing the Microsoft Store**
@@ -151,13 +172,6 @@ netsh int ip reset
 1. **[Sign in with Microsoft account](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Run the Windows troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reset the Microsoft Store](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1 – Sign in with Microsoft account
 
@@ -175,13 +189,6 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Enter your**account** and**password** to sign in.
 
 **5)** Go back to**Your info** , and click**Verify** .
@@ -192,13 +199,6 @@ netsh int ip reset
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2 – Run the Windows troubleshooter
 
  If the 0x800704cf error keeps appearing when you’re using the Microsoft Store, the Windows built-in troubleshooter is an effective tool that may help you out.
@@ -206,13 +206,6 @@ netsh int ip reset
 **1)** Type**troubleshoot** in the search box and click**Troubleshooting settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Scroll down to click**Network Adapter** . Then, click**Run the troubleshooter** .
 
@@ -222,25 +215,11 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-3-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Wait for the troubleshooting process to complete, and close the troubleshooter.
 
 **5)** Click**troubleshoot** in the search box and click**Troubleshooting settings** to open the troubleshoot menu again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Scroll down to click**Windows Store Apps** and click**Run the troubleshooter** .
 
@@ -258,9 +237,23 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Select**Apps & features** . Then, scroll down to click**Microsoft Store** , and click**Advanced options** .
 
@@ -302,6 +295,19 @@ netsh int ip reset
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-2-7.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -331,19 +337,22 @@ netsh int ip reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-amazon-prime-videos-social-stardom-on-twitter/"><u>[New] 2024 Approved Amazon Prime Video's Social Stardom on Twitter</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-elite-video-call-and-chat-service-selections/"><u>[New] 2024 Approved Elite Video Call & Chat Service Selections</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-capturewin-the-hassle-free-screen-recorder-for-2024/"><u>[New] CaptureWin The Hassle-Free Screen Recorder for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unlock-the-potential-of-live-streaming-facebook-via-obs-devices-for-2024/"><u>[New] Unlock the Potential of Live Streaming Facebook via OBS Devices for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-desktop-capture-showdown-select-between-obs-and-shadowplay/"><u>[Updated] 2024 Approved Desktop Capture Showdown Select Between OBS and ShadowPlay</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-elegance-how-the-motorola-one-mimics-iphones-at-half-the-price/"><u>Affordable Elegance: How the Motorola One Mimics iPhones at Half the Price</u></a></li>
-<li><a href="https://common-error.techidaily.com/battleye-service-installation-issue-resolved-successful-fix/"><u>BattlEye Service Installation Issue Resolved - Successful Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-ways-to-resolve-csgo-crashes-get-back-in-action-immediately/"><u>Effortless Ways to Resolve CSGO Crashes - Get Back in Action Immediately</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-computer-stuck-on-windows-10-boot-screen/"><u>How to Fix a Computer Stuck on Windows 10 Boot Screen</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-error-cant-find-appropriate-printer-driver/"><u>How to Fix Windows Error: Can't Find Appropriate Printer Driver</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-flight-to-perfection-assessing-gopro-karmas-capabilities/"><u>In 2024, Flight to Perfection Assessing GoPro Karma's Capabilities</u></a></li>
-<li><a href="https://common-error.techidaily.com/logitechs-silent-hero-usb-restored/"><u>Logitech's Silent Hero: USB Restored</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-edit-like-a-pro-fcp-audio-editing-techniques-for-video-creators-for-2024/"><u>Updated Edit Like a Pro FCP Audio Editing Techniques for Video Creators for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205352887-fixed-windows-smartscreen-cant-be-reached-right-now/"><u>[FIXED] Windows SmartScreen Can't Be Reached Right Now</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-daily-digital-deluge-youtubes-prime-videos-ranked-1-10/"><u>[New] In 2024, Daily Digital Deluge YouTube's Prime Videos Ranked #1-10</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-elicit-entertainment-giphys-meme-makers/"><u>[New] In 2024, Elicit Entertainment Giphy's Meme Makers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-10-premier-travel-blogs-to-watch-online/"><u>[Updated] 10 Premier Travel Blogs to Watch Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-can-buying-likes-improve-youtube-rankings/"><u>[Updated] In 2024, Can Buying Likes Improve YouTube Rankings?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-unlock-advanced-splitting-with-non-xsplit-apps/"><u>[Updated] In 2024, Unlock Advanced Splitting with Non-Xsplit Apps</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-streamline-discord-the-ultimate-list-of-10-key-plugins-for-2024/"><u>[Updated] Streamline Discord The Ultimate List of 10 Key Plugins for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlimited-savvy-instagrams-infinite-save-tool-for-2024/"><u>[Updated] Unlimited Savvy Instagram's Infinite Save Tool for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-elite-hdr-cameras-a-buyers-selection-guide/"><u>2024 Approved Elite HDR Cameras A Buyer's Selection Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/decided-no-opengl-backing-by-drivers/"><u>Decided: No OpenGL Backing by Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-overcoming-the-d3derr-not-available-system-failure/"><u>DIY Repair: Overcoming the 'D3DERR Not Available' System Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-bluetooth-keyboard-when-attempting-to-pair-with-your-desktoplaptop/"><u>How to Fix a Non-Responsive Bluetooth Keyboard When Attempting to Pair with Your Desktop/Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-parameter-is-incorrect-error/"><u>How to Fix The Parameter Is Incorrect Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201196151-overcoming-errors-in-geforce-experience-retrieving-saved-preferences-now-fixed/"><u>Overcoming Errors in GeForce Experience - Retrieving Saved Preferences Now Fixed</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-when-your-computer-freezes-on-the-getting-windows-ready-screen/"><u>Solutions for When Your Computer Freezes On the Getting Windows Ready Screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-windows-installer-service-could-not-be-accessed-error-fixed/"><u>The Windows Installer Service Could Not Be Accessed Error [Fixed]</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-fcpx-power-user-unlock-40-time-saving-keyboard-shortcuts-for-2024/"><u>Updated FCPX Power User Unlock 40 Time-Saving Keyboard Shortcuts for 2024</u></a></li>
 </ul></div>
 

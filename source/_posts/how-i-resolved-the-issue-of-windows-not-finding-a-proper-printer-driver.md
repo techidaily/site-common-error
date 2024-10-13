@@ -1,7 +1,7 @@
 ---
 title: How I Resolved the Issue of Windows Not Finding a Proper Printer Driver
-date: 2024-10-04T04:47:12.831Z
-updated: 2024-10-07T08:51:26.027Z
+date: 2024-10-10T17:41:34.707Z
+updated: 2024-10-12T19:12:28.026Z
 tags:
   - win11
   - win10
@@ -43,21 +43,7 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 2: Check your desktop icon settings
 
@@ -66,26 +52,33 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Click **Themes** \> **Desktop icon settings**.  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
 
@@ -94,6 +87,14 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -112,17 +113,24 @@ If your desktop icons still don’t show up, you can perform a system restore to
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
@@ -137,20 +145,14 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 3. In the **Reset this PC** area, click the **Get started** button. Then follow the on-screen instructions to reset your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
----
-
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Bonus tip
 
@@ -192,18 +194,18 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fullview-media-collaboration-guidebook/"><u>[New] In 2024, FullView Media Collaboration Guidebook</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-definitive-2023-bandicam-handbook-for-gamers/"><u>[New] In 2024, The Definitive 2023 Bandicam Handbook for Gamers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-pioneering-the-soundtrack-adding-editing-and-cropping-music-for-2024/"><u>[New] Pioneering the Soundtrack Adding, Editing, and Cropping Music for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-keep-your-content-safe-guidelines-for-clearance-of-tiktok-videos/"><u>[Updated] Keep Your Content Safe Guidelines for Clearance of TikTok Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/detailed-guide-to-add-transitions-in-kinemaster/"><u>Detailed Guide to Add Transitions in Kinemaster</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-phantom-cursor-on-windows-11-a-step-by-step-solution-for-users/"><u>Fixing the Phantom Cursor on Windows 11: A Step-by-Step Solution for Users</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-your-computers-inability-to-initialize-properly/"><u>How to Resolve Your Computer's Inability to Initialize Properly</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-filmmakers-roadmap-creating-youtube-trailers-using-filmora/"><u>In 2024, The Filmmaker's Roadmap Creating YouTube Trailers Using Filmora</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-league-of-legends-connectivity-glitch-fixed-in-latest-update-april-2024/"><u>Resolved: League of Legends Connectivity Glitch Fixed in Latest Update, April 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-ps4-mic-problems-the-best-methods-explored/"><u>Solving PS4 Mic Problems: The Best Methods Explored</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-role-of-msda80dll-in-your-pcs-functionality-keep-or-remove/"><u>The Role of MSDA80.DLL in Your PC's Functionality - Keep or Remove?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-6-youtube-shorts-downloaders-free-and-online-for-2024/"><u>Top 6 YouTube Shorts Downloaders [Free & Online] for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-your-straightforward-guide-to-watching-favored-youtube-comments/"><u>[New] 2024 Approved Your Straightforward Guide to Watching Favored YouTube Comments</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-convert-spoken-words-into-written-content-using-ms-words-in-built-tools/"><u>[Updated] In 2024, Convert Spoken Words Into Written Content Using MS Word's In-Built Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-complete-screencast-process-methodical-instructional-video/"><u>2024 Approved Complete Screencast Process Methodical Instructional Video</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-steps-to-enable-gpt-3s-web-features/"><u>Essential Steps to Enable GPT-3's Web Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-pitch-black-to-bright-ideas-repairing-full-screen-darkness-in-google-chrome/"><u>From Pitch Black to Bright Ideas: Repairing Full-Screen Darkness in Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restoring-the-print-screen-feature-with-windowsplusshiftpluss-on-modern-windows-systems/"><u>Guide to Restoring the 'Print Screen' Feature with Windows+Shift+S on Modern Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restoring-visible-touchpad-pointer-on-windows-11/"><u>Guide to Restoring Visible Touchpad Pointer on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-restoring-vcruntime140dll-file-to-fix-your-windows-10-app-startup-errors/"><u>Guide: Restoring VCRUNTIME140.dll File to Fix Your Windows 10 App Startup Errors</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-7-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 7 After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-motorola-defy-2-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Motorola Defy 2 Location | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-a-broken-right-click-a-windows-11-users-manual/"><u>Quick Fixes for a Broken Right Click: A Windows 11 User's Manual</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/wallet-friendly-dome-cams-accessible-vr-video-options/"><u>Wallet-Friendly Dome Cams Accessible VR Video Options</u></a></li>
+<li><a href="https://common-error.techidaily.com/wireless-woes-no-more-a-comprehensive-guide-to-sync-your-airpods-with-windows-pcs/"><u>Wireless Woes No More: A Comprehensive Guide to Sync Your AirPods with Windows PCs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Get Your Lenovo Mouse Pad Up and Running in Windows 11/8/7 [SOLUTION]
-date: 2024-10-06T05:15:56.467Z
-updated: 2024-10-06T22:29:59.367Z
+date: 2024-10-10T00:39:54.276Z
+updated: 2024-10-13T02:00:28.293Z
 tags:
   - win11
   - win10
@@ -43,15 +43,45 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -68,29 +98,9 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
 
@@ -101,33 +111,19 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Click the **High performance** option > **Change plan settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
@@ -153,16 +149,22 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/dell-camera-errors-on-windows-heres-how-to-make-them-work-again/"><u>Dell Camera Errors on Windows? Here's How to Make Them Work Again!</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-guide-enable-and-show-bluetooth-adapter-in-windows-device-manager/"><u>Essential Guide: Enable & Show Bluetooth Adapter in Windows Device Manager</u></a></li>
-<li><a href="https://win-able.techidaily.com/god-of-war-unveiling-the-first-person-shooter-experience-for-pc-gamers/"><u>God of War: Unveiling the First-Person Shooter Experience for PC Gamers</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-mouse-frozen-on-laptop/"><u>How To Fix Mouse Frozen On Laptop</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-7-plus-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 7 Plus for Free? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-13-ultra-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 13 Ultra PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-problem-during-restore-mistake-in-windows-10-fixed/"><u>Resolving 'Problem During Restore' Mistake in Windows 10 – Fixed</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-2024-error-this-device-cant-accept-miracast-proven-fixes/"><u>Resolving the 2024 Error: This Device Can't Accept Miracast - Proven Fixes</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ling-the-secret-of-affordable-video-ad-creation-on-youtube-for-2024/"><u>Unveiling the Secret of Affordable Video Ad Creation on YouTube for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/virtual-conversations-unleashed-with-pc-based-whatsapp-web-chat-for-2024/"><u>Virtual Conversations Unleashed with PC-Based WhatsApp Web Chat for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-revolutionize-your-fb-video-strategy-with-these-ideas/"><u>[New] Revolutionize Your FB Video Strategy with These Ideas</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outubers-toolkit-essential-setup-guidelines/"><u>[New] Youtubers' Toolkit Essential Setup Guidelines</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-6-cheap-4k-projectors/"><u>Best 6 Cheap 4K Projectors</u></a></li>
+<li><a href="https://common-error.techidaily.com/boost-your-pc-gameplay-mastering-windows-11-performance-enhancements/"><u>Boost Your PC Gameplay: Mastering Windows 11 Performance Enhancements</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-your-samsung-c460-drivers-instantly-and-effortlessly/"><u>Download Your Samsung C460 Drivers Instantly & Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-when-your-computer-struggles-with-memory-in-windows-11/"><u>Effective Solutions for When Your Computer Struggles with Memory in Windows 11</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/einfacher-tutorial-zum-cloning-einer-kleineren-m2-ssd-auf-eine-grossere-in-windows-11-10-8-oder/"><u>Einfacher Tutorial Zum Cloning Einer Kleineren M.2 SSD Auf Eine Größere in Windows 11, 10, 8 Oder</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-repairing-a-non-functional-shift-key-successful-strategies-inside/"><u>Expert Advice on Repairing a Non-Functional Shift Key: Successful Strategies Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-how-to-resolve-the-silent-gameplay-issue-in-forza-horizon-4/"><u>Fixed: How to Resolve the Silent Gameplay Issue in Forza Horizon 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-issue-resolve-microsoft-windows-camera-error-0xa00f4292/"><u>Fixing the Issue: Resolve Microsoft Windows Camera Error 0xA00F4292</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-a-graphics-driver-upgrade-restored-your-devices-miracast-capabilities-successfully/"><u>How a Graphics Driver Upgrade Restored Your Device's Miracast Capabilities Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-address-frequent-usb-connection-drops-and-keep-your-device-hooked-up/"><u>How to Address Frequent USB Connection Drops and Keep Your Device Hooked Up</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-teredo-cannot-establish-connection-error/"><u>How to Fix 'Teredo Cannot Establish Connection' Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-uninstall-apps-on-the-mac/"><u>How to Uninstall Apps on the Mac</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-step-up-to-stardom-10-pro-tips-for-pixlr-excellence/"><u>In 2024, Step up to Stardom 10 Pro Tips for Pixlr Excellence</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-video-dimensions-for-youtube-shorts-a-guide-to-adjusting-aspect-ratios/"><u>Optimizing Video Dimensions for YouTube Shorts: A Guide to Adjusting Aspect Ratios</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-selection-of-top-rated-slow-motion-video-tools/"><u>Ultimate Selection of Top-Rated Slow-Motion Video Tools</u></a></li>
 </ul></div>
 

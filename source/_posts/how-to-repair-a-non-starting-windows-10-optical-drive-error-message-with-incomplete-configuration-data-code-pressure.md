@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Non-Starting Windows 10 Optical Drive - Error Message with Incomplete Configuration Data (Code Pressure)
-date: 2024-09-10T16:01:26.348Z
-updated: 2024-09-15T16:00:39.389Z
+date: 2024-10-09T23:55:04.548Z
+updated: 2024-10-13T03:46:56.979Z
 tags:
   - win11
   - win10
@@ -34,9 +34,23 @@ Here are the solutions for you to try. You don’t need to try them all; just wo
 
 **Note** : You’ll need to be logged into Windows on the problem computer to try[solution 3](https://tools.techidaily.com/drivereasy/download/) and[solution 4](https://tools.techidaily.com/drivereasy/download/) . If you can’t log into Windows, power on and off your PC 3 times to perform a hard reboot and restart it in[Safe Mode](https://tools.techidaily.com/drivereasy/download/) , then try the solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Why does 0xc00000e9 occur to my computer?
 
 The error code 0xc00000e9 is generally a hardware error pretaining to your**BIOS settings**. If you are seeing this error, generally it’s because your computer can’t communicate with the hard drive. Another cause is the**SSD (Solid-state drive) issue**when installing Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Solution 1: Check your hardware compatibility**
 
@@ -52,25 +66,18 @@ You can try to boot your computer with the hard drive to fix 0xc00000e9\. Follow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab22ea821a18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Once you’re in the Boot options, make sure the**first boot device**is your**hard drive**. You can press the arrow key to highlight the hard drive and move it to the top of the boot device list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab23153b0892.png)
 
-5)**Save**your changes, and reboot your computer. This should fix your problem.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5)**Save**your changes, and reboot your computer. This should fix your problem.
 
 ## **Solution 3: Update your drivers**
 
@@ -84,29 +91,29 @@ The driver problem can also cause the error 0xc00000e9, because the hardware can
 
 4) Restart your computer and see if the error 0xc00000e9 disappears.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Solution 4: Run a disk check**
 
 The error 0xc00000e9 can be caused by the disk problem. You should make sure that your disk works properly. 1) Boot your computer into**Safe Mode**. (You can check this article for more information about **[how to enter Safe Mode](https://tools.techidaily.com/drivereasy/download/)** .) 2) In the search box on your desktop, type**cmd**. Then right click**Command Prompt** (right click cmd if you’re using Windows 7) and click**Run as administrator**. Then click**Yes**to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab234158a472.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Type**chkdsk /f /r**, then press**Enter**on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2ce110f69.png)4） Press**Y**on your keyboard.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ad2cf3b0dde.png)
 
-**Note** : Disk check will start the next time you boot your PC and it might take some time to complete. If you don’t have time to wait for the disk check to complete when restarting your computer, you can skip it or schedule it again.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**Note** : Disk check will start the next time you boot your PC and it might take some time to complete. If you don’t have time to wait for the disk check to complete when restarting your computer, you can skip it or schedule it again.
 
 ## **Solution 5: Fix the MBR with Windows PE**
 
@@ -132,5 +139,18 @@ The error 0xc00000e9 can occur when you install Windows without setting the Mast
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-harmonizing-hit-hits-building-the-perfect-youtube-soundtrack/"><u>[New] In 2024, Harmonizing Hit Hits Building the Perfect YouTube Soundtrack</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-2023-update-facebooks-new-landscape-explained/"><u>[New] The 2023 Update Facebook's New Landscape Explained</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-clear-cut-strategies-for-watermark-free-photography/"><u>[Updated] In 2024, Clear-Cut Strategies for Watermark-Free Photography</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-pixeled-play-log-audit/"><u>[Updated] In 2024, Pixeled Play Log Audit</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-nubia-red-magic-9-proplus-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Nubia Red Magic 9 Pro+ without App | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-windows-store-cache-problems-successfully/"><u>Diagnosing and Repairing Windows Store Cache Problems Successfully</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-elevate-your-videos-with-complimentary-banners-here/"><u>In 2024, Elevate Your Videos with Complimentary Banners, Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/league-of-legends-download-acceleration-tips-to-fix-your-game-lag/"><u>League of Legends Download Acceleration: Tips to Fix Your Game Lag</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209382796-quick-fixes-for-your-non-functioning-hp-laptop-keys-get-back-to-work-now/"><u>Quick Fixes for Your Non-Functioning HP Laptop Keys – Get Back to Work Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-n7-stalls-and-freezes-top-tips-for-a-lag-free-computer-experience/"><u>Resolving Windows N7 Stalls and Freezes - Top Tips for a Lag-Free Computer Experience</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-virtualdub-review-does-it-still-hold-up-plus-top-alternatives-to-consider/"><u>Updated Virtualdub Review Does It Still Hold Up? Plus, Top Alternatives to Consider</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Diagnosing and Correcting Xbox One Controller Problems"
-date: 2024-09-12T16:02:52.962Z
-updated: 2024-09-15T16:01:20.377Z
+date: 2024-10-08T03:55:15.740Z
+updated: 2024-10-12T19:07:51.234Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Is your**microphone not working on laptop** ? You’re certainly not alone. But 
 2. [**Update your audio driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Adjust your audio settings**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Troubleshoot hardware issues**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Allow access to microphone
 
@@ -67,16 +74,17 @@ Here’s how to do it:
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -89,19 +97,35 @@ To do so:
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
@@ -137,5 +161,22 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-top-free-tools-for-flawless-srt-conversion/"><u>[Updated] In 2024, Top Free Tools for Flawless SRT Conversion</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-sound-seekers-free-beats-detection-tools/"><u>[Updated] Sound Seekers Free Beats Detection Tools</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-beginners-guide-to-basic-inputoutput-systems-unlocking-your-pcs-core-operations/"><u>A Beginner's Guide to Basic Input/Output Systems: Unlocking Your PC's Core Operations</u></a></li>
+<li><a href="https://common-error.techidaily.com/correcting-unresponsive-headphone-connections-on-your-desktop-or-laptop/"><u>Correcting Unresponsive Headphone Connections on Your Desktop or Laptop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/crafting-flawed-yet-relatable-protagonists-through-gpt-prompts/"><u>Crafting Flawed Yet Relatable Protagonists Through GPT Prompts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/gigabyte-sound-card-drivers-download-free-and-official/"><u>Gigabyte Sound Card Drivers Download - Free & Official</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-12-pro-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 12 Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-keyboards-with-non-responsive-keys-expert-guide/"><u>How To Resolve Windows Keyboards With Non-Responsive Keys: Expert Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-watch-hd-media-on-displays-lacking-hdcp-protection/"><u>How to Watch HD Media on Displays Lacking HDCP Protection</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-geforce-experience-launch-problem-a-comprehensive-fix-guide/"><u>Resolving the GeForce Experience Launch Problem: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-copy-and-paste-problems-for-smooth-operations/"><u>Resolving Windows 11 Copy and Paste Problems for Smooth Operations</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-resolving-the-hp-accelerometer-malfunction-under-windows-operating-system/"><u>Step-by-Step Solutions for Resolving the HP Accelerometer Malfunction Under Windows Operating System</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-y77t-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Y77t</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-ethernet-network-errors-for-windows-117-users-effective-solutions-unveiled/"><u>Troubleshooting Ethernet Network Errors for Windows 11/7 Users: Effective Solutions Unveiled</u></a></li>
+</ul></div>
 

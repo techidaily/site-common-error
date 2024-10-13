@@ -1,7 +1,7 @@
 ---
 title: Resolving Issues with a Malfunctioning Laptop Keyboard - Expert Advice
-date: 2024-10-01T23:07:07.490Z
-updated: 2024-10-06T21:13:07.246Z
+date: 2024-10-12T04:22:26.069Z
+updated: 2024-10-12T20:01:10.292Z
 tags:
   - win11
   - win10
@@ -43,29 +43,22 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -81,6 +74,13 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
@@ -90,6 +90,13 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -109,18 +116,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -135,19 +142,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
  **I’m using Windows 7:**
@@ -156,13 +150,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -170,6 +157,19 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -205,22 +205,24 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-seventh-selection-of-aquatic-cameras-for-2024/"><u>[Updated] The Ultimate Seventh Selection of Aquatic Cameras for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-boosting-performance-allocating-additional-ram-to-minecraft/"><u>2024 Approved Boosting Performance Allocating Additional RAM to Minecraft</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-prime-stream-essential-tech-equipment-guide-for-creators/"><u>2024 Approved YouTube's Prime Stream Essential Tech, Equipment Guide for Creators</u></a></li>
-<li><a href="https://common-error.techidaily.com/ace-your-pc-experience-tackling-slow-shutdown-in-windows-10/"><u>Ace Your PC Experience: Tackling Slow Shutdown in Windows 10</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-credentials-on-youtube-for-2024/"><u>Checking Credentials on YouTube for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-logitech-m525-drivers-and-compatible-software/"><u>Download Logitech M525 Drivers & Compatible Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-address-and-fix-error-0x800705b4-in-your-windows-10-system-update/"><u>How to Successfully Address and Fix Error 0X800705b4 in Your Windows 10 System Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/mended-defect-keyboard-type-lag-issue/"><u>Mended Defect: Keyboard Type Lag Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-fortnite-performance-with-non-supported-pc-graphics-drivers/"><u>Optimizing Fortnite Performance with Non-Supported PC Graphics Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-svchostexes-excessive-cpu-consumption-in-windows-10-a-comprehensive-fix/"><u>Resolving svchost.exe's Excessive CPU Consumption in Windows 10 – A Comprehensive Fix</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-dilemma-effective-remedies-for-error-0x800f081f-during-net-framework-35-setup/"><u>Solving the Dilemma: Effective Remedies for Error 0X800F081F During .NET Framework 3.5 Setup</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-by-step-iphone-ringer-update-guide/"><u>Step-by-Step IPhone Ringer Update Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/strategies-for-time-loop-visual-tricks-for-2024/"><u>Strategies for Time-Loop Visual Tricks for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-your-overwatch-voice-chat-glitches-with-simple-solutions/"><u>Troubleshoot Your Overwatch Voice Chat Glitches with Simple Solutions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-the-compatibility-of-arduino-uno-with-windows-os/"><u>Troubleshooting the Compatibility of Arduino Uno with Windows OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-guide-resolving-the-dark-display-issue-on-your-dell-notebook/"><u>Ultimate Troubleshooting Guide: Resolving the Dark Display Issue on Your Dell Notebook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722873296752-wearing-sterile-gloves-is-essential-for-maintaining-asepsis-during-the-procedure-but-it-doesnt-specify-how-much-sterile-solution-should-be-obtained/"><u>Wearing Sterile Gloves Is Essential for Maintaining Asepsis During the Procedure, but It Doesn't Specify How Much Sterile Solution Should Be Obtained</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-step-by-step-guide-to-saving-google-meet-interactions-for-2024/"><u>[New] Step-by-Step Guide to Saving Google Meet Interactions for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-building-your-own-studiopc-a-4k-video-editing-system-blueprint/"><u>[Updated] Building Your Own StudioPC A 4K Video Editing System Blueprint</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-chortle-to-text-funniest-tone-websites-guide-for-2024/"><u>[Updated] Chortle to Text Funniest Tone Websites Guide for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-cutting-edge-approaches-to-virtual-reality-gaming-documentation/"><u>[Updated] In 2024, Cutting-Edge Approaches to Virtual Reality Gaming Documentation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/20plus-cool-metaverse-memes-and-how-to-make-your-own-memes-for-2024/"><u>20+ Cool Metaverse Memes and How to Make Your Own Memes for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-comprehensive-review-of-googles-ar-stickers/"><u>2024 Approved Comprehensive Review of Google's AR Stickers</u></a></li>
+<li><a href="https://common-error.techidaily.com/breeze-through-troubleshooting-fixing-the-permanent-0-on-your-windows-update/"><u>Breeze Through Troubleshooting: Fixing the Permanent 0% on Your Windows Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-resolving-missing-binkw32dll-errors-successfully/"><u>Comprehensive Guide: Resolving Missing BinkW32.dll Errors Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-resolving-connectivity-issues-with-your-bluetooth-mouse-in-windows-environment/"><u>Expert Advice: Resolving Connectivity Issues with Your Bluetooth Mouse in Windows Environment</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-how-to-restore-connection-to-a-disconnected-external-hardware-on-windows/"><u>Expert Guide: How to Restore Connection to a Disconnected External Hardware on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-effortlessly-overcoming-the-crimson-screen-dilemma-on-any-system/"><u>Expert Tips: Effortlessly Overcoming the Crimson-Screen Dilemma on Any System</u></a></li>
+<li><a href="https://common-error.techidaily.com/network-troubleshooting-mastery-overcoming-power-surges-at-network-junctions/"><u>Network Troubleshooting Mastery: Overcoming Power Surges at Network Junctions</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-persistent-crashes-troubleshooting-tips-for-pc-users-of-fuser-application/"><u>Overcoming Persistent Crashes: Troubleshooting Tips for PC Users of Fuser Application</u></a></li>
+<li><a href="https://win-popular.techidaily.com/probleme-deja-regle-difficultes-de-migration-des-donnees-avec-les-appareils-samsung/"><u>Problème Déjà Réglé : Difficultés De Migration Des Données Avec Les Appareils Samsung</u></a></li>
+<li><a href="https://common-error.techidaily.com/retain-original-file-locations-with-every-windows-10-system-boot/"><u>Retain Original File Locations with Every Windows 10 System Boot</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/taming-your-numbers-nightmare-excel-plus-chatgpt-strategies/"><u>Taming Your Numbers Nightmare: Excel + ChatGPT Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixtools-registration-error-in-windows-11/"><u>Troubleshooting FixTool's Registration Error in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-infinix-hot-40-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Infinix Hot 40 Screen | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/victory-for-wow-enabling-comprehensive-3d-graphics/"><u>Victory for WoW: Enabling Comprehensive 3D Graphics</u></a></li>
 </ul></div>
 

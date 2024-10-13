@@ -1,7 +1,7 @@
 ---
 title: "Solving the Common Crashes in Call of Duty: Black Ops 4"
-date: 2024-09-30T04:20:10.396Z
-updated: 2024-10-07T04:46:18.738Z
+date: 2024-10-08T22:26:35.651Z
+updated: 2024-10-12T16:49:53.031Z
 tags:
   - win11
   - win10
@@ -33,10 +33,16 @@ thumbnail: https://thmb.techidaily.com/aa8194d30133846c30b69d3fa6b3aa7f371a45347
 So don’t give up hope. There is something you can do to fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -57,13 +63,6 @@ So don’t give up hope. There is something you can do to fix it.
 
  Then restart your computer and try to open the website again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Create a new user profile
 
  You can also create a new user profile in Firefox to fix the error SEC\_ERROR\_UNKNOWN\_ISSUER.
@@ -78,23 +77,17 @@ To do so, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1202b7e8d62.jpg)
 4. **Firefox – Choose User Profile** will pop up. Click**Create Profile** .  
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12020cdc034.png)
 5. Follow the on-screen instructions to finish the process.
 6. Re-launch Firefox and log in your new user profile.
 7. Open the website again to see if your problem has been fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable SSL scanning in your antivirus software
 
@@ -107,14 +100,22 @@ To do so, follow the steps below:
 2. Click**Components** on the left, and click**Customize** in the**Web Shield** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200c760b7e.jpg)
 3. Uncheck the box next to**Enable HTTPS scanning** in the pop-up window. Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12013f88f23.jpg)
 4. Click**OK** again to save your changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12019e3eba4.jpg)
@@ -142,18 +143,21 @@ To do so, follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-from-novice-to-pro-an-extensive-guide-on-using-zd-softs-recording-features-for-2024/"><u>[New] From Novice to Pro An Extensive Guide on Using ZD Soft’s Recording Features for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-navigating-instagrams-video-limit-regulations-for-2024/"><u>[Updated] Navigating Instagram's Video Limit Regulations for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-first-impressions-a-deep-dive-into-3d-printing-alone/"><u>2024 Approved First Impressions A Deep Dive Into 3D Printing Alone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/eight-powerful-devices-for-prospective-filmora-alternatives/"><u>Eight Powerful Devices for Prospective Filmora Alternatives</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/empire-expansion-strategies-unveiled-in-offworld-trading-company-review/"><u>Empire Expansion Strategies Unveiled in Offworld Trading Company Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-steps-for-quality-live-cricket-viewing/"><u>Essential Steps for Quality Live Cricket Viewing</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1715859847486-explore-android-written-by-dr-jane-smith-a-renowned-psychologist-specializing-in-cognitive-development-and-learning-styles-for-2024/"><u>Explore Android' Written By Dr. Jane Smith, a Renowned Psychologist Specializing in Cognitive Development and Learning Styles. For 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-eliminate-latency-in-fallout-4-proven-techniques-for-faster-gameplay/"><u>How to Eliminate Latency in Fallout 4 - Proven Techniques for Faster Gameplay</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-cutting-edge-video-editing-on-mac-the-top-software-of/"><u>In 2024, Cutting-Edge Video Editing on Mac The Top Software Of</u></a></li>
-<li><a href="https://common-error.techidaily.com/reactivate-and-revel-in-the-radiance-fixing-corsairs-dimmed-backlight-issue/"><u>Reactivate and Revel in the Radiance: Fixing Corsair's Dimmed Backlight Issue</u></a></li>
-<li><a href="https://win-blog.techidaily.com/rocket-league-resolved-chilling-glitch-now-running-smoothly/"><u>Rocket League: Resolved Chilling Glitch - Now Running Smoothly</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-mystery-a-step-by-step-guide-to-overcoming-twitch-error-4nk/"><u>Solving the Mystery: A Step-by-Step Guide to Overcoming Twitch Error 4Nk</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-logitech-mouse-scroll-wheel-issues/"><u>Troubleshooting Guide: Solving Logitech Mouse Scroll Wheel Issues</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-picture-and-sound-summary-device/"><u>[New] 2024 Approved Picture and Sound Summary Device</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-collaborative-screen-recording/"><u>[New] In 2024, Collaborative Screen Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-amassing-audiences-and-assets-launching-a-livestream-business/"><u>[Updated] 2024 Approved Amassing Audiences and Assets Launching a Livestream Business</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oppo-a58-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo A58 4G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-elevated-disk-consumption-by-microsofts-telemetry-feature-in-windows-10/"><u>How to Fix Elevated Disk Consumption by Microsoft's Telemetry Feature in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-your-computer-from-constantly-turning-on-and-off/"><u>How to Stop Your Computer From Constantly Turning On and Off</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208101350-how-to-tackle-excessive-cpu-consumption-by-runtime-broker-on-your-windows-11-pc-solutions-included/"><u>How to Tackle Excessive CPU Consumption by Runtime Broker on Your Windows 11 PC – Solutions Included</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-honor-x8b-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Honor X8b Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oppo-a78-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Oppo A78 5G Phone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photobooth-hiccups-resolving-frozen-playback-issues/"><u>In 2024, Photobooth Hiccups Resolving Frozen Playback Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-shutdown-procedures-troubleshooting-tips-for-a-smooth-exit-in-windows-11-devices/"><u>Mastering Shutdown Procedures: Troubleshooting Tips for a Smooth Exit in Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-error-loading-player-issue-with-unavailable-content-on-windows-systems/"><u>Resolving the ‘Error Loading Player’ Issue with Unavailable Content on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-airpods-connection-issue-with-windows-11-top-tips-and-tricks-of-2e24/"><u>Solving the AirPods Connection Issue with Windows 11: Top Tips and Tricks of 2E24</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-tips-for-fixing-windows-11-update-error-0xc1900208/"><u>Ultimate Troubleshooting Tips for Fixing Windows 11 Update Error 0Xc1900208</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/wheres-the-magic-explore-real-world-hidden-gems-through-location-services/"><u>Where's the Magic? Explore Real-World Hidden Gems Through Location Services</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-networks-decoded-arp-cache-understanding/"><u>Windows Networks Decoded: ARP Cache Understanding</u></a></li>
 </ul></div>
 

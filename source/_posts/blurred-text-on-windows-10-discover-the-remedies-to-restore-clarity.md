@@ -1,7 +1,7 @@
 ---
 title: Blurred Text on Windows 10? Discover the Remedies to Restore Clarity
-date: 2024-09-30T11:44:08.269Z
-updated: 2024-10-06T23:24:31.281Z
+date: 2024-10-05T19:36:48.290Z
+updated: 2024-10-12T23:00:38.314Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
  In simpler words, it’ s a legitimate Windows process when running certain Windows operations. But in certain cases, you may see the **svchost.exe**  process hogging the CPU or memory resources in **Task Manager**  without apparent reasons.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **How do I fix it?**
 
  Here are 4 solutions for you to try. You may not need to try them all; just work your way down until you find the one that works for you.
@@ -43,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 [**3: Empty event viewer log**](#3)
 
 [**4: Troubleshoot Windows Updates issues**](#4)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **1: Scan your computer for viruses**
 
@@ -58,16 +72,16 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/task-manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Click **Details** . Right-click the **svchost.exe**  process using high CPU usage and click **Go to service(s)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/go-to-services-600x417.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) You’ll go to a window with highlighted services that run under the**svchost.exe** process.
 
@@ -77,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-service-in-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Repeat the steps until you locate the faulty process.
 
  6) Once you find the faulty service, click the **Open Services** button and go to the **Service** window.
@@ -91,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/open-services-600x422.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7) We’re using the **Windows Update**  service as an example. Right-click **Windows Update**  and click **Properties** .
@@ -104,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 8) Change the **Startup Type** to **Disable** , then click **OK** and restart your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/startup-type-disable.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 9) See if the problem is resolved.
 
@@ -115,16 +129,16 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/eventvwr.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left side of the pane, click **Application** under **Windows Logs**  . On the right side of the pane, click **Clear Log…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/clear-log-windows-log-application-event-viewer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Repeat the same procedures to clear the **Security, Setup** and **System** logs.
 
@@ -140,16 +154,22 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/services-msc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Right-click**Windows Update** and click **Stop** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/stop-windows-update-service.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Go to**This PC > Local Disk (C:) > Windows** and delete **SoftwareDistribution** folder. Restart your computer.
 
@@ -171,25 +191,11 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21f9606b83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to all flagged devices to automatically download and install the correct version of their drivers (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b21fb4e7c7a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -206,16 +212,21 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/oost-your-channels-popularity-optimal-post-dates-for-2024/"><u>[New] Boost Your Channel's Popularity - Optimal Post Dates for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-learn-how-to-assemble-memories-with-iphone-images/"><u>[New] Learn How to Assemble Memories with iPhone Images</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pulse-point-films-capturing-rhythms-in-social-media-videos/"><u>[New] Pulse Point Films Capturing Rhythms in Social Media Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-science-of-captivating-youtube-thumbnails/"><u>[Updated] In 2024, The Science of Captivating YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-links.techidaily.com/compreenas-an-insightful-guide-to-photography-mastery/"><u>Compreenas An Insightful Guide to Photography Mastery</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correct-serious-fatal-problems-in-black-ops-4/"><u>How to Correct Serious Fatal Problems in Black Ops 4</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-beyond-basics-smarter-application-of-sticker-questions-on-instagram/"><u>In 2024, Beyond Basics Smarter Application of Sticker Questions on Instagram</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-windows-11-reset-failures-with-our-step-by-step-troubleshooting-tips/"><u>Overcome Windows 11 Reset Failures with Our Step-by-Step Troubleshooting Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/pdf-printing-woes-master-the-art-of-quick-and-effective-solutions/"><u>PDF Printing Woes? Master the Art of Quick and Effective Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-werfaultexe-errors-on-your-pc-easily-with-these-6-strategies/"><u>Troubleshoot and Fix werFault.exe Errors on Your PC Easily with These 6 Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-failed-contact-with-your-dhcp-server-fixed/"><u>Troubleshooting Failed Contact With Your DHCP Server (Fixed)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-discover-these-popular-periscope-alternatives-on-smartphones-for-2024/"><u>[New] Discover These Popular Periscope Alternatives on Smartphones for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-pinnacle-mac-screen-plus-audio-transcription-system/"><u>[New] In 2024, Pinnacle Mac Screen + Audio Transcription System</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-path-to-flawless-film-recording-device-agnostic-guide/"><u>[New] In 2024, The Path to Flawless Film Recording Device Agnostic Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-undo-motion-recapturing-video-from-mobile-devices/"><u>[New] Undo Motion Recapturing Video From Mobile Devices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-electorate-engagement-enigma-top-simulator-series/"><u>[Updated] Electorate Engagement Enigma Top Simulator Series</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-lag-expert-ways-to-fix-high-ping-in-counter-strike-global-offensive/"><u>Beat the Lag - Expert Ways to Fix High Ping in Counter-Strike Global Offensive</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehvew-of-fixes-to-bring-back-sound-on-your-ps4s-chat-microphone/"><u>Comprehvew of Fixes to Bring Back Sound on Your PS4's Chat Microphone</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-the-new-world-launch-wont-start-anti-cheat-problem/"><u>Effective Solutions to the 'New World Launch Won't Start: Anti-Cheat Problem'</u></a></li>
+<li><a href="https://article-tips.techidaily.com/elevate-photography-experience-on-windows-11-adding-filters-and-music-integration-for-2024/"><u>Elevate Photography Experience on Windows 11 Adding Filters & Music Integration for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-invalid-directory-name-mistake-quickly/"><u>How to Fix 'Invalid Directory Name' Mistake Quickly!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-responsive-mousepad-on-your-laptop-running-windows-10-8-or-e7/"><u>How to Fix a Non-Responsive Mousepad on Your Laptop Running Windows (10, 8 or E7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-bluetooth-devices-showing-as-connected-but-inaccessible-in-windows-10/"><u>How to Fix Bluetooth Devices Showing as Connected but Inaccessible in Windows 10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-side-by-side-display-logging/"><u>In 2024, Side-by-Side Display Logging</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/proactive-measures-to-save-and-secure-your-classroom-talks-on-macos/"><u>Proactive Measures to Save and Secure Your Classroom Talks on MacOS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-honor-x50i-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Honor X50i</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-overcoming-insufficient-system-resources-issue/"><u>Solution Steps for Overcoming 'Insufficient System Resources' Issue</u></a></li>
 </ul></div>
 

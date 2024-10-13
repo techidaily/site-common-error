@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Windows 10 Explore Scrollbar Bug: Smoothly Returning to the Top"
-date: 2024-10-01T02:40:18.324Z
-updated: 2024-10-07T03:26:57.172Z
+date: 2024-10-11T01:10:52.511Z
+updated: 2024-10-12T19:50:00.063Z
 tags:
   - win11
   - win10
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your video driver
@@ -63,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Disable add-ons
 
  Add-ons are extensions to Internet Explorer that allow you to do more things in your browser, or which improve your user experience. For example, the AdBlock add-on  blocks ads. Extensions are sometimes added manually and sometimes added by other programs on your computer (hopefully with your permission).
@@ -74,14 +81,28 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 1. On your keyboard, press**the Windows logo key**  and**R** at the same time, then type **inetcpl.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc706de27b22.png)
 2. Click **Programs** \>**Manage add-ons** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d0662b2bda.jpg)
 3. You’ll then see a list of all your Internet Explorer add-ons. Disable**each add-on** in the list, one at at time, by clicking it, then clicking**Disable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d0bb770ebc.jpg)
@@ -90,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
    * If disabling your add-ons doesn’t solve your problem, move on to**Fix 3** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall toolbars
 
@@ -111,17 +125,18 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 3. Click**Yes** to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd64bdd78f4.jpg)
 4. **Restart** your computer and check if Internet Explorernow works.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * If Internet Explorer does work after uninstalling all your toolbars, it’s likely one of your toolbars was the problem. Now you just need to figure out which one. To do this, you can try to reinstall one of your original toolbars, then see if Internet Explorer still works. If it doesn’t, then you’ve found the cause of the problem. If Internet Explorer works fine after reinstalling the toolbar, reinstall another one and test again. Continue testing each toolbar in this way until you find the one that stops Internet Explorer from working. Once you find it, uninstall it again. If you need it, contact the vendor for support.  
    * If uninstalling your toolbars doesn’t solve your problem, move on to**Fix 4** .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Change your hardware acceleration setting
 
@@ -135,15 +150,15 @@ Here’s how to do it…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc706de27b22.png)
 2. Click **Advanced**  , and check whether the **Use software rendering instead of GPU rendering** checkbox is ticked. If it is ticked, un-tick it. If it’s not ticked, tick it. Then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc98b95b2550.jpg)
 3. **Restart**  your computer and see if Internet Explorer works properly. If not, move on to **Fix 5** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -158,8 +173,24 @@ Here’s how to do it…
 1. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **inetcpl.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc706de27b22.png)
 2. Click**Security** \> **Reset all zones to default level** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd4e878da26.jpg)
 3. Click **OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. **Restart** your computer and see if **Internet Explorer**  works properly. If the problem persists, move on to **Fix 6** below.
 
 ---
@@ -174,32 +205,11 @@ Here’s how to do it…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc70860ce2fe.png)
 2. Click**Turn Windows features on or off** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d38595c458.jpg)
 3. Deselect**Internet Explorer** (your version of Internet Explorer may be different to the screenshot below).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd4105003d2.jpg)
 4. Click**Yes** to confirm.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd414308414.png)
 5. Click **OK** and wait until Internet Explorer turns off.
@@ -234,21 +244,17 @@ Here’s how to do it…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-focus-freshness-the-ultimate-clear-image-software-guide/"><u>[New] Focus Freshness The Ultimate Clear Image Software Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-luminous-leaders-top-5-monitors-that-bring-shades-to-life/"><u>[New] Luminous Leaders Top 5 Monitors That Bring Shades to Life</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boosting-views-with-analytics-in-youtube-strategy/"><u>[Updated] 2024 Approved Boosting Views with Analytics in YouTube Strategy</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-capturing-gameplay-a-sims-4-tutorial/"><u>[Updated] 2024 Approved Capturing Gameplay A Sims 4 Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/8-proven-strategies-to-resolve-windows-11s-code-0x80f0922-update-issue/"><u>8 Proven Strategies to Resolve Windows 11'S Code 0X80ˈFː09:22 Update Issue</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-x50iplus-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from X50i+.</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-driverpowerstatefailure-a-complete-repair-manual/"><u>Bypassing DRIVER_POWER_STATE_FAILURE: A Complete Repair Manual</u></a></li>
-<li><a href="https://common-error.techidaily.com/cross-platform-solutions-for-the-infamous-event-id-1000-in-windows-os-7-8-and-10-edition/"><u>Cross-Platform Solutions for the Infamous Event ID 1000 in Windows OS: 7, 8 & 10 Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/cyclic-redundancy-check-failure-explained-causes-and-solutions-for-data-mistakes/"><u>Cyclic Redundancy Check Failure Explained: Causes and Solutions for Data Mistakes</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203800348-easily-repair-lenovos-unresponsive-fn-key-with-these-quick-tips/"><u>Easily Repair Lenovo's Unresponsive Fn Key with These Quick Tips!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/guide-connecting-apples-airpods-to-the-nintendo-switch-gaming-system/"><u>Guide: Connecting Apple's AirPods to the Nintendo Switch Gaming System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-assess-quality-a-buyers-guide-to-secondhand-computers/"><u>How to Assess Quality: A Buyer's Guide to Secondhand Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-microsoft-exchange-server-is-not-available-in-outlook-a-step-by-step-guide/"><u>How to Fix 'Microsoft Exchange Server Is Not Available' In Outlook - A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-the-motorola-one-hyper-the-mid-range-contender-that-shines-brightly/"><u>In-Depth Evaluation of the Motorola One Hyper - The Mid Range Contender That Shines Brightly</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-high-disk-usage-caused-by-microsoft-compatibility-telemetry-on-windows-11-pcs/"><u>Troubleshooting and Solving High Disk Usage Caused by Microsoft Compatibility Telemetry on Windows 11 PCs</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-non-functional-amd-freesync/"><u>Troubleshooting Non-Functional AMD FreeSync</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-intel-rst-service-is-not-running-on-windows-11/"><u>[Solved] Intel RST Service Is Not Running on Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-key-to-cinematic-excellence-mastering-the-art-of-shooting-stunning-slow-motion-media-on-instagram/"><u>[Updated] The Key to Cinematic Excellence Mastering the Art of Shooting Stunning Slow-Motion Media on Instagram</u></a></li>
+<li><a href="https://common-error.techidaily.com/banishing-awakenings-sleep-mode-mastery-in-win11/"><u>Banishing Awakenings: Sleep Mode Mastery in Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-invalid-value-for-registry-error-when-opening-photos-on-windows-10/"><u>Fix: Invalid Value for Registry Error When Opening Photos on Windows 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oppo-a1x-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Oppo A1x 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-f04-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy F04 Phone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ultimate-tips-for-mobile-content-capture/"><u>In 2024, Ultimate Tips for Mobile Content Capture</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-finding-whos-double-tapped-on-your-insta-posts/"><u>Mastering the Art of Finding Whos Double-Tapped on Your Insta Posts</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202808950-microsoft-wireless-screen-projector-connectivity-woes-on-windows-10-heres-the-solution/"><u>Microsoft Wireless Screen Projector Connectivity Woes on Windows 10? Here's the Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-remote-click-with-logitech-fix/"><u>Revive Your Remote Click with Logitech Fix</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-infinix-note-30s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Infinix Note 30s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/yearly-insights-the-most-impactful-social-graphs/"><u>Yearly Insights - The Most Impactful Social Graphs</u></a></li>
 </ul></div>
 

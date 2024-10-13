@@ -1,7 +1,7 @@
 ---
 title: Resolving 'Invalid Entry' Error in Directories - Expert Tips & Solutions
-date: 2024-09-30T02:53:28.240Z
-updated: 2024-10-07T08:52:42.007Z
+date: 2024-10-08T01:59:08.925Z
+updated: 2024-10-12T21:21:41.250Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/5f054d3dfd45c1532d156f3720d0c9546d3d30428
 
 So don’t give up hope. There is something you can do to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are solutions to try. You don’t have to try them all; just work your way down the list until it works.
@@ -50,13 +57,6 @@ So don’t give up hope. There is something you can do to fix it.
 
  Then restart your computer and try to open the website again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Create a new user profile
 
  You can also create a new user profile in Firefox to fix the error SEC\_ERROR\_UNKNOWN\_ISSUER.
@@ -70,20 +70,28 @@ To do so, follow the steps below:
 3. Type**firefox.exe -P** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1202b7e8d62.jpg)
 4. **Firefox – Choose User Profile** will pop up. Click**Create Profile** .  
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12020cdc034.png)
 5. Follow the on-screen instructions to finish the process.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Re-launch Firefox and log in your new user profile.
@@ -99,27 +107,20 @@ To do so, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200fecc285.jpg)
 2. Click**Components** on the left, and click**Customize** in the**Web Shield** section.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1200c760b7e.jpg)
 3. Uncheck the box next to**Enable HTTPS scanning** in the pop-up window. Then click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12013f88f23.jpg)
 4. Click**OK** again to save your changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12019e3eba4.jpg)
 5. Re-open Firefox, and open the website again to see if it works now.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  So that’s it. Hope this post helps in resolving the error**SEC\_ERROR\_UNKNOWN\_ISSUER** .
 
@@ -143,24 +144,22 @@ To do so, follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-novice-to-pro-mastering-the-art-of-editing-via-polarr/"><u>[New] From Novice to Pro Mastering the Art of Editing via Polarr</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-extend-the-usage-of-your-gopro-battery/"><u>[New] How to Extend the Usage of Your GoPro Battery</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-insta-influence-made-simple/"><u>[Updated] In 2024, Insta-Influence Made Simple</u></a></li>
-<li><a href="https://driver-install.techidaily.com/a-comprehensive-methodology-for-driver-modification-in-windows-8-os/"><u>A Comprehensive Methodology for Driver Modification in Windows 8 OS</u></a></li>
-<li><a href="https://article-tips.techidaily.com/elite-tint-modifier-app/"><u>Elite Tint Modifier App</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-problem-of-non-responsive-bluetooth-keyboard-in-pc-connectivity/"><u>Fixing the Problem of Non-Responsive Bluetooth Keyboard in PC Connectivity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-ground-to-sky-discovering-mavic-pro-wonders-for-2024/"><u>From Ground to Sky - Discovering Mavic Pro Wonders for 2024</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/hidclasssys-issues-resolved-simple-fixes-and-fast-solutions/"><u>HIDCLASS.SYS Issues Resolved - Simple Fixes and Fast Solutions!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-icue-hardware-recognition-errors-step-by-step-guide/"><u>Resolving iCUE Hardware Recognition Errors: Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/streamlining-corporate-compliance-with-admin-managed-windows-environment-settings/"><u>Streamlining Corporate Compliance with Admin-Managed Windows Environment Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/the-science-behind-windows-11s-streamlined-file-safety-measures/"><u>The Science Behind Windows 11’S Streamlined File Safety Measures</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-repair-windows-groove-with-these-5-solutions-for-a-malfunctioning-touchscreen/"><u>Troubleshoot and Repair Windows Groove with These 5 Solutions for a Malfunctioning Touchscreen</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-excessive-cpu-consumption-caused-by-windows-audio-device-graph-issue/"><u>Troubleshooting and Repairing Excessive CPU Consumption Caused by Windows' Audio Device Graph Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-fixing-xerox-software-updates-failure-error-0x800f020b-in-windows/"><u>Troubleshooting Guide for Fixing Xerox Software Updates Failure (Error 0X800f020b) in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-previously-unresponsive-custom-settings-are-now-working-perfectly/"><u>Troubleshooting Guide: Previously Unresponsive Custom Settings Are Now Working Perfectly</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-bad-image-problems-on-windows-operating-systems/"><u>Troubleshooting Persistent Bad Image Problems on Windows Operating Systems</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/unlocking-netflixs-secrets-6-proven-techniques-for-streamers-on-macos-for-2024/"><u>Unlocking Netflix's Secrets 6 Proven Techniques for Streamers on macOS for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/unveiling-the-solution-overcoming-total-war-romes-remastered-persistent-crashes/"><u>Unveiling the Solution: Overcoming Total War: Rome's Remastered Persistent Crashes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-pro-gamers-screen-capture-strategy-for-xbox-one/"><u>[New] In 2024, The Pro Gamer's Screen Capture Strategy for Xbox One</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-high-speed-windows-photoviewer/"><u>[Updated] 2024 Approved High-Speed Windows Photoviewer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-flashscreen-snapshot-evaluation-and-alternates-for-2024/"><u>[Updated] FlashScreen Snapshot Evaluation & Alternates for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/apples-journey-forward-thinking-beyond-social-platforms/"><u>Apple's Journey: Forward-Thinking Beyond Social Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeating-the-darkness-effective-tips-and-solutions-to-restore-your-windows-11-visuals/"><u>Defeating the Darkness: Effective Tips and Solutions to Restore Your Windows 11 Visuals</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-for-connecting-two-desktops-displays-to-your-laptop/"><u>Easy Steps for Connecting Two Desktops Displays to Your Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x8024200d-on-windows-diagnosis-and-successful-repair-techniques/"><u>Error 0X8024200d on Windows: Diagnosis and Successful Repair Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-total-war-rome-remastered-glitches-comprehensive-guide/"><u>Fixing Total War: Rome Remastered Glitches - Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-10-installation-issue-error-code-80240020-solution/"><u>How to Fix Windows 10 Installation Issue: Error Code 80240020 Solution</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-infinix-smart-8-plus-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Infinix Smart 8 Plus to Protect Your Individual Information</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-official-method-to-unlock-your-iphone-se-2022-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE (2022) Official Method to Unlock Your iPhone SE (2022)</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-compatibility-issues-with-intel-serial-io-drivers-on-non-supported-systems/"><u>Overcoming Compatibility Issues with Intel Serial IO Drivers on Non-Supported Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-how-to-troubleshoot-and-resolve-voice-chat-glitches-in-overwatch/"><u>Quick Fixes: How to Troubleshoot and Resolve Voice Chat Glitches in Overwatch</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-cyclic-redundancy-checks-prevent-data-corruption/"><u>Resolved: How Cyclic Redundancy Checks Prevent Data Corruption</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-secured-connection-errors-in-mozilla-firefox/"><u>Resolving 'Secured Connection' Errors in Mozilla Firefox</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/tech-enthusiasts-manual-mastering-macoss-capture-tool/"><u>Tech Enthusiasts' Manual Mastering macOS's Capture Tool</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
 </ul></div>
 

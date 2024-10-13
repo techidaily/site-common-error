@@ -1,7 +1,7 @@
 ---
 title: Overcome 100%% Windows Updates Halt - EFFECTIVE REPAIR TECHNIQUES
-date: 2024-09-29T19:45:37.180Z
-updated: 2024-10-06T18:15:26.003Z
+date: 2024-10-08T16:27:36.103Z
+updated: 2024-10-13T01:23:11.018Z
 tags:
   - win11
   - win10
@@ -50,6 +50,14 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
 2. Click Download to download the latest version of IE 11.  
 ![download the latest version of IE 11](https://images.drivereasy.com/wp-content/uploads/2018/09/download-the-latest-version-of-IE-11.jpg)
 3. Install the latest version of IE 11 on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then Type **control** and press **Enter** to open the Control Panel.  
 ![step 4](https://images.drivereasy.com/wp-content/uploads/2018/09/step-4.jpg)
 5. In the search box in the upper-right corner, type **installed update** . Click **View installed updates** under **Programs and Features**  to view installed updates on your PC.  
@@ -73,25 +81,26 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
 3. If there is a more recent version of Windows Update troubleshooter available, click to run it.  
 ![Updated Troubleshooter Available](https://images.drivereasy.com/wp-content/uploads/2018/09/Updated-Troubleshooter-Available.jpg)
 4. In the new version of Windows Update troubleshooter, click **Next** . The troubleshooter will check the available updates for your machine.  
-![Fix 2 Step 4](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-2-Step-4.jpg)
-5. Click **Apply this fix**  to start the update process in the background immediately.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Fix 2 Step 4](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-2-Step-4.jpg)
+5. Click **Apply this fix**  to start the update process in the background immediately.  
 
 ![Fix 2 Step 5](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-2-Step-5.jpg)
 
  The troubleshooter will try to fix the issue for you. You can restart your computer and try performing the Windows update again. If it still doesn’t work, please try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Restart the Windows Update service
@@ -103,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
 2. Right-click **Windows Update**  and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Fix 3 step 2](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-3-step-2.jpg)
@@ -127,6 +136,13 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
 
  Go and check Windows Update again to see whether you can perform the Windows update or not. If it still doesn’t work, please try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Run the DISM tool
 
  This annoying issue is probably caused by the corrupted Windows update files. In this case, running   **the Deployment Image Servicing and Management (DISM) tool** may resolve this issue. Just follow the step-by-step instructions to run the DISM tool:
@@ -136,10 +152,10 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
 2. On your keyboard, type the command lines below one by one and press **Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Dism /Online /Cleanup-Image /ScanHealth**  
@@ -153,13 +169,6 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
 **Dism /Online /Cleanup-Image /RestoreHealth**  
 ![DISM RestoreHealth](https://images.drivereasy.com/wp-content/uploads/2018/09/DISM-RestoreHealth.jpg)  
  Note: The command line **Dism /Online /Cleanup-Image /RestoreHealth** tells the DISM tool to try to repair the corrupted files detected. It will replace the corrupted files with the files from official source online.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Close Command Prompt when the restore operation completed.  
 ![Fix 4 step 3](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-4-step-3.jpg)
@@ -191,10 +200,10 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
 ![view system type](https://images.drivereasy.com/wp-content/uploads/2018/09/view-system-type.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  “**X64-based PC** ” indicates that your Windows OS is **64-bit** ; “**X86-based PC** ” means that your Windows OS is **32-bit** .
@@ -208,23 +217,16 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
 ![Fix 6 step 4](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-6-step-4.jpg)
 5. In the list of search results, select right update for your operating system and click **Download** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** If your **Windows OS is 64-bit** , you should download the update whose name contains “**x64-based** ”.
 6. In the pop-up window, click the link to start downloading the updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-6-step-6.jpg)
 7. **Double-click** the downloaded file and follow the on-screen instructions to install the update.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## This issue persists?
@@ -256,20 +258,18 @@ thumbnail: https://thmb.techidaily.com/b9236612d2096893f2d14ce12421ffb6e267518dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-xstudio-mastery-reviewed-full-technical-study-for-2024/"><u>[New] XStudio Mastery Reviewed Full Technical Study for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-easy-ways-to-record-console-gameplay/"><u>[Updated] 2024 Approved Easy Ways to Record Console Gameplay</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1-rutube/"><u>1. Rutubeの動画ダウンロードと保存ガイド</u></a></li>
-<li><a href="https://common-error.techidaily.com/findings-opengl-not-advocated-by-drivers/"><u>Findings: OpenGL Not Advocated by Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-windows-audio-device-graph-isolation-high-cpu-usage-issue/"><u>Fix Windows Audio Device Graph Isolation High CPU Usage Issue</u></a></li>
-<li><a href="https://facebook.techidaily.com/increasing-visibility-of-jobs-with-facebook-posts/"><u>Increasing Visibility of Jobs with Facebook Posts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/make-a-living-with-reddit-even-for-novices-top-13-easy-strategies-for-2024/"><u>Make a Living with Reddit (Even for Novices!) Top 13 Easy Strategies for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-fix-resolve-oculus-hardware-problems-effectively/"><u>Master the Fix: Resolve Oculus Hardware Problems Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-fix-for-device-not-recognized-in-your-icue-system/"><u>Mastering the Fix for 'Device Not Recognized' In Your ICUE System</u></a></li>
-<li><a href="https://howto.techidaily.com/oneplus-12r-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus 12R Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/online-oasis-secure-re-entry-to-social-networks/"><u>Online Oasis Secure Re-Entry to Social Networks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-your-turtle-beach-recon-eby-fixing-a-non-functional-mic/"><u>Reviving Your Turtle Beach Recon Eby Fixing a Non-Functional Mic</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-issue-troubleshooting-non-functional-numeric-buttons/"><u>Solved Issue: Troubleshooting Non-Functional Numeric Buttons</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-true-value-of-purchasing-nft-art-beyond-simply-downloading-the-work/"><u>The True Value of Purchasing NFT Art - Beyond Simply Downloading the Work</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-feature-level-100-in-wwe-2k-battlegrounds-for-dx11-users/"><u>Troubleshooting 'Feature Level 10.0' In WWE 2K Battlegrounds for DX11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/operating-system-not-found-or-missing-operating-system-error-fixed/"><u>“Operating System Not Found” Or “Missing Operating System” Error Fixed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ultimate-checklist-streamlining-and-maximizing-screencast-quality-with-mobizen/"><u>[New] 2024 Approved Ultimate Checklist Streamlining and Maximizing Screencast Quality with Mobizen</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unmatched-performance-1-4k-gaming-laptops/"><u>[New] In 2024, Unmatched Performance #1 4K Gaming Laptops</u></a></li>
+<li><a href="https://common-error.techidaily.com/amd-high-definition-sound-card-fix-unplugged-device-alert/"><u>AMD High Definition Sound Card - Fix Unplugged Device Alert</u></a></li>
+<li><a href="https://win-answers.techidaily.com/experiencing-reduced-fps-understanding-the-causes-behind-farmers-dilemma-22/"><u>Experiencing Reduced FPS? Understanding the Causes Behind Farmer's Dilemma 22</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-repair-a-black-display-in-google-chrome-browser/"><u>How to Troubleshoot and Repair a Black Display in Google Chrome Browser</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-xiaomi-14-ultra-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Xiaomi 14 Ultra Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-infinix-note-30-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Infinix Note 30 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/navigating-instagrams-latest-filters-a-year-round-guide/"><u>Navigating Instagram's Latest Filters A Year-Round Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-dells-speaker-problems-a-guide-for-windows-7-users/"><u>Solve Your Dell's Speaker Problems: A Guide for Windows 7 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-functionality-to-a-broken-keyboard-at-login/"><u>Step-by-Step Guide: Restoring Functionality to a Broken Keyboard at Login</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-resolving-windows-11-startup-problems-efficiently/"><u>Step-by-Step Tutorial: Resolving Windows 11 Startup Problems Efficiently</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/thinner-than-ever-a-hands-on-review-of-the-worlds-slimmest-ipads-at-an-apple-store-insights-by-zdnet/"><u>Thinner than Ever: A Hands-On Review of the World’s Slimmest iPads at an Apple Store | Insights by ZDNET</u></a></li>
 </ul></div>
 

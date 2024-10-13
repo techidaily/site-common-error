@@ -1,7 +1,7 @@
 ---
 title: "Red Alert Resolved: Overcoming the Sudden System Crashes"
-date: 2024-10-01T01:39:11.760Z
-updated: 2024-10-06T21:24:05.978Z
+date: 2024-10-09T03:31:47.271Z
+updated: 2024-10-12T23:04:38.377Z
 tags:
   - win11
   - win10
@@ -55,10 +55,10 @@ To check Windows Build of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. In the window that pops up, you can check the exact version of the copy of Windows on your PC.  
@@ -66,10 +66,10 @@ To check Windows Build of your PC:
 3. Once finished, click**OK** to exit the window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To check the specs of your PC:
@@ -83,10 +83,10 @@ To check the specs of your PC:
 4. Close DirectX.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You may need to upgrade the hardware of your computer if it fails to meet the specs.
@@ -107,6 +107,14 @@ To check the specs of your PC:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/Update-drivers-with-Driver-Easy.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Launch Total War: ROME REMASTERED and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
 
@@ -122,13 +130,6 @@ Here’s how:
 
  After that, launch Total War: ROME REMASTERED game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 4** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Verify game files on Steam
 
  The game may crash if the files are faulty or corrupt. Luckily, Steam has built the repair feature into the launcher itself, allowing you to fix little glitches on your own.
@@ -142,13 +143,6 @@ Here’s how:
 5. Wait a few minutes for Steam to validate the files of the game. Again, any files found missing or corrupt would be automatically downloaded in the process.
 6. Re-launch Total War: ROME REMASTERED to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try **Fix 5** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Allow Steam through firewall
 
  A firewall is a network security system that filters incoming and outgoing network traffic by permitting/blocking specific traffic based on a set of security rules. You should allow Steam client through the firewall to make sure that the connection isn’t lost.
@@ -159,35 +153,29 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-1-1.png)
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall-1.png)
 3. Browse through the list of Allowed apps and features to see if Steam is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app-1.png)
 4. Once completed, click **OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Run the game in the client and see if it still crashes. If it’s still on-going, please move on to **Fix 6** .
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. During this time, be extra careful about what sites you visit, what emails you open and what files you download.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Install the latest patch
 
@@ -206,8 +194,24 @@ Here are the steps to perform a clean boot:
 2. Click the **Services**  tab and tick the box for **Hide all Microsoft services** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services-1.png)
 3. Browse through the full list of services, make sure to   **check the boxes for the items that belong to your hardware manufacturers**  (such as Intel, AMD, and Qualcomm) and **uncheck the boxes for the rest** . Once finished, click **OK** to apply the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/esential.png)
 4. Restart your computer, then test to see if the game still crashes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * **If Total War: ROME REMASTERED stops crashing** , you can try repeating these steps, disabling half of the services each time until you isolate the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
    * **If Total War: ROME REMASTERED still crashes** , please continue to **Fix 8** .
 
@@ -236,20 +240,15 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-how-to-edit-youtube-videos-in-imovie-for-2024/"><u>[New] How to Edit YouTube Videos in iMovie for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-iphone-x-secure-access-restoring-biometric-lock/"><u>[New] Mastering iPhone X Secure Access Restoring Biometric Lock</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-adding-audio-magic-music-and-voiceovers-for-instagram-reels/"><u>[Updated] In 2024, Adding Audio Magic Music & Voiceovers for Instagram Reels</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unleash-your-inner-star-bold-steps-for-youtube-success/"><u>[Updated] Unleash Your Inner Star Bold Steps for YouTube Success</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-guide-to-engagement-mastering-instagram-stories/"><u>2024 Approved The Ultimate Guide to Engagement Mastering Instagram Stories</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-fixing-unexpected-voltage-spike-in-rack-connector-system/"><u>Expert Advice: Fixing Unexpected Voltage Spike in Rack Connector System</u></a></li>
-<li><a href="https://common-error.techidaily.com/geforce-experience-setting-retrieval-issue-fixed/"><u>GeForce Experience Setting Retrieval Issue Fixed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Realme Narzo N55? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/key-factors-to-influence-your-next-laptop-purchase/"><u>Key Factors to Influence Your Next Laptop Purchase</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-windows-0x80072efd-mistake-on-windows-11-a-step-by-step-solution-guide/"><u>Resolve Window's 0X80072EFD Mistake on Windows 11: A Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/seamless-media-conversion-the-ultimate-guide-for-mp4-to-mpeg-4-upgrading/"><u>Seamless Media Conversion: The Ultimate Guide for MP4 to MPEG-4 Upgrading</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-hosted-network-couldnt-start-on-windows-11-devices/"><u>Solution Steps for 'Hosted Network Couldn't Start' On Windows 11 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-shift-key/"><u>Troubleshooting Guide: Fixing a Nonfunctional Shift Key</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208935337-windows-10-touchpad-woes-heres-how-to-fix-sluggish-or-nonfunctional-scroll-buttons/"><u>Windows 10 Touchpad Woes? Here's How to Fix Sluggish or Nonfunctional Scroll Buttons!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-capture-mastery-top-picks-of-free-pcmac-desktop-recorders-for-2024/"><u>[New] Capture Mastery Top Picks of Free PC/Mac Desktop Recorders for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-emojis-the-real-meaning-you-may-not-know/"><u>[Updated] Snapchat Emojis The Real Meaning You May Not Know</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-restoring-ethernet-network-functionality-in-windows-operating-systems-windows-107/"><u>Expert Advice: Restoring Ethernet Network Functionality in Windows Operating Systems (Windows 10/7)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-ai-without-spending-a-dime-explore-these-5-pathways-to-free-gpt-4/"><u>Harnessing AI Without Spending a Dime: Explore These 5 Pathways to Free GPT-4</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-realme-12-proplus-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Realme 12 Pro+ 5G Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-connection-problems-dealing-with-a-missing-dhcp-server-response/"><u>Overcome Connection Problems - Dealing with a Missing DHCP Server Response</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pictorial-mosaic-construction-with-digital-photography-for-2024/"><u>Pictorial Mosaic Construction with Digital Photography for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-restore-sound-functionality-of-your-sony-ps4-headset-or-controller/"><u>Step-by-Step Solution to Restore Sound Functionality of Your Sony PS4 Headset or Controller</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-cache-miss-errors-in-chrome-browser/"><u>Troubleshooting Cache Miss Errors in Chrome Browser</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-itel-s23plus-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Itel S23+ Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

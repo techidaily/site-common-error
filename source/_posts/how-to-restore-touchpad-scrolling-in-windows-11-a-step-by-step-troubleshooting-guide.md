@@ -1,7 +1,7 @@
 ---
 title: "How to Restore Touchpad Scrolling in Windows 11: A Step-by-Step Troubleshooting Guide"
-date: 2024-10-01T08:45:34.309Z
-updated: 2024-10-07T09:47:10.842Z
+date: 2024-10-11T01:06:52.599Z
+updated: 2024-10-13T02:30:38.161Z
 tags:
   - win11
   - win10
@@ -47,16 +47,10 @@ In this guide you’ll learn:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92afe0a1d0.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Windows 11
@@ -66,10 +60,10 @@ In this guide you’ll learn:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Bluetooth-and-devices-Bluetooth-On.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  But if you don’t see the switch and your screen looks like the one below, there’s a problem with Bluetooth on your computer.
@@ -79,6 +73,13 @@ In this guide you’ll learn:
  There’s no need to panic. We’re about to show you how to fix Bluetooth on your Windows 10 computer and get that switch back for you.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What to do if you can’t turn Bluetooth on in Windows 10/11
 
@@ -97,20 +98,13 @@ In this guide you’ll learn:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92c4740356.jpg)
 2. In Device Manager, check to see if there’s a**Bluetooth section** or if there’s any**Bluetooth adapter** located in the**Network adapters** section. The Bluetooth adapter could also be listed under the**Other devices** section due to some errors.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be92f6f87b46.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  a) If you**do** find one or more Bluetooth adapters in Device Manager, your computer supports Bluetooth. Move on to the solutions to continue to  solve your problem.
@@ -136,10 +130,10 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
  (If you click the**Update All**  button in the Free version you’ll be asked if you want to upgrade to the Pro version.)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer.
@@ -155,8 +149,24 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 2. Right-click on your Bluetooth device in the Bluetooth section, and choose**Disable device** . (If you’re asked to confirm, click **Yes** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 3. Right-click on the device again and click **Enable device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 4. On your keyboard, hold down the **Windows logo key**  and press the**I**  key to open the**Settings** window.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
  Is the Bluetooth switch appearing now? If it’s not, we have something else you can try…
@@ -168,23 +178,16 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 3. Right-click **Bluetooth Support Service** , then click **Start** . (If the Start option grayed out, then click **Restart** .)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 4. Right-click on**Bluetooth Support Service**  again, and this time click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 5. Set its startup type to **Automatic** . click **Apply** , and then click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
@@ -196,19 +199,6 @@ To **manuall**  y update the driver, head to your computer manufacturer’s webs
 ## What to do if the above suggestions don’t work: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -254,22 +244,20 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-cutting-edge-converter-elevate-your-screen-viewing/"><u>[New] 2024 Approved Cutting Edge Converter Elevate Your Screen Viewing</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-discovering-free-screen-recorders-insightful-review-best-picks/"><u>[New] Discovering Free Screen Recorders – Insightful Review, Best Picks</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-perfect-your-xbox-footage-4-recording-strategies-revealed/"><u>[New] Perfect Your Xbox Footage 4 Recording Strategies Revealed</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-top-tier-televisions-best-4k-edition/"><u>[New] Top-Tier Televisions – Best 4K Edition</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-making-money-on-youtube-a-beginners-revenue-roadmap/"><u>[Updated] Making Money on YouTube A Beginner's Revenue Roadmap</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-realme-gt-3-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/definitive-guide-to-resolving-nier-automata-freezing-and-crashing-for-pc-users/"><u>Definitive Guide to Resolving NieR: Automata Freezing and Crashing for PC Users</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discover-the-leading-selection-of-ipad-friendly-mice-on-the-market/"><u>Discover the Leading Selection of iPad-Friendly Mice on the Market</u></a></li>
-<li><a href="https://common-error.techidaily.com/five-effective-methods-to-repair-a-malfunctioning-touchscreen-on-windows-11/"><u>Five Effective Methods to Repair a Malfunctioning Touchscreen on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-wow-glitches-ensuring-your-hardware-drivers-are-up-to-date-and-compatible/"><u>Fixing WoW Glitches: Ensuring Your Hardware Drivers Are Up-to-Date and Compatible</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-usb-device-unrecognized-error-that-wont-go-away/"><u>How to Fix 'USB Device Unrecognized Error' That Won't Go Away</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/lost-access-a-complete-guide-to-resetting-your-forgotten-ipad-credentials/"><u>Lost Access? A Complete Guide to Resetting Your Forgotten iPad Credentials</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fix-solution-how-to-address-a-missing-media-driver-issue-in-windows/"><u>Quick Fix Solution: How to Address a Missing Media Driver Issue in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-stalled-windows-10-installation-for-smooth-upgrades/"><u>Resolving Stalled Windows 10 Installation for Smooth Upgrades</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-wacom-pen-malfunctions-on-windows-operating-systems-1110/"><u>Solving Wacom Pen Malfunctions on Windows Operating Systems (11/10)</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager on Windows 11/10</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-doesnt-my-acer-computer-hold-a-charge-solutions-inside/"><u>Why Doesn't My Acer Computer Hold a Charge? Solutions Inside!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-youtube-captioning-for-clearer-communication/"><u>[Updated] 2024 Approved YouTube Captioning for Clearer Communication</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-divergent-paths-in-video-sharing-comparing-igtv-and-youtube-for-2024/"><u>[Updated] Divergent Paths in Video Sharing Comparing IGTV & YouTube for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-basic-to-brilliant-a-complete-insta-cover-photo-course-for-2024/"><u>[Updated] From Basic to Brilliant A Complete Insta Cover Photo Course for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-activating-grid-view-in-google-meet-webinars-a-step-by-step-guide/"><u>[Updated] In 2024, Activating Grid View in Google Meet Webinars A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-tips-to-overcome-your-livekernelevent-117-dilemma/"><u>Comprehensive Tips to Overcome Your LiveKernelEvent 117 Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/correctly-resolving-the-program-cant-start-error-code-is-0xc000007b-a-comprehensive-fixer/"><u>Correctly Resolving 'The Program Can’t Start, Error Code Is 0xC000007B' - A Comprehensive Fixer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-solutions-for-fixing-non-opening-optical-media-drive-problems-in-your-computer/"><u>Easy Solutions for Fixing Non-Opening Optical Media Drive Problems in Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-rectifying-failed-graphics-device-setup-in-directx/"><u>Effective Solutions for Rectifying Failed Graphics Device Setup in DirectX</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-broken-spacebar-on-your-windows-11-laptop-or-pc/"><u>How to Fix a Broken Spacebar on Your Windows 11 Laptop or PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-missing-mouse-icon-on-your-windows-11-pc-expert-solutions/"><u>How to Fix a Missing Mouse Icon on Your Windows 11 PC – Expert Solutions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-xr-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone XR and iPad</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211773409-no-luck-with-your-pdf-printer-let-us-guide-you-to-quick-fixes/"><u>No Luck with Your PDF Printer? Let Us Guide You to Quick Fixes.</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-win11-crashes-guide-to-solve/"><u>No More Win11 Crashes: Guide to Solve</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-ultimate-breakdown-decoding-comprehensiveness-of-xvideo-hub-review/"><u>The Ultimate Breakdown Decoding Comprehensiveness of XVideo Hub Review</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/winxvideo-mastery-guide-tutorial-all-inclusive-for-enhancing-recording-and-editing-videos-with-ai/"><u>WinXVideo Mastery Guide | Tutorial All-Inclusive for Enhancing, Recording & Editing Videos with AI</u></a></li>
 </ul></div>
 

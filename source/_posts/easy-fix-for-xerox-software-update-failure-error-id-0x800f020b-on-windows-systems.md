@@ -1,7 +1,7 @@
 ---
 title: Easy Fix for Xerox Software Update Failure (Error ID 0X800F020B) on Windows Systems
-date: 2024-09-11T16:04:02.803Z
-updated: 2024-09-15T16:05:41.114Z
+date: 2024-10-08T19:01:14.747Z
+updated: 2024-10-12T17:42:13.224Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ If you’re seeing an**error code 0x8024200d**  when performing a Windows update
 
  The troubleshooter will try to fix the issue for you. You can restart your computer and try to perform the Windows update again. If it still doesn’t work, please try the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Restarting the Windows Update service
 
  You may see this error code if there is something wrong with the Windows Update service. You can try to restart the Windows Update service to resolve this problem. Here’s how to do it:
@@ -62,6 +69,13 @@ If you’re seeing an**error code 0x8024200d**  when performing a Windows update
 **1)** On your keyboard, press**the Windows Logo key** and**R** at the same time to open the Run dialog, then type**services.msc** and press**Enter** to open the Services window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Right-click **Windows Update**  and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.
 
@@ -78,6 +92,13 @@ Please paste it in the address bar.
 **4)** Delete all the files in the folder **DataStore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap20-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When all the files are deleted, you shall see “This folder is empty”.
 
@@ -101,6 +122,13 @@ Please paste it in the address bar.
 
  Go and check Windows Update again to see whether you can perform the Windows update or not. If it still doesn’t work, please try the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Running System File Checker
 
  System File Checker can scan for corruptions in Windows system files and restore corrupted files. When you fail to install Windows updates, it may be caused by some corruption error. In this case, running System File Checker may help you resolve this issue.
@@ -108,6 +136,13 @@ Please paste it in the address bar.
 **1)**  On your keyboard, press**the Windows Logo Key** and then type**cmd** in the search box. When you see **Command Prompt** in the list of results, right-click it and then select **Run as administrator** . You will be prompted for permission. Click **Ok** to run the **Command Prompt** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap37.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** On your keyboard, type the command below and press **Enter** . **If your current operating system is Windows 7, please skip this step.**
 
@@ -127,6 +162,13 @@ It may take some time for the command operation to be completed.
 
 **4)** When this command operation is completed, close the **Command Prompt** and run **Windows Update**  again to check whether this method works or not. If you still fail to install updates for your Windows system, please try the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 4: Downloading updates from Microsoft Update Catalog manually
 
  If all the methods mentioned above still don’t work for you, you can try to download the updates you failed to install from **[Microsoft Update Catalog](http://www.catalog.update.microsoft.com/home.aspx)**  and install them manually.
@@ -140,13 +182,6 @@ It may take some time for the command operation to be completed.
 **i.** On your keyboard, press**the Windows Logo key** and**R** at the same time to open the Run dialog. Type**cmd** and press**Enter** to open the Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap40.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **ii.**  Type the command line**systeminfo** and press**Enter** to view your system type.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap31-2.png)
 
@@ -157,19 +192,6 @@ It may take some time for the command operation to be completed.
 **5)**  Type the update number that you want to download. In this example, type KB 3006137 and then click **Search** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap42.png)
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** In the list of search results, select the right update for your operating system and click **Download** .
 
@@ -199,5 +221,21 @@ It may take some time for the command operation to be completed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-digital-memory-keepers-taking-screenshots-on-xbox-one/"><u>[New] 2024 Approved Digital Memory Keepers Taking Screenshots on Xbox One</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unveiling-the-power-of-luminance-in-hdr-landscapes/"><u>[New] Unveiling the Power of Luminance in HDR Landscapes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bring-imagination-to-life-self-animated-artistry/"><u>[Updated] 2024 Approved Bring Imagination to Life Self-Animated Artistry</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-iphone-images-jpg-png-straightforward-conversion-guide/"><u>2024 Approved IPhone Images (JPG, PNG) - Straightforward Conversion Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5plus12-nastroje-za-dopravu-peknych-obrazovych-sinek-pro-windows-movavi/"><u>5+12 Nástroje Za Dopravu Pěkných Obrazových Sínek Pro Windows - Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-a-malfunctioning-usb-hdmi-adapter/"><u>Expert Tips for Repairing a Malfunctioning USB-HDMI Adapter</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-honor-x7b-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Honor X7b?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-getting-past-helldivers-2s-launching-dark-screen-dilemma/"><u>Step-by-Step Guide: Getting Past Helldivers 2'S Launching Dark Screen Dilemma</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-resolve-sudden-computer-hibernation-problems/"><u>Troubleshoot and Resolve Sudden Computer Hibernation Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-correcting-the-0x800705b4-issue-on-windows-update-in-windows-11/"><u>Troubleshooting and Correcting the '0X800705b4' Issue on Windows Update in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-non-functioning-integrated-webcam-issues-in-windows/"><u>Troubleshooting Guide: Resolving Non-Functioning Integrated Webcam Issues in Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ultimate-top-8-converter-list-for-sub-to-srt/"><u>Ultimate Top 8 Converter List for Sub to SRT</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstick-your-file-explorer-on-windows-11-quick-resolution-steps/"><u>Unstick Your File Explorer on Windows 11 - Quick Resolution Steps</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Windows 10 Touchpad Not Scrolling? Here’s How to Solve It!
-date: 2024-09-12T16:05:31.811Z
-updated: 2024-09-15T16:05:53.122Z
+date: 2024-10-11T19:40:48.828Z
+updated: 2024-10-13T01:41:28.969Z
 tags:
   - win11
   - win10
@@ -45,6 +45,14 @@ thumbnail: https://thmb.techidaily.com/e7857315bad256fdc5741086fa363d0007b6f6fca
 3. In the view of**Category** , click**Hardware and Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf298111eba5.jpg)
 4. Under**Devices and Printers** , click**Mouse** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29836c37da.jpg)
 5. Select the last tab. (The last tab is usually for touchpad configuration if you have a touchpad. And its name varies with different models of computer.) Then you can select a checkbox or click a button to enable your touchpad.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c061bc83.jpg)
@@ -61,15 +69,23 @@ thumbnail: https://thmb.techidaily.com/e7857315bad256fdc5741086fa363d0007b6f6fca
 3. Expand**MultiFinger Gestures** , and select the**Two-Finger Scrolling** box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf29c98471f8.jpg)
 4. Click**Apply** .
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Check if your touchpad now works properly. If not, try Tip 3, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Tip 3: Change your mouse pointer
@@ -98,15 +114,16 @@ OR
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money-back guarantee.)  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf22faf2a3c4.jpg)
-4. Restart your computer and check if your touchpad now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf22faf2a3c4.jpg)
+4. Restart your computer and check if your touchpad now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance.
 
 ---
 
@@ -129,5 +146,22 @@ Hopefully, this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-essentials-of-combining-apple-music-and-videos/"><u>[New] In 2024, The Essentials of Combining Apple Music & Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explaining-the-freeze-photo-booth-film-flow/"><u>[Updated] Explaining the Freeze Photo Booth Film Flow</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-video-magic-comprehensive-editing-for-professionals/"><u>[Updated] YouTube Video Magic Comprehensive Editing for Professionals</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-code-28-dilemma-effective-fixes-for-windows-device-manager-errors/"><u>Beat the Code 28 Dilemma: Effective Fixes for Windows Device Manager Errors</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/comparing-gopro-and-polaroids-video-editors-for-filmmakers/"><u>Comparing GoPro & Polaroid's Video Editors for Filmmakers</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-non-hdcp-enabled-screens-a-comprehensive-guide/"><u>Dealing With Non-HDCP Enabled Screens: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/failed-to-patch-resolving-the-windows-10-v1607-feature-update-problem/"><u>Failed to Patch: Resolving the Windows 10 v1607 Feature Update Problem</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-se-2020-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-honor-90-lite-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Honor 90 Lite Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-use-iphone-wipe-applications-for-safe-and-secure-deletion-of-confidential-records/"><u>How To Use iPhone Wipe Applications for Safe and Secure Deletion of Confidential Records</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleashing-media-prime-video-players-on-windows-mobile/"><u>In 2024, Unleashing Media Prime Video Players on Windows Mobile</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208735921-keyboard-not-working-heres-how-you-can-fix-it-on-windows-11-7-or-8/"><u>Keyboard Not Working? Here's How You Can Fix It on Windows 11, 7, or 8!</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-techniques-to-correct-dns-server-not-found-mishaps-quickly/"><u>Simple Techniques to Correct 'DNS Server Not Found' Mishaps Quickly</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-releases-phoenix-mac-app-for-jpeg-restoration/"><u>Stellar Releases Phoenix Mac App for JPEG Restoration</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-pc-issues-fixing-driver-state-failures-in-windows/"><u>Troubleshooting PC Issues: Fixing Driver State Failures in Windows</u></a></li>
+</ul></div>
 

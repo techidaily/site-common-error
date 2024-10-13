@@ -1,7 +1,7 @@
 ---
 title: How To Restore Functionality To A Broken Dell Laptop Keyboard Quickly And Easily
-date: 2024-10-05T11:57:22.713Z
-updated: 2024-10-06T18:13:11.121Z
+date: 2024-10-07T02:01:36.701Z
+updated: 2024-10-13T03:37:29.647Z
 tags:
   - win11
   - win10
@@ -34,16 +34,10 @@ thumbnail: https://thmb.techidaily.com/16367f6c60ce9653f1392a643e2b82dc02b50b35f
 ---
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your keyboard driver
@@ -56,23 +50,9 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -97,13 +77,6 @@ Here’s how to reinstall the keyboard driver:
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -144,9 +117,23 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -156,26 +143,33 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -211,21 +205,17 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-windows-error-0x8000ffff/"><u>[Fixed] Windows Error 0X8000ffff</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-revenue-revolution-leveraging-the-youtube-premium-opportunity/"><u>[Updated] 2024 Approved Revenue Revolution Leveraging the YouTube Premium Opportunity</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-comparison-between-sharex-and-rivals-for-2024/"><u>[Updated] The Ultimate Comparison Between ShareX & Rivals for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/crafting-visual-brilliance-mastering-luts-in-ae-for-2024/"><u>Crafting Visual Brilliance Mastering LUTs in AE for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-pc-failed-to-start-up-correctly-a-comprehensive-guide/"><u>Fixing the 'PC Failed to Start Up Correctly': A Comprehensive Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-c55-bootloader-easily-by-drfone-android/"><u>How to Unlock Poco C55 Bootloader Easily</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-8-websites-where-you-can-download-free-3d-text-psdfiles/"><u>In 2024, Best 8 Websites Where You Can Download Free 3D Text PSDFiles</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-essential-android-gb-advance-emulator-list/"><u>In 2024, Essential Android GB Advance Emulator List</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-vivo-y200e-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo Y200e 5G Easily?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-meme-makers-guide-for-iphones/"><u>In 2024, Meme Makers' Guide (For iPhones)</u></a></li>
-<li><a href="https://common-error.techidaily.com/innovative-solutions-stop-the-halt-on-your-hamachi-connection-now/"><u>Innovative Solutions: Stop the Halt on Your Hamachi Connection Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/lenovo-fn-key-malfunction-heres-how-to-restore-it-effortlessly-and-promptly/"><u>Lenovo Fn Key Malfunction? Here’s How to Restore It Effortlessly & Promptly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolve-keyboard-errors-for-functional-shortcuts-in-windows-11/"><u>Resolve: Keyboard Errors for Functional Shortcuts in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-windows-11-update-0x80240034-failure-a-step-by-step-guide/"><u>Resolving the Windows 11 Update 0X80240034 Failure - A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-overcoming-elevation-requests-in-windows-os-versions-11107/"><u>Step-by-Step Guide: Overcoming Elevation Requests in Windows OS (Versions 11/10/7)</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-load-caused-by-the-windows-1011-desktop-window-manager/"><u>Top 5 Solutions for Reducing GPU Load Caused by the Windows 10/11 Desktop Window Manager</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-follower-deletion-identification/"><u>[New] In 2024, Instagram Follower Deletion Identification</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/elevate-your-filmmaking-top-strategies-for-gopro-timelapses/"><u>Elevate Your Filmmaking Top Strategies for GoPro Timelapses</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enhancing-your-social-media-footprint-upload-success-tips-for-stories/"><u>Enhancing Your Social Media Footprint Upload Success Tips for Stories</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-steps-for-fixing-x3daudio17dll-problems/"><u>Essential Steps for Fixing X3DAudio1_7.dll Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-eac-launch-error-step-by-step-guide-when-easy-anti-cheat-missing/"><u>Fixing the 'EAC Launch Error' - Step by Step Guide When Easy Anti-Cheat Missing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On OnePlus Open? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/latest-guide-on-ipad-23-and-apple-iphone-xs-icloud-activation-lock-bypass-by-drfone-ios/"><u>Latest Guide on iPad 2/3 and Apple iPhone XS iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-igtv-creation-and-monetization-the-ultimate-cheat-sheet/"><u>Mastering IGTV Creation & Monetization The Ultimate Cheat Sheet</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-miracast-troubleshooting-a-2024-guide-to-overcoming-device-limitations/"><u>Mastering Miracast Troubleshooting: A 2024 Guide to Overcoming Device Limitations</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/simplified-guide-tp-link-deco-p9-mesh-network-system-a-comprehensive-overview/"><u>Simplified Guide: TP-Link Deco P9 Mesh Network System - A Comprehensive Overview</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-windows-10-service-registration-errors/"><u>Step-by-Step Guide: Correcting Windows 10 Service Registration Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-pixelated-annoyances-a-fix-all-guide-to-windows-10-flickering-issues/"><u>Winning the Battle Against Pixelated Annoyances: A Fix-All Guide to Windows 10 Flickering Issues</u></a></li>
 </ul></div>
 

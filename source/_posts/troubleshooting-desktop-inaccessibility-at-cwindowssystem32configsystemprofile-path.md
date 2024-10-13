@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Desktop Inaccessibility at C:\\Windows\\System32\\Config\\SystemProfile Path"
-date: 2024-10-05T10:18:38.799Z
-updated: 2024-10-07T02:53:42.374Z
+date: 2024-10-08T18:12:14.799Z
+updated: 2024-10-12T17:49:04.183Z
 tags:
   - win11
   - win10
@@ -55,18 +55,18 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8387d8ba7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if your second monitor is displaying. If your second monitor is detected, great! If it’s still not detected, there’re something else you can try…
 
  This problem could be due to an old, corrupted or missing video driver on your Windows 7 computer. You can try to roll back your video driver to the previous version as **[Method 2](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) shown, or directly update your video driver to the latest version as **[Method 3](https://tools.techidaily.com/drivereasy/download/)**  shown.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Roll back your video driver to the previous version
 
@@ -77,22 +77,15 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a85011b67d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Double-click**Display adapters** . Then**right-click** on your video driver to select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a863c479f5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click**Roll Back Driver** under the**Driver pane** .
 
@@ -104,16 +97,16 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8727a02c3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once it’s done, restart your computer to see if your second monitor is displaying.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Update your video driver to the latest version
 
@@ -132,10 +125,16 @@ thumbnail: https://thmb.techidaily.com/88a961787689ffc3683fcd545de851eb1bcfed7d4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5add9a418221e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.
@@ -153,6 +152,13 @@ Restart your computer to see if your second monitor is displaying.
  You should use the right cable for the cable ports of your monitors and computers. Here are the common connection types:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7a8cceab7ac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Make sure you have the right cable connected with your computer and monitors.**
 
@@ -178,24 +184,19 @@ Restart your computer to see if your second monitor is displaying.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-moto-z2-masterclass-smartphone-smarts-explored/"><u>[Updated] 2024 Approved Moto Z2 Masterclass Smartphone Smarts Explored</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-precise-preservation-how-to-capture-windows/"><u>[Updated] Precise Preservation How to Capture Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cinema-craftsmanship-guide-top-tips-for-the-pros/"><u>Cinema Craftsmanship Guide Top Tips for the Pros</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211778357-clear-explanations-eliminating-the-no-signal-monitor-problem-easy-steps-inside/"><u>Clear Explanations: Eliminating the 'No Signal' Monitor Problem Easy Steps Inside!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723008751110-cyberpunk-2077-wont-start-here-are-the-fixes-that-worked/"><u>Cyberpunk 2077 Won't Start? Here Are the Fixes That Worked!</u></a></li>
-<li><a href="https://common-error.techidaily.com/decoding-and-defeating-unspecified-errors-in-windows-fixing-error-code-0x80004005/"><u>Decoding and Defeating Unspecified Errors in Windows - Fixing Error Code 0X80004005</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elite-8-video-transformations-for-virtual-events/"><u>Elite 8 Video Transformations for Virtual Events</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-miracast-problems-by-installing-the-right-graphics-driver-solved/"><u>Fix Your Miracast Problems by Installing the Right Graphics Driver [SOLVED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-game-latency-solving-fallout-ves-lagging-problem-updated/"><u>How to Overcome Game Latency: Solving Fallout Ve's Lagging Problem (Updated )</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-bright-future-of-serene-computing-customizable-be-quiet-cases-and-illuminated-coolers/"><u>Introducing the Bright Future of Serene Computing: Customizable 'Be Quiet!' Cases and Illuminated Coolers</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-repair-of-your-touchscreen-for-windows-10-5-proven-techniques-to-get-back-control/"><u>Mastering the Repair of Your Touchscreen for Windows 10 - 5 Proven Techniques to Get Back Control</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-and-effective-ways-to-stop-endless-restart-cycles-in-windows-11/"><u>Quick and Effective Ways to Stop Endless Restart Cycles in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-a-403-forbidden-web-page-a-step-by-step-guide/"><u>Resolving a 403 Forbidden Web Page: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-binkw32dll-file-not-found-issue-a-step-by-step-guide/"><u>Resolving the 'binkw32.dll' File Not Found Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/silencing-the-world-keep-photos-off-public-scope/"><u>Silencing the World: Keep Photos Off Public Scope</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/speak-smart-succeed-premier-communication-courses/"><u>Speak Smart, Succeed: Premier Communication Courses</u></a></li>
-<li><a href="https://common-error.techidaily.com/uncover-the-mystery-why-are-my-desktop-icons-vanishing-in-windows-11-solved/"><u>Uncover the Mystery: Why Are My Desktop Icons Vanishing in Windows 11? [SOLVED]</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/zero-cost-wonders-traversing-the-terrain-of-tiktok-backdrops/"><u>Zero-Cost Wonders Traversing the Terrain of TikTok Backdrops</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beyond-imagination-celebrating-the-leading-6-in-nft-creation/"><u>[Updated] Beyond Imagination Celebrating the Leading 6 in NFT Creation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-fix-frozen-mobile-youtube-videos-on-multiple-devices-for-2024/"><u>[Updated] Fix Frozen Mobile YouTube Videos on Multiple Devices for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/10-effortless-vlog-themes-youll-love-for-2024/"><u>10 Effortless Vlog Themes You'll Love for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-import-music-to-inshot-app/"><u>2024 Approved How to Import Music to Inshot App?</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-usb-device-not-detected-effective-strategies-to-resolve-the-problem-once-and-for-all/"><u>Dealing with 'USB Device Not Detected': Effective Strategies to Resolve the Problem Once and For All</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-official-dell-g15-graphics-driver-for-windows-systems/"><u>Download and Install Official Dell G15 Graphics Driver for Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-handling-service-request-unable-to-execute-due-to-limited-resources/"><u>Expert Tips: Handling 'Service Request Unable to Execute Due to Limited Resources'</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-continuous-unintentional-mouse-double-click-issue/"><u>Fixes for Continuous Unintentional Mouse Double-Click Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-vanished-desktop-shortcuts-in-windows-10-solution-inside/"><u>How To Restore Vanished Desktop Shortcuts in Windows 10 (Solution Inside)</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-art-of-touchpad-navigation-overcoming-scrolling-challenges-in-windows-10/"><u>Mastering the Art of Touchpad Navigation: Overcoming Scrolling Challenges in Windows 10</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unlock-fcpx-efficiency-40-must-know-keyboard-shortcuts-for-2024/"><u>New Unlock FCPX Efficiency 40 Must-Know Keyboard Shortcuts for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-installing-avi-media-player-and-codecs-on-your-windows-11-pc/"><u>Step-by-Step Tutorial: Installing AVI Media Player and Codecs on Your Windows 11 PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-y02t-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo Y02T to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

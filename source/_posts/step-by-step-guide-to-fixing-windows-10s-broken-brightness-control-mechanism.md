@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Fixing Windows 10'S Broken Brightness Control Mechanism
-date: 2024-09-08T16:09:07.670Z
-updated: 2024-09-15T16:06:45.306Z
+date: 2024-10-10T02:53:20.695Z
+updated: 2024-10-13T00:44:00.229Z
 tags:
   - win11
   - win10
@@ -69,6 +69,14 @@ To do so:
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
@@ -83,22 +91,31 @@ To run SFC:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click **Yes**   when prompted to confirm.
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. **Restart** your computer and check if the volume control not working problem is solved. If not, continue with **Fix 4** .
 
 ---
@@ -113,20 +130,20 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
@@ -152,5 +169,21 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-digital-picture-perfect-with-audio-touches/"><u>[New] Digital Picture Perfect with Audio Touches</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-tackling-heavy-network-load-due-to-svchostexe-and-net-services/"><u>Comprehensive Guide: Tackling Heavy Network Load Due to svchost.exe and Net Services</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-error-1068-in-windows-top-strategies-to-restore-seamless-performance/"><u>Conquer Error 1068 in Windows: Top Strategies to Restore Seamless Performance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guida-rapida-alla-compressione-videoclip-con-meno-facili-clicks-soluzione-di-movavi/"><u>Guida Rapida Alla Compressione Videoclip Con Meno Facili Clicks: Soluzione Di Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-asus-rog-phone-7-ultimate-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Asus ROG Phone 7 Ultimate Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-ultimate-guide-to-selecting-optimal-drones-motors/"><u>In 2024, The Ultimate Guide to Selecting Optimal Drones Motors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-10-free-templates-for-engaging-presentations-and-slideshows/"><u>In 2024, Top 10 Free Templates for Engaging Presentations and Slideshows</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-your-windows-10-update-problems-a-complete-guide/"><u>Overcome Your Windows 10 Update Problems - A Complete Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reviewing-the-tp-link-av2000-powerline-converter-exceptional-connectivity-lackluster-look-and-feel/"><u>Reviewing the TP-Link AV2000 Powerline Converter: Exceptional Connectivity, Lackluster Look and Feel</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-dells-dead-usb-port-diagnosis-and-fixes-explored/"><u>Reviving Your Dell's Dead USB Port: Diagnosis and Fixes Explored</u></a></li>
+<li><a href="https://facebook.techidaily.com/seamless-extraction-of-complete-facebook-logs-and-traces/"><u>Seamless Extraction of Complete Facebook Logs and Traces</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-power-problems-how-to-unblock-a-stuck-charger-on-win7win10/"><u>Troubleshoot Power Problems: How to Unblock a Stuck Charger on Win7/Win10</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-cutting-edge-avi-video-editors-top-16-picks-for-trimming-and-cutting-cross-platform/"><u>Updated 2024 Approved Cutting-Edge AVI Video Editors Top 16 Picks for Trimming and Cutting Cross-Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/updated-strategies-on-solving-lag-issues-in-your-minecraft-adventure/"><u>Updated Strategies on Solving Lag Issues in Your Minecraft Adventure</u></a></li>
+</ul></div>
 

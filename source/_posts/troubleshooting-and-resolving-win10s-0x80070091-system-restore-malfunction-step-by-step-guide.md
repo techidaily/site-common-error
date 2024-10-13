@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Resolving Win10's 0X80070091 System Restore Malfunction - Step-by-Step Guide
-date: 2024-10-06T02:56:50.811Z
-updated: 2024-10-06T20:48:13.969Z
+date: 2024-10-07T01:19:23.779Z
+updated: 2024-10-12T21:42:33.469Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your keyboard driver
 
  This problem may occur if you are using the wrong keyboard driver or it’s out of date. So you should update your keyboard driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -71,25 +78,11 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -109,18 +102,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -132,28 +125,15 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -167,9 +147,23 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -205,22 +199,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-perfect-panning-leading-stabilizers-unveiled/"><u>[Updated] Perfect Panning Leading Stabilizers Unveiled</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-integrate-xps-essential-movie-making-features/"><u>2024 Approved Integrate XP's Essential Movie Making Features</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/acer-aspire-e-15-excelling-in-value-for-money-your-go-to-pick-for-budget-friendly-power-on-the-move/"><u>Acer Aspire E 15 - Excelling in Value for Money, Your Go-To Pick for Budget-Friendly Power on the Move</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-10s-troubling-0x80072efd-error-step-by-step-solutions/"><u>Fixing Windows 10'S Troubling '0X80072EFD' Error: Step-by-Step Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-steelseries-arctis-5-microphone-issue-a-comprehensive-guide/"><u>How to Fix the SteelSeries Arctis 5 Microphone Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/improved-safety-configuration-activate-secure-file-transfer-with-newly-configured-restrictions/"><u>Improved Safety Configuration: Activate Secure File Transfer with Newly Configured Restrictions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-poco-x6-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Poco X6 Pro Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-technical-hitches-in-playing-avatar-frontiers-of-pandora-a-users-manual-to-a-smooth-startup/"><u>Overcoming Technical Hitches in Playing Avatar: Frontiers of Pandora - A User's Manual to a Smooth Startup</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-windows-7-failing-to-recognize-second-display-issue/"><u>Resolved: Windows 7 Failing to Recognize Second Display Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-fix-steps-when-bluetooth-misses-display-on-device-manager/"><u>Solved: Fix Steps When Bluetooth Misses Display on Device Manager</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-resolve-windows-10-hosted-network-connection-issues/"><u>Solved: How to Resolve Windows 10 Hosted Network Connection Issues</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/step-by-step-tutorial-for-transforming-dvds-to-premium-wmv-files-on-your-pc/"><u>Step-by-Step Tutorial for Transforming DVDs to Premium WMV Files on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-installer-lacks-permissions-in-windows-1110/"><u>Troubleshooting Installer Lacks Permissions in Windows 11/10</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcoming-windows-11-black-screen-challenges-effortlessly/"><u>Troubleshooting Tips: Overcoming Windows 11 Black Screen Challenges Effortlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-wifi-disconnects-on-windows-710-fixing-ethernet-issues-step-by-step/"><u>Troubleshooting WiFi Disconnects on Windows 7/10: Fixing Ethernet Issues Step-by-Step</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719154032507-whats-your-platform-of-choice-lets-find-out/"><u>What's Your Platform of Choice? Let's Find Out!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-end-to-end-guide-to-picsart/"><u>[Updated] The End-to-End Guide to PicsArt</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1-top-8-proven-methods-to-enhance-images-and-videos-using-ai-up-scaling-techniques/"><u>1. Top 8 Proven Methods to Enhance Images and Videos Using AI Up-Scaling Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-twinkling-typefaces-the-essence-of-bouncy-text/"><u>2024 Approved Twinkling Typefaces The Essence of Bouncy Text</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-google-chromes-black-display-anomaly-effective-solutions-herein/"><u>Addressing Google Chrome's Black Display Anomaly - Effective Solutions Herein</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-guide-to-refreshing-intels-on-windodrive/"><u>Essential Guide to Refreshing Intels on WindoDrive</u></a></li>
+<li><a href="https://blog-min.techidaily.com/exclusive-offer-save-on-macx-dvd-ripper-pro-get-it-now-at-a-special-price/"><u>Exclusive Offer: Save on MacX DVD Ripper Pro - Get It Now at a Special Price!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/exploring-options-a-treasure-hunt-for-your-tiktok-symbol/"><u>Exploring Options A Treasure Hunt for Your TikTok Symbol</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-v27-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo V27 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/incompatible-ftdi-device-drivers-trigger-memory-corruption-alerts/"><u>Incompatible FTDI Device Drivers Trigger Memory Corruption Alerts</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-halo-4-ue4-fix-your-critical-system-failures-for-uninterrupted-playtime/"><u>Mastering Halo 4 UE4: Fix Your Critical System Failures for Uninterrupted Playtime</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-art-of-video-trimming-and-editing-with-precision-learn-how-from-movavi/"><u>Mastering the Art of Video Trimming and Editing with Precision - Learn How From Movavi</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Planning to Use a Pokemon Go Joystick on Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/revolutionary-guide-to-eliminating-minecraft-performance-lags/"><u>Revolutionary Guide to Eliminating Minecraft Performance Lags</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-definitive-solution-ensuring-seamless-airpods-integration-with-windows-11/"><u>The Definitive Solution : Ensuring Seamless AirPods Integration with Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-notorious-red-screen-of-error-in-your-device/"><u>Ultimate Guide: Resolving the Notorious 'Red Screen of Error' In Your Device</u></a></li>
 </ul></div>
 

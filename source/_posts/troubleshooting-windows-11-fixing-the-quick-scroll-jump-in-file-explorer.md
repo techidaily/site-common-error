@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows 11: Fixing the Quick Scroll Jump in File Explorer"
-date: 2024-09-10T16:00:54.404Z
-updated: 2024-09-15T16:04:07.005Z
+date: 2024-10-09T04:56:18.852Z
+updated: 2024-10-12T16:33:05.843Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/9ed1822c884a606f5ae36981b782d8b43a1eaddd1
 2. [Check your wireless network adapter](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your WiFi driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1\. Enable Microsoft Hosted Network Virtual Adapter
 
  1)Press**Windows** key +**X** key together to open quick-access menu.  
@@ -57,10 +64,24 @@ thumbnail: https://thmb.techidaily.com/9ed1822c884a606f5ae36981b782d8b43a1eaddd1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db5161c78b.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)View on**Power Management** pane.  
  Make sure**Allow the comoputer to turn off this device to save power** is**unchecked** and click**OK** to save settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db64b2e5ab.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If unluckily, neither method 1 nor method 2 helps you fix the error, it’s advise that update your WiFi driver with Method 3.
 
@@ -78,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/9ed1822c884a606f5ae36981b782d8b43a1eaddd1
  Then choose**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595db84f55cbc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Search automatically for updated driver software** .
 
@@ -106,21 +120,22 @@ Now Microsoft will detect the update for you automatically.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-wireless-network-adapter-driver.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-wireless-network-adapter-driver.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -147,5 +162,19 @@ Now Microsoft will detect the update for you automatically.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-facebook-tutorial-how-to-create-facebook-account/"><u>[New] In 2024, Facebook Tutorial How to Create Facebook Account</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-from-humble-beginnings-to-prodigy-carryminatis-earnings-ajey/"><u>[New] In 2024, From Humble Beginnings to Prodigy CarryMinati's Earnings (Ajey)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-stop-quittime-video-capture-procedures/"><u>[New] Stop QuitTime Video Capture Procedures</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203244022-fixing-call-of-duty-wwii-error-4220-heres-your-complete-troubleshooting-solution/"><u>Fixing Call of Duty WWII Error 4220? Here's Your Complete Troubleshooting Solution!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-meizu-21-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Meizu 21</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-huawei-nova-y91-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Huawei Nova Y91 Phone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-seamless-integration-of-fb-video-on-tv-screens/"><u>In 2024, Seamless Integration of Fb Video on TV Screens</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-from-your-iphone-14-pro-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled From your iPhone 14 Pro? How to Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-astro-a40-microphone-clear-instructions-and-solutions/"><u>Revive Your Astro A40 Microphone: Clear Instructions and Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-solution-to-overcome-livekernelevent-error-117/"><u>The Ultimate Solution to Overcome LiveKernelEvent Error 117</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-surface-pro-4-camera-issues-in-windows-10/"><u>Troubleshooting Guide: Fixing Surface Pro 4 Camera Issues in Windows 10</u></a></li>
+</ul></div>
 

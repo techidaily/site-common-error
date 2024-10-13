@@ -1,7 +1,7 @@
 ---
 title: Simple Fixes to Get Your Lenovo Fingerprint Reader Working Again
-date: 2024-09-15T17:11:51.366Z
-updated: 2024-09-20T16:32:21.653Z
+date: 2024-10-07T16:10:56.595Z
+updated: 2024-10-12T20:07:56.957Z
 tags:
   - win11
   - win10
@@ -44,10 +44,33 @@ Both fixes below work in Windows 10, 8 and 7.
 1. On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **main.cpl** into the box and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbcd41adbc.png)
 2. Click the**Device Settings** tab >**your device** \>**Enable** \>**Apply** \>**OK** . ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3dbdfd5f66f.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Step**2)** might differ slightly depending on the build of your Windows Operating System. The bottom line is:**enable your touch pad** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Hopefully this turns your touchpad back on and it works propely again. If the problem persists, try**Fix 2** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your touchpad driver
 
@@ -68,6 +91,14 @@ Both fixes below work in Windows 10, 8 and 7.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. ![](http://wp.easeware.net/wp-content/uploads/2018/04/img_5ac1a01192ca4.png)
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/) and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3df9ad3f86c.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Check and see if your Lenovo touchpad is back to life again. ?
 
 ---
@@ -93,12 +124,21 @@ Both fixes below work in Windows 10, 8 and 7.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-the-full-potential-of-tiktok-with-zoom-video-sharing/"><u>[Updated] Unlocking the Full Potential of TikTok with Zoom Video Sharing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ais-new-era-four-governmental-interventions-to-consider/"><u>AI's New Era: Four Governmental Interventions to Consider</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/become-a-meme-genius-the-best-8-gif-making-methods-for-2024/"><u>Become a Meme Genius The Best 8 GIF-Making Methods for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-techniques-to-stabilize-and-optimize-thaumaturge-performance-on-personal-computers/"><u>DIY Techniques to Stabilize and Optimize Thaumaturge Performance on Personal Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-resolving-boot-issues-and-system-stops-in-computers/"><u>Expert Tips on Resolving Boot Issues & System Stops in Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-correct-system-file-checker-errors-on-windows-systems/"><u>Expert Tips to Correct System File Checker Errors on Windows Systems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-x100-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo X100 Pro to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-vivo-s18-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Vivo S18 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-broken-huion-pen-in-minutes-a-guide-to-5-diagnostic-fixes/"><u>Reviving Your Broken Huion Pen in Minutes: A Guide to 5 Diagnostic Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-why-isnt-my-laptop-mic-working-expert-tips-and-tricks/"><u>Solved: Why Isn't My Laptop Mic Working? – Expert Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-repairing-non-functional-usb-ports-on-windows-10-and-11/"><u>Troubleshooting Guide: Repairing Non-Functional USB Ports on Windows 10 and 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-laptop-overcoming-the-boot-loop-issue/"><u>Troubleshooting Your Laptop: Overcoming the Boot Loop Issue</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-list-of-leading-wi-fi-and-cellphone-repeaters-for-2efficent-connectivity-2024-edition/"><u>Ultimate List of Leading Wi-Fi and Cellphone Repeaters for 2Efficent Connectivity - 2024 Edition</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-edit-like-a-pro-with-wax-a-free-video-editing-software-guide/"><u>Updated 2024 Approved Edit Like a Pro with Wax A Free Video Editing Software Guide</u></a></li>
+</ul></div>
 

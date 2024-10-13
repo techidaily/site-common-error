@@ -1,7 +1,7 @@
 ---
 title: Mastering the Repair of Non-Responsive USB Drives Effortlessly
-date: 2024-10-01T19:05:06.270Z
-updated: 2024-10-07T02:56:03.582Z
+date: 2024-10-06T16:19:28.973Z
+updated: 2024-10-12T19:40:02.069Z
 tags:
   - win11
   - win10
@@ -80,13 +80,6 @@ In another version of BIOS, the procedure may go like this:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Roll back Lenovo PM Driver
 
  As many Windows 7 users reported, their Fn keys stop working right after a Windows update. If that’s the case for you, you should try to roll back your Lenovo PM (Power Management) driver. Here’s how:
@@ -96,10 +89,10 @@ In another version of BIOS, the procedure may go like this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In Device Manager, double-click on the**System devices** node to expand its drop-down list. Next, locate**Lenovo PM Device** and right-click on it. From the context menu, select**Properties** .
@@ -109,13 +102,6 @@ In another version of BIOS, the procedure may go like this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-140.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-141.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go to the**Driver** tab and click**Roll Back Driver** .
 
@@ -152,10 +138,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the pop-up Device Manager window, double-click on the**Keyboards** node to expand its drop-down list. Then right-click on your keyboard device and select**Update driver** .
@@ -163,10 +149,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-122.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Search automatically for updated driver software** .
@@ -179,9 +165,23 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-127.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) After updating your keyboard drivers, you should now make similar changes to the chipset drivers. In Device Manager, double-click**System devices** to expand its drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Scroll through the list to locate the items related to your motherboard chipsets, as illustrated below. (Your devices may not be exactly the same as those shown in the following screenshot. In this case, simply update the items of similar titles.)
 
@@ -214,10 +214,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-06-10_14-52-48-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -249,16 +255,15 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-list-of-top-5-iphone-podcast-platforms/"><u>[New] Exclusive List of Top 5 iPhone Podcast Platforms</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/uide-to-make-your-shorts-thumbnail-pop-up/"><u>[New] Guide to Make Your Shorts' Thumbnail Pop Up</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-top-8-streamers-choice-high-quality-cameras-reviewed-for-2024/"><u>[Updated] Top 8 Streamer's Choice High-Quality Cameras Reviewed for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/crackling-noise-in-computer-speakers-easy-solutions-for-windows-users-fixed/"><u>Crackling Noise in Computer Speakers? Easy Solutions for Windows Users [FIXED]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/decoding-the-hidden-display-issue/"><u>Decoding the Hidden Display Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-continuous-usb-recognition-failures-on-your-pc/"><u>Effective Solutions for Continuous USB Recognition Failures on Your PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-high-disk-usage-caused-by-microsoft-telemetry-on-windows-10-systems/"><u>How to Fix High Disk Usage Caused by Microsoft Telemetry on Windows 10 Systems</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ng-boundaries-of-video-production-in-youtube-studio/"><u>Pushing Boundaries of Video Production in YouTube Studio</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-spacebar-z-r-ren/"><u>Resolving Windows ˈSPACEBAR Ɪz ʏɑːrŋ Ɜːrɡən</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-problem-windows-11-hosted-mode-connectivity-failure/"><u>Solving the Problem: Windows 11 Hosted Mode Connectivity Failure</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/1716465132998-your-life-your-legacy-youtube-videos-that-matter/"><u>Your Life, Your Legacy YouTube Videos That Matter.</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-beginners-guide-to-video-equipment-selection/"><u>[New] The Beginner's Guide to Video Equipment Selection</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-from-start-to-finish-itunes-video-logging/"><u>[Updated] From Start to Finish ITunes Video Logging</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exploring-8-truly-effective-video-marketing-strategies/"><u>2024 Approved Exploring 8 Truly Effective Video Marketing Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-muting-issues-a-step-by-step-guide/"><u>How to Fix Windows 11 Muting Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-forcefully-close-windows-11-when-your-computer-fails-to-turn-off/"><u>How to Forcefully Close Windows 11 When Your Computer Fails to Turn Off</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/manuale-completo-per-la-configurazione-e-gestione-di-windows-dvd/"><u>Manuale Completo per La Configurazione E Gestione Di Windows DVD</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-error-1053-non-responsive-service-launch-failure/"><u>Resolving Error 1053: Non-Responsive Service Launch Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-microphone-problems-on-steelseries-arctis-5-for-optimal-performance/"><u>Solving Microphone Problems on SteelSeries Arctis 5 for Optimal Performance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-essential-tutorial-for-home-grown-animation-magic-for-2024/"><u>The Essential Tutorial for Home-Grown Animation Magic for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-hear-the-difference-techniques-for-neutralizing-unwanted-audio-in-real-time-settings-digital-vs-analog-for-2024/"><u>Updated Hear the Difference Techniques for Neutralizing Unwanted Audio in Real-Time Settings (Digital vs Analog) for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix When Your System Can’t Find a Required Component
-date: 2024-10-03T19:26:04.866Z
-updated: 2024-10-06T16:12:07.259Z
+date: 2024-10-11T21:45:06.860Z
+updated: 2024-10-12T20:08:01.423Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ You don’t have to try them all; just work your way down the list until you fin
 5. [**Reset your computer**](#t6)
 6. [**Bonus tip**](#t7)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 1: Enable Show desktop icons
 
 Make sure you have enabled the “Show desktop icon” feature on Windows 10:
@@ -43,7 +50,21 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf52ca259fe4.jpg)
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 2: Check your desktop icon settings
 
@@ -53,31 +74,17 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 3: Rebuild icon cache
 
@@ -87,13 +94,6 @@ You can also try these steps to rebuild the icon cache:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -102,6 +102,13 @@ start explorer.exe
 3. Check if it helps restore your desktop icons. If not, try Tip 4, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tip 4: Perform a system restore
 
@@ -113,21 +120,14 @@ If your desktop icons still don’t show up, you can perform a system restore to
 3. Select **Choose a different restore point**, and click **Next**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
@@ -187,22 +187,22 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-fast-tracking-visual-storytelling-with-google-collages/"><u>[New] Fast-Tracking Visual Storytelling with Google Collages</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instigate-inspiration-top-20-ideas-for-ig-masterpieces-for-2024/"><u>[New] Instigate Inspiration Top 20 Ideas for IG Masterpieces for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-most-engaging-ar-games-for-phones-revealed/"><u>[New] The Most Engaging AR Games for Phones Revealed</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-formatting-youtubes-auto-subscribe-page-easily/"><u>2024 Approved Formatting YouTube's Auto-Subscribe Page Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/corsair-keyboard-issues-heres-how-you-can-get-it-working-again/"><u>Corsair Keyboard Issues? Here's How You Can Get It Working Again!</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-0x80072f8f-on-windows-1110-top-solutions-to-restore-your-pcs-functionality/"><u>Error Code 0X80072F8F on Windows 11/10: Top Solutions to Restore Your PC's Functionality</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/free-online-converter-transform-flv-files-into-editable-gifs-with-ease/"><u>Free Online Converter: Transform FLV Files Into Editable GIFs with Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-and-troubleshoot-the-persistent-windows-update-issue-error-0x802c4022/"><u>How to Fix and Troubleshoot the Persistent Windows Update Issue (Error 0X802C4022)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-silence-your-ps4s-overheating-problem-a-step-by-step-guide/"><u>How to Silence Your PS4's Overheating Problem – A Step-by-Step Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-t2x-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo T2x 5G FRP</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-starting-your-mac-in-safe-boot/"><u>Step-by-Step Guide: Starting Your Mac in Safe Boot</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-winner-of-wallet-friendlinnity-a-comprehensive-analysis-of-the-tp-link-archer-c9-router/"><u>The Winner of Wallet Friendlinnity: A Comprehensive Analysis of the TP-Link Archer C9 Router</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-strategies-to-overcome-wow-performance-drops-and-enjoy-uninterrupted-gaming/"><u>Top Strategies to Overcome Wow Performance Drops & Enjoy Uninterrupted Gaming</u></a></li>
-<li><a href="https://common-error.techidaily.com/valorant-teardown-ultimate-solutions-for-smooth-gameplay/"><u>Valorant Teardown: Ultimate Solutions for Smooth Gameplay</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/why-google-play-pass-is-an-amazing-offer-that-could-still-improve/"><u>Why Google Play Pass Is an Amazing Offer That Could Still Improve</u></a></li>
-<li><a href="https://common-error.techidaily.com/win11-pcs-restart-at-odd-hours/"><u>Win11 PCs Restart at Odd Hours</u></a></li>
-<li><a href="https://common-error.techidaily.com/xinput13dll-explained-essentiality-and-recovery-steps/"><u>XINPUT1_3.dll Explained: Essentiality and Recovery Steps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-5-leading-tools-for-crafting-superior-video-titles-and-tags/"><u>[Updated] 2024 Approved 5 Leading Tools for Crafting Superior Video Titles and Tags</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-break-through-bot-barriers-rising-from-the-crowd/"><u>[Updated] Break Through Bot Barriers Rising From the Crowd</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-fun-finding-hot-images-at-pexelscom/"><u>[Updated] Maximizing Fun Finding Hot Images at Pexels.com</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/10-proven-techniques-for-skyrocketing-social-media-supporters-for-2024/"><u>10 Proven Techniques for Skyrocketing Social Media Supporters for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-twisting-the-tale-a-comprehensively-dual-angled-approach-for-insta-posts/"><u>2024 Approved Twisting the Tale A Comprehensively Dual-Angled Approach for Insta Posts</u></a></li>
+<li><a href="https://common-error.techidaily.com/accelerate-your-typing-experience-effective-fixes-for-lagging-keys-in-the-latest-windows-operating-system/"><u>Accelerate Your Typing Experience: Effective Fixes for Lagging Keys in the Latest Windows Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-svchostexe-overusing-system-resources-on-windows-11/"><u>Effective Fixes for svchost.exe Overusing System Resources on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-update-error-0x8024402c-a-step-by-step-guide/"><u>Fixing Windows Update Error 0X8024402C: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-align-a-laptop-display-no-more-inverted-screens/"><u>How to Correctly Align a Laptop Display: No More Inverted Screens</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-persistent-error-0xc19solved-during-windows-10-updates/"><u>How to Resolve the Persistent 'Error 0Xc19([SOLVED]' During Windows 10 Updates</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-through-microsoft-mouse-driver-changes/"><u>Navigating Through Microsoft Mouse Driver Changes</u></a></li>
+<li><a href="https://tools.techidaily.com/orange-defender/products/"><u>Orange-defender's Products</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-troubleshooting-overcome-the-missing-battery-alert-easily/"><u>Quick Troubleshooting: Overcome the 'Missing Battery Alert' Easily</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/reviving-the-disappearing-video-icon-on-fb-watch-platform/"><u>Reviving the Disappearing Video Icon on FB Watch Platform</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/top-10-sites-ideais-para-acompanhar-animacoes-online/"><u>Top 10 Sites Ideais Para Acompanhar Animações Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-the-miracast-not-supported-problem-due-to-outdated-drivers/"><u>Troubleshooting and Repairing the 'Miracast Not Supported' Problem Due to Outdated Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-nier-automata-for-pc-to-prevent-system-freezes/"><u>Troubleshooting Nier: Automata for PC to Prevent System Freezes</u></a></li>
 </ul></div>
 

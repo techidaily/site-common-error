@@ -1,7 +1,7 @@
 ---
 title: "Resolving Windows 10 Installation Error: Code 802# - Step-by-Step Guide"
-date: 2024-09-18T19:14:38.488Z
-updated: 2024-09-20T16:54:28.102Z
+date: 2024-10-06T02:09:32.913Z
+updated: 2024-10-12T20:21:54.046Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap38-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap32-3.jpg)
@@ -87,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap37-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Under**Troubleshoot** tab click**Windows Update** and then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap39-2.jpg)
@@ -94,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 **4)** After finishing the troubleshooting process, restart your computer and check the error is fixed or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update Windows
 
@@ -112,26 +119,26 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap37-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Check for updates** first, then click**Install Now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap83.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Follow the instructions and then check whether the error is fixed.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Clear Windows Store Cache
@@ -156,6 +163,13 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap47.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type (or copy-paste) the below commands into the Command Prompt window**one by one** . After typing one line, press the**Enter** key and then go next.  
 
 net stop wuauserv  
@@ -173,10 +187,10 @@ Now check to see if your Windows Store is working normally.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Reset or reinstall Windows
@@ -194,16 +208,10 @@ Now check to see if your Windows Store is working normally.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -233,5 +241,26 @@ Now check to see if your Windows Store is working normally.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-easy-to-use-platforms-for-free-youtube-thumbnail-extracting/"><u>[Updated] 2024 Approved Easy-to-Use Platforms for Free YouTube Thumbnail Extracting</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-honor-play-8t-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/3-captivating-techniques-for-creating-heartfelt-romance-videos/"><u>3 Captivating Techniques for Creating Heartfelt Romance Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-oneplus-nord-3-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset OnePlus Nord 3 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-hardware-failures-solutions-for-dell-keyboard-malfunctions/"><u>Addressing Hardware Failures: Solutions for Dell Keyboard Malfunctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211109851-expert-solutions-to-failed-to-update-messages-in-warframe-now-resolved/"><u>Expert Solutions to 'Failed to Update' Messages in Warframe – Now Resolved</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210731159-guide-to-restarting-your-windows-update-service-problems-solved/"><u>Guide to Restarting Your Windows Update Service – Problems Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-brightness-functionality-on-your-windows-11-pc/"><u>How to Restore Brightness Functionality on Your Windows 11 PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-motorola-moto-g13-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Motorola Moto G13 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-pova-5-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Tecno Pova 5 Pro?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-step-by-step-methodology-effortless-youtube-playlist-embedding-on-websites/"><u>In 2024, Step-by-Step Methodology Effortless YouTube Playlist Embedding on Websites</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-write-errors-for-memory-location-0x-referenced-addresses/"><u>Overcoming Write Errors for Memory Location 0X Referenced Addresses</u></a></li>
+<li><a href="https://common-error.techidaily.com/red-alert-resolved-overcoming-the-sudden-system-crashes/"><u>Red Alert Resolved: Overcoming the Sudden System Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-ps4s-audio-ultimate-fixes-for-microphone-malfunctions/"><u>Revive Your PS4's Audio: Ultimate Fixes for Microphone Malfunctions</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-to-importing-pages-with-flipbuilder/"><u>Step-by-Step Guide to Importing Pages with FlipBuilder</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-fatal-mistakes-in-call-of-duty-black-ops-4/"><u>Step-by-Step Solutions for Fatal Mistakes in Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-error-0x80072f8f-quick-fixes-for-windows-1110-users/"><u>Troubleshooting Error 0X80072F8F - Quick Fixes for Windows 11/10 Users</u></a></li>
+</ul></div>
 

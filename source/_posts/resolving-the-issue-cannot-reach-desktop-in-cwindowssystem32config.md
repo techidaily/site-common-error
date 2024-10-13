@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Issue: Cannot Reach Desktop in C:\\Windows\\System32\\Config"
-date: 2024-09-30T06:36:52.441Z
-updated: 2024-10-06T21:51:07.646Z
+date: 2024-10-10T21:33:31.906Z
+updated: 2024-10-12T17:08:04.960Z
 tags:
   - win11
   - win10
@@ -44,16 +44,10 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 2. Check to see if your desktop icons are back. If not, try Tip 2, below.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -64,24 +58,10 @@ Make sure you have enabled the “Show desktop icon” feature on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf531bcea206.jpg)
 2. Click **Themes** \> **Desktop icon settings**.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53220a4552.jpg)
 3. Select the icons you want to show on desktop, then click **OK**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53279e9206.jpg)
 4. Check if your “desktop icons missing” problem is resolved. If not, try Tip 3, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -92,6 +72,14 @@ You can also try these steps to rebuild the icon cache:
 1. Run **Command Prompt** as administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53d32cc341.jpg)
 2. Copy-paste the following commands one at a time and press **Enter** after each command.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 taskkill /F /IM explorer.exe  
 cd /d %userprofile%\AppData\Local  
 attrib –h IconCache.db  
@@ -101,6 +89,13 @@ start explorer.exe
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tip 4: Perform a system restore
 
 If your desktop icons still don’t show up, you can perform a system restore to return your system to a date when the icons appeared normally on the desktop. Here’s how to perform a system restore to help fix your “desktop icons disappeared in Windows 10” issue:
@@ -109,28 +104,29 @@ If your desktop icons still don’t show up, you can perform a system restore to
 2. At Recovery, click **Open System Restore**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a2728a7e.jpg)
 3. Select **Choose a different restore point**, and click **Next**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a34c35bc.jpg)
 4. Check the box beside **Show more restore points**. You should see a list of ‘restore points’. These are like backups of your computer, as it was at that particular date and time. Think back to a date when your desktop icons showed up, and **select a restore point** from that date or slightly earlier (but no later).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53a4d84f3c.jpg)
 5. Click **Next** \> **Finish**.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Check to see if your desktop icons are now restored on Windows 10\. If not, try Tip 5, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 5: Reset your computer
 
@@ -143,13 +139,6 @@ If the steps above didn’t work for you. Resetting your computer is worth a try
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bf53b9dab56d.jpg)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus tip
 
@@ -167,6 +156,13 @@ OR
 3. Click **Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click **Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)  
 If you need assistance, please contact Driver Easy’s support team at **<support@drivereasy.com>**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -191,15 +187,21 @@ If you have any other suggestions, please feel free to leave a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-10-tips-for-shooting-profesional-youtube-videos/"><u>[New] In 2024, 10 Tips For Shooting Profesional YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-break-through-the-crowd-your-guide-to-choosing-free-intro-masters/"><u>[Updated] In 2024, Break Through the Crowd - Your Guide to Choosing Free Intro Masters</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-easy-guide-to-start-product-review-channel/"><u>2024 Approved Easy Guide to Start Product Review Channel</u></a></li>
-<li><a href="https://common-error.techidaily.com/conquering-startup-problems-effective-solutions-for-renderer-error-fixes-in-latest-software-versions/"><u>Conquering Startup Problems: Effective Solutions for Renderer Error Fixes in Latest Software Versions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-realme-c55-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtubes-finest-ranked-by-skyrocketing-subscriber-numbers/"><u>In 2024, YouTube's Finest Ranked by Skyrocketing Subscriber Numbers</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-windows-steams-bp-display-issues/"><u>Mastering Windows-Steam's BP Display Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-silent-acer-effective-tips-for-fixing-lack-of-sound-output/"><u>Solve Silent Acer: Effective Tips for Fixing Lack of Sound Output</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-for-enabling-bluetooth-feature-on-windows-10-and-11-systems/"><u>Step-by-Step Tutorial for Enabling Bluetooth Feature on Windows 10 & 11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-managing-company-wide-windows-setup-preferences/"><u>Understanding and Managing Company-Wide Windows Setup Preferences</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-5-essential-steps-to-prevent-blank-screen-issues-in-obs/"><u>[New] 2024 Approved 5 Essential Steps to Prevent Blank-Screen Issues in OBS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-guaranteed-method-to-keep-youtube-shorts-out-of-sight/"><u>[New] 2024 Approved Guaranteed Method to Keep YouTube Shorts Out of Sight</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-encapsulate-powerpoint-visuals-in-media/"><u>[New] In 2024, Encapsulate PowerPoint Visuals in Media</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eamless-techniques-for-swift-removal-of-your-youtube-comments/"><u>[New] Seamless Techniques for Swift Removal of Your Youtube Comments</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/iral-video-evolution-youtubes-favorites/"><u>[New] Viral Video Evolution YouTube's Favorites</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-macwebcam-tutorial-filming-basics-decoded/"><u>2024 Approved MacWebCam Tutorial Filming Basics Decoded</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-free-windows-update-tips-for-solving-error-0x80n001f-successfully/"><u>Error-Free Windows Update! Tips for Solving Error 0X80n001f Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-complete-the-windows-10-update-process-for-version-1803-issues-resolved/"><u>How to Successfully Complete the Windows 10 Update Process for Version 1803 (Issues Resolved)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-itel-a05s-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Itel A05s Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oppo-a78-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo A78 Phone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-microphone-problems-in-the-steelseries-arctis-series-a-step-by-step-guide/"><u>Resolving Microphone Problems in the SteelSeries Arctis Series: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-overcome-the-windows-11-update-error-code-0x800705b4-tutorial/"><u>Step-by-Step Solution to Overcome the Windows 11 Update Error: Code 0X800705B4 [Tutorial]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranking-smart-tablets-comprehensive-reviews-by-tech-experts/"><u>Top-Ranking Smart Tablets - Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-missing-files-in-systems-tips-and-techniques/"><u>Troubleshooting Missing Files in Systems - Tips and Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-does-microsoft-security-essentials-cause-high-disk-usage-exploring-the-role-of-mssecesexe/"><u>Why Does Microsoft Security Essentials Cause High Disk Usage? Exploring the Role of msseces.exe</u></a></li>
+<li><a href="https://common-error.techidaily.com/wired-into-solutions-pc-and-headphones-reconcile-issues/"><u>Wired Into Solutions: PC & Headphones Reconcile Issues</u></a></li>
 </ul></div>
 

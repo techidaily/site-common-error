@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Repairing a Malfunctioning Corsair Keyboard"
-date: 2024-09-29T21:14:15.848Z
-updated: 2024-10-07T10:17:42.756Z
+date: 2024-10-06T23:57:36.192Z
+updated: 2024-10-13T03:37:56.982Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/0fd141422ea325bb82ac6e625cf733b7dc3435639
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -53,6 +46,13 @@ Here’s how to reinstall the keyboard driver:
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -79,10 +79,16 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -90,6 +96,19 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -109,18 +128,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -134,13 +153,6 @@ Here is how to make sure you’ve disabled Filter Keys:
  2) Make sure the**Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
 
@@ -159,10 +171,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
@@ -199,22 +211,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-top-10-most-shared-stock-photos-and-their-tales/"><u>[New] Top 10 Most Shared Stock Photos and Their Tales</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-journey-to-the-best-online-shopping-spots-for-enigmatic-boxes/"><u>[Updated] Journey to the Best Online Shopping Spots for Enigmatic Boxes</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-when-your-dell-camcorder-wont-function-with-windows-pc/"><u>Fixes for When Your Dell Camcorder Won't Function with Windows PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-resolved-problem-windows-error-code-1067-premature-process-end/"><u>Fixing the Issue: Resolved Problem - Windows Error Code 1#067: Premature Process End</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-persistent-device-error-code-28-on-your-windows-machine-step-by-step-tutorial/"><u>Fixing the Persistent Device Error Code 28 on Your Windows Machine – Step-by-Step Tutorial</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-fix-a-malfunctioning-mic-on-your-computer-system/"><u>How To Diagnose and Fix a Malfunctioning Mic on Your Computer System</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-choosing-the-optimal-power-source-for-advanced-drones/"><u>In 2024, Choosing the Optimal Power Source for Advanced Drones</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oneplus-open-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From OnePlus Open to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tactical-phone-data-shift-android-to-iphone/"><u>In 2024, Tactical Phone Data Shift Android to iPhone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tune-your-status-on-whatsapp/"><u>In 2024, Tune Your Status on WhatsApp</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/maximizing-reach-and-engagement-in-igtv-content-strategy/"><u>Maximizing Reach and Engagement in IGTV Content Strategy</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-dysfunctional-function-keys-a-step-by-step-guide/"><u>Overcoming the Challenge of Dysfunctional Function Keys: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-tips-for-speeding-up-your-pcs-initial-launch-sequence/"><u>Quick Tips for Speeding Up Your PC's Initial Launch Sequence</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-airpods-pairing-problems-on-microsofts-latest-os-comprehensive-tips/"><u>Troubleshooting AirPods Pairing Problems on Microsoft's Latest OS - Comprehensive Tips</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-sites-for-stylish-metallic-3d-text-artistry-for-2024/"><u>Ultimate Sites for Stylish, Metallic 3D Text Artistry for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-xinput13dll-and-troubleshooting-its-absence/"><u>Understanding XINPUT1_3.dll & Troubleshooting Its Absence</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-v30-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme V30 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-songsync-guide-tamil-ringtones-from-download-to-customize/"><u>[New] SongSync Guide Tamil Ringtones From Download to Customize</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-video-segmenting-scout-splitcam-analysis/"><u>[New] Video Segmenting Scout SplitCam Analysis</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-tailored-solutions-for-high-quality-iptv-capture/"><u>[Updated] Tailored Solutions for High-Quality IPTV Capture</u></a></li>
+<li><a href="https://games-able.techidaily.com/accessing-xbox-features-without-a-cont/"><u>Accessing Xbox Features Without a Cont</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-unplanned-desktop-shuts-offs-with-these-proven-solutions/"><u>End Unplanned Desktop Shuts Offs with These Proven Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-resolving-network-connection-errors-in-windows-10-and-7-via-ethernet/"><u>Expert Tips for Resolving Network Connection Errors in Windows 10 and 7 via Ethernet</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-cod-ww2-error-4220-issue-for-smoother-gaming-experience/"><u>Fixing the COD: WW2 Error 4220 Issue for Smoother Gaming Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-tecno-camon-20-premier-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Tecno Camon 20 Premier 5G Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-8-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205070612-hp-laptop-key-issues-fixed-simple-solutions-in-minutes/"><u>HP Laptop Key Issues Fixed - Simple Solutions in Minutes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-command-for-system-data-view/"><u>Mastering the Command for System Data View</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-through-group-policy-adjusting-managed-system-options-in-windows/"><u>Navigating Through Group Policy: Adjusting Managed System Options in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-robloxs-code-403-issue-on-pc/"><u>Overcoming Roblox's Code 403 Issue on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-update-error-code-0x8024002e-step-by-step-guide/"><u>Resolving Windows Update Error Code 0X8024002E - Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-keyboard-a-complete-troubleshooting-and-restart-tutorial/"><u>Reviving Your Keyboard: A Complete Troubleshooting and Restart Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-free-guide-to-overcoming-windows-update-error-0x80070astern/"><u>Trouble-Free Guide to Overcoming Windows Update Error 0X80070astern</u></a></li>
 </ul></div>
 

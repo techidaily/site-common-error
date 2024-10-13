@@ -1,7 +1,7 @@
 ---
 title: "How to Fix the Windows 10 Explore Scrollbar Issue: Stops at Top Unexpectedly"
-date: 2024-10-05T23:05:34.721Z
-updated: 2024-10-07T08:22:10.284Z
+date: 2024-10-08T17:39:20.971Z
+updated: 2024-10-13T02:25:00.088Z
 tags:
   - win11
   - win10
@@ -34,22 +34,29 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
  **Solution 2: [Re-enable your Bluetooth driver software in Device Manager](#solution2)**
  **Solution 3: [Reinstall your Bluetooth driver](#solution3)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 1: Check the status of the Bluetooth service
 
  1) **Right-click**   on the Start button to select **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 2: Check the status of the Bluetooth service
 
@@ -59,34 +66,26 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a686110efd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click **Bluetooth Support Service**   or any other service related, like **Bluetooth Driver Management System** . Then **Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/3-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Right-click on the service again, and this time click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
@@ -96,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
  1) On your keyboard, press the **Windows logo key**  + **X**   key at the same time to open the quick-access menu.
@@ -103,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
  2)Then click **Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
@@ -115,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -137,6 +143,13 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
  Alternatively, you can use a driver tool to help you. We highly recommend you use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to  automatically recognize your system and find the correct drivers for you. With its help, you can say goodbye to driver headaches and delays forever.
@@ -149,18 +162,18 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
 
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (You get full support and a 30-day money back guarantee for the Pro version)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -168,13 +181,6 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
 
@@ -196,14 +202,20 @@ thumbnail: https://thmb.techidaily.com/fea69578f265b77158961ce9649233eee0ace50ab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-updated-sony-bdp-s6700-features/"><u>[New] Exploring the Updated Sony BDP-S6700 Features</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/analyzing-the-benefits-and-drawbacks-of-using-webex-for-remote-collaboration/"><u>Analyzing the Benefits and Drawbacks of Using Webex for Remote Collaboration</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-the-update-blues-a-detailed-walkthrough-for-correcting-error-0xc1900208-on-windows-11-machines/"><u>Beat the Update Blues: A Detailed Walkthrough for Correcting Error 0xC1900208 on Windows 11 Machines</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/cut-to-impress-youtube-video-editing-made-simple/"><u>Cut to Impress YouTube Video Editing Made Simple</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-unlock-new-features-by-merging-chatgpt-with-siri-on-an-iphone/"><u>How to Unlock New Features by Merging ChatGPT with Siri on an iPhone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-windows-11-setup-fix-the-error-code-80240020-issue/"><u>Mastering Windows 11 Setup: Fix the Error Code 80240020 Issue</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/maximize-your-productivity-with-asus-expertbook-p5-featuring-advanced-energy-savings-and-up-to-32gb-memory/"><u>Maximize Your Productivity with ASUS ExpertBook P5: Featuring Advanced Energy Savings & Up to 32GB Memory</u></a></li>
-<li><a href="https://common-error.techidaily.com/steelseries-arctis-5-mute-mystery-effective-solutions-to-restore-mic-functionality/"><u>SteelSeries Arctis 5 Mute Mystery: Effective Solutions to Restore Mic Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/victory-vanished-sudden-crashes-during-gaming/"><u>Victory Vanished: Sudden Crashes During Gaming</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-how-to-post-photos-and-videos-on-twitter-from-smartphones/"><u>[New] In 2024, How To Post Photos and Videos on Twitter From Smartphones</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-industry-leaders-top-10-free-lut-resource-list/"><u>[Updated] Industry Leaders’ Top 10 FREE LUT Resource List</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-professionals-guide-to-adding-youtube-content-to-powerpoint-slides-for-2024/"><u>[Updated] The Professional's Guide to Adding YouTube Content to PowerPoint Slides for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/affordable-alternative-to-apple-vision-pro-found-in-xr-glasses-why-theyre-a-must-have-now/"><u>Affordable Alternative to Apple Vision Pro Found in XR Glasses - Why They're a Must-Have Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-microsoft-wi-fi-dock-successful-connection-setup-on-windows-10/"><u>Fixing the Microsoft Wi-Fi Dock: Successful Connection Setup on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-oddworld-soulstorm-pc-game-launch-issues-complete-guide/"><u>How To Fix Oddworld Soulstorm PC Game Launch Issues - Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-of-right-click-on-a-windows-10-system/"><u>How to Restore Functionality of Right-Click on a Windows 10 System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-thunder-tier-one-from-continuously-failing-on-your-computer/"><u>How to Stop Thunder Tier One From Continuously Failing on Your Computer</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-itel-a05s-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Itel A05s FRP?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-turboinsta-video-boosting-online-and-mobile-fixes/"><u>In 2024, TurboInsta Video Boosting Online & Mobile Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-your-pc-finding-and-using-the-start-button-on-windows-10/"><u>Mastering Your PC: Finding and Using the Start Button on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-security-error-messages-during-firefox-login-attempts/"><u>Overcoming Security Error Messages During Firefox Login Attempts</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-internet-explorer-not-responding-issues-a-step-by-step-guide/"><u>Solving 'Internet Explorer Not Responding' Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-hp-laptop-usb-connectivity-fixes-and-solutions/"><u>Troubleshooting HP Laptop USB Connectivity: Fixes & Solutions!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/tv-and-films-as-language-tools-effective-techniques/"><u>TV and Films as Language Tools: Effective Techniques</u></a></li>
 </ul></div>
 

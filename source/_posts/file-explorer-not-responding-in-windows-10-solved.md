@@ -1,7 +1,7 @@
 ---
 title: File Explorer Not Responding in Windows 10 [Solved]
-date: 2024-10-04T03:17:05.679Z
-updated: 2024-10-06T20:24:18.859Z
+date: 2024-10-11T21:45:35.333Z
+updated: 2024-10-13T00:56:40.115Z
 tags:
   - win11
   - win10
@@ -44,13 +44,21 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
 
 1. Type **network**  in the search box from Start. Then click **Network status**  from the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be292e88d6b9.jpg)
 2. Click **Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b201e6b5d28.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
@@ -63,56 +71,52 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
 1. Type **media**  in the search box from Start. Then click **Windows Media Player**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
-3. Click **OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
-4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. Click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
+4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
 
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Close the Windows Media Player window.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
 
@@ -126,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0e8904a209.jpg)
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
 4. Reboot your Windows 10.
@@ -159,24 +156,21 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-explore-the-best-ever-ios-platforms-for-ps2-games/"><u>[New] In 2024, Explore the Best-Ever IOS Platforms for PS2 Games</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-leapfrog-your-sub-count-top-techniques-unveiled/"><u>[Updated] Leapfrog Your Sub Count Top Techniques Unveiled</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-professional-filmmakers-pick-is-it-filmora-or-democreator/"><u>2024 Approved Professional Filmmakers' Pick Is It Filmora or Democreator?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-tech-savvy-approach-to-cutting-out-background-noise-in-google-meet/"><u>2024 Approved Tech-Savvy Approach to Cutting Out Background Noise in Google Meet</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-7-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 7 and iPad Securely</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-the-rca-video-doorbell-cam-expert-reviews-and-insights/"><u>Comprehensive Analysis of the RCA Video Doorbell Cam - Expert Reviews & Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-fix-kernel-event-error-117/"><u>Comprehensive Solutions to Fix Kernel Event Error 117</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/connecting-canon-printer-to-win7-successful/"><u>Connecting Canon Printer to Win7 Successful</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-non-responsive-kodi-now-expert-advice-for-streamlined-performance/"><u>Fix Your Non-Responsive Kodi Now – Expert Advice for Streamlined Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-sound-absence-in-acer-computers-effectively/"><u>How to Fix Sound Absence in Acer Computers Effectively</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-lack-of-sound-in-forza-horizon-4-for-optimal-gaming-experience/"><u>How to Resolve Lack of Sound in Forza Horizon 4 for Optimal Gaming Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-speed-up-your-windows-pertinent-boot-process/"><u>How to Speed Up Your Windows Pertinent Boot Process</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-tecno-spark-10c-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Tecno Spark 10C? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oneplus-nord-n30-se-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from OnePlus Nord N30 SE to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/les-6-meilleurs-outils-vfd-gratuits-pour-dupliquer-et-sauvegarder-le-contenu-de-votre-dvd-ou-film-en-entier/"><u>Les 6 Meilleurs Outils VFD Gratuits Pour Dupliquer Et Sauvegarder Le Contenu De Votre DVD Ou Film en Entier</u></a></li>
-<li><a href="https://common-error.techidaily.com/no-response-from-your-corsair-keyboard-try-these-proven-fixes/"><u>No Response From Your Corsair Keyboard? Try These Proven Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/speed-up-your-typing-experience-easy-fixes-for-a-slow-keyboard/"><u>Speed Up Your Typing Experience: Easy Fixes for a Slow Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-approach-to-thawing-your-windows-robes-taskbar-for-smooth-operation/"><u>Step-by-Step Approach to Thawing Your Windows ˈrōbəs Taskbar for Smooth Operation</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-world-of-warcraft-performance-lags/"><u>Ultimate Guide: Resolving World of Warcraft Performance Lags</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-usb-to-hdmi-adapter-not-working/"><u>[SOLVED] USB to HDMI Adapter Not Working</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-digital-pixels-at-your-command-curve-artfully/"><u>[Updated] Digital Pixels at Your Command Curve Artfully</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-focused-growth-instagrams-must-use-tags-to-watch-out-for-for-2024/"><u>[Updated] Focused Growth Instagram's Must-Use Tags to Watch Out For for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-premium-mp4-uploader-for-fb-networks/"><u>[Updated] Premium MP4 Uploader for FB Networks</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-fixing-inoperative-webcams-on-a-windows-machine/"><u>Comprehensive Solutions for Fixing Inoperative Webcams on a Windows Machine</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-malfunctioning-usb-hubs-on-windows-11-systems/"><u>Diagnosing and Repairing Malfunctioning USB Hubs on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-the-unsuccessful-deployment-of-windows-10s-version-1903-upgrade/"><u>Effective Solutions for the Unsuccessful Deployment of Windows 10'S Version 1903 Upgrade</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-mp4-to-ogg-conversion-service-moveavees-seamless-online-tool/"><u>Free MP4 to Ogg Conversion Service - Moveavee's Seamless Online Tool</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/currency-with-500-youtube-followers/"><u>Gain Currency with 500 YouTube Followers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/giggle-graph-meme-trends-by-occasion-type-for-2024/"><u>Giggle Graph Meme Trends by Occasion Type for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-discovering-youtube-studio-where-ideas-become-engaging-content/"><u>In 2024, Discovering YouTube Studio Where Ideas Become Engaging Content</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-honor-magic-5-lite-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Honor Magic 5 Lite Phones? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/sharpen-skills-and-speed-up-valorant-tips-for-top-performance/"><u>Sharpen Skills & Speed Up: Valorant Tips for Top Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/steam-file-error-resolved-complete-restoration-of-missing-game-content/"><u>Steam File Error Resolved: Complete Restoration of Missing Game Content</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-non-functional-astro-a40-mic-step-by-step-guide-to-a-fix/"><u>Troubleshooting the Non-Functional Astro A40 Mic - Step by Step Guide to a Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11s-troublesome-touchscreen-try-these-five-fixes/"><u>Windows 11'S Troublesome Touchscreen? Try These Five Fixes!</u></a></li>
 </ul></div>
 

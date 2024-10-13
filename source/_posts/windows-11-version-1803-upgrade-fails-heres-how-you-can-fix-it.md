@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Version 1803 Upgrade Fails? Here's How You Can Fix It
-date: 2024-09-30T12:03:15.824Z
-updated: 2024-10-07T04:51:22.931Z
+date: 2024-10-10T02:01:25.992Z
+updated: 2024-10-13T00:14:22.849Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 
 4) Plug the power supply back in
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 3: Check your power management settings**
 
  In order to save power, by default, Windows switches your USB controllers off when they’re not in use, and switches them back on again when they’re needed. Unfortunately, sometimes this approach doesn’t work as intended, and Windows fails to switch your USB controllers on again.
@@ -58,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Expand the**Universal Serial Bus controllers** branch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
@@ -74,16 +74,10 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the **Power Management**  tab  
@@ -99,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
@@ -129,10 +123,10 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 5: Check your USB ports**
@@ -156,24 +150,19 @@ thumbnail: https://thmb.techidaily.com/5cdeca2f27521dc075fb01714baf87697fb58a0ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-video-perfection-streamlined-subtitlecc-implementation-on-youtube/"><u>[Updated] In 2024, Video Perfection Streamlined Subtitle/CC Implementation on YouTube</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-master-the-art-of-editing-on-sierra-with-1-5-tools/"><u>2024 Approved Master the Art of Editing on Sierra with #1-#5 Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-poco-c55-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Poco C55 Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/accessing-trendsetting-background-images-for-tiktok-for-2024/"><u>Accessing Trendsetting Background Images for TikTok for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/complete-solutions-overcoming-the-warzone-memory-error-on-xbox-and-pc-platforms/"><u>Complete Solutions: Overcoming the 'Warzone Memory Error' On Xbox & PC Platforms</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-microphone-issues-for-windows-10-users/"><u>Diagnosing and Resolving Microphone Issues for Windows 10 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/fast-track-repair-tips-overcoming-no-battery-detection-hurdles-swiftly/"><u>Fast-Track Repair Tips: Overcoming No Battery Detection Hurdles Swiftly</u></a></li>
-<li><a href="https://common-error.techidaily.com/festivals-and-rituals/"><u>Festivals and Rituals</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-implemented-for-pubg-building-rendering-issues-enjoy-uninterrupted-gaming/"><u>Fixes Implemented For PUBG Building Rendering Issues - Enjoy Uninterrupted Gaming</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/get-premium-mp3-conversion-from-avi-for-free-enhance-sound-clarity-without-spending-a-penny/"><u>Get Premium MP3 Conversion From AVI for Free: Enhance Sound Clarity without Spending a Penny!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-non-compatible-data-entry-problems-with-monitors/"><u>How to Resolve Non-Compatible Data Entry Problems with Monitors</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/kein-bildqualitatseinbussen-beim-komprimieren-von-iphone-videos-professionelle-strategien-zum-speichersparen/"><u>Kein Bildqualitätseinbußen Beim Komprimieren Von iPhone Videos - Professionelle Strategien Zum Speichersparen</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-11-casting-hurdles-a-comprehensive-fix-article/"><u>Overcoming Windows 11 Casting Hurdles: A Comprehensive Fix Article</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-no-driver-devices-detected-successful-steps-for-windows-7-setup/"><u>Resolving 'No Driver Devices Detected': Successful Steps for Windows 7 Setup</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/skyrocketing-views-simple-strategies-without-cost-for-2024/"><u>Skyrocketing Views Simple Strategies Without Cost for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/successful-fix-for-inoperative-keyboard-buttons/"><u>Successful Fix for Inoperative Keyboard Buttons</u></a></li>
-<li><a href="https://win-answers.techidaily.com/web3googleseo/"><u>Web会議簡単録音術3つのスキル:Google検索向けSEOタイトル</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-s18e-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo S18e Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-audio-problems-resolved-how-to-get-your-microphone-working-again/"><u>Windows 11 Audio Problems Resolved: How to Get Your Microphone Working Again</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-mastering-the-art-of-video-production-initial-setup/"><u>[New] 2024 Approved Mastering the Art of Video Production Initial Setup</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-channeling-creativity-get-green-screen-tips-from-youtube-for-2024/"><u>[New] Channeling Creativity Get Green Screen Tips From YouTube for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-steps-to-record-your-hp-laptop-screen-efficiently/"><u>[New] In 2024, Essential Steps to Record Your HP Laptop Screen Efficiently</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-your-unique-tiktok-hash-code/"><u>[Updated] In 2024, The Ultimate Guide to Your Unique TikTok Hash Code</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-deeper-look-into-magix-visual-processing/"><u>2024 Approved A Deeper Look Into MAGIX Visual Processing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-action-camera-buying-for-the-absolute-novice-2023-guide/"><u>2024 Approved Action Camera Buying for the Absolute Novice - 2023 Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-prolonged-youtube-visibility-through-continuous-cc-membership/"><u>2024 Approved Prolonged YouTube Visibility Through Continuous CC Membership</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-when-your-computers-wired-internet-isnt-working-win-107-edition/"><u>Easy Fixes for When Your Computer's Wired Internet Isn't Working (Win 10/7 Edition)</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixes-and-steps-for-restoring-missing-files-in-steam/"><u>Resolved: Fixes and Steps for Restoring Missing Files in Steam</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-disabled-wireless-functionality-a-comprehensive-guide/"><u>Resolving Issues with Disabled Wireless Functionality - A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210484516-revitalize-your-laptops-charging-issues-with-these-straightforward-tips/"><u>Revitalize Your Laptop's Charging Issues with These Straightforward Tips!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-troubleshooting-for-when-your-steam-store-fails-to-launch/"><u>Step-by-Step Troubleshooting for When Your Steam Store Fails to Launch</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-recourse-and-resource-conflicts/"><u>System Recourse and Resource Conflicts</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-itel-p55-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Itel P55 | Dr.fone</u></a></li>
 </ul></div>
 

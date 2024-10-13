@@ -1,7 +1,7 @@
 ---
 title: "Update: Boost Your System's Capacity Beyond 'Insufficient Resources' Errors"
-date: 2024-10-04T17:40:59.470Z
-updated: 2024-10-07T09:45:42.408Z
+date: 2024-10-09T21:47:02.436Z
+updated: 2024-10-13T02:23:11.775Z
 tags:
   - win11
   - win10
@@ -46,16 +46,10 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 2. Type this command:**`pnputil.exe -d oem<NUMBER>.inf`** and hit**Enter** .  
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The <NUMBER> here should be filled with the number you see on your computer. For instance, I’m seeing**51** , so my command should be**`pnputil.exe -d oem51.inf`** .  
@@ -70,11 +64,25 @@ thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c8
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update ftdibus.sys driver
 
  If the ftdibus.sys driver reinstall done by Windows doesn’t help, you can then try to update the driver.
 
  There are mainly 2 ways you can update your fdtibus.sys driver: manually or automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Update your ftdibus.sys driver manually
 
@@ -88,32 +96,18 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-53.png)
 3. Click to download the driver that works for your OS.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-54.png)
 4. When the driver download is done, unzip or extract the driver file folder, and right-click the**ftdibus.inf** file and select**Install** to run the driver installation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-55.png)
 5. Restart your computer for the change to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Kindly note that you should know the **hardware device model** and your **computer system** (Windows 11, Windows 10, or Windows 7, and 32 bit or 64 bit) when selecting which download page to do to and which device driver to download.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Update your ftdibus.sys driver automatically (Recommended)
@@ -128,10 +122,10 @@ To do so:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -162,24 +156,24 @@ Then check if your Memory Integrity can be turned on again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-the-scope-on-splitcam-highest-quality-camera/"><u>[New] In 2024, The Scope on SplitCam Highest Quality Camera?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-obs-direct-live-video-feed-for-instagram-for-2024/"><u>[New] OBS Direct Live Video Feed for Instagram for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-how-to-fix-valorant-screen-tearing/"><u>[SOLVED] How to Fix Valorant Screen Tearing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-demystifying-ez-grabber-a-beginners-guide-for-2024/"><u>[Updated] Demystifying EZ Grabber A Beginner's Guide for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-free-user-friendly-srt-services-ranked-1-to-8-for-2024/"><u>[Updated] Free, User-Friendly SRT Services – Ranked #1 to #8 for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-powerful-cinema-titles-that-bring-you-joy-and-strength/"><u>[Updated] In 2024, Powerful Cinema Titles That Bring You Joy & Strength</u></a></li>
-<li><a href="https://common-error.techidaily.com/deciphering-and-resolving-error-0x80070091-for-successful-system-restores-in-windows-11-expert-tips/"><u>Deciphering and Resolving Error 0X80070091 for Successful System Restores in Windows 11 - Expert Tips!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-guide-for-the-latest-startech-vga-drivers-usb-version/"><u>Easy Installation Guide for the Latest StarTech VGA Drivers (USB Version)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-windows-11-dvdcd-rom-error-windows-cannot-start-this-hardware-device-because-its-configuration-information-in-the-registry-is-incomplete-or-damaged-code43/"><u>Fix Windows 11 DVD/CD-ROM Error: Windows Cannot Start This Hardware Device because Its Configuration Information (in the Registry) Is Incomplete or Damaged. (Code 19)</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-disappearing-touchpad-cursors-on-your-windows-11-pc/"><u>Fixes for Disappearing Touchpad Cursors on Your Windows 11 PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-call-of-duty-ww2-error-code-4220-and-get-back-in-battle-asap/"><u>How to Fix Call of Duty WW2 Error Code 4220 & Get Back in Battle ASAP</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-windows-failed-to-connect-to-sensvc-issues/"><u>How to Overcome 'Windows Failed to Connect to SENSVc' Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-fixed-brightness-problems-on-windows-11-devices/"><u>Resolving Fixed Brightness Problems on Windows 11 Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-puzzle-step-by-step-guide-to-resolve-error-code-31-on-your-pc/"><u>Solving the Puzzle: Step-by-Step Guide to Resolve Error Code 31 on Your PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-ai-apps-to-elevate-your-phone-experience-ios-and-android/"><u>The Ultimate List of AI Apps to Elevate Your Phone Experience (iOS and Android)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-xiaomi-14-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Xiaomi 14 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-samsung-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Samsung .</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-system-malfunctions-a-deep-dive-into-fixing-error-0xc00000e9/"><u>Winning the Battle Against System Malfunctions: A Deep Dive Into Fixing Error 0Xc00000e9</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/utting-edge-methods-to-reduce-youtube-video-size/"><u>[New] Cutting-Edge Methods to Reduce YouTube Video Size</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-hp-deskjet-d1360-printer-drivers-wont-install-in-windows-7-8-8110/"><u>[Resolved] HP Deskjet D1360 Printer Drivers Won’t Install in Windows 7, 8, 8.1,10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-15-luts-for-enhanced-gopro-footage-quality/"><u>[Updated] Best 15 LUTs for Enhanced GoPro Footage Quality</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-hunt-for-impactful-personalities-navigating-influencer-spaces-for-2024/"><u>[Updated] Hunt for Impactful Personalities Navigating Influencer Spaces for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-ignite-interest-essential-themes-for-engaging-channels/"><u>2024 Approved Ignite Interest Essential Themes for Engaging Channels</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208263035-beating-the-windows-10-update-blues-cracking-code-0xc1900208-successfully/"><u>Beating the Windows 10 Update Blues: Cracking Code 0xC1900208 Successfully!</u></a></li>
+<li><a href="https://common-error.techidaily.com/deciphering-the-importance-of-xinput13dll-in-systems/"><u>Deciphering the Importance of XINPUT1_3.dll in Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminating-call-of-duty-world-war-ii-glitch-tackling-error-code-4220/"><u>Eliminating Call of Duty World War II Glitch - Tackling Error Code 4220</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/epson-tm-t88v-easily-download-and-update-printer-drivers-on-windows/"><u>EPSON TM-T88V: Easily Download and Update Printer Drivers on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-resource-protection-failed-tips-and-tricks-to-restore-system-stability/"><u>Fixing 'Windows Resource Protection Failed' - Tips and Tricks to Restore System Stability</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-perfecting-videos-a-premier-editor-for-vimeo-professionals/"><u>In 2024, Perfecting Videos A Premier Editor for Vimeo Professionals</u></a></li>
+<li><a href="https://common-error.techidaily.com/mouse-miracle-wireless-connection-reinstated/"><u>Mouse Miracle: Wireless Connection Reinstated</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-updated-guide-to-video-audio-integration-for-filmmakers/"><u>New The Updated Guide to Video-Audio Integration for Filmmakers</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-pc-a-step-by-step-guide-to-repairing-damaged-windows-11-files/"><u>Reviving Your PC: A Step-by-Step Guide to Repairing Damaged Windows 11 Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-fixing-the-system-event-notification-connection-issue-in-windows/"><u>Troubleshooting Guide for Fixing the System Event Notification Connection Issue in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-dell-laptop-keyboard/"><u>Troubleshooting Guide: Fixing a Nonfunctional Dell Laptop Keyboard</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlock-your-photography-potential-with-lightzones-free-darkroom-tool-windows-mac-and-linux-friendly/"><u>Unlock Your Photography Potential with Lightzone's Free Darkroom Tool – Windows, Mac & Linux Friendly.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watch-the-most-popular-showdowns-streamed-live-on-max-platform/"><u>Watch the Most Popular Showdowns Streamed Live on MAX Platform</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/1728476729081-outlook/"><u>もう止まらない！Outlookの自動応答が正常に機能しない理由とそれを修正する方法</u></a></li>
 </ul></div>
 

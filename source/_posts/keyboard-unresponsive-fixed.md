@@ -1,7 +1,7 @@
 ---
 title: Keyboard Unresponsive - Fixed
-date: 2024-10-06T08:19:55.044Z
-updated: 2024-10-07T08:30:40.648Z
+date: 2024-10-05T17:10:36.480Z
+updated: 2024-10-12T19:14:52.716Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 4. **[Disable the filter key](#filter)**
 5. **[Try Surface Diagnostic Toolkit](#toolkit)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1: Some quick fixes to try first
 
  Here are some quick fixes that you can try when your Surface keyboard is not working properly.
@@ -72,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
  Press and hold the**power button** of your device and release it after **10** seconds. Then power on your device to see if this method works.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3: Update or reinstall your driver
 
  The keyboard of your Surface may fail to work if you are using the wrong keyboard driver or it is out of date. So you should update or reinstall your driver to see if it fixes the problem. If you don’t have the time, patience or skills to update or reinstall the driver manually, you can do it automatically with [**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -85,16 +85,16 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/06/surface-type-cover.png)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
@@ -108,27 +108,28 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_59819ff0e68f7.png)
 2. Click **Ease of Access** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a118a26bf.png)
 3. Click **Keyboard** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a1f8bb7c8.png)
 4. Disable the Filter Keys function (switch off **Filter Keys** or uncheck **Turn on Filter Keys** ).  
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a38f0341d.png)
 5. Try your keyboard and see if disabling Filter Keys can restore your keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Windows 11
 
@@ -136,15 +137,15 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 2. Go to **Accessibility > Keyboard** .![Windows 11 - disable filter keys via Settings](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle **Off**  Filter keys.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Filter-keys-Off.jpg)
 4. Now try using your keyboard and see if disabling Filter Keys can restore your keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5: Try the Surface Diagnostic Toolkit
 
@@ -171,22 +172,22 @@ thumbnail: https://thmb.techidaily.com/2bb5e1bc170b8c3f4a6ce1aff27e49a67b4dbeb27
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-converting-tiktok-audio-into-desired-mobile-ringtones/"><u>[New] Converting TikTok Audio Into Desired Mobile Ringtones</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-exhaustive-explanation-whats-behind-google-podcast/"><u>[Updated] In 2024, Exhaustive Explanation What's Behind Google Podcast?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-merging-melodies-and-memories-online/"><u>2024 Approved Merging Melodies and Memories Online</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-optimize-your-posting-select-from-this-roundup-of-top-8-planners/"><u>2024 Approved Optimize Your Posting Select From This Roundup of Top 8 Planners</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-creative-curator-essential-zero-price-text-psds/"><u>2024 Approved The Creative Curator Essential, Zero-Price Text PSDS</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-and-resolve-the-persistent-0x8007001f-error-during-windows-updates/"><u>Bypass and Resolve the Persistent 0X8007001f Error During Windows Updates</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvd-compatibility-with-ps5-can-you-watch-your-favorite-movies/"><u>DVD Compatibility with PS5: Can You Watch Your Favorite Movies?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-your-storytelling-with-these-5-inspiring-ai-text-generators/"><u>Enhance Your Storytelling with These 5 Inspiring AI Text Generators</u></a></li>
-<li><a href="https://common-error.techidaily.com/failure-alert-irreparable-device-malfunction/"><u>Failure Alert: Irreparable Device Malfunction</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-zte-blade-a73-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from ZTE Blade A73 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-poco-c55-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Poco C55 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-fix-how-to-address-the-dreaded-0x80070643-updateinstallation-faults-on-your-pc/"><u>Master the Fix: How To Address The Dreaded 0X80070643 Update/Installation Faults on Your PC!</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-system-performance-resolving-msmpengexes-abnormal-cpu-consumption-on-windows-11/"><u>Optimizing System Performance: Resolving MsMpEng.exe's Abnormal CPU Consumption on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issues-with-windows-and-system-event-notification-service-connection/"><u>Resolved: Issues with Windows and System Event Notification Service Connection</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-windows-10-spacebar-malfunction-on-your-keyboard/"><u>Solution Steps for Windows 10 Spacebar Malfunction on Your Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-installation-failures-resolving-windows-11-error-80240020-quickly/"><u>Troubleshooting Installation Failures: Resolving Windows 11 Error 80240020 Quickly</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-repair-unresponsive-microphones-on-windows-11-systems/"><u>Troubleshooting: How to Repair Unresponsive Microphones on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-api-ms-win-core-libraryloader-l1-1-1dll-is-missing-from-your-computer/"><u>[Solved] api-ms-win-core-libraryloader-l1-1-1.dll Is Missing From Your Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-imovies-editing-edge/"><u>[Updated] Understanding iMovie's Editing Edge</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-your-airpods-experience-with-the-game-changing-conversation-awareness-feature-activate-now/"><u>Boost Your AirPods Experience with the Game-Changing Conversation Awareness Feature - Activate Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-to-stop-total-war-rome-remastered-from-crashing-during-gameplay/"><u>Effective Techniques to Stop Total War: Rome Remastered From Crashing During Gameplay</u></a></li>
+<li><a href="https://video-capture.techidaily.com/efficient-techniques-for-reducing-video-file-size-from-gigabytes-to-megabytes/"><u>Efficient Techniques for Reducing Video File Size From Gigabytes to Megabytes</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-repairing-user-profile-service-malfunctions-and-ensuring-successful-logins-in-windows-1011/"><u>Guide: Repairing 'User Profile Service' Malfunctions and Ensuring Successful Logins in Windows 10/11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-the-unable-to-record-macro-error-in-excel-2003-by-stellar-guide/"><u>How to Fix the Unable to Record Macro Error in Excel 2003?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-your-macbookpc-keyboard-lights-working-again-effective-fixes-and-tips/"><u>How to Get Your Macbook/PC Keyboard Lights Working Again: Effective Fixes & Tips</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-11-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 11 Pro to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-of-your-bluetooth-mouse-failing-to-connect-with-windows/"><u>Solving the Issue of Your Bluetooth Mouse Failing to Connect with Windows</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/step-by-step-guide-creating-an-instant-bootable-device-with-the-power-of-windows-11-preinstallation-environment/"><u>Step-by-Step Guide: Creating an Instant Bootable Device with the Power of Windows 11 Preinstallation Environment</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-rescuing-your-freezing-desktop/"><u>Step-by-Step Solutions: Rescuing Your Freezing Desktop</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-v30-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo V30 Pro Phone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-audio-playback-eliminating-windows-11s-youtube-sound-rendering-error/"><u>Troubleshooting Audio Playback: Eliminating Windows 11'S Youtube Sound Rendering Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-mitigating-clashes-among-computer-system-assets/"><u>Understanding and Mitigating Clashes Among Computer System Assets</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-unleash-the-power-of-reverse-video-in-final-cut-pro-for-2024/"><u>Updated Unleash the Power of Reverse Video in Final Cut Pro for 2024</u></a></li>
 </ul></div>
 

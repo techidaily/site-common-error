@@ -1,7 +1,7 @@
 ---
 title: Fix Windows Shell Common Dll Has Stopped Working Error [Solved]
-date: 2024-10-01T17:22:09.805Z
-updated: 2024-10-07T07:59:35.951Z
+date: 2024-10-06T20:56:50.326Z
+updated: 2024-10-12T21:40:07.600Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
 
  The Cast to Device feature requires the**network sharing** feature turned on your computer. See how to check if you turn on the network sharing feature on your computer:
@@ -47,44 +54,45 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 3. Click **Change advanced sharing settings** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2021ead444.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Make sure these two items are checked: **Turn on network discovery**  and **Turn on file and printer sharing** . Then click **Save changes** .![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b202ab94c35.png) \\
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Try the Cast to Device feature again to see if it succeeds.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Reset the Stream Permissions on your Windows 10 computer
 
 1. Type **media**  in the search box from Start. Then click **Windows Media Player**  on the top.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be293f031923.jpg)
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
@@ -95,29 +103,22 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Close the Windows Media Player window.
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
@@ -157,18 +158,19 @@ thumbnail: https://thmb.techidaily.com/0553b37a2d0bfe56c6f7794ae22609d4c46a2b30d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-whats-in-it-for-a-million-youtube-viewers/"><u>[Updated] 2024 Approved What’s in It for a Million YouTube Viewers?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-snapseed-simplified-photo-edits-for-beginners/"><u>[Updated] In 2024, Snapseed Simplified Photo Edits for Beginners</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-filming-blending-into-new-backgrounds-easily/"><u>2024 Approved Instagram Filming Blending Into New Backgrounds Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-kernel32dll-malfunctions/"><u>Bypassing Kernel32.dll Malfunctions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-european-commissions-ai-legislation-and-its-impact-on-conversational-ais-like-chatgpt/"><u>Decoding the European Commission's AI Legislation and Its Impact on Conversational AIs Like ChatGPT</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-advice-on-reactivating-an-unresponsive-iphone-alarm/"><u>Expert Advice on Reactivating an Unresponsive iPhone Alarm</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-samsung-galaxy-a05s-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Samsung Galaxy A05s Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-trick-a-step-by-step-guide-to-fixing-windows-update-error-0x8007001f/"><u>Mastering the Trick: A Step-by-Step Guide to Fixing Windows Update Error 0X8007001F</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/no-cash-all-fun-turning-twitter-vids-into-gifs-for-2024/"><u>No Cash, All Fun Turning Twitter Vids Into GIFs for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207063876-overclocking-odds-on-your-side-again-fast-fixes/"><u>Overclocking Odds on Your Side Again - Fast Fixes!</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-steam-store-unresponsive-issue-a-step-by-step-guide/"><u>Solving the 'Steam Store Unresponsive' Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-issue-why-doesnt-my-computer-turn-off-on-win-1/"><u>Solving the Issue: Why Doesn't My Computer Turn Off on Win 1#?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/top-notch-techniques-for-saving-online-radio-broadcasts/"><u>Top-Notch Techniques for Saving Online Radio Broadcasts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-deep-dive-into-asus-pa32u-review-excellence-in-professionalism/"><u>[Updated] 2024 Approved Deep Dive Into Asus PA32U Review Excellence in Professionalism</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-yi-drone-in-4k-a-filmmakers-dream/"><u>[Updated] Yi Drone in 4K A Filmmaker’s Dream</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-picsart-tips-infusing-life-with-facial-motion-blur/"><u>2024 Approved Picsart Tips Infusing Life with Facial Motion Blur</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-swaying-scripts-an-introduction-to-bouncy-text-animations/"><u>2024 Approved Swaying Scripts An Introduction to Bouncy Text Animations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-sony-vegas-issues-expert-guide-to-avoiding-sudden-closures/"><u>Fix Your Sony Vegas Issues: Expert Guide to Avoiding Sudden Closures</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-incoming-call-issues-a-guide-for-iphone-users/"><u>Fixing Incoming Call Issues – A Guide for iPhone Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-pc-a-step-by-step-solution-for-failed-feature-update-to-windows-10-v1903/"><u>Fixing Your PC: A Step-by-Step Solution for Failed Feature Update to Windows 10 V1903</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-rpc-server-not-responding-issues-in-windows-systems/"><u>How to Overcome RPC Server Not Responding Issues in Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/immediate-resolution-overcoming-temporary-unavailability-of-windows-smartscreen/"><u>Immediate Resolution: Overcoming Temporary Unavailability of Windows SmartScreen</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-behind-the-scenes-mastering-4-techniques-of-xbox-capture/"><u>In 2024, Behind the Scenes Mastering 4 Techniques of Xbox Capture</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-high-cpu-drain-from-windows-audio-hardware-acceleration-feature/"><u>Resolve High CPU Drain From Windows Audio Hardware Acceleration Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-and-shielding-yourself-from-google-chrome-critical-error-scams-comprehensive-techniques-revealed/"><u>Resolving and Shielding Yourself From Google Chrome Critical Error Scams - Comprehensive Techniques Revealed!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-lenovo-mouse-pad-on-windows-11-8-and-7-complete-fix-guide/"><u>Troubleshoot Your Lenovo Mouse Pad on Windows 11, 8 & 7 – Complete Fix Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iso/"><u>スピーディなアンドロイドisoフォーマットへの容易な変換 - 簡単に再生可能な方法</u></a></li>
 </ul></div>
 
