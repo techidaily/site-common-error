@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Elevation Requests During Operations in Windows 11, 10 & 7
-date: 2024-09-08T16:00:32.999Z
-updated: 2024-09-15T16:00:08.577Z
+date: 2024-10-13T04:38:23.377Z
+updated: 2024-10-18T20:06:32.315Z
 tags:
   - win11
   - win10
@@ -43,6 +43,14 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
@@ -50,6 +58,13 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -65,8 +80,24 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
@@ -83,21 +114,20 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
@@ -122,5 +152,20 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-decode-instagram-visibility-whos-glancing-at-yours/"><u>[New] In 2024, Decode Instagram Visibility Who's Glancing at Yours?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/astering-channels-on-the-fly-tubebuddy-essentials/"><u>[New] Mastering Channels on the Fly - TubeBuddy Essentials</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-smooth-streaming-fix-facebooks-playback-problems/"><u>2024 Approved Smooth Streaming – Fix Facebook's Playback Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-network-initialization-failed-issue-on-your-dragon-ball-fighterz-gameplay/"><u>Fixing the 'Network Initialization Failed' Issue on Your Dragon Ball FighterZ Gameplay</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-the-top-free-dvd-player-downloads-for-windows-10/"><u>New The Top Free DVD Player Downloads for Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212282844-solving-your-microsoft-store-access-troubles-it-works/"><u>Solving Your Microsoft Store Access Troubles – It Works!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/oring-made-simple-boosting-your-channel-budget-efficiently-for-2024/"><u>Sponsoring Made Simple Boosting Your Channel Budget Efficiently for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-stop-your-monitor-from-blanking-out-on-windows-nvme-ssd-10-pc/"><u>Step-by-Step Guide: Stop Your Monitor From Blanking Out on Windows Nvme SSD 10 PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-moto-g-power-assessment-exceptional-operation-and-stellar-battery-longevity-reviewed/"><u>The Moto G Power Assessment: Exceptional Operation & Stellar Battery Longevity Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-solution-of-iphone-x-face-id-not-working/"><u>The Ultimate Solution of iPhone X Face ID Not Working</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-for-fixing-windows-alpha-key-problems-61-characters/"><u>Tips for Fixing Windows Alpha Key Problems (61 Characters)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-heavy-cpu-use-from-ntoskrnlexe/"><u>Troubleshooting Heavy CPU Use From ntoskrnl.exe</u></a></li>
+</ul></div>
 

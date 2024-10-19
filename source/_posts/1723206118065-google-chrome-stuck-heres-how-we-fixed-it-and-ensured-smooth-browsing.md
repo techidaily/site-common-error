@@ -1,7 +1,7 @@
 ---
 title: Google Chrome Stuck? Here's How We Fixed It and Ensured Smooth Browsing
-date: 2024-09-12T16:01:52.650Z
-updated: 2024-09-15T16:00:56.992Z
+date: 2024-10-14T04:31:46.503Z
+updated: 2024-10-18T21:59:04.508Z
 tags:
   - win11
   - win10
@@ -42,6 +42,14 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 2. On the top right, click on **the three vertical dots** button > **More tools** \> **clear browsing data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df7b87cca5.jpg)
 3. In the drop-down menu, click to select **the time range** for the data cache clearing (Last 7 days in my example). Then click **CLEAR DATA** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1df83c76d86.jpg)
 4. Run Chrome and hopefully the**Google Chrome not responding** problem has been sorted. If yes, then great! But if the issue persists, you should try**Fix 2** , below.
 
@@ -60,16 +68,23 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
 4. **Restart**  your computer and check if**Google Chrome**  now works:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * If Google Chrome does respond after disabling all your add-ons, it’s likely one of your add-ons was the problem. Now you just need to figure out which one. To do this, enable the first add-on in the list, then see if Google Chrome still works. If it doesn’t, then you’ve found the cause of the problem. If Google Chrome works fine after enabling the first add-on, enable the second and test again. Continue testing each add-on in this way until you find the one that stops Internet Explorer from working. Once you find it, disable it again. If you need it, contact the vendor for support.
 * If disabling your add-ons doesn’t solve the **Chrome not responding**  issue, please try **Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
@@ -90,19 +105,6 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3b1daa19ee7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -120,10 +122,10 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4322c4421a9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Allow an app or feature through Windows Defender Firewall** .
@@ -150,6 +152,14 @@ To do so:
 2. In the top right, click on **the three vertical dots** button > **help** \>**About Google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b433a86ba999.jpg)
 3. Google Chrome automatically detects if there’s an update available:  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * If yes, follow the on-screen instruction to finish the update.  
    * If no, delete Chrome and re-install it on Windows store or other trustworthy third-party website. (**NOTE** : This will erase your Chrome browser settings and data)
 4. Check if the**Google** **Chrome not responding** issue has been resolved.
@@ -175,5 +185,21 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-elevate-your-content-with-these-25-powerful-instagram-tags/"><u>[New] Elevate Your Content with These 25 Powerful Instagram Tags</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/xclusive-list-of-asmr-apps-for-phones/"><u>[New] Exclusive List of ASMR Apps for Phones</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-photographers-ultimate-cloud-companion-infinite-free-and-paid-sky-sanctuaries/"><u>[New] Photographer’s Ultimate Cloud Companion Infinite, Free & Paid Sky Sanctuaries</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-your-microphone-back-on-track-with-windows-11-quick-solutions/"><u>Getting Your Microphone Back on Track with Windows 11 - Quick Solutions!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/goal-achievement-made-easy-chatgpts-health-blueprint/"><u>Goal Achievement Made Easy: ChatGPT's Health Blueprint</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-to-the-night-light-setting-in-windows-11/"><u>How to Restore Functionality to the Night Light Setting in Windows 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-efficiently-implementing-youtube-end-screens/"><u>In 2024, Efficiently Implementing Youtube End Screens</u></a></li>
+<li><a href="https://win-tips.techidaily.com/ntfs-parabthhana-vafaltao-ka-hasatakashhapa-ma-pahacanana-oura-sathharana/"><u>NTFS प्रबंधन विफलताओं को हस्तक्षेप में पहचानना और सुधारना</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/precision-capture-with-videoleaps-zoom-feature-for-2024/"><u>Precision Capture with Videoleap's Zoom Feature for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-when-geforce-experience-wont-start/"><u>Troubleshooting Steps for When GeForce Experience Won't Start</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-handling-cannot-fulfill-due-to-lack-of-resources/"><u>Troubleshooting Tips for Handling 'Cannot Fulfill Due to Lack of Resources'</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204656130-ultimate-fix-guide-say-goodbye-to-csgo-freezes-and-crashes-fast/"><u>Ultimate Fix Guide: Say Goodbye to CSGO Freezes & Crashes Fast</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ling-strategies-for-building-impressive-youtube-teaser-vids-for-2024/"><u>Unveiling Strategies for Building Impressive YouTube Teaser Vids for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/utilmate-guide-15-tips-to-become-instagram-famous-fast-and-easy/"><u>Utilmate Guide 15 Tips to Become Instagram Famous Fast and Easy</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fix Your Missing Battery/Power Indicator in Windows 11 - Step-by-Step Solution
-date: 2024-10-10T00:32:36.383Z
-updated: 2024-10-13T02:24:20.998Z
+date: 2024-10-17T23:56:20.073Z
+updated: 2024-10-18T16:33:09.713Z
 tags:
   - win11
   - win10
@@ -48,20 +48,13 @@ thumbnail: https://thmb.techidaily.com/5bf39f94c554a82a4d105671b92aeedfbf496d47a
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-07-27.png)
 2. Under the**Processes** tab, right-click the process you want to end, then click**End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-08-38.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this fix didn’t help, try the next fix.
@@ -82,32 +75,19 @@ If this fix didn’t help, try the next fix.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Clear clipboard history
@@ -117,6 +97,13 @@ If this fix didn’t help, try the next fix.
 1. Press the**Windows logo key** and**V** on your keyboard to open the clipboard.
 2. Click**Clear all** to delete the clipboard history.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-09-15.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this fix didn’t help, try the next one.
 
@@ -139,16 +126,10 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/2022-04-06_14-12-57.png)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus tip: Update your device drivers
@@ -166,6 +147,13 @@ If your problem persists, try the next fix.
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version. Then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
 
@@ -190,19 +178,18 @@ If your problem persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-optimal-mac-recording-choices-top-5-apps-recommended/"><u>[New] 2024 Approved Optimal Mac Recording Choices Top 5 Apps Recommended</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-maximize-impact-sharing-youtube-videos-on-social-media-fb-for-2024/"><u>[Updated] Maximize Impact Sharing YouTube Videos on Social Media (FB) for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-windows-read-only-settings-for-file-access/"><u>Bypassing Windows Read-Only Settings for File Access</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-ways-to-overcome-the-code-28-hurdle-in-your-windows-device-drivers/"><u>Effective Ways to Overcome the 'Code 28' Hurdle in Your Windows Device Drivers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975156533-ensure-smooth-performance-with-newly-released-realtek-drivers-for-windows-11-download-here/"><u>Ensure Smooth Performance with Newly Released Realtek Drivers for Windows 11 – Download Here</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-optimizing-your-internet-for-better-cs-go-performance/"><u>Expert Advice on Optimizing Your Internet for Better CS: GO Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-vanished-icon-issue-a-guide-to-getting-your-windows-11-desktop-back/"><u>Fixing Vanished Icon Issue: A Guide to Getting Your Windows 11 Desktop Back</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-perform-a-clean-installation-on-your-dell-desktop-pc/"><u>How to Perform a Clean Installation on Your Dell Desktop PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/infinix-data-recovery-recover-lost-data-from-infinix-note-30-by-fonelab-android-recover-data/"><u>Infinix Data Recovery – recover lost data from Infinix Note 30</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-stop-the-mysterious-shutdowns-of-your-wireless-mouse-in-modern-windows-environments/"><u>Step-by-Step Solution to Stop the Mysterious Shutdowns of Your Wireless Mouse in Modern Windows Environments</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-nokia-c110-by-drfone-android/"><u>Three Ways to Sim Unlock Nokia C110</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211502376-windows-10-start-button-not-visible-heres-how-to-find-it/"><u>Windows 10 Start Button Not Visible? Here's How to Find It!</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-gaming-woes-solved-keeping-your-pc-on-during-games-across-different-os-versions/"><u>Windows Gaming Woes Solved: Keeping Your PC On During Games Across Different OS Versions</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/1728504875451-windows-1011/"><u>プログレスが停止したWindows 10/11初期化:完了に至らない状況を修正する</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-rockstar-games-launcher-not-working-2024-tips/"><u>[SOLVED] Rockstar Games Launcher Not Working – 2024 Tips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-channel-building-strategies-to-hit-a-million-view-mark/"><u>2024 Approved Channel Building Strategies to Hit a Million-View Mark</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-y100-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/audio-troubleshooting-for-windows-users-solving-crackling-sound-issues-in-windows-107/"><u>Audio Troubleshooting for Windows Users: Solving Crackling Sound Issues in WINDOWS 10/7</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-when-your-laptop-wont-hold-a-charge/"><u>Effective Solutions for When Your Laptop Won't Hold a Charge</u></a></li>
+<li><a href="https://app-tips.techidaily.com/expert-tips-for-resolving-unrecognized-devices-making-itunes-recognize-your-iphone-ipad-or-ipod-again/"><u>Expert Tips For Resolving Unrecognized Devices: Making iTunes Recognize Your iPhone, iPad, or iPod Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-overcome-windows-camera-problem-resolving-error-0xa00f4292/"><u>Expert Tips to Overcome Windows Camera Problem: Resolving Error 0xA00F4292</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expertly-crafted-workspace-thrones-the-ultimate-chair-selection-for-2cuary/"><u>Expertly Crafted Workspace Thrones: The Ultimate Chair Selection for 2Cuary</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-fallout-76-low-fps-2023-tips/"><u>How to Fix Fallout 76 Low FPS – 2023 Tips</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your Apple iPhone 7 Plus?</u></a></li>
+<li><a href="https://common-error.techidaily.com/lost-your-signal-locate-and-fix-your-sd-card/"><u>Lost Your Signal: Locate and Fix Your SD Card</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-the-changerenderingapierror-e2024-in-dota-2-enhance-your-gaming-experience-now/"><u>Quick Solutions for the ChangeRenderingApiError (E2024) in Dota 2 - Enhance Your Gaming Experience Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/sync-or-swim-expert-tips-for-connecting-your-unresponsive-xbox-one-controller/"><u>Sync or Swim: Expert Tips for Connecting Your Unresponsive Xbox One Controller</u></a></li>
 </ul></div>
 

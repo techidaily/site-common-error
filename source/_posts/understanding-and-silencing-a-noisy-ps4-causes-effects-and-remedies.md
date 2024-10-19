@@ -1,7 +1,7 @@
 ---
 title: "Understanding & Silencing a Noisy PS4: Causes, Effects, and Remedies"
-date: 2024-10-06T19:14:00.712Z
-updated: 2024-10-13T00:59:55.838Z
+date: 2024-10-16T00:24:45.174Z
+updated: 2024-10-19T05:09:12.533Z
 tags:
   - win11
   - win10
@@ -27,19 +27,6 @@ You may encounter an error with a code of **1603** when you are attempting to in
 ## 1) Change installation location
 
 You may encounter an error 1603 because the installation location is you choose is not available due to various reasons — such as being encrypted. You can use another installation folder to install the program and see if the error is gone.
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2) Completely uninstall the same program installed
 
@@ -68,13 +55,6 @@ There may be something going wrong with**Microsoft Installer service**and theref
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca68fd8714.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)** Find and double click on**Windows Installer**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca70c399c1.png)
@@ -82,13 +62,6 @@ There may be something going wrong with**Microsoft Installer service**and theref
 **c)** Hit**Start**button under**Service status**and hit**OK**. (If its service status is**running**, you should click on**Stop**first and then hit**Start**.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca7cbbdf36.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**msiexec /unregister**_” and hit**Enter**.
 
@@ -99,10 +72,10 @@ To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**m
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4) Acquire full permissions on the drive for installation
@@ -112,10 +85,10 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **b)** Go to**Security**tab and click on**Edit**.
@@ -126,6 +99,13 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb123f210b.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **d)** Click on**OK**to go back to**Properties**dialog. Then click on**Advanced**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb3cf25a0c.png)
@@ -134,19 +114,33 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb5c235c54.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **f)** On**Permissions**tab, double click on**Administrators**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb67382950.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **g)** Select**This folder, subfolders and files**for**Applies to**field and**tick** **all the available basic permissions**. After that hit**OK**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb7074c180.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **h)** Do the same operation above for**SYSTEM**.
@@ -172,22 +166,24 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-selection-prime-auto-tracking-tech-review/"><u>[New] Expert Selection Prime Auto Tracking Tech Review</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-the-unsung-heros-guide-to-tiktok-live-participation/"><u>[New] In 2024, The Unsung Hero's Guide to TikTok Live Participation</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-unlocking-the-potential-of-filters-and-masks-for-online-conferencing/"><u>[New] Unlocking the Potential of Filters and Masks for Online Conferencing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-snapsizestrategy-optimize-your-visual-content-on-ig/"><u>[Updated] 2024 Approved SnapSizeStrategy Optimize Your Visual Content on IG</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-top-snapchat-content-strategies-to-stand-out/"><u>[Updated] 2024 Approved Top Snapchat Content Strategies to Stand Out</u></a></li>
-<li><a href="https://common-error.techidaily.com/ftdi-bus-system-alert-memory-issues-arise-from-incompatible-driver-configurations/"><u>FTDI Bus System Alert: Memory Issues Arise From Incompatible Driver Configurations</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Meizu 21 Pro? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-microsofts-print-to-pdf-issue-on-windows-11/"><u>How to Fix Microsoft's Print to PDF Issue on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-netflix-no-sound-issues-easily/"><u>How To Fix Netflix No Sound Issues Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-failure-to-detect-wd-my-passport-ultra-drive/"><u>How to Resolve Windows Failure to Detect WD My Passport Ultra Drive</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigating-poor-communication-between-epson-printer-and-scanner/"><u>Navigating Poor Communication Between Epson Printer and Scanner</u></a></li>
-<li><a href="https://techtrends.techidaily.com/psvr2-unveiled-latest-updates-on-release-dates-pricing-and-hardware-specifications/"><u>PSVR2 Unveiled: Latest Updates on Release Dates, Pricing & Hardware Specifications</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-invalid-value-in-registry-issues-while-launching-photos-app-on-windows-11/"><u>Resolving 'Invalid Value in Registry' Issues While Launching Photos App on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-error-0x80004005-unspecified-error/"><u>Solved: Error 0X80004005: Unspecified Error</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/solving-the-problem-6-methods-to-enable-auto-switching-feature-on-your-airpods-across-apple-products/"><u>Solving the Problem: 6 Methods to Enable Auto-Switching Feature on Your AirPods Across Apple Products</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-art-of-filmmaking-demystified-on-youtube-for-2024/"><u>The Art of Filmmaking Demystified on YouTube for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/update-announcement-new-world-clears-the-way-past-previous-anti-cheat-glitches/"><u>Update Announcement: New World Clears the Way Past Previous Anti-Cheat Glitches</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-for-effective-content-promotion-on-youtube/"><u>[New] Strategies for Effective Content Promotion on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ai-art-faceoff-gemini-takes-on-midjourney-for-ultimate-design-supremacy/"><u>AI Art Faceoff: Gemini Takes on Midjourney for Ultimate Design Supremacy</u></a></li>
+<li><a href="https://common-error.techidaily.com/breaking-free-from-the-loop-strategies-to-resolve-infinite-load-in-valorant/"><u>Breaking Free From the Loop: Strategies to Resolve Infinite Load in Valorant</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/childs-play-top-5-fun-flying-toys-reviewed-for-2024/"><u>Child's Play Top 5 Fun Flying Toys Reviewed for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-tutorial-for-fixing-lan-issues-on-windows-os-version-10-and-7/"><u>Comprehensive Tutorial for Fixing LAN Issues on Windows OS (Version 10 and 7)</u></a></li>
+<li><a href="https://win-premium.techidaily.com/discover-whats-new-in-windows-11-the-fresh-batch-of-updates-unveiled-by-microsoft-expert-analysis-at-zdnet/"><u>Discover What's New in Windows 11: The Fresh Batch of Updates Unveiled by Microsoft | Expert Analysis at ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-stuck-keyboard-buttons-on-windows-pcs-a-comprehensive-guide/"><u>Fixing Stuck Keyboard Buttons on Windows PCs: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-nokia-c300-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Nokia C300 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-repair-xbox-input-device-drivers-on-various-windows-versions-including-11-8-and-7/"><u>How to Repair Xbox Input Device Drivers on Various Windows Versions Including 11, 8 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-install-failures-of-windows-10-build-1607/"><u>Resolving Install Failures of Windows 10 Build 1607</u></a></li>
+<li><a href="https://fox-http.techidaily.com/shake-eliminator-gear-for-handhocal-cams-2022/"><u>Shake Eliminator Gear for Handhocal Cams 2022</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/streaming-stardom-unraveling-jake-pauls-youtube-rise/"><u>Streaming Stardom Unraveling Jake Paul's YouTube Rise</u></a></li>
+<li><a href="https://common-error.techidaily.com/teredo-protocol-limitations-and-how-to-address-them-effectively/"><u>Teredo Protocol Limitations and How to Address Them Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-invisible-changes-that-bring-your-desktop-life-master-themes-on-windows-11/"><u>The Invisible Changes That Bring Your Desktop Life: Master Themes on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-made-easy-eliminating-windows-camera-error-code-0xa00f4292/"><u>Troubleshooting Made Easy: Eliminating Windows Camera Error Code 0XA00F4292</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207539518-troubleshooting-persistent-windows-updates-issues-solved/"><u>Troubleshooting Persistent Windows Updates Issues - Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-step-by-step-for-code-224003-unplayable-video-errors-resolved/"><u>Troubleshooting Step-by-Step for Code 224003: Unplayable Video Errors Resolved</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-restoring-functionality-of-non-working-hp-laptop-webcam-on-windows-10/"><u>Troubleshooting Steps: Restoring Functionality of Non-Working HP Laptop Webcam on Windows 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-itel-a60-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Itel A60? | Dr.fone</u></a></li>
 </ul></div>
 

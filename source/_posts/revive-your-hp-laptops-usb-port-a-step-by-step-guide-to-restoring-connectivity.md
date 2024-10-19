@@ -1,7 +1,7 @@
 ---
 title: Revive Your HP Laptop’s USB Port - A Step-by-Step Guide to Restoring Connectivity
-date: 2024-10-08T04:08:21.602Z
-updated: 2024-10-12T19:40:03.046Z
+date: 2024-10-13T17:57:28.622Z
+updated: 2024-10-19T00:59:39.058Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 4. [**Update your USB driver**](#s4)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1: Use a different USB port
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
  USB performance issues may occur if the USB port you plug your USB device into is dusty or damaged. You can try switching your USB device to a different USB port.
 
 If all your USB ports aren’t working, try Step 2, below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Disconnect and reconnect your power cord (for laptop)
 
@@ -62,22 +55,15 @@ If all your USB ports aren’t working, try Step 2, below.
 2. **Restart** your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. **Plug** your USB device into your laptop.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Check your power management settings
 
@@ -92,8 +78,24 @@ If all your USB ports aren’t working, try Step 2, below.
 5. Click the**Power Management** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
 7. Repeat steps 4-6 above for other**USB Root Hub** s (if you have more than one) under**Universal Serial Bus controllers** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Check if your USB port works properly now. If not, try Step 4, below.
 
 ### Step 4: Update your USB driver
@@ -138,20 +140,22 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-ultimate-picart-technique-for-clean-images/"><u>[New] 2024 Approved The Ultimate PicArt Technique for Clean Images</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204369684-solved-new-world-wont-launch-easy-anti-cheat-error/"><u>[SOLVED] New World Won’t Launch Easy Anti-Cheat Error</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-license-ends-soon-issues-on-windows-1011/"><u>Avoiding “License Ends Soon” Issues on Windows 10/11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-overwatch-chatter-breakdowns-effortlessly-with-these-tricks/"><u>Fix Your Overwatch Chatter-Breakdowns Effortlessly with These Tricks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-easy-and-fun-top-15-ways-to-watch-nba-online-for-2024/"><u>Free, Easy & Fun Top 15 Ways to Watch NBA Online for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-s17t-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo S17t to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-sony-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Sony ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-your-needs-met-by-going-local-with-llms/"><u>Is Your Needs Met by Going Local with LLMs?</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-usb-device-not-accepted-challenge-expert-advice-and-fixes/"><u>Overcoming the 'USB Device Not Accepted' Challenge: Expert Advice and Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-11-error-code-0x80072efd-a-step-by-step-guide/"><u>Resolving Windows 11 Error Code 0X80072EFD: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-windows-10-hang-issues-a-comprehensive-guide-to-get-it-running-smoothly-again/"><u>Solving Windows 10 Hang Issues: A Comprehensive Guide to Get It Running Smoothly Again</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-how-to-fix-a-non-functional-hdmi-connection-from-your-usb-port/"><u>Troubleshooting Tips: How to Fix a Non-Functional HDMI Connection From Your USB Port</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-successfully-pair-your-xbox-one-controller/"><u>Troubleshooting: Steps to Successfully Pair Your Xbox One Controller</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unboxing-revolution-the-most-innovative-yt-channels-of-2024/"><u>Unboxing Revolution The Most Innovative YT Channels of 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-lightninglapse-delaydox-video/"><u>[New] LightningLapse DelayDox Video</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-tips-to-design-an-eye-catching-logo-for-podcasts/"><u>[Updated] Tips to Design an Eye-Catching Logo for Podcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-manufacture-jokes-memes-using-adobe/"><u>2024 Approved Manufacture Jokes Memes Using Adobe</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosis-and-repair-techniques-for-addressing-driverpowerstatefailure-problems/"><u>Diagnosis and Repair Techniques for Addressing DRIVER_POWER_STATE_FAILURE Problems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/enhance-your-online-presence-with-optimized-website-pages-strategies/"><u>Enhance Your Online Presence with Optimized Website Pages Strategies</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhancing-epson-device-interaction-for-better-results/"><u>Enhancing Epson Device Interaction for Better Results</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-1603-decoded-expert-strategies-for-a-seamless-and-successful-software-setup/"><u>Error 1603 Decoded: Expert Strategies for a Seamless and Successful Software Setup</u></a></li>
+<li><a href="https://win-info.techidaily.com/exploring-user-preferences-the-top-trending-internet-browsers/"><u>Exploring User Preferences: The Top Trending Internet Browsers</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-issues-with-your-dell-camera-troubleshooting-tips-for-windows-users/"><u>Fixing Issues with Your Dell Camera: Troubleshooting Tips for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-total-war-rome-remastered-from-crashing-expert-guidelines-and-reviews/"><u>How to Stop Total War: Rome Remastered From Crashing: Expert Guidelines and Reviews</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-15-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 15 Pro Max without Password?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/maximize-home-internet-speeds-with-our-comprehensive-review-of-the-netgear-nighthawk-x10-ad7200/"><u>Maximize Home Internet Speeds with Our Comprehensive Review of the Netgear Nighthawk X1^0 (AD7200)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/one-ring-to-rule-them-all-configuring-your-primary-phone-number-on-multiple-phones-effortlessly/"><u>One Ring to Rule Them All: Configuring Your Primary Phone Number on Multiple Phones Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/pdf-printer-problems-discover-effortless-ways-to-get-your-documents-ready/"><u>PDF Printer Problems? Discover Effortless Ways to Get Your Documents Ready</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-unfreeze-a-non-responsive-laptop-mouse-in-seconds/"><u>Step-by-Step Solutions: Unfreeze a Non-Responsive Laptop Mouse in Seconds</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-y78plus-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo Y78+</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-no-source-problems-with-windows-media-player/"><u>Troubleshooting and Solving No-Source Problems with Windows Media Player</u></a></li>
 </ul></div>
 

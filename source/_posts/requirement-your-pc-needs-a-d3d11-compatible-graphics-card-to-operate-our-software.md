@@ -1,7 +1,7 @@
 ---
 title: "Requirement: Your PC Needs a D3D11-Compatible Graphics Card to Operate Our Software"
-date: 2024-10-06T20:38:11.431Z
-updated: 2024-10-12T23:35:03.305Z
+date: 2024-10-17T21:57:42.487Z
+updated: 2024-10-19T05:07:56.706Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ All the fixes below work both in**Windows 10**and**8**. You may not have to try 
 2. **[Insert a Miracast adapter](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update your Miracast adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Roll back your graphics card driver to a previous version
 
 Some graphics cards manufacturers have cut support for **Miracast**. So we might have to**roll back the drivers to a previous version**so that**Miracast**works. To do so:
@@ -44,23 +37,45 @@ Some graphics cards manufacturers have cut support for **Miracast**. So we might
 1. On your keyboard, press  **the Windows logo key**  and   **R** at the same time, then copy & paste **devmgmt.msc**  into the box and click  **OK**  .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afb9c1b96ba9.png)
 2. Locate and double-click on **Display adapters**  (aka. **graphics card** , **video card** ) to expand it.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42e2baf0279.jpg)
 3. Click the**Driver** tab >**Roll Back Driver** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b42e27a083b7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Yes** if asked for confirmation. Then the driver will be restored to a previous version.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart you computer and see if**Miracast** works properly on your computer.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Insert a **Miracast adapter**
 
 It’s also possible that the device you’re streaming content to doesn’t support Miracast. But don’t worry – if that’s the case, you need to do to enable Miracast is to plug in a Miracast adapter, such as a[Microsoft Wireless Display adapter](https://www.amazon.com/Microsoft-Wireless-Display-Adapter-P3Q-00001/dp/B01AZC3J3M/ref=sr%5F1%5F1%5Fsspa?s=electronics&ie=UTF8&qid=1542013017&sr=1-1-spons&keywords=Microsoft+Wireless+Display+Adapter&psc=1&tag=drivereasycom-20), into an HDMI port on your display device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be94122c9d87.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Check if Miracast works properly as should right now. If yes, then congrats! But if the problem still persists, then move on to**Fix 3**, below.
 
@@ -75,20 +90,13 @@ This error may also occur when you have a corrupt/outdated **Miracast adapter** 
 3. You can upgrade to[**the Pro version**](https://tools.techidaily.com/drivereasy/download/)  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b43066ed2b95.jpg) You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer and see if this **Miracast: not supported by graphics driver** error message has been sorted.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -112,20 +120,22 @@ That’s it  – 3 tried and tested methods to help fix your**Miracast: not supp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-editors-playbook-mastering-the-art-of-youtube-cuts/"><u>[New] In 2024, The Editor's Playbook Mastering the Art of YouTube Cuts</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-immediate-favorites-weeks-top-youtube-clips-for-2024/"><u>[Updated] Immediate Favorites Week's Top Youtube Clips for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-get-your-bluetooth-mouse-working-again-on-a-windows-machine/"><u>Expert Tips to Get Your Bluetooth Mouse Working Again on a Windows Machine</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-honor-magic-v2-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Honor Magic V2</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-your-google-tv-a-step-by-step-guide-to-syncing-disconnecting-and-rebooting-your-remote/"><u>Mastering Your Google TV: A Step-by-Step Guide to Syncing, Disconnecting & Rebooting Your Remote</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-dilemma-a-step-by-step-guide-to-correcting-error-0x800f081f-on-net-framework-35-setup/"><u>Resolving the Dilemma: A Step-by-Step Guide to Correcting Error 0X800F081F on .NET Framework 3.5 Setup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-windows-10-audio-experience-steps-to-fix-low-volume-issues/"><u>Revive Your Windows 10 Audio Experience - Steps to Fix Low Volume Issues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-c270-webcam-with-latest-windows-11-driver/"><u>Secure C270 Webcam with Latest Windows 11 Driver</u></a></li>
-<li><a href="https://games-able.techidaily.com/stop-erratic-scrolling-on-your-mouse/"><u>Stop Erratic Scrolling on Your Mouse</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-is-now-how-generative-ai-like-chatgpt-could-revolutionize-job-roles/"><u>The Future Is Now: How Generative AI Like ChatGPT Could Revolutionize Job Roles</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-excessive-disk-space-consumption-by-microsofts-telemetry-on-windows-11/"><u>Troubleshooting Excessive Disk Space Consumption by Microsoft's Telemetry on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-lack-of-sound-devices-on-your-windows-pc-windows-10-11/"><u>Troubleshooting Lack of Sound Devices on Your Windows PC (Windows 10, 11)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-computer-failure-in-shutting-down-windows-11/"><u>Troubleshooting Steps: Resolving Computer Failure in Shutting Down Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-0x80072efd-issue-in-windows-11-expert-fixes-and-tips/"><u>Troubleshooting the 0X80072EFD Issue in Windows 11: Expert Fixes and Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-fixing-sudden-system-failures-while-playing-games-windows-users-guide/"><u>Understanding & Fixing Sudden System Failures While Playing Games: Windows Users Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-loadlibrary-failed-with-error-1114-error/"><u>[Fixed] LoadLibrary Failed with Error 1114 Error</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-seamless-transition-from-fb-videos-to-polished-mp3-tracks/"><u>[New] In 2024, Seamless Transition From FB Videos to Polished MP3 Tracks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-future-is-now-harnessing-instagrams-newest-filter-features-for-2024/"><u>[New] The Future Is Now Harnessing Instagram's Newest Filter Features for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-playing-fb-videos-on-your-apple-device/"><u>[Updated] In 2024, Playing FB Videos on Your Apple Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-trasforma-gif-in-formato-webm-gratuito-online-con-movavi/"><u>1. Trasforma GIF in Formato WEBM Gratuito Online Con Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeat-windows-10-relentless-restarts-with-these-user-friendly-remedies/"><u>Defeat Windows 10 Relentless Restarts with These User-Friendly Remedies</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-repairing-ethernet-connectivity-woes-in-windows-11-and-7-environments/"><u>Effective Solutions for Repairing Ethernet Connectivity Woes in Windows 11 & 7 Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-infamous-red-error-screen-in-5-easy-steps/"><u>Fixing the Infamous Red Error Screen in 5 Easy Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-reconnect-and-fix-media-problems-in-your-windows-computer/"><u>How To Correctly Reconnect and Fix Media Problems in Your Windows Computer</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reconnecting-brothers-print-to-end-offline-status-woes/"><u>Reconnecting Brothers Print to End Offline Status Woes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-yellow-discoloration-in-windows-laptop-screens/"><u>Resolving Yellow Discoloration in Windows Laptop Screens</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/rethink-your-youtube-videos-with-these-non-youtube-edits-for-2024/"><u>Rethink Your YouTube Videos with These Non-Youtube Edits for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-overcoming-steam-friends-not-available-problems/"><u>Solved! Overcoming 'Steam Friends Not Available' Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-complete-walkthrough-for-dealing-with-pcs-frozen-during-system-initialization/"><u>The Complete Walkthrough for Dealing with PCs Frozen During System Initialization</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-the-microsoft-store-effective-solutions-for-opening-issues/"><u>Unlocking the Microsoft Store: Effective Solutions for Opening Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203189589-win-update-freeze-at-100-heres-how-to-get-it-moving-again-fixes-included/"><u>Win Update Freeze at 100%? Here's How to Get It Moving Again - Fixes Included</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/winning-at-movie-watching-leading-windows-phone-apps/"><u>Winning at Movie Watching Leading Windows Phone Apps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unsticking Destiny 2: Expert Tips for Fixing Initialization Delays in Your Gameplay"
-date: 2024-09-09T16:01:26.377Z
-updated: 2024-09-15T16:03:04.428Z
+date: 2024-10-17T23:50:33.994Z
+updated: 2024-10-18T22:49:05.028Z
 tags:
   - win11
   - win10
@@ -61,6 +61,14 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 3. Select**Display adapter properties for Display 1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/advanced-dis-settings.jpg)
 4. On the Adapter tab, click**List All Modes** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/display-adapter.jpg)
 5. A list of different resolutions will show on the screen. Select one according to your hardware specifications.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/list-all-modes.jpg)
@@ -76,17 +84,25 @@ If the problem persists, move on to the next fix.
 1. On your keyboard, press**Win** +**I** (the Windows logo key and the I key) to open Settings. Then select**Gaming** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/windows-settings-gaming.jpg)
 2. On the**Game Mode** tab, move the slider to turn off**Game Mode** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/game-mode-off.jpg)
 3. On your screen or the folder where you put your game, right click the game icon and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-right-click.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **If the problem persists, you can also disable fullscreen optimizations:**
 
@@ -122,6 +138,14 @@ If nothing changes, you might need to check your graphic drivers.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/de-scan-now-11.jpg)
 3. Click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro** **version**](https://tools.techidaily.com/drivereasy/download/)  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-rtx-2080-pro-update-all.jpg)
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://vapordna.pxf.io/vnbxna) .
@@ -131,13 +155,6 @@ If nothing changes, you might need to check your graphic drivers.
  After updating your drivers, restart your PC and check if the problem is solved.
 
 If it doesn’t do the trick, simply move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5:**Turn on VSync**
 
@@ -150,6 +167,13 @@ If it doesn’t do the trick, simply move on to the next fix.
 2. In the left pane, select**Manage 3D Settings** and choose the**Global Settings** tab. Then scroll down to find**Vertical sync** and click the small arrow on its right. Select**On** in the drop-down list and click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Setting Vertical sync to**Adaptive** might also be efficient, according to some players.
 
  **For AMD users, the feature is called Wait for Vertical Refresh:**
@@ -157,15 +181,22 @@ If it doesn’t do the trick, simply move on to the next fix.
 1. At the bottom left of the screen, click the search box and type**amd** . Then click**AMD Radeon Software** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/AMD-software.jpg)
 2. At the top right corner of the menu, click the settings icon. Then select the**Graphics** tab and navigate to**Wait for Vertical Refresh** . Click the small arrow on its right to open the drop-down menu.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
-3. Click**Always on** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
+3. Click**Always on** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-verticle-refresh-on.jpg)
 
@@ -173,13 +204,6 @@ If it doesn’t do the trick, simply move on to the next fix.
 
  To enable VSync in Valorant, go to**Settings** \>**VIDEO** \>**GRAPHICS QUALITY** , and set VSync to**ON** :  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/Valorant-vsync-on.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When VSync is on, you should turn off**Limit FPS Always** in Valorant, or the two settings might conflict with each other.
 
@@ -210,14 +234,15 @@ If it doesn’t help, move on to the last fix.
 2. In the left column, click**Display** . Then scroll down to select**Advanced display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/adv-display-settings.jpg)
 3. Scroll down to the**Refresh Rate** section and you will know the refresh rate of your PC.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-rate.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-rate.jpg)
 
 **Now you can set the maximum frame rate.**
 
@@ -228,6 +253,13 @@ For NVIDIA users:
 2. In the left pane, select**Manage 3D Settings** and navigate to the**Global Settings** tab. Then scroll down to find**Max Frame Rate** and click the small arrow on its right.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/3d-settings-max-frame-rate.png)
 3. Select**On** and move the slider to your monitor’s refresh rate.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 For AMD users:
 
@@ -253,5 +285,26 @@ For AMD users:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-blueprint-for-flawless-video-conferences-on-slackplusfilmora/"><u>[New] 2024 Approved The Blueprint for Flawless Video Conferences on Slack+Filmora</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-maximizing-content-impact-bypassing-virtual-onlookers/"><u>[New] In 2024, Maximizing Content Impact Bypassing Virtual Onlookers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-saving-the-fun-downloading-tweets-gif-content-easily/"><u>[New] In 2024, Saving the Fun Downloading Tweets' GIF Content Easily</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtube-masterclass-crafting-engaging-openers-technique-1-and-2/"><u>[Updated] 2024 Approved YouTube Masterclass Crafting Engaging Openers (Technique 1 & 2)</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-installation-or-updating-errors-with-steam-titles/"><u>Effective Solutions for Installation or Updating Errors with Steam Titles</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-the-most-out-of-your-arctis-5-fixing-microphone-problems-easily/"><u>Getting the Most Out of Your Arctis 5 - Fixing Microphone Problems Easily</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-xr-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone XR Display? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-motorola-edge-40-neo-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Motorola Edge 40 Neo for Parents | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-nubia-red-magic-9-pro-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Nubia Red Magic 9 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-failed-renderer-setup-issues-the-21-fix/"><u>Overcoming Failed Renderer Setup Issues - The 2^1 Fix</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-7s-stuck-updates-insight-for-users-in-need-of-assistance-helpful-tips-and-guides/"><u>Overcoming Windows 7'S Stuck Updates - Insight for Users in Need of Assistance (Helpful Tips & Guides)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pixelpop-complete-examination-and-manual-24/"><u>PixelPop Complete Examination & Manual '24</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-of-brother-hl-3170cdw-printer-drivers-effortless-setup/"><u>Quick Download of Brother HL-3170CDW Printer Drivers – Effortless Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-steps-to-start-a-failed-windows-updates-process-on-your-pc/"><u>Resolved: Steps to Start a Failed Windows Updates Process on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/service-interruption-no-access-to-blizzard/"><u>Service Interruption: No Access To Blizzard</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-resolution-for-warframe-cant-apply-latest-patch-error/"><u>Step-by-Step Resolution for 'Warframe Can't Apply Latest Patch' Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-common-issues-with-nier-automata-pc-performance/"><u>Troubleshooting Common Issues with Nier Automata PC Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-isnt-my-key-functioning-expert-tips-and-fixes-for-text-input-issues/"><u>Why Isn't My '@' Key Functioning? Expert Tips and Fixes for Text Input Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-mediatrans-pro-iphoneipad-best-remote-file-manager/"><u>WinX MediaTrans Pro: 원격 이미지, 음악, 동영상 효율적으로 iPhone/iPad에 전송하는 대답 - Best Remote File Manager</u></a></li>
+</ul></div>
 

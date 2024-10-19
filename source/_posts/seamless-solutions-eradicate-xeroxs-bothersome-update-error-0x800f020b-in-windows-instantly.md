@@ -1,7 +1,7 @@
 ---
 title: "Seamless Solutions: Eradicate Xerox's Bothersome Update Error (0X800f020b) in Windows Instantly"
-date: 2024-10-11T23:48:48.575Z
-updated: 2024-10-12T18:00:24.368Z
+date: 2024-10-14T17:46:17.176Z
+updated: 2024-10-18T17:57:27.526Z
 tags:
   - win11
   - win10
@@ -43,16 +43,10 @@ But don’t worry, it’s not hard to fix at all…
 2. Right-click on**Microsoft Store Install Service** and click**Start** .  
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b515a7b35011.jpg)
@@ -62,21 +56,7 @@ But don’t worry, it’s not hard to fix at all…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b51629aa2ad6.jpg)
 5. Launch your Windows Store again and see if the problem has been solved.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run the DISM tool
 
@@ -84,14 +64,37 @@ But don’t worry, it’s not hard to fix at all…
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Type **the following command** and press **Enter** :  
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
  Wait a while for the whole process to finish.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Type **sfc /scannow**  and press **Enter** .
 4. Restart your computer, run Windows Store again and see if it works properly this time.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -110,26 +113,19 @@ But don’t worry, it’s not hard to fix at all…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. You can upgrade to **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  and click **Update All** to automatically download and install the correct version of **ALL**  the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b472528c2b06.jpg) You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer and hope everything goes off without a hitch on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the problem still lingers on after trying Driver Easy, feel free to contact our support team at **<support@drivereasy.com>** . Be sure to attach **the URL of this article** for more expedient and efficient guidance. ?
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Change the DNS server address
 
@@ -140,14 +136,28 @@ But don’t worry, it’s not hard to fix at all…
 2. **Click Change adapter settings .**  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2935c0967f.jpg)**
 3. Right-click on**the network adpater** (Ethernet in my case) and click **Properties** .  
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b22081a8ea67.jpg)
 4. Click **Internet Protocol Version 4 (TCP/IPv4)**  and then click **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2228b800796.jpg)
@@ -165,10 +175,10 @@ But don’t worry, it’s not hard to fix at all…
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 5: Register Windows Store package**
@@ -177,13 +187,6 @@ But don’t worry, it’s not hard to fix at all…
 
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2. Copy & paste**the following command** into the window and press**Enter** .  
 **PowerShell -ExecutionPolicy Unrestricted -Command “& {$manifest = (Get-AppxPackage Microsoft.WindowsStore).InstallLocation + ‘\AppxManifest.xml’ ; Add-AppxPackage -DisableDevelopmentMode -Register $manifest}”**
@@ -211,19 +214,16 @@ But don’t worry, it’s not hard to fix at all…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-leveraging-likeability-strategies-for-going-viral-on-facebook-for-2024/"><u>[New] Leveraging Likeability Strategies for Going Viral on Facebook for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-utilizing-snap-camera-for-interactive-online-gatherings/"><u>[New] Utilizing Snap Camera for Interactive Online Gatherings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-tunes-heres-how-to-download-safely-and-free/"><u>[New] Youtube Tunes? Here's How to Download Safely & Free</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-maximize-your-photos-with-samsungs-image-enhancers/"><u>[Updated] How to Maximize Your Photos with Samsung's Image Enhancers</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-iphone-and-android-enthusiasts-guide-to-custom-whatsapp-sounds/"><u>[Updated] IPhone & Android Enthusiast's Guide to Custom WhatsApp Sounds</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-superlative-picture-based-adventure-builder/"><u>2024 Approved Superlative Picture-Based Adventure Builder</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-14-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 14</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-11-update-error-code-0xc1900208-a-step-by-step-guide/"><u>Fixing Windows 11 Update Error Code 0xC1900208: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-solve-logitech-g930-cutting-out/"><u>How To Solve Logitech G930 Cutting Out</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-nokia-105-classic-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Nokia 105 Classic? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-pcs-unwanted-sleeps-simple-fixes-revealed/"><u>Resolve Your PC's Unwanted Sleeps: Simple Fixes Revealed</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-your-windows-10-mouses-right-click-functionality-with-these-expert-tips/"><u>Restore Your Windows 10 Mouse's Right-Click Functionality with These Expert Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/securing-trustedinstaller-approval-for-file-modification/"><u>Securing TrustedInstaller Approval for File Modification</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-xiaomi-civi-3-disney-100th-anniversary-edition-by-fonelab-android-recover-data/"><u>Undelete lost data from Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-capturing-adventure-an-in-depth-gopro-model-review-for-2024/"><u>[New] Capturing Adventure An In-Depth GoPro Model Review for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfect-your-video-calls-on-zoom/"><u>[New] Perfect Your Video Calls on Zoom</u></a></li>
+<li><a href="https://common-error.techidaily.com/bones/"><u>Bones</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-internet-sharing-mastering-usb-tethering-on-windows-11/"><u>Effortless Internet Sharing: Mastering USB Tethering on Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-lava-blaze-curve-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Lava Blaze Curve 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/pc-refuses-to-rise-snoozing-on-win1110/"><u>PC Refuses to Rise: Snoozing on Win11/10</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-exploring-the-causes-of-your-windows-10-machines-unexpected-boot-cycles/"><u>Resolved! Exploring the Causes of Your Windows 10 Machine's Unexpected Boot Cycles</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mingwm10dll-file-not-detected-problem-a-step-by-step-guide/"><u>Solving the 'mingwm10.dll File Not Detected' Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-nubia-red-magic-8s-proplus-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Nubia Red Magic 8S Pro+? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-guide-to-micromobility-scheduled-activities-recent-developments-rumors-and-insider-info/"><u>The Comprehensive Guide to Micromobility: Scheduled Activities, Recent Developments, Rumors & Insider Info</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-efficient-wdf-drivers-to-lower-cpu-utilization/"><u>Troubleshooting Efficient WDF Drivers to Lower CPU Utilization</u></a></li>
 </ul></div>
 

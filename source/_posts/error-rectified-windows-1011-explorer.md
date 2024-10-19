@@ -1,7 +1,7 @@
 ---
 title: "Error Rectified: Windows 10/11 Explorer"
-date: 2024-10-06T22:59:01.294Z
-updated: 2024-10-12T17:46:23.279Z
+date: 2024-10-12T00:59:36.033Z
+updated: 2024-10-18T20:16:44.471Z
 tags:
   - win11
   - win10
@@ -56,24 +56,31 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Your computer should be restored to a healthy and stable status. But if this doesn’t solve the explorer error, try Fix 3 below.
 
@@ -86,6 +93,14 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 2. Select the**Advanced** tab and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/increase-virtual-memory-2.jpg)
 3. Click the**Advanced** tab and click**Change** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/increase-virtual-memory-3.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-4-1.jpg)
@@ -93,23 +108,17 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-5-2.jpg)
 6. Type in**initial size** and**maximum size** depending on the amount of RAM your PC has. Then click**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Tips: Advisably, the virtual memory should be no less than **1.5 times** and no more than **3 times** the RAM on your computer. You can follow this guide to[**check RAM on your computer**](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-6.jpg)
 
 Test if the issue is solved. If not, go to other fixes below.
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4 – Run Windows Memory Diagnostic
 
@@ -121,42 +130,36 @@ Test if the issue is solved. If not, go to other fixes below.
 3. Click**Restart now and check for problems (recommended)** . Make sure to save your work and close all the programs before restarting.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/run-memory-diagnostic-2.jpg)
 4. The diagnostic process may take a few minutes, during which you’ll see a blue screen showing how it progresses.  
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/run-memory-diagnostic-6.jpg)
 5. Once done, the computer will restart. When you log into the computer, the results should show up on your desktop. If you don’t see it, right-click the**Start** menu and click**Event Viewer** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/event-viewer.jpg)
 6. Click**Windows Logs** \>**System** \>**Find** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/run-memory-diagnostic-3.jpg)
 7. Enter**memory diagnostic** in the field and click**Find Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/run-memory-diagnostic-4.jpg)
 8. Go back to the main window and check the matched events. If you see no errors, it means your RAM is working well and isn’t the cause of the explorer error. You can then move on to**[Fix 5](#fix5)**  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/run-memory-diagnostic-5.jpg)  
  But if hardware problems were detected, you may try further troubleshooting steps:  
    * Try your RAM stick in a different slot in case the previously used RAM slot is defective.  
    * Reach out to the support of the hardware for help or consider replacing a new RAM if all the RAM slots are not working.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5 – Disable Taskbar auto-hide
 
@@ -167,13 +170,6 @@ Test if the issue is solved. If not, go to other fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/disable-autohide.jpg)
 3. From the left pane, select**Taskbar** . Then turn off the buttons below**Automatically hide the taskbar in desktop mode** and**Automatically hide the taskbar in tablet mode** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/disable-autohide-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart your computer to check the explorer.exe application error. If the issue reoccurs, no worries. There are two more fixes you can try.
 
@@ -196,16 +192,16 @@ Test if the issue is solved. If not, go to other fixes below.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -213,6 +209,13 @@ Test if the issue is solved. If not, go to other fixes below.
  Reboot your computer to apply the changes after the updates are complete and see if the error gets fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 8: Try a system restore
 
@@ -247,18 +250,24 @@ Test if the issue is solved. If not, go to other fixes below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-seamless-techniques-for-documenting-digital-conferences-on-os-xpc/"><u>[New] Seamless Techniques for Documenting Digital Conferences on OS X/PC</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-efficientuseofyourwebcamforrecording/"><u>[Updated] EfficientUseOfYourWebcamForRecording</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-video-creation-simplified-key-elements-of-using-aiseesofts-tech/"><u>[Updated] In 2024, Video Creation Simplified Key Elements of Using Aiseesoft's Tech</u></a></li>
-<li><a href="https://common-error.techidaily.com/dealing-with-invalid-path-or-directory-errors-on-your-computer/"><u>Dealing with Invalid Path or Directory Errors on Your Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-randomly-nonfunctional-wireless-mice-in-modern-windows-environments/"><u>Diagnosing and Repairing Randomly Nonfunctional Wireless Mice in Modern Windows Environments</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/1716362903998-how-to-see-your-subscribers-on-youtube/"><u>How to See Your Subscribers on YouTube?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ignite-your-windows-apps-with-swift-internet-solutions/"><u>Ignite Your Windows Apps with Swift Internet Solutions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-m6-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco M6 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-troubleshooting-resolving-the-battery-not-detected-error/"><u>Quick Troubleshooting: Resolving the 'Battery Not Detected' Error</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/radiant-reality-tiles-photographic-collages-that-sparkle/"><u>Radiant Reality Tiles Photographic Collages That Sparkle</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-to-initialization-failed-error-on-age-of-empires-3/"><u>Step-by-Step Solution to 'Initialization Failed' Error on Age of Empires 3</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-recover-your-disappeared-mouse-cursor-on-windows-10-systems/"><u>Steps to Recover Your Disappeared Mouse Cursor on Windows 10 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-broken-keys-on-hp-notebooks-efficiently/"><u>Troubleshooting and Repairing Broken Keys on HP Notebooks Efficiently</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-prime-10-applications-for-real-time-sporting-events-and-football-games/"><u>[New] 2024 Approved Prime 10 Applications for Real-Time Sporting Events & Football Games</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhance-video-quality-by-cutting-out-background-sounds/"><u>[New] Enhance Video Quality by Cutting Out Background Sounds</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-art-of-perfecting-vocal-recordings-for-video-projects/"><u>[New] The Art of Perfecting Vocal Recordings for Video Projects</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-elevate-your-storytelling-with-strategic-video-callouts/"><u>[Updated] Elevate Your Storytelling with Strategic Video Callouts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-eliminate-blackout-issues-with-game-capture-apps/"><u>[Updated] In 2024, Eliminate Blackout Issues with Game Capture Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-media-with-extraearsound/"><u>2024 Approved Mastering Media with ExtraEarSound</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-earning-trajectory-of-youtube-star-pewdopeep/"><u>2024 Approved The Earning Trajectory of YouTube Star PewDoPeep</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/efficient-chrome-os-snaps-4-techniques-to-try/"><u>Efficient Chrome OS Snaps - 4 Techniques to Try</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-effortlessly-resolve-your-pc-cannot-connect-to-external-display-error-in-windows-108/"><u>How to Effortlessly Resolve Your PC Cannot Connect To External Display Error in Windows 10/8</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/install-the-latest-13-clowns-video-extension-on-kodi-step-by-step-guide/"><u>Install the Latest 13 Clowns Video Extension on Kodi: Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-more-green-glitch-woes-how-nba-2k21s-latest-fix-clears-the-field/"><u>No More Green Glitch Woes: How NBA 2K21's Latest Fix Clears the Field</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-when-your-windows-1011-computer-keeps-crashing/"><u>Solutions for When Your Windows 10/11 Computer Keeps Crashing</u></a></li>
+<li><a href="https://common-error.techidaily.com/tactics-for-modifying-and-understanding-your-companys-windows-preferences/"><u>Tactics for Modifying and Understanding Your Company's Windows Preferences</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-disappearing-touchpad-cursors-on-windows-11/"><u>The Ultimate Fix for Disappearing Touchpad Cursors on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-it-guide-for-your-airpods-and-windows-11-connection-problems-insider-advice/"><u>The Ultimate Fix-It Guide for Your AirPods and Windows 11 Connection Problems - Insider Advice</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-resolving-side-by-side-assembly-errors-in-windows-10-systems-diy/"><u>Troubleshooting & Resolving Side-by-Side Assembly Errors in Windows 10 Systems [DIY]</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-fixing-non-functional-number-keys-on-your-keyboard/"><u>Troubleshooting Steps: Fixing Non-Functional Number Keys on Your Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/white-screen-on-laptop-uncover-effective-troubleshooting-steps-now/"><u>White Screen on Laptop? Uncover Effective Troubleshooting Steps Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204309233-wireless-mouse-stops-working-randomly-fix-it-in-windows-11-and-windows-10-with-these-tips/"><u>Wireless Mouse Stops Working Randomly? Fix It in Windows 11 and Windows 10 With These Tips</u></a></li>
 </ul></div>
 

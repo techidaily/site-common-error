@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Repairing Damaged Registry and System Files in Windows 11"
-date: 2024-09-10T03:18:06.023Z
-updated: 2024-09-15T08:04:22.356Z
+date: 2024-10-15T20:02:11.120Z
+updated: 2024-10-18T21:53:05.154Z
 tags:
   - win11
   - win10
@@ -51,10 +51,16 @@ the picture was taken by: Article\_86
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run a virus scan
@@ -76,10 +82,10 @@ the picture was taken by: Article\_86
 3. Click every blue button to disable any extension listed in the panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/chrom2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Relaunch Chrome to take effect.
@@ -94,15 +100,16 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **History** \> **History** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 3. In the open window, click **Clear browsing data** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
-4. Click **Clear data** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
+4. Click **Clear data** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
@@ -110,10 +117,10 @@ the picture was taken by: Article\_86
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Reset Google Chrome to default settings
@@ -124,16 +131,17 @@ the picture was taken by: Article\_86
 2. Hit the three dots button in the upper right corner, then click **Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/5.10-2.jpg)
 3. Scroll down to the bottom and click **Advanced** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
 5. Click **Reset settings** to reset Google Chrome.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.4.jpg)
 6. Relaunch Chrome to take effect.
@@ -173,5 +181,26 @@ Spam emails may carry the form of download links or a file attachment.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fixed-error-orglwjgllwjglexception-pixel-format-not-accelerated/"><u>[Fixed] Error: org.lwjgl.LWJGLException: Pixel Format Not Accelerated</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enable-quiet-youtube-bgplay-for-iphone-and-android/"><u>[Updated] 2024 Approved Enable Quiet YouTube BGPlay for iPhone & Android</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-power-of-precision-crafting-effective-video-titles/"><u>[Updated] In 2024, The Power of Precision Crafting Effective Video Titles</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ultra-high-definition-capture-ideal-apps-reviewed/"><u>[Updated] Ultra-High Definition Capture Ideal Apps Reviewed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/audio-callback-sensor-for-iphone-x2-24-for-2024/"><u>Audio Callback Sensor for iPhone X2 '24 for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/como-migrar-archivos-de-windows-10-a-windows-11-sin-problemas-tres-metodos-sencillos/"><u>Cómo Migrar Archivos De Windows 10 a Windows 11 Sin Problemas: Tres Métodos Sencillos</u></a></li>
+<li><a href="https://common-error.techidaily.com/easily-fix-a-unresponsive-dns-server-with-these-4-steps/"><u>Easily Fix a Unresponsive DNS Server with These 4 Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-optimize-desktop-window-managers-performance-a-guide-to-lowering-gpu-usage-in-windows-1011/"><u>How to Optimize Desktop Window Manager's Performance: A Guide to Lowering GPU Usage in Windows 10/11</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-or-download-new-epson-scanner-software-drivers/"><u>How to Update or Download New Epson Scanner Software Drivers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-simplified-approach-to-overhauling-facebook-photo-background/"><u>In 2024, Simplified Approach to Overhauling Facebook Photo Background</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-skys-dynamic-range-showcase-websites-ranked-1-10/"><u>In 2024, Sky's Dynamic Range Showcase - Websites Ranked 1-10</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-huawei-p20-pro-analysis-impressive-photography-capabilities-of-an-excellent-device/"><u>In-Depth Huawei P20 Pro Analysis: Impressive Photography Capabilities of an Excellent Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-reactivating-your-screens-night-light-feature-on-windows/"><u>Solution Guide: Reactivating Your Screen's Night Light Feature on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-restoring-functionality-of-your-hp-laptops-camera-in-windows-10/"><u>Step-by-Step Solution: Restoring Functionality of Your HP Laptop's Camera in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-overcome-update-error-0xc1900208-in-windows-11/"><u>Step-by-Step Solutions to Overcome Update Error 0xC1900208 in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-windows-10-laptops-that-wont-charge-despite-being-plugged-in/"><u>The Ultimate Fix for Windows 10 Laptops That Won't Charge Despite Being Plugged In</u></a></li>
+<li><a href="https://common-error.techidaily.com/wheel-alignment-keep-your-wheels-properly-aligned-to-reduce-undue-stress-on-suspension-components-misalignment-can-cause-premature-wear-and-potentially-dama141/"><u>Wheel Alignment: Keep Your Wheels Properly Aligned to Reduce Undue Stress on Suspension Components. Misalignment Can Cause Premature Wear and Potentially Damage Other Parts of the Vehicle if Not Addressed Promptly.</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211145723-windows-11-mic-not-working-heres-what-you-need-to-do-next/"><u>Windows 11 Mic Not Working? Here's What You Need to Do Next!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Getting Your PlayStation Microphone Back Online"
-date: 2024-09-09T16:00:06.391Z
-updated: 2024-09-15T16:00:16.354Z
+date: 2024-10-13T21:49:24.438Z
+updated: 2024-10-18T23:31:18.235Z
 tags:
   - win11
   - win10
@@ -67,9 +67,24 @@ Here’s how to do it:
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -80,35 +95,44 @@ To do so:
 1. Right-click on **the sound icon** on the lower-right of your computer screen, then click **Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
@@ -144,5 +168,24 @@ You can follow the steps below to narrow down and troubleshoot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-selecting-premium-microphones-for-mac-users-reviewed/"><u>[New] Selecting Premium Microphones for Mac Users (Reviewed)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-perfect-your-online-storytelling-top-101-tips-for-facebook-biographies/"><u>[Updated] 2024 Approved Perfect Your Online Storytelling Top 101 Tips for Facebook Biographies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-account-alert-regaining-lost-access-on-facebook/"><u>[Updated] Account Alert! Regaining Lost Access on Facebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-virtual-reality-use-in-healthcare/"><u>[Updated] Virtual Reality Use in Healthcare</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1726227664536-dngpng-movavi/"><u>線上免費DNG至PNG格式改造 - 使用Movavi進行簡便轉換</u></a></li>
+<li><a href="https://fox-access.techidaily.com/fine-tuning-your-videos-shape-with-aspect-ratio-for-2024/"><u>Fine-Tuning Your Video's Shape with Aspect Ratio for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-out-of-a-pinch-unlocking-windows-10-from-continuous-airplane-mode/"><u>Getting Out of a Pinch: Unlocking Windows 10 From Continuous Airplane Mode</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-sony-xperia-1-v-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Sony Xperia 1 V to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-how-to-blur-the-video-background-or-some-parts-of-the-video-you-can-know-how-to-blur-videos-with-some-free-online-tools-in-this-article/"><u>In 2024, How to Blur the Video Background or some Parts of the Video? You Can Know How to Blur Videos with some Free Online Tools in This Article</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-a-non-functional-corsair-keyboard/"><u>Resolved: Troubleshooting a Non-Functional Corsair Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-ensuring-your-hardware-drivers-work-seamlessly-with-windows-update-solved/"><u>Resolved! Ensuring Your Hardware Drivers Work Seamlessly With Windows Update (Solved)</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-installation-issue-fixing-error-code-80240020/"><u>Resolving Windows 10 Installation Issue: Fixing Error Code 80240020</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-update-error-0x8024401c-a-step-by-step-fix-for-windows-11-users/"><u>Resolving Windows Update Error 0X8024401c: A Step-by-Step Fix for Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-steam-updates-a-step-by-step-guide/"><u>Troubleshooting Your Steam Updates: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-resolving-windows-10-failure-to-shut-down-problems-in-under-5-steps/"><u>Troubleshooting: Resolving Windows 10 Failure to Shut Down Problems in Under 5 Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexpected-absence-of-screen-brightness-control/"><u>Unexpected Absence of Screen Brightness Control</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upgrading-to-ios-17-is-it-worth-your-consideration/"><u>Upgrading to iOS 17: Is It Worth Your Consideration?</u></a></li>
+</ul></div>
 

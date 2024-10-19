@@ -1,7 +1,7 @@
 ---
 title: Diagnose & Fix 'Windows Cannot Find Playable Files' In Media Player – Tips & Tricks
-date: 2024-10-05T16:10:57.127Z
-updated: 2024-10-12T17:26:02.247Z
+date: 2024-10-18T01:26:16.522Z
+updated: 2024-10-18T20:33:40.603Z
 tags:
   - win11
   - win10
@@ -72,6 +72,19 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 ``
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Re-register the ExplorerFrame.dll file
 
 ``
@@ -81,18 +94,18 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
  1) Press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  +**X** key together, then click**Command Prompt(Admin)** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `` Click **Yes**  when prompted by User Account Control.
 
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/5-17.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ``
 
@@ -103,6 +116,13 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 ``
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/6-14.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -124,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/3-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ``
 
 ``
@@ -139,28 +152,34 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Open the app again to see if it goes fine.
 
 ``
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Set Windows Photo Viewer as a default image viewer
 
  Note: If Class not registered error occur when you open the photo app, try to set Windows Photo Viewer as a default image viewer to fix the error.
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/02/win-key-3.png)**  \+ **I**  key at the same time to open the Windows**Setting** window.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ``
 
@@ -198,13 +217,6 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Open the app again to see if it goes fine.
 
 That’s it!
@@ -232,22 +244,20 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-there-is-a-problem-with-this-windows-installer-package/"><u>[FIXED] There Is a Problem with This Windows Installer Package</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-high-definition-vision-recorder-devices-for-2024/"><u>[New] High Definition Vision Recorder Devices for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-integrating-subtitles-into-your-online-social-videography-efforts/"><u>[New] In 2024, Integrating Subtitles Into Your Online Social Videography Efforts</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-selecting-superior-webcams-on-windows-10/"><u>[New] In 2024, Selecting Superior Webcams on Windows 10</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-increase-your-influence-on-instagram-5-proven-methods-with-case-studies/"><u>[Updated] In 2024, Increase Your Influence on Instagram 5 Proven Methods with Case Studies</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-ultimate-guide-to-top-video-recorders-for-2024/"><u>[Updated] Ultimate Guide to Top Video Recorders for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-reel-your-audience-in-creating-dynamic-reaction-content-on-youtube-2-pov-technique/"><u>2024 Approved Reel Your Audience In Creating Dynamic Reaction Content on YouTube (2 POV Technique)</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-ways-to-resolve-camera-not-working-problem-with-dell-pcs-windows/"><u>Effective Ways to Resolve Camera Not Working Problem with Dell PCs (Windows)</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-optimize-and-reduce-svchostexe-cpu-usage-on-windows-11-the-ultimate-fixes/"><u>Expert Tips to Optimize and Reduce svchost.exe CPU Usage on Windows 11 - The Ultimate Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-failed-write-operations-to-zero-point-0x-assigned-memory-region/"><u>Fixing Failed Write Operations to Zero-Point (0X) Assigned Memory Region</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/master-the-basics-of-asl-with-these-16-fantastic-free-learning-sites/"><u>Master the Basics of ASL with These 16 Fantastic Free Learning Sites</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-windows-11-reducing-ms-compatibility-telemetrys-impact-on-hard-drive-space/"><u>Optimizing Windows 11: Reducing MS Compatibility Telemetry's Impact on Hard Drive Space</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-sluggish-keyboard-responses-a-step-by-step-guide/"><u>Quick Solutions for Sluggish Keyboard Responses: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-issue-when-logitech-keyboard-not-detected-by-windows-11/"><u>Solving the Issue When Logitech Keyboard Not Detected by Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-windows-update-problem-fixing-error-code-0x802n4002e/"><u>Solving the Windows Update Problem: Fixing Error Code 0X802n4002E</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-fixes-for-rediscovered-files-in-windows/"><u>The Ultimate Guide: Fixes for Rediscovered Files in Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-how-to-screen-record-on-android/"><u>[New] In 2024, How to Screen Record on Android</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-right-tools-for-your-youtube-journey-camera-lenses-explained/"><u>[New] The Right Tools For Your YouTube Journey - Camera Lenses Explained</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/adaptive-speaking-methods-in-free-fire-for-2024/"><u>Adaptive Speaking Methods in Free Fire for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/best-smartphone-video-recording-assistants/"><u>Best Smartphone Video Recording Assistants</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-handling-missing-d3dsvmdll-files-on-your-pc/"><u>Comprehensive Fixes: Handling Missing d3dsvm.dll Files on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/defeat-echo-annoyances-on-your-pcs-discord-channels-with-this-expert-2024-guide/"><u>Defeat Echo Annoyances on Your PC's Discord Channels with This Expert 2024 Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-streamline-your-experience-with-file-explorer-on-windows-11/"><u>Expert Tips to Streamline Your Experience with File Explorer on Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-poco-x5-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Poco X5 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/no-sd-card-detection-resolve-it-now/"><u>No SD Card Detection? Resolve It Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-fixing-the-issue-when-your-igfx-modules-fail/"><u>Solution Found! Fixing the Issue When Your iGFX Modules Fail</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-path-to-link-integration-on-instagrams-social-stage-for-2024/"><u>The Ultimate Path to Link Integration on Instagram's Social Stage for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-monster-hunting-disconnections-on-pc/"><u>Troubleshooting and Fixing Monster Hunting Disconnections on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-non-responsive-google-chrome-browser/"><u>Troubleshooting Steps for Non-Responsive Google Chrome Browser</u></a></li>
 </ul></div>
 

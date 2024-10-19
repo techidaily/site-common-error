@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Fixing Windows System Crashes: Dealing with Blue Screen Error 0XC00eby."
-date: 2024-10-10T01:49:47.424Z
-updated: 2024-10-12T22:36:56.882Z
+date: 2024-10-17T03:36:39.389Z
+updated: 2024-10-19T00:23:22.785Z
 tags:
   - win11
   - win10
@@ -47,19 +47,6 @@ thumbnail: https://thmb.techidaily.com/373e941188186d13632219da3e47f7abbbca0219b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap38-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap32-3.jpg)
@@ -67,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/373e941188186d13632219da3e47f7abbbca0219b
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable your proxy
 
@@ -85,24 +65,38 @@ thumbnail: https://thmb.techidaily.com/373e941188186d13632219da3e47f7abbbca0219b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap43.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Go to “Connections” tab and click**LAN Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap35.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Check the box which says “Automatically detect settings” and uncheck the box under**Proxy server** . Then click the**OK** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap36-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Go check the Windows Store app.  
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Run the Windows Update Troubleshooter
 
@@ -115,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/373e941188186d13632219da3e47f7abbbca0219b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap37-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Under**Troubleshoot** tab click**Windows Update** and then click**Run the troubleshooter** .
@@ -128,6 +122,13 @@ thumbnail: https://thmb.techidaily.com/373e941188186d13632219da3e47f7abbbca0219b
 **4)** After finishing the troubleshooting process, restart your computer and check the error is fixed or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update Windows
 
@@ -143,22 +144,16 @@ thumbnail: https://thmb.techidaily.com/373e941188186d13632219da3e47f7abbbca0219b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap83.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Follow the instructions and then check whether the error is fixed.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Clear Windows Store Cache
 
@@ -168,25 +163,11 @@ thumbnail: https://thmb.techidaily.com/373e941188186d13632219da3e47f7abbbca0219b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap46-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** A command prompt window will open and then close automatically. After that, you’ll see a confirmation message shows up saying: “The cache for the Store was cleared. You can now browse the Store for apps”.
 
  Check to see if the 0x80072efd error is resolved and the Windows Store app is working normally.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Rename the software distribution folder
 
@@ -222,6 +203,14 @@ Now check to see if your Windows Store is working normally.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -253,22 +242,16 @@ Now check to see if your Windows Store is working normally.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/xpanding-digital-presence-stream-to-youtube-plus-additional-platforms-for-2024/"><u>[New] Expanding Digital Presence Stream to YouTube + Additional Platforms for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-fullscreen-innovations-unveiled-in-adobe-premiere-pro/"><u>[New] Fullscreen Innovations Unveiled in Adobe Premiere Pro</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-ahead-of-the-curve-professional-360-cams-reviewed-2023-edition/"><u>[Updated] 2024 Approved Ahead of the Curve Professional 360° Cams Reviewed - 2023 Edition</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-free-profile-imagery-for-youtubers/"><u>[Updated] In 2024, Free Profile Imagery for YouTubers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-instantaneous-windows-document-reviewing/"><u>2024 Approved Instantaneous Windows Document Reviewing</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206534915-arrow-keys-not-working-check-out-these-effective-repair-strategies/"><u>Arrow Keys Not Working? Check Out These Effective Repair Strategies!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-pioneer-bdr-xd05b-dvd-writer-examining-its-flaws-and-features/"><u>Comprehensive Evaluation of Pioneer BDR-XD05B DVD Writer: Examining Its Flaws and Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-strategies-to-overcome-driver-power-interruption-on-pcs-running-windows/"><u>Comprehensive Strategies to Overcome Driver Power Interruption on PCs Running Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficient-methods-to-address-and-fix-hamachi-service-stopped-alerts/"><u>Efficient Methods to Address and Fix 'Hamachi Service Stopped' Alerts</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-critical-failures-and-fatal-mistakes-in-call-of-duty-black-ops-4/"><u>How to Resolve Critical Failures & Fatal Mistakes in Call of Duty: Black Ops 4</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-10-bluetooth-not-connecting-expert-tips-and-fixes/"><u>How to Resolve Windows 10 Bluetooth Not Connecting: Expert Tips & Fixes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone 11 Pro Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-14-pro-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 14 Pro in Lost Mode</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-for-resolving-constant-reboots-on-windows-11-a-step-by-step-guide/"><u>Quick Fixes for Resolving Constant Reboots on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-resource-limitations-that-prevent-completion-of-services/"><u>Resolving Resource Limitations That Prevent Completion of Services</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-binkw32dll-not-found-issue-a-step-by-step-guide/"><u>Resolving the binkw32.dll Not Found Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-x50iplus-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from X50i+</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nraveling-youtubes-platform-for-content-crafting-for-2024/"><u>[New] Unraveling YouTube’s Platform for Content Crafting for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-vdq-quickscreen-recorder-report-in-depth-analysis-for-2024/"><u>[Updated] VDQ QuickScreen Recorder Report In-Depth Analysis for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/craftsmanship-hub-top-after-effects-template-deals-for-2024/"><u>Craftsmanship Hub Top After Effects Template Deals for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-proplus-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 13 Pro+ 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/key-strategies-for-gaining-facebooks-top-marker-for-2024/"><u>Key Strategies for Gaining Facebook's Top Marker for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/remedy-poor-connection-performance-between-epson-scan-and-printer/"><u>Remedy Poor Connection Performance Between Epson Scan & Printer</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-addressing-the-issue-with-0x-referenced-memory-location-0x-writing-failure/"><u>Resolved: Addressing the Issue with 0X Referenced Memory Location (0X) - Writing Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10-installation-error-code-802-step-by-step-guide/"><u>Resolving Windows 10 Installation Error: Code 802# - Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-and-repair-bluetooth-functionality-in-windows-11-instant-fixes/"><u>Restore and Repair Bluetooth Functionality in Windows 11 - Instant Fixes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-videos-with-magix-video-pro-x-for-2024/"><u>Transform Your Videos with Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-laptop-mousepad-issues-in-windows-operating-systems-windows-1187/"><u>Troubleshooting Laptop Mousepad Issues in Windows Operating Systems (Windows 11/8/7)</u></a></li>
 </ul></div>
 

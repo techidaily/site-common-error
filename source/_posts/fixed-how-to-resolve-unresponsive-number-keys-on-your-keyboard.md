@@ -1,7 +1,7 @@
 ---
 title: "Fixed: How to Resolve Unresponsive Number Keys on Your Keyboard"
-date: 2024-10-05T18:26:08.902Z
-updated: 2024-10-12T16:58:05.820Z
+date: 2024-10-16T17:29:39.935Z
+updated: 2024-10-18T22:10:58.478Z
 tags:
   - win11
   - win10
@@ -47,31 +47,11 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -92,10 +72,10 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
@@ -103,6 +83,13 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -122,18 +109,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
@@ -157,10 +144,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
@@ -170,6 +157,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -205,19 +199,18 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-channel-name-wizardry-brainstorm-and-create/"><u>[New] Channel Name Wizardry Brainstorm & Create</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-secrets-of-the-pros-screening-your-switch-games/"><u>[New] Secrets of the Pros Screening Your Switch Games</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-y17s-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo Y17s</u></a></li>
-<li><a href="https://common-error.techidaily.com/common-fixes-for-non-responsive-night-light-setting-in-microsofts-latest-os/"><u>Common Fixes for Non-Responsive 'Night Light' Setting in Microsoft's Latest OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-fix-for-event-id-1000-error-on-windows-versions-7-to-10/"><u>Comprehensive Fix for Event ID 1000 Error on Windows Versions: 7 to 10</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-11r-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-overcoming-the-windows-11-cant-be-installed-issue-with-error-code-80240020-solved/"><u>Guide to Overcoming the 'Windows 11 Can't Be Installed' Issue with Error Code 80240020 [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206395864-how-to-get-your-windows-11-touchpad-working-perfectly-again/"><u>How To Get Your Windows 11 Touchpad Working Perfectly Again.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-ordinary-to-outstanding-mastering-instagram-unboxing-creation/"><u>In 2024, From Ordinary to Outstanding Mastering Instagram Unboxing Creation</u></a></li>
-<li><a href="https://techidaily.com/is-your-xiaomi-redmi-note-12r-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi Note 12R working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/spectre-3-clash-mirage-4-enters-the-fray/"><u>Spectre 3 Clash Mirage 4 Enters the Fray</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-the-container-objects-not-listed-error-in-windows-11/"><u>Step-by-Step Fixes for the 'Container Objects Not Listed' Error in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/touchpad-troubles-learn-how-to-restore-scrolling-functionality-effortlessly/"><u>Touchpad Troubles? Learn How to Restore Scrolling Functionality Effortlessly</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719151235755-your-daily-soundtrack-via-spotifys-mini-player-facebook-style/"><u>Your Daily Soundtrack via Spotify's Mini Player, Facebook Style!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-add-motion-blur-effect-to-photos-in-photoshop/"><u>[Updated] In 2024, Add Motion Blur Effect to Photos in Photoshop</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-ultimate-list-of-whatsapp-secrets-and-hacks-for-2024/"><u>[Updated] The Ultimate List of WhatsApp Secrets and Hacks for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-superior-sound-recordings-minus-the-mic-for-2024/"><u>[Updated] Unlocking Superior Sound Recordings Minus the Mic for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtubes-next-gen-streaming-made-easy-with-obs-tutorial-for-2024/"><u>[Updated] Youtube's Next Gen Streaming Made Easy with OBS Tutorial for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/edit-videos-for-free-top-10-online-editors-with-no-watermark-restrictions-for-2024/"><u>Edit Videos for Free Top 10 Online Editors with No Watermark Restrictions for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016931143-game-audio-mastery-achieved-on-discord-a-comprehensive-solution/"><u>Game Audio Mastery Achieved on Discord - A Comprehensive Solution!</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-smooth-playthroughs-overcoming-fallout-4-lag-challenges/"><u>Mastering Smooth Playthroughs: Overcoming Fallout 4 Lag Challenges</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/izing-video-visibility-on-youtube-through-lighting-for-2024/"><u>Maximizing Video Visibility on YouTube Through Lighting for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/quick-methods-syncing-ios-images-and-movies-to-windows/"><u>Quick Methods Syncing iOS Images & Movies to Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixes-for-steams-missing-files-access-issue/"><u>Resolved: Fixes for Steam's Missing Files Access Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-insecure-connection-alerts-in-mozilla-firefox-steps-and-tips/"><u>Troubleshooting Insecure Connection Alerts in Mozilla Firefox Steps and Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-hp-laptop-webcam-issues-on-windows-11/"><u>Troubleshooting Tips: Resolving HP Laptop Webcam Issues on Windows 11</u></a></li>
 </ul></div>
 

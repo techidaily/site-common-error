@@ -1,7 +1,7 @@
 ---
 title: Custom Settings Reactivated – Overcame Non-Responsive Error
-date: 2024-09-12T23:40:14.345Z
-updated: 2024-09-15T07:09:55.437Z
+date: 2024-10-11T17:59:47.866Z
+updated: 2024-10-18T21:15:39.621Z
 tags:
   - win11
   - win10
@@ -42,15 +42,38 @@ It’s possible that too many people connect to the Destiny servers during the t
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Disable DHCP for your connection
 
 If you’re connecting via WiFi, you’re more likely to have the servers not available error in Destiny 2\. So you can try disabling DHCP in your computer to fix your problem. To do so:
 
 1. Right click on the**network** **icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Click**Change adapter** **settings** on the left.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connection** you’re currently using, and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
@@ -69,26 +92,27 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0540f4ac.jpg)  
  You’ll need to repeat this step for any other connections that you’re not using.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Now your computer will only use the connection via WiFi. Restart the game and see if it works.
 Still no luck? Ok, there’s one more thing to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your network card driver
 
@@ -100,13 +124,6 @@ A missing or outdated network card driver will cause connection issues in your c
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Open Destiny 2 and see the servers not available error has been removed.
 
@@ -130,5 +147,21 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-melodic-selections-for-video-editing/"><u>[New] Exclusive Melodic Selections for Video Editing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-itunes-recording-hacks-for-enhanced-videos/"><u>[New] ITunes Recording Hacks for Enhanced Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nappy-fortnite-visuals-in-no-time-for-2024/"><u>[New] Snappy Fortnite Visuals in No Time for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-unlock-potential-top-10-free-easy-mac-screen-recorders/"><u>[Updated] 2024 Approved Unlock Potential Top 10 Free, Easy Mac Screen Recorders</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/becoming-an-srt-creation-virtuoso-a-complete-manual-for-2024/"><u>Becoming an SRT Creation Virtuoso A Complete Manual for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-addressing-video-drivers-restart-issues-successfully/"><u>Comprehensive Guide to Addressing Video Drivers Restart Issues Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-non-functional-volume-buttons-in-windows-10-fixed/"><u>How to Fix Non-Functional Volume Buttons in Windows 10 [FIXED]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-apple-vs-android-the-face-id-and-galaxy-recognition-race/"><u>In 2024, Apple Vs. Android The Face ID and Galaxy Recognition Race</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/sion-problem-solving-for-youtube-short-success/"><u>Precision Problem-Solving for YouTube Short Success</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-non-responsive-right-click-in-windows-10-a-step-by-step-guide/"><u>Resolving Non-Responsive Right Click in Windows 10 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-correcting-error-0x80240017-during-windows-updates/"><u>Step-by-Step Solutions for Correcting Error 0X80240017 During Windows Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208426611-troubleshoot-and-solve-the-0x887a0006-glitch-in-no-time/"><u>Troubleshoot and Solve the 0X887A0006 Glitch in No Time</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-issues-in-windows-solutions-for-audio-pop-ups/"><u>Troubleshooting Sound Issues in Windows - Solutions for Audio Pop-Ups</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-dead-laptop-mousepads-on-windows-10-8-and-7-expert-hacks-unveiled/"><u>Winning the Battle Against Dead Laptop Mousepads on Windows 10, 8 & 7 - Expert Hacks Unveiled</u></a></li>
+</ul></div>
 

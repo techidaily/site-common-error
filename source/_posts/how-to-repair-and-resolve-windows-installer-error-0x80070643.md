@@ -1,7 +1,7 @@
 ---
 title: How to Repair and Resolve Windows Installer Error 0X80070643
-date: 2024-10-09T02:25:23.566Z
-updated: 2024-10-12T21:17:27.783Z
+date: 2024-10-16T01:55:50.210Z
+updated: 2024-10-18T20:03:09.217Z
 tags:
   - win11
   - win10
@@ -76,10 +76,10 @@ When it finish rebooting, run System Restore again.
   
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Fix Two. Rename the WindowsApps folder in WinRE**
@@ -96,10 +96,10 @@ Then click **Update & security**.
   
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 b)  
@@ -110,16 +110,10 @@ Then scroll down on the right side and click **Restart now** under **Advanced st
   
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 c)  
@@ -129,10 +123,10 @@ Click**Troubleshoot** \> **Advanced** \>**Command Prompt**.
   
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2)  
@@ -165,19 +159,15 @@ That’s it!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-downloading-youtube-subtitled-content-in-3-ways-for-2024/"><u>[New] Downloading YouTube Subtitled Content in 3 Ways for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-years-best-fb-film-grabs-ranked-8-of-eight-for-2024/"><u>[Updated] Year's Best FB Film Grabs Ranked #8 of Eight for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvdmac-mac-mac/"><u>DVDコピーツール・Mac用: 変換してMacに転送が簡単な無料ソフト - Macユーザー必見!</u></a></li>
-<li><a href="https://common-error.techidaily.com/eradicating-input-lag-for-a-smoother-experience-with-windows-11-computers/"><u>Eradicating Input Lag for a Smoother Experience with Windows 11 Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-solutions-for-fixing-werfaultexe-errors-in-windows/"><u>Essential Solutions for Fixing werfault.exe Errors in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-this-platform-is-not-supported-while-installing-intel-serial-io-driver/"><u>Fix This Platform Is Not Supported. While Installing Intel Serial IO Driver</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/getting-started-with-langchain-large-language-models-the-starters-handbook/"><u>Getting Started with LangChain Large Language Models: The Starter's Handbook</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-enable-miracast-streaming-despite-errors-a-step-by-step-guide/"><u>How to Enable Miracast Streaming Despite Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-screenshot-on-mac-5-simple-ways-for-2024/"><u>How to Screenshot on Mac - 5 Simple Ways for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-google-pixel-7a-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Google Pixel 7a Phones with/without a PC</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-optimal-choices-for-endless-data-preservation/"><u>In 2024, Optimal Choices for Endless Data Preservation</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-webcam-video-pros-fast-effective-filming-steps/"><u>In 2024, Webcam Video Pros Fast, Effective Filming Steps</u></a></li>
-<li><a href="https://common-error.techidaily.com/missing-light-adjustment-feature-on-windows-surprise/"><u>Missing Light Adjustment Feature on Windows Surprise</u></a></li>
-<li><a href="https://common-error.techidaily.com/touchpad-lag-or-no-response-heres-how-you-can-resolve-it/"><u>Touchpad Lag or No Response? Here's How You Can Resolve It</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-choosing-the-best-screen-capture-app-obs-vs-fraps-for-2024/"><u>[Updated] Choosing the Best Screen Capture App – OBS vs Fraps for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-exploring-adsense-revenue-streams-on-youtube-for-every-1k-watcher/"><u>[Updated] In 2024, Exploring AdSense Revenue Streams on YouTube for Every 1K Watcher</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/best-12-ai-voice-cloning-tools-online-and-offline/"><u>Best 12 AI Voice Cloning Tools Online & Offline</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/dive-into-rank-tracker-solutions-for-peak-success-on-youtube-for-2024/"><u>Deep Dive Into Rank Tracker Solutions for Peak Success on YouTube for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fix-for-error-0x8007002-during-windows-updates-easy-steps-inside/"><u>Effortless Fix for Error 0X80070#02 During Windows Updates | Easy Steps Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-correct-error-code-0x80072f8f-on-your-windows-operating-system/"><u>Expert Tips to Correct Error Code 0X80072F8F on Your Windows Operating System</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-x90s-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo X90S to iPod | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-pcs-camera-malfunction-fixing-error-code-0xa00f4292-on-windows/"><u>Resolve Your PC's Camera Malfunction: Fixing Error Code 0XA00F4292 on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-common-fixes-for-my-blocky-friends-lan-not-working-situation/"><u>Solved: Common Fixes for My Blocky Friends' LAN Not Working Situation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-iphone-8-plus-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile iPhone 8 Plus Before the Plan Expires</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimize MsMpEng.exe for Better Performance: Reduce High CPU Consumption in Windows 11 [SOLUTION GUIDE]"
-date: 2024-09-14T16:01:23.189Z
-updated: 2024-09-15T16:01:27.545Z
+date: 2024-10-13T00:20:50.858Z
+updated: 2024-10-18T19:45:23.727Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Disable fast startup
 
 **Fast startup**  is a new feature in Windows 10 that helps our computer restart faster . But sometimes it can interfere with the shutdown process, hence the**computer-not-shutting-down** problem. Here’s how to disable**fast startup** :
@@ -64,8 +71,24 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click **Choose what the power buttons do** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a3badd41c.jpg)
 3. Click **Change settings that are currently unavailable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a400297e5.jpg)
 4. Make sure**the box** before**Turn on fast startup (Recommended)** is**unchecked** , then click**Save changes** and close the window.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18a54d8f96d.jpg)
 5. Hopefully **computer won’t shut down** issue has been solved. If the problem still persists, move on to**Fix 3** , below.
 
@@ -80,10 +103,10 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 2. Click**Update & Security** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cb374f90f.jpg)
@@ -98,13 +121,6 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Run Windows Update Troubleshooter
 
  If all else fails, you can run **Windows update Troubleshooter** to detect and hopefully fix the problem. To do so:
@@ -112,15 +128,16 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
 1. On your keyboard, press **the Windows logo key** and**R** at the same time, then copy & paste**control.exe /name Microsoft.Troubleshooting**  into the box and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cf9a8ee61.png)
 2. Click on**Windows Update** \>**Run the troubleshooter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
-3. Follow the on-screen instructions to fix any lurking problems.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b18cff93cfa2.jpg)
+3. Follow the on-screen instructions to fix any lurking problems.
 
 4. Shut down your computer once again and see if the **computer won’t shut down** problem gets fixed by now.
 
@@ -143,5 +160,23 @@ Having a**computer won’t shut down** problem is like having a baby that refuse
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-address-and-overcome-a-youtube-content-id-issue-for-2024/"><u>[New] How to Address and Overcome a YouTube Content ID Issue for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ultimate-guide-to-premium-hd-screen-capture-gear/"><u>[New] In 2024, Ultimate Guide to Premium HD Screen Capture Gear</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pioneering-brands-spotlight-on-top-9-free-youtube-logos-craftors/"><u>[Updated] Pioneering Brands Spotlight on Top 9 Free YouTube Logos Craftors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/compact-powerhouse-explore-the-new-minisforum-mini-pc-with-amd-ryzen-9-7945hx-and-nvidia-rtx-7600m-graphics/"><u>Compact Powerhouse: Explore the New Minisforum Mini PC with AMD Ryzen 9 7945HX & NVIDIA RTX 7600M Graphics</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-the-annoying-not-detected-warning-on-your-usb-devices/"><u>Eliminate the Annoying 'Not Detected' Warning on Your USB Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-error-code-0x80071ac3-how-to-resolve-volume-is-dirty-issues/"><u>Fixing Error Code 0X80071AC3: How to Resolve 'Volume Is Dirty' Issues</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/vids-to-dollars-navigating-youtubes-monetization-landscape-for-2024/"><u>From Vids to Dollars Navigating YouTube's Monetization Landscape for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-pair-your-gadgets-with-windows-ebox-11-expert-tips/"><u>How to Successfully Pair Your Gadgets with Windows Ebox 11: Expert Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-a-frozen-hdd-in-windows-11-expert-tips-for-disk-health-restoration/"><u>How to Troubleshoot a Frozen HDD in Windows 11: Expert Tips for Disk Health Restoration</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-motorola-edge-40-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Motorola Edge 40 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-chatgpt-safe-6-cybersecurity-risks-of-openais-chatbot/"><u>Is ChatGPT Safe? 6 Cybersecurity Risks of OpenAI's Chatbot</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-light-failure-solutions-on-macoswindows-systems-quick-guide/"><u>Keyboard Light Failure Solutions on macOS/Windows Systems - Quick Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/shockwave-flash-and-google-chrome-solving-the-crashing-problem-once-and-for-all/"><u>Shockwave Flash and Google Chrome - Solving the Crashing Problem Once and For All</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-iastordatasvc-high-cpu-consumption-issue-in-windows-10/"><u>Solving the IAStorDataSvc High CPU Consumption Issue in Windows 10</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-avchd-video-editing-the-top-5-software-solutions/"><u>Updated 2024 Approved AVCHD Video Editing The Top 5 Software Solutions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-best-video-to-live-photos-apps/"><u>Updated In 2024, Best Video to Live Photos Apps</u></a></li>
+</ul></div>
 

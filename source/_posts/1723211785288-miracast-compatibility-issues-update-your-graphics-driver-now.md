@@ -1,7 +1,7 @@
 ---
 title: Miracast Compatibility Issues? Update Your Graphics Driver Now!
-date: 2024-10-09T00:31:23.348Z
-updated: 2024-10-12T23:39:06.068Z
+date: 2024-10-15T04:04:41.879Z
+updated: 2024-10-18T23:00:23.326Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Update graphics card driver
 
  The LiveKernelEvent 144 error is, in many cases, related to a faulty or missing graphics card driver. So making sure that you have the latest and the correct graphics card driver installed is one of the first things you should do.
@@ -59,25 +66,18 @@ thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-23.png)
 3. Tick the box for**Attempt to remove the driver for this device** and click**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Repeat the same to remove the driver for your other display card if you have one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Then update your graphics card driver.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -91,6 +91,13 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -103,13 +110,6 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -117,13 +117,6 @@ To do so, first visit the website of your GPU manufacturer:
  Then see if the LiveKernelEvent with code 144 error still remains. If the problem still persists, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Check USB peripherals
 
@@ -139,10 +132,33 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-14.png)
 5. Right-click one of the grey-out devices you see here and select**Uninstall.**  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-15.png)
 6. Click**Uninstall** to confirm.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-16.png)
 7. Repeat the same to remove all the other grey-out devices you see here.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Restart your computer afterward.
 9. Then plug the USB devices back into your computer one by one, preferably into the USB outputs on your computer rather than USB hubs or docks.
 10. Pay extra attention to any computer glitches you notice with your computer after plugging each USB device back in.
@@ -153,6 +169,13 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Make sure the PSU works well for your machine
 
  The LiveKernelEvent with code 144 error can sometimes relate to your insufficient power supply for all your hardware components, especially when the LiveKernelEvent 144 is seen after your computer shuts down unexpectedly or freezes whenever you’re running resource-hungry programs.
@@ -160,13 +183,6 @@ To do so, first visit the website of your GPU manufacturer:
  Here’s[**a post from Dell**](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fkbdoc%2Fen-us%2F000125185%2Fhow-to-troubleshoot-the-power-supply-unit-psu-of-a-dell-desktop-computer) with more information about the power supply if you’re interested in knowing more and seeing how you can test your PSU.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Update your computer BIOS and system firmware
 
@@ -196,13 +212,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Consider a system reinstall
 
  If the LiveKernelEvent with code 144 error still remains after all the above, the next thing you should consider is a Windows reinstall, given the time and energy spent already.
@@ -214,13 +223,6 @@ To do so, first visit the website of your GPU manufacturer:
 Then see if the LiveKernelEvent 144 error is still seen.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Seek help from a hardware technician
 
@@ -249,20 +251,16 @@ Then see if the LiveKernelEvent 144 error is still seen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-behind-the-screen-a-strategic-approach-for-secret-youtube-videos/"><u>[New] 2024 Approved Behind the Screen A Strategic Approach for Secret YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-elevate-your-fb-profile-with-these-ten-effective-tactics-for-2024/"><u>[New] Elevate Your FB Profile with These Ten Effective Tactics for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-securing-your-speech-on-the-ipad/"><u>[Updated] Securing Your Speech on the iPad</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-strategies-for-effective-whiteboard-interaction-during-online-engagement-across-multiple-systems/"><u>2024 Approved Strategies for Effective Whiteboard Interaction During Online Engagement Across Multiple Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-top-audio-tools-for-professional-podcast-creators/"><u>2024 Approved Top Audio Tools for Professional Podcast Creators</u></a></li>
-<li><a href="https://discover-community.techidaily.com/1725287293385-dvd/"><u>如何为DVD添加字幕，以及自定义字幕方法概述</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-stuck-on-configuration-quick-tips-for-a-smooth-windows-installation/"><u>Bypass 'Stuck on Configuration' - Quick Tips for a Smooth Windows Installation</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-x-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone X Without Passcode Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-excessive-msmpengexe-cpu-consumption-in-windows-11-computers/"><u>How to Fix Excessive MsMpEng.exe CPU Consumption in Windows 11 Computers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/optimize-your-posting-select-from-this-roundup-of-top-8-planners/"><u>Optimize Your Posting Select From This Roundup of Top 8 Planners</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-minecrafts-error-code-5-a-step-by-step-guide/"><u>Resolving Minecraft's Error Code ^5: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-successfully-restoring-your-keyboard-settings/"><u>Step-by-Step Guide: Successfully Restoring Your Keyboard Settings</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-damaged-files-in-windows-11/"><u>Troubleshooting and Repairing Damaged Files in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210484870-troubleshooting-your-battleye-installation-woes-now-fixed/"><u>Troubleshooting Your BattlEye Installation Woes - Now Fixed</u></a></li>
-<li><a href="https://common-error.techidaily.com/update-your-tech-resolving-failed-to-initialize-renderer-with-latest-2021-fixes/"><u>Update Your Tech: Resolving 'Failed to Initialize Renderer' With Latest 2021 Fixes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-cutting-edge-techniques-to-elevate-your-screen-recordings-in-adobe-captive/"><u>[New] In 2024, Cutting-Edge Techniques to Elevate Your Screen Recordings in Adobe Captive</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unveiling-the-hidden-gems-that-challenge-vlc/"><u>[New] Unveiling the Hidden Gems That Challenge VLC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-guide-to-making-an-impression-with-your-apple-podcast-entry/"><u>[Updated] 2024 Approved Guide to Making an Impression with Your Apple Podcast Entry</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-where-to-buy-a-monetized-youtube-channel-a-complete-guide/"><u>[Updated] In 2024, Where to Buy a Monetized YouTube Channel A Complete Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-infinix-note-30-vip-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Infinix Note 30 VIP to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/macssd/"><u>Macへのデータ転送:外部SSD使用ガイド</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-hack-successful-pairing-of-airpods-with-windows-1011-2024-how-to/"><u>The Ultimate Hack: Successful Pairing of AirPods with Windows 10/11 - 2024 How-To</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/thrive-with-1000-new-followers-each-month-for-2024/"><u>Thrive with 1,000 New Followers Each Month for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-correcting-file-access-denied-by-windows/"><u>Troubleshooting Guide for Correcting 'File Access Denied by Windows'</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-success-fix-for-non-responsive-keys-and-typing-malfunctions/"><u>Troubleshooting Success: Fix for Non-Responsive Keys and Typing Malfunctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-recovering-compromised-configuration-data-on-windows-11/"><u>Troubleshooting Tips: Recovering Compromised Configuration Data on Windows 11</u></a></li>
 </ul></div>
 

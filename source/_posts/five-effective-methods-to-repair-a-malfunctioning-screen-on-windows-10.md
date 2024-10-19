@@ -1,7 +1,7 @@
 ---
 title: Five Effective Methods to Repair a Malfunctioning Screen on Windows 10
-date: 2024-10-10T02:24:38.216Z
-updated: 2024-10-12T17:04:21.187Z
+date: 2024-10-14T17:10:36.745Z
+updated: 2024-10-18T22:04:18.967Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/e108c80fe0ffda075f564c0d5802af9b2462fc3f4
 4. **[Repair system files](#repair-system-files)**
 
 * [**Tips: Keyboard maintenance**](#tips)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
 
@@ -74,13 +81,6 @@ If you’re a laptop user, you could follow these steps:
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your keyboard driver
 
  Your letter keys may not be working properly because you’re using the wrong keyboard driver or it’s out of date. You should update your keyboard driver to see if this fixes your keyboard.
@@ -112,10 +112,10 @@ OR
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -124,13 +124,6 @@ OR
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -143,16 +136,24 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -184,24 +185,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-idea-to-impact-top-8-online-courses-for-new-creators/"><u>[Updated] From Idea to Impact Top 8 Online Courses for New Creators</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhance-content-categorization-top-picks-for-the-7-cheapest-youtube-taggification-apps/"><u>[Updated] In 2024, Enhance Content Categorization Top Picks for the 7 Cheapest Youtube Taggification Apps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-transform-ordinary-pictures-into-art-using-pixlr-secrets-for-2024/"><u>[Updated] Transform Ordinary Pictures Into Art Using Pixlr Secrets for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209437630-bypassing-the-welcome-screen-glitch-in-windows-11-quick-fixes/"><u>Bypassing the Welcome Screen Glitch in Windows 11, Quick Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-fixing-windows-10-update-issue-with-error-0x80070541/"><u>Comprehensive Guide: Fixing Windows 10 Update Issue with Error 0X80070541</u></a></li>
-<li><a href="https://common-error.techidaily.com/correcting-common-keyboard-mistakes-for-better-typing-accuracy/"><u>Correcting Common Keyboard Mistakes for Better Typing Accuracy</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embrace-multilingualism-build-connections-in-virtual-reality/"><u>Embrace Multilingualism, Build Connections in Virtual Reality</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-an-unresponsive-aoc-usb-monitor-on-pcs-with-windows-10/"><u>Expert Tips for Fixing an Unresponsive AOC USB Monitor on PCs with Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-error-there-is-a-problem-with-your-games-setup-origin-games/"><u>Fix Error There Is a Problem with Your Game's Setup | Origin Games</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-malfunctioning-keyboard-before-logging-into-windows/"><u>How to Fix a Malfunctioning Keyboard Before Logging Into Windows</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-discovering-the-ins-and-outs-of-youtube-shorts-capital/"><u>In 2024, Discovering the Ins and Outs of YouTube Shorts Capital</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-g54-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Motorola G54 5G Phone Without Password?</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209799322-non-specific-symptoms-like-cough-and-weight-loss-are-common-in-lung-cancer-but-not-diagnostic-on-their-own/"><u>Non-Specific Symptoms Like Cough and Weight Loss Are Common in Lung Cancer but Not Diagnostic on Their Own</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-driver-failure-correcting-set-user-settings/"><u>Resolving 'Driver Failure' - Correcting Set User Settings</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/et-supremacy-essential-hashes-for-accelerated-viewership-growth/"><u>Snippet Supremacy Essential Hashes for Accelerated Viewership Growth</u></a></li>
-<li><a href="https://win-popular.techidaily.com/solucion-inmediata-para-iphone-como-recuperar-imagenes-perdidas-en-su-dispositivo/"><u>Solución Inmediata Para iPhone: Cómo Recuperar Imágenes Perdidas en Su Dispositivo</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-pcs-no-bootable-device-dilemma-step-by-step-fixes/"><u>Solve Your PC's 'No Bootable Device' Dilemma: Step-by-Step Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-the-stutter-start-the-flow-top-9-tactics-to-enhance-video-on-pcs/"><u>Stop the Stutter, Start the Flow: Top 9 Tactics to Enhance Video on PCs</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-essential-process-of-installing-latest-device-drivers-in-windows-10-systems/"><u>The Essential Process of Installing Latest Device Drivers in Windows 10 Systems</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-access-all-areas-steps-for-securing-facebook-live-files/"><u>[New] In 2024, Access All Areas Steps for Securing Facebook Live Files</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-moto-g34-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Moto G34 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/envisioned-ai-evolution-within-the-workshop-space/"><u>Envisioned AI Evolution Within the Workshop Space</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-your-aoc-monitor-back-online-expert-fixes-for-windows-10-connectivity-problems/"><u>Getting Your AOC Monitor Back Online: Expert Fixes for Windows 10 Connectivity Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-devices-stuck-on-plugged-in-but-wont-charge-in-windows-710/"><u>How to Fix Devices Stuck on 'Plugged In' But Won't Charge in Windows 7/10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/inside-out-comprehensive-understanding-of-stardews-fascinating-ginger-island-for-2024/"><u>Inside Out Comprehensive Understanding of Stardew’s Fascinating Ginger Island for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/precision-and-artistry-the-ultimate-crossfade-playbook-with-audacity/"><u>Precision and Artistry The Ultimate Crossfade Playbook with Audacity</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-repairing-missing-d3dx943dll-on-your-pc/"><u>Step-by-Step Guide: Repairing Missing d3dx9_43.dll on Your PC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-8-best-no-cost-editing-software-for-social-media-for-2024/"><u>The 8 Best No-Cost Editing Software for Social Media for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-10-affordable-video-chat-for-android-users-for-2024/"><u>Top 10 Affordable Video Chat for Android Users for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/unpacking-the-mystery-understanding-xinput13dlls-role/"><u>Unpacking the Mystery: Understanding XINPUT1_3.dll's Role</u></a></li>
 </ul></div>
 

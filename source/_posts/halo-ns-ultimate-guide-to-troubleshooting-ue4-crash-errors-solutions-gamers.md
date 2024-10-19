@@ -1,7 +1,7 @@
 ---
 title: Halo N's Ultimate Guide to Troubleshooting UE4 Crash Errors - Solutions Gamers
-date: 2024-09-12T16:00:19.827Z
-updated: 2024-09-15T16:00:42.016Z
+date: 2024-10-15T23:13:42.741Z
+updated: 2024-10-18T17:52:19.887Z
 tags:
   - win11
   - win10
@@ -94,10 +94,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or you can click the**Update** button next to the graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-3.jpg)
@@ -127,10 +127,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Restart your computer, and see if the problem is fixed or not.
@@ -138,10 +138,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
@@ -152,6 +152,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Change processor affinity
 
  According to practice and some users experiences, processor affinity can help users get rid of the crash. You can try this method, but if it works for you, you have to repeat it every time when you launch the game.
@@ -161,15 +168,16 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
-5. Go back to the game, it should be running properly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
+5. Go back to the game, it should be running properly.
 
 ---
 
@@ -190,5 +198,24 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/issue-resolved-steps-for-fixing-new-world-easy-anti-cheat-service-failure-to-initiate/"><u>[ISSUE RESOLVED] Steps for Fixing 'New World Easy Anti-Cheat Service Failure to Initiate'</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-benefits-vs-drawbacks-in-vr-technology/"><u>[New] Benefits vs Drawbacks in VR Technology</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-how-to-seamlessly-gather-professional-images-and-vignettes/"><u>[New] How to Seamlessly Gather Professional Images & Vignettes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nfluencers-utopia-summit/"><u>[New] Influencers' Utopia Summit</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-optimizing-engagement-how-to-block-on-insta-for-2024/"><u>[New] Optimizing Engagement How to Block on Insta for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategies-for-discerning-professional-film-making-talents/"><u>[New] Strategies for Discerning Professional Film Making Talents</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unlocking-your-ipads-voice-capture-potential/"><u>[Updated] 2024 Approved Unlocking Your iPad's Voice Capture Potential</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-innovations-in-video-sharing-top-5-beyond-tiktok-platforms/"><u>[Updated] Innovations in Video Sharing Top 5 Beyond TikTok Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209505403-destiny-2-not-working-fix-connection-errors-to-the-game-servers-here/"><u>Destiny 2 Not Working? Fix Connection Errors to the Game Servers Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-restoring-microphone-functionality-in-laptops/"><u>Expert Advice on Restoring Microphone Functionality in Laptops</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-resolving-stuck-windows-11-update-loop/"><u>Expert Tips: Resolving Stuck Windows 11 Update Loop</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-minecraft-freezing-caused-by-incompatible-windows-graphic-drivers-guide/"><u>How to Fix Minecraft Freezing Caused by Incompatible Windows Graphic Drivers (Guide)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-your-pc-with-windows-11s-system-file-checker-and-deployment-image-servicing-management/"><u>How To Restore Your PC with Windows 11'S System File Checker & Deployment Image Servicing Management</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-that-constant-blink-the-ultimate-solution-for-persistent-cursors/"><u>Stop That Constant Blink: The Ultimate Solution for Persistent Cursors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-animators-dream-tools-premium-choices-for-3d-mastery-for-2024/"><u>The Animator’s Dream Tools Premium Choices for 3D Mastery for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-cant-i-access-my-pcs-integrated-antivirus-solving-windows-smartscreen-issues/"><u>Why Can't I Access My PC's Integrated Antivirus? Solving Windows SmartScreen Issues</u></a></li>
+</ul></div>
 

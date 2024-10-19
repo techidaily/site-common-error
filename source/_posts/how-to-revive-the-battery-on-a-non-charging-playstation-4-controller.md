@@ -1,7 +1,7 @@
 ---
 title: How to Revive the Battery on a Non-Charging PlayStation 4 Controller
-date: 2024-10-07T16:18:53.542Z
-updated: 2024-10-12T19:58:28.005Z
+date: 2024-10-17T04:44:06.226Z
+updated: 2024-10-19T04:10:33.041Z
 tags:
   - win11
   - win10
@@ -42,26 +42,13 @@ You can easily reset your controller through these several steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a503f4b68e7f.jpg)
 2. Put a toothpick or a similar object into the reset hole; press the button; hold it down for a few seconds and then release.
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Your controller should then restart. Once it gets started, try to charge it again to see if successful.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 2: Charge your PS4 controller upside down
@@ -76,6 +63,13 @@ Just put your PS4 controller upside down and then charge it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a504e5686cb2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Charge your other controller if you have one with the same charging USB cable.
 2. If the other controller does charge, then the problem is on your cable’s side. Please skip to the following solution. If the other controller also does not charge, it seems there’s something wrong with your USB cable. Please go on with the next step.
 3. Try to use the official charging USB cable coming with your PS4 console to charge your controller.
@@ -84,10 +78,10 @@ Just put your PS4 controller upside down and then charge it.
  So please**use an official charging USB cable** to charge your controller. If you lost the USB cable coming with your PS4, you can buy an official one from Sony.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 4: Check the charging port of your PS4 controller
@@ -99,10 +93,10 @@ Just put your PS4 controller upside down and then charge it.
  Charge your other controller if you have one with the same charging USB cable. If the other controller does charge, there’s probably some problem with the charging port with your not charging controller. You then need to replace the charging port with a new one. If you’re not sure how to do it, you can ask for help from[the official PlayStation website](http://www.playstation.com/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 5: Replace the batteries of your PS4 controller
@@ -130,24 +124,24 @@ Just put your PS4 controller upside down and then charge it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-invest-in-cinematic-success-top-ten-cameras-for-filmmakers/"><u>[New] In 2024, Invest in Cinematic Success Top Ten Cameras for Filmmakers</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-dynamic-designs-drive-dazzling-tiktok-videos-quickly/"><u>[Updated] In 2024, Dynamic Designs Drive Dazzling TikTok Videos Quickly</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1-ipod-friendly-guide-transferring-audiobooks-from-computer-to-iphone-without-using-itunes/"><u>1. 'IPod-Friendly Guide: Transferring Audiobooks From Computer to iPhone Without Using iTunes'</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-smartest-top-10-free-image-platforms-for-endless-memories/"><u>2024 Approved Smartest Top 10 Free Image Platforms for Endless Memories</u></a></li>
-<li><a href="https://common-error.techidaily.com/bluetooth-connection-issues-how-to-fix-a-non-responsive-keyboard-and-pc-bond/"><u>Bluetooth Connection Issues: How to Fix a Non-Responsive Keyboard and PC Bond</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/convert-any-file-type-with-movavis-free-em4r-on-line-tool/"><u>Convert Any File Type with Movavi's Free EM4R On-Line Tool!</u></a></li>
-<li><a href="https://common-error.techidaily.com/corrective-steps-for-accidental-character-inputs-in-typing/"><u>Corrective Steps for Accidental Character Inputs in Typing</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-a18-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo A18 FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fix-for-the-starcraft-ii-graphics-device-not-found-dilemma/"><u>Effective Fix for the StarCraft II Graphics Device Not Found Dilemma</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-driver-restoration-techniques-a-step-by-step-guide/"><u>Effortless Driver Restoration Techniques - A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-overcome-your-laptops-white-or-black-screen-hurdles-easily/"><u>Expert Tips: Overcome Your Laptop's White or Black Screen Hurdles Easily</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Camon 20? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-discerning-true-value-from-recordcasts-promises/"><u>In 2024, Discerning True Value From RecordCast’s Promises</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-kinetic-mastery-in-your-pocket-a-2023-review-of-kinemaster-on-android/"><u>In 2024, Kinetic Mastery in Your Pocket A 2023 Review of KineMaster on Android</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-automated-audio-transcription-with-azure/"><u>In 2024, Mastering the Art of Automated Audio Transcription with Azure</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-reactivating-custom-settings-that-wont-respond/"><u>Step-by-Step Guide: Reactivating Custom Settings That Won't Respond</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-when-at-symbol-isnt-responding/"><u>Step-by-Step Solutions: When 'At' Symbol Isn't Responding</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-bluetooth-issues-on-windows-7-computers/"><u>Troubleshooting and Fixing Bluetooth Issues on Windows 7 Computers</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-overcoming-steam-bootstrapper-errors-now-resolved/"><u>Troubleshooting Tips for Overcoming Steam Bootstrapper Errors – Now Resolved</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-elevate-your-social-media-presence-top-25-hashtags-for-instagram-mastery/"><u>[New] In 2024, Elevate Your Social Media Presence Top 25 Hashtags for Instagram Mastery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-best-quick-fixes-top-5-no-download-online-gif-to-video-convertors/"><u>[Updated] In 2024, Best Quick Fixes Top 5 No-Download, Online GIF to Video Convertors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-ultimate-playbook-seamless-hulu-saving-on-winmacmobile-for-2024/"><u>[Updated] The Ultimate Playbook Seamless Hulu Saving on Win/Mac/Mobile for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-a58-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo A58 4G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/broadcast-an-episode-to-your-insta-circle-for-2024/"><u>Broadcast an Episode to Your Insta Circle for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/conquer-your-windows-woes-unsticking-updates-stalled-at-completion-mark/"><u>Conquer Your Windows Woes: Unsticking Updates Stalled at Completion Mark</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-what-to-do-if-your-pc-freezes-on-windows-10/"><u>Effective Solutions: What to Do if Your PC Freezes on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-errors-a-comprehhrenous-approach-to-the-non-loading-steam-store-issue/"><u>Fixing Errors: A Comprehhrenous Approach to the Non-Loading Steam Store Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-chatting-capabilities-in-your-phasmophobia-gameplay-experience/"><u>How to Restore Voice Chatting Capabilities in Your Phasmophobia Gameplay Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-live-streamer-showdown-pick-your-champion-between-wirecast-and-obs/"><u>In 2024, Live Streamer Showdown Pick Your Champion Between Wirecast and OBS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/latest-amd-radeon-hd-6450-graphics-card-driver-updates-enhanced-compatibility-with-windows-11/"><u>Latest AMD Radeon HD 6450 Graphics Card Driver Updates: Enhanced Compatibility with Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-windows-grope-to-combat-excessive-resource-use-by-microsoft-compatibility-telemetry/"><u>Optimizing Windows Grope to Combat Excessive Resource Use by Microsoft Compatibility Telemetry</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-audio-issues-resolving-audio-output-device-not-installed-on-windows-11/"><u>Troubleshooting Audio Issues: Resolving 'Audio Output Device Not Installed' On Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-ethernet-connection-problems-in-windows-10-and-windows-7/"><u>Troubleshooting Steps: Resolving Ethernet Connection Problems in Windows 10 and Windows 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-your-steam-shop-when-it-wont-load-anymore-top-solutions/"><u>Troubleshooting Your Steam Shop When It Won't Load Anymore: Top Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-resolving-write-protection-issues-with-usbs-sd-cards-and-cd-discs-in-windows/"><u>Troubleshooting: Resolving Write Protection Issues with USBs, SD Cards, and CD Discs in Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ate-movie-watchlists-streamlining-screen-time/"><u>Ultimate Movie Watchlists Streamlining Screen Time</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-miracast-functionality-correct-graphics-drivers-make-a-world-of-difference/"><u>Unlocking Miracast Functionality: Correct Graphics Drivers Make a World of Difference</u></a></li>
 </ul></div>
 

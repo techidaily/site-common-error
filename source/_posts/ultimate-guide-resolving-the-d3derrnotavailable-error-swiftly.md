@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving the 'D3DERR_NOTAVAILABLE' Error Swiftly"
-date: 2024-10-11T00:26:08.536Z
-updated: 2024-10-13T00:10:35.305Z
+date: 2024-10-16T03:57:46.852Z
+updated: 2024-10-18T22:44:01.758Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/219754861571baaffef2dbde1c4e47ea4bf551dd4
 4. [**Modify Registry Editor**](#Method5)
 5. **[Bonus Tip](#b1)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Why does the error 0x80070002 occur?
 
  This error code may vary from different Windows versions. In Windows XP, you will see the error code **0x80070002** . While in Windows 10/8/7, you will see the error code **80070002** .
@@ -59,32 +66,31 @@ thumbnail: https://thmb.techidaily.com/219754861571baaffef2dbde1c4e47ea4bf551dd4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a01819233c7d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Change date and time** to make sure that the date and time is correct on your Windows, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181cc9eb3f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Change time zone** to make sure that the time zone is correct, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0181f1e2bac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the**Internet Time** tab at the top, then click**Change Settings** .
@@ -94,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/219754861571baaffef2dbde1c4e47ea4bf551dd4
  5) Make sure to check the box next to**Synchronize with an Internet time server** , and click**Update now** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0182e74a509.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Click**OK** to finish the settings.
 
@@ -106,28 +119,28 @@ thumbnail: https://thmb.techidaily.com/219754861571baaffef2dbde1c4e47ea4bf551dd4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a018c0f66b68.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Respectively type**time** ,**date** , and **w32tm/resync**  in the window, and press**Enter** after each command. If the time and date are incorrect after running, you can type the correct time and date in the window and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0266f185a5c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) After the commands complete, restart your computer and try Windows Update again to see if it works.
 
 ---
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 2: Modify the Windows Update installation files**
 
@@ -144,10 +157,10 @@ thumbnail: https://thmb.techidaily.com/219754861571baaffef2dbde1c4e47ea4bf551dd4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a017383ddfcc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Double click**Windows Update** (if you are using Windows XP, double click**Automatic Updates** ).
@@ -165,6 +178,13 @@ thumbnail: https://thmb.techidaily.com/219754861571baaffef2dbde1c4e47ea4bf551dd4
  2) Go to folders:**Windows > SoftwareDistribution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0174add00e1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Delete the folder named**SoftwareDistribution** .  (If you’re prompted for an administrator password or confirmation, type your password or provide confirmation.)
 
@@ -218,13 +238,6 @@ thumbnail: https://thmb.techidaily.com/219754861571baaffef2dbde1c4e47ea4bf551dd4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/02/img_5a7816a3da385.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Go to   _**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\WindowsUpdate\\OSUpgrade** ._
 
  4) Select**OSUpgrade** key, then right-click the empty area on the right pane of Registry Editor, and click**New** , then c lick **DWORD (32-bit) Value** .
@@ -261,13 +274,6 @@ thumbnail: https://thmb.techidaily.com/219754861571baaffef2dbde1c4e47ea4bf551dd4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged device to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
   
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -297,21 +303,20 @@ thumbnail: https://thmb.techidaily.com/219754861571baaffef2dbde1c4e47ea4bf551dd4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-understanding-your-absence-on-snapchat/"><u>[New] Understanding Your Absence on Snapchat</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-deciphering-how-tseries-benefits-from-youtube-for-2024/"><u>[Updated] Deciphering How TSeries Benefits From YouTube for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-master-the-melodies-secrets-to-adding-soundtracks-on-insta/"><u>[Updated] In 2024, Master the Melodies Secrets to Adding Soundtracks on Insta</u></a></li>
-<li><a href="https://common-error.techidaily.com/avoid-these-pitfalls-successful-strategies-for-implementing-the-battleye-anti-cheat-system/"><u>Avoid These Pitfalls: Successful Strategies for Implementing the BattlEye Anti-Cheat System</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/convert-your-gifs-to-avi-format-for-free-using-movavis-user-friendly-tool/"><u>Convert Your GIFs to AVI Format for Free Using Movavi's User-Friendly Tool!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeat-the-dreaded-crash-repair-strategies-for-helldivers-n-blue-screen-mishap/"><u>Defeat the Dreaded Crash: Repair Strategies for Helldivers N Blue Screen Mishap</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-remedies-for-windows-error-d3dx943dll-could-not-be-loaded/"><u>Effective Remedies for Windows Error 'd3dx9_43.dll Could Not Be Loaded'</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-resolved-correcting-orglwjgllwjglexception-for-accelerated-pixels-formats/"><u>Error Resolved: Correcting Org.LWJGL.LWJGLException for Accelerated Pixels Formats</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experts-picks-5-must-have-gps-apps-for-your-iphone/"><u>Experts' Picks: 5 Must-Have GPS Apps for Your iPhone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-navigation-failure-revitalize-those-arrow-buttons-here/"><u>Keyboard Navigation Failure? Revitalize Those Arrow Buttons Here</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-usb-connection-problems-effective-solutions-for-device-descriptor-request-failed-error/"><u>Overcoming USB Connection Problems: Effective Solutions for 'Device Descriptor Request Failed' Error</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/proven-techniques-to-enhance-engagement-and-interaction-for-2024/"><u>Proven Techniques to Enhance Engagement and Interaction for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-face-off-evaluating-the-apple-watch-series-9-against-fitbits-charge-grope/"><u>The Ultimate Face-Off: Evaluating the Apple Watch Series 9 Against Fitbit's Charge Grope</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203768992-troubleshooting-non-responsive-arrows-on-your-keyboard-quick-fixes/"><u>Troubleshooting Non-Responsive Arrows on Your Keyboard - Quick Fixes!</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-sudden-reboots-unaccounted-for/"><u>Windows 10: Sudden Reboots Unaccounted For</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ioneering-unmicrophoned-audio-capturing-methods/"><u>[New] Pioneering Unmicrophoned Audio Capturing Methods</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/can-you-broadcast-videos-without-infringing-laws-specifically-fb-for-2024/"><u>Can You Broadcast Videos Without Infringing Laws, Specifically FB for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creating-a-streamlined-podcast-rss-feed-structure-for-2024/"><u>Creating a Streamlined Podcast RSS Feed Structure for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cutting-edge-gaming-technology-tcls-breakthrough-4k-monitor-with-a-rapid-1000-hz-upgrade/"><u>Cutting-Edge Gaming Technology: TCL's Breakthrough 4K Monitor with a Rapid 1,000 Hz Upgrade</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-issue-unable-to-execute-file-in-the-temporary-directory-setup-aborted-error-5-access-is-denied/"><u>Fix Issue: “Unable to Execute File in the Temporary Directory. Setup Aborted. Error 5: Access Is Denied.”</u></a></li>
+<li><a href="https://discover-data.techidaily.com/guide-complet-pour-la-securement-et-le-backup-sur-windows-home-server/"><u>Guide Complet Pour La Securement Et Le Backup Sur Windows Home Server</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restore-or-update-missing-widevine-drm-on-windows-devices/"><u>Guide to Restore or Update Missing Widevine DRM on Windows Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-power-to-a-non-charging-playstation-4-remote/"><u>How to Restore Power to a Non-Charging PlayStation 4 Remote</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-the-fix-for-error-0x800f0831-a-step-by-step-guide-using-windows-updates/"><u>Navigating the Fix for Error 0X800f0831 – A Step-by-Step Guide Using Windows Updates</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-hot-30i-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Hot 30i has been deleted.</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-overcoming-non-responsive-issues-in-google-chrome/"><u>Resolved! Overcoming Non-Responsive Issues in Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-persistent-usb-device-unrecognized-errors-a-step-by-step-guide/"><u>Resolving Persistent 'USB Device Unrecognized' Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-of-unplayable-dvds-in-microsoft-windows/"><u>Solving the Problem of Unplayable DVDs in Microsoft Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-realme-narzo-60-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Realme Narzo 60 5G</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-cut-trim-and-split-the-best-free-video-editors-for-2024/"><u>Updated Cut, Trim, and Split The Best Free Video Editors for 2024</u></a></li>
 </ul></div>
 

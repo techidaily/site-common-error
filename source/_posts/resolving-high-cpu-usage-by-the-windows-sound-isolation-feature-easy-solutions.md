@@ -1,7 +1,7 @@
 ---
 title: "Resolving High CPU Usage by the Windows Sound Isolation Feature: Easy Solutions"
-date: 2024-10-09T01:22:01.028Z
-updated: 2024-10-12T17:36:58.004Z
+date: 2024-10-16T02:03:18.992Z
+updated: 2024-10-18T22:27:44.088Z
 tags:
   - win11
   - win10
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 1) On your keyboard, press **the**   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  , then copy & paste **Virus & threat protection** into the box and click**Virus & threat protection** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48478e47ae3.jpg)
@@ -51,33 +51,20 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b484832a46a2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down to the bottom and click**Add or remove exclusions** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4848b874e63.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Add an exclusion** \>**Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b484924c3bad.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Copy & paste **C:\\Program Files\\Windows Defender** into the box and click Select**Folder** .
 
@@ -91,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4823e1f27c3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Locate and double-click on**Task Schedule Library** \> **Microsoft** \>**Windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48247e04d53.jpg)
@@ -100,22 +94,15 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48254c26e3f.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) In the**General** tab, un-check**the box** before**Run with highest privileges** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4845e5ee219.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click the**Conditions** tab, make sure**the boxes** in this window are**unchecked** .
 
@@ -130,10 +117,10 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4828bca7be2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Restart your computer. Hopefully this time your **MsMpEng.exe** won’t be hogging too much of your CPU usage.
@@ -150,22 +137,29 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b482ad2bedf6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Locate and double-click on**Windows Defender Antivirus** (aka. **Windows Defender** , same as below). Then double-click on **Turn off Windows Defender Antivirus** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b48417e7d299.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Choose the**Enabled** option, and click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4841ef0331d.jpg)
 
 5) Restart your computer and see if your computer runs normally now.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Want us to fix the problem for you?
 
@@ -190,19 +184,24 @@ thumbnail: https://thmb.techidaily.com/ea52c7c75e7b3032041ebf8f7a073a81be8689646
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/nlock-your-youtube-potential-idea-generation-guide/"><u>[New] Unlock Your YouTube Potential Idea Generation Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-your-content-incorporating-exact-timestamps-in-videos/"><u>[Updated] 2024 Approved Elevate Your Content Incorporating Exact Timestamps in Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-podcast-income-the-real-numbers/"><u>[Updated] Podcast Income The Real Numbers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-transforming-viewers-into-loyalists-with-essential-youtube-tips/"><u>2024 Approved Transforming Viewers Into Loyalists with Essential YouTube Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-windows-1011-bad-image-errors-a-step-by-step-guide/"><u>Effective Fixes for Windows 10/11 Bad Image Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-persistent-keyboard-stutter-in-windows-10-operating-system/"><u>Fixing Persistent Keyboard Stutter in Windows 10 Operating System</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-cure-your-dell-laptops-black-screen-woes-full-instructional-handbook/"><u>How to Diagnose & Cure Your Dell Laptop's Black Screen Woes: Full Instructional Handbook</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-accelerate-audio-playback-on-spotify-safely-and-effectively/"><u>In 2024, Accelerate Audio Playback on Spotify Safely & Effectively</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-how-to-convert-youtube-videos-seamlessly-into-avi/"><u>In 2024, How to Convert YouTube Videos Seamlessly Into AVI</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-top-five-flying-toys-for-youth/"><u>In 2024, The Top Five Flying Toys for Youth</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-xiaomi-redmi-k70-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Xiaomi Redmi K70 Phones</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-10-and-11-lengthening-your-pin/"><u>Mastering Windows 10 & 11: Lengthening Your Pin</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-unraveling-the-mystery-of-auto-start-issues-in-your-windows-11-machine/"><u>Solved: Unraveling the Mystery of Auto-Start Issues in Your Windows 11 Machine</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-elevated-cpu-utilization-by-iastordatasvc-in-a-32-bit-windows/"><u>Troubleshooting Elevated CPU Utilization by IAStorDataSvc in a 32-Bit Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-essential-guide-broadcast-360-videos-on-facebook/"><u>[New] In 2024, Essential Guide Broadcast 360 Videos on Facebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-definitive-io-screen-recorder-guidebook/"><u>[New] In 2024, The Definitive IO Screen Recorder Guidebook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-ultimate-playbook-for-splitting-views-in-facebook-livestreams/"><u>[New] The Ultimate Playbook for Splitting Views in Facebook Livestreams</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-strategizing-an-attention-grabbing-tiktok-signoff/"><u>[Updated] Strategizing an Attention-Grabbing TikTok Signoff</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/easy-guide-to-saving-movies-and-shows-from-atresplayer-for-windows-and-macos-users/"><u>Easy Guide to Saving Movies and Shows From Atresplayer for Windows & macOS Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-ethernet-functionality-in-windows-11-and-7-systems/"><u>Expert Tips for Restoring Ethernet Functionality in Windows 11 and 7 Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-fundamentals-of-transfer-learning-in-ai-systems/"><u>Exploring the Fundamentals of Transfer Learning in AI Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-api-error-core-dll-missing-on-pc/"><u>Fixing API Error: Core DLL Missing on PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-nokia-g22-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Nokia G22 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-pixel-7a-by-fonelab-android-recover-music/"><u>How to recover old music from your Pixel 7a</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-poco-x6-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Poco X6 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimize-system-performance-addressing-msmpengine-high-cpu-drainage-in-windows-11-easily/"><u>Optimize System Performance: Addressing MsMpEngine High CPU Drainage in Windows 11 Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-issues-with-initializing-a-hosted-network-in-windows-10/"><u>Overcoming Issues with Initializing a Hosted Network in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-11-touchpad-problems-expert-advice-on-fixing-scroll-shortcuts/"><u>Overcoming Windows 11 Touchpad Problems: Expert Advice on Fixing Scroll Shortcuts</u></a></li>
+<li><a href="https://common-error.techidaily.com/preventing-unwanted-win11-restarts/"><u>Preventing Unwanted Win11 Restarts</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-issues-with-your-lenovo-fingerprint-reader-easy-fixes-inside/"><u>Resolving Issues with Your Lenovo Fingerprint Reader: Easy Fixes Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-dilemma-of-steam-updates-failing-to-download/"><u>Solving the Dilemma of Steam Updates Failing to Download</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206375056-troubleshoot-and-correct-system-error-0x887a0006-a-step-by-step-guide-to-a-swift-solution/"><u>Troubleshoot and Correct System Error 0X887A0006: A Step-by-Step Guide to a Swift Solution</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlocking-hidden-messages-a-guide-to-viewing-blocked-incoming-calls-on-your-iphone/"><u>Unlocking Hidden Messages: A Guide to Viewing Blocked Incoming Calls on Your iPhone</u></a></li>
 </ul></div>
 

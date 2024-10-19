@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Oculus Device Malfunctions"
-date: 2024-09-07T17:12:26.822Z
-updated: 2024-09-14T18:04:24.222Z
+date: 2024-10-16T19:08:17.149Z
+updated: 2024-10-18T18:53:42.532Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ If the other keys stop working either, check the next question:
 1. [Turn off the Sticky Keys feature on your Windows](#solution1)
 2. [Update your keyboard driver](#solution2)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
 
  The Sticky Keys feature, besides, Toggle Keys and Filter Keys, make your keyboard easier to type. However, sometimes they make trouble. Your Shift key stops working is the one. So make sure these features are not turned on.
@@ -60,6 +67,13 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Press the Shift key on your keyboard to see if it works.
 
 #### on Windows 11
@@ -69,6 +83,13 @@ Follow these:
  2) From the left navigation panel, select**Accessibility** , then click**Keyboard** from the right.
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
@@ -98,6 +119,13 @@ Or click **Update All**  to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Restart your computer and try to press the Shift key to see if it works.
 
 * [keyboard](https://bellelily.pxf.io/m5azgm)
@@ -115,12 +143,20 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-the-social-image-hoarders-manual-a-guide-to-downloading-and-keeping-gif-images/"><u>[New] The Social Image Hoarder's Manual A Guide to Downloading and Keeping GIF Images</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-8-best-video-conferencing-software-for-small-business-safely/"><u>[Updated] 2024 Approved 8 Best Video Conferencing Software for Small Business Safely</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-a-thorough-insight-into-obs-recording-technology/"><u>[Updated] A Thorough Insight Into OBS Recording Technology</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-gif-creation-journey-unveiling-the-ultimate-9-tools-of-memetic-ingenuity/"><u>2024 Approved The GIF Creation Journey Unveiling the Ultimate 9 Tools of Memetic Ingenuity</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-the-runtime-broker-cpu-crunch-on-windows-11-with-these-proven-fixes-get-started-now/"><u>End the Runtime Broker CPU Crunch on Windows 11 with These Proven Fixes – Get Started Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-incompatible-drivers-affect-ftdi-memory-integrity-and-solutions/"><u>How Incompatible Drivers Affect FTDI Memory Integrity and Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/iphone-connection-error-on-windows-1-to-si-effective-fixes-for-the-non-recognition-issue-in-itunes/"><u>IPhone Connection Error on Windows 1ˈɪŋ-Toʊ-Siː: Effective Fixes for the Non-Recognition Issue in iTunes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-the-ken-burns-effect-in-final-cut-pro-a-step-by-step-guide/"><u>Mastering the Ken Burns Effect in Final Cut Pro A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-d3derr-not-available-errors-on-your-windows-pc-step-by-step-guide/"><u>Resolving D3DERR Not Available Errors on Your Windows PC – Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-problem-no-download-from-steam-updates/"><u>Resolving the Problem: No Download From Steam Updates</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-remote-procedure-call-failed-solved/"><u>The Remote Procedure Call Failed [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-windows-10-bluetooth-connectivity-issues/"><u>Ultimate Guide: Solving Windows 10 Bluetooth Connectivity Issues</u></a></li>
+</ul></div>
 

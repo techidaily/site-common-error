@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Steps for Overcoming the Black Screen Glitch in Windows 11
-date: 2024-10-10T03:47:22.303Z
-updated: 2024-10-13T03:16:40.411Z
+date: 2024-10-15T02:23:14.804Z
+updated: 2024-10-18T20:24:51.035Z
 tags:
   - win11
   - win10
@@ -72,26 +72,26 @@ Many Windows 10 users are reporting that their computers get stuck on**Welcome s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687e85ea1bd.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Repair your computer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687ec975fbb.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Select**Troubleshoot** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59687f253bcd5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Select**Command Prompt** .
@@ -110,15 +110,28 @@ _**bootrec /scanos**_
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968863896808.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **7)**  Wait for the scans to complete. Then exit Command Prompt.
 
 **8)** Restart your computer and see if it fixes the issue. If you still get stuck, check**method 3** to reset your Windows 10.
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Reset your Windows 10
 
@@ -135,13 +148,6 @@ _**bootrec /scanos**_
 **3)** Boot your computer from your Windows 10 installation media. After selecting the language and region, click on**Install now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5968970ab6012.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Follow the on-screen instructions to complete the reinstallation of your system.
 
@@ -162,21 +168,16 @@ _**bootrec /scanos**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-perfecting-the-art-of-hd-broadcasting-on-facebookshiftscreenresolution-for-2024/"><u>[New] Perfecting the Art of HD Broadcasting on Facebook'shift_screen_resolution for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-stepping-up-advanced-techniques-for-w11-gamers-for-2024/"><u>[New] Stepping Up Advanced Techniques for W11 Gamers for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-ultimate-funny-photo-editor-for-2024/"><u>[New] Ultimate Funny Photo Editor for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-mouse-scroll-wheel-jumps-win-1011/"><u>[SOLVED] Mouse Scroll Wheel Jumps Win 10/11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-a-practical-guide-to-saving-screens-on-dell-computers/"><u>[Updated] A Practical Guide to Saving Screens on Dell Computers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-does-immediate-subscription-enhance-user-engagement-on-youtube-for-2024/"><u>[Updated] Does Immediate Subscription Enhance User Engagement on Youtube for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-dualview-photography-analysis/"><u>[Updated] DualView Photography Analysis</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-syma-x8c-sensor-technology/"><u>2024 Approved Understanding Syma X8C Sensor Technology</u></a></li>
-<li><a href="https://common-error.techidaily.com/conquer-windows-11-restlessness-at-night/"><u>Conquer Windows 11 Restlessness at Night</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/hydraamic-retention-time-hrt-is-the-volume-of-the-tank-divided-by-the-flow-rate-or-hrt-volume-q/"><u>Hydraamic Retention Time (HRT) Is the Volume of the Tank Divided by the Flow Rate, or HRT = Volume / Q.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-nokia-g310-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Nokia G310 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-issue-quick-guide-to-fixing-error-1053-unresponsive-service-delays/"><u>Resolved Issue: Quick Guide to Fixing 'Error 1053: Unresponsive Service' Delays</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-11-boot-loop-problems-for-a-smooth-computer-shutdown/"><u>Resolving Windows 11 Boot Loop Problems for a Smooth Computer Shutdown</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-for-rockstar-games-red-dead-redemption-2-memory-issues-increase-pagefile-size/"><u>Solution for Rockstar Games Red Dead Redemption 2 Memory Issues – Increase Pagefile Size</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-windows-11-error-code-0x800f0922-a-comprehensive-guide-to-8-essential-solutions/"><u>Troubleshoot Windows 11 Error CODE 0X800f0922: A Comprehensive Guide to 8 Essential Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-money-on-youtube-for-2024/"><u>[New] How To Make Money on YouTube for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unlimited-realms-top-10-no-cost-roleplaying-worlds/"><u>[New] Unlimited Realms Top 10 No-Cost Roleplaying Worlds</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-laptop-plugged-in-not-charging-on-windows-11/"><u>[Solved] Laptop Plugged in, Not Charging on Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-convert-facebook-hd-videos-to-mp4-720p1080p-no-cost-required/"><u>[Updated] Convert Facebook HD Videos to MP4, 720P/1080p – No Cost Required</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1726027618527-vlc/"><u>動画を効果的にVLCでズーム再生する手順ガイド</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-playstation-4s-persistent-ce-34878-0-eject-mechanism-problem/"><u>Effective Fixes for PlayStation 4'S Persistent CE-34878-0 Eject Mechanism Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-microsoft-print-to-pdf-feature-failure-on-windows-10-and-11/"><u>Fixing the 'Microsoft Print to PDF' Feature Failure on Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fortnite-optimized-on-unsupported-gpus-winning-fixes-and-tweaks/"><u>Fortnite Optimized on Unsupported GPUs: Winning Fixes and Tweaks</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-on-your-lenovo-laptops-stuck-keys/"><u>How to Restore Functionality on Your Lenovo Laptop's Stuck Keys</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-best-of-both-worlds-ai-and-human-creativity/"><u>The Best of Both Worlds: AI & Human Creativity</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-crusader-kings-iii-freezing-problems-on-windowsmacosx/"><u>Troubleshooting Tips - Crusader Kings III Freezing Problems on Windows/MacOSX</u></a></li>
 </ul></div>
 

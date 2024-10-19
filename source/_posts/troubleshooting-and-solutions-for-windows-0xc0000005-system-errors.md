@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Solutions for Windows 0Xc0000005 System Errors
-date: 2024-10-11T04:45:21.942Z
-updated: 2024-10-12T17:38:37.151Z
+date: 2024-10-12T03:31:57.169Z
+updated: 2024-10-18T19:16:10.963Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/54f82da67ed2494634e4d548a9b8c903250bdadd5
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 1: Boot your PC without Peripherals
 
  External peripherals can sometimes conflict with your system and trigger errors of all sorts. So before we dive into anything deeper, let’s start with the easiest solution: restarting your PC without peripherals.
@@ -44,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/54f82da67ed2494634e4d548a9b8c903250bdadd5
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/usb-g6d352e3ca_640.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Try turning on your computer again.
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/54f82da67ed2494634e4d548a9b8c903250bdadd5
  If your computer boots correctly, that means that one of the peripherals you removed is causing your problem. You should **reinstall each device** back into your computer and test them each time. Then, you’ll find the specific device that causes your problem. Replace the device once you’ve identified it. Or, consult the manufacturer of the device for assistance.
 
 If your computer still can’t boot correctly, try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 2: Check the RAM
 
@@ -73,10 +87,10 @@ RAM looks like this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Put your RAMs back into the slot one by one while trying to boot each time.
@@ -84,13 +98,6 @@ RAM looks like this:
  If your computer starts without one or more of the RAMs, then it could be an issue with your RAM modules. Or in some cases, it is possible that your RAM module is fine, but one or more memory slots on your motherboard are defective. You may want to try removing the modules and placing them in different slots to find if one of the slots is faulty.
 
  If your computer still can’t boot properly, don’t worry. Check the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 3: Reset BIOS Settings
 
@@ -108,6 +115,13 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Wait for 5 minutes, and then reinstall your CMOS battery.
 
 5) Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
@@ -124,23 +138,9 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-11-44.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Open System Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-12-28.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Choose a different restore point** , and click**Next** to select a restore point before the issue occurs.
 
@@ -176,10 +176,10 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -220,22 +220,18 @@ The CMOS battery looks like this
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-mastering-twitter-videos-a-beginners-tutorial/"><u>[New] 2024 Approved Mastering Twitter Videos A Beginner's Tutorial</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-perfect-asmr-recording-top-mic-choices-unveiled/"><u>[Updated] Perfect ASMR Recording Top Mic Choices Unveiled</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/all-you-need-to-know-about-psvr2-announcements-cost-details-release-schedule-hardware-specs-included/"><u>All You Need to Know About PSVR2: Announcements, Cost Details, Release Schedule, Hardware Specs Included</u></a></li>
-<li><a href="https://common-error.techidaily.com/bridging-gap-acquired-msvcr71dll/"><u>Bridging Gap: Acquired MSVCR71.dll</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/el-success-strategy-joining-ytp2024-now/"><u>Channel Success Strategy - Joining YTP2024 Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/directx-error-resolved-mastering-device-creation-techniques-for-optimal-performance/"><u>DirectX Error Resolved: Mastering Device Creation Techniques for Optimal Performance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-eliminating-unwanted-straight-lines-from-your-televisions-display/"><u>Expert Advice: Eliminating Unwanted Straight Lines From Your Television's Display</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-10-brightness-issue-how-to-restore-functionality/"><u>Fixing Windows 10 Brightness Issue: How To Restore Functionality</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-14-plus-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 14 Plus Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722991219478-join-deacon-st-john-embark-on-a-post-apocalyptic-journey-with-days-gone-for-pc-gamers/"><u>Join Deacon St. John: Embark on a Post-Apocalyptic Journey with 'Days Gone' For PC Gamers</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-1011-user-profile-service-failure-during-sign-in/"><u>Resolving Windows 10/11: User Profile Service Failure During Sign In</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-wacom-pen-on-windows-11-or-windows-10-a-comprehensive-fix-guide/"><u>Reviving Your Wacom Pen on Windows 11 or Windows 10 - A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/side-by-side-configuration-is-incorrect-error-in-windows-10-fixed/"><u>Side by Side Configuration Is Incorrect Error in Windows 10 [FIXED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/smooth-out-the-glitches-expert-advice-for-solving-minecraft-stuttering-problems/"><u>Smooth Out the Glitches: Expert Advice for Solving Minecraft Stuttering Problems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-garageband-tutorial-for-podcast-creation/"><u>Step-by-Step GarageBand Tutorial for Podcast Creation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-toolkit-for-elevating-your-podcast-through-seo-for-2024/"><u>The Ultimate Toolkit for Elevating Your Podcast Through SEO for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-getting-your-airpods-working-on-windows-10-and-11/"><u>Ultimate Guide: Getting Your AirPods Working on Windows 10 & 11</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-deciphering-the-lack-of-contacts-and-snaps-on-snapchat/"><u>[New] 2024 Approved Deciphering the Lack of Contacts and Snaps on Snapchat</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-computer-wont-wake-up-from-sleep-windows-1110/"><u>[SOLVED] Computer Won't Wake Up From Sleep Windows 11/10</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-blend-unique-web-humor-freshly-made/"><u>[Updated] Blend Unique Web Humor Freshly Made</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/a-guide-to-elevating-your-obs-video-projects-for-2024/"><u>A Guide to Elevating Your OBS Video Projects for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-diagnose-and-solve-stop-code-0xc0000005-issues-on-your-pc-running-windows/"><u>Guide to Diagnose and Solve Stop Code 0Xc0000005 Issues on Your PC Running Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-pasting-issues-in-windows-11-a-step-by-step-guide/"><u>How to Fix Pasting Issues in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-update-or-change-an-outdated-or-compatible-device-driver-in-windows/"><u>How to Update or Change an Outdated or Compatible Device Driver in Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-realme-12plus-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Realme 12+ 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-vidma-to-go-screen-record-and-beyond-alternatives/"><u>In 2024, Vidma to Go Screen Record and Beyond Alternatives</u></a></li>
+<li><a href="https://common-error.techidaily.com/origin-gaming-error-solutions-correcting-setup-problems-smoothly/"><u>Origin Gaming Error Solutions: Correcting Setup Problems Smoothly</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-illuminated-keys-corsair-keyboard-lighting-fixes/"><u>Revive Your Illuminated Keys: Corsair Keyboard Lighting Fixes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-realme-gt-5-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Realme GT 5 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-macx-hd-pro-video-editor-and-converter-for-windows-10-convert-hevc-to-mp4-with-one-click/"><u>Ultimate MacX HD Pro Video Editor & Converter for Windows 10 - Convert HEVC to MP4 with One Click!</u></a></li>
 </ul></div>
 

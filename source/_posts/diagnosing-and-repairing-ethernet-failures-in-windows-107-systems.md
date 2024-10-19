@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Ethernet Failures in Windows 10/7 Systems
-date: 2024-10-07T19:08:14.033Z
-updated: 2024-10-13T03:51:06.934Z
+date: 2024-10-14T17:03:20.880Z
+updated: 2024-10-18T20:41:12.535Z
 tags:
   - win11
   - win10
@@ -54,10 +54,10 @@ Then click **Device Manager**  to open it.
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Scroll still not working?
@@ -65,10 +65,10 @@ Then click **Device Manager**  to open it.
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
@@ -84,10 +84,16 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) After scanning, you have 2 options.
@@ -99,10 +105,10 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -127,19 +133,18 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-change-twitter-video-box-art-for-2024/"><u>[New] Change Twitter Video Box Art for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-intensive-analysis-macos-screenflow-version-4-for-2024/"><u>[New] Intensive Analysis MacOS screenFlow Version 4 for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-expert-insights-optimal-techniques-for-pc-display-recordings/"><u>[Updated] 2024 Approved Expert Insights Optimal Techniques for PC Display Recordings</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/1-effortless-methods-to-securely-transfer-and-safeguard-your-iphones-playlist/"><u>1. Effortless Methods to Securely Transfer and Safeguard Your iPhone's Playlist</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/curing-the-persistent-youtube-sound-renderer-malfunction-in-modern-windows-os/"><u>Curing the Persistent YouTube Sound Renderer Malfunction in Modern Windows OS</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-lava-blaze-2-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Lava Blaze 2 Pro Unlock Without Password</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transforming-video-quality-from-sdr-to-stunning-hdr-a-practical-handbook/"><u>In 2024, Transforming Video Quality From SDR to Stunning HDR - A Practical Handbook</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/lenovos-latest-gem-thinkpad-x1-titanium-yoga-unveiled-a-cutting-edge-hybrid-that-charmingly-respects-the-legacy-of-classic-thinkpads/"><u>Lenovo's Latest Gem: ThinkPad X1 Titanium Yoga Unveiled – A Cutting-Edge Hybrid That Charmingly Respects the Legacy of Classic ThinkPads</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-error-code-39-issues-in-computer-media-players-tips-and-techniques-for-optical-drive-repair/"><u>Overcoming Error Code 39 Issues in Computer Media Players: Tips and Techniques for Optical Drive Repair</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-misconfigured-elements-in-your-windows-setup/"><u>Step-by-Step Guide: Correcting Misconfigured Elements in Your Windows Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-broken-usb-connections-in-windows-1011/"><u>Troubleshooting and Fixing Broken USB Connections in Windows 10/11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-issues-with-pc-and-bluetooth-keyboard-connection/"><u>Troubleshooting Guide: Solving Issues with PC and Bluetooth Keyboard Connection</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-nier-automata-pc-crashes-top-solutions-for-players/"><u>Troubleshooting Nier Automata PC Crashes - Top Solutions for Players</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-teredo-tunneling-overcoming-qualification-challenges/"><u>Troubleshooting Teredo Tunneling – Overcoming Qualification Challenges</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-superior-sound-recorders-for-scholarly-discussions/"><u>[Updated] 2024 Approved Superior Sound Recorders for Scholarly Discussions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-outstanding-5-streamer-gadgets-online-for-2024/"><u>[Updated] Outstanding 5 Streamer Gadgets Online for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-guide-to-turning-avi-into-itunes-friendly-formats/"><u>Effortless Guide to Turning AVI Into iTunes-Friendly Formats</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-stopped-audio-services-in-windows-7/"><u>Fixing the Stopped Audio Services in Windows 7</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-a-thorough-system-restore-on-windows-10-using-only-4-main-steps/"><u>How to Perform a Thorough System Restore on Windows 10 Using Only 4 Main Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-repair-key-windows-update-elements/"><u>How To Successfully Repair Key Windows Update Elements</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-balance-quality-and-quickness-with-netflix-speed-modification-tips/"><u>In 2024, Balance Quality & Quickness with Netflix Speed Modification Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/iphone-lens-mastery-unleashing-creativity/"><u>IPhone Lens Mastery - Unleashing Creativity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/learn-how-to-effortlessly-rip-dvds-using-the-powerful-and-free-winx-software-perfectly-compatible-with-iphone-and-android-systems/"><u>Learn How to Effortlessly Rip DVDs Using the Powerful and Free WinX Software - Perfectly Compatible with iPhone & Android Systems!</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-silent-playstation-4-operation-expert-advice-on-dealing-with-a-loud-fan/"><u>Mastering Silent PlayStation 4 Operation: Expert Advice on Dealing With a Loud Fan</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-windows-10-performance-by-managing-high-disk-usage-caused-by-microsoft-compatibility-telemetry/"><u>Optimizing Windows 10 Performance by Managing High Disk Usage Caused by Microsoft Compatibility Telemetry</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-slow-boot-problems-on-windows-7-systems-improve-startup-time-now/"><u>Quick Fixes for Slow Boot Problems on Windows 7 Systems - Improve Startup Time Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-call-of-duty-ww2-error-4220-for-smoother-gaming/"><u>Troubleshooting Call of Duty WW2 Error 4220 for Smoother Gaming</u></a></li>
 </ul></div>
 

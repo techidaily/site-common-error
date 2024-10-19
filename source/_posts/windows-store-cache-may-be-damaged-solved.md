@@ -1,7 +1,7 @@
 ---
 title: Windows Store Cache May Be Damaged [SOLVED]
-date: 2024-10-10T16:51:09.161Z
-updated: 2024-10-13T03:09:51.126Z
+date: 2024-10-13T01:10:59.892Z
+updated: 2024-10-18T17:41:42.546Z
 tags:
   - win11
   - win10
@@ -96,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59376da7f418e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Select your windows drive (the hard drive or partition that has Windows installed on it – usually **C:** )**,** and enter an Initial size and Maximum size for your virtual memory:
 
 * **Initial size** – This value varies, depending on your computer. If you’re not sure what value to use, just enter whatever the number is in the**Recommended** category.
@@ -111,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  Once you’ve entered your virtual memory values, click **Set** , then click **OK** to continue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596c16f59cf66.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re still having problems with Windows 10 hanging after adjusting your virtual memory, try the next fix.
 
@@ -132,10 +132,10 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
@@ -150,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Option 2 – Manually
 
  Microsoft makes it easy for you to get your original system files back. It has an in-built tool called System File Checker that will restore any broken or missing system files that could be causing your PC to freeze.
@@ -164,6 +157,13 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  1) Press the**Windows key** on your keyboard, then type**cmd** (DON’T press Enter). Windows will display a list of programs that match your search. Right-click**Command Prompt** and choose**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-as-administrator.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If prompted to provide administrator permission, click**Yes** .
 
@@ -184,10 +184,10 @@ sfc /scannow
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 5: Run a memory check**
@@ -221,10 +221,10 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a917ba7f6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Locate the hard drive you’d like to check, right-click on it and choose**Properties** .
@@ -232,28 +232,15 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9834949e.png)
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Go to the **Tools** tab and click**Check** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_5940a9a940e55.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) If your hard disk drive is problem-free, you’ll see this:
 
@@ -264,6 +251,13 @@ sfc /scannow
  If you DO see errors, it’s possible they’re causing Windows to freeze, and you should consider upgrading your disk.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 7: Disable C-States in BIOS**
 
@@ -279,6 +273,13 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58d3311bb92d6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Both **C1E Function** and**Intel(R) C-STATE tech** should be **Disabled** . If they’re not, use your keyboard up and down arrows to navigate the list of options, highlight the setting you want to change, press Enter on your keyboard, then press the up or down arrow on your keyboard to change the value to Disabled.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/intelr-c-state-tech.jpg)
@@ -290,13 +291,6 @@ sfc /scannow
 ## Method 8: Switch to ChromeOS
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/ChromeOSDesktop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows is a very old technology. Sure, Windows 10 is relatively new, but it’s still just the latest iteration of a decades-old operating system, designed for a bygone era (pre-internet).
 
@@ -339,20 +333,20 @@ And that’s just the start of the benefits…
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-best-flip-screen-cam-picks-your-guide-to-excellent-vlogging/"><u>[New] 2024 Approved Best Flip-Screen Cam Picks Your Guide to Excellent Vlogging</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-capture-the-best-moments-select-6-top-ranked-short-video-download-tools/"><u>[New] 2024 Approved Capture the Best Moments Select 6 Top-Ranked Short Video Download Tools</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-effortless-earnings-channel-size-no-longer-a-challenge-for-2024/"><u>[Updated] Effortless Earnings Channel Size No Longer a Challenge for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-top-tier-video-transcription-aid-automated-for-2024/"><u>[Updated] Top-Tier Video Transcription Aid, Automated for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-13-pro-max-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 13 Pro Max Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/cyclic-redundancy-check-errors-a-comprehensive-guide-to-troubleshooting-and-resolution/"><u>Cyclic Redundancy Check Errors: A Comprehensive Guide to Troubleshooting and Resolution</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/free-efficient-translation-the-top-8-best-apps-reviewed-for-2024/"><u>Free, Efficient Translation The Top 8 Best Apps Reviewed for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-vac-unsuccessful-in-confirming-game-session-errors-on-steam/"><u>How To Fix 'VAC Unsuccessful in Confirming Game Session' Errors on Steam</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-se-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone SE</u></a></li>
-<li><a href="https://common-error.techidaily.com/lsa-security-guardrails-back-online-boosting-device-protection-levels/"><u>LSA Security Guardrails Back Online, Boosting Device Protection Levels</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202056032-navigate-past-windows-11-update-blockages-solutions-that-work/"><u>Navigate Past Windows 11 Update Blockages – Solutions That Work!</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-troubleshooting-guide-for-non-responsive-lenovo-fingerprint-scanner/"><u>Quick Troubleshooting Guide for Non-Responsive Lenovo Fingerprint Scanner</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-installing-sound-blaster-z-drivers-on-windows-10-pcs/"><u>Step-by-Step Guide to Installing Sound Blaster Z Drivers on Windows 10 PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202153588-surface-synced-type-ready/"><u>Surface Synced, Type Ready</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-definitive-solution-to-dire-directx-complications-error-resolution-strategies/"><u>The Definitive Solution to Dire DirectX Complications: Error Resolution Strategies</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-social-media-broadcast-battle-facebook-vs-youtube-and-twitvision/"><u>[Updated] 2024 Approved Social Media Broadcast Battle FACEbook Vs. YOUTube & TWITVision</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-kinemasters-secret-to-meme-making-mastery/"><u>[Updated] KineMaster's Secret to Meme-Making Mastery</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-mapping-out-your-ideal-tiktok-conclusion/"><u>[Updated] Mapping Out Your Ideal TikTok Conclusion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streaming-showdown-which-superior-broadcaster-tool-are-you/"><u>[Updated] Streaming Showdown Which Superior Broadcaster Tool Are You?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-ustream-showcase-plus-similar-video-sites/"><u>[Updated] Ustream Showcase + Similar Video Sites</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-oppo-a1x-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Oppo A1x 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/convert-rw2-images-into-png-format-for-free-with-movavi-image-editor-online/"><u>Convert RW2 Images Into PNG Format for Free with Movavi Image Editor Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-to-restore-your-lenovos-fingerprint-recognition-feature/"><u>Easy Solutions to Restore Your Lenovo's Fingerprint Recognition Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-track-solutions-get-your-overwatch-voice-communication-back-on-track-today/"><u>Fast-Track Solutions: Get Your Overwatch Voice Communication Back on Track Today</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-an-irregular-picture-error-on-your-windows-operating-system/"><u>How to Correct an Irregular Picture Error on Your Windows Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/managing-svchostexes-network-usage-a-guide-to-fixing-netsvcs-overload-issues/"><u>Managing Svchost.exe's Network Usage: A Guide to Fixing NETsvcs Overload Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issues-with-launching-the-microsoft-store-now-fixed/"><u>Resolved: Issues with Launching the Microsoft Store Now Fixed</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-resolution-for-keyboard-malfunctions-in-hp-computers/"><u>Step-by-Step Resolution for Keyboard Malfunctions in HP Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-guide-for-unknown-usb-device-problem-and-port-reset-failures-on-windows-10-computers/"><u>The Ultimate Fix Guide for 'Unknown USB Device' Problem & Port Reset Failures on Windows 10 Computers</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/unlocking-hardware-acceleration-on-handbrake-without-cuda-support/"><u>Unlocking Hardware Acceleration on HandBrake Without CUDA Support</u></a></li>
 </ul></div>
 

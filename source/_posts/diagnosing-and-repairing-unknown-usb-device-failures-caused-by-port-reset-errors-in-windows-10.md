@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Unknown USB Device Failures Caused by Port Reset Errors in Windows 10
-date: 2024-10-08T20:38:48.019Z
-updated: 2024-10-13T02:54:32.666Z
+date: 2024-10-14T16:12:21.041Z
+updated: 2024-10-18T22:51:26.899Z
 tags:
   - win11
   - win10
@@ -38,19 +38,19 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Replug your audio playback devices
 
  You may plug your audio playback devices (e.g. headphones) in your computer and use them to watch Youtube video. Unplugged your devices and plugged them back in, then the problem should be gone.  
  But this method may work once, can’t last long. To solve the issue permanently, you can move down to other methods.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Restart your computer
 
@@ -68,31 +68,17 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 3. Choose the device that relates to the audio renderer error. Click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If there’s an issue, you’ll see a repair strategy. Click “Yes” to fix it. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Restart your computer and check whether the issue is fixed or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Restart your Audio drivers
 
@@ -101,25 +87,26 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 1. Press the**Windows logo key** +**R** to open the Run box. Type “devmgmt.msc” and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/05.jpg)
 2. In the Device Manager, click**Sound, video and game controllers** . Right-click and choose**Disable device** on every audio adapter.![](https://images.drivereasy.com/wp-content/uploads/2019/05/07.jpg)
-3. Wait for a few seconds, right-click and choose**Enable device** on every audio adapter.![](https://images.drivereasy.com/wp-content/uploads/2019/05/08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. Wait for a few seconds, right-click and choose**Enable device** on every audio adapter.![](https://images.drivereasy.com/wp-content/uploads/2019/05/08.jpg)
 
 4. Restart your computer and check whether the issue is fixed or not.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Update your audio driver
 
@@ -134,6 +121,14 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap67-2.jpg)
 3. Click the**Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap853.jpg)
 4. Restart your computer and check the audio renderer error is fixed or not.
 
@@ -155,10 +150,10 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 7: Set the same sample rate for both audio driver and ASIO driver
@@ -168,18 +163,26 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 1. On your keyboard, press the**Windows logo key** and **R** together to invoke the Run box.
 2. Type “mmsys.cpl” and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/03-2.jpg)
 3. Under the**Playback** tab, select the audio device that meets the issue (if you have more than one audio device) and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/04-1.jpg)
 4. Click the**Advanced** tab, select the sample rate that you wish to use. Then click**OK** . Back to the Sound window, click**Apply** \>**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Open your ASIO driver settings and choose the**Audio** tab. Select the same Sample rate as the previous step.![](https://images.drivereasy.com/wp-content/uploads/2019/05/13.jpg)
 6. Restart your computer and see if the error has been resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -202,21 +205,17 @@ thumbnail: https://thmb.techidaily.com/59ebf54bbd2728b1cee67f80e126289c9f6737977
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-capturing-the-moment-leading-tools-to-record-webinars-and-more/"><u>[New] 2024 Approved Capturing the Moment - Leading Tools to Record Webinars & More</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-first-timers-cameras-guide-best-of-24/"><u>2024 Approved First-Timer's Cameras Guide - Best of '24</u></a></li>
-<li><a href="https://common-error.techidaily.com/easily-resolve-lenovo-function-fn-key-issues-with-these-tips/"><u>Easily Resolve Lenovo Function (Fn) Key Issues with These Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-message-0x80071ac3-decoded-steps-for-reparing-your-storage-device/"><u>Error Message 0X80071AC3 Decoded: Steps for Reparing Your Storage Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-to-restoring-windows-11-using-system-file-checker-sfc-and-deployment-image-servicing-and-management-dism/"><u>Expert Guide to Restoring Windows 11 Using System File Checker (SFC) and Deployment Image Servicing and Management (DISM)</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-blaze-2-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Blaze 2 Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/free-mindset-tunes-no-copyrights/"><u>Free Mindset Tunes - No Copyrights</u></a></li>
-<li><a href="https://win-studio.techidaily.com/gmail-4/"><u>Gmail復原手冊: 您喜愛的電子郵件重返！4簡捷方法</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-lava-blaze-2-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Lava Blaze 2 Phone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-the-windows-10-error-code-0x80070426/"><u>How to Resolve the Windows 10 Error Code 0X80070426</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-y17s-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo Y17s FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-video-trailer-creation-software-for-mac-and-pc/"><u>New 2024 Approved Top Video Trailer Creation Software for Mac and PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-offline-errors-for-windows-11s-printer-port/"><u>Resolving Offline Errors for Windows 11'S Printer Port</u></a></li>
-<li><a href="https://common-error.techidaily.com/restore-your-windows-11-taskbar-icons-with-these-4-effective-tips/"><u>Restore Your Windows 11 Taskbar Icons with These 4 Effective Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-found-for-directx-device-initialization-error/"><u>Solution Found for 'DirectX Device Initialization Error'</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-how-to-restore-your-dell-laptop-from-a-black-screen-malfunction/"><u>Troubleshooting Tips: How to Restore Your Dell Laptop From a Black Screen Malfunction</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-elite-mac-audio-enhanced-screen-recorder/"><u>[New] Elite Mac Audio-Enhanced Screen Recorder</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-10-androidios-weddings-ultimate-countdown-timer-apps/"><u>[New] Top 10 Android/iOS Weddings Ultimate Countdown Timer Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expertise-in-action-mastering-iphone-silhouette-art/"><u>[Updated] Expertise in Action Mastering iPhone Silhouette Art</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/dji-drone-prospectus-phantom-3-edition/"><u>DJI Drone Prospectus Phantom 3 Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-critical-network-problem-error-0x800704cf-in-windows-systems/"><u>How To Fix The Critical Network Problem (Error 0X800704CF) In Windows Systems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/major-update-alert-filmora-x-now-optimized-for-arm-processors/"><u>Major Update Alert Filmora X Now Optimized for ARM Processors</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-lava-blaze-2-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Lava Blaze 2 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-fixing-steam-update-download-failures/"><u>Step-by-Step Solution for Fixing Steam Update Download Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-fixing-airpod-pairing-on-your-pc-win-10-and-11-solutions/"><u>The Ultimate Guide to Fixing AirPod Pairing on Your PC: Win 10 & 11 Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-guide-to-vivacut-a-detailed-2024-review/"><u>The Ultimate Guide to VivaCut A Detailed 2024 Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-making-windows-hello-work-on-your-windows-11-pc/"><u>Troubleshooting Guide: Making Windows Hello Work on Your Windows 11 PC</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-edit-mp4-videos-on-your-pc-a-comprehensive-guide-for-windows-8-for-2024/"><u>Updated Edit MP4 Videos on Your PC A Comprehensive Guide for Windows 8 for 2024</u></a></li>
 </ul></div>
 

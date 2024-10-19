@@ -1,7 +1,7 @@
 ---
 title: "Win10/11: Manage Overloaded Cores"
-date: 2024-09-09T09:34:09.279Z
-updated: 2024-09-14T23:57:36.655Z
+date: 2024-10-11T19:20:01.218Z
+updated: 2024-10-19T01:19:19.084Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Launch as administrator
 
  The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, League of Legends can make full use of its features, running its function properly. So run it as an administrator to see if this fixes the slow download issue.
@@ -62,7 +69,28 @@ Downloading again to see if it works.
 2. Click**Turn Windows Defender Firewall on or off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Re-download to check.
 
@@ -72,10 +100,10 @@ Re-download to check.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Manually install .NET framework 3.5
@@ -117,13 +145,6 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -148,5 +169,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-thumbnail-dimensions-the-key-to-youtube-attraction/"><u>[New] 2024 Approved Thumbnail Dimensions The Key to YouTube Attraction</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-coordinating-zoom-meetings-with-iphone-android-and-computer-timelines-for-2024/"><u>[New] Coordinating Zoom Meetings with iPhone, Android, and Computer Timelines for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-destiny-2-stuck-on-initializing/"><u>[Solved] Destiny 2 Stuck on Initializing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-smartphone-as-an-artists-canvas-producing-quality-youtube-video-content/"><u>[Updated] Your Smartphone as an Artist’s Canvas Producing Quality YouTube Video Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-crafting-comfortable-cinematography-amidst-the-chill/"><u>2024 Approved Crafting Comfortable Cinematography Amidst the Chill</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-srs-tuning-methods-for-macwin-users/"><u>2024 Approved Leading SRS Tuning Methods for Mac/Win Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/busting-barriers-with-laughs-the-best-facebook-prisoner-wit-quotes/"><u>Busting Barriers with Laughs The Best Facebook Prisoner-Wit Quotes</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-an-uncharged-acer-computer-step-by-step-guide-and-advice/"><u>How to Fix an Uncharged Acer Computer: Step-by-Step Guide & Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-troubling-windows-11-update-issue-code-0x80240034-explained/"><u>How to Fix the Troubling Windows 11 Update Issue: Code 0X80240034 Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-endless-restart-loop/"><u>How to Fix Windows 11 Endless Restart Loop</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-c53-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme C53</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-a-nonworking-laptop-mic-completed/"><u>Troubleshooting and Repairing a Nonworking Laptop Mic [COMPLETED]</u></a></li>
+</ul></div>
 

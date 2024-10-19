@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Troubleshooting Guide: Resolving a Non-Responsive Mouse on Your Computer"
-date: 2024-09-14T16:01:08.474Z
-updated: 2024-09-15T16:00:52.584Z
+date: 2024-10-12T22:22:02.624Z
+updated: 2024-10-18T23:14:24.438Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Click every blue button to disable any extension listed in the panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.9-1024x753.jpg)
@@ -68,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
  4) Enable your installed extensions one by one to find which one is causing the problem. Then disable or remove it.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Turn off the**Help improve Chrome’s features and performance** option
 
@@ -88,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Restart Chrome and open a URL in the third-party app to check if the error appears or not.
 
 ---
@@ -102,31 +123,11 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.10-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down to the bottom and click**Advanced** .
 
  4) Scroll down to the bottom and click**Restore settings to their original defaults** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click**Reset settings** to reset Google Chrome.
 
@@ -146,6 +147,13 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the open Window, click**Clear browsing data** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
@@ -153,6 +161,13 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
  4) Click**Clear data** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Relaunch Chrome and open a URL in the third-party app to check the error will appear or not.
 
@@ -167,6 +182,13 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/5.5-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the**Shortcut** tab, add`“--process-per-site”` in the Target box and then click**Apply** .  
  Next, a window will appear. Click**Continue** , then click**OK** .  
 **Note** : There’s a space before`“--process-per-site”` .
@@ -180,10 +202,10 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 6: Rename the Google Chrome profile
@@ -197,13 +219,6 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
 3) Type “%LOCALAPPDATA%” and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/run.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Double click**Google** \>**Chrome** \>**User Data** to locate the**Default** folder.
 
@@ -231,13 +246,6 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/control-1024x626.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Set Control Panel view by**Category** . Then click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap821-1024x665.jpg)
@@ -245,6 +253,13 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
  3) Right-click on Google Chrome and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/uninstall-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Use another browser to download the latest version of Google Chrome from the[Google Chrome official website](https://www.google.com/chrome/?brand=CHBD&gclid=EAIaIQobChMI0sLo0YH%5F4QIVksJkCh1jiw8SEAAYASAAEgIDF%5FD%5FBwE&gclsrc=aw.ds) .  
 
@@ -269,5 +284,20 @@ thumbnail: https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebba
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cut-to-perfection-premier-android-editing-software/"><u>[New] 2024 Approved Cut to Perfection Premier Android Editing Software</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-maximizing-performance-optimize-mov-files-in-win-11/"><u>[New] Maximizing Performance Optimize MOV Files in Win 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-efficiently-redistributing-your-creative-works/"><u>[Updated] Efficiently Redistributing Your Creative Works</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-oppo-find-n3-flip-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Oppo Find N3 Flip to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-issues-with-dell-wireless-keyboards-and-proven-fixes-to-resolve-them/"><u>Common Issues with Dell Wireless Keyboards and Proven Fixes to Resolve Them</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-dvd-playback-errors-in-windows-systems/"><u>Diagnosing and Resolving DVD Playback Errors in Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/get-lenovos-unresponsive-mouse-pad-up-and-running-in-windows-os-windows-7-8-and-11/"><u>Get Lenovo's Unresponsive Mouse Pad Up and Running in Windows OS (Windows 7, 8 & 11)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-tiktok-the-definitive-guide-to-optimal-video-sizing/"><u>Mastering TikTok: The Definitive Guide to Optimal Video Sizing</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-stubborn-software-glitches-ps-and-windows-guide/"><u>Navigating Stubborn Software Glitches: PS & Windows Guide</u></a></li>
+<li><a href="https://techidaily.com/remove-honor-x50iplus-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Honor X50i+ unlock screen</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-on-integrating-disneyplus-into-your-chromecast-experience/"><u>Step-by-Step Instructions on Integrating Disney+ Into Your Chromecast Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/steps-to-successfully-restore-and-activate-your-battleye-antivirus-service/"><u>Steps to Successfully Restore and Activate Your BattlEye Antivirus Service</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-windows-11-login-problems-overcoming-user-profile-service-failures/"><u>Troubleshoot Windows 11 Login Problems: Overcoming User Profile Service Failures</u></a></li>
+</ul></div>
 

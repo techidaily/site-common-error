@@ -1,7 +1,7 @@
 ---
 title: Diagnose and Fix the Excessive CPU Load on Your Computer's System Idle Task
-date: 2024-09-07T18:35:56.417Z
-updated: 2024-09-14T22:50:50.680Z
+date: 2024-10-16T22:35:33.123Z
+updated: 2024-10-18T18:16:42.137Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/d7fc33001fbc9f5f434107b4cf49e4fbc2a35ddb5
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -47,6 +54,13 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -71,19 +85,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -110,10 +111,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
@@ -124,6 +125,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -142,10 +150,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
@@ -184,5 +192,21 @@ Here is how to make sure you’ve disabled Filter Keys:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/fixed-call-of-duty-ww2-error-code-4220/"><u>[FIXED] Call of Duty WW2 Error Code 4220</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-adobe-premiere-soundtrack-guide/"><u>[New] The Ultimate Adobe Premiere Soundtrack Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-event-harmony-sourcing-perfect-dj-video-templates/"><u>[Updated] 2024 Approved Event Harmony Sourcing Perfect DJ Video Templates</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-streamlining-video-uploads-tips-for-transforming-h-vids-for-igtv-for-2024/"><u>[Updated] Streamlining Video Uploads Tips for Transforming H-Vids for IGTV for 2024</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/descargar-e-importar-archivos-de-video-desde-converter-mpg-a-ogg-sin-coste-guia-paso-a-paso-con-movavi/"><u>Descargar E Importar Archivos De Video Desde Converter .mpg a .ogg Sin Coste: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/devise-giggle-generating-pictorials-for-giphy/"><u>Devise Giggle-Generating Pictorials for Giphy</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-steam-servers-not-reachable-error-and-enjoy-gaming-again/"><u>How to Fix 'Steam Servers Not Reachable' Error and Enjoy Gaming Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210744015-how-to-resolve-persistent-cursor-blink-a-detailed-tutorial/"><u>How To Resolve Persistent Cursor Blink - A Detailed Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-the-functionality-of-your-windows-11-start-menu-expert-advice/"><u>Restoring the Functionality of Your Windows 11 Start Menu: Expert Advice</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/reveal-hidden-gems-top-12-steps-to-make-your-fb-videos-show-up/"><u>Reveal Hidden Gems Top 12 Steps to Make Your FB Videos Show Up</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-strategies-for-winning-over-trustedinstaller-and-editing-files/"><u>Step-by-Step Strategies for Winning Over TrustedInstaller and Editing Files</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/successfully-overcome-setup-hurdle-for-nvidia/"><u>Successfully Overcome Setup Hurdle for Nvidia</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-realme-narzo-n55-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Realme Narzo N55 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme C67 5G? | Dr.fone</u></a></li>
+</ul></div>
 

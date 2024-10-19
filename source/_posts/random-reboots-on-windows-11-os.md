@@ -1,7 +1,7 @@
 ---
 title: Random Reboots on Windows 11 OS
-date: 2024-10-10T19:28:59.722Z
-updated: 2024-10-12T17:25:37.852Z
+date: 2024-10-15T22:56:50.544Z
+updated: 2024-10-19T04:02:55.246Z
 tags:
   - win11
   - win10
@@ -55,19 +55,19 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 4. Use your computer for a while to see if it restarts randomly. If the problem remains, please move on.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Change advanced power settings
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 2. Click **Change advanced power settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/09/img_59b7941bdec4c.png)
@@ -105,28 +105,34 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti-3.jpg)
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Run a memory check
 
@@ -145,6 +151,14 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-54-28.jpg)
 6. Click **Windows Logs** \>> **System** \>> **Find** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_15-56-41.jpg)
 7. Type **memory diagnostic** , then click **Find Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-29-00.jpg)
@@ -152,13 +166,6 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_16-00-48.jpg)
 
  If you do see an error, you may consider replacing your RAM sticks. You will need to check if your device is still under warranty or consult your machine’s manufacturer for assistance if you’re not tech-savvy enough to do this on your own.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Repair system files
 
@@ -172,14 +179,14 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Check power issue
 
@@ -198,10 +205,10 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-84.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Here is a detailed post with more detailed information if your computer is overheating and how you can do about it: [**How to Know Your CPU Overheating and How to Fix It**](https://tools.techidaily.com/drivereasy/download/)
@@ -225,20 +232,24 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-adjusting-settings-stop-automatic-additions-of-podcast-listings/"><u>[New] Adjusting Settings Stop Automatic Additions of Podcast Listings</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-capture-app-windows-10-edition/"><u>[New] Ultimate Capture App - Windows 10 Edition</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unlock-your-pcs-potential-with-these-5-windows-11-recording-methods/"><u>[New] Unlock Your PC's Potential with These 5 Windows 11 Recording Methods</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-behind-the-scenes-of-effective-instagram-caption-use/"><u>[Updated] 2024 Approved Behind the Scenes of Effective Instagram Caption Use</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/3gppwmv-movavi/"><u>免費移動電信格式翻譯：3GPP到WMV - 使用Movavi進行無線上的圖像編解碼</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/cutting-edge-5-online-media-recording-units/"><u>Cutting-Edge 5 Online Media Recording Units</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-dealing-with-an-unresponsive-internet-explorer-browser/"><u>Effective Solutions for Dealing with an Unresponsive Internet Explorer Browser</u></a></li>
-<li><a href="https://common-error.techidaily.com/elaborate-on-how-solving-problems-aids-personal-growth-and-self-reliance/"><u>Elaborate on How Solving Problems Aids Personal Growth and Self-Reliance.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/expert-advice-keeping-your-motherboard-operating-smoothly-with-updated-drivers-in-windows/"><u>Expert Advice: Keeping Your Motherboard Operating Smoothly with Updated Drivers in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-addressing-the-your-computer-cannot-start-error-message/"><u>Expert Tips for Addressing the 'Your Computer Cannot Start' Error Message</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-troubleshooting-and-repairing-unsuccessful-writes-to-referenced-0x-memory-locations/"><u>Fixed: Troubleshooting and Repairing Unsuccessful Writes to Referenced 0X Memory Locations</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 11? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-volume-control-glitches-in-windows-10-effective-solutions-for-crystal-clear-audio/"><u>Overcoming Volume Control Glitches in Windows 10: Effective Solutions for Crystal Clear Audio</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-fixing-a-vanishing-taskbar-on-windows-10-discover-4-key-methods/"><u>The Ultimate Guide to Fixing a Vanishing Taskbar on Windows 10 - Discover 4 Key Methods</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-6-metaverse-examples-to-help-you-have-a-deep-insight-about-it-useful/"><u>[New] 6 Metaverse Examples to Help You Have a Deep Insight About It [Useful]</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sketch-masters-on-ipados-top-8-artistic-apps/"><u>[New] Sketch Masters on iPadOS Top 8 Artistic Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-opengl-lacking-drivers-endorsement/"><u>[Solved] OpenGL Lacking Drivers' Endorsement</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-screenflow-mastery-on-macos-uncovered/"><u>[Updated] 2024 Approved ScreenFlow Mastery on macOS Uncovered</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exploring-media-top-ranking-camera-apps-for-iphonesandroid-devices/"><u>[Updated] In 2024, Exploring Media Top-Ranking Camera Apps for iPhones/Android Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-guide-for-virtual-reality-content-android-friendly-for-2024/"><u>[Updated] The Ultimate Guide for Virtual Reality Content (Android-Friendly) for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-free-updates-your-ultimate-solution-to-deal-with-windows-error-0x80240017/"><u>Error-Free Updates: Your Ultimate Solution to Deal with Windows Error 0X80240017</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-huion-graphics-tablet-issues-in-minutes-top-5-methods/"><u>Fix Huion Graphics Tablet Issues in Minutes - Top 5 Methods!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-user-profile-service-failed-error-on-your-windows-pc/"><u>Fixing the 'User Profile Service Failed' Error on Your Windows PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correct-the-green-boot-failure-screen-in-windows-10-and-11/"><u>How to Correct the Green Boot Failure Screen in Windows 10 & 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-10-installation-error-80240020-comprehensive-guide/"><u>How to Fix Windows 10 Installation Error 802^40020 - Comprehensive Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-assembling-a-visual-story-using-iphone-images/"><u>In 2024, Assembling a Visual Story Using iPhone Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expertise-in-hdr-perfecting-dynamic-range-in-photoshop/"><u>In 2024, Expertise in HDR Perfecting Dynamic Range in Photoshop</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcome-the-0x80073712-error-in-windows-10-tips-and-tricks-for-a-smooth-operating-experience/"><u>Overcome the 0X80073712 Error in Windows 10: Tips and Tricks for a Smooth Operating Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-puzzle-troubleshooting-client-and-server-vpn-error-800/"><u>Solving the Puzzle: Troubleshooting Client & Server VPN Error 800</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixes-for-when-you-cant-reach-your-favorite-steam-games/"><u>Troubleshooting Guide: Fixes for When You Can't Reach Your Favorite Steam Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-guide-enable-support-for-your-graphics-card-in-fortnite-on-windows/"><u>Update Guide: Enable Support for Your Graphics Card in Fortnite on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/valorant-tech-guide-ultimate-solutions-for-resolving-screen-rippling/"><u>Valorant Tech Guide: Ultimate Solutions for Resolving Screen Rippling</u></a></li>
 </ul></div>
 

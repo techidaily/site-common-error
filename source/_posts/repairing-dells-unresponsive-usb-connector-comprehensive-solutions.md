@@ -1,7 +1,7 @@
 ---
 title: Repairing Dell's Unresponsive USB Connector - Comprehensive Solutions
-date: 2024-09-09T12:27:44.260Z
-updated: 2024-09-14T18:45:33.006Z
+date: 2024-10-13T20:27:54.211Z
+updated: 2024-10-18T22:21:16.391Z
 tags:
   - win11
   - win10
@@ -52,9 +52,23 @@ Follow these:
 
  1) On your keyboard, press the **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/01/win-key.png)**  and**I** (at the same time) to invoke the Settings window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Ease of Access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe62d2e8ba.png)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Select **Keyboard** on the left pane. Then make sure the status of **Sticky Keys, Toggle Keys**  and **Filter Keys** are all set to **Off** . If there is any one set to **On** , switch it to **Off**  instead.
 
@@ -70,11 +84,25 @@ Follow these:
 
 ![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Update your keyboard driver
 
@@ -115,12 +143,26 @@ Or click **Update All**  to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/solved-computer-restarts-when-playing-games/"><u>[SOLVED] Computer Restarts When Playing Games</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-haste-assessment-of-windows-documents/"><u>[Updated] 2024 Approved Haste Assessment of Windows Documents</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-navigate-easy-customization-for-youtube-channel-urls/"><u>[Updated] In 2024, Navigate Easy Customization for YouTube Channel URLs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-video-voyaging-navigating-twittersphere-and-tumbleverse-for-2024/"><u>[Updated] Video Voyaging Navigating Twittersphere & Tumbleverse for 2024</u></a></li>
+<li><a href="https://fox-search.techidaily.com/comment-cloner-de-maniere-securisee-un-cartouche-memoire-sd-sur-pc/"><u>Comment Cloner De Manière Sécurisée Un Cartouche Mémoire (SD) Sur PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212302588-fix-your-bluetooth-troubles-visible-now-in-device-manager/"><u>Fix Your Bluetooth Troubles: Visible Now in Device Manager!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-persistent-windows-11-update-error-0x8024401c-once-and-for-all/"><u>How to Fix the Persistent Windows 11 Update Error 0X8024401c Once and For All!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-fix-the-livekernelevent-error-code/"><u>How to Troubleshoot and Fix the LiveKernelEvent Error (Code</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-honor-90-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor 90 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-11-pro-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 11 Pro Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-troubles-learn-how-to-perform-a-quick-reset/"><u>Keyboard Troubles? Learn How to Perform a Quick Reset!</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-fixes-for-easier-handling-of-steam-write-errors/"><u>Mastering Fixes for Easier Handling of Steam Write Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-to-delayed-fortnite-starts/"><u>Say Goodbye to Delayed Fortnite Starts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-troubleshooting-for-openal32dll-not-detected-errors/"><u>Step-by-Step Troubleshooting for OpenAL32.dll Not Detected Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-triumph-sound-issues-in-acer-notebooks-demystified/"><u>Troubleshoot and Triumph: Sound Issues in Acer Notebooks Demystified</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-getting-your-playstation-microphone-back-online/"><u>Troubleshooting Tips: Getting Your PlayStation Microphone Back Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-vector-databases-enhancing-ai-performance/"><u>Understanding Vector Databases: Enhancing AI Performance</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/vidma-screen-recorder-review/"><u>Vidma Screen Recorder Review</u></a></li>
+</ul></div>
 

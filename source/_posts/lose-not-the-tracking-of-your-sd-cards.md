@@ -1,7 +1,7 @@
 ---
 title: Lose Not the Tracking of Your SD Cards!
-date: 2024-10-08T00:24:08.010Z
-updated: 2024-10-13T01:00:56.398Z
+date: 2024-10-16T02:20:29.677Z
+updated: 2024-10-18T20:54:23.530Z
 tags:
   - win11
   - win10
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Clean your SD card & reader
 
  Another very common cause of an unrecognized SD card is a very simple one: a dirty SD card or a dusty card reader. Either will cause a poor contact between card and reader.
@@ -78,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a50eeaca64.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 ## Method 3: Check if your card reader is disabled
@@ -94,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
  To check, restart your PC, and at the splash screen (the first screen you see after restarting), look for an instruction that tells you to press a certain key on your keyboard to enter your “BIOS” or “Settings” (e.g. F2 or Delete). Every motherboard manufacturer has their own unique BIOS with its own keyboard shortcut, so we can’t say exactly which key to press to get in.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a051c4cb26bf.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Likewise all manufacturers organize their BIOS settings their own way; there’s no standard way of doing it. So we can’t tell you exactly what setting to change, and how to find that setting. But once you’re in the BIOS, it shouldn’t be too hard to find the ‘on/off’ switch for your card reader. Just look for a section related to devices or storage, and within that section look for something like “SD Reader” or “Card Reader”. Enable that setting if it’s not already enabled, then save and exit the BIOS. (Be sure to save as you exit. Some manufacturers make it very easy to leave the BIOS without saving your changes, and if you do, you won’t have changed anything.)
 
@@ -114,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/15a61f0827860e342a65d573fdf8ef935cbe188b5
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 5: Disable then enable card reader (from other users)
@@ -142,6 +135,13 @@ If you’re not sure how to do that, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37954379bfc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Go to**Driver** tab. Click**Disable Device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3795ccae49c.png)
@@ -150,16 +150,16 @@ If you’re not sure how to do that, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3798a978d8d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Double-click the card reader to open the Properties windows. Click**Enable Device** to re-enable the device.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3799136c9a1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -180,21 +180,20 @@ If you’re not sure how to do that, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-androids-premier-3d-visualization-app-for-2024/"><u>[New] Android's Premier 3D Visualization App for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfecting-your-pics-with-facetune-a-full-guide/"><u>[New] Perfecting Your Pics with Facetune - A Full Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-stop-the-mute-add-sound-to-tweeted-clips/"><u>[Updated] In 2024, Stop the Mute Add Sound to Tweeted Clips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-creativity-the-leading-chrome-drawing-apps/"><u>[Updated] Mastering Creativity The Leading Chrome Drawing Apps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-offline-replay-select-playlist-extractors-reviewed/"><u>[Updated] Offline Replay Select Playlist Extractors Reviewed</u></a></li>
-<li><a href="https://common-error.techidaily.com/blackout-phenomenon-screen-quest/"><u>Blackout Phenomenon: Screen Quest</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-galaxy-ford-f-150-rc-car-assessment-a-look-at-a-dominant-force-in-the-world-of-toy-trucks/"><u>Comprehensive Galaxy Ford F-150 RC Car Assessment: A Look at a Dominant Force in the World of Toy Trucks</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-repairing-malfunctioning-shift-key-on-your-computer/"><u>Expert Tips: Repairing Malfunctioning Shift Key on Your Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-mystery-how-to-stop-your-pc-from-shutting-down-unexpectedly/"><u>Fixing the Mystery: How to Stop Your PC From Shutting Down Unexpectedly</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-update-error-code-8007000e-fast-and-effective-solutions/"><u>Fixing Windows Update Error Code 8007000E: Fast and Effective Solutions</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-content-composer-arena/"><u>In 2024, Content Composer Arena</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-remedies-to-prevent-your-csgo-from-suddenly-shutting-down/"><u>Quick Remedies to Prevent Your CSGO From Suddenly Shutting Down</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206874291-trouble-with-updownleftright-keys-discover-easy-fixes-now/"><u>Trouble with Up/Down/Left/Right Keys? Discover Easy Fixes Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-generative-ai-and-its-revolutionary-impact/"><u>Understanding Generative AI and Its Revolutionary Impact</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unveiling-the-elite-comprehensive-oculus-review-guide/"><u>Unveiling the Elite Comprehensive Oculus Review Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-solution-how-to-unstuck-and-repair-your-keyboards-locked-keys/"><u>Windows Solution: How to Unstuck and Repair Your Keyboard's Locked Keys</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unmatched-melodies-selector-android-companion/"><u>[New] 2024 Approved Unmatched Melodies Selector, Android Companion</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mastering-simple-multi-snap-chat-video-creation-and-editing/"><u>[Updated] 2024 Approved Mastering Simple Multi-Snap Chat Video Creation & Editing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-enhance-your-presence-how-to-change-voice-effectively-on-ig/"><u>2024 Approved Enhance Your Presence How to Change Voice Effectively on IG</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bambulab-x1-carbon-assessment-pinnacle-of-modern-3d-printing-technology/"><u>BambuLab X1-Carbon Assessment: Pinnacle of Modern 3D Printing Technology</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-repairing-your-pcs-affected-app-download-cache-fixed/"><u>Comprehensive Guide: Repairing Your PC's Affected App Download Cache (FIXED)</u></a></li>
+<li><a href="https://common-error.techidaily.com/detailed-instructions-for-fixing-unresponsive-function-key-issues/"><u>Detailed Instructions for Fixing Unresponsive Function Key Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-repair-techniques-for-the-driverpowerstatefailure-complication/"><u>Easy Repair Techniques for the DRIVER_POWER_STATE_FAILURE Complication</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-of-mic-issues-welcome-back-to-discord/"><u>End of Mic Issues, Welcome Back to Discord</u></a></li>
+<li><a href="https://discover-best.techidaily.com/enhanced-user-engagement-with-automated-cookiebot-integration/"><u>Enhanced User Engagement with Automated Cookiebot Integration</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11s-malfunctioning-start-button-easily/"><u>Fixing Windows 11'S Malfunctioning Start Button Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-s17-pro-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo S17 Pro?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-your-binge-sessions-leveraging-the-power-of-pip-on-netflix/"><u>In 2024, Streamline Your Binge Sessions Leveraging the Power of PIP on Netflix</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-windows-could-not-complete-the-installation-errors/"><u>Quick Fixes for 'Windows Could Not Complete the Installation' Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/shrink-high-wmi-cpu-load-in-win1011/"><u>Shrink High WMI CPU Load in Win10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-to-dragon-ball-fighterzs-network-start-up-error/"><u>Solution to Dragon Ball FighterZ's Network Start-Up Error</u></a></li>
 </ul></div>
 

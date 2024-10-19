@@ -1,7 +1,7 @@
 ---
 title: "Fixing Surface Device: Troubleshooting Non-Charging Issues"
-date: 2024-09-10T16:00:31.964Z
-updated: 2024-09-15T16:00:56.286Z
+date: 2024-10-16T04:11:00.451Z
+updated: 2024-10-19T02:54:31.916Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/WeChat7a797c10615ac4351f0fb3895da7d65e.png)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Turn off your keyboard.
 2. Press and hold the**ESC** key.
 3. While holding down the ESC key, turn on your keyboard and wait for a few seconds until the keyboard begins to flash.
@@ -65,13 +72,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Update and configure the iCUE software
 
  iCUE is a software that allows you to control the performance of Corsair’s devices. Updating the iCUE software may help you deal with bugs that relate to your backlight problem. Here is how:
@@ -81,19 +81,34 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 1. Open iCUE and click the**Settings** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/icue-setting.jpg)  
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -115,5 +130,26 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-become-a-pro-at-mac-audio-recording-using-audacity-today/"><u>[New] 2024 Approved Become a Pro at Mac Audio Recording Using Audacity Today</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-newcomers-cheat-sheet-unlock-ps-editing-secrets/"><u>[Updated] Newcomer's Cheat Sheet Unlock PS Editing Secrets</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-seamless-acquisition-of-twitters-jokes-for-pc-for-2024/"><u>[Updated] Seamless Acquisition of Twitter's Jokes for PC for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/sized-content-explanation-the-lowdown/"><u>Bite-Sized Content Explanation The Lowdown</u></a></li>
+<li><a href="https://common-error.techidaily.com/call-of-duty-ww2-error-code-4220-a-step-by-step-repair-guide/"><u>Call of Duty WW2 Error Code 4220 - A Step-by-Step Repair Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/elevated-window-11-display-controls-unveiled/"><u>Elevated Window 11 Display Controls Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-handling-loadlibrary-error-message-the-parameter-is-incorrect-causes-and-fixes-for-error-87/"><u>Expert Tips on Handling LoadLibrary Error Message: The Parameter Is Incorrect, Causes, and Fixes for Error 87</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-disappeared-desktop-icon-problems-in-windows-11-users/"><u>Fixes for Disappeared Desktop Icon Problems in Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-nonfunctional-dell-usb-port-ultimate-troubleshooting-guide/"><u>How to Fix a Nonfunctional Dell USB Port: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y27-4g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y27 4G Phone without Any Data Loss</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-directory-30plus-zero-cost-online-tools-for-visual-effects/"><u>In 2024, The Ultimate Directory 30+ Zero-Cost Online Tools for Visual Effects</u></a></li>
+<li><a href="https://games-able.techidaily.com/origins-and-odyssey-foddian-games-tale/"><u>Origins and Odyssey: Foddian Games Tale</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-with-generating-directx-graphics-device-in-your-project/"><u>Resolved: Issue with Generating DirectX Graphics Device in Your Project</u></a></li>
+<li><a href="https://common-error.techidaily.com/speeding-up-your-computer-simple-cleanup-techniques-for-better-speed/"><u>Speeding Up Your Computer: Simple Cleanup Techniques for Better Speed</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-realme-narzo-60x-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Realme Narzo 60x 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-overcoming-common-battleye-service-installation-errors/"><u>Troubleshooting Tips: Overcoming Common BattlEye Service Installation Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-what-to-do-when-applicationexe-fails-to-run/"><u>Troubleshooting Tips: What To Do When Application.exe Fails to Run</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206835231-ultimate-troubleshooter-for-computers-unable-to-shutdown-windows-10-fixed/"><u>Ultimate Troubleshooter for Computers Unable to Shutdown Windows 10 - FIXED!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-remove-filmora-logo-from-your-videos-easy-solutions-for-2024/"><u>Updated Remove Filmora Logo From Your Videos Easy Solutions for 2024</u></a></li>
+</ul></div>
 

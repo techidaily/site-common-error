@@ -1,7 +1,7 @@
 ---
 title: Fixing the Slow Download Problem in League of Legends Once and For All
-date: 2024-09-08T01:42:11.177Z
-updated: 2024-09-14T19:03:25.695Z
+date: 2024-10-17T22:54:42.532Z
+updated: 2024-10-19T00:41:42.811Z
 tags:
   - win11
   - win10
@@ -60,8 +60,24 @@ Downloading again to see if it works.
 1. Click the Start button, type**windows firewall** in the search box and press the**Enter** key to open**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
 
 Re-download to check.
@@ -72,10 +88,10 @@ Re-download to check.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Manually install .NET framework 3.5
@@ -85,19 +101,6 @@ Re-download to check.
  So you can[download](https://www.microsoft.com/en-sg/download/details.aspx?id=21) and install the framework to solve the issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus: Update your drivers
 
@@ -127,6 +130,14 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
@@ -154,5 +165,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/camera-troubles-behind-you-expert-tips-to-rectify-windows-error-0xa00f4292-and-resume-photography/"><u>[Camera Troubles Behind You]: Expert Tips to Rectify Windows Error 0xA00F4292 and Resume Photography!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-add-filters-effects-and-masks-in-google-meet-for-2024/"><u>[New] How to Add Filters, Effects, and Masks in Google Meet for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-expertise-in-editing-mastery-a-dive-into-filmoras-best-practices/"><u>[Updated] 2024 Approved Expertise in Editing Mastery A Dive Into Filmora's Best Practices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-merging-markets-youtube-and-brand-collaboration-concepts/"><u>[Updated] 2024 Approved Merging Markets YouTube and Brand Collaboration Concepts</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeating-skyrims-infinite-load-screen-effective-troubleshooting-techniques/"><u>Defeating Skyrim's Infinite Load Screen: Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fix-for-unity-initialization-graphics-glitch-beginner-friendly-tips/"><u>Effortless Fix for Unity Initialization Graphics Glitch - Beginner-Friendly Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-complications-with-the-windows-1903-os-update/"><u>How to Overcome Complications with the Windows 1903 OS Update</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/loom-lens-illuminating-your-recording-journey-for-2024/"><u>Loom Lens Illuminating Your Recording Journey for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prime-authors-draft-platform/"><u>Prime Author's Draft Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-acrocefexe-programming-faults-and-issues/"><u>Solving the acrocef.exe Programming Faults and Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-top-five-flying-toys-for-youth-for-2024/"><u>The Top Five Flying Toys for Youth for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-your-astro-a40-microphone-issues-quick-fixes-and-solutions/"><u>Troubleshoot Your Astro A40 Microphone Issues: Quick Fixes & Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-class-not-registered-problem-on-windows-10-systems/"><u>Troubleshooting the Class Not Registered Problem on Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-solving-the-puzzle-of-twitch-error-code-4000/"><u>Ultimate Guide: Solving the Puzzle of Twitch Error Code 4000</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-y17s-by-fonelab-android-recover-data/"><u>Undelete lost data from Y17s</u></a></li>
+</ul></div>
 

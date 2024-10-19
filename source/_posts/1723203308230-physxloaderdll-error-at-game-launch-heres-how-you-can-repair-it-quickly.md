@@ -1,7 +1,7 @@
 ---
 title: PhysXLoader.dll Error at Game Launch? Here’s How You Can Repair It Quickly!
-date: 2024-10-09T18:04:28.776Z
-updated: 2024-10-12T23:18:52.182Z
+date: 2024-10-15T00:07:19.007Z
+updated: 2024-10-18T19:41:00.814Z
 tags:
   - win11
   - win10
@@ -41,20 +41,27 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
@@ -73,13 +80,6 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
@@ -87,10 +87,10 @@ Here’s how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -103,13 +103,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 3. Click on **your microphone device again** and click**Properties** .  
@@ -117,10 +110,10 @@ To do so:
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
@@ -128,6 +121,13 @@ To do so:
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -162,14 +162,21 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-tips-for-steam-gamers-recordings/"><u>[Updated] 2024 Approved Essential Tips for Steam Gamers' Recordings</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/capture-and-share-your-games-like-a-pro-with-these-windows-11-tactics-for-2024/"><u>Capture and Share Your Games Like a Pro with These Windows 11 Tactics for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-when-function-keys-fail-to-work-properly/"><u>Effective Solutions for When Function Keys Fail to Work Properly</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-techniques-to-solve-no-signal-detected-monitor-glitches/"><u>Effective Techniques to Solve 'No Signal Detected' Monitor Glitches</u></a></li>
-<li><a href="https://common-error.techidaily.com/fast-track-troubleshooting-battery-not-recognized-error-solved-effortlessly/"><u>Fast Track Troubleshooting: 'Battery Not Recognized' Error Solved Effortlessly</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/lock-your-samsung-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-implementing-pc-manager-in-w11/"><u>Step-by-Step: Implementing PC Manager in W11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-non-functional-brightness-settings-on-windows-10/"><u>Troubleshooting: Fixing Non-Functional Brightness Settings on Windows 10</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/windows-server-backup-r2-display-issues-resolved-comprehensive-guide/"><u>Windows Server Backup R2 Display Issues Resolved - Comprehensive Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-ultimate-guide-to-designing-captivating-podcast-logos/"><u>[New] 2024 Approved The Ultimate Guide to Designing Captivating Podcast Logos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-guide-to-evaluating-and-enhancing-your-instream-ads-on-facebook-for-2024/"><u>[New] The Ultimate Guide to Evaluating & Enhancing Your Instream Ads on Facebook for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-continuous-improvement-regularly-practice-and-evaluate-your-listening-skills-identifying-areas-for-improvement-30-new-titles-that-convey-similar-mea/"><u>[Updated] Continuous Improvement Regularly Practice and Evaluate Your Listening Skills, Identifying Areas for Improvement. 30 New Titles that Convey Similar Meanings to How to Change Your Voice in Free Fire Game? [Free Solution Included]</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-troublesome-applications-now-how-to-restore-proper-functionality/"><u>Fix Your Troublesome Applications Now! How to Restore Proper Functionality</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-windows-update-0x800705b4-issue-on-windows-11-step-by-step-guide/"><u>How to Fix the Windows Update 0X800705b4 Issue on Windows 11 - Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-visuals-a-users-manual-for-diagnosing-the-dark-display-dilemma-on-windows-11/"><u>How to Restore Visuals: A User's Manual for Diagnosing the Dark Display Dilemma on Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-poco-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Poco</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-create-captivating-sports-videography/"><u>In 2024, Create Captivating Sports Videography</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-tecno-phantom-v-fold-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Tecno Phantom V Fold Through Google Earth?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-edge-pc-cases-of-2hren-your-definitive-source-for-selecting-top-tested-options-to-elevate-your-build-game/"><u>Leading Edge PC Cases of 2Hren: Your Definitive Source for Selecting Top-Tested Options to Elevate Your Build Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-copypaste-problems-on-your-windows-11-machine-solutions-inside/"><u>Overcoming Copy/Paste Problems on Your Windows 11 Machine - Solutions Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-troubleshooting-usb-compound-devices-for-optimal-performance-on-usb-30-ports/"><u>Resolved! Troubleshooting USB Compound Devices for Optimal Performance on USB 3.0 Ports</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-your-microsoft-surface-charging-issues-even-though-its-docked/"><u>Solving Your Microsoft Surface Charging Issues Even Though It’s Docked</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-dealing-with-freezing-file-explorer-issues-on-windows-10/"><u>The Ultimate Guide to Dealing with Freezing File Explorer Issues on Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/to-run-sfc-type-sfc-scannow-into-the-command-prompt-and-press-enter-to-start-a-system-scan-the-process-may-take-several-minutes-to-complete-if-any-issues-ar148/"><u>To Run SFC, Type `Sfc /Scannow` Into the Command Prompt and Press Enter to Start a System Scan. The Process May Take Several Minutes to Complete. If Any Issues Are Detected, You'll Be Prompted to Let Windows Attempt to Fix Them Automatically.</u></a></li>
 </ul></div>
 

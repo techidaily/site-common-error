@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your Windows 11 Computer From Randomly Powering On by Itself
-date: 2024-09-11T16:00:30.734Z
-updated: 2024-09-15T16:01:31.877Z
+date: 2024-10-14T18:09:24.489Z
+updated: 2024-10-19T00:05:07.029Z
 tags:
   - win11
   - win10
@@ -43,6 +43,20 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 1. On your keyboard, press   **the Windows logo key**  and type**audio** , then click**Manage audio devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
@@ -51,7 +65,21 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -71,19 +99,6 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust **the minimum processor state**
 
  Adjusting**the minimum processor state** , as reported by many users, is another effective way to fix the annoying sound problem in our speaker. To do so:
@@ -92,19 +107,28 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Restart your computer and test the audio to see if the speaker crackling problem has been resolved.
 
 ---
@@ -127,5 +151,21 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discover-the-magic-behind-effective-youtube-short-videos/"><u>[New] In 2024, Discover the Magic Behind Effective YouTube Short Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-iphones-hdr-photography-techniques-for-2024/"><u>[New] Mastering iPhone's HDR Photography Techniques for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-easy-path-to-professional-looking-youtube-shorts/"><u>[New] The Easy Path to Professional-Looking YouTube Shorts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-boost-your-game-presence-a-comprehensible-guide-to-freegame-hashtags/"><u>[Updated] Boost Your Game Presence A Comprehensible Guide to FreeGame Hashtags</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-5-fpv-goggles-for-drone-racing/"><u>Best 5 FPV Goggles for Drone Racing</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-solutions-restoring-functionality-to-a-malfunctioning-left-click-mouse-button/"><u>DIY Solutions: Restoring Functionality to a Malfunctioning Left-Click Mouse Button</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-inshot-audio-techniques-for-professional-editors/"><u>In 2024, InShot Audio Techniques for Professional Editors</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-11-audio-hurdles-effective-solutions-to-dead-volume-buttons/"><u>Overcoming Windows 11 Audio Hurdles – Effective Solutions to Dead Volume Buttons</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-to-get-your-division-2-game-running/"><u>Quick Fixes to Get Your Division 2 Game Running</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-high-cpu-usage-by-the-windows-sound-isolation-feature-easy-solutions/"><u>Resolving High CPU Usage by the Windows Sound Isolation Feature: Easy Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/revived-windows-audio-service-on-win-1110/"><u>Revived Windows Audio Service on WIN 11/10</u></a></li>
+<li><a href="https://common-error.techidaily.com/smooth-playback-awaits-eradicate-buffering-in-your-kodi-media-experience/"><u>Smooth Playback Awaits: Eradicate Buffering in Your Kodi Media Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-tutorial-on-converting-your-gifs-into-high-quality-webm-files/"><u>The Ultimate Tutorial on Converting Your GIFs Into High-Quality WebM Files</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-windows-10-update-failures-expert-tips-for-a-smooth-experience/"><u>Winning the Battle Against Windows 10 Update Failures: Expert Tips for a Smooth Experience</u></a></li>
+</ul></div>
 

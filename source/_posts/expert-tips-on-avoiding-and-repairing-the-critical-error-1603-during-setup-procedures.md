@@ -1,7 +1,7 @@
 ---
 title: Expert Tips on Avoiding and Repairing the Critical 'Error 1603' During Setup Procedures
-date: 2024-10-09T00:09:45.172Z
-updated: 2024-10-13T01:04:59.093Z
+date: 2024-10-16T04:58:10.109Z
+updated: 2024-10-19T04:39:02.655Z
 tags:
   - win11
   - win10
@@ -29,10 +29,10 @@ You may encounter an error with a code of **1603** when you are attempting to in
 You may encounter an error 1603 because the installation location is you choose is not available due to various reasons — such as being encrypted. You can use another installation folder to install the program and see if the error is gone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2) Completely uninstall the same program installed
@@ -41,28 +41,15 @@ If you have previously installed the same program (or its earlier version), the 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9bf012d25.png)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Find and open**Programs and Features**;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9c81105c5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Then you can check if the application is listed here. If it is, uninstall it.
@@ -70,10 +57,10 @@ Then you can check if the application is listed here. If it is, uninstall it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595c9d00544d7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3) Start and re-register Microsoft Installer service
@@ -81,13 +68,6 @@ Then you can check if the application is listed here. If it is, uninstall it.
 There may be something going wrong with**Microsoft Installer service**and therefore resulting in error 1603\. You can fix the problem by (re)starting and re-registering Microsoft Installer service. To**start**Windows Installer service:**a)** Press**Win + R**and enter “_**services.msc**_“;
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca68fd8714.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **b)** Find and double click on**Windows Installer**;
 
@@ -101,22 +81,15 @@ To**re-register**Windows Installer service:**a)** Press**Win + R**, type “_**m
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9370d810.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)** Press**Win + R** again and enter “ _**msiexec /regserve** **r**_ “.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595ca9952ad21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4) Acquire full permissions on the drive for installation
@@ -125,9 +98,23 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cac402cfce.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **b)** Go to**Security**tab and click on**Edit**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595caf24696ae.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **c)** Single click on **SYSTEM**and ensure that the**Allow**box of every item in**Permissions for SYSTEM** is checked (if it is checkable). Do the same check for**Administrators**.
 
@@ -136,6 +123,13 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 **d)** Click on**OK**to go back to**Properties**dialog. Then click on**Advanced**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_595cb3cf25a0c.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **e)** Click on**Change Permissions**.
 
@@ -172,17 +166,20 @@ It is possible that the error 1603 occurs because you don’t have**full permiss
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-look-the-10-best-countdown-clock-apps-for-your-big-event-androidios/"><u>[New] Exclusive Look The 10 Best Countdown Clock Apps for Your Big Event (Android/iOS)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/avigating-the-spotlight-how-to-optimize-content-visibility-on-youtube-for-2024/"><u>[New] Navigating the Spotlight How to Optimize Content Visibility on Youtube for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-top-10-screenshot-and-recording-apps-for-macos-for-2024/"><u>[New] Top 10 Screenshot & Recording Apps for MacOS for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/captains-cantations-understanding-piratical-speech-patterns/"><u>Captain’s Cantations: Understanding Piratical Speech Patterns</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/high-ranking-top-5-quick-screen-recorders-for-2024/"><u>High Ranking - Top 5 Quick Screen Recorders for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-realme-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-compatibility-problems-how-to-correct-incorrect-sxs-configurations-in-windows-10-guide/"><u>Resolve Compatibility Problems: How to Correct Incorrect SxS Configurations in Windows 10 [Guide]</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-tips-for-fixing-the-windows-configuration-is-incomplete-error/"><u>Resolved: Tips for Fixing the 'Windows Configuration Is Incomplete' Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-lenovo-laptops-dead-pixels-fixes-for-unresponsive-keys/"><u>Reviving Your Lenovo Laptop's Dead Pixels: Fixes for Unresponsive Keys</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-operation-solve-audio-track-fails/"><u>Smooth Operation: Solve Audio Track Fails</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-snapshot-eliminate-the-has-stopped-working-warning-for-32bit-print-drivers/"><u>Solution Snapshot: Eliminate the 'Has Stopped Working' Warning for 32Bit Print Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-troubleshooting-checklist-for-windows-updates-error-0x8007001f/"><u>The Ultimate Troubleshooting Checklist for Windows Updates Error 0X8007001f</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-highpoint-artist-toolkit-review/"><u>[Updated] Highpoint Artist Toolkit Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-ace-10-budget-friendly-video-subtitle-grabs/"><u>[Updated] In 2024, Ace 10 Budget-Friendly Video Subtitle Grabs</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-setback-to-success-solved-nvidia-installation/"><u>From Setback to Success: Solved NVIDIA Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-recover-control-when-your-computer-mouse-is-frozen/"><u>How To Recover Control When Your Computer Mouse Is Frozen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-voice-modification-programs-for-dynamic-virtual-personalities/"><u>Ideal Voice-Modification Programs for Dynamic Virtual Personalities</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-heavy-lift-airborne-titans-drone-leaders-guide/"><u>In 2024, Heavy-Lift Airborne Titans - Drone Leaders Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-mix-fold-3-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Mix Fold 3, is it possible?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/soundscapes-of-restfulness-high-rated-asmr-experts-for-2024/"><u>Soundscapes of Restfulness High-Rated ASMR Experts for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-restore-and-optimize-your-broken-windows-11-start-menu/"><u>Step-by-Step Guide to Restore and Optimize Your Broken Windows 11 Start Menu</u></a></li>
+<li><a href="https://common-error.techidaily.com/tire-maintenance-ensure-that-your-tires-are-correctly-inflated-as-per-the-manufacturers-specifications-as-both-over-inflation-and-under-inflation-can-lead-t34/"><u>Tire Maintenance: Ensure that Your Tires Are Correctly Inflated as per the Manufacturer's Specifications, as Both Over-Inflation and Under-Inflation Can Lead to Increased Strain on Suspension Components and Uneven Wear Patterns</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-specified-module-cannot-be-located-error/"><u>Troubleshooting Steps: Resolving 'Specified Module Cannot Be Located' Error</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1728493472227-windows-11/"><u>Windows 11 資料夾快速備份: 全新效率最高的方法</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-t-10-errors-solved-dealing-with-non-registering-classes/"><u>Windows T 10 Errors Solved - Dealing with Non-Registering Classes</u></a></li>
+<li><a href="https://common-error.techidaily.com/xbox-one-console-bridging-gap-to-pc-use/"><u>Xbox One Console: Bridging Gap to PC Use</u></a></li>
 </ul></div>
 

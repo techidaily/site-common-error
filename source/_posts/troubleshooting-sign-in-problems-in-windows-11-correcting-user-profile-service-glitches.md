@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Sign-In Problems in Windows 11: Correcting User Profile Service Glitches"
-date: 2024-10-08T19:37:15.370Z
-updated: 2024-10-12T22:12:24.742Z
+date: 2024-10-14T04:30:04.326Z
+updated: 2024-10-18T23:58:48.059Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/5961427253350c1b74e1650e9c2f8a99858d6dfe3
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure the network sharing feature is enabled on your computer
 
  The Cast to Device feature requires the**network sharing** feature turned on your computer. See how to check if you turn on the network sharing feature on your computer:
@@ -57,56 +64,49 @@ thumbnail: https://thmb.techidaily.com/5961427253350c1b74e1650e9c2f8a99858d6dfe3
 2. Click **Stream** \>   **Allow Internet access to home media…** Then click   **Allow Internet access to home media**  on the pop-up window. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2052f70b25.jpg) Click **YES**  when prompted by User Account Control.
 3. Click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/7-9.png)
 4. You should then see the Windows Media Player window again. Click **Stream** \>   **Turn on media streaming…**  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **![](https://images.drivereasy.com/wp-content/uploads/2017/03/8-10.png)**
 5. Click   **Turn on media streaming**  . ![](https://images.drivereasy.com/wp-content/uploads/2017/03/9-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/10-5.png)
 7. It should then be back on the Windows Media Player window. Click **Stream**  . You should then see   **Automatically allow devices to play my media..**  . is ticked on. If not, tick on it. ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abdb45e36f73.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Close the Windows Media Player window.
 9. Try the Cast to Device feature again to see if it succeeds.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your network card driver
 
@@ -120,15 +120,16 @@ thumbnail: https://thmb.techidaily.com/5961427253350c1b74e1650e9c2f8a99858d6dfe3
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b0e8904a209.jpg)
 3. Click the **Update** button next to all the flagged drivers to automatically download the correct version of this driver, then you can manually install it (you can do this with the **FREE** version).  
- Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
-4. Reboot your Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59b2095b8135c.jpg)
+4. Reboot your Windows 10.
 
 5. Try the Cast to Device feature again to see if it succeeds.
 
@@ -153,24 +154,20 @@ thumbnail: https://thmb.techidaily.com/5961427253350c1b74e1650e9c2f8a99858d6dfe3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-bridge-the-gap-between-viewers-and-wide-angles-posting-on-facebook/"><u>[New] 2024 Approved Bridge the Gap Between Viewers and Wide Angles Posting on Facebook</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-ideal-fullscreen-recorder-with-macpc-support-for-2024/"><u>[New] Ideal Fullscreen Recorder with Mac/PC Support for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-broadcast-in-ultra-hd-on-the-social-network/"><u>[New] In 2024, Broadcast in Ultra HD on the Social Network</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-record-breaking-reddit-threads-ranked-1-10/"><u>[New] Record-Breaking Reddit Threads Ranked 1-10</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-thorough-examination-of-gecata-recorder/"><u>[New] Thorough Examination of Gecata Recorder</u></a></li>
-<li><a href="https://common-error.techidaily.com/addressing-post-update-boot-errors-on-windows-11-a-step-by-step-guide/"><u>Addressing Post-Update Boot Errors on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/arrow-keys-not-working-check-out-these-effective-repair-strategies/"><u>Arrow Keys Not Working? Check Out These Effective Repair Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-battleye-errors-easy-setup-steps-for-gamers/"><u>Bypassing BattlEye Errors: Easy Setup Steps for Gamers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/charting-new-territory-ai-in-the-world-of-windows-11/"><u>Charting New Territory: AI in the World of Windows 11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/complete-set-of-iberian-language-realms/"><u>Complete Set of Iberian Language Realms</u></a></li>
-<li><a href="https://common-error.techidaily.com/curb-unwanted-restart-cycles-on-your-windows-10-device-common-causes-and-fixes/"><u>Curb Unwanted Restart Cycles on Your Windows 10 Device: Common Causes & Fixes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-gigabyte-z370p-up-to-speed-with-these-essential-drivers/"><u>Get Your Gigabyte Z370P Up To Speed With These Essential Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-dolby-digital-issues-for-optimal-home-cinema-experience-on-windows-11/"><u>How To Fix Dolby Digital Issues for Optimal Home Cinema Experience on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-error-code-0x80071ac3-corrupt-disk-issue/"><u>How to Fix Error Code 0X80071AC3 - Corrupt Disk Issue</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/nier-automata-pc-performance-optimized-no-more-game-crashes/"><u>Nier: Automata PC Performance Optimized: No More Game Crashes!</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-windows-10-performance-by-managing-microsoft-compatibility-telemetrys-disk-space-use/"><u>Optimizing Windows 10 Performance by Managing Microsoft Compatibility Telemetry's Disk Space Use</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-overutilized-cpu-by-wudfhostexe-fix-guide-for-smooth-windows-11-experience/"><u>Tackling Overutilized CPU by wudfhost.exe: Fix Guide for Smooth Windows 11 Experience</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/venture-into-virtual-laughs-top-20plus-funny-metaverse-creations-for-2024/"><u>Venture Into Virtual Laughs Top 20+ Funny Metaverse Creations for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-entering-vr-top-10-must-try-mobile-gaming-hits/"><u>[New] Entering VR Top 10 Must-Try Mobile Gaming Hits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-transform-your-virtual-presence-with-google-meets-effects-features/"><u>[New] Transform Your Virtual Presence with Google Meet's Effects Features</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-incorporating-custom-visuals-in-youtube-videos-easily-for-2024/"><u>[Updated] Incorporating Custom Visuals in YouTube Videos Easily for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-speedy-explorer-windows-10-photography-interface-for-2024/"><u>[Updated] Speedy Explorer - Windows 10 Photography Interface for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-strategies-for-capturing-webinars-effectively-for-2024/"><u>[Updated] Top Strategies for Capturing Webinars Effectively for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-software-picks-for-video-stabilization-in-202n4-comparison-of-cost-free-vs-subscription-based-solutions/"><u>Best Software Picks for Video Stabilization in 202N4 - Comparison of Cost-Free vs Subscription-Based Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-the-frustration-of-error-8007000e-during-windows-update-with-these-tips/"><u>Bypass the Frustration of Error 8007000E During Windows Update with These Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-improving-delayed-keyboard-input-with-ease/"><u>Effective Solutions for Improving Delayed Keyboard Input with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-youtube-sound-troubleshooting-on-pcs-running-windows-10-operating-system/"><u>Effective Solutions for YouTube Sound Troubleshooting on PC's Running Windows 10 Operating System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-the-common-missing-msvcr100dll-error-a-detailed-walkthrough/"><u>How to Resolve the Common 'Missing Msvcr100.dll' Error: A Detailed Walkthrough</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-a56s-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo A56s 5G?</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-graphics-errors-in-minecraft-with-easy-opengl-fixes/"><u>Overcoming Graphics Errors in Minecraft with Easy OpenGL Fixes</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ey-to-flawless-shots-using-a-tripod-correctly-in-video-blogging/"><u>The Key to Flawless Shots Using a Tripod Correctly in Video Blogging</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-msda80dll-importance-and-necessity-in-windows-system/"><u>Understanding MSDA80.DLL: Importance and Necessity in Windows System</u></a></li>
+<li><a href="https://common-error.techidaily.com/unsuccessful-windows-10-build-1607-update-troubleshooting-guide/"><u>Unsuccessful Windows 10 Build 1607 Update: Troubleshooting Guide</u></a></li>
 </ul></div>
 

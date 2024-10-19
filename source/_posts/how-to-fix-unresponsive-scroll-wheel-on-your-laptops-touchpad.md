@@ -1,7 +1,7 @@
 ---
 title: How to Fix Unresponsive Scroll Wheel on Your Laptop's Touchpad
-date: 2024-09-12T16:00:47.283Z
-updated: 2024-09-15T16:00:19.938Z
+date: 2024-10-12T17:27:08.919Z
+updated: 2024-10-19T05:04:44.972Z
 tags:
   - win11
   - win10
@@ -53,9 +53,23 @@ Then click **Device Manager**  to open it.
 
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Scroll still not working?
 
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
 
@@ -69,6 +83,13 @@ Then click **Device Manager**  to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) After scanning, you have 2 options.
 
 **Option 1.**   Install the correct drivers Driver Easy found for you one by one with **Free Version** .
@@ -76,6 +97,13 @@ Then click **Device Manager**  to open it.
 **Option 2.**   Install all the correct drivers automatically in just one-go with **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . No worry to try it as it comes with a no-questions-asked **30-day money-back guarantee**  and **professional tech support**  24/7.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
 
@@ -97,12 +125,22 @@ Then click **Device Manager**  to open it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ocial-broadcast-battleground-fb-live-yt-live-twitvision/"><u>[New] Social Broadcast Battleground FB Live, YT Live, TwitVision</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-expert-advice-on-lighting-your-youtube-content-perfectly/"><u>2024 Approved Expert Advice on Lighting Your YouTube Content Perfectly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-s23plus-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/clear-and-constructive-icon-arrangement-ideas/"><u>Clear and Constructive Icon Arrangement Ideas</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/como-actualizar-tu-computadora-de-hdd-a-ssd-en-windows-tutoriales-para-versiones-111087/"><u>Cómo Actualizar Tu Computadora De HDD a SSD En Windows: Tutoriales Para Versiones 11/10/8/7</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-broken-dell-webcams-in-windows-environments/"><u>Comprehensive Solutions for Broken Dell Webcams in Windows Environments</u></a></li>
+<li><a href="https://common-error.techidaily.com/end-the-annoyance-of-constant-restarts-in-windows-10-with-these-steps/"><u>End the Annoyance of Constant Restarts in Windows 10 with These Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-corrupted-or-malfunctioning-image-files-in-windows-10-and-windows-11/"><u>Fix Corrupted or Malfunctioning Image Files in Windows 10 and Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-sluggish-response-of-your-windows-10-keyboard-a-step-by-step-guide/"><u>Fixing the Sluggish Response of Your Windows 10 Keyboard: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/improving-emotional-perception-via-chatgpt/"><u>Improving Emotional Perception via ChatGPT</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-side-by-side-display-logging/"><u>In 2024, Side-by-Side Display Logging</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-the-troublesome-0x80072f8f-issue-on-windows-operating-systems/"><u>Step-by-Step Fixes for the Troublesome 0X80072F8F Issue on Windows Operating Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamline-twitters-from-video-to-audible-format/"><u>Streamline Twitters From Video to Audible Format</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-right-click-issue-fixes-for-mouse-functionality-on-windows-10/"><u>Troubleshooting the Right-Click Issue: Fixes for Mouse Functionality on Windows 10</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/windows-server-2019-effective-disaster-recovery-with-diskless-backup-solutions/"><u>Windows Server 2019: Effective Disaster Recovery with Diskless Backup Solutions</u></a></li>
+</ul></div>
 

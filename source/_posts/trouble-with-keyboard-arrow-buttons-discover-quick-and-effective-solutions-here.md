@@ -1,7 +1,7 @@
 ---
 title: Trouble With Keyboard Arrow Buttons? Discover Quick and Effective Solutions Here
-date: 2024-10-08T02:59:16.926Z
-updated: 2024-10-13T00:42:56.865Z
+date: 2024-10-16T23:18:04.762Z
+updated: 2024-10-18T19:19:15.833Z
 tags:
   - win11
   - win10
@@ -36,22 +36,15 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 6. **[Run Keyboard Troubleshooter](#Fix6)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Clean your keyboard
 
  The arrow keys may not function well if there’s some dirt or debris lodged beneath them. Try cleaning your keyboard and**make sure there’s no dirt blocking keys or sensors** .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Check hardware issues
 
@@ -71,20 +64,42 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 2. Type**devmgmt.msc** and hit Enter.  
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 3. In Device Manager, double-click**Keyboards** to expand the category.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/device-manager-keyboards.jpg)
 4. Right-click your keyboard and select**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-uninstall-device.jpg)
 5. When prompted, click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/uninstall-keyboard.jpg)
 6. Once the process is finished,**restart your computer** . Windows should automatically reinstall the keyboard driver.
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check to see if the arrow keys work properly. If not, try updating your keyboard driver.
 
@@ -108,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 
  Test the arrow keys on your keyboard to see if your problem has been resolved. If the issue remains, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable the Scroll Lock key
 
  If the arrow keys are not working as intended in**Excel** , try**disabling the Scroll Lock key** to fix the problem. If the Scroll Lock key is enabled, the whole page will move when you press any of the arrow keys, but the selected cell won’t change. So if you just want to use the arrow keys to move between different cells, you should turn off the Scroll Lock key.
@@ -126,10 +134,10 @@ thumbnail: https://thmb.techidaily.com/a686c6eefaf9c4b50a452c73ac89f7229b6621769
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/ScrLk.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this method didn’t work for you, check out the last fix.
@@ -148,19 +156,20 @@ If this method didn’t work for you, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/keyboard-troubleshooter.jpg)
 4. Follow the on-screen instructions to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### on Windows 11
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
 2. Select**System** . Scroll down and click**Troubleshoot** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot.jpg)
 3. Click**Other troubleshooters** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters.jpg)
 4. Click on the**Run** button next to Keyboard.
 
@@ -185,20 +194,19 @@ If this method didn’t work for you, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-premiere-pros-guide-to-avoiding-overlit-iphone-hdr-videos/"><u>[New] Premiere Pro's Guide to Avoiding Overlit iPhone HDR Videos</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-megafun-the-ultimate-funimate-manual/"><u>[Updated] In 2024, MegaFun The Ultimate Funimate Manual</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-skillful-3d-text-creation-with-ai/"><u>[Updated] Skillful 3D Text Creation with AI</u></a></li>
-<li><a href="https://common-error.techidaily.com/corrective-measures-for-wrp-malfunction-ensuring-smooth-operation-of-windows-maintenece-tasks/"><u>Corrective Measures for WRP Malfunction: Ensuring Smooth Operation of Windows Maintenece Tasks</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/effortless-youtube-to-m4a-transformation-discover-3-easy-and-reliable-strategies/"><u>Effortless YouTube to M4A Transformation: Discover 3 Easy and Reliable Strategies</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-your-computer-when-it-cant-see-your-hard-drive-solution-guide/"><u>How to Fix Your Computer When It Can't See Your Hard Drive (Solution Guide)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-driverpowerstateerrors-easily-and-quickly/"><u>How To Repair DRIVER_POWER_STATE_ERRORS Easily and Quickly</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-using-inshot-software-effectively/"><u>In 2024, Step-by-Step Using Inshot Software Effectively</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-understanding-your-chances-for-regular-youtube-payments/"><u>In 2024, Understanding Your Chances for Regular YouTube Payments</u></a></li>
-<li><a href="https://blog-min.techidaily.com/introducing-the-latest-macxdvd-mediatrans-v30-overhaul-comprehensive-support-for-ios-10-and-new-iphone-7/"><u>Introducing the Latest MacXDVD MediaTrans V3.0 Overhaul - Comprehensive Support for iOS 10 & New iPhone 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/reviving-your-quick-switch-a-guide-to-restoring-alt-tab-command-functionality/"><u>Reviving Your Quick Switch: A Guide to Restoring Alt Tab Command Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-the-no-power-issue-getting-your-hp-laptops-usb-back-on-track/"><u>Solve the No-Power Issue: Getting Your HP Laptop's USB Back on Track</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-media-player-sources-not-found-on-windows-machines-solved/"><u>Troubleshooting Media Player Sources Not Found on Windows Machines [Solved]</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/windows-10-update-spotlight-new-wins-and-more-for-2024/"><u>Windows 10 Update Spotlight New Wins and More for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-exceptional-book-trailer-selections/"><u>[Updated] Exceptional Book Trailer Selections</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-resolving-io-device-malfunctions/"><u>Effective Solutions for Resolving I/O Device Malfunctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-fixes-for-when-you-cant-reach-your-remote-server-insider-techniques/"><u>Efficient Fixes for When You Can't Reach Your Remote Server: Insider Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixes-for-personalized-settings-not-responding-error-on-your-device/"><u>Fixes For 'Personalized Settings Not Responding' Error on Your Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-access-to-logitech-webcam-drivers-for-enhanced-video-calling-on-windows-systems/"><u>Free Access to Logitech Webcam Drivers for Enhanced Video Calling on Windows Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/google-meet-capture-made-simple-for-mobile-users-for-2024/"><u>Google Meet Capture Made Simple for Mobile Users for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/guide-to-overcoming-c1900101-obstacle-in-installation/"><u>Guide to Overcoming C1900101 Obstacle in Installation</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23plus-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23+ Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-wealth-reddits-top-13-money-making-methods/"><u>In 2024, Unlocking Wealth Reddit's Top 13 Money-Making Methods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/making-the-most-of-openais-chatgpt/"><u>Making the Most of OpenAI's ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-connection-hurdles-making-your-bluetooth-keyboard-compatible-with-your-pc-again/"><u>Overcoming Connection Hurdles: Making Your Bluetooth Keyboard Compatible with Your PC Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202777227-tackle-error-code-0x887a0006-easy-fixes-for-immediate-relief/"><u>Tackle Error Code 0X887A0006: Easy Fixes for Immediate Relief</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-9-ferramentas-de-edicao-de-video-online-mais-eficientes/"><u>Top 9 Ferramentas De Edição De Vídeo Online Mais Eficientes</u></a></li>
 </ul></div>
 

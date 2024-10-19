@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Reactivate Backlight Settings on Your Laptop's Keyboard Across Mac/Windows Platforms
-date: 2024-10-09T16:04:28.462Z
-updated: 2024-10-12T18:33:55.810Z
+date: 2024-10-14T17:24:17.114Z
+updated: 2024-10-18T17:22:43.911Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
@@ -84,6 +84,13 @@ Here’s how to reinstall the keyboard driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your keyboard settings
 
  Filter Keys is a feature in Windows that tells the keyboard  to ignore brief or repeated keystrokes, in order to make typing easier for users with hand tremors. But this kind of accessibility can be a bit of an annoyance for those who do not necessarily need them.
@@ -102,13 +109,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/accessibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **filter** . Then click on**Filter out repeated unintentional keystrokes** .
 
  2) Make sure the**Use Filter Keys** toggle is**Off** .
@@ -125,10 +125,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
@@ -136,10 +136,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e381e40b3a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**[Fix 4](#F4)** .
@@ -150,13 +150,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
@@ -164,6 +157,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -199,16 +199,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-learn-how-to-setup-snapchat-on-a-mac-pc/"><u>[Updated] 2024 Approved Learn How to Setup Snapchat on a Mac PC</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-calculating-video-data-use-in-a-full-day-watch/"><u>2024 Approved Calculating Video Data Use in a Full-Day Watch</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ten-steps-to-keeping-vr-healthy/"><u>2024 Approved Ten Steps to Keeping VR Healthy</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-unveiling-irecorders-top-screen-capabilities/"><u>2024 Approved Unveiling iRecorder's Top Screen Capabilities</u></a></li>
-<li><a href="https://article-posts.techidaily.com/beyond-vlc-a-deep-dive-into-media-players/"><u>Beyond VLC A Deep Dive Into Media Players</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723206301865-corsair-hs50-headset-mic-problems-heres-how-to-fix-them/"><u>Corsair HS50 Headset Mic Problems? Here's How to Fix Them!</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-techniques-to-repair-an-unresponsive-laptop-touchpad/"><u>Effective Techniques to Repair an Unresponsive Laptop Touchpad</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-fixing-the-issue-of-your-computer-keeps-stopping-suddenly/"><u>Expert Advice: Fixing the Issue of Your Computer Keeps Stopping Suddenly</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/recommended-6-best-music-video-apps-on-android/"><u>Recommended 6 Best Music Video Apps on Android</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-firefox-security-warnings-a-step-by-step-guide/"><u>Resolving Firefox Security Warnings: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/upside-down-laptop-screen-troubles-heres-how-to-set-it-right/"><u>Upside Down Laptop Screen Troubles? Here's How to Set It Right</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-chuckle-laugh-moments-and-tears-from-these-top-ten-ig-feeds/"><u>[New] Chuckle-Laugh Moments & Tears From These Top Ten IG Feeds</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-sweep-viewers-off-their-feet-templates-that-work-wonders-for-2024/"><u>[Updated] Sweep Viewers Off Their Feet Templates That Work Wonders for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-ultimate-selection-top-10-zero-dollar-video-calls/"><u>[Updated] The Ultimate Selection Top 10 Zero-Dollar Video Calls</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battlefield-2042-pc-stability-problems-heres-what-you-need-to-know/"><u>Battlefield 2042 PC Stability Problems? Here's What You Need to Know!</u></a></li>
+<li><a href="https://common-error.techidaily.com/correct-valorant-crash-enforce-system-restart/"><u>Correct Valorant Crash: Enforce System Restart</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/elevate-your-visuals-with-enhanced-169-aspect-ratio-unlocking-a-broader-more-immersive-perspective/"><u>Elevate Your Visuals with Enhanced 16:9 Aspect Ratio - Unlocking a Broader, More Immersive Perspective</u></a></li>
+<li><a href="https://common-error.techidaily.com/enabling-digital-pen-and-touch-features-when-theyre-missing/"><u>Enabling Digital Pen and Touch Features When They're Missing</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-solving-persistent-mouse-unplugging-problems/"><u>Expert Tips on Solving Persistent Mouse Unplugging Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-windows-update-running-again-heres-how-you-fix-it/"><u>Getting Windows Update Running Again? Here’s How You Fix It</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/iphone-vs-android-leading-photo-apps-review-2024-selection/"><u>IPhone vs Android Leading Photo Apps Review - 2024 Selection</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-error-print-driver-host-service-for-32-bit-programs-failed-no-longer-occurs/"><u>Resolved: Error 'Print Driver Host Service for 32-Bit Programs Failed' No Longer Occurs</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-module-not-found-errors-a-step-by-step-guide/"><u>Resolving 'Module Not Found' Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/snapchats-speed-control-hacks-for-cutting-edge-creators/"><u>Snapchat's Speed Control Hacks for Cutting-Edge Creators</u></a></li>
+<li><a href="https://common-error.techidaily.com/speeding-up-your-pcs-farewell-a-guide-to-fixing-windows-11-shutdown-delays/"><u>Speeding Up Your PC's Farewell: A Guide to Fixing Windows 11 Shutdown Delays</u></a></li>
+<li><a href="https://common-error.techidaily.com/youtube-audio-malfunctioning-in-windows-10-heres-how-to-get-it-right/"><u>YouTube Audio Malfunctioning in Windows 10? Here's How to Get It Right!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1726227308261-mkvmp3-movavi/"><u>제공자가 아니라 무료: 웹 블록에서 MKV/MP3 파일 바로 전환 - Movavi</u></a></li>
 </ul></div>
 

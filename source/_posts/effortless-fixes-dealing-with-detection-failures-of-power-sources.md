@@ -1,7 +1,7 @@
 ---
 title: "Effortless Fixes: Dealing with Detection Failures of Power Sources"
-date: 2024-10-08T01:22:46.275Z
-updated: 2024-10-12T18:13:57.023Z
+date: 2024-10-17T16:20:42.414Z
+updated: 2024-10-18T18:03:51.902Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -54,10 +61,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -74,35 +81,22 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b714ceb240ee.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -128,13 +122,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -156,15 +143,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
@@ -205,22 +199,20 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ltimate-guide-to-the-best-10-video-saving-devices-for-2024/"><u>[New] Ultimate Guide to the Best 10 Video Saving Devices for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-budget-friendly-methods-for-youtube-card-creation-for-2024/"><u>[Updated] Budget-Friendly Methods for YouTube Card Creation for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-keep-your-audience-engaged-top-6-strategies-for-higher-youtube-stickiness-for-2024/"><u>[Updated] How To Keep Your Audience Engaged Top 6 Strategies for Higher YouTube Stickiness for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-master-methods-chronicling-your-ps3-gameplay/"><u>[Updated] In 2024, Master Methods Chronicling Your PS3 Gameplay</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-beginners-blueprint-progressive-sound-intensity-rise/"><u>2024 Approved Beginner’s Blueprint Progressive Sound Intensity Rise</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-discovering-the-best-screen-recording-programs-for-win11/"><u>2024 Approved Discovering the Best Screen Recording Programs for Win11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/affordable-japanese-language-learning-15-top-online-choices/"><u>Affordable Japanese Language Learning: 15 Top Online Choices</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-troubleshooting-for-windows-11s-update-problem-decode-error-0x80240034/"><u>Effective Troubleshooting for Windows 11'S Update Problem - Decode Error 0X80240034</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ting-your-youtube-shorts-presence-with-impactful-strategies/"><u>Elevating Your YouTube Shorts Presence with Impactful Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-and-optimize-overcoming-non-operational-diagnostic-services-issues/"><u>Fix and Optimize: Overcoming Non-Operational Diagnostic Services Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-address-chrome-errsslprotocolerror-for-smooth-browsing/"><u>How to Correctly Address 'Chrome ERR_SSL_PROTOCOL_ERROR' For Smooth Browsing</u></a></li>
-<li><a href="https://common-error.techidaily.com/lowering-cpudisk-overload-fix-for-ntoskrnlexe/"><u>Lowering CPU/Disk Overload: Fix for Ntoskrnl.exe</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sony-xperia-5-assessment-compact-design-maintains-premium-price-tag/"><u>Sony Xperia 5 Assessment: Compact Design Maintains Premium Price Tag</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211288428-surface-pen-wont-respond-heres-how-to-make-it-work-again/"><u>Surface Pen Won't Respond? Here’s How to Make It Work Again!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-non-responsive-number-keys-on-your-keyboard/"><u>Troubleshooting Guide: Fixing Non-Responsive Number Keys on Your Keyboard</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-making-miracast-compatible-with-your-system-driver/"><u>Troubleshooting Guide: Making Miracast Compatible With Your System Driver</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolve-device-unprepared-alert/"><u>Troubleshooting Steps: Resolve 'Device Unprepared' Alert</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-learn-to-conduct-zoom-webinars-a-newbies-blueprint/"><u>[Updated] Learn to Conduct Zoom Webinars A Newbie's Blueprint</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-no-fee-budget-friendly-screen-reader-pro-for-2024/"><u>[Updated] No-Fee Budget-Friendly Screen Reader Pro for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-pixel-perfection-in-image-integration/"><u>[Updated] Pixel Perfection in Image Integration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-methods-to-access-apples-podcast-library/"><u>2024 Approved Innovative Methods to Access Apple's Podcast Library</u></a></li>
+<li><a href="https://fox-http.techidaily.com/essential-websites-to-amplify-youtube-traffic-for-2024/"><u>Essential Websites to Amplify YouTube Traffic for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-ultra-efficient-storage-with-teamgroups-new-lpddr5x-camm2-memory-units-your-third-choice-for-the-latest-compact-ram-standard-and-intelligent-bran26/"><u>Experience Ultra-Efficient Storage with TeamGroup's New LPDDR5X CAMM2 Memory Units – Your Third Choice for the Latest Compact RAM Standard and Intelligent Branding!</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-the-price-rise-on-xbox-gold-membership-swiftly/"><u>Navigate the Price Rise on Xbox Gold Membership Swiftly</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-send-local-videos-to-chromecast-a-beginners-guide-for-all-platforms/"><u>New Send Local Videos to Chromecast A Beginners Guide for All Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-windows-0x80072efd-mistake-on-windows-11-a-step-by-step-solution-guide/"><u>Resolve Window's 0X80072EFD Mistake on Windows 11: A Step-by-Step Solution Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-for-hosted-network-couldnt-start-on-windows-11-devices/"><u>Solution Steps for 'Hosted Network Couldn't Start' On Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-resolution-for-windows-1er-update-failures-cracking-the-0x800705b4-error-code-in-windows-10/"><u>Step-by-Step Resolution for Windows 1Er Update Failures: Cracking the 0X800705B4 Error Code in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/successful-steps-to-pair-microsoft-wireless-hdmi-with-a-windows-10-pc/"><u>Successful Steps to Pair Microsoft Wireless HDMI with a Windows 10 PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208935337-windows-10-touchpad-woes-heres-how-to-fix-sluggish-or-nonfunctional-scroll-buttons/"><u>Windows 10 Touchpad Woes? Here's How to Fix Sluggish or Nonfunctional Scroll Buttons!</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-users-rejoice-solving-chrome-error-unable-to-load-plugin-successfully-explained/"><u>Windows 11 Users Rejoice! Solving Chrome Error: Unable to Load Plugin Successfully Explained</u></a></li>
 </ul></div>
 

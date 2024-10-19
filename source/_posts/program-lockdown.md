@@ -1,7 +1,7 @@
 ---
 title: Program Lockdown
-date: 2024-09-10T16:01:31.086Z
-updated: 2024-09-15T16:01:49.344Z
+date: 2024-10-13T02:37:27.836Z
+updated: 2024-10-18T23:54:57.113Z
 tags:
   - win11
   - win10
@@ -60,6 +60,20 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 1. Open Edge, click**Settings and more** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-settings-more.jpg)
 2. Select**Help and feedback > About Microsoft Edge** .  
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/about-microsoft-edge.jpg)
 3. Edge will automatically check for updates. If an update is available, it will download and install the update.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-check-for-updates.jpg)
@@ -71,6 +85,14 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 2. Select**About Firefox** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/about-firefox.jpg)
 3. Firefox will check for updates and download them automatically. When the download is complete, click**Restart to Update Firefox** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/restart-to-update-firefox-1.jpg)
 
 **To update Safari on Mac:**
@@ -78,6 +100,14 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 1. At the top left corner of your screen, click the Apple menu, then select**System Preferences…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/apple-system-preferences.jpg)
 2. Click**Software Update** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/software-update.jpg)
 3. Wait for your Mac to check for updates. If there’s an available update, click**Upgrade Now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/mac-check-for-update.jpg)
@@ -93,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 1. Open Chrome. On your keyboard, press**Ctrl + Shift + Del** to open the**Clear browsing data** window.
 2. At the top, select a time range. If you want to delete everything, select**All time** . Then check the box next to**Browsing history** ,**Cookies and other site data** , and**Cached images and files** . Click**Clear data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-clear-data.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **For Edge:**
 
@@ -131,13 +168,6 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-manage-extensions.jpg)
 2. Click the toggle next to the extensions to disable them one by one.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-turn-off-extensions.jpg)
 
 **Firefox:**
@@ -153,20 +183,14 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 2. Click**Extensions** , then deselect the checkbox next to all extensions.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/safari-disable-extensions.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After disabling all extensions, reopen your browser and play the video to check if the error code 224003 is fixed. If the problem has gone, try enabling extensions one by one to find the culprit.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Turn off hardware acceleration
 
@@ -199,19 +223,6 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 
  After turning off hardware acceleration, relaunch your browser and check if the video plays back normally. If not, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Reset your browser settings
 
  Another way to fix the error code 224003 is to reset your browser settings to default. This will turn off all extensions and delete cookies and other temporary data. Your bookmarks, history, and saved passwords won’t be affected.
@@ -223,6 +234,14 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 2. Click **Reset and clean up > Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-reset-clean-up.jpg)
 3. Click**Reset settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-reset-settings-1.jpg)
 
 **Edge:**
@@ -231,13 +250,6 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-reset.jpg)
 2. Click**Restore settings to their default values** . In the pop-up window, click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-reset-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Firefox:**
 
@@ -248,6 +260,20 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 3. In the new window, click**Refresh Firefox** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-firefox-2.jpg)
 4. Click**Finish** .  
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-finish.jpg)
 
 **Safari:**
@@ -268,14 +294,14 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/stellar-repair.jpg)
 3. Once the process is completed, you can preview the repaired videos and save them to the desired location.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/stellar-video-repair-select-save-repaired-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -296,5 +322,24 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/net-framework-35-installation-woes-heres-how-to-fix-error-code-0x800f081f/"><u>.NET Framework 3.5 Installation Woes? Here's How to Fix Error Code 0X800F081F</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-green-screen-recorders-how-to-use-them-for-2024/"><u>[New] Best Green Screen Recorders How to Use Them for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-best-instagram-highlights-covers-apps-for-iphone-and-android/"><u>[New] In 2024, Best Instagram Highlights Covers Apps for iPhone and Android</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-quest-for-your-own-specialized-tiktok-hash-code/"><u>[New] The Quest for Your Own Specialized TikTok Hash Code</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-recommendations-hd-video-recording-software/"><u>[Updated] 2024 Approved Expert Recommendations HD Video Recording Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-overcome-the-plcncachewiper-error-0xc00000e9-on-your-windows-machine/"><u>Comprehensive Solutions to Overcome the PLCN_CACHE_WIPER (Error 0xC00000E9) on Your Windows Machine</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/delving-into-new-iphone-photography-paradigms-with-ios-11/"><u>Delving Into New iPhone Photography Paradigms with iOS 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/revitalize-your-huion-sketch-tool-5-fast-fixes-for-a-broken-pen/"><u>Revitalize Your Huion Sketch Tool - 5 Fast Fixes for a Broken Pen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rockstar-games-launcher-issues-top-fixes-and-solutions/"><u>Rockstar Games Launcher Issues : Top Fixes and Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/side-by-side-comparison-how-does-an-ipad-differ-from-an-ipad-air/"><u>Side-by-Side Comparison: How Does an iPad Differ From an iPad Air?</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201942469-troubleshoot-and-correct-windows-update-failure-0x80070002-fast/"><u>Troubleshoot and Correct Windows Update Failure 0X80070002 Fast!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-persistent-keyboard-keys-on-windows-systems/"><u>Troubleshooting and Repairing Persistent Keyboard Keys on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-miracast-unsupported-by-graphics-card-steps-for-resolution/"><u>Troubleshooting Miracast Unsupported by Graphics Card: Steps for Resolution</u></a></li>
+<li><a href="https://common-error.techidaily.com/typing-anomaly-discovered/"><u>Typing Anomaly Discovered</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-failed-to-create-directx-graphics-device-error-message/"><u>Understanding & Fixing the 'Failed to Create DirectX Graphics Device' Error Message</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-distinctions-machine-learning-versus-natural-language-processing/"><u>Unraveling the Distinctions: Machine Learning Versus Natural Language Processing</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Tips and Techniques to Fix 'Code 28 Error' On Your Windows Computer's Device Manager
-date: 2024-09-14T16:02:47.342Z
-updated: 2024-09-15T16:04:00.287Z
+date: 2024-10-14T17:34:03.589Z
+updated: 2024-10-19T01:37:21.887Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378ffe36ec8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Check to see if there is a **Bluetooth Device**  in the Network adapter section and if there is a**Bluetooth**   section. If yes, then there’s Bluetooth on your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
@@ -60,13 +67,34 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
@@ -76,22 +104,15 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/2-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click on your Bluetooth driver software in the Bluetooth section. Then choose **Disable device** . Click **Yes**   if prompted by confirming.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/6-7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After it’s done, right-click on the driver again and this time choose **Enable device** .
@@ -101,6 +122,13 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
 
@@ -115,13 +143,6 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
  3) Right-click on your Bluetooth driver to choose **Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/8-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Go to your computer manufacturer’s website or your Bluetooth adapter manufacturer’s website, like **Intel** , to download the latest Bluetooth driver for your device. Then install the downloaded driver on your computer.
 
@@ -149,10 +170,10 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
@@ -173,5 +194,26 @@ thumbnail: https://thmb.techidaily.com/a5f798f7cf1ad15667826396aa244ceb4353a103f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-mini-2-and-air-2s-luts-free-trial-then-paid-upgrade/"><u>[New] 2024 Approved Mini 2 & Air 2S LUTS - Free Trial, Then Paid Upgrade</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-bringing-youtube-to-life-on-google-slides/"><u>[New] In 2024, Bringing YouTube to Life on Google Slides</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-pro-iphone-tricks-for-stunning-reflection-shots-for-2024/"><u>[New] Pro iPhone Tricks for Stunning Reflection Shots for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-ranch-raiders-best-friendly-farmers-game-roster-for-2024/"><u>[New] Ranch Raiders Best Friendly Farmer's Game Roster for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-android-and-iphones-powerful-picklist-boosting-facebook-likeability/"><u>[Updated] Android & iPhone's Powerful Picklist Boosting Facebook Likeability</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-windows-update-issue-error-8007000e-quick-fixes-and-expert-tips/"><u>Beat Window's Update Issue 'Error 8007000E': Quick Fixes & Expert Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/clearing-up-fuzzy-visuals-a-guide-to-sharpening-graphics-in-call-of-duty-warzone-on-pc/"><u>Clearing Up Fuzzy Visuals: A Guide to Sharpening Graphics in Call of Duty: Warzone on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/detecting-issues-why-cant-i-find-wd-my-passport-ultra-drive-in-windows/"><u>Detecting Issues: Why Can't I Find WD My Passport Ultra Drive in Windows?</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnose-and-fix-windows-cannot-find-playable-files-in-media-player-tips-and-tricks/"><u>Diagnose & Fix 'Windows Cannot Find Playable Files' In Media Player – Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-on-dealing-with-invalid-parameter-notifications/"><u>Expert Advice on Dealing with Invalid Parameter Notifications</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-vanishing-mouse-pointer-issue-in-windows-10-a-step-by-step-guide/"><u>Fixing the Vanishing Mouse Pointer Issue in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-m34-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy M34 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecti-top-photo-and-video-display-programming-for-2024/"><u>Perfecti Top Photo & Video Display Programming for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-operation-failure-0x0000011b-in-windows-11/"><u>Solving Operation Failure 0X0000011B in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-when-your-dvd-player-fails-in-windows/"><u>Step-by-Step Solutions When Your DVD Player Fails in Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-the-volume-is-dirty-warning-error-0x80071ac3-in-windows-systems/"><u>The Ultimate Fix for the Volume Is Dirty Warning (Error 0X80071AC3) in Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-d3derrnotavailable-error-swiftly/"><u>Ultimate Guide: Resolving the 'D3DERR_NOTAVAILABLE' Error Swiftly</u></a></li>
+<li><a href="https://common-error.techidaily.com/update-required-how-to-match-your-monitors-capabilities-with-your-computers-output-settings/"><u>Update Required: How to Match Your Monitor's Capabilities with Your Computer's Output Settings</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/watch-local-videos-on-chromecast-a-comprehensive-guide-for-windows-mac-android-and-ios-users/"><u>Watch Local Videos on Chromecast A Comprehensive Guide for Windows, Mac, Android, and iOS Users</u></a></li>
+</ul></div>
 

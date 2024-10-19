@@ -1,7 +1,7 @@
 ---
 title: How to Fix and Avoid the Notorious Google Chrome Crash Scam
-date: 2024-09-13T11:02:14.836Z
-updated: 2024-09-15T03:44:54.318Z
+date: 2024-10-17T03:28:05.789Z
+updated: 2024-10-18T16:35:17.459Z
 tags:
   - win11
   - win10
@@ -27,9 +27,29 @@ Before you try the solutions below, please check these several things as it can 
 
 Click on it to turn it to ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a17b9647cefb.png) . If you make sure your microphone is connect properly to your computer and it’s turned on correctly, but your microphone still doesn’t work, try the following methods.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Restart your computer
 
 Sometimes, a simple restart can solve a lot computer woes. When you find your microphone stops working on Hangouts, you can also give the simple restart a shot. 1) Restart your computer from the Start menu. 2) Call the person on Hangouts again to see if he can hear you.
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Update your microphone and other related driver
 
@@ -40,10 +60,10 @@ Your microphone not working issue can be probably caused by an old, corrupted or
 4) Restart your computer and call the person on Hangouts again to see if he can hear you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Close other programs those might use your microphone
@@ -51,10 +71,10 @@ Your microphone not working issue can be probably caused by an old, corrupted or
  If there are some other programs running on your computer when you’re on Google Hangouts, the other programs might be using your microphone, too. As a result, your microphone doesn’t function on Hangouts. So, please stop all the other programs that might use your microphone, then check to see if the person can hear you on Hangouts.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How if you can’t hear other people speaking?
@@ -76,5 +96,18 @@ If you can’t hear the other person on Hangouts call, ask the person to trouble
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/updated-skyward-haven-of-the-pennywise-clouds/"><u>[Updated] Skyward Haven of the Pennywise Clouds</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-art-of-patience-mastering-the-craft-of-producing-captivating-slow-motion-videos-and-photos-for-instagram-for-2024/"><u>[Updated] The Art of Patience Mastering the Craft of Producing Captivating Slow Motion Videos and Photos for Instagram for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-intel-wi-fi-draft-n-9560-driver-latest-version/"><u>Download Intel Wi-Fi Draft-N 9560 Driver - Latest Version</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-insights-on-gadgets-and-pc-hardware-from-toms-hq/"><u>Expert Insights on Gadgets and PC Hardware From Tom's HQ</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-black-screen-issue-solutions-for-your-google-chrome-woes/"><u>Fixing the Black Screen Issue: Solutions for Your Google Chrome Woes</u></a></li>
+<li><a href="https://common-error.techidaily.com/in-depth-analysis-why-does-total-war-rome-remastered-keep-crashing-and-how-to-prevent-it/"><u>In-Depth Analysis: Why Does Total War: Rome Remastered Keep Crashing & How To Prevent It?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastery-in-making-sense-top-6-persuasive-video-types/"><u>Mastery in Making Sense Top 6 Persuasive Video Types</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revitalize-your-macs-performance-choose-stellar-file-eraser-5-standard-edition-with-scheduled-deletion-feature/"><u>Revitalize Your Mac's Performance - Choose Stellar File Eraser 5 Standard Edition with Scheduled Deletion Feature</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-power-surge-error-code-on-usb-connections-windows-11-edition/"><u>Step-by-Step Solution for 'Power Surge' Error Code on USB Connections – Windows 11 Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-damaged-system-files-in-microsofts-latest-operating-systems/"><u>Troubleshooting Damaged System Files in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-repairing-damaged-registry-and-system-files-in-windows-11/"><u>Ultimate Guide: Repairing Damaged Registry and System Files in Windows 11</u></a></li>
+</ul></div>
 

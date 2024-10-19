@@ -1,7 +1,7 @@
 ---
 title: Overcoming Hang-Ups in Windows 11 for Smooth Operation
-date: 2024-09-11T16:02:05.924Z
-updated: 2024-09-15T16:02:09.409Z
+date: 2024-10-17T22:38:36.853Z
+updated: 2024-10-18T16:55:47.604Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ To do so, first you need to uninstall the Bluetooth driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/uninstall-device-driver-02.jpg)
 4. Once you’ve uninstalled your Bluetooth driver, restart your PC for the changes to apply.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To address Bluetooth issues and maximize the performance of your AirPods, you need**the latest Bluetooth driver** for your computer.
 
  Normally Windows will install the Bluetooth driver automatically after a reboot. But that’s not always the case. And you also need to**make sure the Bluetooth driver is the latest** .
@@ -80,6 +87,13 @@ To do so, first you need to uninstall the Bluetooth driver:
 
  If the latest driver doesn’t give you luck, take a look at the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Install all Windows updates
 
  Microsoft rolls out Windows updates on a regular basis, tackling compatibility issues and offering new features. Normally the update happens automatically, but you can also make sure manually that all the updates have been installed.
@@ -93,6 +107,19 @@ To do so, first you need to uninstall the Bluetooth driver:
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 #### Check for system updates on Windows 10
@@ -101,32 +128,27 @@ To do so, first you need to uninstall the Bluetooth driver:
 2. Click**Windows Update** on the right.  
 ![win 11 update windows 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-1.jpg)
 3. Then click**Check for updates** . Windows will then check if there are any newly released updates. If so, it will automatically download and install the updates for you. It might take some time.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-update-windows-2.jpg)
 4. You may repeat these steps until it prompts**You’re up to date** when you click**Check for updates** to make sure you have all the updates installed. Restart your computer when it’s done.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, restart your PC and check if the issue persists.
 
  If this method doesn’t do the trick, simply check out the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Modify the Windows Registry
 
@@ -135,24 +157,25 @@ To do so, first you need to uninstall the Bluetooth driver:
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type**regedit** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windows-10-run-regedit.jpg)
 2. In address bar of the pop-up window, type or paste **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\ControlSet001\\Control\\Class{e0cbf06c-cd8b-4647-bb8a-263b43f0f974}** and press**Enter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods.jpg)
-3. At the empty area, right-click and move your cursor to**New** to expand the list. Select**String Value** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods.jpg)
+3. At the empty area, right-click and move your cursor to**New** to expand the list. Select**String Value** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods-2.jpg)
 4. Rename the new entry to**PnPCapabilities** . Right click it and select**Modify…**  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/regedit-bluetooth-airpods-4.jpg)
@@ -179,5 +202,26 @@ To do so, first you need to uninstall the Bluetooth driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ow-to-retrieve-your-voice-on-youtube-comments/"><u>[New] How To Retrieve Your Voice on YouTube (Comments)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-maximizing-game-capture-with-bandicam-essentials-for-the-year-2023/"><u>[New] In 2024, Maximizing Game Capture with Bandicam - Essentials for the Year 2023</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-screencapturepro-review-expert-insights-and-comparisons/"><u>[New] In 2024, ScreenCapturePro Review Expert Insights and Comparisons</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-selecting-a-premier-fb-cover-photo-designer/"><u>[New] In 2024, The Ultimate Guide to Selecting a Premier FB Cover Photo Designer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-ringtone-riches-where-to-acquire-vintage-melodies-online/"><u>[Updated] Ringtone Riches Where to Acquire Vintage Melodies Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-in-frame-multimedia-experience-on-mac/"><u>2024 Approved The Ultimate Guide to In-Frame Multimedia Experience on Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/corsair-keyboards-revival-steps-to-fix-dim-or-non-responsive-backlighting-issues/"><u>Corsair Keyboards Revival: Steps to Fix Dim or Non-Responsive Backlighting Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/decoding-the-mystery-of-non-detectable-external-drives-fixing-unknown-usb-device-solution-steps/"><u>Decoding the Mystery of Non-Detectable External Drives – Fixing 'Unknown USB Device [Solution Steps]'</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-ethernet-failures-in-windows-107-systems/"><u>Diagnosing and Repairing Ethernet Failures in Windows 10/7 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-how-to-address-device-drivers-not-installed-on-windows-7/"><u>Fix: How to Address 'Device Drivers Not Installed on Windows 7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722191579859-get-started-with-openais-new-gpt-personalized-store-begin-using-immediately/"><u>Get Started with OpenAI's New GPT Personalized Store – Begin Using Immediately!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-printscreen-feature-when-broken-in-win10-or-win11/"><u>How To Restore PrintScreen Feature When Broken In Win10 or Win11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-invisible-broadcasts-anonymous-instagram-live-tips/"><u>In 2024, Invisible Broadcasts Anonymous Instagram Live Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203377239-league-of-legends-lag-no-more-speedy-download-fixes-unveiled/"><u>League of Legends Lag No More: Speedy Download Fixes Unveiled!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pinnacle-of-photography-exceptional-sky-hd-sites-catalog/"><u>Pinnacle of Photography - Exceptional Sky HD Sites Catalog</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-unable-to-get-settings-issue-in-nvidia-geforce-experience/"><u>Resolving 'Unable to Get Settings' Issue in NVIDIA GeForce Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sleek-skill-using-watch-to-unlock-mac/"><u>Sleek Skill Using Watch to Unlock Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repairing-nonfunctional-ethernet-networks-on-pc-windows-107/"><u>Step-by-Step Guide to Repairing Nonfunctional Ethernet Networks on PC (Windows 10/7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/surface-synced-type-ready/"><u>Surface Synced, Type Ready!</u></a></li>
+</ul></div>
 

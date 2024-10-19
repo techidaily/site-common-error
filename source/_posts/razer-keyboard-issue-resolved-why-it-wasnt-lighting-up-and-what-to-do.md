@@ -1,7 +1,7 @@
 ---
 title: Razer Keyboard Issue Resolved - Why It Wasn't Lighting Up & What to Do
-date: 2024-10-12T01:57:02.792Z
-updated: 2024-10-13T02:40:01.879Z
+date: 2024-10-13T01:52:59.845Z
+updated: 2024-10-18T18:58:45.337Z
 tags:
   - win11
   - win10
@@ -29,10 +29,16 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 3. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Plug your keyboard in another USB port
@@ -41,10 +47,10 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
  If it doesn’t light up, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Uninstall and reinstall Razer Synapse
@@ -66,10 +72,10 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 11. Plug your keyboard and check the lightening.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your driver
@@ -87,15 +93,16 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 3. Click the **Update**  button next to the flagged device to automatically download the correct version of its driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)  
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-4. After updating the drivers, check to see the issue is resolved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+4. After updating the drivers, check to see the issue is resolved or not.
 
  That’s it! Hopefully, these methods can help you resolve the issue. If you have any questions or suggestions, please let us know by commenting below.
 
@@ -116,17 +123,20 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-foremost-5-online-video-editors-for-2024/"><u>[New] Foremost 5 Online Video Editors for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/corsair-keyboard-revamp-fixes-and-tips-for-restoring-backlight-functionality/"><u>Corsair Keyboard Revamp: Fixes and Tips for Restoring Backlight Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-0x80004005-decoded-understanding-and-solving-unspecified-issues/"><u>Error 0X80004005 Decoded: Understanding and Solving Unspecified Issues</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-14-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 14 to Android | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-accessing-hidden-social-engagement-in-video-streams/"><u>In 2024, Accessing Hidden Social Engagement in Video Streams</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-rapid-rendering-sounds-with-visuals/"><u>In 2024, Rapid Rendering Sounds with Visuals</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-apple-iphone-15-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From Apple iPhone 15 Making It Possible</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-the-upgrade-of-epson-print-software-on-windows-11-tips-and-tricks-for-smooth-operation/"><u>Mastering the Upgrade of Epson Print Software on Windows 11: Tips and Tricks for Smooth Operation</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-error-code-1000-across-win7-win8-and-win10-a-comprehensive-guide/"><u>Resolving Error Code 1000 Across Win7, Win8 & Win10: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-vivo-y55s-5g-2023-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Vivo Y55s 5G (2023) to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-application-failed-to-initialize-correctly-overcoming-the-0xc000007b-hurdle/"><u>Troubleshooting Tips for 'Application Failed to Initialize Correctly' – Overcoming the 0xC000007B Hurdle</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-symphony-in-silence-mastering-audio-with-precision-for-2024/"><u>[New] A Symphony in Silence Mastering Audio with Precision for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-convert-audio-online-mp3-to-youtube-live-upload-guide-for-2024/"><u>[New] Convert Audio Online MP3 to YouTube Live Upload Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-fast-and-furious-how-to-turbocharge-instagram-videos-for-2024/"><u>[New] Fast and Furious How to Turbocharge Instagram Videos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-asus-rog-phone-8-pro-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ideal-steadicams-to-amplify-your-dslr-cinematic-impact-for-2024/"><u>Ideal Steadicams to Amplify Your DSLR Cinematic Impact for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/personalized-preferences-update-the-unresponsive-error-is-fixed/"><u>Personalized Preferences Update - The 'Unresponsive' Error Is Fixed!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resurrecting-vanished-desktop-shortcuts-solutions-for-windows-10-users/"><u>Resurrecting Vanished Desktop Shortcuts: Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/saving-instagrams-a-step-by-step-approach-for-windowsmacos-users/"><u>Saving Instagrams A Step-by-Step Approach for Windows/macOS Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-get-your-windows-10-monitors-brightness-working-again/"><u>Step-by-Step Solutions to Get Your Windows 10 Monitor's Brightness Working Again</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-remedies-for-an-iphone-that-isnt-vibrating-on-silent-or-ring-mode-discover-them-here/"><u>Top 8 Remedies for an iPhone That Isn't Vibrating on Silent or Ring Mode – Discover Them Here!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-resolving-copy-and-paste-issues-in-windows-11/"><u>Troubleshooting Fixes: Resolving Copy & Paste Issues in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-success-resolving-the-bugcheck-reboot-issue-on-your-pc/"><u>Troubleshooting Success: Resolving the Bugcheck Reboot Issue on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-pubg-structures-load-issues-effectively/"><u>Ultimate Guide: Resolving PUBG Structures Load Issues Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-steps-for-obs-black-screen-dilemma/"><u>Ultimate Troubleshooting Steps for OBS Black Screen Dilemma</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-terminal-the-art-of-color-selection/"><u>Windows Terminal: The Art of Color Selection</u></a></li>
 </ul></div>
 

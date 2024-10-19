@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Corsair Keyboard Not Lighting Up"
-date: 2024-09-12T16:01:04.157Z
-updated: 2024-09-15T16:01:40.875Z
+date: 2024-10-14T20:19:58.218Z
+updated: 2024-10-19T02:54:23.602Z
 tags:
   - win11
   - win10
@@ -33,6 +33,19 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
  It’s probably caused by the poor connection. Plug your keyboard into another USB port and check if it does light up. If it does and everything works well, it’s your USB port that has the issue.  
  If it doesn’t light up, move to the next fix.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Uninstall and reinstall Razer Synapse
 
  Plug your keyboard into another computer to see it light up or not. If it doesn’t light up, it might be a hardware problem and you need to contact Razer support.  
@@ -44,6 +57,14 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 4. Type “service.msc” and press**Enter** to open Windows Services. Make sure all Razer services listed are stopped.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/services.jpg)
 5. Go to C:\\Users\\Your user name\\AppData and delete any Razer folders.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Go to C:\\Program Files (x86)… or wherever you installed Synapse and delete the Razer folders.
 7. Reboot your computer.
 8. Go to the[Razer official website](https://www.razer.com/synapse-3) to download the latest version of Synapse.
@@ -52,10 +73,10 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
 11. Plug your keyboard and check the lightening.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your driver
@@ -75,10 +96,10 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
@@ -101,5 +122,21 @@ If you have a razer keyboard which has many lights on and meant to lighten up, b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-understanding-igtv-shutdown/"><u>[New] 2024 Approved Understanding IGTV Shutdown</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comparative-analysis-64-vs-128gb-video-holding-power/"><u>[New] Comparative Analysis 64 vs 128GB Video Holding Power</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-6-free-software-to-convert-youtube-to-mp3-for-iphone/"><u>[New] In 2024, 6 Free Software to Convert YouTube to MP3 for iPhone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-navigating-digital-content-picking-between-podcasts-and-youtube-for-2024/"><u>[Updated] Navigating Digital Content Picking Between Podcasts & YouTube for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discord-camera-problems-solved-tips-for-getting-it-working-again/"><u>Discord Camera Problems Solved - Tips for Getting It Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/failed-attempt-at-installing-the-latest-windows-10-feature-update-version-1-solutions-inside/"><u>Failed Attempt at Installing the Latest Windows 10 Feature Update (Version 1) - Solutions Inside</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-tips-top-10-text-effects-for-2024/"><u>Professional Tips Top 10 Text Effects for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-x8b-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor X8b Black and White | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-unrecognized-headphones-on-your-laptop/"><u>Step-by-Step Solution: Unrecognized Headphones on Your Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-you-encounter-internet-explorer-has-crashed/"><u>Troubleshooting Steps When You Encounter 'Internet Explorer Has Crashed'</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-troubleshooting-for-the-persistent-error-code-0x80073712-on-windows-10-systems/"><u>Ultimate Troubleshooting for the Persistent Error Code 0X80073712 on Windows 10 Systems</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/standing-youtube-short-videos/"><u>Understanding YouTube Short Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209029556-why-is-my-touchpad-not-scrolling-properly-in-windows-11-solutions-inside/"><u>Why Is My Touchpad Not Scrolling Properly in Windows 11? Solutions Inside</u></a></li>
+</ul></div>
 

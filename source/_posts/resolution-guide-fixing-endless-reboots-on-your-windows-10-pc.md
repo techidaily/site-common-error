@@ -1,7 +1,7 @@
 ---
 title: "Resolution Guide: Fixing Endless Reboots on Your Windows 10 PC"
-date: 2024-10-09T01:42:47.645Z
-updated: 2024-10-13T03:46:00.300Z
+date: 2024-10-16T16:30:32.282Z
+updated: 2024-10-18T20:44:26.873Z
 tags:
   - win11
   - win10
@@ -61,10 +61,10 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Set microphone as default device
@@ -75,6 +75,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select**System Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-4.png)
@@ -82,13 +89,6 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  3) Go to the **Recording** tab, right-click an empty area inside the devices’ display list, and then tick **Show Disabled Devices** to ensure that your mic device shows up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click to highlight your microphone, then click**Set Default > Default Device** .
 
@@ -103,10 +103,16 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
@@ -129,38 +135,31 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/2019-06-17_14-24-52.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the pop-up window, double-click the**Audio inputs and outputs** entry and find your mic device in the drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click your mic and select**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now check to see your mic is back on track.
 
@@ -179,6 +178,13 @@ Now check to see your mic is back on track.
  Below you’ll see another toggle for **Allow apps to access your microphone** . Also turn it**on** if it’s been set to Off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
@@ -207,20 +213,21 @@ If this fix doesn’t work, please proceed to the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-in-depth-analysis-best-valheim-seeds-for-growth/"><u>[Updated] 2024 Approved In-Depth Analysis Best Valheim Seeds for Growth</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-sharpimage-suite-clarity-at-your-fingertits/"><u>[Updated] In 2024, SharpImage Suite Clarity at Your Fingertits</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/banish-cracking-sounds-effective-solutions-to-quiet-your-headphones/"><u>Banish Cracking Sounds: Effective Solutions to Quiet Your Headphones</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-solutions-for-dealing-with-the-easy-anti-cheat-glitch-in-apex-legends/"><u>Effortless Solutions for Dealing with the Easy Anti-Cheat Glitch in Apex Legends</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effortless-solutions-overcoming-the-itbm-driver-access-problem/"><u>Effortless Solutions: Overcoming the ITBM Driver Access Problem</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/explore-the-ideal-mac-companion-mouse/"><u>Explore the Ideal Mac Companion Mouse</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-d3derrnotavailable-troubleshooting-steps-inside/"><u>How to Overcome 'D3DERR_NOTAVAILABLE': Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-initial-load-problems-eliminating-the-pitch-black-display-during-launch-of-mhw/"><u>How to Overcome Initial Load Problems: Eliminating the Pitch Black Display During Launch of MHW</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-troubleshooting-guide-to-keep-your-computer-awake-and-alert/"><u>Quick Troubleshooting Guide to Keep Your Computer Awake and Alert</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolve-msmpengexes-overuse-of-resources-a-guide-for-windows-11-users/"><u>Resolve MsMpEng.exe's Overuse of Resources: A Guide for Windows 11 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-critical-issues-in-call-of-duty-black-ops-4/"><u>Resolving Critical Issues in Call of Duty: Black Ops 4</u></a></li>
-<li><a href="https://common-error.techidaily.com/shift-key-malfunction-diagnosis-and-effective-remedies-fixed/"><u>Shift Key Malfunction: Diagnosis and Effective Remedies [FIXED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-mystery-ultimate-guide-to-troubleshoot-windows-11-bluetooth-connection-issues/"><u>Solving the Mystery: Ultimate Guide to Troubleshoot Windows 11 Bluetooth Connection Issues</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unraveling-tales-the-top-storytelling-channels-on-yt-this-year-for-2024/"><u>Unraveling Tales The Top Storytelling Channels on YT This Year for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-androids-optimal-cloud-savers-updated-list/"><u>[New] Android's Optimal Cloud Savers Updated List</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-comprehensive-evaluation-samsung-gear-360-vr-camera/"><u>[New] In 2024, Comprehensive Evaluation Samsung Gear 360 VR Camera</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-video-conferencing-with-zoom-and-gmail/"><u>[Updated] Seamless Video Conferencing with Zoom & Gmail</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-strategic-use-of-slug-lines-in-blogging/"><u>2024 Approved Strategic Use of Slug Lines in Blogging</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-realme-c33-2023-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Realme C33 2023 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-unsupported-apps-on-windows-vista/"><u>Dealing with Unsupported Apps on Windows Vista</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/exploring-the-cosmos-with-stellaris-empires-in-conflict-and-strategy/"><u>Exploring the Cosmos with Stellaris: Empires in Conflict & Strategy</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-honor-100-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-fixes-for-when-your-dns-goes-down-learn-how-here/"><u>Fast Fixes for When Your DNS Goes Down - Learn How Here!</u></a></li>
+<li><a href="https://common-error.techidaily.com/ftdi-bus-system-error-driver-mismatch-causes-memory-integrity-failure/"><u>FTDI Bus System Error: Driver Mismatch Causes Memory Integrity Failure</u></a></li>
+<li><a href="https://common-error.techidaily.com/kodi-playback-smoother-eliminating-buffer-interruptions-once-and-for-all/"><u>Kodi Playback Smoother: Eliminating Buffer Interruptions Once and For All</u></a></li>
+<li><a href="https://techtrends.techidaily.com/konvertereen-wtv-naar-mpeg-online-zonder-kosten-movavi-videtoools/"><u>Konvertereen WTV Naar MPEG Online Zonder Kosten - Movavi Videtoools</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-and-simple-guide-performing-a-fresh-windows-10-installation/"><u>Quick & Simple Guide: Performing a Fresh Windows 10 Installation</u></a></li>
+<li><a href="https://common-error.techidaily.com/resetting-your-keyboard-fix-common-issues-in-minutes/"><u>Resetting Your Keyboard: Fix Common Issues in Minutes</u></a></li>
+<li><a href="https://common-error.techidaily.com/retrieve-and-repair-missing-steam-game-files-expert-solutions-now-available/"><u>Retrieve and Repair Missing Steam Game Files - Expert Solutions Now Available</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-the-unresponsive-touch-screen-problem-on-microsoft-surface-pro-4/"><u>Step-by-Step Guide: Resolving the Unresponsive Touch Screen Problem on Microsoft Surface Pro 4</u></a></li>
 </ul></div>
 

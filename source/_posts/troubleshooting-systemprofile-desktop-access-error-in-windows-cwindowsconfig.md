@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: SystemProfile Desktop Access Error in Windows C:\\Windows\\Config"
-date: 2024-09-12T16:01:54.292Z
-updated: 2024-09-15T16:01:56.338Z
+date: 2024-10-11T23:33:37.345Z
+updated: 2024-10-18T17:49:43.925Z
 tags:
   - win11
   - win10
@@ -43,7 +43,21 @@ The Windows Audio Device Graph Isolation high CPU usage issue occurs mostly due 
 
  **Solution 1: Run a Full Virus Scan** Though the chances are low, the process could be virus. So use your antivirus software (if you have installed one) to run a full virus scan on your computer. AudioDG.exe is saved in “C:\\Windows\\System32” by default. So you can tell if the process is virus by checking the file location.Open the file location by right-clicking on the process and select**Open file location**. ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58870ec9b98af.jpg)If the file is saved in C:\\Windows\\System32, then it is not virus.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_588718e37a656.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -63,11 +77,31 @@ The Windows Audio Device Graph Isolation high CPU usage issue occurs mostly due 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58871393d7fde.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. In “Playback” tab, highlight Speakers item and click**Properties**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5887139a98178.jpg)
 
 3\. Go to “Enhancements” tab. Tick the checkbox next to**Disable all sound effects**. Then click**OK**.![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5887138d57f40.jpg)If you don’t see option “Disable all sound effects” in**Speakers**properties dialog box, go back to**Sound**dialog box and select other sound options probably like Microphone. Then disable the sound effects.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -88,18 +122,20 @@ The Windows Audio Device Graph Isolation high CPU usage issue occurs mostly due 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instant-interaction-the-art-of-crafting-instagram-stories-questions/"><u>[New] In 2024, Instant Interaction The Art of Crafting Instagram Stories Questions</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207091162-beat-windows-error-code-31-with-these-simple-troubleshooting-steps/"><u>Beat Window’s Error Code 31 with These Simple Troubleshooting Steps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-as-your-digital-handler-for-smart-appliances/"><u>ChatGPT as Your Digital Handler for Smart Appliances</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-windows-startup-journey/"><u>Decoding the Windows Startup Journey</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-novice-to-pro-your-journey-with-hdr-in-ps/"><u>From Novice to Pro Your Journey with HDR in PS</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-minecrafts-incompatibility-with-your-video-card-drivers-on-a-windows-pc/"><u>How To Fix Minecraft's Incompatibility With Your Video Card Drivers On A Windows PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-geforce-experience-not-launching-problem/"><u>How to Fix the GeForce Experience Not Launching Problem</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-framemorph-editor/"><u>In 2024, FrameMorph Editor</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-d3drenderernotavailable-expert-fixes-and-tips/"><u>Troubleshooting D3DRendererNotAvailable: Expert Fixes and Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-disappearing-desktop-icons-on-windows-10-quick-and-easy-fixes/"><u>Troubleshooting Disappearing Desktop Icons on Windows 10 [QUICK & EASY FIXES]</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-nier-automata-pc-game-freezing-issues-solved/"><u>Troubleshooting Nier: Automata PC Game Freezing Issues - Solved</u></a></li>
+</ul></div>
 

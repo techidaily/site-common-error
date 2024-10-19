@@ -1,7 +1,7 @@
 ---
 title: Enhanced Local Safeguards Activated for Improved Security Measures
-date: 2024-09-13T16:00:09.952Z
-updated: 2024-09-15T16:01:32.341Z
+date: 2024-10-17T20:31:33.463Z
+updated: 2024-10-18T19:02:53.433Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ Local Security Authority Protection is off
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Install Windows Update patch KB5007651
 
  The Local Security Authority Protection being off bug was actually a bug that shipped with Windows 11’s March 2023 mandatory security update, patch KB5007651\. Windows then released the updated version of this patch that fixed this problem. So if you still haven’t already, please update your Windows now for the latest patch KB5007651 to install.
@@ -46,8 +53,24 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 Then see if the Local Security Authority Protection is still off.
@@ -60,6 +83,13 @@ Then see if the Local Security Authority Protection is still off.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Modify Registry Editor
 
  If you’re still seeing the Local Security Authority protection off message even when you’ve turned it ON, please do the following to modify your Registry Editor:
@@ -70,6 +100,14 @@ Then see if the Local Security Authority Protection is still off.
 2. On your keyboard, press the**Windows** key and the**R** key together. Type**regedit** and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to the following location:`**Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa**`  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-26.png)
 4. On the right side, if you can see **RunAsPPL** , double-click it and change the**Value data** to**2** . Repeat the same with**RunAsPPLBoot** . If you don’t see either of these entries, move on to the next step.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-29.png)
@@ -80,13 +118,6 @@ Then see if the Local Security Authority Protection is still off.
  Then see if the Local Security Authority protection can be turned on now. If the problem still remains, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Configure Group Policy Editor
 
@@ -117,26 +148,13 @@ Then see if the Local Security Authority Protection is still off.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -161,5 +179,26 @@ Then see if the Local Security Authority Protection is still off.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-conquering-export-errors-for-srt-in-premiere-pro/"><u>[New] Conquering Export Errors for SRT in Premiere Pro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-artful-adaptation-digital-tools-that-turn-pics-into-prose-online/"><u>[New] In 2024, Artful Adaptation Digital Tools that Turn Pics Into Prose Online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-cloud-storages-essential-choices-for-you/"><u>[New] Top Cloud Storages Essential Choices for You</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-mastering-googles-podcast-publishing-process/"><u>[Updated] In 2024, Mastering Google's Podcast Publishing Process</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-windows-host-process-has-stopped-working-glitches/"><u>Diagnosing and Repairing 'Windows Host Process Has Stopped Working' Glitches</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-techniques-to-block-spam-texts-on-ios-devices/"><u>Effective Techniques to Block Spam Texts on iOS Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-windows-11-kb5003607-0x8007cdfe-update-problem/"><u>How to Fix the Windows 11 KB5003607 (0X8007CDFE) Update Problem</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-realme-10t-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Realme 10T 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-14-pro-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 14 Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-y02t-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo Y02T Location | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/livekernelevent-bug-fix-overcoming-error-144-challenges/"><u>LiveKernelEvent Bug Fix: Overcoming Error 144 Challenges</u></a></li>
+<li><a href="https://common-error.techidaily.com/msdia80dll-explained-why-its-essential-for-your-pc/"><u>MSDIA80.DLL Explained: Why It's Essential for Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/mystery-of-the-invisible-touchpad-solved-here/"><u>Mystery of the Invisible Touchpad, Solved Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/pc-in-pause-not-popping-out-of-windows-sleep-mode/"><u>PC in Pause - Not Popping Out of Windows Sleep Mode</u></a></li>
+<li><a href="https://common-error.techidaily.com/problem-solved-troubleshooting-techniques-for-when-windows-wont-install/"><u>Problem Solved: Troubleshooting Techniques for When Windows Won't Install</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-laptop-trackpad-step-by-step-solutions-for-windows-1187-users/"><u>Reviving Your Laptop Trackpad: Step-by-Step Solutions for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/sneak-peeks-stealthy-video-capture-techniques/"><u>Sneak Peeks Stealthy Video Capture Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/spectral-silence-monitor-quandary/"><u>Spectral Silence: Monitor Quandary</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-solving-the-problem-usb-connectivity-with-hdmi-devices/"><u>Understanding and Solving the Problem: USB Connectivity with HDMI Devices</u></a></li>
+</ul></div>
 

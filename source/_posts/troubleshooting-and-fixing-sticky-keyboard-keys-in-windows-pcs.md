@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Sticky Keyboard Keys in Windows PCs
-date: 2024-10-11T23:26:42.676Z
-updated: 2024-10-12T17:01:04.710Z
+date: 2024-10-13T17:45:59.850Z
+updated: 2024-10-18T16:58:57.169Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/0637330b995d15dd54d33a9215c8a5f8a70563681
 4. **[Repair system files](#repair-system-files)**
 
 * [**Tips: Keyboard maintenance**](#tips)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Hard reset your keyboard
 
@@ -74,13 +81,6 @@ If you’re a laptop user, you could follow these steps:
  If your keys work fine in the BIOS, it means it’s a software issue. You should move to[Fix 3](#f3) .  
  But if not, you need to consider repair it or replace with a new one. If your keyboard is under warranty, it is recommended that you do not repair it by yourself in case the warranty expires.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your keyboard driver
 
  Your letter keys may not be working properly because you’re using the wrong keyboard driver or it’s out of date. You should update your keyboard driver to see if this fixes your keyboard.
@@ -111,19 +111,26 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/12a.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/keyboard.jpg)
 4. Relaunch your computer and check your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair system files
 
@@ -136,24 +143,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -185,22 +185,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-inspirational-metaverse-sayings-arvr-edition/"><u>[New] Inspirational Metaverse Sayings AR/VR Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-voice-customization-in-free-fire-guide-included-no-cost/"><u>[Updated] Step-by-Step Voice Customization in Free Fire (Guide Included - No Cost)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-unveiling-the-asus-mg28uq-the-future-of-4k-gaming-screens/"><u>2024 Approved Unveiling the ASUS MG28UQ The Future of 4K Gaming Screens</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/a-step-by-step-approach-to-downloading-memorable-moments-from-social-media/"><u>A Step-By-Step Approach to Downloading Memorable Moments From Social Media</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-nokia-g42-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Nokia G42 5G is off? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-guide-to-downloading-and-updating-microsofts-bluetooth-drivers-for-multiple-windows-versions/"><u>Easy Guide to Downloading and Updating Microsoft’s Bluetooth Drivers for Multiple Windows Versions</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-pcs-media-malfunction-find-and-apply-the-missing-vital-driver/"><u>Fix Your PC's Media Malfunction - Find and Apply the Missing Vital Driver</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-minecraft-crashes-caused-by-incompatible-video-card-drivers-in-windows-systems/"><u>How to Fix Minecraft Crashes Caused by Incompatible Video Card Drivers in Windows Systems!</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-brightness-control-functionality-on-your-pc-with-windows-10/"><u>How To Restore Brightness Control Functionality On Your PC With Windows 10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-itel-s23plus-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Itel S23+ to New Phone | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/multicam-top-tier-live-streaming-app-and-online-camera-simulation/"><u>MultiCam: Top-Tier Live Streaming App & Online Camera Simulation</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-hurdles-getting-your-hp-laptop-webcam-up-and-running-in-windows-11/"><u>Overcoming Hurdles: Getting Your HP Laptop Webcam Up and Running in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-hurdle-of-windows-error-0x80240017-for-successful-system-update/"><u>Overcoming the Hurdle of Windows Error 0X80240017 for Successful System Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/ps4-control-deck-wont-charge-discover-effective-fixes-now/"><u>PS4 Control Deck Won't Charge? Discover Effective FIXES Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-correct-critical-glitches-in-the-black-ops-4-gameplay/"><u>Steps to Correct Critical Glitches in the Black Ops 4 Gameplay</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steams-unavailable-game-updates/"><u>Troubleshooting Steam's Unavailable Game Updates</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-art-of-chromatic-mastery-in-video-editing-11-steps/"><u>Unveiling the Art of Chromatic Mastery in Video Editing (11 Steps)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-essential-steps-for-effective-online-engagement/"><u>[New] 2024 Approved Essential Steps for Effective Online Engagement</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-share-screen-on-zoom-meeting-guide/"><u>[New] 2024 Approved Share Screen on Zoom Meeting Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-20-most-memorable-anime-series-intros-for-2024/"><u>[Updated] 20 Most Memorable Anime Series Intros for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-quintessential-new-wave-of-facebook-updates/"><u>[Updated] 2024 Approved The Quintessential New Wave of Facebook Updates</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-androids-creme-de-la-creme-for-fast-vid-fixing/"><u>[Updated] In 2024, Android's Crème De La Crème for Fast Vid Fixing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-infinix-hot-40i-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Infinix Hot 40i.</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-an-aoc-monitor-wont-turn-on-in-windows-11-environment/"><u>Effective Fixes for When an AOC Monitor Won’t Turn On in Windows 11 Environment</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-no-entry-error-challenges-in-windows-environments/"><u>Expert Advice: Overcoming No Entry Error Challenges in Windows Environments</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-s18-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo S18 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-seamlessly-update-your-pc-with-these-strategies-against-error-0x800f0922-in-windows-11/"><u>How to Seamlessly Update Your PC with These Strategies Against Error 0X800F0922 in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-overcome-black-screen-problems-in-windows-11/"><u>Step-by-Step Solutions to Overcome Black Screen Problems in Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-strategies-for-achieving-virality-on-your-youtube-videos/"><u>Top 8 Strategies for Achieving Virality on Your YouTube Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/understanding-imessage-block-notifications-and-indicators/"><u>Understanding iMessage Block Notifications & Indicators</u></a></li>
+<li><a href="https://common-error.techidaily.com/unsticking-your-steam-store-access-issues-proven-methods-to-restore-functionality/"><u>Unsticking Your Steam Store Access Issues: Proven Methods to Restore Functionality</u></a></li>
 </ul></div>
 

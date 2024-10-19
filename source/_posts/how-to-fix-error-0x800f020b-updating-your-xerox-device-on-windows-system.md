@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Error 0X800f020b: Updating Your Xerox Device on Windows System"
-date: 2024-10-09T20:45:50.039Z
-updated: 2024-10-13T01:30:19.383Z
+date: 2024-10-15T20:38:33.375Z
+updated: 2024-10-18T19:36:53.804Z
 tags:
   - win11
   - win10
@@ -63,6 +63,13 @@ If you’re seeing an**error code 0x8024200d**  when performing a Windows update
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click **Windows Update**  and select **Stop**  if its current status is “Running”. If the Windows Update service is not running, please skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap14-2.png)
@@ -79,13 +86,6 @@ Please paste it in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap20-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When all the files are deleted, you shall see “This folder is empty”.
 
 **5)** On your keyboard, press**the Windows Logo Key** and**E** at the same time to open**File Explorer** . Copy the path below and paste it into the address bar, then press **Enter** on your keyboard to open the**Download** folder.
@@ -93,19 +93,6 @@ Please paste it in the address bar.
 `` `C:\Windows\SoftwareDistribution\Download`
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap21-1.png)
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Please paste it in the address bar.
 
@@ -119,13 +106,6 @@ Please paste it in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap24-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Go and check Windows Update again to see whether you can perform the Windows update or not. If it still doesn’t work, please try the next method.
 
 ## Method 3: Running System File Checker
@@ -136,13 +116,6 @@ Please paste it in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap37.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** On your keyboard, type the command below and press **Enter** . **If your current operating system is Windows 7, please skip this step.**
 
 DISM.exe /Online /Cleanup-image /Restorehealth
@@ -151,6 +124,19 @@ DISM.exe /Online /Cleanup-image /Restorehealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap11.png)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** When this command operation is completed, on your keyboard, type the following command and press **Enter** .
 
 sfc /scannow
@@ -158,6 +144,19 @@ sfc /scannow
 It may take some time for the command operation to be completed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap12-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** When this command operation is completed, close the **Command Prompt** and run **Windows Update**  again to check whether this method works or not. If you still fail to install updates for your Windows system, please try the next method.
 
@@ -173,6 +172,13 @@ It may take some time for the command operation to be completed.
 
 **i.** On your keyboard, press**the Windows Logo key** and**R** at the same time to open the Run dialog. Type**cmd** and press**Enter** to open the Command Prompt.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap40.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **ii.**  Type the command line**systeminfo** and press**Enter** to view your system type.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap31-2.png)
@@ -192,10 +198,16 @@ It may take some time for the command operation to be completed.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap26-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **7)** In the pop-up window, click the link to start downloading the updates.
@@ -203,10 +215,10 @@ It may take some time for the command operation to be completed.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/Snap27.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **8)** Double-click the downloaded file and follow the on-screen instructions to install the update.
@@ -229,20 +241,21 @@ It may take some time for the command operation to be completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-mastering-google-meet-recording-on-iphonesandroids/"><u>[New] Mastering Google Meet Recording on iPhones/Androids</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-nextgen-vidhack-fb-to-mp4-download-with-no-hassle-for-2024/"><u>[New] NextGen VidHack FB to MP4 Download with No Hassle for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-instant-guide-restoring-the-old-school-windows-photo-viewer-on-win-11/"><u>2024 Approved Instant Guide Restoring the Old-School Windows Photo Viewer on Win 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/m4a-m4v-movavi/"><u>網路上免費轉換 M4A 到 M4V - 使用 Movavi 工具</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/essential-tips-for-xbox-live-streaming-setup/"><u>Essential Tips for Xbox Live Streaming Setup</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo S18e? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-common-kodi-software-glitches-solutions-uncovered/"><u>How to Resolve Common Kodi Software Glitches - Solutions Uncovered</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-samsung-galaxy-a34-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Samsung Galaxy A34 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/privacy-in-digital-dialogues-top-3-bot-safety-risks/"><u>Privacy in Digital Dialogues: Top 3 Bot Safety Risks</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixing-a-corrupted-windows-store-cache/"><u>Resolved: Fixing a Corrupted Windows Store Cache</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-incompatible-device-drivers-on-windows-operating-systems/"><u>Resolved: Incompatible Device Drivers on Windows Operating Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-system-error-5-across-windows-11-7-and-8-comprehensive-guide/"><u>Resolving 'System Error 5' Across Windows 11, 7, and 8 - Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/tackling-the-dxgi-device-freeze-error-with-straightforward-remedies/"><u>Tackling the DXGI Device Freeze Error with Straightforward Remedies</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723202175401-trouble-with-your-huion-pen-heres-how-to-repair-it-fast/"><u>Trouble with Your Huion Pen? Here's How to Repair It Fast</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-keyboard-response-slowdown-heres-how-to-address-it-effectively/"><u>Windows 11 Keyboard Response Slowdown? Here's How to Address It Effectively!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-discovering-the-secrets-to-targeted-youtubes-likes-and-views/"><u>[New] Discovering the Secrets to Targeted YouTubes Likes and Views</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-secure-and-quick-screen-captures-on-android-devices/"><u>[New] Secure & Quick Screen Captures on Android Devices</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-best-15-standout-stop-motion-films-of-all-time/"><u>[Updated] Explore the Best 15 Standout Stop-Motion Films of All Time</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-locate-and-watch-vintage-facebook-moments/"><u>2024 Approved Locate and Watch Vintage Facebook Moments</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-windows-10-update-error-code-0x800705b4-comprehensive-guide/"><u>How to Fix the Windows 10 Update Error Code 0X800705b4 – Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-for-0x800f0831-error-update-your-windows-today/"><u>Quick Fix for 0X800F0831 Error - Update Your Windows Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-7-sound-driver-issues-quickly/"><u>Resolving Windows 7 Sound Driver Issues Quickly</u></a></li>
+<li><a href="https://common-error.techidaily.com/stop-unwanted-boot-ups-on-your-windows-computer-with-these-easy-troubleshooting-steps/"><u>Stop Unwanted Boot-Ups on Your Windows Computer with These Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/svchostexe-overload-effective-strategies-for-reducing-cpu-usage-in-windows-10/"><u>svchost.exe Overload: Effective Strategies for Reducing CPU Usage in Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-essential-resource-for-enthusiasts-toms-hardware-explored/"><u>The Essential Resource for Enthusiasts: Tom's Hardware Explored</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-ultimate-fix-for-your-broken-touchscreen-top-5-solutions-for-windows-10-users/"><u>The Ultimate Fix for Your Broken Touchscreen - Top 5 Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/forming-viewers-into-customers-youtubes-essential-5-tactics-for-2024/"><u>Transforming Viewers Into Customers YouTube's Essential 5 Tactics for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-fcp-x-the-ultimate-guide-to-creating-realistic-green-screen-composites/"><u>Updated FCP X The Ultimate Guide to Creating Realistic Green Screen Composites</u></a></li>
+<li><a href="https://common-error.techidaily.com/winupdate-failure-no-more-overcoming-error-0x80240017-with-ease/"><u>WinUpdate Failure No More! Overcoming Error 0X80240017 with Ease</u></a></li>
 </ul></div>
 

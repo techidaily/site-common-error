@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Windows 10 Update Issue: A Guide on Resolving 0X800705b4 Error"
-date: 2024-10-05T20:35:56.773Z
-updated: 2024-10-13T04:39:00.761Z
+date: 2024-10-11T23:40:03.016Z
+updated: 2024-10-18T21:48:20.584Z
 tags:
   - win11
   - win10
@@ -45,25 +45,18 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04da616dafa.jpg)
 2. Click**Troubleshoot** on the left. Click**Windows Update** \>**Run the troubleshooter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dacebef4f.jpg)
 3. Windows will start detecting problems, which will take several minutes. Once done, follow the on-screen instructions to complete the process.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dae7e3360.png)
 4. Restart your computer and try Windows Update again to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If the Windows Update error persists, move on to the second method.
 
@@ -87,16 +80,17 @@ If the Windows Update error persists, move on to the second method.
 **pause**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04dd3338a3f.jpg)
 3. Wait for the commands to complete, and exit Command Prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Open Windows Update and see if it works properly.
 
  If your issue still persists, don’t worry, There is something else to try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Repair corrupted system files
 
@@ -110,22 +104,17 @@ If the Windows Update error persists, move on to the second method.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -136,24 +125,24 @@ If the Windows Update error persists, move on to the second method.
 2. Type the following command and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 sfc /scannow  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ddb7ef0b3.jpg)
 3. Once the process is 100% complete, exit Command Prompt and restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Try to update Windows again and see if it fixes your error 0x80240017\. Still no luck? There’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update available drivers
 
@@ -174,6 +163,13 @@ sfc /scannow
  Or click**Update All** to automatically download and install all the correct drivers for problem drivers (you can do this with the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) , and you’ll be prompted to upgrade when your click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Open Windows Update to download and install updates and it should working now.
 
@@ -197,21 +193,24 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-commanders-quest-the-ultimate-list-of-total-war-classics/"><u>2024 Approved Commanders’ Quest The Ultimate List of Total War Classics</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-snap-edit-and-enchant-the-ultimate-guide-to-stellar-tiktok-videos/"><u>2024 Approved Snap, Edit & Enchant The Ultimate Guide to Stellar TikTok Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210753236-directx-hardware-renderer-initialization-issues-solutions-uncovered/"><u>DirectX Hardware Renderer Initialization Issues - Solutions Uncovered</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/effortless-game-captures-with-nvidia-for-2024/"><u>Effortless Game Captures with NVIDIA for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/illustrators-playground-navigating-through-top-8-iphone-drawing-tools-for-2024/"><u>Illustrators' Playground Navigating Through Top 8 iPhone Drawing Tools for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-2023s-ultimate-toolwiz-photo-suite-analysis/"><u>In 2024, 2023'S Ultimate Toolwiz Photo Suite Analysis</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-11-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone 11 Pro with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/pros-and-cons-making-sense-of-minecraft-realms-benefits/"><u>Pros and Cons: Making Sense of Minecraft Realms' Benefits</u></a></li>
-<li><a href="https://common-error.techidaily.com/repairing-internal-camera-glitches-in-microsoft-windows-a-comprehensive-how-to/"><u>Repairing Internal Camera Glitches in Microsoft Windows: A Comprehensive How-To</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-unresponsive-laptop-mouse-problems-with-simple-usb-fixes/"><u>Solve Unresponsive Laptop Mouse Problems with Simple USB Fixes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-t5s-complete-action-video-insight/"><u>The T5's Complete Action Video Insight</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-guide-to-resolving-windows-1011-sound-failures-dealing-with-missing-audio-devices/"><u>The Ultimate Guide to Resolving Windows 10/11 Sound Failures: Dealing with Missing Audio Devices</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-optimize-your-file-explorer-in-windows-10-today/"><u>Troubleshoot and Optimize Your File Explorer in Windows 10 Today</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-undetected-device-issues-with-bluetooth-in-windows-11/"><u>Troubleshooting Guide: Resolving Undetected Device Issues with Bluetooth in Windows 11</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-discovering-the-top-six-no-cost-daw-programs-for-novice-producers/"><u>Updated Discovering the Top Six No-Cost DAW Programs for Novice Producers</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-against-werfaultexe-issues-on-windows-six-essential-hacks-and-tweaks-for-better-stability/"><u>Winning Against WerFault.exe Issues on Windows: Six Essential Hacks and Tweaks for Better Stability</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-dj-iq-upgrade-two-drone-brands-now-offer-free-lut-sets/"><u>[New] DJ IQ Upgrade – Two Drone Brands Now Offer FREE LUT Sets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-mozillas-split-screen-technique-in-firefox/"><u>[New] Exploring Mozilla's Split Screen Technique in Firefox</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/yes-on-the-digital-winners-top-channels-for-2024/"><u>[New] Eyes on the Digital Winners Top Channels for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-windows-10-video-grabber-ultimate-for-2024/"><u>[Updated] Windows 10 Video Grabber Ultimate for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-breaking-down-virtual-reality-jargon/"><u>2024 Approved Breaking Down Virtual Reality Jargon</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-windows-native-pdf-displayer/"><u>Adjusting Windows' Native PDF Displayer</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-samsung-galaxy-a05s-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Samsung Galaxy A05s Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210308121-device-driver-compatibility-in-wow-problem-solved-optimize-your-system-now/"><u>Device Driver Compatibility in WoW: Problem Solved - Optimize Your System Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-high-traffic-consumption-by-svchostexe-network-services-component/"><u>Diagnosing and Fixing High Traffic Consumption by svchost.exe (Network Services Component)</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205935005-fix-0x80070643-windows-update-or-installation-errors-on-windows/"><u>Fix “0X80070643” Windows Update or Installation Errors on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-quickly-fix-the-0x800f0922-issue-in-your-windows-10-system/"><u>How to Quickly Fix the 0X800f0922 Issue in Your Windows 10 System</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-windows-10-from-continuously-restarting-on-shutdown-attempts/"><u>How to Stop Windows 10 From Continuously Restarting on Shutdown Attempts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lapscape-dreaming-choosing-the-best-websites-for-aesthetic-backgrounds-for-2024/"><u>Lapscape Dreaming Choosing the Best Websites for Aesthetic Backgrounds for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resetting-your-apple-id-screen-time-lock-pin-for-iphone-ipad-and-mac/"><u>Resetting Your Apple ID Screen Time Lock PIN for iPhone, iPad, and Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-windows-update-issues-successful-troubleshooting-steps/"><u>Resolved Windows Update Issues: Successful Troubleshooting Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/revamped-screen-achieved-full-compliance-with-interoperability-standards/"><u>Revamped Screen: Achieved Full Compliance with Interoperability Standards</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-fixing-network-cable-glitches-on-windows-10-and-windows-7-computers/"><u>Step-by-Step Solutions: Fixing Network Cable Glitches on Windows 10 and Windows 7 Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-updating-and-repairing-asus-pce-ac56-drivers-for-windows-users-windows-11-8-and-ps-7/"><u>The Ultimate Guide to Updating and Repairing ASUS PCE-AC56 Drivers for Windows Users (Windows 11, 8 & Ps 7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-ps4s-ce-34878-0-error-for-a-smooth-gaming-experience-tips-and-fixes/"><u>Troubleshooting PS4's CE-34878-0 Error for a Smooth Gaming Experience: Tips and Fixes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guaranteeing System Stability: Fixing MSVCP140.dll Shortage"
-date: 2024-10-07T20:53:04.274Z
-updated: 2024-10-12T20:35:24.111Z
+date: 2024-10-12T20:32:24.064Z
+updated: 2024-10-19T00:26:44.409Z
 tags:
   - win11
   - win10
@@ -33,19 +33,6 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 5. [**Change processor affinity**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 1: Check if your PC meets the minimum system requirements for Nier Automata**
 
@@ -81,6 +68,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 2: Install the latest game patch**
 
  The developers of**Nier Automata** will keep releasing game patches to fix bugs. You can install the latest patch which may have triggered this issue.
@@ -105,6 +99,14 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or you can click the**Update** button next to the graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-3.jpg)
 4. Restart your computer, and see if the problem is fixed or not.
 
@@ -115,6 +117,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device-manager.jpg)
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Update driver** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc-updatea.jpg)
 4. Follow the on-screen instructions to finish the process.
@@ -132,10 +141,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Restart your computer, and see if the problem is fixed or not.
@@ -143,10 +152,10 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
@@ -167,22 +176,8 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
 5. Go back to the game, it should be running properly.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -205,20 +200,20 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-tips-and-tricks-for-locating-recent-videos-youve-liked/"><u>2024 Approved Tips & Tricks for Locating Recent Videos You've Liked</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capture-attention-top-10-grids-for-stunning-pics-for-2024/"><u>Capture Attention Top 10 Grids for Stunning Pics for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-when-you-encounter-a-missing-binkw32dll-error/"><u>Effective Solutions for When You Encounter a Missing binkw32.dll Error</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-infinix-note-30-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Infinix Note 30 Phones with/without a PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unable-to-use-desktop-in-systemprofile-on-windows-pcs/"><u>How to Fix Unable to Use Desktop in SystemProfile on Windows PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-reset-your-pc-overcoming-errors-in-windows-10-guide/"><u>How to Successfully Reset Your PC: Overcoming Errors in Windows 10 [Guide]</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-essential-insights-best-instagram-editors-for-mobile-and-pc/"><u>In 2024, Essential Insights Best Instagram Editors for Mobile and PC</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-8-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-is-getting-ready-to-start-freeze-on-your-personal-computer/"><u>Overcoming 'Windows Is Getting Ready to Start' Freeze on Your Personal Computer</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/premier-low-cost-time-tracking-tools/"><u>Premier Low-Cost Time Tracking Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/revolutionize-your-windows-11-routine/"><u>Revolutionize Your Windows 11 Routine</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-stop-your-laptop-from-randomly-freezing-up/"><u>Step-by-Step Guide to Stop Your Laptop From Randomly Freezing Up</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-correcting-windows-driver-power-management-errors/"><u>Step-by-Step Tutorial: Correcting Windows Driver Power Management Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-cannot-start-this-hardware-device-in-windows-11-with-registry-issues-error-19/"><u>Troubleshooting 'Windows Cannot Start This Hardware Device' In Windows 11 with Registry Issues - Error 19</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-best-of-the-best-10-acclaimed-online-vimeo-downloaders/"><u>[New] 2024 Approved Best of the Best 10 Acclaimed Online Vimeo Downloaders</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-navigating-instagrams-algorithm-for-better-engagement/"><u>[New] 2024 Approved Navigating Instagram's Algorithm for Better Engagement</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-boosting-your-yt-subs-a-complete-strategy-guide/"><u>[New] In 2024, Boosting Your YT Subs A Complete Strategy Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-crafting-squares-for-viral-videos-in-a-social-media-world/"><u>[Updated] 2024 Approved Crafting Squares for Viral Videos in a Social Media World</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-cost-effective-obs-tuning-steps-for-2024/"><u>[Updated] Cost-Effective OBS Tuning Steps for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/computer-continuously-loading-at-initial-boot-solutions-inside/"><u>Computer Continuously Loading at Initial Boot? Solutions Inside!</u></a></li>
+<li><a href="https://common-error.techidaily.com/hp-d1360-printer-driver-error-on-various-windows-systems-solutions-and-tips-for-successful-setup/"><u>HP D1360 Printer Driver Error on Various Windows Systems: Solutions and Tips for Successful Setup</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-v29e-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo V29e Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/e-in-the-cloud-making-money-on-youtube-without-relying-on-ads/"><u>Income in the Cloud Making Money on YouTube Without Relying on Ads</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-your-non-functioning-hp-laptop-keys-get-back-to-work-now/"><u>Quick Fixes for Your Non-Functioning HP Laptop Keys – Get Back to Work Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-issue-step-by-step-guide-to-fixing-error-code-0x8024402c-on-your-pc/"><u>Resolving the Issue: Step-by-Step Guide to Fixing Error Code 0X8024402c on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fix-what-to-do-if-your-laptops-touchpad-wont-work/"><u>Step-by-Step Fix: What to Do If Your Laptop's Touchpad Won't Work</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ten-practical-ways-to-prevent-vr-sickness-for-2024/"><u>Ten Practical Ways to Prevent VR Sickness for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-dark-launch-issue-of-monster-hunter-world/"><u>Troubleshooting Guide: Fixing the Dark Launch Issue of Monster Hunter World</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-fix-casting-issues-on-windows-10-devices/"><u>Troubleshooting Guide: How to Fix Casting Issues on Windows 10 Devices</u></a></li>
 </ul></div>
 

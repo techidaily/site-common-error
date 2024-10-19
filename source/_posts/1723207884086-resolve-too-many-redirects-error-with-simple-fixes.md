@@ -1,7 +1,7 @@
 ---
 title: Resolve Too Many Redirects Error with Simple Fixes
-date: 2024-09-11T00:22:43.475Z
-updated: 2024-09-15T02:27:32.670Z
+date: 2024-10-14T19:48:02.635Z
+updated: 2024-10-18T23:12:03.410Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f58f4389cc.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5932c4650.png)
 
 **b)** Click on **Clear browsing data** button.
@@ -59,21 +66,68 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5a4277ce0.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And on **Mozilla Firefox** :
 
 **a)**  Click the**Menu** button of Firefox, and then select**Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5c7cb124c.png)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5c93bf987.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **b)** Select**Privacy** and then**clear your recent history** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5d86b7592.png)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **c)** Select**Everything** for Time range to clear and then click **Clear Now** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f5e6e3334a.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the browser data are cleared, you can try logging in the website and see if the error is gone.
 
@@ -101,23 +155,9 @@ Here are the examples of checking extensions in Chrome and Firefox.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f827608c6c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **b)** In Control Panel, select**Date and Time** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_593f82d4f3a5d.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **c)** Select**Internet Time** tab, and then click on**Change settings** .
 
@@ -149,5 +189,24 @@ The date and time on your system is now updated.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-in-search-of-perfection-the-top-10-live-streamers/"><u>[New] In Search of Perfection The Top 10 Live Streamers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-path-to-profitable-fb-animation-ad-success-stories/"><u>[New] The Path to Profitable FB Animation Ad Success Stories</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-guide-to-turning-memories-into-snaps/"><u>[New] The Ultimate Guide to Turning Memories Into Snaps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-crafting-professional-icons-with-pre-made-graphic-elements/"><u>[Updated] Crafting Professional Icons with Pre-Made Graphic Elements</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-twilight-assessment-diverse-ideas-for-2024/"><u>[Updated] Twilight Assessment Diverse Ideas for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-resolved-ensure-your-system-has-a-d3d11-compatible-graphics-card/"><u>Error Resolved: Ensure Your System Has a D3D11-Compatible Graphics Card</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-fixes-to-prevent-nier-automata-crashes-on-personal-computers/"><u>Essential Fixes to Prevent Nier: Automata Crashes on Personal Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-common-issues-how-to-repair-a-non-functional-dell-laptop-keyboard/"><u>Fixing Common Issues: How to Repair a Non-Functional Dell Laptop Keyboard</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-building-a-brand-with-captivating-haul-videos-and-edits/"><u>In 2024, Building a Brand with Captivating Haul Videos and Edits</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-itel-a60-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Itel A60? Try These Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-fixes-for-windows-11-startup-hanging-problems/"><u>Step-by-Step Fixes for Windows 11 Startup Hanging Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-escaping-the-clutches-of-a-false-google-chrome-crisis/"><u>Step-by-Step Guide: Escaping the Clutches of a False Google Chrome Crisis</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-6-fixes-for-a-non-functioning-microphone-updated-guide/"><u>Top 6 Fixes for a Non-Functioning Microphone : Updated Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-print-driver-host-issues-in-32-bit-systems/"><u>Troubleshooting Guide: Fixing 'Print Driver Host' Issues in 32-Bit Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-getting-your-windows-10-mic-working-again/"><u>Troubleshooting Guide: Getting Your Windows 10 Mic Working Again</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unlocking-recmasters-potential-in-screen-capture/"><u>Unlocking Recmaster's Potential in Screen Capture</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-failed-to-enumerate-objects-in-the-container-access-is-denied-solved/"><u>Windows 10 Failed to Enumerate Objects in the Container. Access Is Denied [Solved]</u></a></li>
+</ul></div>
 

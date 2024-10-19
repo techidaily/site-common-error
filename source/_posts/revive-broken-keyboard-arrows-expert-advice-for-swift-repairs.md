@@ -1,7 +1,7 @@
 ---
 title: "Revive Broken Keyboard Arrows: Expert Advice for Swift Repairs"
-date: 2024-10-09T01:20:31.192Z
-updated: 2024-10-13T04:26:24.751Z
+date: 2024-10-14T20:45:22.144Z
+updated: 2024-10-18T18:31:45.978Z
 tags:
   - win11
   - win10
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
  After restarting, check to see if the keyword works again. If it’s still not working, try[Method 2](#method4) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Update the driver
@@ -67,28 +67,21 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c1c508fb30.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
 
  4) Restart your laptop, and check to see if your keyboard works.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Press the problem keys diagonally
 
  This method may work for some specific keys no working on your Lenovo laptop keyboard. To fix the issue, press the keys associated with the problem diagonally (lower left side of the button) for a couple of seconds. This may do the trick for you.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Remove the battery and the power cable
 
@@ -106,6 +99,13 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/04/win-11-run-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) View by **Small icons** and click **System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_5874ae59063e3.jpg)
@@ -119,10 +119,10 @@ If you have no idea how to do a system restore, refer steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784f0301145.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Click**Next** .
@@ -137,22 +137,16 @@ If you have no idea how to do a system restore, refer steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784fcae60ab.jpg)
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  8) Click**Yes** to confirm the restore.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/01/img_58784ffa10af0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 9) Reboot your PC for the changes to take effect.
 
@@ -176,24 +170,20 @@ If you have no idea how to do a system restore, refer steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-experience-the-joy-sorrow-merge-with-these-ten-meme-ig-accounts/"><u>[New] 2024 Approved Experience the Joy-Sorrow Merge with These Ten Meme IG Accounts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unleash-your-fb-potential-a-strategic-plan-for-more-likes-and-shares/"><u>[New] 2024 Approved Unleash Your FB Potential A Strategic Plan for More Likes and Shares</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-compreeved-guide-converting-webp-to-quality-jpg-format/"><u>[New] Compreeved Guide Converting WebP to Quality JPG Format</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-comprehensive-breakdown-sony-fdr-x1000-video-gear/"><u>[Updated] Comprehensive Breakdown Sony FDR-X1000 Video Gear</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-how-to-use-vlc-for-professional-screen-recording/"><u>[Updated] In 2024, How to Use VLC for Professional Screen Recording</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-spotlight-on-11-top-audio-capture-equipments-for-2024/"><u>[Updated] Spotlight on 11 Top Audio Capture Equipments for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-fixes-for-when-your-logitech-keyboard-stops-working/"><u>DIY Fixes for When Your Logitech Keyboard Stops Working</u></a></li>
-<li><a href="https://network-issues.techidaily.com/enhanced-graphics-support-amd-radeon-6950-v10/"><u>Enhanced Graphics Support - AMD Radeon 6950 V1.0</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-surface-device-when-its-connected-but-wont-charge/"><u>How to Fix Surface Device When It's Connected But Won't Charge</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/instant-video-posting-to-twitter-from-phone-avoid-the-retweet/"><u>Instant Video Posting to Twitter From Phone – Avoid the Retweet</u></a></li>
-<li><a href="https://common-error.techidaily.com/lost-the-icons-on-your-taskbar-revive-them-with-these-4-secrets-for-windows-11-users/"><u>Lost The ICONS on Your Taskbar? Revive Them with These 4 Secrets for Windows 11 Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-art-of-repairing-overwatch-voice-chat-glitches-quickly-and-easily/"><u>Master the Art of Repairing Overwatch Voice Chat Glitches Quickly and Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/maximizing-computer-performance-a-solution-for-low-memory-alerts-on-windows-ebitcoin/"><u>Maximizing Computer Performance: A Solution for Low Memory Alerts on Windows Ebitcoin</u></a></li>
-<li><a href="https://common-error.techidaily.com/mouse-maneuvers-for-maximum-speed/"><u>Mouse Maneuvers for Maximum Speed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rethink-windows-11-the-top-10-best-replacement-software/"><u>Rethink Windows 11: The Top 10 Best Replacement Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/revolutionary-rivalry-chatgpt-meets-claude-ai/"><u>Revolutionary Rivalry: ChatGPT Meets Claude AI</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-persistent-usb-device-unrecognizable-pop-ups-troubleshooting-guide/"><u>Solved: Persistent 'USB Device Unrecognizable' Pop-Ups - Troubleshooting Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-complete-guide-to-modern-setup-hosts-and-how-to-restore-functionality-when-glitches-occur/"><u>The Complete Guide to Modern Setup Hosts and How to Restore Functionality When Glitches Occur</u></a></li>
-<li><a href="https://common-error.techidaily.com/xbox-one-controller-not-working-heres-how-you-can-establish-a-successful-connection/"><u>Xbox One Controller Not Working? Here's How You Can Establish a Successful Connection!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-future-of-virtuality-top-tier-oculus-rift-reviews/"><u>[New] 2024 Approved The Future of Virtuality Top-Tier Oculus Rift Reviews</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-dive-into-time-lapse-shooting-gopro-unveiled/"><u>[New] Dive Into Time-Lapse Shooting GoPro Unveiled</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-resurrecting-lost-confidential-snapshots/"><u>[Updated] In 2024, Resurrecting Lost, Confidential Snapshots</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-shut-down-instagram-suggestions/"><u>[Updated] Shut Down Instagram Suggestions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-view-count-best-yt-thumbnail-sizes/"><u>2024 Approved Maximize View Count Best YT Thumbnail Sizes</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-fixes-for-dealing-with-error-code-0x800f081f-when-setting-up-net-framework-35/"><u>Easy Fixes for Dealing with Error Code 0X800F081F When Setting up .NET Framework 3.5</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-unresponsive-function-fn-buttons-on-an-asus-computer/"><u>How to Repair Unresponsive Function (Fn) Buttons on an Asus Computer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-go-beyond-basic-top-10-hidden-whatsapp-features/"><u>In 2024, Go Beyond Basic Top 10 Hidden WhatsApp Features</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-logitech-audio-driver-downloads-compatible-with-windows-11-7-and-8-systems/"><u>Latest Logitech Audio Driver Downloads Compatible with WIndows 11, 7, and 8 Systems</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/professionista-di-backup-e-ripristini-per-aziende-la-guida-completa-allaomei-backupper/"><u>Professionista Di Backup E Ripristini per Aziende: La Guida Completa All'AOMEI Backupper</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-the-audio-on-netflix-effective-troubleshooting-tips/"><u>Reviving the Audio on Netflix: Effective Troubleshooting Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-pdf-printing-woes-with-top-tips/"><u>Solve Your PDF Printing Woes with Top Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-for-fixing-steam-disk-errors-effortlessly/"><u>Step-by-Step Tutorial for Fixing Steam Disk Errors Effortlessly</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-a-non-operational-diagnostics-policy-service/"><u>Troubleshooting Steps for a Non-Operational Diagnostics Policy Service</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstuck-from-the-steam-store-error-methods-to-successfully-load-and-access-games/"><u>Unstuck From the Steam Store Error: Methods to Successfully Load and Access Games</u></a></li>
 </ul></div>
 

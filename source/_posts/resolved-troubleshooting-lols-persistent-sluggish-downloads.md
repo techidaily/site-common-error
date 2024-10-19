@@ -1,7 +1,7 @@
 ---
 title: Resolved! Troubleshooting LoL's Persistent Sluggish Downloads
-date: 2024-10-10T18:35:33.404Z
-updated: 2024-10-13T03:02:53.460Z
+date: 2024-10-12T04:04:18.897Z
+updated: 2024-10-19T00:31:09.007Z
 tags:
   - win11
   - win10
@@ -35,10 +35,16 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 3. [**Update your device drivers**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Method 1: Run your Steam client in compatibility mode
@@ -56,20 +62,13 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6ca563d08d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Double click**Steam** (or**Steam.exe** ) to run the Steam client. If this method works for you, you won’t see this error again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Method 2: Temporarily disable your antivirus
 
@@ -78,6 +77,19 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
  If this resolves your problem, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
 
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Method 3: Update your device drivers
 
@@ -93,16 +105,16 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6ea20dde47.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the **Update**  button next to each of your devices to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6edacb29c1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Restart your computer and run your Steam client. Then check to see if this method helps you get rid of your error.
 
@@ -124,18 +136,18 @@ thumbnail: https://thmb.techidaily.com/c6f194696eb0c1816baa0ea6eee51fe354f8a71c5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-core-elements-of-kinetic-visual-storytelling/"><u>[Updated] 2024 Approved The Core Elements of Kinetic Visual Storytelling</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-the-art-of-swapping-gender-representation-in-snapchatfacebook-photos-for-2024/"><u>[Updated] Mastering the Art of Swapping Gender Representation in Snapchat/Facebook Photos for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-olympic-ice-rush-speed-skaters-best-from-games-for-2024/"><u>[Updated] Olympic Ice Rush Speed Skaters' Best From Games for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-keywords-in-the-realm-of-virtual-reality/"><u>2024 Approved Keywords in the Realm of Virtual Reality</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-sounding-off-instagrams-copyright-rules/"><u>2024 Approved Sounding Off Instagram's Copyright Rules</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-ultimate-performance-with-best-video-controller-add-ons/"><u>2024 Approved Unlock Ultimate Performance with Best Video Controller Add-Ons</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-combat-and-correct-power-surge-events-in-telecommunication-nodes/"><u>How to Combat and Correct Power Surge Events in Telecommunication Nodes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-itel-a70-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Itel A70</u></a></li>
-<li><a href="https://network-issues.techidaily.com/laptop-display-rotated-issue-resolved/"><u>Laptop Display Rotated - Issue Resolved</u></a></li>
-<li><a href="https://common-error.techidaily.com/lenovo-fn-key-malfunction-heres-how-to-restore-it/"><u>Lenovo Fn Key Malfunction? Here's How to Restore It</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-module-not-found-issues-in-development-projects/"><u>Overcoming 'Module Not Found' Issues in Development Projects</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-when-your-dns-server-wont-respond-four-key-methods/"><u>Quick Solutions for When Your DNS Server Won't Respond (Four Key Methods)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-list-the-15-most-effective-free-uninstallers-available-online/"><u>Ultimate List: The 15 Most Effective Free Uninstallers Available Online</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-from-free-to-profitable-unlocking-youtubes-monetization-at-500plus/"><u>[New] 2024 Approved From Free to Profitable Unlocking YouTube's Monetization at 500+</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-faster-than-ever-revolutionary-methods-to-speed-up-fb-videos/"><u>[New] Faster Than Ever Revolutionary Methods to Speed Up FB Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mastering-the-art-of-clearing-youtubes-stored-videos-for-2024/"><u>[Updated] Mastering the Art of Clearing YouTube's Stored Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-the-secret-to-exceptional-time-lapse-videos-on-galaxy/"><u>[Updated] Unlock the Secret to Exceptional Time-Lapse Videos on Galaxy</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/cease-playback-failures-fix-facebook-videos-for-2024/"><u>Cease Playback Failures - Fix Facebook Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211846096-complete-guide-to-resolving-ps4-network-problems-fixed-nat-explained/"><u>Complete Guide to Resolving PS4 Network Problems – Fixed NAT Explained!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-for-restoring-functionality-to-your-logitech-mouses-scroll-wheel/"><u>Expert Advice for Restoring Functionality to Your Logitech Mouse's Scroll Wheel</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-advanced-steps-to-record-silent-videos/"><u>In 2024, Advanced Steps to Record Silent Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-the-roar-a-comprehensive-guide-to-fix-sound-issues-on-an-acer-computer/"><u>Reviving the Roar: A Comprehensive Guide to Fix Sound Issues on an Acer Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-sound-issues-resolve-windows-1011-audio-setup-errors-easily/"><u>Troubleshooting Sound Issues: Resolve Windows 10/11 Audio Setup Errors Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-symbol-when-it-fails-to-work/"><u>Troubleshooting the '@' Symbol When It Fails to Work</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-file-explorer-made-easy-learn-how-with-our-help/"><u>Windows 10 File Explorer Made Easy – Learn How With Our Help</u></a></li>
 </ul></div>
 

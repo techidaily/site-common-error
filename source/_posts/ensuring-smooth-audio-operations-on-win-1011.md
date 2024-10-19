@@ -1,7 +1,7 @@
 ---
 title: Ensuring Smooth Audio Operations on WIN 10/11
-date: 2024-09-09T11:50:12.577Z
-updated: 2024-09-14T17:14:06.509Z
+date: 2024-10-16T03:40:51.361Z
+updated: 2024-10-18T21:04:16.516Z
 tags:
   - win11
   - win10
@@ -87,6 +87,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Click**OK** to save all the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-117.png)
@@ -107,13 +114,34 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click your mic and select**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Wait a few seconds. Next, right-click your mic again and select**Enable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now check to see your mic is back on track.
 
@@ -127,28 +155,28 @@ Now check to see your mic is back on track.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-365.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the **Microphone** tab, in the results pane, click **Change** to see if the toggle for **Microphone access for this device** has been set to Off. If it is, simply turn it**on** .
 
  Below you’ll see another toggle for **Allow apps to access your microphone** . Also turn it**on** if it’s been set to Off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-369.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this fix doesn’t work, please proceed to the next one.
@@ -172,5 +200,18 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-elite-digital-image-grabbers/"><u>[New] 2024 Approved Elite Digital Image Grabbers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-optimize-video-audio-discovering-affordable-wav-extraction-methods/"><u>[Updated] 2024 Approved Optimize Video Audio Discovering Affordable WAV Extraction Methods</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/avoiding-malpractice-how-to-safely-grow-a-million-fanbase/"><u>Avoiding Malpractice How to Safely Grow a Million Fanbase</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-broken-keyboard-arrows-easy-troubleshooting-steps-inside/"><u>Fix Your Broken Keyboard Arrows - Easy Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-infinix-hot-30-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Infinix Hot 30 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-uncovering-8-affordable-platform-agnostic-virtual-communication-tools/"><u>In 2024, Uncovering 8 Affordable, Platform-Agnostic Virtual Communication Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-examination-of-the-garmin-vivosmart-4-body-energy-monitoring/"><u>In-Depth Examination of the Garmin Vivosmart 4: Body Energy Monitoring</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/navigating-twitters-reaction-videos-explained-for-2024/"><u>Navigating Twitter's Reaction Videos Explained for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/repairing-steam-api64-file-missing-problem/"><u>Repairing Steam API64 File Missing Problem</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-why-your-pc-keeps-powering-down-and-what-you-can-do-about-it/"><u>Troubleshooting Guide: Why Your PC Keeps Powering Down and What You Can Do About It</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-user-profile-service-failure-and-sign-in-issues-in-windows-10-and-11/"><u>Troubleshooting Tips: Resolving 'User Profile Service' Failure and Sign-In Issues in Windows 10 & 11</u></a></li>
+</ul></div>
 

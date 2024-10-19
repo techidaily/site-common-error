@@ -1,7 +1,7 @@
 ---
 title: "No More Dropped Signals: Masterful Solutions for Persistent USB Disconnection Problems"
-date: 2024-09-09T06:23:36.228Z
-updated: 2024-09-14T22:05:47.356Z
+date: 2024-10-15T21:41:58.812Z
+updated: 2024-10-18T22:20:05.136Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/3e42d7d3d66b1bb7fc10d0f6ca519d43c3162c70f
 2. **[Update your USB drivers](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Turn off USB selective suspend](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Do some basic troubleshooting
 
@@ -51,6 +58,13 @@ To rule out this as a possibility:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
@@ -72,48 +86,41 @@ To make sure you’ve this setting disabled:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On your selected power option, click on**Change plan settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Change advanced power settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Change power management settings for USB Root Hubs
 
@@ -157,5 +164,24 @@ To make sure you’ve this setting disabled:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-charting-the-unknown-visual-facts-from-2017s-youtube-world/"><u>[Updated] 2024 Approved Charting the Unknown Visual Facts From 2017'S Youtube World</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-secrets-revealed-6-strategies-to-keep-your-youtube-audience-hooked-and-returning/"><u>[Updated] Secrets Revealed 6 Strategies to Keep Your YouTube Audience Hooked and Returning</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-venues-fueling-youtube-visibility/"><u>2024 Approved Premier Venues Fueling YouTube Visibility</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/captivate-audiences-unveiling-secrets-for-striking-youtube-banners-for-2024/"><u>Captivate Audiences Unveiling Secrets for Striking YouTube Banners for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/equipment-guide-for-dynamic-documentary-making/"><u>Equipment Guide for Dynamic Documentary Making</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-lenovo-mouse-pad-malfunctioning-on-windows-1187-step-by-step-guide/"><u>Fix: Lenovo Mouse Pad Malfunctioning on Windows 11/8/7 – Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-right-click-functions-when-your-windows-10-mouse-fails/"><u>How to Restore Right-Click Functions When Your Windows 10 Mouse Fails</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-realme-v30t-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Realme V30T to iPad | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-for-the-troublesome-livekernelevent-117-error/"><u>Mastering the Fix for the Troublesome LiveKernelEvent 117 Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/ps4-battery-woes-discover-how-to-get-your-controller-charging-again/"><u>PS4 Battery Woes? Discover How to Get Your Controller Charging Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-error-writing-failed-to-0x-referenced-memory-location-understanding-fixes/"><u>Resolved Error: Writing Failed to 0X Referenced Memory Location - Understanding Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-common-heart-of-iron-iv-game-crashes-explained/"><u>Resolved: Common Heart of Iron IV Game Crashes Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-extended-semaphore-connection-timed-out-error-error-code-0x80070079/"><u>Resolved: Extended Semaphore Connection Timed Out Error (Error Code 0X80070079)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-tech-scoop-in-depth-reviews-from-toms-equipment-examiner/"><u>The Tech Scoop: In-Depth Reviews From Tom’s Equipment Examiner</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-restoring-visible-bluetooth-devices-in-your-computers-device-manager/"><u>Troubleshooting Steps for Restoring Visible Bluetooth Devices in Your Computer's Device Manager</u></a></li>
+<li><a href="https://common-error.techidaily.com/uncover-how-to-bring-back-gone-desktop-icons-in-windows-10-with-these-steps/"><u>Uncover How to Bring Back Gone Desktop Icons in Windows 10 with These Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/your-ultimate-resource-for-free-iphone-guides-and-manuals-by-model-number/"><u>Your Ultimate Resource for Free iPhone Guides and Manuals by Model Number</u></a></li>
+</ul></div>
 

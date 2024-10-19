@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Vanishing Mouse Pointer Issue in Windows 10: A Step-by-Step Guide"
-date: 2024-10-08T00:02:15.409Z
-updated: 2024-10-13T03:40:08.938Z
+date: 2024-10-13T18:46:47.122Z
+updated: 2024-10-18T18:24:09.880Z
 tags:
   - win11
   - win10
@@ -41,16 +41,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
@@ -59,13 +59,6 @@ Here’s how to do it:
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -79,6 +72,14 @@ Here’s how to do it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
@@ -96,16 +97,10 @@ To do so:
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
@@ -115,25 +110,25 @@ To do so:
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Troubleshoot hardware issues
 
@@ -168,20 +163,22 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/no-charge-issue-why-your-plugged-in-laptop-isnt-charging/"><u>- No Charge Issue: Why Your Plugged-In Laptop Isn't Charging</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-profitable-pursuits-on-youtube-the-non-ad-revenue-roadmap/"><u>[Updated] In 2024, Profitable Pursuits on YouTube The Non-Ad Revenue Roadmap</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/collecting-classics-copyrights-released/"><u>Collecting Classics Copyrights Released</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conversing-with-creatures-understanding-alien-languages-in-star-wars/"><u>Conversing with Creatures: Understanding Alien Languages in Star Wars</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficient-resource-management-for-windows-11-addressing-msmpengexe-cpu-spikes-resolved/"><u>Efficient Resource Management for Windows 11: Addressing MsMpEng.exe CPU Spikes [RESOLVED]</u></a></li>
-<li><a href="https://fox-where.techidaily.com/evaluating-flipbuilders-license-period-for-flippdf-pro-what-you-need-to-know/"><u>Evaluating FlipBuilder's License Period for FlipPDF Pro – What You Need to Know</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-connection-woes-with-your-ps4-gamepad-practical-methods-and-strategies/"><u>Fixing Connection Woes with Your PS4 Gamepad: Practical Methods & Strategies</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-microphone-functionality-on-your-windows-11-pc-easy-steps-inside/"><u>How to Restore Microphone Functionality on Your Windows 11 PC - Easy Steps Inside</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oppo-a59-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/league-of-legends-update-dilemma-speed-up-your-game-install-process-now/"><u>League of Legends Update Dilemma? Speed Up Your Game Install Process Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-windows-11-couldnt-be-installed-issue-error-code-802e0020-guide/"><u>Overcoming the 'Windows 11 Couldn't Be Installed' Issue - Error Code 802E0020 Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/picprankster-laughlens-lab-for-2024/"><u>PicPrankster LaughLens Lab for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209196513-step-by-step-repair-for-windows-10-mutevolume-issues-resolved/"><u>Step-by-Step Repair for Windows 10 Mute/Volume Issues - Resolved!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-complete-solutions-for-the-0x800705b4-problem-during-a-windows-10-upgrade/"><u>Troubleshooting Complete Solutions for the 0X800705b4 Problem During a Windows 10 Upgrade</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-redmi-k70-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi Redmi K70</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unleashing-vintage-charm-filters-for-existing-media-on-ig/"><u>[New] 2024 Approved Unleashing Vintage Charm Filters for Existing Media on IG</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-fix-an-acer-laptop-with-no-sound/"><u>[Solved] How to Fix An Acer Laptop With No Sound</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unlock-the-full-potential-of-your-youtube-videos-top-11-seo-tips/"><u>[Updated] 2024 Approved Unlock the Full Potential of Your YouTube Videos Top 11 SEO Tips</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-ban-unwanted-youtube-recommended-titles/"><u>2024 Approved Ban Unwanted YouTube Recommended Titles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-triple-tier-phones-the-best-choice-for-high-quality-videos/"><u>2024 Approved Triple-Tier Phones The Best Choice for High-Quality Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/brand-awareness-through-opening/"><u>Brand Awareness Through Opening</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203651755-corsair-keyboard-lighting-problem-heres-how-to-get-those-lights-back/"><u>Corsair Keyboard Lighting Problem? Here’s How to Get Those Lights Back</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How To Activate and Use Life360 Ghost Mode On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>How to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-crimson-display-malfunction-on-your-pc-or-console/"><u>How to Repair a Crimson Display Malfunction on Your PC or Console</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-we-overcame-the-windows-updates-issues-solutions-applied/"><u>How We Overcame the Windows Updates Issues – Solutions Applied</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-infinix-note-30i-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Infinix Note 30i? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-metaversal-motivation-a-curated-list-of-inspiring-quotes/"><u>In 2024, Metaversal Motivation A Curated List of Inspiring Quotes</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-pcs-function-keys-a-step-by-step-guide-for-quick-fixes/"><u>Reviving Your PC’s Function Keys: A Step-by-Step Guide for Quick Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-fix-a-non-responsive-shift-key-on-your-computer/"><u>Troubleshoot & Fix a Non-Responsive Shift Key on Your Computer</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-how-to-switch-on-bluetooth-for-windows-7-devices/"><u>Troubleshooting and Fixing: How to Switch On Bluetooth for Windows 7 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206850703-windows-11-usb-port-problems-heres-how-you-can-fix-them-easily/"><u>Windows 11 USB Port Problems? Here's How You Can Fix Them Easily!</u></a></li>
 </ul></div>
 

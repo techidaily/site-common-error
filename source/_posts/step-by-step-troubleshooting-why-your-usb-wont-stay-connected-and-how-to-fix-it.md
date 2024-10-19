@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Troubleshooting: Why Your USB Won't Stay Connected & How to Fix It"
-date: 2024-10-11T19:03:55.104Z
-updated: 2024-10-12T16:57:21.073Z
+date: 2024-10-15T22:11:02.544Z
+updated: 2024-10-18T18:10:32.484Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/f93eb5bd46514b847ac07d099dc18d72eab724476
 5. **[Update your BIOS](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Reinstall your battery
@@ -53,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/f93eb5bd46514b847ac07d099dc18d72eab724476
 
  Restart your computer and check if it can detect your battery now. If not, read on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Check your battery in Device Manager
 
  You might also have this problem because your battery is disabled in Device Manager. So you should run Device Manager to check your battery status. Here is how:
@@ -67,6 +60,13 @@ thumbnail: https://thmb.techidaily.com/f93eb5bd46514b847ac07d099dc18d72eab724476
 **1)** On your keyboard, press the**Windows logo** key and the**R** key at the same time to open the Run dialog box.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Type**devmgmt.msc** and click**OK** .
 
@@ -79,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/f93eb5bd46514b847ac07d099dc18d72eab724476
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-18.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this didn’t help, don’t fret. There are still 3 more fixes to try.
@@ -112,10 +112,16 @@ thumbnail: https://thmb.techidaily.com/f93eb5bd46514b847ac07d099dc18d72eab724476
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-42-44.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click**Next** .
@@ -130,16 +136,16 @@ thumbnail: https://thmb.techidaily.com/f93eb5bd46514b847ac07d099dc18d72eab724476
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click**Power,** and then click**Run the troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-43-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for Windows to detect and fix your battery issue. If your problem persists, check the fix below.  
 
@@ -156,6 +162,13 @@ thumbnail: https://thmb.techidaily.com/f93eb5bd46514b847ac07d099dc18d72eab724476
 **2)** Run Driver Easy and click**Scan Now.** Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_18-06-57-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the**Update button** next to the battery driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -174,10 +187,10 @@ thumbnail: https://thmb.techidaily.com/f93eb5bd46514b847ac07d099dc18d72eab724476
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-41-54-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Type **msinfo32** and click **OK** .
@@ -187,13 +200,6 @@ thumbnail: https://thmb.techidaily.com/f93eb5bd46514b847ac07d099dc18d72eab724476
 **3)** Check the **BIOS Version/Date**  to know your BIOS manufacturer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-28_10-44-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Go to your BIOS manufacturer’s support website and download the latest update.
 
@@ -225,17 +231,17 @@ thumbnail: https://thmb.techidaily.com/f93eb5bd46514b847ac07d099dc18d72eab724476
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/solved-wireless-mouse-randomly-stops-working-on-windows-1110/"><u>[Solved] Wireless Mouse Randomly Stops Working on Windows 11/10</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-hdr-image-creation-and-merging-in-lightroom/"><u>[Updated] Mastering HDR Image Creation & Merging in Lightroom</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/automation-made-easy-ubuntu-plus-gpt-setup/"><u>Automation Made Easy: Ubuntu + GPT Setup</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-mfc-7860dw-find-and-apply-windows-compatible-printer-drivers-here/"><u>Brother MFC-7860DW: Find & Apply Windows Compatible Printer Drivers Here</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-mystery-of-artificial-intelligence-black-boxes/"><u>Decoding the Mystery of Artificial Intelligence Black Boxes</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-non-functional-shortcut-win-shift-and-s-on-microsoft-windows-versions/"><u>Effective Fixes for Non-Functional Shortcut: Win, Shift, and S on Microsoft Windows Versions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-audio-to-text-conversion-for-2024/"><u>Free Audio to Text Conversion for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/handy-hints-for-repairing-your-xbox-series-xs/"><u>Handy Hints for Repairing Your Xbox Series X|S</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-recurring-restart-problems-in-windows-11-effortlessly/"><u>How to Resolve Recurring Restart Problems in Windows 11 Effortlessly</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-to-enable-your-devices-bluetooth-feature-on-windows-11-or-10/"><u>Quick Fixes to Enable Your Device's Bluetooth Feature on Windows 11 or 10</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-when-farming-simulator-22-wont-start/"><u>Step-by-Step Solutions for When Farming Simulator 22 Won't Start</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-the-print-driver-host-has-stopped-working-on-32-bit-systems/"><u>Troubleshooting Guide - Resolving 'The Print Driver Host Has Stopped Working' On 32-Bit Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tailoring-drone-video-quality-with-expert-gimbal-choices/"><u>[Updated] Tailoring Drone Video Quality with Expert Gimbal Choices</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-x9a-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-navigating-instagrams-posting-video-count/"><u>2024 Approved Navigating Instagram's Posting Video Count</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-critical-installation-error-1603-comprehensive-troubleshooting-guide/"><u>Fixing Critical Installation Error #1603 – Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-0x80070490-error-during-windows-updates-a-comprehensive-guide/"><u>Fixing the 0X80070490 Error During Windows Updates: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-9-tips-to-become-an-instagram-star/"><u>In 2024, 9 Tips to Become an Instagram Star</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-apple-iphone-se-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your Apple iPhone SE without Security Questions?</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigate-around-2024-how-to-enable-miracast-when-your-device-refuses-to-support-it/"><u>Navigate Around 2024: How to Enable Miracast When Your Device Refuses to Support It</u></a></li>
+<li><a href="https://common-error.techidaily.com/steps-for-tackling-livekernelevent-141-hw-issues-year-2024/"><u>Steps for Tackling LiveKernelEvent 141 HW Issues, Year 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/for-preventing-invisible-thumbnails-on-shorts-videos-for-2024/"><u>Tips for Preventing Invisible Thumbnails on Shorts Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-frozen-windows-11-updates-solutions-and-tips/"><u>Troubleshooting Frozen Windows 11 Updates: Solutions & Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-llama-2-and-how-can-you-use-it/"><u>What Is Llama 2 and How Can You Use It?</u></a></li>
 </ul></div>
 

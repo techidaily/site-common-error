@@ -1,7 +1,7 @@
 ---
 title: "Expert Strategies: Handling and Repairing LiveKernelEvent 117 Mishaps"
-date: 2024-10-06T04:00:24.757Z
-updated: 2024-10-12T23:41:48.132Z
+date: 2024-10-16T00:34:24.473Z
+updated: 2024-10-18T22:02:16.897Z
 tags:
   - win11
   - win10
@@ -50,10 +50,16 @@ thumbnail: https://thmb.techidaily.com/b59898c642420c0150db4c12439a573b325962138
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 2: Change the download region**
@@ -64,16 +70,16 @@ thumbnail: https://thmb.techidaily.com/b59898c642420c0150db4c12439a573b325962138
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44283e9e804.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Downloads** , then change**download region** in the drop-down list and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b44299d19c87.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Re-download/update the game and see if it works now.
 
@@ -93,22 +99,22 @@ thumbnail: https://thmb.techidaily.com/b59898c642420c0150db4c12439a573b325962138
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b442db2f1da4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right-click inside the Window and click **Repair Library Folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b442edecc5d9.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5)Re-try the install/update and hopefully this time it succeeds.
 
@@ -121,6 +127,13 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
  1) Click**LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4430add5c05.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Right-click on the game that gives the error and click **Properties** .
 
@@ -135,10 +148,10 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Give administrator privileges to Steam
@@ -148,20 +161,13 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)  and **R** at the same time. Then copy & paste **%ProgramFiles(x86)%** into the box and click **OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/programfile.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Right-click on**Steam** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/steam2.jpg)
@@ -178,16 +184,16 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Want us to fix the problem for you?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c10e3465cf33.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the fix above didn’t work, and you don’t have the time or confidence to troubleshoot the problem for yourself, get us to fix it for you. All you need to do is[**buy a 1-year subscription to Driver Easy**](https://tools.techidaily.com/drivereasy/download/)   (just $29.95) and you get free technical support as part of your purchase. This means you can contact our computer technicians directly and explain your problem, and they’ll investigate to see if they can resolve it remotely.
 
@@ -213,24 +219,24 @@ Fix 4 is to verify that our game files are not corrupt. To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/1723210733201-issue-resolved-how-to-overcome-windows-camera-error-code-0xa0-groovyf4292-and-get-back-to-snapshots/"><u>[Issue Resolved]: How to Overcome Windows Camera Error Code 0xA0 Groovyf4292 and Get Back to Snapshots!</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-a-friendly-how-to-participating-in-tiktok-livestreams-for-2024/"><u>[New] A Friendly How-To Participating in TikTok Livestreams for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-screenrec-for-lactops-your-step-by-step-guide/"><u>[Updated] 2024 Approved ScreenRec for Lactops Your Step-by-Step Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-master-tiktok-snap-enhancers-quickly-and-virally/"><u>[Updated] Master TikTok Snap Enhancers Quickly & Virally</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-superior-selection-best-windows-videophone-apps-guide/"><u>[Updated] Superior Selection Best Windows Videophone Apps Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-smooth-audio-crossfade/"><u>2024 Approved The Ultimate Guide to Smooth Audio Crossfade</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-prevent-and-solve-oddworld-soulstorm-freezing-on-desktop-pc/"><u>Expert Tips to Prevent and Solve Oddworld: Soulstorm Freezing on Desktop PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/experts-choose-the-superior-web-host-services-of-2024-in-depth-analysis-and-ratings-discover-with-zdnet/"><u>Experts Choose the Superior Web Host Services of 2024: In-Depth Analysis and Ratings | Discover with ZDNET</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-guide-overcome-windows-11-installer-error-code-80240020/"><u>Fix Guide: Overcome 'Windows 11 Installer Error Code 80240020'</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-tackle-dota-2s-modify-graphics-api-error-message-2024-in-minutes/"><u>How to Tackle Dota 2'S 'Modify Graphics API' Error Message 2024 in Minutes!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-animatedapp-full-guide-24-edition/"><u>In 2024, AnimatedApp Full Guide '24 Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/lenovo-mouse-pad-not-working-in-windows-1087-fixed/"><u>Lenovo Mouse Pad Not Working in Windows 10/8/7 [FIXED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-skype-video-issues-on-windows-11/"><u>Quick Solutions: Resolving Skype Video Issues on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-the-bluetooth-not-detected-on-windows-11-fast-fix-guide/"><u>Resolve the Bluetooth Not Detected on Windows 11 - Fast Fix Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-internal-webcam-woes-with-these-simple-fixes-for-windows-users/"><u>Solve Your Internal Webcam Woes with These Simple Fixes for Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-your-sound-issues-eliminating-crackling-from-speakers-in-windows-117/"><u>Solving Your Sound Issues: Eliminating Crackling From Speakers in Windows 11/7</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-installation-of-logitech-racing-wheel-software-for-windows-7-8-and-10-secure-and-reliable-download-options/"><u>Step-by-Step Installation of Logitech Racing Wheel Software for Windows 7, 8 & 10 - Secure and Reliable Download Options</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/tech-savvy-uploads-iphone-videos-to-youtube-for-2024/"><u>Tech-Savvy Uploads IPhone Videos to YouTube for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-easy-techniques-to-screen-capture-like-a-pro/"><u>Ultimate Tutorial: Easy Techniques to Screen Capture Like a Pro</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-expert-tips-on-choosing-the-best-youtube-to-avi-software-for-2024/"><u>[New] Expert Tips on Choosing the Best YouTube-to-AVI Software for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-xbox-one-optimizing-your-zoom-experience/"><u>[Updated] 2024 Approved Xbox One Optimizing Your Zoom Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-ideas-that-make-your-meme-go-global-for-2024/"><u>[Updated] Ideas That Make Your Meme Go Global for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-removing-advertisements-from-youtube-videos-on-chromefirefox/"><u>[Updated] Removing Advertisements From YouTube Videos on Chrome/Firefox</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-discovering-6-interactive-workout-ideas-for-social-media-success/"><u>2024 Approved Discovering 6 Interactive Workout Ideas for Social Media Success</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-windows-10-meeting-mastery-with-zoom-tools/"><u>2024 Approved Windows 10 Meeting Mastery with Zoom Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211383111-cant-get-your-document-to-print-as-pdf-effortless-solutions-await/"><u>Can't Get Your Document to Print as PDF? Effortless Solutions Await!</u></a></li>
+<li><a href="https://common-error.techidaily.com/discords-silent-mic-now-speaking/"><u>Discord's Silent Mic Now Speaking</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-xiaomi-mix-fold-3-frp-by-drfone-android/"><u>Full Guide to Bypass Xiaomi Mix Fold 3 FRP</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-your-xbox-one-earphones-back-on-track-a-step-by-step-repair-tutorial/"><u>Getting Your Xbox One Earphones Back on Track: A Step-by-Step Repair Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-your-pc-when-windows-11-refuses-to-power-off-a-simple-solution/"><u>How to Fix Your PC when Windows 11 Refuses to Power Off: A Simple Solution</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigate-zoom-with-precision-on-windows-10-devices/"><u>In 2024, Navigate Zoom with Precision on Windows 10 Devices</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mediamolder-for-mac/"><u>MediaMolder for Mac</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-how-to-resolve-uncontrolled-mouse-activity/"><u>Quick Solutions: How to Resolve Uncontrolled Mouse Activity</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-11-right-click-mouse-problem-effective-methods-and-advice/"><u>Resolving Windows 11 Right-Click Mouse Problem: Effective Methods and Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-restoring-functionality-of-a-non-working-lenovo-laptop-camera/"><u>Step-by-Step Solutions: Restoring Functionality of a Non-Working Lenovo Laptop Camera</u></a></li>
+<li><a href="https://common-error.techidaily.com/tutorial-reducing-microsofts-compatibility-telemetry-impact-on-hard-drive-space-usage-for-windows-10-users/"><u>Tutorial: Reducing Microsoft's Compatibility Telemetry Impact on Hard Drive Space Usage for Windows 10 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212117921-windows-10-casting-glitches-solved-get-your-devices-connected-again/"><u>Windows 10 Casting Glitches Solved: Get Your Devices Connected Again</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Restore Backlit Functionality on Your Mac or Windows Keyboard"
-date: 2024-10-09T22:08:04.161Z
-updated: 2024-10-12T22:21:54.267Z
+date: 2024-10-17T18:50:18.638Z
+updated: 2024-10-18T23:03:40.803Z
 tags:
   - win11
   - win10
@@ -39,19 +39,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
  If the sticking problem happens only under certain circumstances, for instance, you only notice it when typing in certain programs or web pages, your keyboard may not be at fault. The problem could be software bugs or poor network connection. Rule out this possibility first before you move on.
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Check keyboard connection
 
  One of the first things you should check when something is off with your keyboard is the connection between it and your computer.
@@ -60,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 * If you’re on a desktop, try the USB port at the back of your PC mainframe.
 * If you’re using a wireless keyboard, make sure that the batteries in your keyboard are working, or try to use new batteries.
 * Also, make sure that the keyboard receiver is well-connected as well.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 2: Check for possible viruses
 
@@ -77,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 **IMPORTANT** : You should never disable Windows Defender, the built-in anti-virus program in Windows, especially in Windows 10 OS where it has become stronger and more comprehensive.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Install the correct keyboard driver
@@ -97,15 +77,29 @@ thumbnail: https://thmb.techidaily.com/7a686a1b526676a12878d5e404ff256d91c8737d5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-50.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update** button next to the flagged keyboard to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-08_11-45-45.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Clean the keyboard
@@ -135,20 +129,20 @@ If you haven’t cleaned your keyboard, in like forever, do it now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-repair-broken-usb-ports-in-modern-windows-environments/"><u>Expert Tips to Repair Broken USB Ports in Modern Windows Environments</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-of-your-pc-going-blackout-unexpectedly-a-success-story/"><u>Fixing the Issue of Your PC Going Blackout Unexpectedly - A Success Story</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-get-windows-update-back-on-track/"><u>Fixing the Issue: How to Get Windows Update Back on Track</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-address-the-windows-update-error-with-code-0x80070490-solution/"><u>How To Correctly Address the Windows Update Error with Code 0X80070490 [SOLUTION]</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-xiaomi-14-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Xiaomi 14</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-oppo-a1x-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Oppo A1x 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-eyeview-scrutiny-exploration/"><u>In 2024, Eyeview Scrutiny Exploration</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-x-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone X Making It Possible</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-solution-how-to-fix-a-severe-unsolvable-directx-glitch/"><u>Mastering the Solution: How to Fix a Severe, Unsolvable DirectX Glitch</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/navigating-the-world-of-online-discussion-mastering-zoom-chat-techniques/"><u>Navigating the World of Online Discussion Mastering Zoom Chat Techniques</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-to-make-your-unrecognizable-usb-drive-work-again/"><u>Quick Solutions to Make Your Unrecognizable USB Drive Work Again!</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-tech-insights-the-complete-guide-from-toms-gadget-review/"><u>Top Tech Insights: The Complete Guide From Tom's Gadget Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-improper-image-error-on-your-pc-running-windows-11-or-10/"><u>Troubleshooting Improper Image Error on Your PC Running Windows 11 or 10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/unlock-global-access-how-to-region-free-watch-your-favorite-dvds-on-any-player-or-pc/"><u>Unlock Global Access: How to Region-Free Watch Your Favorite DVDs on Any Player or PC</u></a></li>
-<li><a href="https://fox-info.techidaily.com/walking-into-tomorrow-the-premier-vr-treadmills-reviewed-for-2024/"><u>Walking Into Tomorrow The Premier VR Treadmills Reviewed for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-wonders-of-4k-with-benq-bl2711u-review/"><u>[New] Unveiling the Wonders of 4K with BenQ BL2711U Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-final-thoughts-in-journalistic-styling/"><u>[Updated] 2024 Approved Final Thoughts in Journalistic Styling</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-conversational-content-for-your-subscribers/"><u>[Updated] Crafting Conversational Content for Your Subscribers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-testing-the-capabilities-of-magix-image-viewer/"><u>[Updated] Testing the Capabilities of MAGIX Image Viewer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-impact-of-visual-storytelling-maximizing-roi-through-fb-ad-animation-for-2024/"><u>[Updated] The Impact of Visual Storytelling Maximizing ROI Through FB Ad Animation for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-invalid-directory-name-error-expert-solutions/"><u>Fixing the 'Invalid Directory Name' Error – Expert Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-4-vs-gpt-35-unpacking-distinctions/"><u>GPT-4 Vs. GPT-3.5: Unpacking Distinctions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-x-flipwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo X Flipwith/without a PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-failure-configuring-windows-updates-error/"><u>How to Fix “Failure Configuring Windows Updates” Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-name-is-not-a-valid-directory-mistake-easily/"><u>How to Fix the 'Name Is Not a Valid Directory' Mistake Easily</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-honor-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Honor Without PUK Codes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-logitech-gaming-speaker-t630-on-your-computer-windows-os-guide/"><u>Install Logitech Gaming Speaker T630 on Your Computer - Windows OS Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimize-your-pc-solve-msmpengexe-overloading-cpu-on-windows-11-systems/"><u>Optimize Your PC: Solve MsMpEng.exe Overloading CPU on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-how-to-resolve-wacom-tablet-malfunctions-easily/"><u>Troubleshooting Tips: How to Resolve Wacom Tablet Malfunctions Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-troubleshooting-and-solutions-for-persistent-usb-connection-issues/"><u>Ultimate Guide: Troubleshooting & Solutions for Persistent USB Connection Issues</u></a></li>
 </ul></div>
 

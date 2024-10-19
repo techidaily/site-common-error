@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Fixing ERR_CONNECTION_REFUSED Problems [Infographics Provided]"
-date: 2024-10-11T22:27:25.213Z
-updated: 2024-10-12T19:34:00.628Z
+date: 2024-10-11T23:49:12.032Z
+updated: 2024-10-19T04:51:29.302Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/3c560b5f84950935f235a17f57ab9b2b0c297df9b
 3. **[Turn off USB selective suspend](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Change power management settings for USB Root Hubs](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Do some basic troubleshooting
 
  You may encounter this problem because of physical issues. It can be that your USB device happens to be faulty or the USB port you’re plugging your devices into are failing.
@@ -56,19 +63,6 @@ To rule out this as a possibility:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-7.png)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-8.png)
@@ -78,6 +72,13 @@ To rule out this as a possibility:
  4) Restart your computer and check if the**USB keeps disconnecting** issue has been resolved. If yes, then congrats! If the issue persists, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Turn off USB selective suspend
 
@@ -97,22 +98,15 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Locate and expand **USB settings** , and in **Setting** , select **Disabled** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Restart your computer and check if the USB keeps disconnecting problem has been resolved. If the issue still persists, don’t worry. Here’s one more fix for you to try.
@@ -120,10 +114,10 @@ To make sure you’ve this setting disabled:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Change power management settings for USB Root Hubs
@@ -134,6 +128,13 @@ To make sure you’ve this setting disabled:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-14.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-15.png)
@@ -141,13 +142,6 @@ To make sure you’ve this setting disabled:
  3) CLICK **the box** before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-16.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Repeat this fix for ALL the USB Root Hubs on your Device Manager.
 
@@ -177,18 +171,20 @@ To make sure you’ve this setting disabled:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-role-of-free-exchange-in-discovery/"><u>[New] 2024 Approved The Role of Free Exchange in Discovery</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-high-cpu-spikes-in-windows-tamed-by-stops/"><u>[RESOLVED] High CPU Spikes in Windows Tamed by Stops</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-experts-guide-to-interactive-instagram-stories-polling/"><u>[Updated] In 2024, The Expert's Guide to Interactive Instagram Stories Polling</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719170572779-download-platforms-for-bg3-unveiled/"><u>Download Platforms for BG3 Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-how-to-overcome-error-code-0x80004005-and-resolve-the-undefined-problem/"><u>Fixing the Issue: How to Overcome 'Error Code 0X80004005' And Resolve the Undefined Problem</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/freeze-frame-creation-through-stabilized-capture/"><u>Freeze-Frame Creation Through Stabilized Capture</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-svchostexe-from-using-too-much-cpu-power-on-your-windows-11-pc/"><u>How to Stop svchost.exe From Using Too Much CPU Power on Your Windows 11 PC</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-pedagogic-pros-the-finest-lecture-recording-devices-for-instructors/"><u>In 2024, Pedagogic Pros The Finest Lecture Recording Devices for Instructors</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mac-green-screen-software-top-picks-and-reviews/"><u>New 2024 Approved Mac Green Screen Software Top Picks and Reviews</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On OnePlus Open? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-cannot-load-the-player-error-steps-for-a-smooth-playback-experience/"><u>Resolving 'Windows Cannot Load the Player' Error: Steps for a Smooth Playback Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-non-responsive-keyboard-and-mouse-problems-in-widows-7/"><u>Troubleshooting Non-Responsive Keyboard & Mouse Problems in Widows 7</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-top-8-downloaded-audio-tracks-capturing-natural-precipitation-sounds/"><u>Updated 2024 Approved Top 8 Downloaded Audio Tracks Capturing Natural Precipitation Sounds</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-system-random-stops-w11-solution/"><u>[FIXED] System Random Stops: W11 Solution</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-monetizing-popularity-pay-per-million-views/"><u>[New] In 2024, Monetizing Popularity Pay Per Million Views</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-smallscreenvid-recorder-critique-for-2024/"><u>[Updated] SmallScreenVid Recorder Critique for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-stay-ahead-with-the-top-yt-thumbnail-techniques/"><u>[Updated] Stay Ahead with the Top YT Thumbnail Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-flashglimpse-crafter/"><u>2024 Approved FlashGlimpse Crafter</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-streamlining-in-game-video-production-a-complete-guide/"><u>2024 Approved Streamlining In-Game Video Production A Complete Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-fixes-for-when-your-function-keys-arent-working-properly/"><u>Common Fixes for When Your Function Keys Aren't Working Properly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/delving-into-game-design-with-kinemaster-for-android-gamers/"><u>Delving Into Game Design with KineMaster for Android Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211737981-easy-fixes-for-windows-10-bluetooth-not-detected-problems-get-connected-now/"><u>Easy Fixes for Windows 10 Bluetooth Not Detected Problems – Get Connected Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-preview-off-facebook-activities-and-should-i-leave-it-on-check-it-out-here/"><u>In 2024, How to Preview Off-Facebook Activities and Should I Leave It On? Check It Out Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-easy-anti-cheat-hurdle-unlocking-the-launch-of-the-new-world/"><u>Overcoming 'Easy Anti-Cheat' Hurdle: Unlocking the Launch of the New World</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secrets-revealed-obtaining-control-over-trustedinstaller-on-windows-11/"><u>Secrets Revealed: Obtaining Control Over TrustedInstaller on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fixing-steams-unwritable-disc-mishaps-quickly/"><u>Step-by-Step Guide to Fixing Steam’s Unwritable Disc Mishaps Quickly</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-zen-of-zoom-perfecting-your-video-experience/"><u>The Zen of Zoom Perfecting Your Video Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-wont-my-computer-turn-on-overcoming-boot-loading-hurdles-successfully/"><u>Why Won't My Computer Turn On? Overcoming Boot Loading Hurdles Successfully</u></a></li>
 </ul></div>
 

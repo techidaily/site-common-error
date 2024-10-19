@@ -1,7 +1,7 @@
 ---
 title: "Conquering Monster Hunter's Stealthy Foes: Eradicating the Dark Screen Malfunction When Initiating Gameplay"
-date: 2024-09-12T09:04:38.184Z
-updated: 2024-09-14T23:21:49.035Z
+date: 2024-10-13T17:08:13.341Z
+updated: 2024-10-18T21:35:27.364Z
 tags:
   - win11
   - win10
@@ -34,10 +34,41 @@ When you pay the money and look forward to enjoying the game but find that the g
 
 1. Pause the initializing process and close**Battle.net** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d22.jpg)
 2. Navigate to your Destiny 2 folder location. Usually, it’s in C:\\Program Files (x86)\\. Then rename the Destiny 2 folder.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Open**Battle.net** and click**Install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d20.jpg)
 4. Change the folder name back to Destiny 2.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d23.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Start install** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/d21.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Be patient, the process will resume from where you left off after verifying the files that are already there. Then you’re good to go.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After downloading the program successfully, it is recommended to[update your driver](https://tools.techidaily.com/drivereasy/download/) to improve your gaming performances.
 
@@ -63,27 +94,7 @@ Reinstall the Battle.net can may help you solve the issue.
 3. Change the Max Download rate by setting the Latest Updates and Future Patch updates to 0 to get the max download rate. Then Press**Done** to apply the settings.![](https://images.drivereasy.com/wp-content/uploads/2019/07/d12.jpg)
 4. Download Destiny 2 to see whether it can help.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Run your Blizzard client as administrator
 
@@ -94,21 +105,14 @@ Reinstall the Battle.net can may help you solve the issue.
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/b2.jpg)
 4. Run Blizzard and check whether the problem is solved or not.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Check your antivirus software
 
@@ -128,20 +132,28 @@ Reinstall the Battle.net can may help you solve the issue.
 2. Type “services.msc” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/services.jpg)
 3. Locate and right-click**Secondary Logon** in the right pane.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/servi.jpg)
 5. Find Startup type and select**Automatic** in the dropdown menu. Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/ser.jpg)
 
  Some security programs may turn the secondary logon service off. If the service is disabled again after you’ve switched it to automatic, you must configure your security program to stop disabling the service. Contact your security program’s manufacturer if you need assistance with configuring your security software.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -190,5 +202,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-essential-software-for-windows-filmmakers-critical-edits-selection/"><u>[New] Essential Software for Windows Filmmakers Critical Edits Selection</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-craft-compelling-videos-utilize-no-cost-templates-and-samples/"><u>[New] In 2024, Craft Compelling Videos Utilize No-Cost Templates & Samples</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-transform-your-videos-with-magix-video-pro-x/"><u>[New] In 2024, Transform Your Videos with Magix Video Pro X</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-revolutionize-your-facebook-experience-with-auto-play-videos/"><u>[New] Revolutionize Your Facebook Experience with Auto-Play Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-blueprint-adopting-mobizen-screen-recording-skills/"><u>[New] The Ultimate Blueprint Adopting Mobizen Screen Recording Skills</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-world-of-warcraft-was-unable-to-start-up-3d-acceleration/"><u>[Solved] World of Warcraft Was Unable to Start up 3D Acceleration</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-problems-and-remedies-when-your-key-malfunctions/"><u>Common Problems and Remedies When Your '@' Key Malfunctions</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminating-slow-response-times-from-your-keyboard-on-windows-11-systems/"><u>Eliminating Slow Response Times From Your Keyboard on Windows 11 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-how-to-fix-your-aoc-usb-display-problem-on-windows-11-systems/"><u>Expert Tips: How to Fix Your AOC USB Display Problem on Windows 11 Systems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/itel-p55plus-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55+ Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp4-file-transformation-from-3gpp-made-simple-and-free-discover-the-power-of-movavis-online-conversion-tool/"><u>MP4 File Transformation From 3GPP Made Simple and Free – Discover the Power of Movavi's Online Conversion Tool</u></a></li>
+<li><a href="https://common-error.techidaily.com/noise-issues-gone-expert-solutions-for-restoring-sounds-in-forza-horizon-4-game/"><u>Noise Issues Gone: Expert Solutions for Restoring Sounds in Forza Horizon 4 Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-compatibility-problems-with-input-devices-and-screens/"><u>Overcoming Compatibility Problems with Input Devices and Screens</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-boot-issues-tips-for-unsticking-a-pc-from-windows-preparation-mode/"><u>Resolving Boot Issues: Tips for Unsticking a PC From 'Windows Preparation Mode'</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-handling-sudden-shutdowns-while-gaming-on-multiple-versions-of-windows-operating-systems/"><u>Solutions for Handling Sudden Shutdowns While Gaming on Multiple Versions of Windows Operating Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-google-pixel-7a-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Google Pixel 7a Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-smartaudio-start-up-failures-solutions-inside/"><u>Troubleshooting SmartAudio Start-Up Failures – Solutions Inside</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Oppo A58 4G | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solution for Broken Numbers - Making Every Key Count Again
-date: 2024-10-11T19:21:15.433Z
-updated: 2024-10-12T22:21:17.443Z
+date: 2024-10-15T01:41:06.584Z
+updated: 2024-10-18T18:52:25.943Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/1e295c9ac73c2cf7b4e3fab8b993b16c3823b6dce
 4. **[Use a different user profile](#f4)**
 5. **[Check hardware issues](#f5)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Turn off Mouse Keys
 
 #### On Windows 10
@@ -42,16 +49,24 @@ thumbnail: https://thmb.techidaily.com/1e295c9ac73c2cf7b4e3fab8b993b16c3823b6dce
 2. Type**control** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ed1505fee.png)
 3. Click**Ease of Access** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
@@ -65,34 +80,26 @@ thumbnail: https://thmb.techidaily.com/1e295c9ac73c2cf7b4e3fab8b993b16c3823b6dce
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Open Word or Notepad to test if the number keys on your keyboard can work now.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Enable the NumLock key
 
  Look on your keyboard for a key that says **NumLock** and make sure to enable the key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2eecb19e08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the**NumLock** key is disabled, the number keys on the right side of your keyboard will not work.
 
@@ -133,10 +140,10 @@ thumbnail: https://thmb.techidaily.com/1e295c9ac73c2cf7b4e3fab8b993b16c3823b6dce
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Check hardware issues
@@ -164,24 +171,21 @@ thumbnail: https://thmb.techidaily.com/1e295c9ac73c2cf7b4e3fab8b993b16c3823b6dce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-tune-tracker-top-picks-for-android-6-free-music-downloader-apps-from-youtube/"><u>[New] 2024 Approved Tune Tracker Top Picks for Android - 6 Free Music Downloader Apps From YouTube</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-saving-your-desktop-display-with-free-tech-tools/"><u>[Updated] Saving Your Desktop Display with Free Tech Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-unmissable-video-capturing-discover-top-5-tools-now/"><u>[Updated] Unmissable Video Capturing - Discover Top 5 Tools Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-windows-11-update-error-code-0x800f0922-with-these-8-expert-tips/"><u>Bypassing the Windows 11 Update Error Code 0X800F0922 with These 8 Expert Tips</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-using-file-explorer-like-a-pro-on-windows-10/"><u>Expert Advice on Using File Explorer Like a Pro on Windows 10</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-huawei-p20-pro-impressive-image-quality-in-an-all-around-device/"><u>Exploring the Huawei P20 Pro: Impressive Image Quality in an All-Around Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/from-fault-to-function-revived-wireless-mouse/"><u>From Fault to Function: Revived Wireless Mouse</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-infinix-note-30-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Infinix Note 30 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-guide-to-applying-and-customizing-filters-in-video-editing/"><u>In 2024, Comprehensive Guide to Applying and Customizing Filters in Video Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-tweeted-videos-to-downloadable-mp3-files/"><u>In 2024, From Tweeted Videos to Downloadable MP3 Files</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-se-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone SE to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-obstacles-in-windows-11s-update-process-effective-solutions/"><u>Overcoming Obstacles in Windows 11'S Update Process: Effective Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-wired-connection-problems-in-windows-11-and-7-a-step-by-step-guide/"><u>Solving Wired Connection Problems in Windows 11 and 7: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-dangers-of-automating-windows-11-license-creation-with-ai-chatbot-technology/"><u>The Dangers of Automating Windows 11 License Creation with AI Chatbot Technology</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-solution-correcting-compromised-system-files-in-microsofts-latest-windows-versions/"><u>The Ultimate Solution: Correcting Compromised System Files in Microsoft's Latest Windows Versions</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-launch-issues-in-armored-core-vi-solving-fires-of-rubicon-startup-problems/"><u>Troubleshooting Launch Issues in Armored Core VI: Solving 'Fires of Rubicon' Startup Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-usb-connection-woes-on-windows-10-fixing-unknown-device-and-port-reset-failures/"><u>Troubleshooting Your USB Connection Woes on Windows 10 - Fixing Unknown Device and Port Reset Failures</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-does-my-computer-turn-off-when-gaming-troubleshooting-steps-for-various-windows-os-versions/"><u>Why Does My Computer Turn Off When Gaming? Troubleshooting Steps for Various Windows OS Versions</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-systems-alert-dll-deficiency/"><u>Windows Systems Alert: DLL Deficiency</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-beginners-blueprint-unlocking-ps-magic/"><u>[New] In 2024, Beginner's Blueprint Unlocking PS Magic</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-timeless-stop-motion-films-a-celebratory-15-list/"><u>[Updated] Timeless Stop-Motion Films - A Celebratory 15 List</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/big-changes-at-microsoft-for-gamers-game-pass-price-hike-and-the-launch-of-standard-plan-option/"><u>Big Changes at Microsoft for Gamers: Game Pass Price Hike and the Launch of Standard Plan Option</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-device-not-working-error-when-casting-on-windows-11/"><u>Diagnosing and Repairing 'Device Not Working' Error When Casting on Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-enhanced-photography-capabilities-of-apples-latest-innovation-the-iphone-16s-revolutionary-camera-control-button/"><u>Discover the Enhanced Photography Capabilities of Apple's Latest Innovation: The iPhone 16'S Revolutionary Camera Control Button</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/te-your-video-presence-with-stellar-intros-in-imovie/"><u>Elevate Your Video Presence with Stellar Intros in iMovie</u></a></li>
+<li><a href="https://common-error.techidaily.com/high-cpu-drain-by-wudfhostexe-fixed-optimization-tips-for-windows-(span)10(span)/"><u>High CPU Drain by wudfhost.exe Fixed - Optimization Tips for Windows <Span>10</Span></u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-honor-70-lite-5g-by-drfone-android/"><u>How to Bypass FRP on Honor 70 Lite 5G?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-achieve-high-quality-streams-youtube-and-twitch-via-obs/"><u>In 2024, Achieve High-Quality Streams YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-systemprofile-desktop-access-denied-on-windows-10/"><u>Resolving SystemProfile Desktop Access Denied on Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-overcoming-the-rpc-server-not-found-issue-on-windows/"><u>Step-by-Step Solution: Overcoming the RPC Server Not Found Issue on Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/techniques-for-improving-loaded-facebook-alerts/"><u>Techniques for Improving Loaded Facebook Alerts</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-overcoming-the-hurdles-of-windows-update-1903/"><u>Troubleshooting Guide: Overcoming the Hurdles of Windows Update 1903</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211339659-windows-11-wi-fi-disappearance-solved-make-them-appear-again/"><u>Windows 11 Wi-Fi Disappearance Solved - Make Them Appear Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/wwe-2k-battlegrounds-dx11-fixing-feature-level-100-compatibility-problems-step-by-step/"><u>WWE 2K Battlegrounds DX11: Fixing Feature Level 10.0 Compatibility Problems Step by Step</u></a></li>
 </ul></div>
 

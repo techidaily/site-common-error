@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Heavy CPU Use From ntoskrnl.exe
-date: 2024-10-12T03:05:54.661Z
-updated: 2024-10-12T23:00:27.182Z
+date: 2024-10-18T03:07:42.321Z
+updated: 2024-10-18T21:40:59.674Z
 tags:
   - win11
   - win10
@@ -57,20 +57,13 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 4. After updating, restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 1: Disable Windows Search service
 
@@ -83,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 3. Double-click**Windows Search** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/windwos-search-6101.jpg)
@@ -96,21 +89,22 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 ![](https://www.drivereasy.com/wp-content/uploads/2016/09/ok-to-save-the-change-6104.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2: Check incompatible programs
 
  Some users say that this only happens when they use certain programs. Especially when they have antivirus software running in the background. The antivirus software might have some conflicts with certain programs. The next time you encounter this situation, try to pay extra attention to see if you can find the program that is messing with your system. If such a program can be located, try reinstallingit or uninstalling it completely.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Run SFC and DISM
 
@@ -122,6 +116,19 @@ thumbnail: https://thmb.techidaily.com/e7f1cad7a399e71169efcdbd386bd0d5b12f456c3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt window, copy and paste the following command and hit**Enter** .
@@ -131,20 +138,6 @@ sfc /scannow
  3) System File Checker will then scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3.2\. Run dism.exe
 
@@ -182,23 +175,26 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 2. On your keyboard, press the **Windows** key and the **R** key together. Type **regedit** and hit **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to the following location: `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\TimeBroker`  
-![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker.png)
-4. On the right side, double-click**Start** , and change its value to**4** .  
-![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker-4.png)
-5. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker.png)
+4. On the right side, double-click**Start** , and change its value to**4** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2016/09/runtime-broker-4.png)
+5. Restart your computer for the changes to take effect.
 
 See if the ntoskrnl.exe high CPU or disk usage problem remains.
 
@@ -217,18 +213,24 @@ See if the ntoskrnl.exe high CPU or disk usage problem remains.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/conquering-the-crash-solutions-for-windows-10-photos-issues-for-2024/"><u>Conquering the Crash Solutions for Windows 10 Photos Issues for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-a-malfunctioning-lenovo-biometric-scanner-step-by-step/"><u>Diagnosing and Repairing a Malfunctioning Lenovo Biometric Scanner Step-by-Step</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722998704745-eliminating-star-wars-battlefront-2s-error-code-n-with-easy-fixes-get-back-to-gaming/"><u>Eliminating Star Wars Battlefront 2'S Error Code N with Easy Fixes – Get Back to Gaming</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-light-function-on-a-non-responsive-corsair-keyboard/"><u>How to Restore Light Function on a Non-Responsive Corsair Keyboard</u></a></li>
-<li><a href="https://driver-install.techidaily.com/hp-graphics-update-available-for-windows-11/"><u>HP Graphics Update Available for Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c22-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Nokia C22 Phone with Broken Screen</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y28-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y28 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-x-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone X You Should Try Out</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-to-resolve-sluggish-typing-experience-in-windows-11-systems/"><u>Quick Fixes to Resolve Sluggish Typing Experience in Windows 11 Systems</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/resolving-disabled-state-of-obs-fullscreen-for-2024/"><u>Resolving Disabled State of OBS Fullscreen for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/sidestep-valorant-latency-issues-via-reboot/"><u>Sidestep Valorant Latency Issues via Reboot</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-nonfunctional-function-keys-issue/"><u>Step-by-Step Solutions for Nonfunctional Function Keys Issue</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-tell-if-netflix-is-offline-and-solutions/"><u>Troubleshooting: How To Tell If Netflix Is Offline & Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-lone-user-review-of-future-printer-world/"><u>[New] Unveiling the Lone User Review of Future Printer World</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-crafting-professional-looks-after-effects-and-lut-techniques-for-2024/"><u>[Updated] Crafting Professional Looks After Effects and LUT Techniques for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-newcomers-guide-to-youtube-channel-setup-and-money-making-tips/"><u>2024 Approved The Newcomer’s Guide to YouTube Channel Setup & Money-Making Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-your-ideal-portable-gaming-machine-top-picks-and-reviews/"><u>Choosing Your Ideal Portable Gaming Machine: Top Picks and Reviews</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-overcoming-windows-based-video-dxgkrnl-critical-failures/"><u>Comprehensive Guide: Overcoming Windows-Based Video Dxgkrnl Critical Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-solutions-for-eliminating-speaker-noise-on-pcs-running-windows-operating-systems/"><u>DIY Solutions for Eliminating Speaker Noise on PCs Running Windows Operating Systems</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/enhancement-suggestion-implement-autocolor-feature-for-selected-text-in-emeditor/"><u>Enhancement Suggestion: Implement Autocolor Feature for Selected Text in EmEditor</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-overcoming-night-mode-challenges-in-windows-1011/"><u>Expert Advice: Overcoming Night Mode Challenges in Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-shockwave-flash-problem-that-plagues-chrome-users/"><u>How to Fix the Shockwave Flash Problem That Plagues Chrome Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-surface-device-wont-charge-issue-resolved/"><u>How to Fix: Surface Device Won't Charge Issue Resolved</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-reno-10-proplus-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Oppo Reno 10 Pro+ 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-itel-s23plus-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Itel S23+ to Roku | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-installation-hurdles-for-windows-11-update-v1607-expert-solutions/"><u>Overcoming Installation Hurdles for Windows 11 Update v1607: Expert Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/picking-a-compatible-window-hello-camera/"><u>Picking a Compatible Window Hello Camera</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-absent-coprocessor-driver-on-your-windows-10-system-guide/"><u>Resolving the Absent Coprocessor Driver on Your Windows 10 System [Guide]</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-blend-of-beauty-and-practicality-in-modern-computing-a-review-of-the-newly-released-dell-xps-13-7390-2-in-1-ultrabook/"><u>The Blend of Beauty and Practicality in Modern Computing – A Review of the Newly Released Dell XPS 13 (7390) 2-in-1 Ultrabook</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-made-easy-a-comprehensive-guide-to-fixing-the-persistent-windows-update-error-0x8024402c/"><u>Troubleshooting Made Easy: A Comprehensive Guide to Fixing the Persistent 'Windows Update Error 0X8024402c'</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-stuck-function-fn-buttons-solutions-inside/"><u>Troubleshooting Stuck Function (Fn) Buttons – Solutions Inside!</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/tutorial-comment-proteger-et-stocker-windows-11-avec-une-solution-nas-flexible/"><u>Tutorial: Comment Protéger Et Stocker Windows 11 Avec Une Solution NAS Flexible</u></a></li>
 </ul></div>
 

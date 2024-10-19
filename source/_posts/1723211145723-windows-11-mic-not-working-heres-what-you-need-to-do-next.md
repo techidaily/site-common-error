@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Mic Not Working? Here's What You Need to Do Next!
-date: 2024-09-09T12:51:29.785Z
-updated: 2024-09-14T17:52:52.894Z
+date: 2024-10-15T01:44:33.332Z
+updated: 2024-10-18T22:35:55.779Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Method 2: Check if the keyboard is connected correctly**
 
  The error may be caused by a loose connection, so you can try checking the connection.  
@@ -32,6 +39,13 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
  If you are using a wireless keyboard, try troubleshooting the wireless connection.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 3: Plug the keyboard to another USB port** (for USB keyboard only)
 
@@ -46,6 +60,13 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
 **IMPORTANT** : Following methods need you to perform on Windows. Since the keyboard is not working, use a mouse to do the fixes.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 5: Update Drivers**
 
@@ -63,23 +84,9 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-driver-scan-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to a keyboard or wireless adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version). Or click **Update All**  to automatically download and install the correct version of _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-driver-update-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **IMPORTANT** :[Driver Easy](https://tools.techidaily.com/drivereasy/download/) is a tool fixing any driver issues. If your Logitech keyboard not working issue is not caused by faulty drivers, Driver Easy won’t be able to fix it. If Driver Easy Pro doesn’t help you fix the problem, you can ask for a full refund. Alternatively, you can contact our technical support for further assistance. You just need to**send us the URL of this article** and the detailed information about the problem.
 
@@ -106,15 +113,22 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db5cdb2d390.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Click on**Apply** button then**OK** button.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 7: Login to Windows with a new user account**
 
@@ -140,13 +154,6 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/03/img_58db6701387b9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then you just need to follow the on-screen instructions to create an administrator account.
 
 ---
@@ -168,5 +175,23 @@ It is very inconvenient if none key on your keyboard works. Keyboard not typing 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ultimate-techniques-streaming-hulu-on-win-mac-and-mobile/"><u>[New] 2024 Approved Ultimate Techniques Streaming Hulu on Win, Mac, and Mobile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-slow-motion-a-complete-critique-2024/"><u>[New] The Art of Slow Motion A Complete Critique, 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-top-5-best-mac-screen-seize-tips-char-limit-156/"><u>2024 Approved Top 5 Best Mac Screen Seize Tips (Char Limit 156)</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparing-asus-tuf-proart-and-prime-pc-brands-unveiled/"><u>Comparing Asus, Tuf, ProArt & Prime: PC Brands Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-troubleshooting-for-the-non-plugged-in-hardware-error-code-0xc0000098-on-windows-devices/"><u>Comprehensive Troubleshooting for the Non-Plugged In Hardware Error (Code 0xC0000098) on Windows Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/deciphering-the-mystery-of-msdia80dll-essential-insights-for-secure-system-management/"><u>Deciphering the Mystery of msdia80.dll - Essential Insights for Secure System Management</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-a-non-starting-windows-10-optical-drive-error-message-with-incomplete-configuration-data-code-pressure/"><u>How to Repair a Non-Starting Windows 10 Optical Drive - Error Message with Incomplete Configuration Data (Code Pressure)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-geforce-experience-settings-retrieval-errors/"><u>How to Resolve GeForce Experience Settings Retrieval Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-your-missing-mouse-icon-on-a-windows-11-pc-expert-tips/"><u>How to Restore Your Missing Mouse Icon on a Windows 11 PC - Expert Tips</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-se-2020-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone SE (2020) in Lost Mode</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-achieving-youtube-success-increasing-followers-quickly/"><u>In 2024, Achieving YouTube Success Increasing Followers Quickly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-realme-narzo-n55-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Realme Narzo N55 is off? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-expert-advice-on-eradicating-the-vexing-red-screen-dilemma-once-and-for-all/"><u>Resolved: Expert Advice on Eradicating the Vexing Red Screen Dilemma Once and For All</u></a></li>
+<li><a href="https://fox-place.techidaily.com/soluzione-rapida-come-ripristinare-la-barra-delle-app-di-windows-11-quando-si-blocca-esercizi-provenienti/"><u>Soluzione Rapida: Come Ripristinare La Barra Delle App Di Windows 11 Quando Si Blocca - Esercizi Provenienti</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-audio-dropouts-on-the-logitech-g930-microphone-setup/"><u>Step-by-Step Solution for Audio Dropouts on the Logitech G930 Microphone Setup</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/subdued-soundscape-stitches-for-garageband-workflows/"><u>Subdued Soundscape Stitches for Garageband Workflows</u></a></li>
+</ul></div>
 

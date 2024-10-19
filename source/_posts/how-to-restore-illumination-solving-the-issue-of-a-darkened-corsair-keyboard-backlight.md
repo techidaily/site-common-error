@@ -1,7 +1,7 @@
 ---
 title: "How to Restore Illumination: Solving the Issue of a Darkened Corsair Keyboard Backlight"
-date: 2024-10-10T16:04:59.027Z
-updated: 2024-10-13T00:36:41.325Z
+date: 2024-10-11T23:13:37.746Z
+updated: 2024-10-19T00:58:19.549Z
 tags:
   - win11
   - win10
@@ -31,10 +31,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 3. **[Update and configure the iCUE software](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Reset your keyboard
@@ -54,13 +54,6 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/WeChat7a797c10615ac4351f0fb3895da7d65e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Turn off your keyboard.
 2. Press and hold the**ESC** key.
 3. While holding down the ESC key, turn on your keyboard and wait for a few seconds until the keyboard begins to flash.
@@ -68,10 +61,10 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
  If your keyboard still doesn’t light up after the resetting, don’t give up and try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Update the Corsair keyboard driver
@@ -95,24 +88,33 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 1. Open iCUE and click the**Settings** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1-2.jpg)
 2. In the device settings pane,**select your keyboard** and then click the**Update** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-2-1.jpg)
 3. Wait for the installing process to complete.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. In the ICUE settings pane,**uncheck** the box next to**Enable SDK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/icue-setting.jpg)  
  (SDK stands for Software Development Kit. In iCUE, it allows some programs to control the lighting of devices. Therefore unchecking the Enable SDK option may also help to resolve your backlight not working issue.)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -136,16 +138,22 @@ Are you having a problem with your Corsair keyboard’s backlight suddenly going
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-ultimate-comparison-between-sharex-and-rivals/"><u>[New] 2024 Approved The Ultimate Comparison Between ShareX & Rivals</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-open-and-play-srt-on-different-platforms-for-2024/"><u>[Updated] Open and Play SRT on Different Platforms for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/a-critical-look-at-the-latest-camera-recording-systems/"><u>A Critical Look at the Latest Camera Recording Systems</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/abbyy-and-pwc-india-join-forces-to-deliver-cutting-edge-business-automation-platforms-latest-news-release/"><u>ABBYY and PwC India Join Forces to Deliver Cutting-Edge Business Automation Platforms - Latest News Release</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-erratic-flickering-screens-in-windows-10-operating-system/"><u>Effective Fixes for Erratic Flickering Screens in Windows 10 Operating System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/inside-gpt4alls-algorithmic-maze/"><u>Inside GPT4All's Algorithmic Maze</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-the-kernel-has-stopped-working-problem-on-lol-pvpnet-patcher-easily/"><u>Overcoming the 'Kernel Has Stopped Working' Problem on LOL PvP.net Patcher Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-key-to-unlocking-trustedinstaller-rights-how-to-modify-system-files-successfully/"><u>The Key to Unlocking TrustedInstaller Rights: How to Modify System Files Successfully</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/transforming-mundane-interviews-into-memorable-experienrances/"><u>Transforming Mundane Interviews Into Memorable Experienrances</u></a></li>
-<li><a href="https://win11.techidaily.com/triumph-in-tpm-deactivation-for-modern-windows-users/"><u>Triumph in TPM Deactivation for Modern Windows Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-notorious-0x80072efd-error-in-windows-10/"><u>Troubleshooting and Fixing the Notorious 0X80072EFD Error in Windows 10</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-cutting-through-steps-posting-tiktok-videos-on-twitter/"><u>[New] Cutting Through Steps Posting TikTok Videos on Twitter</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-hubsan-x4-quadcopter-examination-an-in-depth-guide/"><u>[Updated] Hubsan X4 Quadcopter Examination An In-Depth Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-computer-keeps-going-to-sleep-issue-easily/"><u>Fix Computer Keeps Going to Sleep Issue. Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-persistent-keyboard-delay-on-windows-10-ultimate-guide/"><u>Fixing Persistent Keyboard Delay on Windows 10 - Ultimate Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-audio-enhancement-issues-comprehensive-solutions/"><u>Fixing Windows Audio Enhancement Issues - Comprehensive Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-your-video-cards-glitchy-behavior-for-stable-minecraft-gameplay-in-windows/"><u>How to Fix Your Video Card's Glitchy Behavior for Stable Minecraft Gameplay in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-galaxy-z-fold-5-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Galaxy Z Fold 5</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-solutions-for-motorola-network-unlock-by-drfone-android/"><u>In 2024, Best Solutions for Motorola Network Unlock</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a70-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Itel A70 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-gameplay-in-resident-evil-village-solutions-for-mouse-malfunction/"><u>Mastering Gameplay in Resident Evil Village: Solutions for Mouse Malfunction</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphone-compatibility-issues-with-third-party-gadgets/"><u>Overcoming iPhone Compatibility Issues with Third-Party Gadgets</u></a></li>
+<li><a href="https://article-posts.techidaily.com/perfect-wave-linker-the-podcastists-choice-for-2024/"><u>Perfect Wave Linker The Podcastist's Choice for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/preventing-and-fixing-wrong-letter-typos-during-typing-sessions/"><u>Preventing and Fixing Wrong Letter Typos During Typing Sessions</u></a></li>
+<li><a href="https://common-error.techidaily.com/repairing-erroneous-dll-in-steam/"><u>Repairing Erroneous Dll in Steam</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-non-functional-usb-to-hdmi-converters/"><u>Troubleshooting Guide: Fixing Non-Functional USB to HDMI Converters</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-vivo-y28-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo Y28 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/what-to-do-when-your-wi-fi-doesnt-show-up-on-windows-11-pc-expert-advice/"><u>What to Do When Your Wi-Fi Doesn't Show Up on Windows 11 PC: Expert Advice</u></a></li>
 </ul></div>
 

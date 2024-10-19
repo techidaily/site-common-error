@@ -1,7 +1,7 @@
 ---
 title: Fix a Malfunctioning Dell USB Port - Quick and Effective Solutions Inside
-date: 2024-10-06T18:48:27.589Z
-updated: 2024-10-13T00:33:52.087Z
+date: 2024-10-11T17:09:56.737Z
+updated: 2024-10-19T01:46:33.208Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5
 4. [**Update your USB driver**](#s4)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1: Use a different USB port
@@ -54,23 +54,9 @@ If all your USB ports aren’t working, try Step 2, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15c81ad6b3.jpg)
 2. **Restart** your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. **Plug** your USB device into your laptop.
 4. **Reconnect** the AC adapter or power cord.
 5. **Check** if your USB device works now. If not, try Step 3, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Check your power management settings
 
@@ -80,9 +66,25 @@ If all your USB ports aren’t working, try Step 2, below.
 2. **Type devmgmt.msc and press Enter.**  
 **![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be166620610a.png)**
 3. **Expand the Universal Serial Bus controllers entry.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167af71ac7.jpg)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. **Double-click** on the (first) **USB Root Hub** (if you have more than one).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be167f8cb3c0.png)
 5. Click the**Power Management** tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1682b6b1e5.jpg)
 6. Verify that the check box beside **Allow the computer to turn off this device to save power** is clear, then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1685e39088.jpg)
@@ -108,15 +110,15 @@ or
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f93a4683.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money-back guarantee.)  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be12f53e08f3.jpg)
 4. Restart your computer and check if your USB port now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -139,19 +141,20 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-elevating-video-visibility-through-thumbnails/"><u>[New] 2024 Approved Elevating Video Visibility Through Thumbnails</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-guide-to-efficient-mobile-video-management/"><u>[New] The Ultimate Guide to Efficient Mobile Video Management</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-battlefield-geniuses-discovering-the-quintessential-7-total-war-experiences-for-2024/"><u>[Updated] Battlefield Geniuses Discovering the Quintessential 7 Total War Experiences for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/correcting-windows-setup-files-that-arent-working-properly/"><u>Correcting Windows Setup Files That Aren't Working Properly</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-troubleshooting-steps-for-windows-10-sound-level-adjustments/"><u>Fix: Troubleshooting Steps for Windows 10 Sound Level Adjustments</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-oppo-a79-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Oppo A79 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-s18-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Vivo S18 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mac-users-rejoice-top-alternatives-to-pinnacle-studio/"><u>Mac Users, Rejoice! Top Alternatives to Pinnacle Studio</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/movil-sin-costo-cambiar-mxf-a-formato-wav-con-gratuitidad/"><u>Móvil Sin Costo: Cambiar MXF a Formato WAV Con Gratuitidad</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-honor-x8b-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Honor X8b has been deleted.</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-infinix-note-30-vip-racing-edition-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Infinix Note 30 VIP Racing Edition Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-windows-11-disk-read-failures-easy-fixes-for-users/"><u>Troubleshooting and Repairing Windows 11 Disk Read Failures: Easy Fixes for Users</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-is-my-windows-11-start-menu-not-responding-solutions-inside/"><u>Why Is My Windows 11 Start Menu Not Responding? Solutions Inside!</u></a></li>
-<li><a href="https://common-error.techidaily.com/winapi-component-absent-cruntimel1-1-0/"><u>WinAPI Component Absent - cRuntimeL1-1-0</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-visual-narrative-weaver/"><u>[Updated] In 2024, Visual Narrative Weaver</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bridging-the-gap-between-audience-and-action/"><u>2024 Approved Bridging the Gap Between Audience and Action</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/detailed-look-at-the-latest-lg-360-camera-tech/"><u>Detailed Look at the Latest LG 360 Camera Tech</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208029587-error-5-in-minecraft-here-are-effective-fixes-for-your-game-hitches/"><u>Error 5 in Minecraft? Here Are Effective Fixes for Your Game Hitches!</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-out-of-memory-in-red-dead-redemption-2-how-to-upgrade-your-pagefile/"><u>Fix 'Out of Memory' In Red Dead Redemption 2: How to Upgrade Your Pagefile</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-ark-survival-evolved-pc-game-crashes-discover-the-top-9-solutions/"><u>Fixing ARK: Survival Evolved PC Game Crashes – Discover the Top 9 Solutions!</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-failure-to-success-a-step-by-step-fix-for-battleye-service-problems/"><u>From Failure to Success: A Step-by-Step Fix for BattlEye Service Problems</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-11-pro-max-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 11 Pro Max to Samsung | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-6-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 6?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-x7-ultra-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X7 Ultra Bootloader Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-for-overcoming-the-expired-semaphore-limit-error-0x80070079/"><u>Solution for Overcoming the Expired Semaphore Limit - Error 0X80070079</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-techniques-for-widget-notification-control-win-11/"><u>Tailored Techniques for Widget Notification Control Win 11</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-6-fantastic-tools-to-sharpen-your-images-in-2n2-free-and-premium-options-available/"><u>Top 6 Fantastic Tools to Sharpen Your Images in 2N2 - Free and Premium Options Available</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-unexpected-termination-of-service-code-1067-on-your-pc/"><u>Troubleshooting Guide for Unexpected Termination of Service (Code 1067) on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-windows-update-failure-error-0x8007001f/"><u>Troubleshooting Guide for Windows Update Failure (Error 0X8007001f)</u></a></li>
 </ul></div>
 

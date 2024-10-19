@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Fixing a Nonfunctional Wacom Pen in Windows 11/10"
-date: 2024-10-10T23:15:31.451Z
-updated: 2024-10-13T02:00:57.561Z
+date: 2024-10-14T17:58:18.204Z
+updated: 2024-10-18T18:16:04.236Z
 tags:
   - win11
   - win10
@@ -66,40 +66,35 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cdb63e3b0.png)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Locate and double-click on**Windows Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5ce1733bbb.jpg)
 3. Click**Stop** \>**Start** . Then click**Apply** \>**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5cec02411e.jpg)
 4. Repeat this fix on **Windows Audio Endpoint Builder** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. **Restart** your PC and check if your volume control icon works as it should.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Run SFC
@@ -111,6 +106,14 @@ To run SFC:
 1. On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae0331bc08e4.png)**  and type **cmd** . Then right click on **Command Prompt**   and click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)  
  Click **Yes**   when prompted to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. In the command prompt window, type **sfc /scannow**   and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
@@ -119,10 +122,10 @@ To run SFC:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run the Playing Audio troubleshooter
@@ -135,28 +138,15 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30a29f39ffd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Click**Playing Audio** \>**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bb5d8eb22766.jpg)
 3. Follow the on-screen instructions for your Windows to diagnose and troubleshoot.
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Don’t forget to**restart** your machine and check if the volume control works fine now.
 
@@ -182,21 +172,21 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-leveraging-snapchat-for-professional-networking-and-sales/"><u>[New] 2024 Approved Leveraging Snapchat for Professional Networking & Sales</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-your-computer-appears-to-be-correctly-configured-but-the-device-or-resource-is-not-responding/"><u>[SOLVED] Your Computer Appears to Be Correctly Configured, but the Device or Resource Is Not Responding</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/clear-skies-in-video-learn-to-trim-logitech-feeds-for-2024/"><u>Clear Skies in Video – Learn to Trim Logitech Feeds for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/easily-repair-unresponsive-buttons-on-your-hp-laptop-step-by-step-guide/"><u>Easily Repair Unresponsive Buttons on Your HP Laptop - Step-by-Step Guide!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/foremost-companies-pioneering-vr-technology/"><u>Foremost Companies Pioneering VR Technology</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-affordable-reliable-a-list-of-the-best-free-mobile-streamers/"><u>In 2024, Affordable, Reliable A List of the Best Free Mobile Streamers</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-capturing-audiences-attention-with-animated-viral-video-hits/"><u>In 2024, Capturing Audiences' Attention with Animated Viral Video Hits</u></a></li>
-<li><a href="https://common-error.techidaily.com/lower-your-pcs-cpu-load-by-correcting-audio-device-isolation-issues-in-windows/"><u>Lower Your PC's CPU Load by Correcting Audio Device Isolation Issues in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-fix-for-unknown-usb-device-and-port-issues-under-windows-11/"><u>Master the Fix for 'Unknown USB Device' And Port Issues Under Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/revitalize-your-system-with-sfcdism-in-windows-11/"><u>Revitalize Your System with SFC/DISM in Windows 11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-transforming-mpeg-videos-into-webm-format-and-backwards-on-windows-pc/"><u>Step-by-Step Guide: Transforming MPEG Videos Into WebM Format & Backwards on Windows PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-overcoming-the-fatal-exception-error-in-windows-code-0xc00000e9/"><u>Step-by-Step Solutions for Overcoming the Fatal Exception Error in Windows (Code 0XC00000E9)</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-update-windows-11-despite-error-0xc1900208-guide/"><u>Successfully Update Windows 11 Despite Error 0Xc1900208 [GUIDE]</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-8-smooth-latency-free-video-reporters-for-2024/"><u>Top 8 Smooth, Latency-Free Video Reporters for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshoot-hardware-hitches-making-windows-recognize-your-last-connected-usb-device/"><u>Troubleshoot Hardware Hitches: Making Windows Recognize Your Last Connected USB Device</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oneplus-ace-3-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On OnePlus Ace 3? Fixed | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-a-step-by-step-guide-to-updating-photos-and-videos-on-instagram/"><u>[New] A Step-by-Step Guide to Updating Photos and Videos on Instagram</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-demystifying-digital-dreamscapes-a-vr-primer/"><u>[New] Demystifying Digital Dreamscapes A VR Primer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mastering-computer-monitor-recording-via-zdsoft/"><u>[Updated] 2024 Approved Mastering Computer Monitor Recording via ZDSoft</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-building-a-strong-online-presence-with-attractive-video-thumbnails-for-2024/"><u>[Updated] Building a Strong Online Presence with Attractive Video Thumbnails for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-persistent-screen-flash-up-in-windows-10-systems/"><u>Addressing Persistent Screen Flash-Up in Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-server-connectivity-issues-in-destiny-2-expert-advice/"><u>Bypassing Server Connectivity Issues in Destiny 2 - Expert Advice</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-overcoming-dev-error-e-5573-on-xbox-playstation-and-pc-games/"><u>Effective Solutions for Overcoming 'Dev Error E 5573' On Xbox, PlayStation, and PC Games</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/lence-guild-crafting-photos-plus-sounds-visuals/"><u>Excellence Guild Crafting Photos + Sounds, Visuals</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-update-error-code-0x802e-a-comprehensive-guide/"><u>Fixing Windows Update Error Code 0X802e: A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/minecraft-on-windows-stuttering-and-freezing-correct-graphic-card-driver-errors-here/"><u>Minecraft on Windows Stuttering and Freezing? Correct Graphic Card Driver Errors Here</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-vivo-y27-4g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Vivo Y27 4G</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-s-pen-problems-a-comprehensive-fixing-manual-for-samsungs-digital-pens/"><u>Solve Your S Pen Problems: A Comprehensive Fixing Manual for Samsung's Digital Pens</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723006389479-steps-to-resolve-frequent-disconnections-of-nox-player-while-running-on-a-pc/"><u>Steps to Resolve Frequent Disconnections of Nox Player While Running on a PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-lenovos-unresponsive-mouse-pad-on-windows-operating-systems-win-1187/"><u>Troubleshooting Lenovo's Unresponsive Mouse Pad on Windows Operating Systems (Win 11/8/7)</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-connection-issues-with-airpods-on-microsofts-latest-operating-systems-windows-10-and-11/"><u>Ultimate Guide: Resolving Connection Issues with AirPods on Microsoft's Latest Operating Systems (Windows 10 & 11)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Correcting the Sound Output Issue on YouTube for PC Users"
-date: 2024-09-10T16:02:24.793Z
-updated: 2024-09-15T16:02:27.010Z
+date: 2024-10-16T21:59:09.868Z
+updated: 2024-10-18T18:59:31.971Z
 tags:
   - win11
   - win10
@@ -62,10 +62,16 @@ To do so, follow the steps below:
 2. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Type**firefox.exe -P** and click**OK** .  
@@ -73,14 +79,22 @@ To do so, follow the steps below:
 4. **Firefox – Choose User Profile** will pop up. Click**Create Profile** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c12020cdc034.png)
 5. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Re-launch Firefox and log in your new user profile.
 7. Open the website again to see if your problem has been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable SSL scanning in your antivirus software
@@ -100,16 +114,10 @@ To do so, follow the steps below:
 5. Re-open Firefox, and open the website again to see if it works now.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  So that’s it. Hope this post helps in resolving the error**SEC\_ERROR\_UNKNOWN\_ISSUER** .
@@ -132,5 +140,18 @@ To do so, follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-learn-the-ins-and-outs-of-adding-gifs-on-instagram-in-4-steps/"><u>[New] 2024 Approved Learn the Ins and Outs of Adding GIFs on Instagram in 4 Steps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-worlds-best-5-streaming-videography-tools/"><u>[Updated] 2024 Approved World's Best 5 Streaming Videography Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crack-open-your-marketing-potential-with-these-nine-tactics/"><u>[Updated] Crack Open Your Marketing Potential with These Nine Tactics</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-essential-filmmakers-toolkit-a-guide-to-audio-recording/"><u>[Updated] The Essential Filmmaker's Toolkit A Guide to Audio Recording</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/deutsch-eine-auswahl-an-verabschiedungstermini/"><u>Deutsch: Eine Auswahl an Verabschiedungstermini</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-computer-startup-slow-issue/"><u>How to Fix Computer Startup Slow Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-minecrafts-incompatibility-with-your-video-card-drivers-on-a-windows-pc/"><u>How To Fix Minecraft's Incompatibility With Your Video Card Drivers On A Windows PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/next-level-gaming-unleashed-detailed-analysis-of-amds-zen-5-powered-ryzen-5-9600x-and-ryzen-7-9700x-cpus/"><u>Next-Level Gaming Unleashed: Detailed Analysis of AMD's Zen 5 Powered Ryzen 5 9600X & Ryzen 7 9700X CPUs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/recon-70-beats-ear-force-fuel-optimized-how-to-repair-non-functioning-microphone/"><u>Recon 70 Beats Ear Force Fuel Optimized: How to Repair Non-Functioning Microphone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-nier-automata-pc-game-freezing-issues-solved/"><u>Troubleshooting Nier: Automata PC Game Freezing Issues - Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-pc-connection-issues-with-a-bluetooth-keyboard/"><u>Troubleshooting Steps: Resolving PC Connection Issues with a Bluetooth Keyboard</u></a></li>
+</ul></div>
 

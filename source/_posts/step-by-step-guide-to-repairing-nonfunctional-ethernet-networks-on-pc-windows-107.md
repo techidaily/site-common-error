@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Repairing Nonfunctional Ethernet Networks on PC (Windows 10/7)
-date: 2024-10-05T18:32:29.728Z
-updated: 2024-10-12T20:31:45.917Z
+date: 2024-10-18T04:37:11.025Z
+updated: 2024-10-18T18:26:33.159Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/db974cbfcefb94ba1052fbc76bad2bdba052e08c1
 
  To check if the USB device is faulty, simply unplug it (‘Eject’ it if it’s a USB storage device) and plug it into another computer. If it works, the device is fine. If it doesn’t, then you’ve isolated the problem! You just need to buy a replacement.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 2: Check your power supply (laptop only)**
 
  Your laptop’s power supply delivers power to your USB ports. If, for some reason, it fails to do this properly, the devices plugged into those USB ports may stop working. Sometimes, this can be fixed quite simply:
@@ -49,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/db974cbfcefb94ba1052fbc76bad2bdba052e08c1
 4) Plug the power supply back in
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 3: Check your power management settings**
@@ -65,27 +72,20 @@ thumbnail: https://thmb.techidaily.com/db974cbfcefb94ba1052fbc76bad2bdba052e08c1
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Expand the**Universal Serial Bus controllers** branch
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430ac388d01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Double-click the first **USB Root Hub** device in the list (if you see only one USB Root Hub device, that’s fine)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430af9a6bc2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click the **Power Management**  tab  
 
@@ -98,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/db974cbfcefb94ba1052fbc76bad2bdba052e08c1
  6) Repeat steps 3-5 for each  USB Root Hub device in your list of Universal Serial Bus controllers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_59430b577123a.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 4: Check your USB device drivers**
 
@@ -119,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/db974cbfcefb94ba1052fbc76bad2bdba052e08c1
  2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/img_594841d4c15c1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged USB driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -150,16 +150,21 @@ thumbnail: https://thmb.techidaily.com/db974cbfcefb94ba1052fbc76bad2bdba052e08c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-maximize-engagement-with-proper-youtube-video-dimensions-for-2024/"><u>[Updated] Maximize Engagement with Proper YouTube Video Dimensions for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-art-of-subtle-sonic-softening-using-lumafusion/"><u>[Updated] The Art of Subtle Sonic Softening Using Lumafusion</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-6-tools-for-audiovisual-interpretation/"><u>[Updated] Ultimate 6 Tools for Audio/Visual Interpretation</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-digital-tools-trustworthy-insights-on-hardware-from-toms-perspective/"><u>Decoding Digital Tools: Trustworthy Insights on Hardware From Tom's Perspective</u></a></li>
-<li><a href="https://common-error.techidaily.com/deep-dreaming-conquering-wake-up-events-on-win11/"><u>Deep Dreaming: Conquering Wake-Up Events on Win11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-cat-s42-tough-mobile-device-outstanding-durability-vs-average-processing-speed/"><u>Exploring the CAT S42 Tough Mobile Device: Outstanding Durability Vs. Average Processing Speed</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-getting-back-control-dealing-with-non-responsive-file-explorer-in-windows-11/"><u>Guide to Getting Back Control: Dealing with Non-Responsive File Explorer in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-your-pvpnet-laugh-out-loud-lol-game-when-kernel-encounters-errors/"><u>How to Repair Your PvP.net Laugh Out Loud (LOL) Game when Kernel Encounters Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-guide-for-troubleshooting-and-fixing-the-critical-process-died-error-0xc000012f-in-windows/"><u>Quick Guide for Troubleshooting and Fixing the Critical Process Died Error (0XC000012F) in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-troubleshooting-manual-for-resolving-chromes-monochrome-mode/"><u>The Ultimate Troubleshooting Manual for Resolving Chrome's Monochrome Mode</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-optimal-budget-free-fb-picturemotion-designer/"><u>[New] 2024 Approved Optimal Budget-Free FB Picture/Motion Designer</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-charting-your-course-in-youtubing-dodge-these-top-8-common-missteps/"><u>[Updated] In 2024, Charting Your Course in YouTubing Dodge These Top 8 Common Missteps!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-camera-drones-10-filmmakers-dream-fleet/"><u>[Updated] Premier Camera Drones #10 Filmmakers' Dream Fleet</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-guide-to-turn-off-ig-predictions/"><u>2024 Approved The Guide to Turn Off IG Predictions</u></a></li>
+<li><a href="https://common-error.techidaily.com/accelerate-your-league-of-legends-experience-fixing-download-delays-once-and-for-all/"><u>Accelerate Your League of Legends Experience – Fixing Download Delays Once and For All!</u></a></li>
+<li><a href="https://common-error.techidaily.com/dispelling-the-gloom-expert-tips-for-resolving-black-screens-on-launch-in-monster-hunter-world/"><u>Dispelling the Gloom: Expert Tips for Resolving Black Screens on Launch in Monster Hunter: World</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhancing-efficiency-managing-windows-driver-resources-to-cut-down-cpu-overuse/"><u>Enhancing Efficiency: Managing Windows Driver Resources to Cut Down CPU Overuse</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-nonfunctional-brightness-settings-on-windows-11/"><u>Fixing Nonfunctional Brightness Settings on Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-asus-rog-phone-7-ultimate-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Asus ROG Phone 7 Ultimate to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-motorola-moto-g34-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Motorola Moto G34 5G Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-samsung-galaxy-a54-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Samsung Galaxy A54 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202863159-laptop-battery-wont-charge-master-quick-repairs-to-power-up-again/"><u>Laptop Battery Won't Charge? Master Quick Repairs to Power Up Again</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/melody-cleanse-free-your-content-from-unwanted-musical-elements/"><u>Melody Cleanse Free Your Content From Unwanted Musical Elements</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-error-successfully-implementing-feature-level-100-with-directx-11-on-wwe-2k-game/"><u>Overcoming Error: Successfully Implementing Feature Level 10.0 with DirectX 11 on WWE 2K Game</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-pc-stagnation-proven-methods-for-fixing-a-frozen-desktop/"><u>Overcoming PC Stagnation: Proven Methods for Fixing a Frozen Desktop</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-nubia-red-magic-9-proplus-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Nubia Red Magic 9 Pro+</u></a></li>
 </ul></div>
 
