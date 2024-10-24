@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Unresponsive Google Chrome Issues"
-date: 2024-10-17T02:24:50.969Z
-updated: 2024-10-19T04:57:50.170Z
+date: 2024-10-19T22:22:27.067Z
+updated: 2024-10-24T18:29:47.976Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/015ca8337481fa9d7a46737ec3890e68196903574
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Update or re-install Google Chrome**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Disable Chrome add-ons
 
  Add-ons are extensions to Google Chrome that allow you to do more things in your browser, or which improve your user experience. For example, the AdBlock add-on  blocks ads. Extensions are sometimes added manually and sometimes added by other programs on your computer (hopefully with your permission).
@@ -54,16 +47,10 @@ thumbnail: https://thmb.techidaily.com/015ca8337481fa9d7a46737ec3890e68196903574
 3. Toggle off all the extensions on your Chrome.  
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1e199b56ceb.png)
@@ -73,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/015ca8337481fa9d7a46737ec3890e68196903574
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable hardware acceleration
@@ -88,17 +75,26 @@ thumbnail: https://thmb.techidaily.com/015ca8337481fa9d7a46737ec3890e68196903574
 1. In Chrome, in the top right corner, click on  the **three vertical dots**  button >   **Settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581a513db47.jpg)
 2. Scroll down to the bottom and click **Advanced** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
-3. Scroll down to the bottom and in **System**  and **DISABLE** the toggle next to **Use hardware acceleration when available** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
-4. Re-launch Chrome and test if the video content loads without fail this time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b582452d2feb.png)
+3. Scroll down to the bottom and in **System**  and **DISABLE** the toggle next to **Use hardware acceleration when available** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b581b3de44bc.jpg)
+4. Re-launch Chrome and test if the video content loads without fail this time.
 
 ---
 
@@ -161,15 +157,14 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/solved-how-to-fix-stuck-on-preparing-to-configure-windows/"><u>[SOLVED] How to Fix Stuck on Preparing to Configure Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-leading-list-where-to-find-gamers-music-without-costs/"><u>2024 Approved The Leading List Where to Find Gamers' Music Without Costs</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/best-5-substitutes-for-showbox-options-compatible-with-ios-android-and-windows/"><u>Best 5 Substitutes for ShowBox: Options Compatible with iOS, Android & Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/explanation-of-current-issues-with-accessing-steam-gaming-services/"><u>Explanation of Current Issues with Accessing Steam Gaming Services</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-proven-performers-the-best-of-8-mirrorless-cameras-for-video-creators/"><u>In 2024, Proven Performers The Best of 8 Mirrorless Cameras for Video Creators</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-the-deficit-dilemma-lacking-inventiveness-in-vr/"><u>In 2024, The Deficit Dilemma Lacking Inventiveness in VR</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-top-5-free-streaming-options-for-watching-mlb-matches/"><u>In 2024, Top 5 Free Streaming Options for Watching MLB Matches</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-invalid-entry-error-in-directories-expert-tips-and-solutions/"><u>Resolving 'Invalid Entry' Error in Directories - Expert Tips & Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-overcome-igfxem-hardware-glitches-and-revive-display-output/"><u>Steps to Overcome igfxEM Hardware Glitches and Revive Display Output</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/your-selling-strategy-with-lazlive-live-selling/"><u>Your Selling Strategy With LazLive Live Selling</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-best-sound-transforming-apps-for-youtube-vloggers/"><u>[Updated] 2024 Approved Best Sound Transforming Apps for YouTube Vloggers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-soundscapes-from-social-media-videos/"><u>[Updated] In 2024, Soundscapes From Social Media Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-your-mac-interaction-innovative-text-to-speech-apps-uncovered/"><u>[Updated] Transform Your Mac Interaction Innovative Text-to-Speech Apps Uncovered</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/breakthroughs-in-non-fbx-gameplay-documentation/"><u>Breakthroughs in Non-FBX Gameplay Documentation</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-windows-11-update-version-1607-failure-during-installation/"><u>How to Fix Windows 11 Update Version 1607 Failure During Installation</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-the-early-game-experience-journey/"><u>Navigating the Early Game Experience Journey</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201115544-solving-windows-update-failure-error-80070g-fast-and-effective-methods/"><u>Solving Windows Update Failure Error 80070^G - Fast & Effective Methods!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-overcoming-loadlibrary-failure-due-to-erroneous-parameters-error-code-87-explained/"><u>Step-by-Step Solutions for Overcoming 'Loadlibrary Failure Due to Erroneous Parameters' - Error Code 87 Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-svchostexe-netsvc-service-explained-and-solutions-for-excessive-network-use/"><u>Understanding svchost.exe: NETsvc Service Explained & Solutions for Excessive Network Use</u></a></li>
 </ul></div>
 

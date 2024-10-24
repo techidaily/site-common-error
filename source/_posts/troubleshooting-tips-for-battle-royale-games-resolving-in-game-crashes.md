@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Battle Royale Games - Resolving In-Game Crashes
-date: 2024-09-12T09:55:53.441Z
-updated: 2024-09-14T23:25:17.152Z
+date: 2024-10-22T19:45:52.953Z
+updated: 2024-10-24T22:33:13.499Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/c7d5334a16d86bd0def81a6a6e6f6a57897cdf76f
 2. Chrome will automatically check for updates. If an update is available, click**Relaunch** to update Chrome.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/chrome-relaunch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **To update Microsoft Edge:**
 
 1. Open Edge, click**Settings and more** .  
@@ -57,16 +64,46 @@ thumbnail: https://thmb.techidaily.com/c7d5334a16d86bd0def81a6a6e6f6a57897cdf76f
 2. Select**Help and feedback > About Microsoft Edge** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/about-microsoft-edge.jpg)
 3. Edge will automatically check for updates. If an update is available, it will download and install the update.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-check-for-updates.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **To update Mozilla Firefox:**
 
 1. Open Firefox, click the**menu** button and click**Help** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-help.jpg)
 2. Select**About Firefox** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/about-firefox.jpg)
 3. Firefox will check for updates and download them automatically. When the download is complete, click**Restart to Update Firefox** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/restart-to-update-firefox-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **To update Safari on Mac:**
 
@@ -101,6 +138,13 @@ thumbnail: https://thmb.techidaily.com/c7d5334a16d86bd0def81a6a6e6f6a57897cdf76f
 2. Next to**Time range to clear** , select**Everything** . Under**History** , select all the entries. Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-clear-recent-history.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **For Safari:**
 
 1. On your Mac, open Safari and select**History > Clear History** .
@@ -126,6 +170,13 @@ thumbnail: https://thmb.techidaily.com/c7d5334a16d86bd0def81a6a6e6f6a57897cdf76f
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-manage-extensions.jpg)
 2. Click the toggle next to the extensions to disable them one by one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/edge-turn-off-extensions.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Firefox:**
 
@@ -167,26 +218,13 @@ thumbnail: https://thmb.techidaily.com/c7d5334a16d86bd0def81a6a6e6f6a57897cdf76f
 2. In the General panel, under**Performance** , uncheck**Use recommended performance settings** , then uncheck**Use hardware acceleration when available** .  
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-hardware-acceleration.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Safari:**
 
@@ -222,28 +260,8 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-firefox.jpg)
 3. In the new window, click**Refresh Firefox** .  
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/refresh-firefox-2.jpg)
 4. Click**Finish** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/firefox-finish.jpg)
 
@@ -252,13 +270,6 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
  Unlike Chrome, Safari doesn’t have a Reset button. To reset Safari to default settings, you can follow the above steps to clear browser history and disable all extensions.
 
  If the above methods didn’t help, try using another browser to play the video.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus tip: How to repair corrupted or damaged video files?
 
@@ -292,5 +303,21 @@ Users are not allowed to turn hardware acceleration on and off in Safari.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-expert-advice-on-leveraging-youtubes-video-editor/"><u>[New] 2024 Approved Expert Advice on Leveraging YouTube's Video Editor</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-step-by-step-approach-to-professional-video-sharing/"><u>[New] A Step-by-Step Approach to Professional Video Sharing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-dynamic-dialogues-keys-to-a-loving-podcast-following/"><u>[New] In 2024, Dynamic Dialogues Keys to a Loving Podcast Following</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-srgb-efficiency-against-basic-rgb/"><u>[New] In 2024, Srgb Efficiency Against Basic Rgb</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-9-mic-technology-advances-a-deep-dive-analysis-for-2024/"><u>[Updated] Top 9 Mic Technology Advances A Deep Dive Analysis for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/best-instagram-highlight-cover-makers-online-you-should-know-for-2024/"><u>Best Instagram Highlight Cover Makers Online You Should Know for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/bluetooth-connectivity-restored-addressing-undetectable-peripherals-in-windows-11/"><u>Bluetooth Connectivity Restored: Addressing Undetectable Peripherals in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-for-overcoming-steam-disk-writing-problems/"><u>Effortless Fixes for Overcoming Steam Disk Writing Problems</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/essential-tips-direct-camera-roll-upload-to-snapchat-for-2024/"><u>Essential Tips Direct Camera Roll Upload to Snapchat for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/essential-tips-for-overcoming-top-11-facebook-glitches/"><u>Essential Tips for Overcoming Top 11 Facebook Glitches</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-total-war-rome-remastered-crashing-issues-expert-tips-and-tricks/"><u>Fixing Total War: Rome Remastered Crashing Issues - Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-on-creating-copies-of-your-existing-dvd-library/"><u>Step-by-Step Tutorial on Creating Copies of Your Existing DVD Library</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-windows-camera-error-code-0xa00f4292/"><u>Troubleshooting Guide: Fixing Windows Camera Error Code 0xA00F4292</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-to-silencing-popping-noises-in-your-speakers-for-windows-operating-systems-win117/"><u>Ultimate Guide to Silencing Popping Noises in Your Speakers for Windows Operating Systems (Win11/7)</u></a></li>
+</ul></div>
 

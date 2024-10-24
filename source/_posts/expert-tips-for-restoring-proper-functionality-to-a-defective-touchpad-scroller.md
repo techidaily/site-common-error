@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Restoring Proper Functionality to a Defective Touchpad Scroller
-date: 2024-10-13T19:33:41.578Z
-updated: 2024-10-18T20:57:57.480Z
+date: 2024-10-18T18:49:04.814Z
+updated: 2024-10-24T16:02:08.297Z
 tags:
   - win11
   - win10
@@ -61,10 +61,10 @@ Here’s how to reinstall the keyboard driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
@@ -72,6 +72,13 @@ Here’s how to reinstall the keyboard driver:
  4) Check to see if the laptop keys work properly. If yes, then great! If the keys are still not typing, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
 
@@ -96,13 +103,6 @@ Here’s how to reinstall the keyboard driver:
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -138,10 +138,10 @@ Here is how to make sure you’ve disabled Filter Keys:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
@@ -160,16 +160,16 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e38ca1d161.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on the laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reseat your laptop battery
 
@@ -205,22 +205,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-premiere-experts-exceptional-instagram-highlight-craftsmen-for-2024/"><u>[New] Premiere Experts Exceptional Instagram Highlight Craftsmen for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-demystifying-the-symbolism-of-a-blue-marker-in-facebook-chats-for-2024/"><u>[Updated] Demystifying the Symbolism of a Blue Marker in Facebook Chats for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-unlock-every-shared-file-and-image-in-messaging-app/"><u>2024 Approved Unlock Every Shared File and Image in Messaging App</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-realme-gt-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/bluetooth-enabled-successfully-steps-for-displaying-in-windows-device-manager/"><u>Bluetooth Enabled Successfully! Steps for Displaying in Windows Device Manager</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-fixes-for-resolving-constant-restarts-in-your-windows-10-device/"><u>Easy Fixes for Resolving Constant Restarts in Your Windows 10 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-for-dealing-with-repeated-not-recognized-kb310218-get-back-to-using-your-usb-devices-now/"><u>Expert Advice for Dealing with Repeated 'Not Recognized KB310218' - Get Back to Using Your USB Devices Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/get-your-lenovo-trackpad-working-again-under-windows-tips-and-solutions/"><u>Get Your Lenovo Trackpad Working Again Under Windows: Tips & Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209359338-laptop-microphone-problems-discover-effective-fixes-and-solutions-here/"><u>Laptop Microphone Problems? Discover Effective Fixes and Solutions Here</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/navigating-board-features-across-apple-android-and-windows-for-effective-online-collaboration-for-2024/"><u>Navigating Board Features Across Apple, Android & Windows for Effective Online Collaboration for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-lava-blaze-2-5g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Lava Blaze 2 5G Black and White | Dr.fone</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/revolutionary-design-meets-power-maingears-discrete-motherboard-free-computers-start-from-just-1399/"><u>Revolutionary Design Meets Power: Maingear's Discrete Motherboard-Free Computers Start From Just $1,399</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-halo-4-ue4-deadly-glitch-overcome-game-crashes/"><u>Solved Halo 4 UE4 Deadly Glitch: Overcome Game Crashes</u></a></li>
-<li><a href="https://common-error.techidaily.com/streamline-your-workflow-with-windows-10-file-explorer-help/"><u>Streamline Your Workflow with Windows 10 File Explorer Help</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-power-integrating-chatgpt-and-wolfram-alpha-plugin-techniques/"><u>Unleashing Power: Integrating ChatGPT and Wolfram Alpha Plugin Techniques</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-deep-sleep-with-asmr-strategies-for-2024/"><u>Unlocking Deep Sleep with ASMR Strategies for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-container-issue-resolution-understanding-and-fixing-the-failed-to-enumerate-objects-error/"><u>Windows 10 Container Issue Resolution: Understanding and Fixing the 'Failed to Enumerate Objects' Error</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-exclusive-selection-of-high-caliber-free-luts/"><u>[New] 2024 Approved Exclusive Selection of High-Caliber Free LUTs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-fluidity-in-filming-a-deep-dive-into-inshots-transition-features/"><u>[New] Fluidity in Filming A Deep Dive Into Inshot's Transition Features</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ending-invisible-gaming-captures-in-software/"><u>[New] In 2024, Ending Invisible Gaming Captures in Software</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-accelerate-your-media-top-8-android-picks/"><u>[Updated] In 2024, Accelerate Your Media Top 8 Android Picks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/combine-videos-freely-7-watermark-free-editors/"><u>Combine Videos Freely 7 Watermark-Free Editors</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/complete-guide-frequently-asked-questions-and-answers-for-aomei-backup-master/"><u>Complete Guide: Frequently Asked Questions & Answers for AOMEI Backup Master</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-resolve-no-bootable-device-found-on-your-laptop-or-pc/"><u>Expert Tips to Resolve 'No Bootable Device Found' On Your Laptop or PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-tecno-pova-5-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Tecno Pova 5 Pro? Try These Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-shockwave-flash-issues-in-google-chrome/"><u>How To Fix Shockwave Flash Issues In Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-windows-network-error-code-0x800704cf/"><u>How to Resolve Windows Network Error Code 0X800704CF</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/live-techniques-lowering-volume-gradually-for-2024/"><u>Live Techniques Lowering Volume Gradually for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimal-gpu-choices-4k-editing-and-rendering/"><u>Optimal GPU Choices 4K Editing & Rendering</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-msvcp140dll-shortage/"><u>Overcoming MSVCP140.dll Shortage</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-instructions-resolving-constant-usb-disconnection-problems/"><u>Step-by-Step Instructions: Resolving Constant USB Disconnection Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/successful-fixes-overcoming-oddworld-soulstorms-pc-crash-issues/"><u>Successful Fixes: Overcoming Oddworld: Soulstorm's PC Crash Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-farewell-optimizing-your-computers-shutdown-performance/"><u>Windows 11 Farewell: Optimizing Your Computer's Shutdown Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-1110-users-guide-diagnose-and-cure-wireless-mouse-issues-quickly-and-effectively/"><u>Windows 11/10 Users' Guide: Diagnose and Cure Wireless Mouse Issues Quickly & Effectively</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting an Unresponsive HP Touchpad: A Step-by-Step Guide"
-date: 2024-10-17T00:07:03.877Z
-updated: 2024-10-18T17:34:26.886Z
+date: 2024-10-21T21:37:30.137Z
+updated: 2024-10-24T20:31:05.773Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Reinstall your keyboard driver
 
  Your **HP laptop keys not working** problem is probably being caused by driver issues. So you can try reinstalling your keyboard driver to see if it fixes the issue.
@@ -50,23 +43,9 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/devicemanager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Locate and double-click on**Keyboards** , then right-click on your keyboard and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e31f5aa318.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Wait until the uninstall finishes and**Restart** your computer so that your computer can auto-install the keyboard driver.
 
@@ -75,10 +54,10 @@ Here’s how to reinstall the keyboard driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your keyboard driver
@@ -99,11 +78,25 @@ Here’s how to reinstall the keyboard driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Test the keys on your laptop to see if the issue has been resolved. If yes, then congrats! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your keyboard settings
 
@@ -129,13 +122,6 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/KEYBOARDOFF-1200x672.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check your keyboard and see if this**key not working on laptop** issue has been sorted. If yes, then great! If it’s still no joy, please try[](#F4) **[Fix 4](#F4)** .
 
  **I’m using Windows 8:**
@@ -144,6 +130,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  and type**filter** . Then click on**Turn filter keys on or off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e36d46fa58.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Make sure the**Filter Keys** toggle is**Off** .
 
@@ -156,6 +149,13 @@ Here is how to make sure you’ve disabled Filter Keys:
  1) On your keyboard, press**the Windows logo key** and type**filter** . Then click on**Ignore repeated keystrokes using FilterKeys** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8e37a49754e.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Make sure the box before**Turn on Filter Keys** is**un-ticked** . Then click**Apply** \>**OK** .
 
@@ -199,14 +199,22 @@ Here is how to make sure you’ve disabled Filter Keys:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expertise-in-visual-communication-a-guide-to-gif-creation/"><u>[New] Expertise in Visual Communication A Guide to GIF Creation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-skating-moments-from-the-world-cup-22/"><u>[Updated] Prime Skating Moments From the World Cup '22</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-unexpected-boot-sequences-for-windows-11-systems/"><u>Diagnosing Unexpected Boot Sequences for Windows 11 Systems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-social-media-safely-a-step-by-step-guide-to-spotting-counterfeit-companions/"><u>Navigating Social Media Safely: A Step-by-Step Guide to Spotting Counterfeit Companions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-obstacles-fixing-a-dormant-tab-key-in-windows/"><u>Overcoming Obstacles: Fixing a Dormant Tab Key in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208822085-tackling-the-troublesome-green-issue-in-nba-2k21-now-resolved/"><u>Tackling the Troublesome Green Issue in NBA 2K21 - Now Resolved!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-incompatible-usb-hardware-in-windows-11-with-our-step-by-step-fixes/"><u>Troubleshoot Incompatible USB Hardware in Windows 11 with Our Step-by-Step Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-critical-process-dying-error-the-ultimate-guide-to-solving-windows-error-code-0xc00000e9/"><u>Troubleshooting and Fixing Critical Process Dying Error: The Ultimate Guide to Solving Windows Error Code 0xC00000E9</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ustream-showcase-plus-similar-video-sites/"><u>Ustream Showcase + Similar Video Sites</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-tips-on-how-to-edit-youtube-channel-description/"><u>[New] 2024 Approved Tips on How to Edit YouTube Channel Description</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-fix-cursor-blinking/"><u>[Solved] How to Fix Cursor Blinking</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-secure-and-simple-grab-your-desired-youtube-cover-at-no-charge/"><u>[Updated] Secure & Simple Grab Your Desired YouTube Cover at No Charge</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-strategies-to-tackle-vlc-challenges-on-macos/"><u>[Updated] Top Strategies to Tackle VLC Challenges on macOS</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-kernel32dll-malfunctions/"><u>Bypassing Kernel32.dll Malfunctions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/changer-des-fichiers-avi-en-gif-gratuitement-et-facilement-sur-internet/"><u>Changer Des Fichiers Avi en Gif Gratuitement Et Facilement Sur Internet</u></a></li>
+<li><a href="https://discover-able.techidaily.com/come-riportare-il-tuo-windows-server-2008-r2-a-un-momento-anteriori/"><u>Come Riportare Il Tuo Windows Server 2008 R2 a Un Momento Anteriori</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-stuck-mouse-issues-on-your-windows-or-mac-device/"><u>Fixing Stuck Mouse Issues on Your Windows or Mac Device</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/installation-complete-critical-audiovideo-driver-found-and-installed/"><u>Installation Complete: Critical Audio/Video Driver Found & Installed</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-airpod-pc-sync-overcoming-connection-issues-in-windows-for-beginners/"><u>Mastering AirPod-PC Sync: Overcoming Connection Issues in Windows for Beginners</u></a></li>
+<li><a href="https://win-superb.techidaily.com/1728508697597-page-unavailable-http-error-404/"><u>Page Unavailable (HTTP Error ⚠️ 404)</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-stability-problems-in-total-war-rome-remastered-tips-and-tricks/"><u>Resolving Stability Problems in Total War: Rome Remastered - Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-issue-why-doesnt-my-computer-turn-off-on-win-1/"><u>Solving the Issue: Why Doesn't My Computer Turn Off on Win 1#?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tech-tutorial-review-and-purge-windows-activity-records/"><u>Tech Tutorial: Review & Purge Windows Activity Records</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-tips-for-repairing-your-overwatch-voice-chat-issues-effortlessly/"><u>Ultimate Tips for Repairing Your Overwatch Voice Chat Issues Effortlessly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726030289947-windows-11dvd/"><u>Windows 11でDVDのファイルへ移行する手順</u></a></li>
 </ul></div>
 

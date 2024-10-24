@@ -1,7 +1,7 @@
 ---
 title: "Critical Fix: Semaphore Exceeds Allotted Time Limit, Problem Solved"
-date: 2024-10-15T21:13:13.862Z
-updated: 2024-10-19T00:32:16.474Z
+date: 2024-10-17T20:20:39.361Z
+updated: 2024-10-24T22:26:20.894Z
 tags:
   - win11
   - win10
@@ -39,19 +39,6 @@ the picture was taken by: Article\_86
 
 **Note** : When you reboot Google Chrome, don’t restor pages. If your Chrome would jump to the previous page automatically, you need to click on Home Button or a bookmark to prevent Chrome reopenning the infected site.
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Some users may encounter the scam page for a couple of months. Trying different ways to get rid of it but doesn’t help. Then you may try these fixes. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -75,6 +62,19 @@ the picture was taken by: Article\_86
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Uninstall suspicious add-ons
 
  If the scam appears after you install one or several add-ons, you may need to double-check these extensions.  
@@ -88,10 +88,10 @@ the picture was taken by: Article\_86
 4. Relaunch Chrome to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -106,6 +106,14 @@ the picture was taken by: Article\_86
 3. In the open window, click **Clear browsing data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/history.jpg)
 4. Click **Clear data** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/clear.jpg)
 5. Relaunch Chrome to take effect.
 
@@ -121,10 +129,10 @@ the picture was taken by: Article\_86
 3. Scroll down to the bottom and click **Advanced** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Scroll down to the bottom and click **Restore settings to their original defaults** .  
@@ -134,20 +142,13 @@ the picture was taken by: Article\_86
 6. Relaunch Chrome to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## TIPS: Avoid Google Chrome Critical Error
 
@@ -184,20 +185,20 @@ Spam emails may carry the form of download links or a file attachment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-game-changing-streaming-apps-for-gamers/"><u>[New] 2024 Approved Game-Changing Streaming Apps for Gamers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitters-top-picks-best-amazon-prime-content-2023-for-2024/"><u>[New] Twitter's Top Picks Best Amazon Prime Content 2023 for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-selecting-the-superior-hexacopters/"><u>[Updated] In 2024, Selecting the Superior HexaCopters</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-the-pixel-shuffle-resolving-tech-problems-in-valorant-gaming/"><u>Beat the Pixel Shuffle: Resolving Tech Problems in Valorant Gaming</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-x100-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo X100 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-successfully-resolve-windows-update-error-code-0x80240017/"><u>How to Successfully Resolve Windows Update Error Code 0X80240017</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Honor Magic 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-the-future-top-6-techniques-to-prosper-with-ai-at-work/"><u>Mastering the Future: Top 6 Techniques to Prosper with AI at Work</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-nubia-red-magic-9-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Nubia Red Magic 9 Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-windows-7-audio-service-expert-tips-and-fixes-to-bring-back-sounds/"><u>Revive Your Windows 7 Audio Service - Expert Tips and Fixes to Bring Back Sounds</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-red-dead-redemption-ii-memory-overflow-immediate-steps-to-increase-page-file/"><u>Solve 'Red Dead Redemption II Memory Overflow': Immediate Steps to Increase Page File</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-accessing-whatsapp-from-macos/"><u>Step-by-Step Instructions: Accessing WhatsApp From macOS</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-laptop-overcoming-the-boot-loop-issue/"><u>Troubleshooting Your Laptop: Overcoming the Boot Loop Issue</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-top-8-live-selling-platforms-beginners-tool-tip/"><u>Updated In 2024, Top 8 Live Selling Platforms Beginners Tool Tip</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-brightness-dial-wont-respond-here-are-the-fixes/"><u>Windows 10 Brightness Dial Won't Respond? Here Are the Fixes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/operating-system-not-found-or-missing-operating-system-error-fixed/"><u>“Operating System Not Found” Or “Missing Operating System” Error Fixed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-10-facebook-jail-secrets-to-avoid-being-blocked-get-out-of-it/"><u>[Updated] In 2024, 10 Facebook Jail Secrets to Avoid Being Blocked / Get Out of It</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/5-high-performance-hdds-built-for-xbox-use/"><u>5 High-Performance HDDs Built for Xbox Use</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-on-reactivating-your-iphones-email-service/"><u>A Comprehensive Guide on Reactivating Your iPhone's Email Service</u></a></li>
+<li><a href="https://common-error.techidaily.com/amd-high-definition-sound-card-fix-unplugged-device-alert/"><u>AMD High Definition Sound Card - Fix Unplugged Device Alert</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/converting-instagram-media-to-mp3-format-for-2024/"><u>Converting Instagram Media To MP3 Format for 2024</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/customized-ad-targeting-with-cookiebot-the-powerhouse-of-personalization/"><u>Customized Ad Targeting with Cookiebot: The Powerhouse of Personalization</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-hdmi-connectivity-issues-on-your-windows-11-pc-with-a-tv/"><u>Diagnosing and Fixing HDMI Connectivity Issues on Your Windows 11 PC with a TV</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-the-exceptional-features-of-anycubebic-kobra-2-max-a-hidden-treasure-unveiled/"><u>Discovering the Exceptional Features of Anycubebic Kobra 2 MAX - A Hidden Treasure Unveiled</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/embracing-the-commons-digital-access-to-classics/"><u>Embracing the Commons Digital Access to Classics</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generate-captivating-tales-with-4-leading-artificebased-narrators-worth-a-spin/"><u>Generate Captivating Tales with 4 Leading Artificebased Narrators - Worth a Spin</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-and-repair-a-black-display-in-google-chrome-browser/"><u>How to Troubleshoot and Repair a Black Display in Google Chrome Browser</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-missing-desktop-icons-on-windows-11/"><u>Resolved: Fixing Missing Desktop Icons on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-functionality-to-a-broken-keyboard-at-login/"><u>Step-by-Step Guide: Restoring Functionality to a Broken Keyboard at Login</u></a></li>
 </ul></div>
 

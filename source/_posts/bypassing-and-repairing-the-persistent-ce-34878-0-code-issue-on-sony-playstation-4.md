@@ -1,7 +1,7 @@
 ---
 title: Bypassing and Repairing the Persistent CE-34878-0 Code Issue on Sony PlayStation 4
-date: 2024-09-09T09:08:46.377Z
-updated: 2024-09-15T01:34:22.686Z
+date: 2024-10-21T18:35:08.287Z
+updated: 2024-10-24T20:43:51.420Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3790832d407.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Solution 2: Check the status of the Bluetooth service
 
  1) On your keyboard, press the **Windows logo key**   + **R**   key together to invoke the Run box.
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/4-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Set its startup type to **Automatic** . Then click **Apply >** **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a69b549cd2.png)
@@ -62,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
  6) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solution 3: Re-enable your Bluetooth driver software in Device Manager
 
@@ -79,22 +100,22 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/06/7-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) On your keyboard, press press the **Windows logo key**   + **I**   key together to invoke the Settings window. Check to see if the Bluetooth option is there.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 3: Reinstall your Bluetooth driver
@@ -123,18 +144,18 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a094b138e5e9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4-3) If you try the Free version, click **Update**  next to your flagged Bluetooth driver to automatically download and install the correct version of this driver.
 
  Or if you use the Pro version, click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (You get full support and a 30-day money back guarantee for the Pro version)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0a88694aef6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://bellelily.pxf.io/m5azgm) .**
@@ -144,10 +165,16 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3787eeafdcc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hopefully, you find this article helpful. If you have any questions, ideas or suggestions, feel free to leave a comment below.
@@ -168,5 +195,24 @@ thumbnail: https://thmb.techidaily.com/abfdd510a65bfb2974ae748187d91d88c050827e4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-xsplit-index-download-and-evaluation-guide/"><u>[New] 2024 Approved XSplit Index Download & Evaluation Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-champions-list-of-superior-gk-trivia-platforms-2024/"><u>[New] Champion's List of Superior GK Trivia Platforms, 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-uncover-the-top-12-best-flip-screen-vlogging-tools/"><u>2024 Approved Uncover the Top 12 Best Flip-Screen Vlogging Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/avoiding-common-drone-purchase-mistakes-a-checklist/"><u>Avoiding Common Drone Purchase Mistakes A Checklist</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-battles-solve-low-frame-rates-in-valorant/"><u>Boost Your Battles: Solve Low Frame Rates in VALORANT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-buzz-insightful-analysis-of-anticipated-prices-and-technical-specs-for-teslas-imminent-robotic-marvel/"><u>Decoding the Buzz: Insightful Analysis of Anticipated Prices and Technical Specs for Tesla's Imminent Robotic Marvel</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-restoring-proper-functionality-to-a-defective-touchpad-scroller/"><u>Expert Tips for Restoring Proper Functionality to a Defective Touchpad Scroller</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-your-windows-start-menu-back-to-normal-helpful-strategies-for-quick-repair/"><u>Getting Your Windows ˈStart Menu Back to Normal: Helpful Strategies for Quick Repair</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-quickly-fix-the-0x80n0f0922-error-during-windows-10-updates/"><u>How to Quickly Fix the 0X80n0f0922 Error During Windows 10 Updates</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transform-your-windows-10-pc-into-a-seamless-dlna-media-streaming-hub/"><u>How To Transform Your Windows 10 PC Into A Seamless DLNA Media Streaming Hub</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-sudden-stop/"><u>Keyboard Sudden Stop</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-app-glitches-the-ultimate-guide-with-9-proven-chatgpt-fixes/"><u>Overcome iPhone App Glitches: The Ultimate Guide with 9 Proven ChatGPT Fixes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resetting-windows-11-made-easy-step-by-step-instructions-and-tips/"><u>Resetting Windows 11 Made Easy: Step-by-Step Instructions & Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-aoc-monitor-problem-for-windows-10-expert-tips-and-fixes/"><u>Resolve Your AOC Monitor Problem for Windows 10: Expert Tips and Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-why-isnt-the-cut-copy-and-paste-function-working-on-windows-11/"><u>Resolved: Why Isn't the Cut, Copy, and Paste Function Working on Windows 11?</u></a></li>
+<li><a href="https://common-error.techidaily.com/trouble-free-battleye-installation-tips-what-worked-after-previous-failures/"><u>Trouble-Free BattlEye Installation Tips: What Worked After Previous Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-function-keys-issue-on-your-dell-pc/"><u>Ultimate Guide: Resolving the Function Keys Issue on Your Dell PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Making Your USB Drive Recognizable Again"
-date: 2024-09-11T02:03:23.002Z
-updated: 2024-09-15T13:29:07.912Z
+date: 2024-10-18T22:33:37.666Z
+updated: 2024-10-24T22:03:03.886Z
 tags:
   - win11
   - win10
@@ -49,24 +49,41 @@ If you’re connecting via WiFi, you’re more likely to have the servers not av
 1. Right click on the**network** **icon** at the bottom right corner on your desktop, and click**Open Network and Sharing Center** .![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f04abb90727.png) If you don’t see “**Open Network and Sharing Center** ” there, you can click**Open Network and Internet settings** , then click**Network and Sharing Center** in**Settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ade913312.png)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae1eb2cb9.jpg)
 2. Click**Change adapter** **settings** on the left.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 3. Right click on the**connection** you’re currently using, and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aea013ec0.jpg)
 4. Double click**Internet Protocol Version 4 (TCP/IPv4)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9aee9afd6b.jpg)
 5. In the new popup pane, select “**Use the following IP address** ” and “**Use the following DNS server addresses** “. Then enter the IP address and DNS server addresses manually. Click**OK** to save.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9afca02b69.jpg)
 6. Restart your computer and open Destiny 2 to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 It should have fixed the server issues in Destiny 2\. If not, don’t be upset. You can try the following solutions.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Use the Ethernet connection
 
@@ -76,10 +93,16 @@ It’s recommended to use the Ethernet connection, since playing games like Dest
 2. Click**Change adapter settings** on the left.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9ae4f8eabf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Right click on the**connections** that you’re not using, and select**Disable** .  
@@ -99,15 +122,16 @@ A missing or outdated network card driver will cause connection issues in your c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b08c06924.jpg)
 3. Click the**Update** button next to the flagged network adapter to automatically download the correct version of this driver (you can do this with the**FREE** version), then install the driver.Or click**Update All** to automatically download and install all the drivers that are missing or outdated (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc9b0e81ffe2.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Open Destiny 2 and see the servers not available error has been removed.
 
 ---
@@ -130,5 +154,23 @@ So there you have it – the four effective ways to fix “**Destiny 2 servers a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-construct-powerpoint-into-digital-film/"><u>[New] 2024 Approved Construct PowerPoint Into Digital Film</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-vimeo-cutting-suite-revealed/"><u>[New] Ultimate Vimeo Cutting Suite Revealed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-assessing-djis-flight-vision-tx-headset-performance-for-2024/"><u>[Updated] Assessing DJI's Flight Vision TX Headset Performance for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlined-image-enhancement-software/"><u>[Updated] Streamlined Image Enhancement Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-leading-gaming-headphones-for-an-immersive-experience/"><u>2024'S Leading Gaming Headphones for an Immersive Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-address-and-repair-a-livekernelevent-mishap-error-144-explained/"><u>Effective Strategies to Address and Repair a LiveKernelEvent Mishap: Error 144 Explained</u></a></li>
+<li><a href="https://article-posts.techidaily.com/enhancing-detail-in-scenes-using-kinemaster-zoom-features/"><u>Enhancing Detail in Scenes Using Kinemaster Zoom Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-dealing-with-unsuccessful-computer-startup-issues/"><u>Expert Tips for Dealing with Unsuccessful Computer Startup Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-elevated-disk-usage-caused-by-microsoft-compatibility-telemetry-on-windows-11/"><u>How to Fix Elevated Disk Usage Caused by Microsoft Compatibility Telemetry on Windows 11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instant-ig-glory-high-quality-covers-on-apple-and-android-devices/"><u>In 2024, Instant IG Glory High-Quality Covers on Apple and Android Devices</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/meow-moments-cam-joyful-pet-surveillance-for-everyone/"><u>Meow Moments Cam: Joyful Pet Surveillance for Everyone</u></a></li>
+<li><a href="https://common-error.techidaily.com/patched-pubgs-dxgidll-hiccup-with-ease/"><u>Patched PUBG's Dxgi.dll Hiccup with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-resolve-pvpnet-patchers-faulty-kernel-issue/"><u>Quick Solutions: Resolve PvP.net Patcher's Faulty Kernel Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-steps-to-turn-off-the-lock-screen-in-windows-11/"><u>Simple Steps to Turn Off the Lock Screen in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/system-crashes-without-reason-on-win10/"><u>System Crashes Without Reason on Win10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-solutions-successfully-resolving-the-mysterious-usb-connection-failure/"><u>Troubleshooting Solutions: Successfully Resolving the Mysterious USB Connection Failure</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Spacebar Key Malfunction in Windows 10? Find Out Why and How to Get It Working Again!
-date: 2024-10-12T02:52:24.499Z
-updated: 2024-10-18T21:16:17.173Z
+date: 2024-10-22T22:15:49.287Z
+updated: 2024-10-24T19:10:04.649Z
 tags:
   - win11
   - win10
@@ -42,25 +42,19 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 2. Type**control** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ed1505fee.png)
 3. Click**Ease of Access** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
 
@@ -76,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Enable the NumLock key
 
  Look on your keyboard for a key that says **NumLock** and make sure to enable the key.  
@@ -93,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
  If the NumLock key is enabled and the number keys still don’t work, you can try pressing the NumLock key for about**5 seconds** , which did the trick for some users.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -110,18 +104,33 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ebe32f70f.jpg)
 3. Click the**Update** button next to your keyboard to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Use a different user profile
 
@@ -132,13 +141,6 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
  When you’ve logged in to Windows with the new account, open Word or Notepad to test your keyboard numbers.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check hardware issues
 
@@ -165,18 +167,22 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-best-choice-in-motion-typography-designs/"><u>[Updated] Best Choice in Motion Typography Designs</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastery-unleashed-top-10-no-cost-mac-painting-tools/"><u>[Updated] Mastery Unleashed Top 10 No-Cost Mac Painting Tools</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-visionary-creatives-for-backdrops-pixelpioneers-realm/"><u>2024 Approved Visionary Creatives for Backdrops PixelPioneer's Realm</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-solution-to-total-war-rome-remastered-game-crashing-issues/"><u>Complete Solution To Total War Rome Remastered Game Crashing Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-unresponsive-left-click-on-computer-mice/"><u>Expert Tips for Fixing Unresponsive Left Click on Computer Mice</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-correctly-handle-the-failed-sign-in-error-on-windows-1011-user-profiles/"><u>How to Correctly Handle the Failed Sign-In Error on Windows 10/11 User Profiles?</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205734293-netflix-streaming-made-better-no-more-pauses-or-lag-fix-your-device-today/"><u>Netflix Streaming Made Better: No More Pauses or Lag – Fix Your Device Today</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/projecting-the-financial-footprint-of-music-video-shootouts/"><u>Projecting the Financial Footprint of Music Video Shootouts</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-and-easy-techniques-to-open-and-enjoy-your-ogm-media-content/"><u>Quick & Easy Techniques to Open and Enjoy Your OGM Media Content</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-turning-on-and-off-automatic-launch-programs-on-windows-abinary-operating-system/"><u>Step-by-Step Guide: Turning On and Off Automatic Launch Programs on Windows Abinary Operating System</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/strategies-for-longer-use-of-gopro-power-source-for-2024/"><u>Strategies for Longer Use of GoPro Power Source for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/streamlining-system-performance-addressing-high-resource-utilization-in-the-windows-drivers-framework/"><u>Streamlining System Performance: Addressing High Resource Utilization in the Window's Drivers Framework</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-event-id-1000-on-windows-os-7-8-and-10-solutions/"><u>Troubleshooting Guide for Event ID 1000 on Windows OS: 7, 8, and 10 Solutions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unleash-creativity-capturing-sims-4-adventures/"><u>[New] Unleash Creativity Capturing Sims 4 Adventures</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-compreeved-tips-on-using-vlcs-video-tools/"><u>2024 Approved Compreeved Tips on Using VLC's Video Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/8-proven-strategies-to-resolve-windows-11s-code-0x80f0922-update-issue/"><u>8 Proven Strategies to Resolve Windows 11'S Code 0X80ˈFː09:22 Update Issue</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/alternative-to-cyberlink-a-comparative-study-of-recording-software/"><u>Alternative to Cyberlink A Comparative Study of Recording Software</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-driverpowerstatefailure-a-complete-repair-manual/"><u>Bypassing DRIVER_POWER_STATE_FAILURE: A Complete Repair Manual</u></a></li>
+<li><a href="https://common-error.techidaily.com/cross-platform-solutions-for-the-infamous-event-id-1000-in-windows-os-7-8-and-10-edition/"><u>Cross-Platform Solutions for the Infamous Event ID 1000 in Windows OS: 7, 8 & 10 Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/cyclic-redundancy-check-failure-explained-causes-and-solutions-for-data-mistakes/"><u>Cyclic Redundancy Check Failure Explained: Causes and Solutions for Data Mistakes</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203800348-easily-repair-lenovos-unresponsive-fn-key-with-these-quick-tips/"><u>Easily Repair Lenovo's Unresponsive Fn Key with These Quick Tips!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-a78withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo A78with/without a PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/kickstarting-with-a-gopro-unbox-the-perfect-add-ons-for-2024/"><u>Kickstarting with a GoPro Unbox the Perfect Add-Ons for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204336445-mastering-the-red-screen-dilemma-expert-tips-and-tricks-unveiled/"><u>Mastering the Red Screen Dilemma: Expert Tips and Tricks Unveiled</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movavis-quick-guide-transform-snd-audio-clips-into-high-quality-wav-no-cost-required/"><u>Movavi's Quick Guide: Transform SND Audio Clips Into High-Quality WAV - No Cost Required</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-streaming-video-editor-convert-your-m4v-files-into-swf-format-by-movavi-free-of-cost/"><u>Online Streaming Video Editor - Convert Your M4V Files Into SWF Format by Movavi, Free of Cost!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-zero-fee-image-upgrade-for-smartphonespcs-for-2024/"><u>Prime Zero-Fee Image Upgrade for Smartphones/PCs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-your-ultimate-guide-to-computer-components-and-performance/"><u>Tom's Tech Hub: Your Ultimate Guide to Computer Components and Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/total-war-rome-remastered-crashing-no-more-discover-the-fix-here/"><u>Total War: Rome Remastered Crashing No More? Discover The Fix Here</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-solving-high-disk-usage-caused-by-microsoft-compatibility-telemetry-on-windows-11-pcs/"><u>Troubleshooting and Solving High Disk Usage Caused by Microsoft Compatibility Telemetry on Windows 11 PCs</u></a></li>
 </ul></div>
 

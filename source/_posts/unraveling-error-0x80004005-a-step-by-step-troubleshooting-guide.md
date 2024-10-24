@@ -1,7 +1,7 @@
 ---
 title: Unraveling Error 0X80004005 - A Step-by-Step Troubleshooting Guide
-date: 2024-09-12T04:47:27.323Z
-updated: 2024-09-15T15:18:00.670Z
+date: 2024-10-19T22:20:56.314Z
+updated: 2024-10-24T18:02:50.160Z
 tags:
   - win11
   - win10
@@ -40,13 +40,34 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -62,6 +83,14 @@ Here’s how to do it:
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
@@ -78,25 +107,19 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
-5. Click **OK**   to apply the changes in the windows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
+5. Click **OK**   to apply the changes in the windows.
 
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
@@ -131,5 +154,24 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-avoiding-obscurity-tips-for-staff-picked-videos-at-vimeo/"><u>[New] In 2024, Avoiding Obscurity Tips for Staff-Picked Videos at Vimeo</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-uniting-obs-and-zoom-a-compreehensive-video-guide/"><u>[New] Uniting OBS and Zoom A Compreehensive Video Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-engage-grow-and-rise-triple-threat-tactics-for-facebook-pages-for-2024/"><u>[Updated] Engage, Grow, and Rise Triple Threat Tactics for Facebook Pages for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-inside-tiktoks-newly-emerged-fads-and-feats/"><u>2024 Approved Inside TikTok’s Newly Emerged Fads and Feats</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-steamapi64dll-gap/"><u>Addressing Steam_api64.dll Gap</u></a></li>
+<li><a href="https://common-error.techidaily.com/battleye-service-install-errors-now-corrected/"><u>BattlEye Service Install Errors - Now Corrected!</u></a></li>
+<li><a href="https://common-error.techidaily.com/dell-laptop-fn-key-problem-heres-how-to-get-it-working-again/"><u>Dell Laptop Fn-Key Problem? Here’s How to Get It Working Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207813194-error-1068-troubleshooting-for-windows-users-quick-fixes-inside/"><u>Error 1068 Troubleshooting for Windows Users - Quick Fixes Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-message-system-process-failed-for-tibrtipsexe-a-step-by-step-repair-on-windows-11-7-and-8/"><u>Error Message 'System Process Failed' For TIBRTIPS.EXE: A Step-by-Step Repair on Windows 11, 7 & 8</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-free-qualcomm-atheros-ar938x-drivers-in-just-a-few-clicks/"><u>Get Your [FREE] Qualcomm Atheros AR938X Drivers in Just a Few Clicks!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-overactive-msmpengexe-leading-to-high-cpu-usage-on-windows-10-guide/"><u>How to Fix Overactive MsMpEng.exe Leading to High CPU Usage on Windows 10 [GUIDE]</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-xiaomi-redmi-note-12-pro-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Xiaomi Redmi Note 12 Pro 5G FRP</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-honor-70-lite-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Honor 70 Lite 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/er-roundup-2023s-top-free-video-editing-apps/"><u>Premier Roundup 2023'S Top Free Video Editing Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/process-paused-command-not-executed/"><u>Process Paused: Command Not Executed</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-inactive-mouse-dilemma-tips-for-reviving-a-non-working-usb-device/"><u>Solve Your Inactive Mouse Dilemma: Tips for Reviving a Non-Working USB Device</u></a></li>
+</ul></div>
 

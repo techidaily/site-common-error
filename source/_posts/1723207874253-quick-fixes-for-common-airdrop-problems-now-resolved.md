@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Common AirDrop Problems – Now Resolved!
-date: 2024-09-11T03:04:27.579Z
-updated: 2024-09-15T08:07:28.141Z
+date: 2024-10-17T19:34:23.053Z
+updated: 2024-10-24T16:56:26.647Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Set microphone as default device
 
  Chances are your mic has not been set as the default device, so the sound won’t be played through it. To set your mic as default, you should perform the following procedure:
@@ -63,6 +70,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select**System Sounds** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-4.png)
@@ -70,6 +84,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  3) Go to the **Recording** tab, right-click an empty area inside the devices’ display list, and then tick **Show Disabled Devices** to ensure that your mic device shows up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-103.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click to highlight your microphone, then click**Set Default > Default Device** .
 
@@ -86,6 +107,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
  6) On the **Levels** tab, see if your mic is muted. In case it is (as shown in the following screenshot), click on the little speaker icon to unmute your mic. On completion, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-116.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Click**OK** to save all the changes you’ve made.
 
@@ -107,6 +135,13 @@ If you got the mic-not-working issue after having Windows Updates, it’s possib
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click your mic and select**Disable device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/image-1.png)
@@ -120,10 +155,10 @@ Now check to see your mic is back on track.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Modify privacy settings
@@ -139,13 +174,6 @@ Now check to see your mic is back on track.
  Below you’ll see another toggle for **Allow apps to access your microphone** . Also turn it**on** if it’s been set to Off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-368.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Scroll down and head over to **Choose which apps can access your microphone** . Make sure all the apps you need can access the mic.
 
@@ -172,5 +200,24 @@ If this fix doesn’t work, please proceed to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-enhancing-visibility-the-power-of-strategic-facebook-giveaways-for-2024/"><u>[New] Enhancing Visibility The Power of Strategic Facebook Giveaways for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-insider-take-on-tiktoks-15-hottest-tracks-for-2024/"><u>[New] Insider Take on TikTok’s 15 Hottest Tracks for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-pinnacle-of-pc-clicker-fun-top-12-must-try-games/"><u>[New] Pinnacle of PC Clicker Fun Top 12 Must-Try Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210732785-solved-the-hosted-network-couldnt-be-started-on-windows-10/"><u>[SOLVED] “The Hosted Network Couldn’t Be Started” On Windows 10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smart-scale-for-visual-content/"><u>2024 Approved Smart Scale for Visual Content</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-samsung-galaxy-a05s-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Samsung Galaxy A05s Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-why-the-lenovo-thinkpad-x12-detachable-is-the-go-to-choice-for-2-in-1-devices-with-unrivaled-keyboard-quality/"><u>Discover Why the Lenovo ThinkPad X12 Detachable Is the Go-To Choice for 2-in-1 Devices with Unrivaled Keyboard Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-windows-users-with-unresponsive-usb-input-gear-mice-and-keyboards-made-functional-again/"><u>Expert Solutions for Windows ^Users with Unresponsive USB Input Gear – Mice and Keyboards Made Functional Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-solutions-for-powerless-devices-overcoming-the-no-battery-found/"><u>Fast Solutions for Powerless Devices - Overcoming the 'No Battery Found'</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-frozen-windows-10-screen-expert-advice-needed/"><u>How to Fix a Frozen Windows 10 Screen - Expert Advice Needed!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-solve-unseen-devices-problem-with-bluetooth-on-windows-11-system/"><u>How to Solve Unseen Devices Problem with Bluetooth on Windows 11 System</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ignite-your-creative-journey-blending-photography-and-videos-through-pixiz/"><u>Ignite Your Creative Journey Blending Photography & Videos Through Pixiz</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mobile-video-mastery-top-split-screen-apps-for-iphone-and-android-for-2024/"><u>New Mobile Video Mastery Top Split Screen Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-sound-cutting-problems-on-the-logitech-g930-wireless-earbuds/"><u>Overcoming Sound Cutting Problems on the Logitech G930 Wireless Earbuds</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-ethernet-malfunction-on-windows-117/"><u>Step-by-Step Guide: Resolving Ethernet Malfunction on Windows 11/7</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ling-the-secrets-of-iphones-video-loops-for-2024/"><u>Unveiling the Secrets of iPhone's Video Loops for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-surprises-tackling-unplanned-boot-scenarios/"><u>Windows 10 Surprises: Tackling Unplanned Boot Scenarios</u></a></li>
+</ul></div>
 

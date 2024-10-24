@@ -1,7 +1,7 @@
 ---
 title: "DIY Repair: Get Your Astro A40 Microphone Up and Running Again"
-date: 2024-10-11T23:32:15.190Z
-updated: 2024-10-19T01:38:42.686Z
+date: 2024-10-17T22:08:26.889Z
+updated: 2024-10-24T18:16:30.611Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
 2. **[Restart your audio service](#a)**
 3. **[Update your audio driver](#b)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix1: Run the audio troubleshooter
 
 **What is the audio troubleshooter?**
@@ -43,25 +50,11 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-437.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click**Next** and wait for the scans to complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-446.png)
 
  Hope this worked for you. If Windows fails to detect your issue, read on the try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Restart your audio services
 
@@ -71,20 +64,33 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-424.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Type **services.msc** , then press the **Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-426.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click**Windows Audio** , then **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-428.png)
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Set the**Startup type** to**Automatic** , then click**OK** .
 
@@ -102,18 +108,18 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-436.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Reboot your computer.
 
 **8)** After your computer restarts, play an audio file to test your issue.
 
  Hope the audio works correctly now. If it didn’t, move on to the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -147,16 +153,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-281.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -184,24 +190,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-tips-for-gaining-attention-via-snapchat-star/"><u>[New] Tips for Gaining Attention via Snapchat Star</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-logildadll-missing-issue-quickly-and-easily/"><u>[Solved] LogiLDA.dll Missing Issue | Quickly & Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-windows-11-wont-sleep-issue/"><u>[Solved] Windows 11 Won't Sleep Issue</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-beginners-path-to-compiling-a-youtube-playlist/"><u>[Updated] In 2024, A Beginner's Path to Compiling a YouTube Playlist</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-elite-laughter-photo-composer-tool/"><u>2024 Approved Elite Laughter Photo Composer Tool</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-uncovering-the-top-8-genuine-video-advancement-solutions/"><u>2024 Approved Uncovering the Top 8 Genuine Video Advancement Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-ntoskrnlexes-usage-spikes/"><u>Diagnosing and Resolving ntoskrnl.exe's Usage Spikes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/essential-gamer-perks-lowest-priced-monitors-and-keyboards/"><u>Essential Gamer Perks Lowest Priced Monitors & Keyboards</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-when-windows-cant-reach-the-event-service-platform/"><u>How to Resolve When Windows Can't Reach the Event Service Platform</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Motorola Edge 2023? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/independent-filming-freedoms-agreement-for-2024/"><u>Independent Filming Freedoms Agreement for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-non-interactive-screens-solutions-for-absence-of-touch-and-keyboard-controls/"><u>Overcoming Non-Interactive Screens: Solutions for Absence of Touch & Keyboard Controls</u></a></li>
-<li><a href="https://common-error.techidaily.com/reappearing-the-disappeared-sound-management-icon-in-windows-10-a-comprehensive-visual-guide/"><u>Reappearing the Disappeared Sound Management Icon in Windows 10: A Comprehensive Visual Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-player-cannot-load-game-files-on-windows-with-simple-tricks/"><u>Solve 'Player Cannot Load Game Files' On Windows with Simple Tricks</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-playback-problems-why-wont-my-dvd-work-on-windows-heres-help/"><u>Solving Playback Problems: Why Won't My DVD Work on Windows? Here’s Help!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-installation-of-microsoft-copilot-for-macos-users/"><u>Step-by-Step Installation of Microsoft Copilot for macOS Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-poco-x6-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Poco X6 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/two-effective-techniques-to-transform-your-youtube-videos-into-ogg-format/"><u>Two Effective Techniques to Transform Your YouTube Videos Into OGG Format</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-wont-my-dvd-play-effective-remedies-for-common-windows-hiccups/"><u>Why Won't My DVD Play? Effective Remedies for Common Windows Hiccups</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/accelerate-your-game-expert-tips-on-star-wars-battlefront-ii-shader-enhancement/"><u>Accelerate Your Game: Expert Tips on Star Wars Battlefront II Shader Enhancement</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-itel-a60-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Itel A60?</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-to-fix-the-windows-update-failed-with-code-0x8024002e/"><u>Effective Solutions to Fix the 'Windows Update Failed with Code 0X8024002E'</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-broken-to-secure-fixing-problematic-windows-update-processes/"><u>From Broken to Secure: Fixing Problematic Windows Update Processes</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-undetected-bluetooth-gadgets-in-windows-10/"><u>How to Resolve Undetected Bluetooth Gadgets in Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-windows-system-fresh-usb-30-ethernet-driver-software/"><u>How to Update Your Windows System: Fresh USB 3.0 Ethernet Driver Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-your-vr-experience-in-depth-look-at-the-budget-friendly-arcshell-ar-5/"><u>Maximize Your VR Experience: In-Depth Look at the Budget-Friendly Arcshell AR-5</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-windows-entry-point-missing-error-fix/"><u>Step-by-Step Solution for Windows 'Entry Point Missing' Error Fix</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-potential-risks-using-chatgpt-for-malware-programming-explained/"><u>The Potential Risks: Using ChatGPT for Malware Programming Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-concerns-the-risks-of-relying-on-chatgpt-for-health-consultations/"><u>Top 5 Concerns: The Risks of Relying on ChatGPT for Health Consultations</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-responsive-lenovo-mouse-pad-in-windows-operating-systems/"><u>Troubleshooting Non-Responsive Lenovo Mouse Pad in Windows Operating Systems</u></a></li>
 </ul></div>
 

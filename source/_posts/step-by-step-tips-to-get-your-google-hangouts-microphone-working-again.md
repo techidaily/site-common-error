@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tips to Get Your Google Hangouts Microphone Working Again
-date: 2024-10-13T01:03:31.932Z
-updated: 2024-10-19T00:13:04.541Z
+date: 2024-10-23T18:21:11.313Z
+updated: 2024-10-24T19:41:37.841Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
@@ -55,6 +48,13 @@ Here’s how to do it:
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-35.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
@@ -74,23 +74,31 @@ Here’s how to do it:
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -103,13 +111,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c30ff817bf.jpg)
 2. Click the **Recording** tab, then click on **your microphone device** and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c319e23198.jpg)  
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 3. Click on **your microphone device again** and click**Properties** .  
@@ -117,10 +118,10 @@ To do so:
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
@@ -162,22 +163,22 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-50plus-best-practices-in-video-text-design/"><u>[New] 50+ Best Practices in Video Text Design</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-samsungs-advanced-2023-bd-j5900-reviewed-here/"><u>[New] Samsung's Advanced 2023 BD-J5900 Reviewed Here</u></a></li>
-<li><a href="https://common-error.techidaily.com/0x80073712-error-code-in-windows-10-solved/"><u>0X80073712 Error Code in Windows 10 [SOLVED]</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/candids-canvas-transforming-photos-with-editing-tips/"><u>Candid's Canvas Transforming Photos with Editing Tips</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/complete-evaluation-of-anker-roav-dashcam-c1-why-it-stands-out-in-its-class/"><u>Complete Evaluation of Anker Roav DashCam C1: Why It Stands Out in Its Class</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-a-blueprint-for-locating-captivating-pexel-visuals-for-2024/"><u>Crafting a Blueprint for Locating Captivating Pexel Visuals for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-shutdown-black-screen/"><u>GPU Shutdown: Black Screen</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-windows-update-problem-0x80070643-for-uninterrupted-pc-performance/"><u>How to Overcome Windows Update Problem 0X80070643 for Uninterrupted PC Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/hp-laptop-keyboard-woes-heres-how-to-get-your-keys-working-again-in-no-time/"><u>HP Laptop Keyboard Woes? Here's How to Get Your Keys Working Again in No Time</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oneplus-ace-2v-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your OnePlus Ace 2V Phone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/innovation-alert-noctuas-latest-tech-pumpless-aio-liquid-cooler-with-advanced-evaporation-method/"><u>Innovation Alert: Noctua's Latest Tech - Pumpless AIO Liquid Cooler with Advanced Evaporation Method</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-error-code-0x800705b4-fixes-for-seamless-windows-11-updates/"><u>Mastering Error Code 0X800705b4 Fixes for Seamless Windows 11 Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-unresponsive-right-click-problem-on-windows-11-pcs/"><u>Resolving the Unresponsive Right-Click Problem on Windows 11 PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/tech-support-guide-best-practices-for-dealing-with-a-sluggish-windows-11-experience/"><u>Tech Support Guide: Best Practices for Dealing with a Sluggish Windows 11 Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-fix-a-non-functional-corsair-hs50-headset-microphone/"><u>Troubleshooting Steps to Fix a Non-Functional Corsair HS50 Headset Microphone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210744820-windows-10-microphone-issues-heres-how-you-can-resolve-them/"><u>Windows 10 Microphone Issues? Here's How You Can Resolve Them!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-the-power-of-pip-on-modern-edge-browser/"><u>[New] Explore the Power of PIP on Modern Edge Browser</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-boost-engagement-syncing-youtube-and-facebook-for-2024/"><u>[Updated] Boost Engagement Syncing YouTube and Facebook for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-posting-tiktok-content-on-facebook-a-step-by-step-guide-for-2024/"><u>[Updated] Posting TikTok Content on Facebook A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-incorporating-creative-effects-into-your-zoom-meetings-step-by-step/"><u>2024 Approved Incorporating Creative Effects Into Your Zoom Meetings Step-by-Step</u></a></li>
+<li><a href="https://common-error.techidaily.com/beat-the-update-blues-fixing-error-code-0x8024002e-on-your-windows-system-solved/"><u>Beat the Update Blues: Fixing Error Code 0X8024002e on Your Windows System [SOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminating-the-persistent-google-chrome-system-crash-hoax-tips-and-tricks/"><u>Eliminating the Persistent Google Chrome System Crash Hoax: Tips & Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-solutions-for-overcoming-secure-socket-layer-ssl-issues-on-firefox-platforms/"><u>Expert Solutions for Overcoming Secure Socket Layer (SSL) Issues on Firefox Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-display-after-it-stops-responding-and-recovers/"><u>Expert Tips to Restore Display After It Stops Responding and Recovers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gpt-evolution-the-top-10-personalized-modifications-for-conversation/"><u>GPT Evolution: The Top 10 Personalized Modifications for Conversation</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-an-io-device-error/"><u>How to Fix an I/O Device Error</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-record-google-meet-on-phone/"><u>How to Record Google Meet on Phone?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-websites-to-increase-video-viewership/"><u>Prime Websites to Increase Video Viewership</u></a></li>
+<li><a href="https://win11.techidaily.com/revisiting-windows-standard-performance-routine/"><u>Revisiting Windows Standard Performance Routine</u></a></li>
+<li><a href="https://driver-install.techidaily.com/speedy-updates-revolutionizing-your-windows-10-via-new-acer-drivers/"><u>Speedy Updates: Revolutionizing Your Windows 10 via New Acer Drivers</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-solutions-fixing-the-frozen-taskbar-on-windows-11/"><u>Top Solutions: Fixing the Frozen Taskbar on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-solutions-overcome-windows-10-error-code-0x800f0922-during-updates/"><u>Top Solutions: Overcome Windows 10 Error Code 0X800F0922 During Updates</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-warframe-update-failed-error/"><u>Troubleshooting Steps for 'Warframe Update Failed' Error</u></a></li>
 </ul></div>
 

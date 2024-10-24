@@ -1,7 +1,7 @@
 ---
 title: "Untangle 'Specified Component Missing' Problems: Tips and Solutions for Quick Fixes"
-date: 2024-10-12T18:19:21.634Z
-updated: 2024-10-19T01:11:50.162Z
+date: 2024-10-20T21:59:54.406Z
+updated: 2024-10-24T20:44:22.738Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check for hardware issues
 
 1. **Change a different port**. Sometimes this **Mouse keeps disconnecting** problem occurs simply because you’ve plugged your mouse in a faulty USB port. You can plug it out and insert in another port to see if it fixes the problem.
@@ -47,10 +40,10 @@ Here are 3 fixes that have helped other users resolve the mouse keeps disconnect
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Change power management settings for USB Root Hub
@@ -62,26 +55,20 @@ Tweaking the properties in **USB Root Hub** devices is another proven effective 
 2. Double-click on **Universal Serial Bus controllers** \> **the first** item of **USB Root Hub**.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a8b859168.jpg)
 3. CLICK **the box** before **Allow the computer to turn off this device to save power** whether it’s checked or unchecked. Then click **OK**.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
-You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)  
+You might also need to do this for **Bluetooth HID Device** and **Microsoft Hardware Bluetooth Device** if you have a Microsoft mouse.
 
 4. Check if this fixes the **mouse keeps disconnecting** issue. If yes, then great! If the issue still happens, you should try **Fix 3**, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -95,8 +82,24 @@ You can update your drivers automatically with either the [**Free**](https://too
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 3. Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b506f17ccfe2.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check to see if the mouse keeps disconnecting issue has been solved.
 
@@ -123,18 +126,21 @@ Hopefully you have successfully resolved the mouse keeps disconnecting problem b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-master-the-art-of-pc-game-memories-with-these-6-steps-for-2024/"><u>[New] Master the Art of PC Game Memories with These 6 Steps for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-elevate-your-portraits-with-hdr-techniques-for-2024/"><u>[Updated] Elevate Your Portraits with HDR Techniques for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cutting-edge-video-filmmaking-select-smartphones-with-pinnacle-ois-tech/"><u>Cutting-Edge Video Filmmaking Select Smartphones With Pinnacle OIS Tech</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210045464-fix-windows-10-sound-settings-issue-solved/"><u>Fix Windows 10 Sound Settings Issue - Solved</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-for-common-problem-non-responsive-keyboard-buttons/"><u>Fixes for Common Problem: Non-Responsive Keyboard Buttons</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-appropriate-driver-not-installed-error-on-lenovo-devices/"><u>How to Resolve 'Appropriate Driver Not Installed' Error on Lenovo Devices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-uncovering-the-best-unnoticed-speech-to-text-on-mac/"><u>In 2024, Uncovering the Best Unnoticed Speech to Text on Mac</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/inside-the-tech-evaluating-webcam-videotaping-devices-for-2024/"><u>Inside the Tech Evaluating WebCam Videotaping Devices for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/professional-insights-on-the-logitech-c920-pro-hd-camcorder-a-comprehensive-guide/"><u>Professional Insights on the Logitech C920 Pro HD Camcorder: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-your-apps-startup-problem-the-ultimate-guide-to-handling-the-0xc00ab7-error/"><u>Solve Your App's Startup Problem: The Ultimate Guide to Handling the 0Xc00ab7 Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-repairing-the-print-scrn-key-in-windows-10-and-11/"><u>Step-by-Step Guide to Repairing the Print Scrn Key in Windows 10 and 11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/syntax-in-learning-new-languages/"><u>Syntax in Learning New Languages</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-complete-fixing-a-broken-igfxem-component/"><u>Troubleshooting Complete: Fixing a Broken IgfxEM Component</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlocking-facebooks-secrets-an-introductory-guide-for-2024/"><u>[Updated] Unlocking Facebook's Secrets An Introductory Guide for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-arcane-acoustics-how-legit-is-the-vocal-transformation-application-look-elsewhere/"><u>2024 Approved Arcane Acoustics How Legit Is the Vocal Transformation Application? Look Elsewhere</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-joy-of-low-cost-drone-flight-with-symas-s111g-model/"><u>Discovering the Joy of Low-Cost Drone Flight with Syma's S111G Model</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722969313242-effortless-installation-of-wacom-intuos-3-drivers-on-windows-os-ensure-optimal-performance/"><u>Effortless Installation of Wacom Intuos 3 Drivers on Windows OS - Ensure Optimal Performance!</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-resolve-the-there-was-an-issue-error-when-restoring-windows-10/"><u>How to Successfully Resolve the 'There Was an Issue' Error When Restoring Windows 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c32-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Nokia C32 Phone without Any Data Loss</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-practical-ways-to-preserve-your-instagram-stories/"><u>In 2024, Practical Ways to Preserve Your Instagram Stories</u></a></li>
+<li><a href="https://common-error.techidaily.com/issue-resolved-how-to-repair-broken-numeric-keys-on-a-computer-keyboard/"><u>Issue Resolved: How to Repair Broken Numeric Keys on a Computer Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/masterful-scrolling-techniques/"><u>Masterful Scrolling Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-device-hung-error-dxgi-with-simple-techniques/"><u>Overcoming the Device Hung Error (DXGI) with Simple Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-windows-signature-validation-failures/"><u>Remedy for Windows Signature Validation Failures</u></a></li>
+<li><a href="https://common-error.techidaily.com/simplifying-your-connection-ultimate-usb-tethering-tips-for-windows-10/"><u>Simplifying Your Connection: Ultimate USB Tethering Tips for Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-found-for-inaccessible-0x-memory-write-error-at-specific-reference-point-0x/"><u>Solution Found for Inaccessible 0X Memory Write Error at Specific Reference Point (0X)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-pros-and-cons-of-prompt-engineering-as-a-job-understanding-its-legitimacy-with-key-indicators/"><u>The Pros and Cons of Prompt Engineering as a Job: Understanding Its Legitimacy with Key Indicators</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-10-fix-the-non-functional-touchpad-scroll-problem/"><u>Troubleshooting Windows 10: Fix the Non-Functional Touchpad Scroll Problem</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-10-popular-cartoon-characters-that-should-top-your-list-2023-updated/"><u>Updated 2024 Approved 10 Popular Cartoon Characters That Should Top Your List 2023 Updated</u></a></li>
 </ul></div>
 

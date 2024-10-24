@@ -1,7 +1,7 @@
 ---
 title: Corsair HS50 Not Working? Here's How to Get Your Mic Up and Running Again
-date: 2024-09-09T20:25:14.989Z
-updated: 2024-09-15T07:41:10.821Z
+date: 2024-10-20T18:36:00.964Z
+updated: 2024-10-24T19:50:39.114Z
 tags:
   - win11
   - win10
@@ -42,15 +42,37 @@ Before you start:
 2. [Change the audio settings on your PC](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your audio driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Enable Microphone in Windows Settings
 
  You should allow your Windows 10 system and your application to access your headset microphone before you can use it. To check this:
 
 1. Press the**Windows logo key** +**I** together. Then click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2-7.jpg)
 2. Click**Microphone** in the left panel.![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.1-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click**Change** , then make sure the **Microphone access for this device** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.2-2.jpg)
 4. Make sure **Allow apps to access your microphone** is turned **on** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2.3.jpg)
 5. Try your Corsair HS50 mic and see if the problem is solved or not.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -62,27 +84,27 @@ Before you start:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/1-7.jpg)
 2. Click the**Recording** tab, and check if your microphone is set as default. (There will be a green checkmark next to it and the Set Default button is grayed out.) If your mic is not the default device, click**Set Default** to set it as default.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** The device name might not be Microphone and the icon might not be the shape of a Microphone in your computer.
 3. Click your default microphone then click the**Properties** button.![](https://images.drivereasy.com/wp-content/uploads/2019/05/a.jpg)
 4. Click the**Levels** tab, then drag the slider towards the largest value.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can drag the slider to unmute and adjust your microphone.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/a4.jpg)
 5. Click**OK** to save your settings.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that the microphone of your headset is set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
@@ -100,19 +122,6 @@ Before you start:
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/05/a5.jpg)
 3. Click the**Update** button next to the flagged audio driver to automatically download and install the correct version of that driver (you can do this with the **FREE** version).  
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2019/05/a6-1.jpg)
 4. After updating the driver, restart your computer, then try your Corsair HS50 mic and see if your problem is solved or not.
@@ -140,5 +149,26 @@ Before you start:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-how-to-select-and-download-the-right-audio-for-your-video-for-2024/"><u>[New] How to Select and Download the Right Audio for Your Video for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-10-final-cut-pro-plug-ins/"><u>[Updated] 2024 Approved Top 10 Final Cut Pro Plug-Ins</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-stifled-expression-sudden-copyright-breach/"><u>[Updated] Stifled Expression Sudden Copyright Breach</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/amd-radeon-graphics-driver-update-version-2410/"><u>AMD Radeon Graphics Driver Update Version 24.10</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-solving-the-problem-of-excessive-netsvc-network-usage-by-svchostexe/"><u>Comprehensive Guide: Solving the Problem of Excessive NETsvc Network Usage by svchost.exe</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-solutions-for-persistent-sleep-issues-on-your-desktoplaptop/"><u>Effortless Solutions for Persistent Sleep Issues on Your Desktop/Laptop</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211013393-expert-tips-to-get-your-keyboards-missing-letters-back-on-track-for-windows-10-and-11-users/"><u>Expert Tips to Get Your Keyboard's Missing Letters Back on Track for WINDOWS 10 & 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-bad-module-info-error-game-crash/"><u>FIX Bad Module Info Error Game Crash</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-eliminate-slow-response-time-from-your-windows-10-keyboard/"><u>How To Eliminate Slow Response Time From Your Windows 10 Keyboard</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-secure-quick-and-simple-screenshot-techniques-for-w8-users/"><u>In 2024, Secure, Quick & Simple Screenshot Techniques for W8 Users</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/leading-ai-voice-synthesis-applications-the-ultimate-guide/"><u>Leading AI Voice Synthesis Applications: The Ultimate Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/local-security-patch-applied-protection-restored/"><u>Local Security Patch Applied – Protection Restored</u></a></li>
+<li><a href="https://common-error.techidaily.com/mending-opencl-dll-access-errors/"><u>Mending OpenCL DLL Access Errors</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/navigating-the-basics-of-zoom-meeting-setup/"><u>Navigating the Basics of Zoom Meeting Setup</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-combine-wmv-videos-without-cost-top-free-tools/"><u>New 2024 Approved Combine WMV Videos Without Cost Top Free Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-best-websites-for-game-scoring-boost/"><u>The Ultimate Guide: Best Websites for Game Scoring Boost</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-reset-issues-for-windows-windows-11-fixing-errors-successfully/"><u>Troubleshooting Reset Issues for Windows 지원 [Windows 11]: Fixing Errors Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/updating-to-resolve-non-supportive-refresh-rates-in-visual-outputs/"><u>Updating to Resolve Non-Supportive Refresh Rates in Visual Outputs</u></a></li>
+</ul></div>
 

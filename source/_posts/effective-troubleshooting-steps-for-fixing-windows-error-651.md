@@ -1,7 +1,7 @@
 ---
 title: Effective Troubleshooting Steps for Fixing Windows Error 651
-date: 2024-10-17T22:21:03.807Z
-updated: 2024-10-18T21:36:39.447Z
+date: 2024-10-23T22:35:54.222Z
+updated: 2024-10-24T22:10:15.579Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 2. [**Temporarily disable your antivirus**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your device drivers**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Method 1: Run your Steam client in compatibility mode
 
  Your Steam client may not be working well because of compatibility issues. And you should change the compatibility mode setting for your Steam client.
@@ -51,18 +44,31 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6c97719d17.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Compatibility** tab, check**Run this program in compatibility** **mode** , and then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6ca563d08d.png)
 
-**4)**  Double click**Steam** (or**Steam.exe** ) to run the Steam client. If this method works for you, you won’t see this error again.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**4)**  Double click**Steam** (or**Steam.exe** ) to run the Steam client. If this method works for you, you won’t see this error again.
 
 ##  Method 2: Temporarily disable your antivirus
 
@@ -73,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Method 3: Update your device drivers
@@ -93,16 +99,16 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6ea20dde47.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to each of your devices to download the latest and correct driver for it. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ad6edacb29c1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Restart your computer and run your Steam client. Then check to see if this method helps you get rid of your error.
 
@@ -124,17 +130,18 @@ thumbnail: https://thmb.techidaily.com/dccea8e74312ef3978115e47791b42d8d3af59dde
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-grasping-video-aspect-ratios-a-beginners-tale/"><u>[New] Grasping Video Aspect Ratios A Beginner’s Tale</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-elite-playlist-compiler-android-edition/"><u>[Updated] 2024 Approved Elite Playlist Compiler Android Edition</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-chatcam-save-extractor-for-facebook/"><u>2024 Approved ChatCam Save Extractor for Facebook</u></a></li>
-<li><a href="https://common-error.techidaily.com/battleye-setup-issues-resolved-successful-configuration-guide/"><u>BattlEye Setup Issues Resolved: Successful Configuration Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-that-annoying-bright-crimson-hue-solutions-for-windows-11-users/"><u>Fixing That Annoying Bright Crimson Hue: Solutions for Windows 11 Users</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-dominant-alternatives-to-game-bars-recorder-functionality/"><u>In 2024, Dominant Alternatives to Game Bar's Recorder Functionality</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-11-pro-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 11 Pro Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/step-by-step-guide-converting-mov-videos-into-compatible-mp4-format/"><u>Step-by-Step Guide: Converting MOV Videos Into Compatible MP4 Format</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-selection-elite-raspberry-pi-hardware-for-the-year-2024/"><u>The Ultimate Selection: Elite Raspberry Pi Hardware for the Year 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-nonfunctional-laptop-mousepads-in-windows-operating-systems-solved/"><u>Troubleshooting Nonfunctional Laptop Mousepads in Windows Operating Systems (Solved)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-dealing-with-non-operational-gpu-integrated-modules/"><u>Troubleshooting Tips for Dealing With Non-Operational GPU Integrated Modules</u></a></li>
-<li><a href="https://common-error.techidaily.com/warframe-download-errors-demystified-successfully-updating-your-game/"><u>Warframe Download Errors Demystified – Successfully Updating Your Game</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-surge-viral-traction-via-youtube-short-content/"><u>[New] In 2024, Surge Viral Traction via YouTube Short Content</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-vlc-playback-mastery-secret-tips-and-tricks-revealed/"><u>[New] VLC Playback Mastery Secret Tips and Tricks Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-teredo-is-unable-to-qualify/"><u>[SOLVED] Teredo Is Unable to Qualify</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x802n200d-on-windows-update-a-detailed-solution-guide-to-restore-functionality/"><u>Error 0X802n200d on Windows Update: A Detailed Solution Guide to Restore Functionality</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-honor-magic-6-lite-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Honor Magic 6 Lite to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/laptop-video-edits-going-off-inshot/"><u>Laptop Video Edits Going Off-Inshot</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-user-profile-service-failure-during-login-on-windows-1011/"><u>Solving User Profile Service Failure During Login on Windows 10/11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/superior-live-media-transmission-tools/"><u>Superior Live Media Transmission Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-essential-guide-fast-tracking-subtitle-creation-for-your-fb-posts/"><u>The Essential Guide Fast-Tracking Subtitle Creation for Your FB Posts</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-for-restoring-usb-peripherals-mouse-keyboard-on-windows-woody/"><u>Troubleshooting Steps for Restoring USB Peripherals (Mouse, Keyboard) on Windows Woody</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/which-live-stream-software-wins-exploring-obs-vs-streamlabs/"><u>Which Live Stream Software Wins? Exploring OBS Vs. Streamlabs</u></a></li>
 </ul></div>
 

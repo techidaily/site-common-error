@@ -1,7 +1,7 @@
 ---
 title: "Guide: Resolving the Incorrect Parameter Issue Efficiently"
-date: 2024-10-15T05:04:08.099Z
-updated: 2024-10-18T21:08:04.270Z
+date: 2024-10-23T16:02:30.515Z
+updated: 2024-10-24T18:38:33.182Z
 tags:
   - win11
   - win10
@@ -46,28 +46,15 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
@@ -87,9 +74,30 @@ Here’s how to do it:
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -101,21 +109,14 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c13543b462f5.jpg)
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
@@ -123,22 +124,17 @@ To do so:
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest SteelSeries Engine software
 
@@ -171,16 +167,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/bypass-error-0x887a0006-easily-with-these-quick-fixes-resolved-tutorial/"><u>Bypass Error 0X887A0006 Easily with These Quick Fixes! | Resolved Tutorial</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-the-role-of-xbox-coverings/"><u>Discovering the Role of Xbox Coverings</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-functionality-for-an-unresponsive-google-chrome-browser/"><u>How to Restore Functionality for an Unresponsive Google Chrome Browser</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-revitalized-interview-questions-for-listener-involvement/"><u>In 2024, Revitalized Interview Questions for Listener Involvement</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/instant-guida-per-spostare-la-license-di-windows-10-da-un-hard-disk-a-un-altro-con-facilita/"><u>Instant Guida per Spostare La License Di Windows 10 Da Un Hard Disk a Un Altro Con Facilità</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-the-web-in-style-on-a-budget-with-the-2020-lenovo-tab-m10-hd-tablet-expert-insights/"><u>Navigating the Web in Style on a Budget With The 2020 Lenovo Tab M10 HD Tablet - Expert Insights</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-found-troubleshooting-failed-directx-hardware-initialization-processes/"><u>Solution Found: Troubleshooting Failed DirectX Hardware Initialization Processes</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-high-cpu-load-from-windows-audio-service/"><u>Troubleshooting High CPU Load From Windows Audio Service</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-resolve-world-of-warcraft-slowdowns/"><u>Troubleshooting Steps to Resolve World of Warcraft Slowdowns</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-free-up-space-superior-cloud-pickers-list-for-2024/"><u>Ultimate Free Up Space Superior Cloud Pickers' List for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/dll-diagnosis-resolve-kernel-fails/"><u>[DLL Diagnosis] Resolve Kernel Fails</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-understanding-aspect-ratios-impact-on-youtube-viewership/"><u>[New] 2024 Approved Understanding ASPECT RATIOS' Impact on YOUTUBE Viewership</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-demystifying-trillers-unique-approach-to-video-content/"><u>[New] In 2024, Demystifying Triller's Unique Approach to Video Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-monetizing-mastery-comparing-streaming-giants-strategies/"><u>[Updated] 2024 Approved Monetizing Mastery Comparing Streaming Giants' Strategies</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-smart-techniques-for-large-video-movement-between-iphones-and-macs/"><u>[Updated] 2024 Approved Smart Techniques for Large Video Movement Between iPhones & Macs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-how-do-i-use-adobe-premiere-to-upload-youtube-videos/"><u>[Updated] How Do I Use Adobe Premiere To Upload YouTube Videos?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-step-further-in-animation-innovative-techniques-using-movie-maker/"><u>2024 Approved A Step Further in Animation Innovative Techniques Using Movie Maker</u></a></li>
+<li><a href="https://common-error.techidaily.com/airpods-wont-pair-heres-how-to-get-your-earbuds-working-on-windows-11-updated-guide/"><u>AirPods Won't Pair? Here's How to Get Your Earbuds Working on Windows 11 (Updated Guide)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/bulk-posting-made-easy-a-comprehensive-instagram-tutorial-for-2024/"><u>Bulk Posting Made Easy A Comprehensive Instagram Tutorial for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-the-issue-of-svchostexe-hiking-up-cpu-load-in-windows-10-systems/"><u>Diagnosing and Fixing the Issue of svchost.exe Hiking Up CPU Load in Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x80072f8f-on-your-pc-easy-fixes-for-windows-11-and-10/"><u>Error 0X80072F8F on Your PC? Easy Fixes for Windows 11 and 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-rid-of-google-chromes-black-screen-blunder-with-these-effective-tips/"><u>Get Rid of Google Chrome's Black Screen Blunder with These Effective Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-restoring-network-functionality-for-ethernet-adapters-on-pc-windows-10-and-7/"><u>Guide to Restoring Network Functionality for Ethernet Adapters on PC (Windows 10 & 7)</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/heavy-haulers-face-off-t5-or-sjcam-s6-legend-in-2024/"><u>Heavy Haulers Face-Off T5 or SJCAM S6 Legend, In 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-your-laptop-stubbornly-staying-on-the-boot-screen/"><u>How To Fix Your Laptop Stubbornly Staying on the Boot Screen</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-8-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 8 Plus Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transformation-libre-de-raw-a-ligne-claire-avec-movavi/"><u>Transformation Libre De RAW À Ligne Claire Avec Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-a-frozen-chrome-window-easy-restart-methods/"><u>Troubleshooting a Frozen Chrome Window – Easy Restart Methods</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-step-by-step-how-to-install-device-drivers-for-windows-7-successfully/"><u>Troubleshooting Step-by-Step: How to Install Device Drivers for Windows 7 Successfully</u></a></li>
 </ul></div>
 

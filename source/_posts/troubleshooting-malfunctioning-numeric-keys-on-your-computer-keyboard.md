@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Malfunctioning Numeric Keys on Your Computer Keyboard
-date: 2024-10-14T18:26:36.441Z
-updated: 2024-10-18T18:23:18.186Z
+date: 2024-10-22T20:17:15.990Z
+updated: 2024-10-24T21:38:33.111Z
 tags:
   - win11
   - win10
@@ -44,23 +44,16 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 3. Click**Ease of Access** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2edebb4167.jpg)
 4. Under**Ease of Access Center** , click**Change how your keyboard works** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee1e422d4.jpg)
 5. Make sure**Turn on Mouse Keys** is**unchecked** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ee3b9bb25.jpg)
 
@@ -72,10 +65,16 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 3. Check if the Mouse keys toggle is On. If it is, switch it to Off.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/win-11-mouse-keys.jpg)
@@ -95,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your keyboard driver
 
  A missing or outdated keyboard driver may also stop keyboard numbers from working.
@@ -112,25 +118,25 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ebe32f70f.jpg)
 3. Click the**Update** button next to your keyboard to automatically download the correct version of its driver, then you can manually install it (you can do this with the**FREE** version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd2ec4831bd8.jpg)  
 **Note:** If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Use a different user profile
 
@@ -167,19 +173,20 @@ thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-leverage-audience-engagement-through-strategic-posting/"><u>[Updated] Leverage Audience Engagement Through Strategic Posting</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-superior-hd-visual-capture-and-recorders/"><u>[Updated] Superior HD Visual Capture and Recorders</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/best-mkv-video-converters-of-2023-top-picks-and-updates/"><u>Best MKV Video Converters of 2023: Top Picks and Updates</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-the-budget-friendly-ambient-ws-2902a-osprey-smart-weather-sensor/"><u>Comprehensive Evaluation of the Budget-Friendly Ambient WS-2902A Osprey Smart Weather Sensor</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-for-when-your-computer-wont-recognize-a-connected-device-icue-solutions-unveiled/"><u>Expert Advice for When Your Computer Won't Recognize a Connected Device - ICUE Solutions Unveiled</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-issue-of-minecraft-clashing-with-windows-because-of-faulty-gpu-drivers/"><u>Fixing the Issue of Minecraft Clashing with Windows Because of Faulty GPU Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-unresponsive-mouse-right-click-buttons-on-your-pc-running-windows-10/"><u>How to Repair Unresponsive Mouse Right Click Buttons on Your PC Running Windows 10</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-sifting-through-the-elements-of-instagram-stories/"><u>In 2024, Sifting Through the Elements of Instagram Stories</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/mastering-the-art-of-live-cricket-livestreams-for-2024/"><u>Mastering the Art of Live Cricket Livestreams for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-repairing-overwatch-voice-chat-malfunctions/"><u>Mastering the Art of Repairing Overwatch Voice Chat Malfunctions</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-to-fix-increase-page-file-size-for-red-dead-redemption-2/"><u>Quick Solutions to Fix 'Increase Page File Size for Red Dead Redemption 2'</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-11-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 11 Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-v1607-overcoming-issues-with-updating-new-features/"><u>Windows 11 v1607: Overcoming Issues with Updating New Features</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/path-to-youtube-stardom-3-strategies-for-captivating-reaction-videos-for-2024/"><u>Your Path to YouTube Stardom 3 Strategies for Captivating Reaction Videos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-leading-workspace-high-flying-space-for-2024/"><u>[New] Leading Workspace High-Flying Space for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-premier-top-youtube-views-monitor-for-content-success/"><u>[Updated] Premier Top YouTube Views Monitor for Content Success</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-tailoring-your-vimeo-experience-from-free-to-pro/"><u>2024 Approved Tailoring Your Vimeo Experience From Free to Pro</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bus-controller-protocols-streamlined-in-win11/"><u>Bus Controller Protocols Streamlined in Win11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/disappointment-in-the-pits-how-ps5s-exclusive-godfall-misses-the-mark/"><u>Disappointment in the Pits: How PS5's Exclusive 'Godfall' Misses the Mark</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-for-repairing-error-0x802n4401c-that-hampers-update-process-on-windows-10-and-11-machines/"><u>Expert Advice for Repairing Error 0X802n4401C That Hampers Update Process on Windows 10 & 11 Machines</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-a-broken-internet-explorer-connection/"><u>Expert Tips for Repairing a Broken Internet Explorer Connection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-a-non-functional-logitech-g733-audio-device/"><u>How to Repair a Non-Functional Logitech G733 Audio Device</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-lifetime-of-photos-in-the-cloud-free-space-haven-and-charged-sanctuaries-await/"><u>In 2024, Lifetime of Photos in the Cloud Free Space Haven & Charged Sanctuaries Await</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205736440-internet-explorer-wont-open-solved/"><u>Internet Explorer Won't Open [SOLVED]</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-image-magic-top-10-mobile-apps-with-stickers-on-iphones-and-androids-for-2024/"><u>Mastering Image Magic Top 10 Mobile Apps with Stickers on iPhones & Androids for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/prioritizing-these-5-points-can-make-or-break-your-fitness-tracker-experience/"><u>Prioritizing These 5 Points Can Make or Break Your Fitness Tracker Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-correcting-windows-update-failure-error-0x80070002/"><u>Step-by-Step Guide to Correcting Windows Update Failure (Error 0X80070002)</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-the-non-working-print-screen-button-on-pcs-with-windows-10-or-11/"><u>Step-by-Step Solutions for the Non-Working Print Screen Button on PCs with Windows 10 or 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-for-making-bluetooth-appear-in-your-computers-device-manager/"><u>Troubleshooting Tips for Making Bluetooth Appear in Your Computer's Device Manager</u></a></li>
 </ul></div>
 

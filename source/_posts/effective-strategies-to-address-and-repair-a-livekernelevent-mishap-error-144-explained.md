@@ -1,7 +1,7 @@
 ---
 title: "Effective Strategies to Address and Repair a LiveKernelEvent Mishap: Error 144 Explained"
-date: 2024-10-14T23:51:31.056Z
-updated: 2024-10-18T18:07:10.678Z
+date: 2024-10-20T17:10:49.610Z
+updated: 2024-10-24T20:37:34.484Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/05fdd1e1f79925f7174d27adc0ae3abbe1009fc92
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 8. [**Reinstall Oddworld: Soulstorm and the launcher**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure your PC meets the minimum specifications for Oddworld: Soulstorm
 
  Oddworld: Soulstorm has a set of hardware and system requirements in order for it to be played smoothly. If your copy of Oddworld: Soulstorm crashes a lot on your PC, it’s worth checking if your PC meets the requirements.
@@ -62,31 +55,17 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/dxdiag-Run-box.jpg)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display.png)
 4. Close DirectX.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You may need to upgrade the hardware of your computer if it fails to meet the specs.
@@ -108,21 +87,15 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/update-your-device-drivers.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Launch Oddworld: Soulstorm and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Run Epic Games Launcher as administrator
 
@@ -134,10 +107,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/epic.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. Click**Yes** when UAC promots for permissions to proceed.
@@ -159,6 +132,14 @@ Here’s how:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run box. Then type **control firewall.cpl**  into the box and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-1.png)
 2. In the window that pops up, click **Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Allow-an-app-or-feature-through-Windows-Defender-Firewall.png)
 3. Browse through the list of Allowed apps and features to see if Epic Gamers launcher is included. If not, click **Change settings** , click **Allow another app…** , then follow the on-screen instructions to add the app.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Change-settings-Allow-another-app.png)
@@ -184,18 +165,33 @@ Here are the steps to perform a clean boot:
 2. Click the **Services**  tab and tick the box for **Hide all Microsoft services** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services.png)
 3. Browse through the full list of services, make sure to **check the boxes for the items that belong to your hardware manufacturers** (such as Intel, AMD, and Qualcomm) and**uncheck the boxes for the rest** . Once finished, click**OK** to apply the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12-2.png)
 4. Restart your computer, then test to see if the game still crashes.  
    * **If Oddworld: Soulstorm stops crashing** , you can try repeating these steps, disabling half of the services each time until you isolate the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
    * **If Oddworld: Soulstorm still crashes** , please continue to**Fix 8** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Oddworld: Soulstorm and the launcher
 
@@ -222,22 +218,24 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-crafting-moments-of-happiness-animated-filters-on-your-phone/"><u>[Updated] In 2024, Crafting Moments of Happiness Animated Filters on Your Phone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-crafting-a-personalized-youtube-pathway-to-viewers/"><u>2024 Approved Crafting a Personalized YouTube Pathway to Viewers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-to-download-facebook-story-5-methods/"><u>2024 Approved How to Download Facebook Story [5 Methods]</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-windows-premier-video-conferencing-apps-5-1/"><u>2024 Approved Windows' Premier Video Conferencing Apps #5-#1</u></a></li>
-<li><a href="https://common-error.techidaily.com/decode-and-fix-the-definitive-guide-to-overcoming-black-screen-issues-on-your-dell-device/"><u>Decode and Fix: The Definitive Guide to Overcoming Black Screen Issues on Your Dell Device</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/ending-laptop-screens-continuous-flashing/"><u>Ending Laptop Screen's Continuous Flashing</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-tips-for-resolving-wacom-tablet-malfunctions-and-issues/"><u>Essential Tips for Resolving Wacom Tablet Malfunctions and Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-disabling-jumpy-scroll-bars-in-windows-11-file-explorer-problem-resolved/"><u>Guide to Disabling Jumpy Scroll Bars in Windows 11 File Explorer - Problem Resolved</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-xiaomi-14-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi 14 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-casting-issues-on-your-windows-11-pc-a-complete-guide/"><u>How to Fix Casting Issues on Your Windows 11 PC: A Complete Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-handle-access-denied-expert-fixes-revealed/"><u>How to Handle 'Access Denied': Expert Fixes Revealed</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-tecno-pop-7-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Tecno Pop 7 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-access-to-your-lenovo-x230-drives-for-effortless-setup/"><u>Quick Access to Your Lenovo X230 Drives for Effortless Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-issues-making-your-dells-webcam-work-again-on-windows-systems/"><u>Solved Issues: Making Your Dell's Webcam Work Again on Windows Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/times-tangle-in-windows-restore-clock-order/"><u>Time's Tangle in Windows: Restore Clock Order</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-your-lenovo-mouse-pad-on-windows-tips-for-win11-8-and-7/"><u>Troubleshoot Your Lenovo Mouse Pad on Windows: Tips for Win11, 8, and 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-a-malfunctioning-touchpad/"><u>Troubleshooting Guide: Fixing a Malfunctioning Touchpad</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-enhance-visibility-with-any-channel-title-through-free-makers/"><u>[New] 2024 Approved Enhance Visibility With Any Channel Title Through Free Makers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-exploring-the-world-of-mycams-home-based-recording-technology/"><u>[New] In 2024, Exploring the World of MyCam's Home-Based Recording Technology</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-cultivating-commitment-gentle-subscription-strategies/"><u>[Updated] Cultivating Commitment Gentle Subscription Strategies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-streamlined-mov-recording-tactics-on-windows-11-platforms/"><u>2024 Approved Streamlined .MOV Recording Tactics on Windows 11 Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-repair-instructions-for-handling-win32-kernel-mode-violation-0xc0000098/"><u>Comprehensive Repair Instructions for Handling Win32 Kernel-Mode Violation 0xC0000098</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-techniques-to-correct-directx-issues-in-battlefield-2042/"><u>Effective Techniques to Correct DirectX Issues in Battlefield 2042</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-screen-refinement-software-for-video-lovers/"><u>In 2024, Superior Screen Refinement Software for Video Lovers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-gopro-cases-insight-for-adventurers/"><u>In 2024, Top 10 GoPro Cases Insight for Adventurers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-understanding-instagrams-max-video-length-guide/"><u>In 2024, Understanding Instagram's Max Video Length Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-connectivity-hurdles-ensuring-all-your-gadgets-pair-with-windows-10s-bluetooth/"><u>Overcoming Connectivity Hurdles: Ensuring All Your Gadgets Pair with Windows 10'S Bluetooth</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-critical-process-died-system-errors-in-windows-error-code-0xc00000e9/"><u>Resolving Critical Process Died System Errors in Windows (Error Code 0xC00000E9)</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-functionality-after-encountering-internet-explorer-service-terminated/"><u>Restoring Functionality After Encountering 'Internet Explorer Service Terminated'</u></a></li>
+<li><a href="https://common-error.techidaily.com/screen-functionality-enhanced-for-seamless-interoperability/"><u>Screen Functionality Enhanced for Seamless Interoperability</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-troubleshooting-the-stop-code-0xc0000005-on-pc/"><u>Step-by-Step Solution for Troubleshooting the Stop Code 0xC0000005 on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-to-fix-building-loading-problems-in-pubg/"><u>Step-by-Step Tutorial to Fix Building Loading Problems in PUBG</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-the-ravbg64-cpu-crunch-solutions-for-smoother-realtek-hd-audio-performance/"><u>Tackling the Ravbg64 CPU Crunch: Solutions for Smoother Realtek HD Audio Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-startup-issues-in-age-of-empires-iii/"><u>Troubleshooting Startup Issues in Age of Empires III</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-techniques-for-a-seamless-mass-effect-legendary-gaming-experience/"><u>Troubleshooting Techniques for a Seamless Mass Effect Legendary Gaming Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/winxvideo-ai-une-solution-revolutionnaire-pour-laugmentation-et-la-restauration-des-images-en-haute-resolution-4k-8k-and-10k/"><u>WinxVideo AI : Une Solution Révolutionnaire Pour L'Augmentation Et La Restauration Des Images en Haute Résolution (4K, 8K & 10K)</u></a></li>
 </ul></div>
 

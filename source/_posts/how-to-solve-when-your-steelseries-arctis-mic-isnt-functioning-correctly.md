@@ -1,7 +1,7 @@
 ---
 title: How To Solve When Your SteelSeries Arctis ([Mic]) Isn't Functioning Correctly
-date: 2024-09-13T01:03:39.501Z
-updated: 2024-09-15T09:27:52.035Z
+date: 2024-10-19T16:16:10.631Z
+updated: 2024-10-24T16:31:54.670Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/01/Driver-Easy-Update-mouse-driver.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Change function key behavior
 
  The problem can be caused by incorrect function key behavior. So try to change the function key behavior in Windows Mobility Center and see if it works.
@@ -53,6 +60,13 @@ Follow these steps:
 
 ![Windows 11 - how to open the Control Panel](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-how-to-open-the-Control-Panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2\. View by Large icons and select**Windows Mobility Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3dbd122ee9.png)
@@ -62,10 +76,10 @@ Follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3dae73bccf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Method 4： Try Uninstalling and reinstalling the keyboard drivers**
@@ -76,22 +90,22 @@ Follow these steps:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2\. Expand category**Keyboards** , Right-click on the keyboard device, and click**Uninstall device** from the pop-up menu. Then follow the on-screen instructions.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a3de2f109fa.png)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3\. After uninstalling the driver, restart Windows then the driver will install automatically.
 
@@ -114,5 +128,20 @@ Follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-rapid-capture-technique-timelapse-toptech/"><u>[Updated] 2024 Approved Rapid Capture Technique Timelapse #TopTech</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-uncharted-territory-in-facebooks-meme-landscape/"><u>[Updated] 2024 Approved Uncharted Territory in Facebook's Meme Landscape</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-elevate-your-youtube-presence-with-simple-seo-techniques/"><u>[Updated] Elevate Your YouTube Presence with Simple SEO Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/2024-top10/"><u>「2024年版: 新しいバーチャルプレイヤーをサポートした初心者向け最優秀無料音楽制作ツールTOP10」</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-strategies-to-address-and-repair-a-livekernelevent-mishap-error-144-explained/"><u>Effective Strategies to Address and Repair a LiveKernelEvent Mishap: Error 144 Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-media-driver-repair-how-to-fix-the-missing-component-on-your-pc/"><u>Essential Media Driver Repair: How to Fix the Missing Component on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-dealing-with-unsuccessful-computer-startup-issues/"><u>Expert Tips for Dealing with Unsuccessful Computer Startup Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-power-surge-on-the-usb-port-error-on-windows-11/"><u>Fix: Power Surge on the USB Port Error on Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/innovative-editions-filmmaker-writers-on-windows-for-2024/"><u>Innovative Editions Filmmaker' Writers on WIndows for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-now-high-quality-csr-bluetooth-driver-for-free/"><u>Install Now: High-Quality CSR Bluetooth Driver for Free</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-capturing-your-playstation-4-gameplay/"><u>Step-by-Step Tutorial: Capturing Your PlayStation 4 Gameplay</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-solutions-successfully-resolving-the-mysterious-usb-connection-failure/"><u>Troubleshooting Solutions: Successfully Resolving the Mysterious USB Connection Failure</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/which-router-rocks-the-house-in-depth-review-of-tp-link-archer-ax6000-against-netgears-nighthawk-ax12/"><u>Which Router Rocks the House? In-Depth Review of TP-Link Archer AX6000 Against Netgear's Nighthawk AX12</u></a></li>
+</ul></div>
 

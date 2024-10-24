@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot & Overcome Slow Download Problems with League of Legends
-date: 2024-09-10T16:00:00.204Z
-updated: 2024-09-15T16:00:00.310Z
+date: 2024-10-19T21:26:28.429Z
+updated: 2024-10-24T21:57:28.498Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ Downloading again to see if it works.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Turn off Windows Firewall
 
  Windows Firewall supposes to protect your computer from malware, but sometimes it may cause trouble. It may block some features of League of Legends which result in low speed downloading. So you can try to turn off Windows Firewall to solve the “League of Legends download slow” issue.
@@ -60,6 +67,14 @@ Downloading again to see if it works.
 1. Click the Start button, type**windows firewall** in the search box and press the**Enter** key to open**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/windows.jpg)
 2. Click**Turn Windows Defender Firewall on or off** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
@@ -71,6 +86,13 @@ Re-download to check.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Manually install .NET framework 3.5
 
  .NET Framework is a software that runs on Microsoft Windows. It is one of the key software which League of Legends relies on. If nothing wrong with the game, the issue might be related to Microsoft .NET Framework.
@@ -78,13 +100,6 @@ Re-download to check.
  So you can[download](https://www.microsoft.com/en-sg/download/details.aspx?id=21) and install the framework to solve the issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus: Update your drivers
 
@@ -118,10 +133,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -148,5 +163,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-time-efficient-a-comprehensive-guide-to-srt-to-txt-switching/"><u>[Updated] 2024 Approved Time Efficient A Comprehensive Guide to SRT to TXT Switching</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-rank-higher-with-youtube-shorts-a-guide-to-making-a-difference/"><u>[Updated] In 2024, Rank Higher with YouTube Shorts A Guide to Making a Difference</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unlocking-the-art-of-extended-frame-shooting-for-2024/"><u>[Updated] Unlocking the Art of Extended Frame Shooting for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-pro-tips-the-fastest-5-diy-filmmaking-tricks-at-home/"><u>2024 Approved Pro Tips The Fastest 5 DIY Filmmaking Tricks at Home</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-ultimate-list-leading-gaming-consoles-ranked/"><u>2024'S Ultimate List: Leading Gaming Consoles Ranked</u></a></li>
+<li><a href="https://common-error.techidaily.com/computer-sudden-stops-on-win10-system/"><u>Computer Sudden Stops on Win10 System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertilo-gratuito-online-de-flac-a-aac-con-movavi/"><u>Convertilo Gratuito Online: De FLAC a AAC Con Movavi</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/engaging-your-audience-ranked-top-20-tiktok-caption-techniques/"><u>Engaging Your Audience Ranked Top 20 TikTok Caption Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-0x887a0006-troubleshooting-fast-and-effective-solutions/"><u>Error 0X887A0006 Troubleshooting: Fast and Effective Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-overcoming-microphone-challenges-in-the-latest-microsoft-os-windows-11-edition/"><u>Expert Tips: Overcoming Microphone Challenges in the Latest Microsoft OS - Windows 11 Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-memory-corruption-in-ftdisk-systems-due-to-incompatible-drives/"><u>Fixing Memory Corruption in FTDisk Systems Due to Incompatible Drives</u></a></li>
+<li><a href="https://win-updates.techidaily.com/hoe-vervolg-je-het-snel-herstellen-na-het-verwijderen-van-bestandsdaten-met-quickformat/"><u>Hoe Vervolg Je Het Snel Herstellen Na Het Verwijderen Van Bestandsdaten Met QuickFormat?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-connection-problems-on-your-minecraft-lan-setup/"><u>How to Resolve Connection Problems on Your Minecraft LAN Setup</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-unstable-visual-glitches-in-your-windows-10-device/"><u>Overcoming Unstable Visual Glitches in Your Windows 10 Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-why-cant-my-geforce-experience-load-preferences/"><u>Solution Steps: Why Can't My GeForce Experience Load Preferences?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-5-omnidirectional-recording-gadgets/"><u>Top 5 Omnidirectional Recording Gadgets</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-oddworld-soulstorm-crashes-on-personal-computers/"><u>Troubleshooting Guide for Oddworld: Soulstorm Crashes on Personal Computers</u></a></li>
+</ul></div>
 

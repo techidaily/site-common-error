@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Your Xbox One Controller: A Step-by-Step Guide to Fixing Connection Issues"
-date: 2024-10-11T22:08:19.395Z
-updated: 2024-10-19T01:26:48.348Z
+date: 2024-10-23T16:44:08.008Z
+updated: 2024-10-24T16:31:28.611Z
 tags:
   - win11
   - win10
@@ -48,10 +48,10 @@ If the other keys stop working either, check the next question:
 2. [Update your keyboard driver](#solution2)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 1: Turn off the Sticky Keys feature on your Windows
@@ -72,16 +72,6 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6fe68349cf1.jpg)
 
-4) Press the Shift key on your keyboard to see if it works.
-
-#### on Windows 11
-
- 1) On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
-
- 2) From the left navigation panel, select**Accessibility** , then click**Keyboard** from the right.
-
-![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
-
 <!-- affiliate ads begin -->
 <span id="1630055">
 					<video width="192" height="320" style="cursor:pointer"
@@ -95,16 +85,26 @@ Follow these:
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+4) Press the Shift key on your keyboard to see if it works.
+
+#### on Windows 11
+
+ 1) On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
+
+ 2) From the left navigation panel, select**Accessibility** , then click**Keyboard** from the right.
+
+![Windows 11 - disable filter keys via Settings](https://www.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Toggle**Off** Sticky keys, Filter keys, and Toggle keys.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/win11-Sticky-keys-Filter-keys-Toggle-keys-off-1200x687.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your Shift key keeps not functioning, try to update your keyboard driver as Solution 2 tells.
 
@@ -124,18 +124,18 @@ Follow these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ed9b77330c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to your keyboard driver to automatically download and install the correct version of it (you can do this with the **FREE** version).
 
 Or click **Update All**  to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **Pro** version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a6ff41903b70.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Restart your computer and try to press the Shift key to see if it works.
 
@@ -156,22 +156,24 @@ Or click **Update All**  to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-beat-buzzers-up-and-coming-background-scores-for-yt-shorts/"><u>[Updated] 2024 Approved Beat Buzzers Up-and-Coming Background Scores For YT Shorts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitsoundscape-audio-from-tweets/"><u>[Updated] 2024 Approved TwitSoundscape Audio From Tweets</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-capture-and-share-your-screens-bandicam-vs-camtasia/"><u>[Updated] In 2024, Capture and Share Your Screens Bandicam vs Camtasia</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-solution-recover-d3dcompiler47dll-error-on-your-system/"><u>Comprehensive Solution: Recover D3DCOMPILER_47.dll Error on Your System</u></a></li>
-<li><a href="https://common-error.techidaily.com/efficiently-using-windows-10s-file-explorer-a-step-by-step-guide/"><u>Efficiently Using Windows 10'S File Explorer: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/essential-fixes-for-windows-10-unresponsiveness-on-system-startup-and-boot/"><u>Essential Fixes for Windows 10 Unresponsiveness on System Startup and Boot</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-for-defrosting-sluggish-computers-fast/"><u>Expert Advice for Defrosting Sluggish Computers Fast</u></a></li>
-<li><a href="https://win-info.techidaily.com/exploring-user-preferences-the-top-trending-internet-browsers/"><u>Exploring User Preferences: The Top Trending Internet Browsers</u></a></li>
-<li><a href="https://common-error.techidaily.com/geforce-management-tool-successfully-retrieves-data-after-fixing-setting-extraction-hurdle/"><u>GeForce Management Tool Successfully Retrieves Data After Fixing Setting Extraction Hurdle</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-check-your-real-ram-speed-on-windows-10-11/"><u>How to Check Your Real RAM Speed on Windows 10, 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fixes-resolving-issues-with-a-non-functioning-logitech-mouse-scroll-wheel/"><u>Quick Fixes: Resolving Issues with a Non-Functioning Logitech Mouse Scroll Wheel</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-problem-typing-failure-on-keyboard/"><u>Solved Problem: Typing Failure on Keyboard</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-lava-yuva-3-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Lava Yuva 3 Phone Pattern Lock</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-tier-entertainment-a-look-at-the-8-superior-mobile-gaming-options/"><u>Top Tier Entertainment - A Look at the 8 Superior Mobile Gaming Options</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-compatibility-problems-updating-device-drivers-for-seamless-gaming-experience-in-wow/"><u>Troubleshooting Compatibility Problems: Updating Device Drivers for Seamless Gaming Experience in WoW</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-tips-for-latest-radeon-driver-enhancements-fixed/"><u>Troubleshooting Tips for Latest Radeon Driver Enhancements [FIXED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-over-error-1067-tackling-sudden-program-endings-on-your-windows-machine/"><u>Winning Over Error 1067: Tackling Sudden Program Endings on Your Windows Machine</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-enhancing-zoom-visual-acuity-easy-steps-for-2024/"><u>[New] Enhancing Zoom Visual Acuity Easy Steps for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-from-cameras-to-obs-a-step-by-step-mac-and-pc-broadcast-setup-for-2024/"><u>[New] From Cameras to OBS A Step-by-Step Mac & PC Broadcast Setup for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/5-fixes-for-no-such-interface-supported-error/"><u>5 Fixes for No Such Interface Supported Error</u></a></li>
+<li><a href="https://common-error.techidaily.com/deciphering-the-reason-behind-spontaneous-windows-11-bootups-a-comprehensive-guide/"><u>Deciphering the Reason Behind Spontaneous Windows 11 Bootups - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/enhancing-your-online-presence-across-leading-platforms-facebook-twitter-instagram-youtube-tactics/"><u>Enhancing Your Online Presence Across Leading Platforms: Facebook, Twitter, Instagram, YouTube Tactics</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-651-on-windows-heres-how-to-easily-correct-it/"><u>Error 651 on Windows? Here's How to Easily Correct It!</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-forwarding-to-better-deck-performance-via-cloning/"><u>Fast-Forwarding to Better Deck Performance via Cloning</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-oddworld-soulstorm-game-on-pc-troubleshooting-tips-for-a-smooth-experience/"><u>Fix Your Oddworld: Soulstorm Game on PC - Troubleshooting Tips for a Smooth Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-glitches-in-phasmophobia-for-a-smoother-play-experience/"><u>Fixing Glitches in Phasmophobia for a Smoother Play Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-elevate-your-communication-master-skype-calls-recording/"><u>In 2024, Elevate Your Communication Master Skype Calls Recording</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-master-the-art-of-keyboard-resets-and-troubleshooting/"><u>Quick Fixes: Master the Art of Keyboard Resets and Troubleshooting</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issues-launching-bluetooth-connectivity-module/"><u>Resolved: Issues Launching Bluetooth Connectivity Module</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-driver-power-state-errors-a-comprehensive-guide/"><u>Resolving Windows Driver Power State Errors: A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/smart-automation-losungen-fur-die-versicherungswirtschaft/"><u>Smart Automation Lösungen Für Die Versicherungswirtschaft</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-picks-for-novice-gopro-enthusiasts-for-2024/"><u>Top Picks for Novice GoPro Enthusiasts for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-techniques-for-fixing-lenovo-webcam-problems/"><u>Troubleshooting Techniques for Fixing Lenovo Webcam Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-the-d3derrnotavailable-issue-on-your-pc/"><u>Understanding and Fixing the D3DERR_NotAvailable Issue on Your PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Nokia C210? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Correct the Incorrect Registry Value for Flawless Photo Opening in Windows 11
-date: 2024-10-14T04:35:13.745Z
-updated: 2024-10-19T05:02:55.060Z
+date: 2024-10-17T16:54:44.431Z
+updated: 2024-10-24T22:27:07.958Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/f65801f01aff4d3373b4cf2db5d1bc7ed704b50a0
 6. **[Run network commands](#Fix6)**
 7. **[Reset your network](#Fix7)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix1: Power cycle your computer
 
  The Wi-Fi option missing issue could be caused by a random bug on your Windows 11 PC. To fix the problem, **try to shut down your system, wait a few minutes, and then boot it again** . It sounds simple but does work for many users.
@@ -50,32 +57,24 @@ If you haven’t tried this method before, give it a go.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-ncpa.cpl_.jpg)
 2. Check if your Wi-Fi adapter is disabled or greyed out. If it is, right-click on it and select**Enable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-enable-wifi.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once done, restart your computer and check if your Wi-Fi network shows up again.
 
  If your Wi-Fi adapter is enabled and the issue remains, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your Wi-Fi adapter driver
 
@@ -100,10 +99,10 @@ If you haven’t tried this method before, give it a go.
  Now check to see if your problem has been resolved. If not, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run the Network Adapter troubleshooter
@@ -120,19 +119,6 @@ If you haven’t tried this method before, give it a go.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/win11-network-adapter-run.jpg)
 5. Follow the steps in the troubleshooter and see if that fixes the problem.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If your issue persists, check out the next fix.
 
 ### Fix 5: Turn on WLAN AutoConfig service
@@ -142,16 +128,25 @@ If your issue persists, check out the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** together to invoke the Run dialog. Then type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-services.jpg)
 2. Find**WLAN AutoConfig** in the list of services, right-click on it and select**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/07/wlan-autoconfig-properties.jpg)
-3. Make sure**Startup type** is set to**Automatic** and**Service status** is**Running** . Then click**OK** to save changes.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/07/wlan-autoconfig-startup-type.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/07/wlan-autoconfig-properties.jpg)
+3. Make sure**Startup type** is set to**Automatic** and**Service status** is**Running** . Then click**OK** to save changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/07/wlan-autoconfig-startup-type.jpg)
 
 Restart your PC and see if your Wi-Fi shows up.
 
@@ -166,21 +161,38 @@ If you still face the same issue, try the next fix.
 2. If you are prompted for permission by User Account Control, click**Yes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/cmd-uac-yes.jpg)
 3. At the command prompt, type**netsh winsock reset** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/winsock-reset.jpg)
 4. Type**netsh int ip reset** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-reset.jpg)
 5. Type**ipconfig /release** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-release.jpg)
 6. Then type**ipconfig /renew** and press**Enter** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-renew.jpg)
-7. Type**ipconfig /flushdns** and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-renew.jpg)
+7. Type**ipconfig /flushdns** and press**Enter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/ip-flushdns.jpg)
 
@@ -197,13 +209,6 @@ If this method doesn’t help, try the last fix below.
 2. Select**Network & internet** , then click**Advanced network settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-advanced-network-settings.jpg)
 3. Under More settings, click**Network reset** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/windows11-network-reset.jpg)
 4. Click**Reset now** .  
@@ -235,24 +240,22 @@ Wait for your computer to restart, and see if that fixes the problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-deciphering-the-advantages-of-modern-multicam-technology/"><u>2024 Approved Deciphering the Advantages of Modern Multicam Technology</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-stop-in-app-video-buffering-issues/"><u>2024 Approved Stop In-App Video Buffering Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-winupdate-issue-zero-hour-fixes-for-error-0x80070002/"><u>Bypassing WinUpdate Issue - Zero Hour Fixes for Error 0X80070002</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209887897-getting-the-function-fn-buttons-back-on-your-dell-device-lets-resolve-that-today/"><u>Getting the Function (Fn) Buttons Back on Your Dell Device? Let's Resolve That Today!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-x100-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of X100 using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-nokia-105-classic-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Nokia 105 Classic to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a24-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A24 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-crumpled-to-curated-your-step-by-step-process-of-transforming-faded-print-photographs-into-digital-originals/"><u>In 2024, From Crumpled to Curated Your Step-by-Step Process of Transforming Faded Print Photographs Into Digital Originals</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-zte-nubia-flip-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For ZTE Nubia Flip 5G</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-unseen-story-access-top-anonymous-tools/"><u>In 2024, Unseen Story Access Top Anonymous Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maintain-your-iphone-ns-flawless-appeal-3-must-have-accessories-revealed/"><u>Maintain Your iPhone N's Flawless Appeal: 3 Must-Have Accessories Revealed</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-system-improvements-with-seamless-windows-updates/"><u>Mastering System Improvements with Seamless Windows Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-problems-with-windows-10-version-1903-update-kb4056892-solutions-inside/"><u>Overcoming Problems with Windows 10 Version 1903 Update (KB4056892) – Solutions Inside</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723209518388-pubg-structures-failing-to-load-heres-the-fix/"><u>PUBG Structures Failing to Load? Here's the Fix!</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205957233-razer-keyboards-not-glowing-heres-how-to-restore-their-brightness/"><u>Razer Keyboards Not Glowing? Here's How to Restore Their Brightness</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/rejuvenate-your-pictures-the-most-powerful-10-online-edits-for-2024/"><u>Rejuvenate Your Pictures The Most Powerful 10 Online Edits for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-user-profile-service-failures-during-login-on-windows-10-and-11/"><u>Resolving User Profile Service Failures During Login on Windows 10 & 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-windows-11-recurring-system-restore-issue-a-complete-walkthrough/"><u>Solving the Windows 11 Recurring System Restore Issue: A Complete Walkthrough</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshoot-and-solve-the-persistent-8007000e-error-during-windows-updates-easily/"><u>Troubleshoot and Solve the Persistent 8007000E Error During Windows Updates Easily</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-cutting-edge-8-content-creators-skyrocketing-growth/"><u>[Updated] 2024 Approved Cutting-Edge 8 Content Creators Skyrocketing Growth</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-boost-iphone-visual-quality-selective-photo-and-video-tools/"><u>[Updated] Boost iPhone Visual Quality Selective Photo and Video Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-power-play-joining-a-music-company-network-in-the-age-of-streaming/"><u>[Updated] The Power Play Joining a Music Company Network in the Age of Streaming</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-vlc-player-tips-10-hidden-features/"><u>2024 Approved Vlc Player Tips 10 Hidden Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/cutdown-high-cpu-usage-in-windows-wmis/"><u>Cutdown High CPU Usage in Windows WMIs</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-guide-non-functioning-logitech-scroll-wheel-made-simple/"><u>Fix Guide: Non-Functioning Logitech Scroll Wheel Made Simple</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-your-stuck-arrow-keys-on-the-keyboard-with-easy-tips/"><u>Fix Your Stuck Arrow Keys on the Keyboard with Easy Tips!</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-your-aoc-computer-monitor-up-and-running-again-on-windows-11-devices/"><u>Getting Your AOC Computer Monitor Up and Running Again on Windows 11 Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-microsoft-antimalware-service-executable-causing-excessive-cpu-drain-in-windows-nk-solved/"><u>How to Fix Microsoft Antimalware Service Executable Causing Excessive CPU Drain in Windows nK [SOLVED]</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-resolve-and-prevent-disk-read-issues-on-windows-solved-guide/"><u>How to Successfully Resolve and Prevent Disk Read Issues on Windows ([Solved] Guide)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-zero-cost-movie-previews-download-youtube-cover-arts-easy/"><u>In 2024, Zero-Cost Movie Previews Download YouTube Cover Arts Easy</u></a></li>
+<li><a href="https://common-error.techidaily.com/in-depth-guide-to-restoring-response-in-stuck-l2r2-pads-a-gamers-resource/"><u>In-Depth Guide to Restoring Response in Stuck L2/R2 Pads: A Gamer’s Resource</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-wmp-cd-extraction-and-bursting-techniques-for-2024/"><u>Mastering WMP CD Extraction & Bursting Techniques for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-your-laptops-dead-touchpad-solutions-for-improved-functionality/"><u>Reviving Your Laptop's Dead Touchpad - Solutions for Improved Functionality</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-premier-nintendo-switch-cartridge-holsters-of-2024/"><u>The Premier Nintendo Switch Cartridge Holsters of 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-app-review-for-crafting-unique-reels/"><u>The Ultimate App Review for Crafting Unique Reels</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-step-by-step-walkthrough-for-pokemon-unite-on-pc/"><u>Your Step-by-Step Walkthrough for Pokémon Unite on PC</u></a></li>
 </ul></div>
 

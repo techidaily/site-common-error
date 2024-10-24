@@ -1,7 +1,7 @@
 ---
 title: Corsair HS50 Not Working? Here's How to Get Your Mic Up and Running Again!
-date: 2024-10-16T05:03:30.899Z
-updated: 2024-10-18T18:18:05.658Z
+date: 2024-10-20T19:45:18.089Z
+updated: 2024-10-24T20:08:32.407Z
 tags:
   - win11
   - win10
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/bca0e2a8225a07a3beb4a4a94473f168eb2b08c9c
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Troubleshoot hardware issues
@@ -64,6 +64,13 @@ To make sure the volume is audible:
 1. Click **the sound icon**  on the lower-right of your screen, then move **the volume slider**  all the way  to at least halfway up.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd8329d980b9.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there’s a volume control on the app you’re playing, make sure to slide the volume bar to an audible level too.
 2. Test if your A40 headset is working properly. If not, then move on to **Fix 3** , below.
 
@@ -80,16 +87,17 @@ To do so:
 2. Click the**Recording** tab, then click on **your microphone device** and click**Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83abdc9c8c.jpg)  
  If**no microphone devices shows up in the device list** , then right-click on**the empty space** and tick**Show Disabled Devices** . Then right-click on**the microphone device** once it appears and click**Enable** before you do step**2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click on**your microphone device** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83e5d33881.jpg)
 4. Click the**Levels** tab, then drag**the Microphone slider** all the way to_its top_ and click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd83f3304a00.png)
 5. Click**OK** to apply the changes in the windows.
@@ -112,22 +120,15 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3039c6d01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -161,21 +162,21 @@ This problem may occur if you are using the wrong audio  driver or it’s out of
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-premier-9-video-calls-prioritizing-security-in-smes/"><u>[New] In 2024, Premier 9 Video Calls Prioritizing Security in SMEs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-dji-fpv-revolution-a-review-of-eyewear-innovation/"><u>[New] The DJI FPV Revolution A Review of Eyewear Innovation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-troubleshooting-stop-live-streaming-lags-in-obs/"><u>[New] Troubleshooting Stop Live Streaming Lags in OBS</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-game-streamers-for-your-watchlist/"><u>[Updated] In 2024, Essential Game Streamers for Your Watchlist</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-safedrive-backup-specialists-take/"><u>2024 Approved SafeDrive Backup Specialists' Take</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/dive-into-fb-360-videos-recording-and-sharing-secrets/"><u>Dive Into FB 360 Videos Recording and Sharing Secrets</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-fix-guide-for-windows-users-with-broken-cddvd-drive-functionality/"><u>DIY Fix Guide for Windows Users With Broken CD/DVD Drive Functionality</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-m54-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Samsung Galaxy M54 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-lava-by-fonelab-android-recover-music/"><u>How to restore wiped music on Lava</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-troubleshooting-overcoming-microsoft-wireless-display-hurdles-in-windows-10/"><u>Mastering Troubleshooting: Overcoming Microsoft Wireless Display Hurdles in Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-change-rendering-api-hiccup-in-dota-2-with-easy-fix-for-error-2024/"><u>Overcome 'Change Rendering API' Hiccup in Dota 2 with Easy Fix for Error 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-windows-n7-stalls-and-freezes-top-tips-for-a-lag-free-computer-experience/"><u>Resolving Windows N7 Stalls and Freezes - Top Tips for a Lag-Free Computer Experience</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/saving-tweets-with-smiles-gif-master-2024-edition/"><u>Saving Tweets with Smiles GIF Master 2024 Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-port-reset-failed-when-connecting-usb-on-windows-11/"><u>Step-by-Step Solutions for 'Port Reset Failed' When Connecting USB on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-your-laptops-display-malfunction/"><u>Troubleshooting and Fixing Your Laptop's Display Malfunction</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-hp-laptops-malfunctioning-usb-port/"><u>Troubleshooting Guide: Fixing the HP Laptop's Malfunctioning USB Port</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-pros-guide-to-efficient-win11-use/"><u>[New] In 2024, The Pro's Guide to Efficient Win11 Use</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-masterclass-in-capturing-high-quality-vimeo-videos-for-2024/"><u>[New] Masterclass in Capturing High-Quality Vimeo Videos for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-transform-tiktok-videos-with-our-select-best-font-tools-for-the-year-23/"><u>2024 Approved Transform TikTok Videos with Our Select Best Font Tools for the Year '23</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-failed-steam-update-downloads-a-step-by-step-tutorial/"><u>Diagnosing & Fixing Failed Steam Update Downloads - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-guide-updating-to-the-most-recent-evga-drivers-for-windows-users/"><u>Essential Guide: Updating to the Most Recent EVGA Drivers for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-restore-microphone-functionality-in-the-latest-windows-11-update/"><u>Expert Tips to Restore Microphone Functionality in the Latest Windows 11 Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-resolving-the-critical-windows-update-problem-0x80070490-quickly/"><u>Expert Tips: Resolving the Critical Windows Update Problem 0X80070490 Quickly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/fastforward-lingertap-recording-for-2024/"><u>FastForward LingerTap Recording for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-google-pixel-8-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Google Pixel 8 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-profits-unleashed-strategies-for-creative-entrepreneurs/"><u>In 2024, Vimeo Profits Unleashed Strategies for Creative Entrepreneurs</u></a></li>
+<li><a href="https://common-error.techidaily.com/low-cpu-strategies-for-streamlined-operation-of-windows-driver-foundation-components/"><u>Low-CPU Strategies for Streamlined Operation of Windows Driver Foundation Components</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-top-10-animation-software-for-creating-stunning-animated-videos-for-2024/"><u>New Top 10 Animation Software for Creating Stunning Animated Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-crc-faults-in-your-data-transmission-now-solved/"><u>Overcoming CRC Faults in Your Data Transmission - Now Solved!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fix-scroll-pad-issues-in-windows-11-for-enhanced-user-experience/"><u>Step-by-Step Guide to Fix Scroll Pad Issues in Windows 11 for Enhanced User Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-eliminate-recurring-system-lockups-on-your-laptop-or-desktop/"><u>Troubleshoot and Eliminate Recurring System Lockups on Your Laptop or Desktop</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-13c-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Xiaomi Redmi 13C 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Non-Running Diagnostic Services Policy Problems
-date: 2024-10-16T04:44:43.989Z
-updated: 2024-10-19T02:46:22.539Z
+date: 2024-10-21T22:31:07.536Z
+updated: 2024-10-24T22:21:26.173Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ If you run into the**Overwatch voice chat not working** issue, you’re not alon
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04deab93532.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click**Update** to do it for free if you like, but it’s partly manual.
 4. Restart your computer, then check Overwatch voice chat again to see if the**voice chat not working** problem has been fixed. If it works, then congrats! But if the problem persists, move on to**Fix 2** , below.
 
@@ -63,39 +70,39 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04ca9f1b8b4.png)
 3. In the **Playback**  tab, right-click on**the speakers/headphones you’re to use in Overwatch** and  click **Set Default** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d27e6fe9c.jpg)
 4. While still in the**Playback** tab, right-click and click**Disable** on **EVERY OTHER** device**EXCEPT** the default device.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d3d257d41.jpg)
 5. Click the  **Recording**  tab, then right-click on   **the speakers/headphones you’re to use in Overwatch**  and click  **Set as Default device**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d384b07c3.jpg)
 6. While still in the**Recording** tab, right-click and click**Disable** on **EVERY OTHER** device **EXCEPT**  the default device.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04d47e911ed.jpg)
 7. Click**OK** .
 8. Launch Overwatch, join a voice chat and see if the**Overwatch voice chat not working** issue has been resolved.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable Exclusive Mode
 
@@ -110,10 +117,10 @@ Here’s how:
 3. Click the **Advanced**  tab and un-check**the box** before **Allow applications to take exclusive control of this device** . Then click **Apply**  \> **OK**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04cd0648d4d.jpg)
@@ -132,10 +139,10 @@ Here’s how:
  If your voice chat is set to**Push To Talk** , try changing the keybind for Voice Chat:**Push To Talk** to a different key in the Controls menu.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Join in the team chat, test to see if the**Overwatch voice chat not working** issue has been resolved.
@@ -163,21 +170,19 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-closing-with-panache-free-youtubes-1-six/"><u>[New] 2024 Approved Closing with Panache Free YouTube's #1 Six</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-unveiled-understanding-its-most-pressing-challenges-from-ai-ethics-to-data-privacy-concerns/"><u>ChatGPT Unveiled: Understanding Its Most Pressing Challenges, From AI Ethics to Data Privacy Concerns</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/easy-guide-to-clearing-laptop-display-skew/"><u>Easy Guide to Clearing Laptop Display Skew</u></a></li>
-<li><a href="https://article-files.techidaily.com/excellent-video-cameras-ideal-for-future-musical-shootouts-for-2024/"><u>Excellent Video Cameras Ideal for Future Musical Shootouts for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-remove-youtube-sneak-peeks-for-uninterrupted-views/"><u>In 2024, Remove YouTube Sneak Peeks for Uninterrupted Views</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-standout-80s-visual-tricks-to-enhance-films/"><u>In 2024, Standout 80S Visual Tricks to Enhance Films</u></a></li>
-<li><a href="https://common-error.techidaily.com/lose-not-the-sd-card-detection/"><u>Lose Not the SD Card Detection</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-11-update-problems-tips-for-unfreezing-your-system/"><u>Overcoming Windows 11 Update Problems: Tips for Unfreezing Your System</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/reviewing-sovol-sv08-the-fast-and-nimble-homage-to-voron-series/"><u>Reviewing Sovol SV08: The Fast and Nimble Homage to Voron Series</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-solutions-resolving-the-steam-disk-write-issue-quickly/"><u>Simple Solutions: Resolving the Steam Disk Write Issue Quickly</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-enable-bluetooth-on-your-windows-7-device/"><u>Step-by-Step Tutorial: Enable Bluetooth on Your Windows 7 Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/tech-tip-resolving-specified-module-couldnt-be-retrieved-problems-quickly/"><u>Tech Tip: Resolving 'Specified Module Couldn’t Be Retrieved' Problems Quickly</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-best-practices-for-silent-film-making-for-2024/"><u>The Best Practices for Silent Film Making for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/trouble-with-driver-power-state-failure-heres-how-to-fix-it/"><u>Trouble with Driver Power State Failure? Here’s How to Fix It!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-your-wacom-tablet-solutions-for-non-responsive-touch/"><u>Troubleshooting Your Wacom Tablet: Solutions for Non-Responsive Touch</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-iphone-camera-roll-synergy-with-snapchat-sharing/"><u>[Updated] 2024 Approved IPhone Camera Roll Synergy with Snapchat Sharing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-spectrasafe-uv-censor-webcam-shield/"><u>[Updated] 2024 Approved SpectraSafe UV-Censor Webcam Shield</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-how-to-solve-windows-10-photos-app-crashes-effectively/"><u>2024 Approved How to Solve Windows 10 Photos App Crashes Effectively</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-1053-corrected-enhancing-system-response-time-for-services/"><u>Error 1053 Corrected: Enhancing System Response Time for Services</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-directory-not-recognized-message-a-step-by-step-guide/"><u>Fixing the 'Directory Not Recognized' Message: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-for-the-troublesome-win32-app-crash-error-code-0x80070652/"><u>Quick Solutions for the Troublesome Win32 App Crash (Error Code: 0X80070652)</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-something-went-wrong-issue-when-restoring-or-refreshing-windows-10-a-comprehensive-guide/"><u>Resolving the 'Something Went Wrong' Issue When Restoring or Refreshing Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restarting-and-repairing-your-windows-7-sound-driver-issues/"><u>Restarting and Repairing Your Windows 7 Sound Driver Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723007723915-sea-of-thieves-stability-fix-no-more-crashes/"><u>Sea of Thieves Stability Fix: No More Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-when-your-geforce-experience-wont-load/"><u>Step-by-Step Solution for When Your GeForce Experience Won't Load</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-rise-of-chatgpt-navigating-the-potential-of-advanced-generative-algorithms/"><u>The Rise of ChatGPT: Navigating the Potential of Advanced Generative Algorithms</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-the-2024-broccoli-glitch-fix-in-destiny-2/"><u>The Ultimate Guide to the 2024 Broccoli Glitch Fix in Destiny 2</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-vivo-y100a-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Vivo Y100A</u></a></li>
+<li><a href="https://common-error.techidaily.com/untangling-the-causes-of-windows-11-update-failure-error-0xc1900208-a-complete-solution-guide/"><u>Untangling the Causes of Windows 11 Update Failure (Error 0Xc1900208) - A Complete Solution Guide</u></a></li>
 </ul></div>
 

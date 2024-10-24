@@ -1,7 +1,7 @@
 ---
 title: Overcoming Lag and Connection Failures in Minecraft's LAN Mode
-date: 2024-10-17T03:40:56.405Z
-updated: 2024-10-18T23:51:15.414Z
+date: 2024-10-17T21:35:32.574Z
+updated: 2024-10-24T19:16:01.654Z
 tags:
   - win11
   - win10
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/9009e7502f48b6a7260ab49e34d5c0ede3d2f18aa
 
  4) On your device, reconnect to your WiFi network.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Step 2: Check if the WiFi signal is blocked to fix WiFi not working**
 
  As we all know: the weaker your WiFi signal is, the worse your WiFi is working. So please pay attention if there is anything that may prevent your WiFi signal from being connected. You can check the possible conditions below:
@@ -115,6 +108,13 @@ netsh wlan show drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e56f9063046.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2)**Open a browser** on your PC or mobile phone, then type the**IP address** in your browser, and press**Enter** .
 
  3) Type your**Username** and**Password** , and click**Login** .
@@ -148,10 +148,10 @@ netsh wlan show drivers
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3760bf8ebf5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Right click **WiFi** (also referred to **Wireless Network Connection**  in different computers) , and click **Enable** .
@@ -169,6 +169,13 @@ netsh wlan show drivers
  1) On your keyboard, press the **Windows logo key** **\+ R**  at the same time to invoke the Run box, and type **services.msc** , then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e577bc99f89.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Scroll down and right click**WLAN AutoConfig** (if you are using Windows XP, right click**Wireless Configuration** ), and click**Properties** .
 
@@ -202,18 +209,18 @@ netsh wlan show drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a37813698434.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your problem is solved, it seems to be caused by Windows Firewall. Then you can allow your WiFi through Windows Firewall:
 
  1) Still on the**Windows Firewall window** , click **Turn Windows Firewall on or off** on the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a378387d395f.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Select**Turn on Windows Firewall** in all three columns, and click**OK** to save.
 
@@ -254,10 +261,16 @@ netsh wlan show drivers
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a376dd753425.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -287,24 +300,18 @@ netsh wlan show drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a38ef6db4e2f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **If you are using iPhone 6s and the earlier** : Press and hold both the**Power button** and**Home button** for at least ten seconds, sometimes up to 20 seconds, until you see the Apple logo.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a38f06b2d5e6.jpg)
 
  After restart your iPhone, try to connect to your WiFi to see if it works.
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 2: Forget WiFi network and connect again**
 
@@ -319,6 +326,13 @@ netsh wlan show drivers
  2) Tap your**WiFi name** , and tap**Forget this network** . Then confirm it by taping**Forget** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3772e43c8bb.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Wait for a few seconds.
 
@@ -340,13 +354,6 @@ netsh wlan show drivers
 
  3) Then your network will be reset. Connect to your WiFi again and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 4: Modify DNS on your iPhone**
 
  This method works when you can connect to your WiFi, but you can’t access to the Internet, or the WiFi speed slows down to a crawl. Changing the existing DNS server to Google DNS may work, because the Google DNS can help you get faster WiFi speed.
@@ -363,13 +370,6 @@ netsh wlan show drivers
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3775cd0285c.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Then try to connect to your WiFi again.
 
 ### **Method 5: Turn on WLAN Assist**
@@ -381,10 +381,10 @@ netsh wlan show drivers
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377694b3be6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) If WLAN Assist is off, tap the button to**turn it on** . If it’s already on, tap the button to**turn it off** , and then**turn it on again** .
@@ -412,18 +412,17 @@ netsh wlan show drivers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-boost-your-tiktok-presence-with-strategic-captioning-methods/"><u>[New] In 2024, Boost Your TikTok Presence with Strategic Captioning Methods</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-direct-playback-connecting-fb-vids-to-tvs-for-2024/"><u>[Updated] Direct Playback Connecting FB Vids to TVs for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/audio-glitch-on-win-1110-resolved-no-more-complaints/"><u>Audio Glitch on WIN 11/10 Resolved - No More Complaints</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211748854-cant-locate-your-sd-card-here-to-guide-you/"><u>Can't Locate Your SD Card? Here to Guide You</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-overcoming-video-playback-sounds-problem-for-youtube-users-on-windows-10-system/"><u>Guide to Overcoming Video Playback Sounds Problem for YouTube Users on Windows 10 System</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-realme-c67-4g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Realme C67 4G Phone?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-ingenious-ways-to-change-song-duration-in-spotify/"><u>In 2024, Ingenious Ways to Change Song Duration in Spotify</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-skys-new-choreographer-gopro-karma-takes-center-stage/"><u>In 2024, Sky's New Choreographer GoPro Karma Takes Center Stage</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726029596831-pcitunes/"><u>PC上iTunes音樂靜音 - 解決策與反擊方式</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-steps-for-bluetooth-connectivity-problems-and-missing-devices-on-windows-10-pcs/"><u>Solution Steps for Bluetooth Connectivity Problems and Missing Devices on Windows 10 PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-how-to-troubleshoot-and-repair-touchpad-scrolling-on-a-windows-10-laptop/"><u>Step-by-Step Guide: How to Troubleshoot and Repair Touchpad Scrolling on a Windows 10 Laptop</u></a></li>
-<li><a href="https://common-error.techidaily.com/system-random-stops-on-win11/"><u>System Random Stops on Win11</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/king-high-quality-videos-youtubes-enhancement-secrets-revealed/"><u>Unlocking High-Quality Videos YouTube's Enhancement Secrets Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-pubg-cannot-find-dxgidll-error/"><u>[Solved] PUBG Cannot Find dxgi.dll Error</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/adding-a-cinematic-touch-ken-burns-in-camtasa-9/"><u>Adding a Cinematic Touch Ken Burns in Camtasa 9</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/1723028046574-develop-a-research-timeline/"><u>Develop a Research Timeline</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/echo-dot-versus-homepod-mini-which-smart-speaker-wins-for-you/"><u>Echo Dot Versus HomePod Mini - Which Smart Speaker Wins for You?</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-broken-volume-controls-in-windows-10-solved/"><u>Effective Fixes for Broken Volume Controls in Windows 10 [Solved]</u></a></li>
+<li><a href="https://os-tips.techidaily.com/fixing-non-responsive-touch-screens-in-apples-ipad-ios-1110912-models/"><u>Fixing Non-Responsive Touch Screens in Apple's iPad (iOS 11/10/9/12) Models</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-critical-imaging-errors-in-your-windows-11-or-10-pc/"><u>How to Overcome Critical Imaging Errors in Your Windows 11 or 10 PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/hp-laptop-keyboard-malfunction-heres-how-to-fix-it-quickly/"><u>HP Laptop Keyboard Malfunction? Here's How to Fix It Quickly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-poco-c50-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Poco C50 Phone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-poco-c50-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-strategies-for-youtube-seo-titles-and-descriptions-for-2024/"><u>Winning Strategies for YouTube SEO Titles & Descriptions for 2024</u></a></li>
 </ul></div>
 

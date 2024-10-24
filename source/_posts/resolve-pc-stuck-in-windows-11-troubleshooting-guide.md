@@ -1,7 +1,7 @@
 ---
 title: "Resolve PC Stuck in Windows 11: Troubleshooting Guide"
-date: 2024-10-15T04:36:26.944Z
-updated: 2024-10-19T00:51:22.082Z
+date: 2024-10-21T17:46:54.817Z
+updated: 2024-10-24T19:47:12.613Z
 tags:
   - win11
   - win10
@@ -32,16 +32,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 4. **[Run DISM](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Check for hardware issues
@@ -55,13 +49,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Hardware and Devices troubleshooter
 
 **Windows Hardware and Devices Troubleshooter**  is a useful tool that helps us solve problems with our hardware and devices (keyboard in this case). Here’s how to**run Troubleshooter** :
@@ -71,10 +58,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. Locate and click on **Hardware and Devices** and click**Run the troubleshooter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad34d3dc21.jpg)
@@ -83,13 +70,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -109,6 +89,13 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, test your keyboard and hopefully it can catch up unfailingly this time. If yes, then congrats and enjoy typing! But if it’s still no joy, please move on to**Fix 4** , below.
@@ -124,6 +111,19 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 2. Type **the following command** and press **Enter** :  
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
@@ -153,24 +153,20 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-essential-tools-every-new-creator-needs/"><u>[New] 2024 Approved The Essential Tools Every New Creator Needs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-navigating-the-world-of-video-capturing-on-diverse-devices/"><u>[Updated] 2024 Approved Navigating the World of Video Capturing on Diverse Devices</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/1726222736270-gif-movavi/"><u>「もクリフェスト:オフライムGIFへの即時変換 -Movavi」</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-guide-downloading-your-logitech-m525-controller-drivers-and-tools/"><u>Easy Guide: Downloading Your Logitech M525 Controller Drivers and Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empowering-education-with-ai-the-top-5-ways-to-use-chatgpt-in-schools/"><u>Empowering Education with AI: The Top 5 Ways to Use ChatGPT in Schools</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-correcting-hp-accelerometer-error-on-windows-easy-fixes-for-smoother-performance/"><u>Guide to Correcting HP Accelerometer Error on Windows - Easy Fixes for Smoother Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-network-change-noted-alert-on-your-device/"><u>How to Resolve 'Network Change Noted' Alert on Your Device</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-note-30-vip-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Note 30 VIP to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-sd-compatibility-with-sony-a7s-ii/"><u>In 2024, Ultimate SD Compatibility with Sony A7S II</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-technique-reinitializing-laptop-or-desktop-keyboards-with-ease/"><u>Master the Technique: Reinitializing Laptop or Desktop Keyboards with Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-obs-gaming-screens-blackout-issue-solutions-and-best-practices/"><u>Mastering OBS Gaming Screens - Blackout Issue Solutions and Best Practices</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-and-effective-solutions-to-your-ps4-nat-error-woes-complete-walkthrough/"><u>Quick and Effective Solutions to Your PS4 NAT Error Woes - Complete Walkthrough</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-resetting-your-laptops-orientation-after-accidental-rotation/"><u>Step-by-Step Solution: Resetting Your Laptop's Orientation After Accidental Rotation</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-reconnecting-your-media-on-windows-devices/"><u>Step-by-Step Solutions: Reconnecting Your Media on Windows Devices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-secrets-behind-successful-hd-videos-on-social-networks-for-2024/"><u>The Secrets Behind Successful HD Videos on Social Networks for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-persistent-startup-errors-getting-your-machine-to-restart-after-windows-10-update/"><u>Troubleshooting Persistent Startup Errors - Getting Your Machine to Restart After Windows 10 Update</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-windows-11-and-10s-troublesome-error-code-0x80amooragef/"><u>Ultimate Fixes for Windows 11 and 10'S Troublesome Error Code 0X80amooragef</u></a></li>
-<li><a href="https://win-unique.techidaily.com/winpc2/"><u>フリーで簡単復元！イメージが消えてしまったらWinPCで2つの方法で完全に回収</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-unlocking-vlcs-potential-for-mpeg-4-and-diverse-file-alterations/"><u>[New] In 2024, Unlocking VLC's Potential for MPEG-4 and Diverse File Alterations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-satiating-the-social-hangry-with-hilarious-9gag-memes/"><u>[New] Satiating the Social Hangry With Hilarious 9GAG Memes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-perfect-obs-settings-for-low-cost-hardware/"><u>[Updated] In 2024, Perfect OBS Settings for Low-Cost Hardware</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-superior-iphone-editor-tools-pick-between-cameo-and-filmorago/"><u>[Updated] Superior iPhone Editor Tools Pick Between Cameo and FilmoraGo</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-spontaneous-restart-issues-on-windows-10-systems/"><u>Diagnosing Spontaneous Restart Issues on Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210428845-effective-ways-to-correct-and-stop-windows-update-error-code-0x802n4002e-from-affecting-your-pc/"><u>Effective Ways to Correct and Stop Windows Update Error Code 0X802n4002E From Affecting Your PC!</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-correctly-installing-device-drivers-during-your-windows-7-setup-process/"><u>Guide to Correctly Installing Device Drivers During Your Windows 7 Setup Process</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-scheduling-your-visit-with-ease-how-to-book-a-time-at-the-apple-store/"><u>Guide: Scheduling Your Visit with Ease - How to Book a Time at the Apple Store</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-ingenious-approaches-to-facebook-video-ad-crafting/"><u>In 2024, Ingenious Approaches to Facebook Video Ad Crafting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-guide-to-convert-avis-into-gifs-via-filmora-software-for-2024/"><u>Step-by-Step Guide to Convert AVIs Into GIFs via Filmora Software for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-fixing-your-playstation-vita-stylus-malfunctions-expert-advice-and-remedies/"><u>Step-by-Step Guide to Fixing Your PlayStation Vita Stylus Malfunctions: Expert Advice and Remedies</u></a></li>
+<li><a href="https://win-trending.techidaily.com/strategies-pour-prevenir-la-perte-involontaire-de-fichiers-entiers-pendant-le-tri-dans-vos-systemes-de-stockage/"><u>Stratégies Pour Prévenir La Perte Involontaire De Fichiers Entiers Pendant Le Tri Dans Vos Systèmes De Stockage.</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-fix-non-functional-keys-on-windows-1110-keyboards/"><u>Troubleshooting Guide: How to Fix Non-Functional Keys on Windows 11/10 Keyboards</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-resolve-errcachemiss-issues-in-google-chrome/"><u>Troubleshooting Guide: How to Resolve 'ERR_CACHE_MISS' Issues in Google Chrome</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-working-usb-peripherals-a-guide-for-windows-7-users/"><u>Troubleshooting Non-Working USB Peripherals: A Guide for Windows 7 Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Surface Pro 4 Camera Malfunction - Effective Fixes for Windows 10 Users
-date: 2024-09-10T16:46:33.141Z
-updated: 2024-09-14T19:04:33.386Z
+date: 2024-10-20T18:30:10.081Z
+updated: 2024-10-24T19:38:47.359Z
 tags:
   - win11
   - win10
@@ -62,6 +62,14 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 **4)**  Restart your computer and check to see if the problem is resolved.  
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 3: Re-pair your devices
 
  Your Surface Pen connects to your Surface Pro 4 via**Bluetooth** and it will stop working if the Bluetooth connection is defective. **Re-pairing** your Pen and your tablet can help you rebuild the connection:
@@ -70,13 +78,40 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f17e12c14a.png)
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Select**Devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f188db1b92.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Make sure the Bluetooth is**on** . Then select**Surface Pen** in the device list and select**Remove device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596f1dfe1b90f.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** **Press down** **and** **hold the top** of your Surface Pen for around**7** seconds. The light next to the Pen clip would flash if you are using an old model of Surface Pen. Or the light on the flat side would glow white if you are using a new model. Both mean your Surface Pro 4 has discovered your Surface Pen.
 
@@ -117,18 +152,16 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-decoding-srt-for-subc-effective-conversion-guide/"><u>[New] 2024 Approved Decoding SRT for SUBC Effective Conversion Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-perfected-approaches-to-capturing-remote-training-sessions/"><u>[Updated] In 2024, Perfected Approaches to Capturing Remote Training Sessions</u></a></li>
+<li><a href="https://common-error.techidaily.com/blizzard-availability-alert-offline/"><u>Blizzard Availability Alert: Offline</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-strategies-for-minimizing-gpu-drain-due-to-desktop-window-manager-on-pcs-with-windows-11/"><u>Efficient Strategies for Minimizing GPU Drain Due to Desktop Window Manager on PCs with Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-getting-back-online-with-amds-unreachable-settings-menu/"><u>Expert Tips: Getting Back Online with AMD's Unreachable Settings Menu</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-f04-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy F04 to Protect Your Individual Information</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-disappeared-mouse-icon-for-windows-10-users/"><u>How to Restore Disappeared Mouse Icon for Windows 10 Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-issues-with-your-iphones-email-a-comprehensive-guide/"><u>Solving Issues with Your iPhone's Email: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-how-to-repair-your-keyboard-when-it-fails-on-boot/"><u>Troubleshooting Guide: How to Repair Your Keyboard When It Fails on Boot</u></a></li>
+</ul></div>
 

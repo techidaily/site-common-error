@@ -1,7 +1,7 @@
 ---
 title: Patched PUBG's Dxgi.dll Hiccup with Ease
-date: 2024-10-17T17:35:07.179Z
-updated: 2024-10-19T03:04:28.192Z
+date: 2024-10-18T21:19:28.767Z
+updated: 2024-10-24T21:41:33.763Z
 tags:
   - win11
   - win10
@@ -54,10 +54,10 @@ Then click **Device Manager**  to open it.
 **Note:** If Roll Back Driver icon is grayed out, go to your touchpad manufacturer’s website to download an earlier version of the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Scroll still not working?
@@ -65,10 +65,10 @@ Then click **Device Manager**  to open it.
  If after rolling back driver, you still cannot use your touchpad scroll, please follow method 2 to update the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2\. Update your touchpad driver
@@ -84,10 +84,10 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_596486360d880.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) After scanning, you have 2 options.
@@ -99,10 +99,10 @@ Then click **Device Manager**  to open it.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_59658dc2dbeaa.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: After updating your touchpad driver, please reboot your Windows 10 to make the new driver take effect. Then check if you could use your touchpad scroll now.
@@ -127,16 +127,18 @@ Then click **Device Manager**  to open it.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-non-profit-gaming-soundtrack-sources/"><u>[New] 2024 Approved Non-Profit Gaming Soundtrack Sources</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-prime-facebook-extra-tools-secure-file-grabber-optimized-for-ff/"><u>[Updated] Prime Facebook Extra Tools Secure File Grabber, Optimized For FF</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-skyrocketing-video-performance-in-instagram-stories-mobile/"><u>[Updated] Skyrocketing Video Performance in Instagram Stories (Mobile)</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-setup-will-exit-unrecognized-os-message-with-proven-solutions/"><u>Bypass 'Setup Will Exit - Unrecognized OS' Message with Proven Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/ce-34878-0-bugs-in-ps4-heres-a-step-by-step-solution/"><u>CE-34878-0 Bugs in PS4? Here's a Step-by-Step Solution</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/centro-di-sincronizzazione-in-windows-11-risolto-come-riparare-il-collegamento/"><u>Centro Di Sincronizzazione in Windows 11 Risolto – Come Riparare Il Collegamento</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-common-error-messages-encountered-when-updatinginstalling-steam-games/"><u>Solving Common Error Messages Encountered When Updating/Installing Steam Games</u></a></li>
-<li><a href="https://common-error.techidaily.com/win11-update-issue-resolving-error-0xc19e208-quickly-and-easily-fixed/"><u>Win11 Update Issue: Resolving Error 0xC19e208 Quickly and Easily [FIXED]</u></a></li>
-<li><a href="https://common-error.techidaily.com/xinput13dll-vitality-and-implications-of-its-absence/"><u>XINPUT1_3.dll Vitality and Implications of Its Absence</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-quality-control-best-free-lut-selections-and-links-reviewed/"><u>[New] 2024 Approved Quality Control Best Free LUT Selections & Links Reviewed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-complete-guide-to-downloading-youtube-videos-to-iphone-or-ipad-for-2024/"><u>[Updated] A Complete Guide to Downloading YouTube Videos to iPhone or iPad for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-tutorial-installing-usb-30-drivers-on-windows-systems/"><u>Comprehensive Tutorial: Installing USB 3.0 Drivers on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnostics-policy-service-is-not-running-solved/"><u>Diagnostics Policy Service Is Not Running [Solved]</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-port-reset-failed-when-your-usb-isnt-working-on-windows-11/"><u>Fixing 'Port Reset Failed' When Your USB Isn’t Working on Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guida-allutilizzo-di-freecam-2024-download-gratuito-e-istruzioni-complete/"><u>Guida All'utilizzo Di FreeCam 2024: Download Gratuito E Istruzioni Complete</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-past-the-never-ending-startup-loop-in-valorant-tips-and-solutions/"><u>How to Get Past the Never-Ending Startup Loop in Valorant: Tips and Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/oddworld-soulstorm-for-pc-overcoming-crash-errors-and-ensuring-smooth-gameplay/"><u>Oddworld: Soulstorm for PC – Overcoming Crash Errors & Ensuring Smooth Gameplay</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-nokia-150-2023-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Nokia 150 (2023) Phones</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-error-loading-player-without-found-sources-for-windows-users/"><u>Troubleshooting Error Loading Player Without Found Sources for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-connecting-your-microsoft-dp-adapter-in-windows-10/"><u>Troubleshooting Guide: Connecting Your Microsoft DP Adapter in Windows 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-motorola-moto-g73-5g-by-drfone-android/"><u>Universal Unlock Pattern for Motorola Moto G73 5G</u></a></li>
 </ul></div>
 

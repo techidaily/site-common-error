@@ -1,7 +1,7 @@
 ---
 title: Resolving D3DERR Not Available Errors on Your Windows PC – Step-by-Step Guide
-date: 2024-09-08T16:00:00.355Z
-updated: 2024-09-15T16:00:14.972Z
+date: 2024-10-23T16:47:40.708Z
+updated: 2024-10-24T20:30:58.079Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134d88387db.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Scroll down to the **Choose which apps can access your microphone** section and **make sure the toggle for the app you’re playing the microphone on** is turned **On** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c134efbdffd8.jpg)
@@ -47,6 +54,19 @@ Here’s how to do it:
  4) Check your **SteelSeries Arctis 5 headset** and see if the **mic not working** problem has been resolved. If yes, then congrats! But if the problem persists, try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -62,15 +82,23 @@ Here’s how to do it:
 3. C  lick **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c135aa3e4b02.jpg)  
  You can also click**Update** to do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and check if the **SteelSeries Arctis 5 mic not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
@@ -84,18 +112,19 @@ To do so:
 2. Click the **Recording**   tab, then click on **Microphone SteelSeries Arctis 5 chat**   and click **Set Default** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32766b932.jpg)  
  If**Microphone SteelSeries Arctis 5 chat** doesn’t show up in the device list, then right-click on **the empty space** and tick **Show Disabled Devices** . Then right-click on **the microphone device**  once it appears and click **Enable** before you do step **2)** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click on **Microphone SteelSeries Arctis 5 chat**   and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c327f9d790.jpg)
 4. Click the **Levels**   tab, then drag **the Microphone slider**   all the way to _its top_   and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1356afb6e15.png)
 5. Click **OK**   to apply the changes in the windows.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Now that with microphone set as default device and the volume turned up, test your mic and see if the**SteelSeries Arctis 5 mic not working** problem has been fixed.
 
@@ -130,5 +159,26 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-the-less-loved-aspects-of-virtual-worlds-for-2024/"><u>[New] The Less-Loved Aspects of Virtual Worlds for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-keyboard-typing-wrong-letters/"><u>[SOLVED] Keyboard Typing Wrong Letters</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-journey-through-games-top-5-samsung-gear-vr-experiences/"><u>[Updated] 2024 Approved Journey Through Games - Top 5 Samsung Gear VR Experiences</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/crescendo-of-creativity-adding-audio-to-ig-stories-for-2024/"><u>Crescendo of Creativity Adding Audio to IG Stories for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/forgotten-sd-cards-reclaim-and-repair-them/"><u>Forgotten SD Cards? Reclaim & Repair Them</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/youtube-to-igtv-top-methods-unveiled/"><u>From YouTube to IGTV Top Methods Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-quickly-resolve-your-apex-legends-cheating-detection-glitch/"><u>How to Quickly Resolve Your Apex Legends Cheating Detection Glitch</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-advanced-hd-screenshot-and-recording-programs-guide/"><u>In 2024, Advanced HD Screenshot and Recording Programs Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-14-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi 14 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/master-the-art-of-face-concealment-techniques-for-blurring-visages-in-photographs/"><u>Master the Art of Face Concealment: Techniques for Blurring Visages in Photographs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003834344-pc-gamers-rejoice-pathfinders-latest-patch-resolves-freezing-issues/"><u>PC Gamers Rejoice! Pathfinder's Latest Patch Resolves Freezing Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203532007-quick-fix-tips-for-the-bluetooth-not-available-error-on-windows-11-computers/"><u>Quick-Fix Tips for the 'Bluetooth Not Available' Error on Windows 11 Computers.</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-ps4-connection-woes-with-this-detailed-nat-configuration-walkthrough/"><u>Resolve PS4 Connection Woes with This Detailed NAT Configuration Walkthrough</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revamping-audio-quality-overcoming-low-volume-mic-challenges/"><u>Revamping Audio Quality: Overcoming Low-Volume Mic Challenges</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-driverpowerstatefailure-problem-a-step-by-step-guide/"><u>Solving the DRIVER_POWER_STATE_FAILURE Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-persistent-problem-how-to-stop-your-mouse-from-constant-disconnection/"><u>Solving the Persistent Problem: How to Stop Your Mouse From Constant Disconnection</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-handling-non-registered-classes-on-windows-11/"><u>Step-by-Step Solution for Handling Non-Registered Classes on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolve-your-wi-fi-connection-issues-quickly/"><u>Troubleshooting Steps: Resolve Your Wi-Fi Connection Issues Quickly</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-discover-the-best-top-10-video-players-for-slow-motion-playback/"><u>Updated 2024 Approved Discover the Best Top 10 Video Players for Slow Motion Playback</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solve Your League of Legends Woes: Fixing the Sluggish Downloads Once and For All"
-date: 2024-09-11T00:47:18.062Z
-updated: 2024-09-15T07:16:56.097Z
+date: 2024-10-23T21:50:43.661Z
+updated: 2024-10-24T18:12:30.655Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ League of Legends is a world popular game, but the slow download speed can easil
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Launch as administrator
 
  The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, League of Legends can make full use of its features, running its function properly. So run it as an administrator to see if this fixes the slow download issue.
@@ -53,6 +60,19 @@ Downloading again to see if it works.
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Turn off Windows Firewall
 
  Windows Firewall supposes to protect your computer from malware, but sometimes it may cause trouble. It may block some features of League of Legends which result in low speed downloading. So you can try to turn off Windows Firewall to solve the “League of Legends download slow” issue.
@@ -63,6 +83,13 @@ Downloading again to see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/firewall.jpg)
 3. Click**Turn off Windows Defender Firewall (not recommended)** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/turn-off.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Re-download to check.
 
@@ -80,10 +107,10 @@ Re-download to check.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bonus: Update your drivers
@@ -117,19 +144,6 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/network.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -154,5 +168,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/op-3-beyond-youtube-innovative-videostreaming-communities-for-2024/"><u>[New] Top 3 Beyond Youtube Innovative Videostreaming Communities for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-ultimate-battle-of-video-capturing-apps/"><u>[Updated] 2024 Approved Ultimate Battle of Video Capturing Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-repairing-a-stand-alone-headphone/"><u>[Updated] Repairing a Stand-Alone Headphone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-elevating-your-youtube-presence-with-effective-tags/"><u>2024 Approved Elevating Your YouTube Presence with Effective Tags</u></a></li>
+<li><a href="https://common-error.techidaily.com/cursor-no-more-solutions-for-halting-persistent-blinking-issues/"><u>Cursor No More! Solutions for Halting Persistent Blinking Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-troubleshooting-steps-for-fixing-windows-error-651/"><u>Effective Troubleshooting Steps for Fixing Windows Error 651</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/effortless-downloads-at-zero-cost-find-the-top-20-tools-for-youtube-sound-ripping-for-2024/"><u>Effortless Downloads at Zero Cost Find the Top 20 Tools for YouTube Sound Ripping for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fix-for-troublesome-error-0x800f0831-using-windows-update-features/"><u>Effortless Fix for Troublesome Error 0X800F0831 Using Windows Update Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-recover-from-a-blackout-fixing-windows-11-screen-issues/"><u>How to Recover From a Blackout: Fixing Windows 11 Screen Issues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y27-4g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y27 4G</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-perplexing-case-of-unexpected-video-aspects-in-instagram/"><u>In 2024, The Perplexing Case of Unexpected Video Aspects in Instagram</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-the-no-disk-dilemma-in-nvidia-web-helper-proven-error-resolution-techniques/"><u>Overcome the 'No Disk' Dilemma in Nvidia Web Helper - Proven Error Resolution Techniques</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-launch-hurdles-a-guide-to-running-oddworld-soulstorm-without-crashes/"><u>Overcoming Launch Hurdles: A Guide to Running Oddworld: Soulstorm Without Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-non-detected-hdmi-devices-in-a-windows-10-setup/"><u>Overcoming the Challenge of Non-Detected HDMI Devices in a Windows 10 Setup</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-minecraft-mojang-error-code-5/"><u>Resolving Minecraft Mojang Error Code #5</u></a></li>
+<li><a href="https://common-error.techidaily.com/silent-streaming-fix-the-lack-of-sound-on-netflix-with-these-steady-steps/"><u>Silent Streaming? Fix the Lack of Sound on Netflix with These Steady Steps</u></a></li>
+</ul></div>
 

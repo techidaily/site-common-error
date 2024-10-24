@@ -1,7 +1,7 @@
 ---
 title: Fixing Memory Integrity Loss on Ftdibus Sys Due to Incompatible Drivers
-date: 2024-10-15T16:54:21.956Z
-updated: 2024-10-19T03:44:16.672Z
+date: 2024-10-20T18:27:23.417Z
+updated: 2024-10-24T20:56:15.804Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Reinstall ftdibus.sys driver
 
  ftdibus.sys is a system file for FTDI (Future Technology Devices International) USB devices, which are usually preinstalled on your computer chipset. So you may not recall using FTDI USB devices yourself, which makes it quite hard to update or reinstall the driver. But things don’t have to be like this: follow the instructions below to see how you can reinstall the ftdibus.sys driver:
@@ -45,35 +52,29 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-49.png)
 2. Type this command:**`pnputil.exe -d oem<NUMBER>.inf`** and hit**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The <NUMBER> here should be filled with the number you see on your computer. For instance, I’m seeing**51** , so my command should be**`pnputil.exe -d oem51.inf`** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-50.png)
 3. This is how the command looks like on my computer. Hit**Enter** when the command is typed in.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-51.png)
 4. When you see**Driver package deleted successfully** , restart your computer for the ftdibus.sys driver to be install automatically by Windows again.  
-![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-52.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-52.png)
 
  Go go the Core Isolation window again to see if the fdtibus.sys driver is still regarded as an incompatible driver that stops Memory Integrity from turning on. If so, please move on.
 
@@ -86,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
  There are mainly 2 ways you can update your fdtibus.sys driver: manually or automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Update your ftdibus.sys driver manually
@@ -105,6 +106,14 @@ To do so:
 3. Click to download the driver that works for your OS.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-54.png)
 4. When the driver download is done, unzip or extract the driver file folder, and right-click the**ftdibus.inf** file and select**Install** to run the driver installation.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-55.png)
 5. Restart your computer for the change to take effect.
 
@@ -120,13 +129,6 @@ To do so:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -156,21 +158,17 @@ Then check if your Memory Integrity can be turned on again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-exclusive.techidaily.com/recuperation-des-morceaux-elimines-de-spotify-un-guide-complet-comment-le-faire/"><u>« Récupération Des Morceaux Éliminés De Spotify : Un Guide Complet - Comment Le Faire ? »</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-the-complete-guide-to-structuring-effective-audio-xml/"><u>2024 Approved The Complete Guide to Structuring Effective Audio XML</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/t-mp3-to-youtube-3-steps-for-seamless-video-posting-for-2024/"><u>Direct MP3 to YouTube 3 Steps for Seamless Video Posting for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/discovering-joy-in-digital-connections-9-reasons-to-love-social-media/"><u>Discovering Joy in Digital Connections: 9 Reasons to Love Social Media</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-print-to-pdf-issues-on-windows-11-troubleshooting-guide/"><u>Fixing 'Print to PDF' Issues on Windows 11 – Troubleshooting Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-continuous-reboots-in-windows-11-and-10-systems-efficiently/"><u>How to Resolve Continuous Reboots in Windows 11 and 10 Systems Efficiently</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-a-step-by-step-guide-to-youtube-stats-analysis-via-social-blade-platform/"><u>In 2024, A Step-by-Step Guide to YouTube Stats Analysis via Social Blade Platform</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-t2x-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo T2x 5G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-xiaomi-redmi-k70-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Xiaomi Redmi K70 Pro Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/razer-kiyo-webcam-detailed-review/"><u>Razer Kiyo Webcam - Detailed Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/reinstating-lost-xinput13dll-a-step-by-step-approach/"><u>Reinstating Lost XINPUT1_3.dll: A Step-by-Step Approach</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-media-driver-issues-on-your-pc-essential-guide/"><u>Resolving Media Driver Issues on Your PC - Essential Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-solutions-for-quick-recovery-from-werfaultexe-system-crashes/"><u>Simple Solutions for Quick Recovery From werFault.exe System Crashes</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-remedies-for-when-your-laptops-usb-mouse-wont-work-restore-functionality-today/"><u>Top Remedies for When Your Laptop's USB Mouse Won't Work – Restore Functionality Today</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transform-your-chromebooks-auditory-experience-with-top-5-web-tools/"><u>Transform Your Chromebook's Auditory Experience with Top 5 Web Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlock-the-power-of-windows-11-maintenance-with-system-file-checker-and-dism-solutions/"><u>Unlock the Power of Windows 11 Maintenance with System File Checker and DISM Solutions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-navigate-the-maze-of-mp4-cutters-for-mac-creators/"><u>[Updated] 2024 Approved Navigate the Maze of MP4 Cutters for Mac Creators</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-top-10-filmora-traits-fueling-video-magic-for-2024/"><u>[Updated] The Top 10 Filmora Traits Fueling Video Magic for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-latest-tech-blog-movavi-screencapture-update/"><u>2024 Approved Latest Tech Blog Movavi ScreenCapture Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-reasons-behind-a-non-responsive-keyboard-on-your-dell-computer/"><u>Common Reasons Behind a Non-Responsive Keyboard on Your Dell Computer</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-rumors-on-teslas-autonomous-taxi-venture-cost-projections-launch-date-and-cutting-edge-features/"><u>Decoding Rumors on Tesla's Autonomous Taxi Venture - Cost Projections, Launch Date, and Cutting-Edge Features</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209112557-error-0x887a0006-dissected-your-blueprint-to-a-rapid-and-straightforward-repair/"><u>Error 0X887A0006 Dissected - Your Blueprint to a Rapid and Straightforward Repair</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-steps-getting-started-with-your-brand-new-pc/"><u>Essential Steps: Getting Started with Your Brand-New PC</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-the-quick-guide-to-stellar-disco-screen-names/"><u>In 2024, The Quick Guide to Stellar Disco Screen Names</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/on-device-intelligence-explained-concepts-and-mechanisms/"><u>On-Device Intelligence Explained: Concepts & Mechanisms</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-15-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone 15 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/rectifying-invalid-value-for-registry-errors-on-windows-10-to-restore-functionality-of-photo-viewer/"><u>Rectifying 'Invalid Value for Registry' Errors on Windows 10 to Restore Functionality of Photo Viewer</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-error-message-print-driver-host-stopped-running-on-32-bit-software/"><u>Resolved: Error Message - 'Print Driver Host Stopped Running' On 32-Bit Software</u></a></li>
 </ul></div>
 

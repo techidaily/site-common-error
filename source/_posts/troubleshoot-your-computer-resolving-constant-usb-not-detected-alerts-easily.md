@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Your Computer: Resolving Constant 'USB Not Detected' Alerts Easily"
-date: 2024-10-14T19:04:37.704Z
-updated: 2024-10-18T17:13:10.378Z
+date: 2024-10-23T21:09:07.045Z
+updated: 2024-10-24T20:35:12.427Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/8bb1efcd08c2d3c3707b37b1d9ac64c15c4d68acd
 **2)**  Disconnect all **peripherals**  (your printer, scanner, webcam, mouse, etc.).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/usb-g6d352e3ca_640.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Try turning on your computer again.
 
@@ -94,16 +87,22 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Wait for 5 minutes, and then reinstall your CMOS battery.
 
 5) Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 4: Restore your System to the Previous State
 
@@ -126,10 +125,10 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-13-05.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Follow the on-screen instructions to finish the restore.
@@ -137,10 +136,10 @@ The CMOS battery looks like this
  If you don’t have a restore point in System Restore, move on and try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 5: Repair Corrupted System Files
@@ -168,6 +167,13 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -178,10 +184,10 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-28-48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Type **SFC /Scannow** , and then press **Enter** .
@@ -193,10 +199,10 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_17-08-53.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Solution 6: Perform a Fresh Install
@@ -220,21 +226,24 @@ The CMOS battery looks like this
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-trending-upwards-todays-most-effective-instagram-tags/"><u>[New] 2024 Approved Trending Upwards Today's Most Effective Instagram Tags</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-techniques-to-surpass-instagrams-typical-video-limits/"><u>[New] In 2024, Techniques to Surpass Instagram's Typical Video Limits</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-windowsmac-execute-srt-files-with-ease-for-2024/"><u>[New] Windows/Mac Execute SRT Files with Ease for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-idea-ink-the-top-10-iosandroid-image-writing-tools/"><u>2024 Approved Idea Ink The Top 10 iOS/Android Image-Writing Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bumble-troubleshooting-what-to-do-when-you-cant-find-any-matches/"><u>Bumble Troubleshooting: What To Do When You Can't Find Any Matches</u></a></li>
-<li><a href="https://common-error.techidaily.com/critical-requirement-a-compatible-d3d11-graphics-processor-is-mandatory/"><u>Critical Requirement: A Compatible D3D11 Graphics Processor Is Mandatory</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/minimizing-gpu-demand-by-the-desktop-window-manager-in-windows-11-a-5-step-guide/"><u>Minimizing GPU Demand by the Desktop Window Manager in Windows 11: A 5-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-device-manager-code-28-issue-on-your-pc-a-step-by-step-guide/"><u>Resolving the Device Manager Code 28 Issue on Your PC - A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-problem-of-being-unable-to-connect-to-your-remote-server/"><u>Resolving the Problem of Being Unable to Connect to Your Remote Server</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-common-problems-and-solutions-for-an-unresponsive-xbox-one-headset/"><u>Solved! Common Problems and Solutions for an Unresponsive Xbox One Headset</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-5-solutions-to-reduce-gpu-load-caused-by-the-windows-desktop-window-manager/"><u>Top 5 Solutions to Reduce GPU Load Caused by the Windows Desktop Window Manager</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-made-easy-fixing-the-x0x80070652-error-during-windows-updates/"><u>Troubleshooting Made Easy: Fixing the X0X80070652 Error During Windows Updates</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-is-output-impedance/"><u>What Is Output Impedance?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-the-art-of-inserting-descriptive-commentary-in-youtube-videos/"><u>[New] In 2024, The Art of Inserting Descriptive Commentary in YouTube Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionary-marketing-tactics-keyword-essentials/"><u>[Updated] Revolutionary Marketing Tactics Keyword Essentials</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-unveiling-of-picsart-complete-users-guide/"><u>2024 Approved Full Unveiling of PicsArt Complete User's Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-tcl-32s325-roku-smart-led-tv-2019-a-blend-of-intelligence-and-design/"><u>Comprehensive TCL 32S325 Roku Smart LED TV (2019): A Blend of Intelligence and Design</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-resolved-dealing-with-incompatible-user-inputs-on-screen-devices/"><u>Error Resolved: Dealing With Incompatible User Inputs on Screen Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-strategies-for-curbing-dwms-heavy-resource-draw-in-windows-11/"><u>Essential Strategies for Curbing DWM's Heavy Resource Draw in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-eliminating-wow-gameplay-interruptions-and-delays/"><u>Expert Tips: Eliminating Wow Gameplay Interruptions and Delays</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-conversion-tools-change-mp4mpg-to-mpeg-format-online-with-ease/"><u>Free Conversion Tools - Change MP4/MPG to MPEG Format Online with Ease</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hear-and-engage-speech-technology-gratis-for-2024/"><u>Hear & Engage Speech Technology Gratis for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/hp-spectre-x360-overheating-troubleshooting-and-resolution-tips/"><u>HP Spectre X360 Overheating Troubleshooting and Resolution Tips</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-your-key-to-effortless-igtv-media-downloads/"><u>In 2024, Your Key to Effortless IGTV Media Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-drivers-available-for-canon-pixma-mg3022-free-downloads-and-installation-tips/"><u>Latest Drivers Available for Canon PIXMA MG3022 - Free Downloads & Installation Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/local-security-defenses-restored-ensure-safe-operations-today/"><u>Local Security Defenses Restored – Ensure Safe Operations Today!</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-errors-with-the-diagnostics-verification-service-a-complete-solution/"><u>Overcoming Errors with the Diagnostics Verification Service - A Complete Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-inability-to-exit-windows-11-on-your-desktop-computer-proven-tips-and-tricks/"><u>Resolving Inability to Exit Windows 11 on Your Desktop Computer - Proven Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-msvcp140dll-absence-correctly/"><u>Solving MSVCP140.dll Absence Correctly</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-resolve-fatal-errors-caused-by-dxgkrnl-during-video-loading/"><u>Step-by-Step Guide to Resolve Fatal Errors Caused by Dxgkrnl During Video Loading</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-realm-of-aether-explained-knowledge-you-need-to-connect-with-it/"><u>The Realm of Aether Explained: Knowledge You Need to Connect With It</u></a></li>
 </ul></div>
 

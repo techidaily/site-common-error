@@ -1,7 +1,7 @@
 ---
 title: FIX Bad Module Info Error Game Crash
-date: 2024-10-15T04:05:30.223Z
-updated: 2024-10-19T00:23:18.681Z
+date: 2024-10-22T21:08:34.845Z
+updated: 2024-10-24T18:57:26.348Z
 tags:
   - win11
   - win10
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 5. **[Delete Manifest txt files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Check for network connection
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 
  If network connection is not where the problem is, try the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Run your game as administrator
 
  In some cases, the game can’t be opened properly because it lacks higher permission from your PC, so try running Valorant as administrator is a possible method to solve the infinite loading problem.
@@ -60,21 +67,14 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-open-file-location.jpg)
 2. Under the**Compatibility** tab, tick the box**Run this program as an administrator** and then click**Apply** \>**OK**  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/VALORANT-run-as-ad.jpg)
 3. Now try to open the game again. If this method doesn’t work, navigate to the next below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
@@ -105,9 +105,24 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-scan.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and 30-day money back guarantee – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/DE-graphics.jpg)
 4. Restart your PC for the new graphics driver to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at <support@drivereasy.com>.
 
@@ -123,26 +138,12 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Appsfeatures-1.jpg)
 3. Click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/Valorant-Uninstall-1.jpg)
 4. Click**Uninstall** again in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/app-uninstall.jpg)
 5. After the Valorant application is successfully uninstalled. Reinstall it from the[**Valorant download page**](https://playvalorant.com/zh-tw/download/) .
 
  If this reinstalling process still doesn’t work for you, you may give the last fix a try.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Delete Manifest txt files
 
@@ -175,24 +176,24 @@ If this doesn’t solve your problem, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-amazing.techidaily.com/improve-your-pc-installing-qualcomms-atheros-ar3011-bluetooth-drivers-bluetooth-30/"><u>[Improve Your PC] Installing Qualcomm's Atheros AR3011 Bluetooth Drivers (Bluetooth 3.0)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-concept-to-curtain-call-scriptwriting-tips-for-successful-streams/"><u>[Updated] From Concept to Curtain Call Scriptwriting Tips for Successful Streams</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/a-glimpse-into-future-facebook-ad-tactics-for-24-for-2024/"><u>A Glimpse Into Future-Facebook Ad Tactics for '24 for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/avoid-data-disasters-with-steam-image-storage/"><u>Avoid Data Disasters with Steam Image Storage</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixed-error-1053-the-service-did-not-respond-to-the-start-or-control-request-in-a-timely-fashion/"><u>Fixed: Error 1053: The Service Did Not Respond to the Start or Control Request in a Timely Fashion</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-common-windows-update-failures-and-ensure-smooth-installation/"><u>How To Overcome Common Windows Update Failures And Ensure Smooth Installation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-honor-play-8t-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Honor Play 8T</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/liquid-nitrogen-cooling-enables-record-setting-runs-with-overclocked-ryzen-processor/"><u>Liquid Nitrogen Cooling Enables Record-Setting Runs with Overclocked Ryzen Processor</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/navigating-the-pinning-landscape-in-snapchat/"><u>Navigating the Pinning Landscape in Snapchat</u></a></li>
-<li><a href="https://common-error.techidaily.com/oddworld-soulstorm-freezes-and-errors-fixed-expert-tips-for-a-smooth-gaming-experience/"><u>Oddworld: Soulstorm Freezes and Errors Fixed: Expert Tips for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://common-error.techidaily.com/rectify-the-unable-to-establish-directx-9-device-message-in-windows/"><u>Rectify the 'Unable to Establish DirectX 9 Device' Message in Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-connectivity-issues-with-your-bluetooth-mouse-on-windows-pcs/"><u>Resolving Connectivity Issues with Your Bluetooth Mouse on Windows PCs</u></a></li>
-<li><a href="https://common-error.techidaily.com/solution-guide-reactivating-your-windows-update-service-quickly-and-easily/"><u>Solution Guide: Reactivating Your Windows Update Service Quickly and Easily</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210157199-trouble-with-windows-updates-heres-how-you-can-get-it-running-smoothly-again/"><u>Trouble with Windows Updates? Here's How You Can Get It Running Smoothly Again!</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-warframe-pc-game-crashes-steps-towards-a-solution/"><u>Troubleshooting Warframe PC Game Crashes: Steps Towards a Solution</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-resolving-this-action-requires-admin-approval-messages-on-windows-1078/"><u>Understanding and Resolving 'This Action Requires Admin Approval' Messages on Windows 10/7/8</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unsticking-standby-mode-a-comprehensive-guide-with-four-essential-tips-for-iphone-users/"><u>Unsticking Standby Mode: A Comprehensive Guide with Four Essential Tips for iPhone Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-gpt-plus-enhanced-ai-chatbot-us-only-us20-mo/"><u>Unveiling GPT-Plus: Enhanced AI ChatBot, U.S. Only (US$20 Mo)</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-elevate-your-storytelling-how-to-create-stunning-hollywood-style-videos-for-2024/"><u>Updated Elevate Your Storytelling How to Create Stunning, Hollywood-Style Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-windows-update-error-0x8024401c-in-windows-1111/"><u>[Fixed] Windows Update Error 0X8024401c in Windows 11/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-windows-10-stuck-or-not-updating/"><u>[Solved] Windows 10 Stuck or Not Updating</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-perfect-for-broadcasters-top-360-cameras-listed/"><u>[Updated] Perfect for Broadcasters Top 360° Cameras Listed</u></a></li>
+<li><a href="https://common-error.techidaily.com/bust-the-mystery-ps4-dualshock-wont-charge-lets-fix-it/"><u>Bust the Mystery: PS4 Dualshock Won't Charge - Let's Fix It</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/expert-tips-unleashing-your-potential-in-youtube-ads-for-2024/"><u>Expert Tips Unleashing Your Potential in YouTube Ads for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-to-overcome-xbox-accessory-driver-conflicts-in-windows-11-8-and-earlier-versions-windows-7/"><u>Guide to Overcome Xbox Accessory Driver Conflicts in Windows 11, 8 and Earlier Versions (Windows 7)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-chatgpt-became-an-overnight-sensation-5-reasons-behind-its-explosive-growth/"><u>How ChatGPT Became an Overnight Sensation: 5 Reasons Behind Its Explosive Growth</u></a></li>
+<li><a href="https://common-error.techidaily.com/immediate-fixes-how-to-repair-nonfunctional-keys-on-your-hp-notebook/"><u>Immediate Fixes: How to Repair Nonfunctional Keys on Your HP Notebook</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 14 Pro Max</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-how-to-insert-youtube-playlists-seamlessly-into-a-website/"><u>In 2024, How to Insert YouTube Playlists Seamlessly Into a Website</u></a></li>
+<li><a href="https://common-error.techidaily.com/managing-power-settings-how-to-keep-your-windows-10-computer-from-turning-on-alone/"><u>Managing Power Settings: How to Keep Your Windows 10 Computer From Turning On Alone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-basic-russian-salutations-and-vocabulary/"><u>Mastering Basic Russian Salutations and Vocabulary</u></a></li>
+<li><a href="https://common-error.techidaily.com/mitigating-system-cpu-spikes-on-windows-10/"><u>Mitigating System CPU Spikes on Windows 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/persistent-issues-with-pathfinders-wrath-of-the-righteous-frequent-crashes-resolved/"><u>Persistent Issues with Pathfinder's 'Wrath of the Righteous': Frequent Crashes Resolved?</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-0xa00f4292-windows-camera-issue-with-easy-troubleshooting-steps/"><u>Resolve 0xA00F4292 Windows Camera Issue with Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://common-error.techidaily.com/restore-your-windows-10-casting-functionality-a-comprehensive-guide/"><u>Restore Your Windows # 10 Casting Functionality - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-mystery-of-disconnected-blizzard-gaming-servers-a-step-by-step-solution/"><u>Solving the Mystery of Disconnected Blizzard Gaming Servers - A Step-by-Step Solution</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-correcting-windows-device-manager-error-code-28/"><u>Step-by-Step Guide: Correcting Windows Device Manager Error - Code 28</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-ultimate-list-10-best-animated-text-generators-for-stunning-results/"><u>Updated 2024 Approved The Ultimate List 10 Best Animated Text Generators for Stunning Results</u></a></li>
 </ul></div>
 

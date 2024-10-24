@@ -1,7 +1,7 @@
 ---
 title: Fixing Data Corruption with Cyclic Redundancy Check - A Step-by-Step Guide
-date: 2024-10-17T03:52:38.575Z
-updated: 2024-10-18T20:02:23.610Z
+date: 2024-10-20T21:17:11.216Z
+updated: 2024-10-24T17:37:11.974Z
 tags:
   - win11
   - win10
@@ -41,23 +41,9 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2dd58ac07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **Allow apps to access your microphone** section, make sure the toggle is **On** so that you can allow apps access to your microphone.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c2e3706918.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Scroll down to the **Choose which apps can access your microphone** section and make sure   **the toggle for the app you’re playing the microphone on** is turned **On** .
 
@@ -66,6 +52,13 @@ Here’s how to do it:
  4) Check the mic and see if the **microphone not working on laptop** issue has been resolved. If yes, then great! But if the microphone is still not working, you should try **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -80,26 +73,26 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c304ca6def.jpg)
 3. Click **Update Al** l to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c3059cb210.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your laptop and check if the **microphone not working** issue has been solved. If the problem lingers on, don’t worry. Here’re two more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your audio settings
 
@@ -114,15 +107,23 @@ To do so:
  If **your microphone device doesn’t show up in the device list** , then right-click on **the empty space**  and tick **Show Disabled Devices** . Then right-click on the microphone device once it appears and click **Enable** before you do step **2)** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click on **your microphone device again** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32c5b638d.jpg)
 4. Click the   **Levels**  tab, then drag   **the Microphone slider**  all the way to  _its top_  and click  **OK**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3c32e9ef2d6.png)
 5. Click **OK**  to apply the changes in the windows.
 6. Now that with**microphone set as default device** and**the volume turned up** , test your mic and see if the **microphone not working on laptop**  problem has been fixed. If it’s still not working right, move to**Fix 4** , below.
@@ -162,16 +163,18 @@ You can follow the steps below to narrow down and troubleshoot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-erasing-extra-borders-for-smooth-youtube-playback-for-2024/"><u>[Updated] Erasing Extra Borders for Smooth YouTube Playback for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-achieve-perfect-screen-captures-on-the-mi-11-lite/"><u>[Updated] In 2024, Achieve Perfect Screen Captures on the Mi 11 Lite</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-emoticon-experts-guide-to-capturing-and-preserving-twitters-gif-images/"><u>2024 Approved The Emoticon Expert’s Guide to Capturing and Preserving Twitter's GIF Images</u></a></li>
-<li><a href="https://common-error.techidaily.com/brightness-lacks-control-in-modern-windows-oses/"><u>Brightness Lacks Control in Modern Windows OSes</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-overcoming-shutdown-issues-in-windows-10-fixed/"><u>Expert Tips: Overcoming Shutdown Issues in Windows 10 [FIXED]</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-flaky-video-drivers-prevents-mc-crash/"><u>Fixing Flaky Video Drivers Prevents MC Crash</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-memetic-marvels-from-copycat-cartoons-to-originalist-oddities/"><u>In 2024, Metaverse Memetic Marvels - From Copycat Cartoons to Originalist Oddities</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-nvidia-rtx-3080-graphics-drivers-compatible-with-windows-1087/"><u>Latest NVIDIA RTX 3080 Graphics Drivers - Compatible with Windows 10/8/7</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimize-your-rig-for-flawless-play-addressing-stutters-and-lags-in-video-game-v/"><u>Optimize Your Rig for Flawless Play: Addressing Stutters and Lags in Video Game V</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-connection-problems-with-your-networks-dhcp-server/"><u>Overcoming Connection Problems with Your Network's DHCP Server</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-starting-a-hosted-wi-fi-connection-issues-in-windows-11-fixed/"><u>Resolved: Starting a Hosted Wi-Fi Connection Issues in Windows 11 - Fixed!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-fps-range-for-gradual-action-footage/"><u>[New] Prime FPS Range for Gradual Action Footage</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-mastering-yt-creator-hub-the-ultimate-playbook/"><u>[Updated] In 2024, Mastering YT Creator Hub The Ultimate Playbook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-hue-and-saturation-techniques/"><u>[Updated] Mastering Hue & Saturation Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-best-moba-games-on-android-top-10-selection/"><u>2024 Approved Best MOBA Games on Android - Top 10 Selection</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-reasons-behind-warno-game-malfunctions-and-pc-instability-explained/"><u>Common Reasons Behind Warno Game Malfunctions and PC Instability Explained.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206667143-overcoming-minecraft-performance-issues-caused-by-windows-graphics-driver-errors-fixed/"><u>Overcoming Minecraft Performance Issues Caused by Windows Graphics Driver Errors - Fixed!</u></a></li>
+<li><a href="https://games-able.techidaily.com/remedying-the-saggy-gpu-phenomenon/"><u>Remedying the 'Saggy' GPU Phenomenon</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-to-noise-troubles-forza-horizon-4-sound-glitch-solved/"><u>Say Goodbye to Noise Troubles: Forza Horizon 4 Sound Glitch Solved</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-for-troubleshooting-non-functioning-dell-sound-output/"><u>Solutions for Troubleshooting Non-Functioning Dell Sound Output</u></a></li>
+<li><a href="https://techtrends.techidaily.com/student-tech-hacks-claiming-your-lenovo-marked-down-deals-with-ease/"><u>Student Tech Hacks: Claiming Your Lenovo Marked-Down Deals with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-eliminating-recurring-usb-device-not-found-pop-ups-a-comprehensive-approach/"><u>Troubleshooting and Eliminating Recurring 'USB Device Not Found' Pop-Ups: A Comprehensive Approach</u></a></li>
+<li><a href="https://common-error.techidaily.com/unexplained-restarts-on-windows-10-pcs/"><u>Unexplained Restarts on Windows 10 PCs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Windows 11 Installation Failure: Resolve Error Code 802 #"
-date: 2024-09-13T17:54:16.933Z
-updated: 2024-09-14T23:44:35.313Z
+date: 2024-10-19T20:44:59.412Z
+updated: 2024-10-24T18:54:48.254Z
 tags:
   - win11
   - win10
@@ -101,12 +101,24 @@ Follow below steps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-the-efficiency-of-apple-macbook-air-with-m1-for-editors-for-2024/"><u>[New] The Efficiency of Apple MacBook Air with M1 for Editors for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-nba-live-your-ultimate-guide-to-15-streaming-methods/"><u>[Updated] In 2024, NBA Live Your Ultimate Guide to 15 Streaming Methods</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-advanced-techniques-for-capturing-ps3-gaming-adventures/"><u>2024 Approved Advanced Techniques for Capturing PS3 Gaming Adventures</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevate-presentations-with-melodic-additions/"><u>Elevate Presentations with Melodic Additions</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-microsofts-print-to-pdf-issue-on-windows-10-and-11-a-comprehensive-guide/"><u>Fixing Microsoft's Print to PDF Issue on Windows 10 & 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/semaphores-overdue-signal-fixed-end-the-0x8timeout-error-now/"><u>Semaphore's Overdue Signal Fixed! End the 0X8_Timeout Error Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-repairing-nonfunctional-hp-webcams-on-windows-11-systems/"><u>Step-by-Step Guide: Repairing Nonfunctional HP Webcams on Windows 11 Systems</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-techniques-for-turning-youtube-watchlists-upside-down/"><u>Top 4 Techniques for Turning YouTube Watchlists Upside Down</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-how-to-repair-a-non-responsive-spacebar-in-windows-10/"><u>Troubleshooting Fixes: How to Repair a Non-Responsive Spacebar in Windows 10</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unlocking-a-world-of-possibits-with-macbook-airs-screen-recording-feature-for-2024/"><u>Unlocking a World of Possibits with MacBook Air's Screen Recording Feature for 2024</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

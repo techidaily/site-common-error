@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Correct Easy Anti-Cheat Problems in Apex Legends
-date: 2024-10-16T05:24:00.348Z
-updated: 2024-10-18T17:34:13.564Z
+date: 2024-10-22T18:47:48.183Z
+updated: 2024-10-24T21:20:29.343Z
 tags:
   - win11
   - win10
@@ -51,21 +51,14 @@ No game can be immune to bugs and glitches, and this is particularly true with**
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Launch Apex Legends and check to see if the error has been fixed. If yes, then great! If the issue persists, please try**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Repair Apex Legends in Origin
@@ -82,10 +75,10 @@ Here are the steps to repair Apex Legends in Origin:
 4. Once done, run Apex Legends and see if the Easy Anti-Cheat error has been resolved. If it’s no joy, please continue with**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Run Apex Legends and Origin as Administrator
@@ -118,20 +111,22 @@ Here are the steps to repair Apex Legends in Origin:
 3. Browse through the list of Allowed apps and features to see if Easy Anti-Cheat and Apex Legends are included. If not, click**Change settings** , click**Allow another app…** , then follow the on-screen instructions to add the apps.  
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Snap5.png)
 4. Once completed, click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Check to see if the error still occurs. If it doesn’t, then congrats! If it’s still happening, please move on to**Fix 6** , below.
 
  If you have anti-virus software running in your computer, make sure you disable it temporarily too. While the role of an anti-virus program is hardly questionable, it’s known to conflict with other programs, rendering games unplayble.
@@ -147,6 +142,13 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-2.png)
 4. Open Apex Legends and hopefully the error is resolved. If not, please try**Fix 7** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Reinstall Apex Legends and Origin
 
  If you’ve exhausted the options above but the issue still sticks around, then you should perhaps reinstall the game and the Origin game launcher to see if you could put the error to rest.
@@ -159,10 +161,10 @@ Here are the steps to repair Apex Legends in Origin:
 3. Download and reinstall Apex Legends.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Launch the game to see if you can play without error.
@@ -173,30 +175,18 @@ Here are the steps to repair Apex Legends in Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-15.png)
 2. View Control Panel by **Category** , and then click **Uninstall a program** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2-14.png)
 3. Double-click **Origin** to uninstall it.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-6.png)
-4. Restart your Windows system when it is completed.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/3-6.png)
+4. Restart your Windows system when it is completed.
 
 5. **[Download](https://www.dm.origin.com/download)**  the latest version of Origin and then double-click the file you downloaded to reinstall it.
 6. Launch Apex Legends to see if you can play without error.
@@ -222,22 +212,24 @@ Here are the steps to repair Apex Legends in Origin:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-fix-confirmed-shorts-are-showing-up/"><u>[New] 2024 Approved Fix Confirmed Shorts Are Showing Up</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-cutting-edge-instagram-analysis-platforms-for-smarter-metrics-management/"><u>[New] In 2024, Cutting-Edge Instagram Analysis Platforms for Smarter Metrics Management</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-transform-your-viewers-experience-with-top-mac-streamers/"><u>[New] Transform Your Viewers' Experience with Top Mac Streamers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-tips-for-effective-mov-file-saving-on-windows-11/"><u>[Updated] 2024 Approved Tips for Effective MOV File Saving on Windows 11</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-mastering-youtube-live-top-webcam-selection-tips/"><u>[Updated] In 2024, Mastering YouTube Live Top Webcam Selection Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-microphone-issues-for-windows-10-users/"><u>Diagnosing and Resolving Microphone Issues for Windows 10 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/effective-solutions-for-correcting-issues-in-realteks-rtl8723be-device-drivers/"><u>Effective Solutions for Correcting Issues in Realtek's RTL8723BE Device Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/festivals-and-rituals/"><u>Festivals and Rituals</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixes-implemented-for-pubg-building-rendering-issues-enjoy-uninterrupted-gaming/"><u>Fixes Implemented For PUBG Building Rendering Issues - Enjoy Uninterrupted Gaming</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-non-compatible-data-entry-problems-with-monitors/"><u>How to Resolve Non-Compatible Data Entry Problems with Monitors</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Samsung Galaxy A24? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/initiating-admin-level-command-prompt-in-windows-11-pro/"><u>Initiating Admin-Level Command Prompt in Windows 11 Pro</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-11-casting-hurdles-a-comprehensive-fix-article/"><u>Overcoming Windows 11 Casting Hurdles: A Comprehensive Fix Article</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-no-driver-devices-detected-successful-steps-for-windows-7-setup/"><u>Resolving 'No Driver Devices Detected': Successful Steps for Windows 7 Setup</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-solution-to-the-troublesome-disk-read-error-in-windows-10/"><u>The Ultimate Solution to the Troublesome 'Disk Read Error' In Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-audio-problems-resolved-how-to-get-your-microphone-working-again/"><u>Windows 11 Audio Problems Resolved: How to Get Your Microphone Working Again</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-strategic-techniques-to-amplify-your-fb-giveaway-reach/"><u>[New] Strategic Techniques to Amplify Your FB Giveaway Reach</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-techniques-for-modifying-photo-genders-on-major-social-platforms-for-2024/"><u>[New] Techniques for Modifying Photo Genders on Major Social Platforms for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-audio-conversion-made-simple-youtube-to-mp3-mac-edition/"><u>[Updated] Audio Conversion Made Simple YouTube to MP3, Mac Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-first-steps-on-the-path-equipment-for-beginners/"><u>[Updated] First Steps on the Path Equipment for Beginners</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/action-herogo-black-vs-star-sj7-camera-for-2024/"><u>Action HeroGo Black Vs Star SJ7 Camera for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-captivating-livestreams-with-zoom-for-youtube-audiences/"><u>Crafting Captivating Livestreams with Zoom for YouTube Audiences</u></a></li>
+<li><a href="https://common-error.techidaily.com/destiny-2-launch-issues-heres-how-you-can-get-past-the-initializing-error/"><u>Destiny 2 Launch Issues? Here's How You Can Get Past the 'Initializing' Error</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-samsung-galaxy-xcover-7-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/efficient-fixes-overcoming-the-hamachi-stop-working-issue/"><u>Efficient Fixes: Overcoming the 'Hamachi Stop Working' Issue</u></a></li>
+<li><a href="https://common-error.techidaily.com/guaranteed-solution-to-stop-total-war-rome-remastered-from-crashing-during-play/"><u>Guaranteed Solution to Stop Total War: Rome Remastered From Crashing During Play</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-ensure-smooth-connection-between-airpods-and-windows-1011-operating-systems-expert-tips/"><u>How to Ensure Smooth Connection Between AirPods and Windows 10/11 Operating Systems : Expert Tips</u></a></li>
+<li><a href="https://facebook.techidaily.com/internet-sanctions-top-3-locations-where-facebook-is-forbidden/"><u>Internet Sanctions: Top 3 Locations Where Facebook Is Forbidden</u></a></li>
+<li><a href="https://common-error.techidaily.com/slash-overblown-wmi-power-draw/"><u>Slash Overblown WMi Power Draw</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-break-free-from-the-infinite-startup-loop-in-windows-11/"><u>Solved! How to Break Free From the Infinite Startup Loop in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-updates-error-0x80242016-in-win/"><u>Solving Updates' Error 0X80242016 in Win</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/thriving-in-stardew-insiders-guide-to-ginger-island/"><u>Thriving in Stardew Insider's Guide to Ginger Island</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubled-by-a-disappearing-taskbar-discover-the-best-fixes-for-restoring-icon-visibility-in-windows-10/"><u>Troubled by a Disappearing Taskbar? Discover the Best Fixes for Restoring Icon Visibility in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-permanent-start-up-delays-for-skyrim-players/"><u>Troubleshooting Permanent Start-Up Delays for Skyrim Players</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-user-profile-services-sign-in-problems-a-comprehensive-guide/"><u>Troubleshooting Windows 11 User Profile Services Sign-In Problems - A Comprehensive Guide</u></a></li>
 </ul></div>
 

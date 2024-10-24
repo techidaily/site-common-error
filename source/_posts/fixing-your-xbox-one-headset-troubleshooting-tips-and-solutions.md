@@ -1,7 +1,7 @@
 ---
 title: "Fixing Your Xbox One Headset: Troubleshooting Tips & Solutions"
-date: 2024-10-17T20:48:23.657Z
-updated: 2024-10-18T18:48:52.048Z
+date: 2024-10-23T20:14:36.993Z
+updated: 2024-10-24T18:28:25.445Z
 tags:
   - win11
   - win10
@@ -61,31 +61,39 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 3. CLICK **the box**   before   **Allow the computer to turn off this device to save power**  whether it’s checked or unchecked. Then click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b72a9e76e5de.png)
 4. Repeat this fix for ALL the USB Root Hubs on your Device Manager.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbec8afa4fc4.jpg)
 5. Reconnect your USB devices to the USB ports, then**reboot your computer** and check to see if they’re working properly. If the problem has been fixed, then congrats! If it persists, you should try**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update the drivers for your USB devices
@@ -105,13 +113,6 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bbeca937d3b9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -142,22 +143,24 @@ Tweaking the properties in **USB Root Hub**  devices is another proven effective
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-saving-videos-from-vlc-live-streaming/"><u>[New] In 2024, Saving Videos From VLC Live Streaming</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-chucklebox-build-memes-free-of-charge/"><u>[Updated] 2024 Approved ChuckleBox Build Memes Free of Charge</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-polishing-your-presentations-expert-video-editing-for-instagram/"><u>[Updated] Polishing Your Presentations Expert Video Editing for Instagram</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/tness-youtube-video-ideas-to-keep-you-and-your-viewers-moving/"><u>11 Fitness YouTube Video Ideas to Keep You and Your Viewers Moving</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-guide-restoring-functionality-of-non-working-webcam-on-a-lenovo-laptop/"><u>DIY Guide: Restoring Functionality of Non-Working Webcam on a Lenovo Laptop</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-latest-version-of-killer-wireless-drivers-v1535-now-fixed/"><u>Download the Latest Version of Killer Wireless Drivers v1535 – Now Fixed!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-it-tips-for-resolving-issues-with-a-broken-hdmi-connector-through-usb-ports/"><u>Fix It! Tips for Resolving Issues with a Broken HDMI Connector Through USB Ports</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-elitebook-x360-1030-g2-latest-driver-downloads/"><u>HP EliteBook X360 1030 G2 - Latest Driver Downloads</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nubia-red-magic-8s-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nubia Red Magic 8S Pro to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-the-unknown-and-slaying-beasts-an-analytical-review-of-monster-hunter-world/"><u>Navigating the Unknown and Slaying Beasts! An Analytical Review of Monster Hunter: World</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-connection-hurdles-effective-methods-to-connect-your-airpods-to-windows-11-a-2024-update/"><u>Overcoming Connection Hurdles: Effective Methods to Connect Your AirPods to Windows 11 - A 2024 Update</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/real-time-game-capture-aps4-strategies-in-obs/"><u>Real-Time Game Capture APS4 Strategies in OBS</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-your-missing-battery-indicator-on-windows-10-with-these-simple-fixes/"><u>Resolve Your Missing Battery Indicator on Windows 10 with These Simple Fixes</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-nonfunctional-at-sign-keyboard-problems/"><u>Step-by-Step Solution for Nonfunctional 'At Sign' Keyboard Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-improve-scanner-printer-conversation-epson/"><u>Steps to Improve Scanner-Printer Conversation (Epson)</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-windows-10-error-understanding-and-solving-code-80240020/"><u>Ultimate Fixes for Windows 10 Error: Understanding and Solving Code 80240020</u></a></li>
-<li><a href="https://common-error.techidaily.com/zap-freezes-quickly-enjoy-flawless-games/"><u>Zap Freezes Quickly - Enjoy Flawless Games</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-get-your-twitter-video-feed-ready-aspect-ratio-key/"><u>[New] 2024 Approved Get Your Twitter Video Feed Ready Aspect Ratio Key</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ecure-steps-for-skyrocketing-video-engagement-a-million-wins-strategy-for-2024/"><u>[New] Secure Steps for Skyrocketing Video Engagement A Million Wins Strategy for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlocking-the-power-of-memes-a-guide-to-creating-funny-videos-for-2024/"><u>[New] Unlocking the Power of Memes A Guide to Creating Funny Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-stellar-video-beginnings-with-free-tools/"><u>[Updated] In 2024, Crafting Stellar Video Beginnings with Free Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-how-do-i-peruse-all-the-video-and-photo-files-shared-by-friends/"><u>[Updated] In 2024, How Do I Peruse All the Video and Photo Files Shared by Friends?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-premium-flying-tech-available-right-now/"><u>2024 Approved Premium Flying Tech Available Right Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-techniques-for-debugging-and-repairing-opengl-errors-within-minecraft/"><u>Effective Techniques for Debugging and Repairing OpenGL Errors Within Minecraft</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-the-most-out-of-your-astro-a40-mic-common-issues-and-how-to-resolve-them/"><u>Getting the Most Out of Your Astro A40 Mic – Common Issues and How to Resolve Them</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oneplus-open-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast OnePlus Open Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-reactivate-your-computers-speakers-after-windows-7-update/"><u>How to Reactivate Your Computer's Speakers After Windows 7 Update</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-computers-unresponsive-shift-key-solutions-inside/"><u>How to Repair Your Computer's Unresponsive Shift Key - Solutions Inside!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-canva-creative-editor-exploration/"><u>In 2024, Canva Creative Editor Exploration</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-game-freezing-in-valorant-restart-advise/"><u>Overcome Game Freezing in Valorant: Restart Advise</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tream-setup-best-equipment-to-take-your-youtube-streams-to-the-next-level-for-2024/"><u>Pro Stream Setup Best Equipment to Take Your Youtube Streams to the Next Level for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723014950690-resolved-lack-of-audio-post-windows-10-upgrade-simple-fixes/"><u>Resolved: Lack of Audio Post-Windows 10 Upgrade – Simple Fixes</u></a></li>
+<li><a href="https://common-error.techidaily.com/solutions-to-reactivate-your-hp-laptops-camera-in-windows-11/"><u>Solutions to Reactivate Your HP Laptop's Camera in Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-final-word-on-crc-a-guide-to-correcting-and-preventing-data-errors/"><u>The Final Word on CRC - A Guide to Correcting and Preventing Data Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-sudden-computer-turnoffs-when-playing-games-windows-11-to-7-solutions/"><u>Troubleshooting Sudden Computer Turnoffs When Playing Games: Windows 11 to 7 Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-msda80dll-importance-and-maintenance-tips/"><u>Understanding MSDA80.DLL: Importance and Maintenance Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fixing Non-HDCP Compatible Monitors"
-date: 2024-10-17T03:20:47.401Z
-updated: 2024-10-19T00:38:52.114Z
+date: 2024-10-17T16:41:17.350Z
+updated: 2024-10-24T18:38:43.868Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solution 1: Boot your PC without Peripherals
 
  External peripherals can sometimes conflict with your system and trigger errors of all sorts. So before we dive into anything deeper, let’s start with the easiest solution: restarting your PC without peripherals.
@@ -49,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/01781fffdf7ecc74eaf5b3cf4180716493ded8344
 **2)**  Disconnect all **peripherals**  (your printer, scanner, webcam, mouse, etc.).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/usb-g6d352e3ca_640.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Try turning on your computer again.
 
@@ -72,13 +72,6 @@ RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Put your RAMs back into the slot one by one while trying to boot each time.
 
  If your computer starts without one or more of the RAMs, then it could be an issue with your RAM modules. Or in some cases, it is possible that your RAM module is fine, but one or more memory slots on your motherboard are defective. You may want to try removing the modules and placing them in different slots to find if one of the slots is faulty.
@@ -101,6 +94,13 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Wait for 5 minutes, and then reinstall your CMOS battery.
 
 5) Connect the AC power cord to the power supply, and then turn on your computer to see if your problem persists.
@@ -118,10 +118,10 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-11-44.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Open System Restore** .
@@ -132,16 +132,22 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-13-05.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Follow the on-screen instructions to finish the restore.
 
  If you don’t have a restore point in System Restore, move on and try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 5: Repair Corrupted System Files
 
@@ -169,10 +175,10 @@ The CMOS battery looks like this
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -184,16 +190,16 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-28-48.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **SFC /Scannow** , and then press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-18_12-29-41.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Type **DISM /Online /Cleanup-Image /RestoreHealth** , and then press **Enter** .
 
@@ -220,24 +226,24 @@ The CMOS battery looks like this
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-minecraft-homestead-blueprint-series/"><u>[New] In 2024, Minecraft Homestead Blueprint Series</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-videotwit2mp4-simple-conversion/"><u>[New] In 2024, VideoTwit2MP4 Simple Conversion</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-dissecting-wirecast-a-comprehensive-breakdown-and-comparisons-for-2024/"><u>[Updated] Dissecting WireCast A Comprehensive Breakdown & Comparisons for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-crafting-allure-in-online-visuals-for-beauty/"><u>2024 Approved Crafting Allure in Online Visuals for Beauty</u></a></li>
-<li><a href="https://common-error.techidaily.com/by-pass-elevation-prompts-enable-admin-control-for-seamless-windows-operation/"><u>By-Pass Elevation Prompts: Enable Admin Control for Seamless Windows Operation</u></a></li>
-<li><a href="https://common-error.techidaily.com/customization-features-restored-end-of-non-responsive-status/"><u>Customization Features Restored: End of 'Non-Responsive' Status</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-techniques-for-removing-microsofts-copilot-from-windows-11/"><u>Effective Techniques for Removing Microsoft's Copilot From Windows 11</u></a></li>
-<li><a href="https://video-capture.techidaily.com/essential-action-triumphs-the-top-games-compilation/"><u>Essential Action Triumphs The Top Games Compilation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/facilita-al-volante-scopri-larte-di-estrarre-immagini-dai-tuoi-videoclip-con-queste-11-soluzioni-facili-e-innovative/"><u>Facilità Al Volante: Scopri L'Arte Di Estrarre Immagini Dai Tuoi Videoclip Con Queste 11 Soluzioni Facili E Innovative</u></a></li>
-<li><a href="https://common-error.techidaily.com/ftdibus-sys-memory-integrity-off-due-to-incompatible-drivers/"><u>Ftdibus Sys: Memory Integrity Off Due to Incompatible Drivers</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-no-playable-sources-found-error-in-windows-media-player/"><u>How to Fix 'No Playable Sources Found' Error in Windows Media Player</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210932567-how-to-resolve-the-persistent-windows-store-error-0x80072ee7-proven-solutions-unveiled/"><u>How to Resolve the Persistent Windows Store Error 0X80072EE7: Proven Solutions Unveiled!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/iphone-tips-achieve-softened-images-in-4-easy-steps/"><u>IPhone Tips Achieve Softened Images in 4 Easy Steps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-photo-distortion-techniques-in-ps-for-2024/"><u>Mastering Photo Distortion Techniques in PS for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mf4770n-enhanced-support-for-windows-versions-108/"><u>MF4770n Enhanced Support for WIndows Versions 10/8</u></a></li>
-<li><a href="https://common-error.techidaily.com/rectifying-the-accelerated-scroll-movement-in-windows-11-file-explorer-ending-abrupt-jumps/"><u>Rectifying the Accelerated Scroll Movement in Windows 11 File Explorer – Ending Abrupt Jumps</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-strategies-to-reduce-svchostexe-netsvcs-impact-on-windows-computer-networking/"><u>Top Strategies to Reduce Svchost.exe NETSVCS Impact on Windows Computer Networking</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-image-display-problems-in-windows-1011-systems/"><u>Troubleshooting Image Display Problems in Windows 10/11 Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-windows-error-31-comprehensive-troubleshooting-techniques/"><u>Understanding Windows Error 31 - Comprehensive Troubleshooting Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-navigating-the-social-maze-tweets-plus-tumble-videos/"><u>[New] Navigating the Social Maze Tweets + Tumble Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-5-premier-photographers-and-videographers-mixing-tunes/"><u>[Updated] Explore 5 Premier Photographers & Videographers Mixing Tunes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-masterclass-refining-youtube-videos-through-imovie/"><u>[Updated] Masterclass Refining YouTube Videos Through iMovie</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-gt-10-pro-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from GT 10 Pro.</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-strategies-to-eliminate-audio-dropouts-during-discord-calls-a-2024-expert-guide/"><u>Comprehensive Strategies to Eliminate Audio Dropouts During Discord Calls: A 2024 Expert Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-windows-press-11s-startup-freeze-a-comprehensive-guide/"><u>Diagnosing and Resolving Windows Press 11'S Startup Freeze: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-bits.techidaily.com/exclusive-apowersoft-background-remover-contest-enter-now-for-a-chance-to-win-a-free-trial/"><u>Exclusive Apowersoft Background Remover Contest - Enter Now for a Chance to Win a Free Trial!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/head-to-head-analysis-of-leading-mac-dvd-ripping-tools-macx-dvd-ripper-pro-vs-mac-dvdripper-pro-vs-mac-the-ripper/"><u>Head-to-Head Analysis of Leading Mac DVD Ripping Tools: MacX DVD Ripper Pro vs Mac DVDRipper Pro vs Mac The Ripper</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-file-explorer-crashes-on-windows-11-complete-guide/"><u>How to Fix File Explorer Crashes on Windows 11 – Complete Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-on-your-laptops-native-speakers/"><u>How to Restore Audio on Your Laptop's Native Speakers</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-pc-maintenannoins-strategies-to-fix-critical-error-0xc0000098-in-windows/"><u>Mastering PC Maintenannoins: Strategies to Fix Critical Error 0xC0000098 in Windows</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/of-the-incredible-tools-hidden-under-final-cut-pro-x-we-bring-final-cut-pro-l-cuts-and-j-cuts-in-todays-article-learn-what-is-a-j-cut-in-final-cut-pro-along/"><u>Of the Incredible Tools Hidden Under Final Cut Pro X, We Bring Final Cut Pro L-Cuts and J-Cuts in Todays Article. Learn What Is a J-Cut in Final Cut Pro Along with an L-Cut and How to Do Them in FCPX</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-dilemma-of-forced-system-closes-on-windows-11-a-step-by-step-guide/"><u>Overcoming the Dilemma of Forced System Closes on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resetting-keyboards-made-simple-an-ultimate-tutorial/"><u>Resetting Keyboards Made Simple: An Ultimate Tutorial</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-connectivity-problems-with-microsofts-wireless-display-on-windows-11/"><u>Resolving Connectivity Problems with Microsoft's Wireless Display on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-high-cpu-usage-by-msmpengexe-on-windows-10-troubleshooting-guide/"><u>Solve High CPU Usage by MsMpEng.exe on Windows 10 - Troubleshooting Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixes-resolving-non-functioning-wacom-tablet-problems/"><u>Troubleshooting Fixes: Resolving Non-Functioning Wacom Tablet Problems</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-black-screen-troubleshooting-techniques-you-need-to-know/"><u>Windows 11 Black Screen Troubleshooting Techniques You Need to Know</u></a></li>
 </ul></div>
 

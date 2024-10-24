@@ -1,7 +1,7 @@
 ---
 title: Hamachi Trouble? Here's How You Can Fix a Stopped Service Error
-date: 2024-10-15T00:49:24.789Z
-updated: 2024-10-18T20:09:30.651Z
+date: 2024-10-17T20:40:38.766Z
+updated: 2024-10-24T21:31:08.386Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Enable the Windows Management Instrumentation (WMI) Service
 
  LogMeIn Hamachi is a certain type of application that needs the Windows Management Instrumentation service (WMI)’s help to run properly in the Windows system.  
@@ -57,10 +50,16 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap54.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click on**Windows Management Instrumentation** and click**Properties** .
@@ -71,34 +70,13 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click the**Apply** \>**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap52.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6) Run Hamachi to check the problem is still there or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Configure the LogMeIn Hamachi Tunneling Engine
 
@@ -107,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
  2) Type**services.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap54-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click on**LogMeIn Hamachi Tunneling Engine** and click the**Properties** .
 
@@ -120,22 +105,16 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap50.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Open the**File Explorer** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap62.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) In the address box, type “C:\\Program Files (x86)\\LogMeIn Hamachi”.
 
@@ -166,6 +145,13 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 4: Reinstall LogMeIn Hamachi
 
  The “Hamachi service stopped” error can be caused by inappropriate configuration when you installed Hamachi.  
@@ -192,6 +178,13 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 5: Create a startup to automatically restart the Hamachi service
 
  This method will lead you to create a script that helps you restart the Hamachi service automatically.
@@ -199,6 +192,13 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
  1) Click the Windows start button (if you hide the search field), type**notepad** in the search box and click**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap70.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Copy and paste below lines into Notepad.
 
@@ -216,6 +216,13 @@ exit
  Choose_C:WindowsSystem32_ as the save location and click**Save** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap71.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) On your keyboard, press the**Windows key** (with Windows logo on it) +**R** together to open the Run box.  
  Type**taskschd.msc** and click**OK** .
@@ -251,13 +258,6 @@ exit
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  13) Next time you start your computer, Hamachi will restart the service automatically.
 
 ---
@@ -274,16 +274,16 @@ OR
 **[Option 2 – Automatically (Recommended)](https://tools.techidaily.com/drivereasy/download/)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Option 1 –** **Download and install the driver manually**
@@ -326,24 +326,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-techno-gamers-income-revolution/"><u>[New] 2024 Approved Techno Gamers' Income Revolution</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-demystifying-the-instagram-video-constraint/"><u>[New] In 2024, Demystifying the Instagram Video Constraint</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-crafting-immersive-experiences-with-captions-on-stories-and-reels/"><u>[Updated] 2024 Approved Crafting Immersive Experiences with Captions on Stories & Reels</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-tricks-for-capturing-your-google-meeting-experience-flawlessly/"><u>[Updated] 2024 Approved Top Tricks for Capturing Your Google Meeting Experience Flawlessly</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-a-deep-dive-into-durecorders-full-range/"><u>2024 Approved A Deep Dive Into DuRecorder's Full Range</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypassing-the-connection-error-errconnectionrefused-with-illustrative-examples/"><u>Bypassing the Connection Error: ERR_CONNECTION_REFUSED with Illustrative Examples</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-a59-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo A59 5G Device SIM</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-windows-n10-unknown-usb-device-and-port-reset-errors/"><u>Effective Fixes for Windows N10: Unknown USB Device and Port Reset Errors</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-touchpad-issues-on-your-laptop-computer/"><u>Expert Tips for Repairing Touchpad Issues on Your Laptop Computer</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-error-this-operating-system-is-not-supported-setup-will-exit/"><u>Fix Error “This Operating System Is Not Supported. Setup Will Exit.”</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-quick-fix-engineering-qfe-issue-resolve-windows-update-error-code-0x80070002/"><u>Fixing the Quick Fix Engineering (QFE) Issue: Resolve Windows Update Error Code 0X80070002!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-zte-is-unlocked-by-drfone-android/"><u>How To Check if Your ZTE Is Unlocked</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-windows-cant-find-suitable-printer-driver-issue-effectively/"><u>How to Fix Windows Can't Find Suitable Printer Driver Issue Effectively</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-secrets-of-selective-zoom-sharpening-in-google-meet/"><u>In 2024, Secrets of Selective Zoom Sharpening in Google Meet</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-revolutionize-your-classroom-top-animation-tools-for-teachers/"><u>New Revolutionize Your Classroom Top Animation Tools for Teachers</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-no-audio-output-device-found-issue-on-windows-11/"><u>Resolving the 'No Audio Output Device Found' Issue on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/stop-antivirus-engine-msmpengexe-from-consuming-excessive-cpu-resources-in-windows-solved/"><u>Stop Antivirus Engine (MsMpEng.exe) From Consuming Excessive CPU Resources in Windows ˈ(SOLVED)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-a-non-functional-dell-camera-on-your-pc-windows/"><u>Troubleshooting a Non-Functional Dell Camera on Your PC (Windows)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-eliminating-the-black-screen-issue-in-star-wars-battlefront-ii/"><u>Troubleshooting Guide: Eliminating the Black Screen Issue in Star Wars Battlefront II</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-ultimate-checklist-for-twitter-video-posts/"><u>[New] In 2024, The Ultimate Checklist for Twitter Video Posts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ising-through-the-rankings-adding-highlight-channels-to-youtube/"><u>[New] Rising Through the Rankings Adding Highlight Channels to YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-budget-desktop-encoder-hacks-and-tips/"><u>[Updated] Budget Desktop Encoder Hacks and Tips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-transforming-your-videos-for-igtv-excellence-3-methods/"><u>[Updated] Transforming Your Videos for IGTV Excellence (3 Methods)</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207828919-getting-windows-update-running-again-heres-how-you-fix-it/"><u>Getting Windows Update Running Again? Here’s How You Fix It!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/online-ogg-formaat-omzetten-zonder-risicos-met-movavis-vrije-gratis-converter/"><u>Online OGG-Formaat Omzetten Zonder Risico's Met Movavi's Vrije Gratis Converter</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-activating-bluetooth-on-windows-7-operating-system/"><u>Quick Fix: Activating Bluetooth on Windows 7 Operating System</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-how-to-resolve-vac-could-not-confirm-your-gaming-activity/"><u>Solution: How to Resolve 'VAC Could Not Confirm Your Gaming Activity'</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-fixing-the-code-0xc0000098-issue-in-windows/"><u>Step-by-Step Solutions for Fixing the 'Code 0xC0000098' Issue in Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-pick-for-usb-30-enthusiasts-the-no-nonsense-aukey-hub-packaged-in-style-reviewed/"><u>Top Pick for USB 3.0 Enthusiasts: The No-Nonsense Aukey Hub, Packaged in Style Reviewed</u></a></li>
+<li><a href="https://common-error.techidaily.com/unraveling-fixes-for-the-troublesome-windows-update-failed-code-0x80244022-explained/"><u>Unraveling Fixes for the Troublesome 'Windows Update Failed' - Code 0X80244022 Explained</u></a></li>
+<li><a href="https://common-error.techidaily.com/win10-computers-restart-unpredictably/"><u>Win10 Computers Restart Unpredictably</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Keyboard Quirks Detected
-date: 2024-10-17T03:20:03.204Z
-updated: 2024-10-18T18:03:20.582Z
+date: 2024-10-21T18:40:09.571Z
+updated: 2024-10-24T16:13:35.306Z
 tags:
   - win11
   - win10
@@ -41,23 +41,9 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 4. Plug the power cable and the battery back into your laptop.
 5. Power on your computer. Then check to see if this fixes your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 2: Disable Filter Keys
 
 **Filter Keys** is a feature that makes your keyboard ignore brief or repeated keystrokes. It sometimes leads to the issue of the laptop keyboard not working. You can try**disabling Filter Keys** to sort this issue out.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Windows 10
 
@@ -65,43 +51,64 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_59819ff0e68f7.png)
 2. Click **Ease of Access** .  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a118a26bf.png)
 3. Click **Keyboard** .  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a1f8bb7c8.png)
 4. Disable the Filter Keys function (switch off**Filter Keys** or uncheck**Turn on Filter Keys** ).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2017/08/img_5981a38f0341d.png)
 5. Try your keyboard and see if disabling Filter Keys can restore your keyboard.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Windows 11
 
 1. On your keyboard, press the**Windows logo + I keys** simultaneously to open Settings.
 2. Go to**Accessibility > Keyboard** .![Windows 11 - disable filter keys via Settings](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Accessibility-Keyboard.jpg)
 3. Toggle**Off** Filter keys.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/win11-Filter-keys-Off.jpg)
 4. Now try using your keyboard and see if disabling Filter Keys can restore your keyboard.
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Update your keyboard driver
 
@@ -147,22 +154,18 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-enhancing-memories-date-insertion-techniques-for-photos-for-2024/"><u>[New] Enhancing Memories Date Insertion Techniques for Photos for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-the-art-of-movement-enhancing-your-photos-with-illustrators-motion-blur/"><u>[New] In 2024, The Art of Movement Enhancing Your Photos with Illustrator's Motion Blur</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-step-in-the-journey-to-mastering-discord-text-styles-for-2024/"><u>[New] Step-In The Journey to Mastering Discord Text Styles for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-free-music-unlocked-the-ultimate-library-for-videographers/"><u>[Updated] Free Music Unlocked The Ultimate Library for Videographers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-the-mold-how-to-create-a-standout-youtube-channel-name-for-2024/"><u>Breaking the Mold How to Create a Standout YouTube Channel Name for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-for-resolving-bluetooth-pairing-problems-on-windows-11/"><u>Effective Strategies for Resolving Bluetooth Pairing Problems on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723204581100-how-to-fix-windows-11s-hosted-network-startup-problem-solved/"><u>How to Fix Windows 11'S Hosted Network Startup Problem – Solved</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-vivavideo-review-the-users-perspective/"><u>In 2024, VivaVideo Review The User's Perspective</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-fusing-playlists-on-spotify-for-a-perfect-musical-journey/"><u>Mastering the Art of Fusing Playlists on Spotify for a Perfect Musical Journey</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/precision-and-affordability-combined-in-yn560iv-flash-review/"><u>Precision and Affordability Combined in YN560IV Flash Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-resolve-bootmgr-missing-blue-screen-with-helpful-images/"><u>Quick Solutions: Resolve 'BOOTMGR Missing' Blue Screen with Helpful Images</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-persistent-flicker-issues-on-your-windows-11-display/"><u>Resolving Persistent Flicker Issues on Your Windows 11 Display</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solution-why-cant-i-open-my-sims-4-game/"><u>Step-by-Step Solution: Why Can't I Open My Sims 4 Game?</u></a></li>
-<li><a href="https://common-error.techidaily.com/unstick-your-windows-update-clearing-that-persistent-100-barrier-now-solved/"><u>Unstick Your Windows Update: Clearing that Persistent 100% Barrier – Now Solved!</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-isnt-my-corsair-keyboard-lights-up-common-issues-and-repairs/"><u>Why Isn’t My Corsair Keyboard Lights Up? Common Issues and Repairs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/why-wont-my-game-of-stardew-valley-begin-quick-fixes-for-a-seamless-start/"><u>Why Won’t My Game of Stardew Valley Begin? Quick Fixes for a Seamless Start</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-upgrade-stuck-at-99-solved/"><u>Windows 11 Upgrade Stuck at 99% [Solved]</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-fbs-leading-charts-10-hot-music-videos-for-2024/"><u>[New] FB's Leading Charts 10 Hot Music Videos for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-to-light-your-youtube-video/"><u>[New] How To Light Your YouTube Video</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-free-android-calling-tools-ranked-by-cost/"><u>[New] Top Free Android Calling Tools Ranked by Cost</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-metaverse-chuckles-building-your-own-humorous-artifacts/"><u>[Updated] In 2024, Metaverse Chuckles Building Your Own Humorous Artifacts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-navigating-facebooks-high-def-download-routes/"><u>[Updated] In 2024, Navigating Facebook's High-Def Download Routes</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/creating-a-private-inbox-the-ultimate-tutorial-on-setting-up-anonymous-email-accounts-using-malwarefox/"><u>Creating a Private Inbox: The Ultimate Tutorial on Setting Up Anonymous Email Accounts Using MalwareFox</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-elon-musks-latest-venture-inside-insights-into-truthgpt-technology/"><u>Decoding Elon Musk’s Latest Venture: Inside Insights Into TruthGPT Technology</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-directx-failures-during-device-generation/"><u>How to Overcome DirectX Failures During Device Generation</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-infinix-smart-7-hd-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Infinix Smart 7 HD to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-speaker-pop-up-issues-on-your-computer-with-easy-fixes-for-windows-users/"><u>Overcome Speaker Pop-Up Issues on Your Computer with Easy Fixes for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-non-responsive-keyboard-during-system-startup/"><u>Resolved: Fixing Non-Responsive Keyboard During System Startup</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-fixing-usb-device-unrecognized-error-stop-warnings-now/"><u>Solution Steps: Fixing 'USB Device Unrecognized' Error - Stop Warnings Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-sudden-shutdowns-in-pcs-during-gaming-solutions-for-windows-11-to-7/"><u>Troubleshooting Sudden Shutdowns in PCs During Gaming - Solutions for Windows 11 to 7</u></a></li>
 </ul></div>
 

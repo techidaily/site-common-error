@@ -1,7 +1,7 @@
 ---
 title: "Fixing Microsoft's Print to PDF Issue on Windows 10 & 11: A Comprehensive Guide"
-date: 2024-10-14T02:50:42.556Z
-updated: 2024-10-19T01:44:41.436Z
+date: 2024-10-18T19:13:15.031Z
+updated: 2024-10-24T19:13:12.246Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Hardware and Devices troubleshooter
@@ -60,15 +60,22 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 3. Click**Next** and follow the on-screen instructions to fix the issues it detects.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Did Troubleshooter fix the keyboard lag issue successfully? If yes, then great! If it fails, you should try**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your keyboard driver
 
@@ -88,13 +95,6 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5ad5d867f97.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
  4) Restart your computer, test your keyboard and hopefully it can catch up unfailingly this time. If yes, then congrats and enjoy typing! But if it’s still no joy, please move on to**Fix 4** , below.
@@ -109,15 +109,21 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Type **the following command** and press **Enter** :  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **DISM.exe /Online /Cleanup-image /Restorehealth**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b30abe4b92d4.jpg)  
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait a while for the whole process to finish.
 3. Type **sfc /scannow**  and press **Enter** .
@@ -147,20 +153,21 @@ If you’re getting so frustrated that you have to type and then wait awfully lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/solved-computer-stuck-on-boot-screen/"><u>[SOLVED] Computer Stuck on Boot Screen</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-defeat-bot-intruders-elevate-video-engagement/"><u>2024 Approved Defeat Bot Intruders, Elevate Video Engagement</u></a></li>
-<li><a href="https://common-error.techidaily.com/easy-solutions-for-a-non-responsive-laptop-mouse/"><u>Easy Solutions for a Non-Responsive Laptop Mouse</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-fixes-for-total-war-rome-remastered-game-crashes-solutions-inside/"><u>Effective Fixes for Total War: Rome Remastered Game Crashes - Solutions Inside!</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-not-detected-issue-for-western-digital-my-passport-ultra-on-pcs-with-windows-os/"><u>Fixing the 'Not Detected' Issue for Western Digital My Passport Ultra on PCs with Windows OS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/idvd-conversion-essentials-how-to-digitize-and-duplicate-dvd-media-for-use-on-apples-ipad-devices/"><u>IDVD Conversion Essentials: How to Digitize and Duplicate DVD Media for Use on Apple's iPad Devices</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-comprehensive-report-editwave-suite-revamped/"><u>In 2024, Comprehensive Report EditWave Suite Revamped</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-m54-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy M54 5G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Tecno Spark 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-chatgpt-for-advanced-web-applications/"><u>Leveraging ChatGPT for Advanced Web Applications</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/optimal-8-camera-stands-for-ultra-hd-shooting/"><u>Optimal 8 Camera Stands for Ultra-HD Shooting</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-issues-with-your-windows-store-cache-a-comprehensive-guide/"><u>Resolving Issues with Your Windows Store Cache: A Comprehensive Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-mouse-pointer-vanishing-issues-in-windows-11-a-comprehensive-guide/"><u>Resolving Mouse Pointer Vanishing Issues in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-troubleshooting-successfully-removing-file-restrictions/"><u>Steam Troubleshooting: Successfully Removing File Restrictions</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-non-responsive-spacebar-issue-in-windows-10/"><u>Troubleshooting Guide: Fixing the Non-Responsive Spacebar Issue in Windows 10</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-elite-editing-selection-quality-software-for-youtubers/"><u>2024 Approved Elite Editing Selection Quality Software for YouTubers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-setting-up-a-stream-discord-edition-101/"><u>2024 Approved Setting Up a Stream Discord Edition 101</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-phantom-cursor-on-windows-11-a-step-by-step-solution-for-users/"><u>Fixing the Phantom Cursor on Windows 11: A Step-by-Step Solution for Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-apple-iphone-6s-plus-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the Apple iPhone 6s Plus Without Previous Owner?</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-unresponsive-numeric-keys-on-a-computer-keyboard/"><u>How to Repair Unresponsive Numeric Keys on a Computer Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-your-computers-inability-to-initialize-properly/"><u>How to Resolve Your Computer's Inability to Initialize Properly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-apple-iphone-6s-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your Apple iPhone 6s on MetroPCS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/melodic-merge-the-journey-through-crossfading-for-2024/"><u>Melodic Merge The Journey Through Crossfading for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-rotate-videos-in-a-flash-a-step-by-step-guide/"><u>New Rotate Videos in a Flash A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/magic-studio/"><u>PhotoMagic Studio</u></a></li>
+<li><a href="https://common-error.techidaily.com/ps4-connectivity-hurdles-a-thorough-guide-to-diagnosing-and-fixing-nat-types/"><u>PS4 Connectivity Hurdles? A Thorough Guide to Diagnosing & Fixing NAT Types</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204042973-quick-fixes-for-defective-usb-connections-expert-tips/"><u>Quick Fixes for Defective USB Connections - Expert Tips!</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-typing-experience-a-step-by-step-guide-to-restarting-your-keyboard/"><u>Revive Your Typing Experience: A Step-by-Step Guide to Restarting Your Keyboard</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-role-of-msda80dll-in-your-pcs-functionality-keep-or-remove/"><u>The Role of MSDA80.DLL in Your PC's Functionality - Keep or Remove?</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/the-ultimate-guide-how-to-quickly-activate-hibernation-on-windows-11/"><u>The Ultimate Guide: How To Quickly Activate Hibernation On Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/viking-vernacular-unveiling-the-lost-nordic-dialect/"><u>Viking Vernacular: Unveiling the Lost Nordic Dialect</u></a></li>
 </ul></div>
 

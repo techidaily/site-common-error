@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 'Incorrect Path Format' And 'Improper Directory Naming' Issues - Fixed!
-date: 2024-10-17T01:26:19.366Z
-updated: 2024-10-19T03:39:51.313Z
+date: 2024-10-23T22:23:45.278Z
+updated: 2024-10-24T22:23:59.529Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 3: Update or reinstall your drivers**
 
 #### A. Update your driver
@@ -93,22 +100,8 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu1-3.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or you can click the**Update** button next to the graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).![](https://images.drivereasy.com/wp-content/uploads/2019/06/gpu-3.jpg)
 4. Restart your computer, and see if the problem is fixed or not.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Option 2–Manually**
 
@@ -132,44 +125,25 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 3. In the Device Manager, click**Display adapters** , then right-click on the graphics card driver and click**Uninstall driver** .  
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/gc.jpg)
 4. Follow the on-screen instructions to finish the process. Download a previous driver from the manufacturer’s website and install it on your PC.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Restart your computer, and see if the problem is fixed or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 4: Close FAR(Fix Automata Resolution) Mod**
 
@@ -179,6 +153,13 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Change processor affinity
 
  According to practice and some users experiences, processor affinity can help users get rid of the crash. You can try this method, but if it works for you, you have to repeat it every time when you launch the game.
@@ -186,6 +167,14 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 1. Run the game, then press the**Windows logo key** +**R** together to open the run box.
 2. Type “taskmgr” and press**Enter** to open the Task Manager.![](https://images.drivereasy.com/wp-content/uploads/2019/06/task.jpg)
 3. Choose**Details** . Find Nier Automata.exe, right-click on it and click**Set affinity** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core.jpg)
 4. Select only**Core 0** and**Core 2** then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/core0.jpg)
@@ -212,18 +201,15 @@ When you are enjoying Nier Automata, but the**Nier Automata crashing** on your P
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-hidden-shot-snaps-keeping-your-captures-under-wraps/"><u>[Updated] In 2024, Hidden Shot Snaps Keeping Your Captures Under Wraps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-money-making-guide-on-social-media/"><u>[Updated] The Ultimate Money-Making Guide on Social Media</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-unlocking-the-potential-of-bandicam-your-ultimate-guide/"><u>2024 Approved Unlocking the Potential of Bandicam – Your Ultimate Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/conceptualizing-shorter-vids-for-instagram-with-mac-for-2024/"><u>Conceptualizing Shorter Vids for Instagram with Mac for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-overcoming-windows-11-version-0x80240034-update-errors-successfully/"><u>Guide: Overcoming Windows 11 Version 0X80240034 Update Errors Successfully</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-flickering-display-issues-in-windows-11-computers/"><u>How to Resolve Flickering Display Issues in Windows 11 Computers</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-your-wow-experience-avoiding-and-repairing-lags/"><u>Optimizing Your 'WoW' Experience: Avoiding and Repairing Lags</u></a></li>
-<li><a href="https://common-error.techidaily.com/seamless-sync-expert-advice-on-getting-airpods-to-connect-to-windows-11/"><u>Seamless Sync: Expert Advice on Getting AirPods to Connect to Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-solutions-to-fix-destiny-2-when-it-gets-stuck-during-startup/"><u>Step-by-Step Solutions to Fix Destiny 2 When It Gets Stuck During Startup</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-ultimate-fix-steps-to-take-when-your-torrent-wont-download/"><u>The Ultimate Fix: Steps to Take When Your Torrent Won't Download</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/unlocking-smooth-gameplay-the-ultimate-fixes-for-low-fps-in-escape-from-tarkov/"><u>Unlocking Smooth Gameplay: The Ultimate Fixes for Low FPS in Escape From Tarkov</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unbeatable-free-mp4-video-editors-top-10-list/"><u>Updated In 2024, Unbeatable Free MP4 Video Editors Top 10 List</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-youtube-vision-navigating-video-degrees-with-ease/"><u>[New] 2024 Approved YouTube Vision Navigating Video Degrees with Ease</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-dynamic-public-speaker-review-v8/"><u>[Updated] In 2024, Dynamic Public Speaker Review V8</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-on-how-to-get-your-huion-tablet-pen-working-again-with-these-5-troubleshooting-steps/"><u>Expert Tips on How to Get Your Huion Tablet Pen Working Again with These 5 Troubleshooting Steps</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-on-iphone-15-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID On iPhone 15 without Password?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/losung-fur-probleme-beim-wiedergeben-von-4k-videos-auf-pc-mac-und-mobilen-geraten-ein-leitfaden/"><u>Lösung Für Probleme Beim Wiedergeben Von 4K-Videos Auf PC, Mac Und Mobilen Geräten: Ein Leitfaden</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/real-time-video-broadcasts-accessing-content-using-hls-m3u8-stream-links/"><u>Real-Time Video Broadcasts: Accessing Content Using HLS M3U8 Stream Links</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-reactivate-a-malfunctioning-fn-key-on-lenovo-devices-step-by-step/"><u>Solved! How to Reactivate a Malfunctioning FN Key on Lenovo Devices - Step by Step</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723208354017-troubleshoot-and-fix-missing-bluetooth-in-windows-10-a-quick-solution/"><u>Troubleshoot and Fix Missing Bluetooth in Windows 10: A Quick Solution!</u></a></li>
+<li><a href="https://common-error.techidaily.com/understanding-and-fixing-constant-computer-mouse-connectivity-loss/"><u>Understanding and Fixing Constant Computer Mouse Connectivity Loss</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upgrading-to-iphone-16-pro-a-comprehensive-comparison-with-the-iphone-14-pro/"><u>Upgrading to iPhone 16 Pro? A Comprehensive Comparison with the iPhone 14 Pro</u></a></li>
 </ul></div>
 

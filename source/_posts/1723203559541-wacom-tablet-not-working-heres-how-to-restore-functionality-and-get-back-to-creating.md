@@ -1,7 +1,7 @@
 ---
 title: Wacom Tablet Not Working? Here's How to Restore Functionality and Get Back to Creating!
-date: 2024-10-14T21:36:31.737Z
-updated: 2024-10-19T02:30:21.550Z
+date: 2024-10-22T16:29:49.772Z
+updated: 2024-10-24T18:37:37.811Z
 tags:
   - win11
   - win10
@@ -80,6 +80,13 @@ In another version of BIOS, the procedure may go like this:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Roll back Lenovo PM Driver
 
  As many Windows 7 users reported, their Fn keys stop working right after a Windows update. If that’s the case for you, you should try to roll back your Lenovo PM (Power Management) driver. Here’s how:
@@ -87,6 +94,13 @@ In another version of BIOS, the procedure may go like this:
  1) On your keyboard, press the**Windows Logo key** and**R** at the same time to invoke the Run dialog box. Then, type in**devmgmt.msc** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-06-17_14-24-52.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In Device Manager, double-click on the**System devices** node to expand its drop-down list. Next, locate**Lenovo PM Device** and right-click on it. From the context menu, select**Properties** .
 
@@ -97,10 +111,10 @@ In another version of BIOS, the procedure may go like this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-141.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Go to the**Driver** tab and click**Roll Back Driver** .
@@ -114,13 +128,6 @@ In another version of BIOS, the procedure may go like this:
  Now it’s time to check whether your function keys have gone back to normal. If not, proceed to the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your chipset/keyboard drivers
 
@@ -159,30 +166,43 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-127.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) After updating your keyboard drivers, you should now make similar changes to the chipset drivers. In Device Manager, double-click**System devices** to expand its drop-down list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-128.png)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Scroll through the list to locate the items related to your motherboard chipsets, as illustrated below. (Your devices may not be exactly the same as those shown in the following screenshot. In this case, simply update the items of similar titles.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-129.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Right-click on each of these devices and select**Update driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-130.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  8) Repeat**Step3 through Step 4** to update your chipset driver.
 
@@ -206,23 +226,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-06-10_14-52-48-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-388.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** you can do it for free if you like, but it’s partly manual.
 
@@ -249,24 +255,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-a-roadmap-for-monetization-success-on-youtube-via-adsense/"><u>[New] 2024 Approved A Roadmap for Monetization Success on YouTube via AdSense</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-next-level-livestream-selecting-the-best-360-cameras/"><u>[Updated] 2024 Approved Next-Level Livestream Selecting the Best 360° Cameras</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-step-by-step-journey-of-becoming-an-ez-grabber-user/"><u>[Updated] The Step-By Step Journey of Becoming an EZ Grabber User</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726225749724-flvmp4movavi/"><u>線上自由Flv到Mp4再生的轉換方法：如何精通Movavi的改版技術</u></a></li>
-<li><a href="https://common-error.techidaily.com/complete-guide-to-overcome-windows-11-update-error-0xc1900208-easily/"><u>Complete Guide to Overcome Windows 11 Update Error 0XC1900208 Easily</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/effective-solutions-recovering-and-reinstating-pythons-essential-python24dll-library/"><u>Effective Solutions: Recovering and Reinstating Python's Essential python24.dll Library</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-the-non-working-mic-on-your-astro-a4n0/"><u>Expert Tips for Fixing the Non-Working Mic on Your Astro A4n0</u></a></li>
-<li><a href="https://common-error.techidaily.com/exploring-the-role-of-msdia80dll-file-in-your-system-do-you-need-to-retain-it/"><u>Exploring the Role of msdia80.dll File in Your System - Do You Need to Retain It?</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-chasers-guide-to-enjoying-gaming-on-the-go/"><u>Game Chasers' Guide to Enjoying Gaming on the Go</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-factory-reset-iphone-14-pro-and-ipad-without-apple-id-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Factory Reset iPhone 14 Pro and iPad Without Apple ID | Stellar</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-14-pro-max-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 14 Pro Max When You Forget the Passcode?</u></a></li>
-<li><a href="https://common-error.techidaily.com/minecraft-optimization-secrets-revealed-say-goodbye-to-frustrating-lags-for-good/"><u>Minecraft Optimization Secrets Revealed: Say Goodbye to Frustrating Lags for Good</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-laptop-battery-expert-tips-for-efficient-troubleshooting/"><u>Revive Your Laptop Battery: Expert Tips for Efficient Troubleshooting</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-xerox-update-glitch-error-code-0x800f020b-on-your-windows-pc/"><u>Solve Xerox Update Glitch (Error Code 0X800f020b) on Your Windows PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-complete-guide-solving-the-vanishing-point-windows-win10-mouse-pointer-problems/"><u>The Complete Guide: Solving the Vanishing Point - Windows ([Win|10]) Mouse Pointer Problems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-in-depth-hardware-analysis/"><u>Tom's Tech Reviews: In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-resolving-ethernet-connection-failed-in-windows-11-and-7/"><u>Troubleshooting Steps: Resolving 'Ethernet Connection Failed' In Windows 11 and 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-windows-error-code-31-solutions-and-tips/"><u>Troubleshooting Windows Error Code 31 - Solutions and Tips</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/wallet-wise-wonders-with-oneplus-buds/"><u>Wallet-Wise Wonders with OnePlus Buds</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-desktop-recording-head-to-head-obs-vs-shadowplay-for-2024/"><u>[New] Desktop Recording Head-to-Head OBS Vs. ShadowPlay for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mastering-facebook-live-embedding-techniques-on-websites/"><u>[Updated] 2024 Approved Mastering Facebook Live Embedding Techniques on Websites</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-press-pause-on-anxiety-with-these-games/"><u>[Updated] 2024 Approved Press Pause on Anxiety with These Games</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-essential-guide-to-asmr-for-sleep-enthusiasts/"><u>[Updated] In 2024, The Essential Guide to ASMR for Sleep Enthusiasts</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/leveraging-buyselladscom-for-effective-advertising-on-your-blog/"><u>Leveraging BuySellAds.com for Effective Advertising on Your Blog</u></a></li>
+<li><a href="https://common-error.techidaily.com/night-light-troubleshooting-guide-for-windows-11-users/"><u>Night Light Troubleshooting Guide for Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-challenges-opening-applications-via-internal-admin-accounts-successfully/"><u>Overcoming Challenges: Opening Applications via Internal Admin Accounts Successfully</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-0x800705b4-hurdle-a-users-guide-to-seamless-updates-on-windows-1nk/"><u>Overcoming the 0X800705b4 Hurdle: A User's Guide to Seamless Updates on Windows 1Nk</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pioneering-tomorrow-visionary-developments-in-vr-for-2024/"><u>Pioneering Tomorrow Visionary Developments in VR for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-lol-downloading-problem-fix-your-slow-riot-client/"><u>Solving the LoL Downloading Problem: Fix Your Slow Riot Client</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-load-by-the-desktop-window-manager-on-win10win11/"><u>Top 5 Solutions for Reducing GPU Load by the Desktop Window Manager on Win10/Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/towering-triumph-high-backed-gamer-seats/"><u>Towering Triumph: High-Backed Gamer Seats</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-what-to-do-when-your-computer-mouse-keeps-dropping-out/"><u>Troubleshooting: What to Do When Your Computer Mouse Keeps Dropping Out?</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-to-resolving-non-responsive-volume-buttons-on-windows-10/"><u>Ultimate Guide to Resolving Non-Responsive Volume Buttons on Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-v27-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V27 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/your-first-step-on-twitter-creating-an-account/"><u>Your First Step on Twitter Creating an Account</u></a></li>
 </ul></div>
 
